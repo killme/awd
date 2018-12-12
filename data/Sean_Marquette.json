@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Sweet Nothing (1995)",
+          "body": "${link_0} (1995)",
           "extra": "(1995)",
           "extra_text": "(1995)",
-          "links": [],
+          "links": [
+            {
+              "body": "Sweet Nothing",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0114592",
+                "page": "http://www.imdb.com/find?q=tt0114592"
+              }
+            }
+          ],
           "text": "Sweet Nothing (1995)",
-          "value": "Sweet Nothing",
+          "value": "${link_0}",
           "value_text": "Sweet Nothing"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0549826",
+                "page": "http://www.imdb.com/find?q=nm0549826"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Sean_Marquette",
+                "page": "http://en.wikipedia.org/wiki/Sean_Marquette"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/Sean-Marquette/112224732127364",
+                "page": "http://www.facebook.com/pages/Sean-Marquette/112224732127364"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -100,8 +143,401 @@
   ],
   "paragraphs": [
     {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar and the Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_and_the_Fire_Lord",
+            "page": "The_Avatar_and_the_Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Avatar: The Last Airbender credits",
+        "Teen Sozin"
+      ],
+      "text": "306. \"The Avatar and the Fire Lord\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar and the Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_and_the_Fire_Lord",
+            "page": "The_Avatar_and_the_Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "306. \"The Avatar and the Fire Lord\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "All My Children",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0065272",
+            "page": "http://www.imdb.com/find?q=tt0065272"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "All My Children"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Foster's Home for Imaginary Friends",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0419326",
+            "page": "http://www.imdb.com/find?q=tt0419326"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Foster's Home for Imaginary Friends"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "NYPD Blue",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106079",
+            "page": "http://www.imdb.com/find?q=tt0106079"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "NYPD Blue"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Rocket Power",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0244926",
+            "page": "http://www.imdb.com/find?q=tt0244926"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Rocket Power"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The 4400",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0389564",
+            "page": "http://www.imdb.com/find?q=tt0389564"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The 4400"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Titus",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0205700",
+            "page": "http://www.imdb.com/find?q=tt0205700"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Titus"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "High School",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1247667",
+            "page": "http://www.imdb.com/find?q=tt1247667"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "High School (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Love at First Hiccup",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1307065",
+            "page": "http://www.imdb.com/find?q=tt1307065"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Love at First Hiccup (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "American Son",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1037004",
+            "page": "http://www.imdb.com/find?q=tt1037004"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "American Son (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Remember the Daze",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0790618",
+            "page": "http://www.imdb.com/find?q=tt0790618"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Remember the Daze (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Grilled",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0409043",
+            "page": "http://www.imdb.com/find?q=tt0409043"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Grilled (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "The Toy Warrior",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0363141",
+            "page": "http://www.imdb.com/find?q=tt0363141"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Toy Warrior (2005)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "FusionFall",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1363369",
+            "page": "http://www.imdb.com/find?q=tt1363369"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "FusionFall (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0390163",
+            "page": "http://www.imdb.com/find?q=tt0390163"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts II: Final Mix+",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1018736",
+            "page": "http://www.imdb.com/find?q=tt1018736"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts II: Final Mix+ (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ultimate Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0479196",
+            "page": "http://www.imdb.com/find?q=tt0479196"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ultimate Spider-Man (video game)"
+    },
+    {
+      "body": "IMDb and Wikipedia credit ${link_0} as the voice for Teen Sozin in \"${link_1}\". The on-screen credits list Sean Marquette for the role.",
+      "links": [
+        {
+          "body": "Lex Lang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lex_Lang",
+            "page": "Lex_Lang"
+          }
+        },
+        {
+          "body": "The Avatar and the Fire Lord",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_and_the_Fire_Lord",
+            "page": "The_Avatar_and_the_Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "Sean Marquette",
+        "Selected other credits",
+        "Credits note"
+      ],
+      "text": "IMDb and Wikipedia credit Lex Lang as the voice for Teen Sozin in \"The Avatar and the Fire Lord\". The on-screen credits list Sean Marquette for the role."
+    },
+    {
       "body": "Marquette was born in Dallas, Texas, the son of Patricia Helen \"Tisha\" (n\u00e9e Marquette) and Jorge Luis \"George\" Rodriguez, a nuclear engineer. He is the youngest of the three Marquette brothers (himself, Chris, and Eric), all of whom are active in entertainment.",
       "links": [],
+      "section": [
+        "Sean Marquette",
+        "Biographical information"
+      ],
       "text": "Marquette was born in Dallas, Texas, the son of Patricia Helen \"Tisha\" (n\u00e9e Marquette) and Jorge Luis \"George\" Rodriguez, a nuclear engineer. He is the youngest of the three Marquette brothers (himself, Chris, and Eric), all of whom are active in entertainment."
     }
   ],

@@ -3,35 +3,40 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Legend of Korra",
       "target": {
-        "href": "Category_Legend_of_Korra",
+        "external": false,
+        "href": "/wiki/Category_Legend_of_Korra",
         "page": "Category_Legend_of_Korra"
       }
     },
     {
       "body": "Online games",
       "target": {
-        "href": "Category_Online_games",
+        "external": false,
+        "href": "/wiki/Category_Online_games",
         "page": "Category_Online_games"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Video games",
       "target": {
-        "href": "Category_Video_games",
+        "external": false,
+        "href": "/wiki/Category_Video_games",
         "page": "Category_Video_games"
       }
     }
@@ -39,35 +44,20 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "The following information is not considered to be part of ${link_0}.",
-      "links": [
-        {
-          "body": "the main continuity",
-          "key": "${link_0}",
-          "target": {
-            "href": "Avatar_Wiki_Continuity",
-            "page": "Avatar_Wiki_Continuity"
-          }
-        }
-      ],
-      "text": "The following information is not considered to be part of the main continuity."
-    },
-    {
-      "body": "The main menu for the game has options for \"characters\", \"quiz\", and \"instructions\".",
-      "links": [],
-      "text": "The main menu for the game has options for \"characters\", \"quiz\", and \"instructions\"."
-    },
-    {
       "body": "The Dark Into Light Trivia Game is a quiz that directly corresponds to the online game, ${link_0}.\u00a0When completed successfully, each quiz provides a five-part code which can be used in the game to unlock secret missions.",
       "links": [
         {
           "body": "Dark Into Light",
           "key": "${link_0}",
           "target": {
-            "href": "Dark_Into_Light",
+            "external": false,
+            "href": "/wiki/Dark_Into_Light",
             "page": "Dark_Into_Light"
           }
         }
+      ],
+      "section": [
+        "Dark Into Light Trivia Game"
       ],
       "text": "The Dark Into Light Trivia Game is a quiz that directly corresponds to the online game, Dark Into Light.\u00a0When completed successfully, each quiz provides a five-part code which can be used in the game to unlock secret missions."
     },
@@ -78,36 +68,50 @@
           "body": "Book Two: Spirits",
           "key": "${link_0}",
           "target": {
-            "href": "Book_Two__Spirits",
+            "external": false,
+            "href": "/wiki/Book_Two__Spirits",
             "page": "Book_Two__Spirits"
           }
         }
+      ],
+      "section": [
+        "Dark Into Light Trivia Game"
       ],
       "text": "This trivia game can be accessed from a mobile device or a personal computer. It was made available on Nick.com shortly before the premiere of Book Two: Spirits and removed from the site for a brief period of time following the finale."
     },
     {
       "body": "The game includes information on characters from the show and instructions on how to play, in addition to the quiz itself. The questions and answers provided on this page represent those found within the game and do not necessarily refer to accurate information.",
       "links": [],
+      "section": [
+        "Dark Into Light Trivia Game"
+      ],
       "text": "The game includes information on characters from the show and instructions on how to play, in addition to the quiz itself. The questions and answers provided on this page represent those found within the game and do not necessarily refer to accurate information."
     },
     {
       "body": "There was a section included in this trivia game that provided basic information on several characters from the second book.",
       "links": [],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Character information"
+      ],
       "text": "There was a section included in this trivia game that provided basic information on several characters from the second book."
-    },
-    {
-      "body": "The code from the first quiz shows various nations' insignias.",
-      "links": [],
-      "text": "The code from the first quiz shows various nations' insignias."
     },
     {
       "body": "The quiz was the main component of this game and was where all trivia questions pertaining to episodes are answered in order to receive access codes for Dark Into Light. Each quiz was meant to correspond to an episode, apart from the first quiz which encompasses the first two episodes, entitled \"Night of a Thousand Starts\". Every quiz consisted of ten randomized trivia questions pertaining to events that occurred in its respective episode, with each question having a time limit of twenty seconds.",
       "links": [],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz"
+      ],
       "text": "The quiz was the main component of this game and was where all trivia questions pertaining to episodes are answered in order to receive access codes for Dark Into Light. Each quiz was meant to correspond to an episode, apart from the first quiz which encompasses the first two episodes, entitled \"Night of a Thousand Starts\". Every quiz consisted of ten randomized trivia questions pertaining to events that occurred in its respective episode, with each question having a time limit of twenty seconds."
     },
     {
       "body": "All ten questions had to be answered correctly within the time allotted in order to obtain the secret code at the end of the trivia; if one question was answered incorrectly or was not answered within the given time, the quiz had to be retaken before the code was received. The same question would not be repeated in any one attempt.",
       "links": [],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz"
+      ],
       "text": "All ten questions had to be answered correctly within the time allotted in order to obtain the secret code at the end of the trivia; if one question was answered incorrectly or was not answered within the given time, the quiz had to be retaken before the code was received. The same question would not be repeated in any one attempt."
     },
     {
@@ -117,7 +121,8 @@
           "body": "Rebel Spirit",
           "key": "${link_0}",
           "target": {
-            "href": "Rebel_Spirit",
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
             "page": "Rebel_Spirit"
           }
         },
@@ -125,7 +130,8 @@
           "body": "The Southern Lights",
           "key": "${link_1}",
           "target": {
-            "href": "The_Southern_Lights",
+            "external": false,
+            "href": "/wiki/The_Southern_Lights",
             "page": "The_Southern_Lights"
           }
         },
@@ -133,10 +139,17 @@
           "body": "Appa",
           "key": "${link_2}",
           "target": {
-            "href": "Appa",
+            "external": false,
+            "href": "/wiki/Appa",
             "page": "Appa"
           }
         }
+      ],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Episode 01: Night of a Thousand Starts",
+        "Overview"
       ],
       "text": "This episode consisted of questions pertaining to both \"Rebel Spirit\" and \"The Southern Lights\". It\u00a0revealed the code Earth, Earth, Fire, Fire, Air which unlocked a secret mission in stage two, in which a stuffed Appa plush toy must be found."
     },
@@ -147,7 +160,8 @@
           "body": "Civil Wars, Part 1",
           "key": "${link_0}",
           "target": {
-            "href": "Civil_Wars%2c_Part_1",
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_1",
             "page": "Civil_Wars%2c_Part_1"
           }
         },
@@ -155,10 +169,17 @@
           "body": "Appa",
           "key": "${link_1}",
           "target": {
-            "href": "Appa",
+            "external": false,
+            "href": "/wiki/Appa",
             "page": "Appa"
           }
         }
+      ],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Episode 02: Civil Wars Pt. 1",
+        "Overview"
       ],
       "text": "This episode consisted of questions pertaining to \"Civil Wars, Part 1\". It\u00a0revealed the code Air, Fire, Earth, Air, Water which unlocked a secret mission in stage three, in which a stuffed Appa plush toy must be found."
     },
@@ -169,7 +190,8 @@
           "body": "Civil Wars, Part 2",
           "key": "${link_0}",
           "target": {
-            "href": "Civil_Wars%2c_Part_2",
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_2",
             "page": "Civil_Wars%2c_Part_2"
           }
         },
@@ -177,10 +199,17 @@
           "body": "Poki",
           "key": "${link_1}",
           "target": {
-            "href": "Poki",
+            "external": false,
+            "href": "/wiki/Poki",
             "page": "Poki"
           }
         }
+      ],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Episode 03: Civil Wars Pt. 2",
+        "Overview"
       ],
       "text": "This episode consisted of questions pertaining to \"Civil Wars, Part 2\". It\u00a0revealed the code Water, Water, Earth, Air, Fire which unlocked a secret mission in stage four, in which a stuffed Poki plush toy must be found."
     },
@@ -191,10 +220,17 @@
           "body": "Peacekeepers",
           "key": "${link_0}",
           "target": {
-            "href": "Peacekeepers",
+            "external": false,
+            "href": "/wiki/Peacekeepers",
             "page": "Peacekeepers"
           }
         }
+      ],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Episode 04: Peacekeepers",
+        "Overview"
       ],
       "text": "This episode consisted of questions pertaining to \"Peacekeepers\". It\u00a0revealed the code Earth, Water, Air, Fire, Fire which unlocked a secret mission in stage one, in which Tenzin must be found."
     },
@@ -205,10 +241,17 @@
           "body": "The Sting",
           "key": "${link_0}",
           "target": {
-            "href": "The_Sting",
+            "external": false,
+            "href": "/wiki/The_Sting",
             "page": "The_Sting"
           }
         }
+      ],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Episode 05: The Sting",
+        "Overview"
       ],
       "text": "This episode consisted of questions pertaining to \"The Sting\". It\u00a0revealed the code Fire, Air, Water, Air, Fire which unlocked a secret mission in stage four, in which 200 orbs must be collected without sustaining any damage."
     },
@@ -219,10 +262,17 @@
           "body": "Beginnings, Part 1",
           "key": "${link_0}",
           "target": {
-            "href": "Beginnings%2c_Part_1",
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
             "page": "Beginnings%2c_Part_1"
           }
         }
+      ],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Episode 06: Beginnings",
+        "Overview"
       ],
       "text": "This episode consisted of questions pertaining to \"Beginnings, Part 1\". It\u00a0revealed the code Earth, Air, Fire, Fire, Water which unlocked a secret mission in stage five, in which sixteen enemies must be defeated using melee attacks within a two-minute time limit."
     },
@@ -233,10 +283,17 @@
           "body": "The Guide",
           "key": "${link_0}",
           "target": {
-            "href": "The_Guide",
+            "external": false,
+            "href": "/wiki/The_Guide",
             "page": "The_Guide"
           }
         }
+      ],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Episode 07: The Guide",
+        "Overview"
       ],
       "text": "This episode consisted of questions pertaining to \"The Guide\". It\u00a0revealed the code Air, Water, Water, Fire, Earth which unlocked a secret mission in stage six, in which five enemies must be defeated while in the Avatar State."
     },
@@ -247,10 +304,17 @@
           "body": "A New Spiritual Age",
           "key": "${link_0}",
           "target": {
-            "href": "A_New_Spiritual_Age",
+            "external": false,
+            "href": "/wiki/A_New_Spiritual_Age",
             "page": "A_New_Spiritual_Age"
           }
         }
+      ],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Episode 08: A New Spiritual Age",
+        "Overview"
       ],
       "text": "This episode consisted of questions pertaining to \"A New Spiritual Age\". It\u00a0revealed the code Water, Fire, Air, Earth, Air which unlocked a secret mission in stage nine, in which a lizard spirit must be defeated."
     },
@@ -261,7 +325,8 @@
           "body": "Night of a Thousand Stars",
           "key": "${link_0}",
           "target": {
-            "href": "Night_of_a_Thousand_Stars",
+            "external": false,
+            "href": "/wiki/Night_of_a_Thousand_Stars",
             "page": "Night_of_a_Thousand_Stars"
           }
         },
@@ -269,10 +334,17 @@
           "body": "Harmonic Convergence",
           "key": "${link_1}",
           "target": {
-            "href": "Harmonic_Convergence_(episode)",
+            "external": false,
+            "href": "/wiki/Harmonic_Convergence_(episode)",
             "page": "Harmonic_Convergence_(episode)"
           }
         }
+      ],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Episode 09: Night of a Thousand Stars",
+        "Overview"
       ],
       "text": "This episode consisted of questions pertaining to both \"Night of a Thousand Stars\" and \"Harmonic Convergence\". It\u00a0revealed the code Fire, Water, Earth, Fire, Air."
     },
@@ -283,7 +355,8 @@
           "body": "Darkness Falls",
           "key": "${link_0}",
           "target": {
-            "href": "Darkness_Falls",
+            "external": false,
+            "href": "/wiki/Darkness_Falls",
             "page": "Darkness_Falls"
           }
         },
@@ -291,12 +364,108 @@
           "body": "Light in the Dark",
           "key": "${link_1}",
           "target": {
-            "href": "Light_in_the_Dark",
+            "external": false,
+            "href": "/wiki/Light_in_the_Dark",
             "page": "Light_in_the_Dark"
           }
         }
       ],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Episode 10: Harmonic Convergence",
+        "Overview"
+      ],
       "text": "This episode consisted of questions pertaining to both \"Darkness Falls\" and \"Light in the Dark\". It\u00a0revealed the code Earth, Water, Earth, Fire, Air."
+    },
+    {
+      "body": "The quiz claimed that Korra used airbending to pass through Unalaq's blockade. In truth, she used waterbending to create a massive wave that displaced the ships.",
+      "links": [],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Factual errors"
+      ],
+      "text": "The quiz claimed that Korra used airbending to pass through Unalaq's blockade. In truth, she used waterbending to create a massive wave that displaced the ships."
+    },
+    {
+      "body": "The quiz claimed that Korra wanted to convince General Iroh to send troops to the South. In truth, her main objective was to convince President Raiko.",
+      "links": [],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Factual errors"
+      ],
+      "text": "The quiz claimed that Korra wanted to convince General Iroh to send troops to the South. In truth, her main objective was to convince President Raiko."
+    },
+    {
+      "body": "The quiz claimed that Korra found Desna and Eska on her way to Varrick. In truth, Korra ran into Asami and did not encounter her cousins until she left for the Fire Nation.",
+      "links": [],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Factual errors"
+      ],
+      "text": "The quiz claimed that Korra found Desna and Eska on her way to Varrick. In truth, Korra ran into Asami and did not encounter her cousins until she left for the Fire Nation."
+    },
+    {
+      "body": "The quiz claimed that Lightning Bolt Zolt was present during the sting operation and had a conversation with Shady Shin which Mako overheard. In truth, Lightning Bolt Zolt was absent from the sting operation and it was ${link_0} conversing with Shady Shin.",
+      "links": [
+        {
+          "body": "Viper",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Viper",
+            "page": "Viper"
+          }
+        }
+      ],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Factual errors"
+      ],
+      "text": "The quiz claimed that Lightning Bolt Zolt was present during the sting operation and had a conversation with Shady Shin which Mako overheard. In truth, Lightning Bolt Zolt was absent from the sting operation and it was Viper conversing with Shady Shin."
+    },
+    {
+      "body": "The quiz claimed that Asami overheard the details of the triad's double-crossing. In truth, she was not present when this was revealed and was only made aware of the situation by Mako.",
+      "links": [],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Factual errors"
+      ],
+      "text": "The quiz claimed that Asami overheard the details of the triad's double-crossing. In truth, she was not present when this was revealed and was only made aware of the situation by Mako."
+    },
+    {
+      "body": "The quiz claimed that all spirits turned dark following Korra's tantrum. In truth, the dragon bird spirit and Iroh were not affected.",
+      "links": [],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "Quiz",
+        "Factual errors"
+      ],
+      "text": "The quiz claimed that all spirits turned dark following Korra's tantrum. In truth, the dragon bird spirit and Iroh were not affected."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dark Into Light",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dark_Into_Light",
+            "page": "Dark_Into_Light"
+          }
+        }
+      ],
+      "section": [
+        "Dark Into Light Trivia Game",
+        "See also"
+      ],
+      "text": "Dark Into Light"
     }
   ],
   "source": {

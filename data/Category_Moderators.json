@@ -3,7 +3,8 @@
     {
       "body": "Community",
       "target": {
-        "href": "Category_Community",
+        "external": false,
+        "href": "/wiki/Category_Community",
         "page": "Category_Community"
       }
     }
@@ -17,7 +18,8 @@
           "body": "moderator",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar_Wiki_Moderators",
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_Moderators",
             "page": "Avatar_Wiki_Moderators"
           }
         },
@@ -25,17 +27,54 @@
           "body": "Avatar Wiki",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar_Wiki_About",
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_About",
             "page": "Avatar_Wiki_About"
           }
         }
       ],
+      "section": [
+        "Category:Moderators"
+      ],
       "text": "These users have moderator rights on Avatar Wiki, a useful tool for moderating the forums."
     },
     {
-      "body": "All items (2)",
-      "links": [],
-      "text": "All items (2)"
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "User:HammerOfThor",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:HammerOfThor",
+            "page": "User:HammerOfThor"
+          }
+        }
+      ],
+      "section": [
+        "Category:Moderators",
+        "H"
+      ],
+      "text": "User:HammerOfThor"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "User:Tono555",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Tono555",
+            "page": "User:Tono555"
+          }
+        }
+      ],
+      "section": [
+        "Category:Moderators",
+        "T"
+      ],
+      "text": "User:Tono555"
     }
   ],
   "source": {

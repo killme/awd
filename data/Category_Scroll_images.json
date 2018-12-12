@@ -3,7 +3,8 @@
     {
       "body": "Images",
       "target": {
-        "href": "Category_Images",
+        "external": false,
+        "href": "/wiki/Category_Images",
         "page": "Category_Images"
       }
     }
@@ -17,17 +18,54 @@
           "body": "scroll",
           "key": "${link_0}",
           "target": {
-            "href": "Scroll",
+            "external": false,
+            "href": "/wiki/Scroll",
             "page": "Scroll"
           }
         }
       ],
+      "section": [
+        "Category:Scroll images"
+      ],
       "text": "Category containing all images of, or including, the scroll used on the wiki."
     },
     {
-      "body": "All items (2)",
-      "links": [],
-      "text": "All items (2)"
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "File:Characters.png",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/File:Characters.png",
+            "page": "File:Characters.png"
+          }
+        }
+      ],
+      "section": [
+        "Category:Scroll images",
+        "C"
+      ],
+      "text": "File:Characters.png"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "File:Zuko opens a scroll.png",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/File:Zuko_opens_a_scroll.png",
+            "page": "File:Zuko_opens_a_scroll.png"
+          }
+        }
+      ],
+      "section": [
+        "Category:Scroll images",
+        "Z"
+      ],
+      "text": "File:Zuko opens a scroll.png"
     }
   ],
   "source": {

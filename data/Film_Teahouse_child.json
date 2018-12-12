@@ -3,42 +3,48 @@
     {
       "body": "Articles to be expanded",
       "target": {
-        "href": "Category_Articles_to_be_expanded",
+        "external": false,
+        "href": "/wiki/Category_Articles_to_be_expanded",
         "page": "Category_Articles_to_be_expanded"
       }
     },
     {
       "body": "Under construction",
       "target": {
-        "href": "Category_Under_construction",
+        "external": false,
+        "href": "/wiki/Category_Under_construction",
         "page": "Category_Under_construction"
       }
     },
     {
       "body": "Needs help",
       "target": {
-        "href": "Category_Needs_help",
+        "external": false,
+        "href": "/wiki/Category_Needs_help",
         "page": "Category_Needs_help"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Characters (film)",
       "target": {
-        "href": "Category_Characters_(film)",
+        "external": false,
+        "href": "/wiki/Category_Characters_(film)",
         "page": "Category_Characters_(film)"
       }
     },
     {
       "body": "Fire Nation (film)",
       "target": {
-        "href": "Category_Fire_Nation_(film)",
+        "external": false,
+        "href": "/wiki/Category_Fire_Nation_(film)",
         "page": "Category_Fire_Nation_(film)"
       }
     }
@@ -56,7 +62,8 @@
               "body": "Fire Nation",
               "key": "${link_0}",
               "target": {
-                "href": "Film_Fire_Nation",
+                "external": false,
+                "href": "/wiki/Film_Fire_Nation",
                 "page": "Film_Fire_Nation"
               }
             }
@@ -107,7 +114,8 @@
               "body": "Fire Nation",
               "key": "${link_0}",
               "target": {
-                "href": "Film_Fire_Nation",
+                "external": false,
+                "href": "/wiki/Film_Fire_Nation",
                 "page": "Film_Fire_Nation"
               }
             }
@@ -144,7 +152,8 @@
               "body": "Fire Nation",
               "key": "${link_0}",
               "target": {
-                "href": "Film_Fire_Nation",
+                "external": false,
+                "href": "/wiki/Film_Fire_Nation",
                 "page": "Film_Fire_Nation"
               }
             }
@@ -159,12 +168,22 @@
       "key": "Portrayed by",
       "value": [
         {
-          "body": "Georgie DeNoto",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Georgie DeNoto",
+              "key": "${link_0}",
+              "target": {
+                "external": false,
+                "href": "/wiki/#",
+                "page": ""
+              }
+            }
+          ],
           "text": "Georgie DeNoto",
-          "value": "Georgie DeNoto",
+          "value": "${link_0}",
           "value_text": "Georgie DeNoto"
         }
       ]
@@ -172,23 +191,14 @@
   ],
   "paragraphs": [
     {
-      "body": "This page needs to be expanded in order to include more relevant information.",
-      "links": [],
-      "text": "This page needs to be expanded in order to include more relevant information."
-    },
-    {
-      "body": "This page is under construction. Please contribute in helping this page.",
-      "links": [],
-      "text": "This page is under construction. Please contribute in helping this page."
-    },
-    {
       "body": "The teahouse child is a ${link_0} colony resident who was asked by ${link_1} (in disguise) to recap the story of his exile after his ${link_2} duel to him and ${link_3}.",
       "links": [
         {
           "body": "Fire Nation",
           "key": "${link_0}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         },
@@ -196,7 +206,8 @@
           "body": "Zuko",
           "key": "${link_1}",
           "target": {
-            "href": "Film_Zuko",
+            "external": false,
+            "href": "/wiki/Film_Zuko",
             "page": "Film_Zuko"
           }
         },
@@ -204,7 +215,8 @@
           "body": "Agni Kai",
           "key": "${link_2}",
           "target": {
-            "href": "Agni_Kai",
+            "external": false,
+            "href": "/wiki/Agni_Kai",
             "page": "Agni_Kai"
           }
         },
@@ -212,12 +224,35 @@
           "body": "Iroh",
           "key": "${link_3}",
           "target": {
-            "href": "Film_Iroh",
+            "external": false,
+            "href": "/wiki/Film_Iroh",
             "page": "Film_Iroh"
           }
         }
       ],
+      "section": [
+        "Teahouse child"
+      ],
       "text": "The teahouse child is a Fire Nation colony resident who was asked by Zuko (in disguise) to recap the story of his exile after his Agni Kai duel to him and Iroh."
+    },
+    {
+      "body": "In the ${link_0} after recounting Zuko's Agni Kai duel, Zuko asked the boy, \"What would you feel if you were Prince Zuko?\". The boy said he would be ashamed, as he would have no honor.",
+      "links": [
+        {
+          "body": "movie novelization",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender_Movie_Novelization",
+            "page": "Film_The_Last_Airbender_Movie_Novelization"
+          }
+        }
+      ],
+      "section": [
+        "Teahouse child",
+        "Trivia"
+      ],
+      "text": "In the movie novelization after recounting Zuko's Agni Kai duel, Zuko asked the boy, \"What would you feel if you were Prince Zuko?\". The boy said he would be ashamed, as he would have no honor."
     }
   ],
   "source": {

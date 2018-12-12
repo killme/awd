@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Big Easy (1986)",
+          "body": "${link_0} (1986)",
           "extra": "(1986)",
           "extra_text": "(1986)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Big Easy",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0092654",
+                "page": "http://www.imdb.com/find?q=tt0092654"
+              }
+            }
+          ],
           "text": "The Big Easy (1986)",
-          "value": "The Big Easy",
+          "value": "${link_0}",
           "value_text": "The Big Easy"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0836365",
+                "page": "http://www.imdb.com/find?q=nm0836365"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Gary_Sturgis",
+                "page": "http://en.wikipedia.org/wiki/Gary_Sturgis"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/Gary-Sturgis/96402890023",
+                "page": "http://www.facebook.com/pages/Gary-Sturgis/96402890023"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/MovieStarG",
+                "page": "https://twitter.com/MovieStarG"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,28 +162,653 @@
   ],
   "paragraphs": [
     {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Zuko Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Avatar: The Last Airbender credits",
+        "Gow"
+      ],
+      "text": "207. \"Zuko Alone\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "America's Most Wanted: America Fights Back",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094415",
+            "page": "http://www.imdb.com/find?q=tt0094415"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "America's Most Wanted: America Fights Back"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman Beyond",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0147746",
+            "page": "http://www.imdb.com/find?q=tt0147746"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman Beyond"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "K-9 Cops",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1305354",
+            "page": "http://www.imdb.com/find?q=tt1305354"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "K-9 Cops"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Port Charles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118435",
+            "page": "http://www.imdb.com/find?q=tt0118435"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Port Charles"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Static Shock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247729",
+            "page": "http://www.imdb.com/find?q=tt0247729"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Static Shock"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The District",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247087",
+            "page": "http://www.imdb.com/find?q=tt0247087"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The District"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Fairly OddParents",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235918",
+            "page": "http://www.imdb.com/find?q=tt0235918"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Fairly OddParents"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Day of Redemption",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2584572",
+            "page": "http://www.imdb.com/find?q=tt2584572"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Day of Redemption (2013)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Joshua Tree",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1676934",
+            "page": "http://www.imdb.com/find?q=tt1676934"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Joshua Tree (2011)"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "Blokhedz Mission G Animated Web Series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1499209",
+            "page": "http://www.imdb.com/find?q=tt1499209"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Blokhedz Mission G Animated Web Series (2009; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Adventures of Umbweki",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1078276",
+            "page": "http://www.imdb.com/find?q=tt1078276"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Adventures of Umbweki (2009)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Daddy's Little Girls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0778661",
+            "page": "http://www.imdb.com/find?q=tt0778661"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Daddy's Little Girls (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Pride",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0475355",
+            "page": "http://www.imdb.com/find?q=tt0475355"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pride (2007)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Diary of a Mad Black Woman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0422093",
+            "page": "http://www.imdb.com/find?q=tt0422093"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Diary of a Mad Black Woman (2005)"
+    },
+    {
+      "body": "${link_0} (2005; short)",
+      "links": [
+        {
+          "body": "The Crib",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1478347",
+            "page": "http://www.imdb.com/find?q=tt1478347"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Crib (2005; short)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "Blaze",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096943",
+            "page": "http://www.imdb.com/find?q=tt0096943"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Blaze (1989)"
+    },
+    {
+      "body": "${link_0} (video - director and writer)",
+      "links": [
+        {
+          "body": "Double Crossed",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1645748",
+            "page": "http://www.imdb.com/find?q=tt1645748"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Double Crossed (video - director and writer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Evil Dead: A Fistful of Boomstick",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0317447",
+            "page": "http://www.imdb.com/find?q=tt0317447"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Evil Dead: A Fistful of Boomstick (video game)"
+    },
+    {
+      "body": "${link_0} (short - writer)",
+      "links": [
+        {
+          "body": "Feast of the Possessed",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3151678",
+            "page": "http://www.imdb.com/find?q=tt3151678"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Feast of the Possessed (short - writer)"
+    },
+    {
+      "body": "${link_0} (associate producer)",
+      "links": [
+        {
+          "body": "Joshua Tree",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1676934",
+            "page": "http://www.imdb.com/find?q=tt1676934"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Joshua Tree (associate producer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "House of Payne",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0773264",
+            "page": "http://www.imdb.com/find?q=tt0773264"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "House of Payne (writer)"
+    },
+    {
+      "body": "${link_0} (short - director)",
+      "links": [
+        {
+          "body": "Lend a Hand",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1279096",
+            "page": "http://www.imdb.com/find?q=tt1279096"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lend a Hand (short - director)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Meet the Browns",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1319598",
+            "page": "http://www.imdb.com/find?q=tt1319598"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Meet the Browns (writer)"
+    },
+    {
+      "body": "${link_0} (TV movie - associate producer)",
+      "links": [
+        {
+          "body": "Pimp 24/7",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1533798",
+            "page": "http://www.imdb.com/find?q=tt1533798"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Pimp 24/7 (TV movie - associate producer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Red Faction II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0340309",
+            "page": "http://www.imdb.com/find?q=tt0340309"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Red Faction II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Shout About Music",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0481424",
+            "page": "http://www.imdb.com/find?q=tt0481424"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Shout About Music (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0411906",
+            "page": "http://www.imdb.com/find?q=tt0411906"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man 2 (video game)"
+    },
+    {
+      "body": "${link_0} (short - director and writer)",
+      "links": [
+        {
+          "body": "The Devil Is My Witness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2475106",
+            "page": "http://www.imdb.com/find?q=tt2475106"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Devil Is My Witness (short - director and writer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "True Crime: New York City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462582",
+            "page": "http://www.imdb.com/find?q=tt0462582"
+          }
+        }
+      ],
+      "section": [
+        "Gary Sturgis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "True Crime: New York City (video game)"
+    },
+    {
       "body": "Sturgis is the second oldest son of four born to Abraham and Sarah Sturgis. He grew up in the Ninth Ward of New Orleans, Louisiana, and attended McDonogh Senior High School, where he played piccolo and served as drum major for the band. After writing an essay for a class assignment expressing his love and desire for acting, a teacher invited him to a table read for a play, and Sturgis was cast as the understudy. He later played the lead role in A Raisin in the Sun and soon landed roles in productions filmed in New Orleans such as Blaze and The Big Easy.",
       "links": [],
+      "section": [
+        "Gary Sturgis",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Sturgis is the second oldest son of four born to Abraham and Sarah Sturgis. He grew up in the Ninth Ward of New Orleans, Louisiana, and attended McDonogh Senior High School, where he played piccolo and served as drum major for the band. After writing an essay for a class assignment expressing his love and desire for acting, a teacher invited him to a table read for a play, and Sturgis was cast as the understudy. He later played the lead role in A Raisin in the Sun and soon landed roles in productions filmed in New Orleans such as Blaze and The Big Easy."
     },
     {
       "body": "In 1992, Sturgis married his college sweetheart, Jennifer Grimes, whom he met at University of New Orleans. The pair moved to Los Angeles, where she landed a job as an assistant talent agent at a top-tier talent agency, and Sturgis was signed at the agency shortly thereafter. They have two sons, Evan and Dane.",
       "links": [],
+      "section": [
+        "Gary Sturgis",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "In 1992, Sturgis married his college sweetheart, Jennifer Grimes, whom he met at University of New Orleans. The pair moved to Los Angeles, where she landed a job as an assistant talent agent at a top-tier talent agency, and Sturgis was signed at the agency shortly thereafter. They have two sons, Evan and Dane."
     },
     {
       "body": "In the mid-1990s, Sturgis began booking voice-over jobs in commercials and trailers. He served as the voice of the Monday night, and later Tuesday night, lineup on the now defunct UPN network, promoting such shows as The Parkers, Moesha, Half & Half, Girlfriends, and The Hughleys. In 1997 and 1998, he was also the daily announcer for the late night talk show VIBE, starring Chris Spencer and, later, comedian Sinbad. Sturgis never had a contract for either job, stating that he would just \"keep coming everyday [sic] until they tell me to stop\". This lasted for the duration of the network and the talk show respectively.",
       "links": [],
+      "section": [
+        "Gary Sturgis",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In the mid-1990s, Sturgis began booking voice-over jobs in commercials and trailers. He served as the voice of the Monday night, and later Tuesday night, lineup on the now defunct UPN network, promoting such shows as The Parkers, Moesha, Half & Half, Girlfriends, and The Hughleys. In 1997 and 1998, he was also the daily announcer for the late night talk show VIBE, starring Chris Spencer and, later, comedian Sinbad. Sturgis never had a contract for either job, stating that he would just \"keep coming everyday [sic] until they tell me to stop\". This lasted for the duration of the network and the talk show respectively."
     },
     {
       "body": "Sturgis graced the cover of Hollywood Reporter in 2002 in celebration of his voice-over work. In addition to promos for network TV, he also did several trailers for Hollywood films, such as Bones, The Wood, Crossroads, Two Can Play That Game, and The Others. He has also played a number of animated roles in films, including Static Shock, Scooby Doo and The Cyber Chase, Batman Beyond, Batman: The Brave and the Bold, and The Fairly OddParents: Wishology, and video game titles, such as Shout About Music, True Crime, Evil Dead, Spider-Man 2, and Red Faction.",
       "links": [],
+      "section": [
+        "Gary Sturgis",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Sturgis graced the cover of Hollywood Reporter in 2002 in celebration of his voice-over work. In addition to promos for network TV, he also did several trailers for Hollywood films, such as Bones, The Wood, Crossroads, Two Can Play That Game, and The Others. He has also played a number of animated roles in films, including Static Shock, Scooby Doo and The Cyber Chase, Batman Beyond, Batman: The Brave and the Bold, and The Fairly OddParents: Wishology, and video game titles, such as Shout About Music, True Crime, Evil Dead, Spider-Man 2, and Red Faction."
     },
     {
       "body": "In October 2008, Sturgis began working as a staff writer for Tyler Perry Studios on the shows Tyler Perry's House of Payne and Meet the Browns, both on TBS. This would mark his first professional writing job. His first credited episode of Tyler Perry's House of Payne aired on December 16, 2008. In February 2009, he worked on Blokhedz, an animated web series on Missiong.com, providing the voice of Biskit, the leader of the biker gang Wild Dawgs.",
       "links": [],
+      "section": [
+        "Gary Sturgis",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In October 2008, Sturgis began working as a staff writer for Tyler Perry Studios on the shows Tyler Perry's House of Payne and Meet the Browns, both on TBS. This would mark his first professional writing job. His first credited episode of Tyler Perry's House of Payne aired on December 16, 2008. In February 2009, he worked on Blokhedz, an animated web series on Missiong.com, providing the voice of Biskit, the leader of the biker gang Wild Dawgs."
     }
   ],

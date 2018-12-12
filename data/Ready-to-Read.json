@@ -3,35 +3,40 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Books",
       "target": {
-        "href": "Category_Books",
+        "external": false,
+        "href": "/wiki/Category_Books",
         "page": "Category_Books"
       }
     },
     {
       "body": "Print publications",
       "target": {
-        "href": "Category_Print_publications",
+        "external": false,
+        "href": "/wiki/Category_Print_publications",
         "page": "Category_Print_publications"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Ready-to-Read series",
       "target": {
-        "href": "Category_Ready-to-Read_series",
+        "external": false,
+        "href": "/wiki/Category_Ready-to-Read_series",
         "page": "Category_Ready-to-Read_series"
       }
     }
@@ -45,7 +50,8 @@
           "body": "Avatar: The Last Airbender",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         },
@@ -53,45 +59,35 @@
           "body": "Book Three: Fire",
           "key": "${link_1}",
           "target": {
-            "href": "Book_Three__Fire",
+            "external": false,
+            "href": "/wiki/Book_Three__Fire",
             "page": "Book_Three__Fire"
           }
         }
       ],
+      "section": [
+        "Ready-to-Read"
+      ],
       "text": "The Ready-to-Read series is a collection of books based on the Avatar: The Last Airbender television series, the first two of which are based on events that occurred during Book Three: Fire. The books are:"
     },
     {
-      "body": "Based on the episode: \"${link_0}\".",
+      "body": "${link_0}",
       "links": [
         {
-          "body": "The Headband",
+          "body": "List of Avatar books",
           "key": "${link_0}",
           "target": {
-            "href": "The_Headband",
-            "page": "The_Headband"
+            "external": false,
+            "href": "/wiki/List_of_Avatar_books",
+            "page": "List_of_Avatar_books"
           }
         }
       ],
-      "text": "Based on the episode: \"The Headband\"."
-    },
-    {
-      "body": "Based on the episode: \"${link_0}\".",
-      "links": [
-        {
-          "body": "Sokka's Master",
-          "key": "${link_0}",
-          "target": {
-            "href": "Sokka%27s_Master",
-            "page": "Sokka%27s_Master"
-          }
-        }
+      "section": [
+        "Ready-to-Read",
+        "See also"
       ],
-      "text": "Based on the episode: \"Sokka's Master\"."
-    },
-    {
-      "body": "Original story.",
-      "links": [],
-      "text": "Original story."
+      "text": "List of Avatar books"
     }
   ],
   "source": {

@@ -3,18 +3,51 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "What does this need help?Damonusthegreat (talk \u2022 contribs) 04:47, December 6, 2011 (UTC)",
-      "links": [],
+      "body": "What does this need help?${link_0} (${link_1} \u2022 ${link_2}) 04:47, December 6, 2011 (UTC)",
+      "links": [
+        {
+          "body": "Damonusthegreat",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Damonusthegreat",
+            "page": "User:Damonusthegreat"
+          }
+        },
+        {
+          "body": "talk",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User_talk:Damonusthegreat",
+            "page": "User_talk:Damonusthegreat"
+          }
+        },
+        {
+          "body": "contribs",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Special:Contributions/Damonusthegreat",
+            "page": "Special:Contributions/Damonusthegreat"
+          }
+        }
+      ],
+      "section": [
+        "Category talk:Needs help",
+        "Answers or hints to help"
+      ],
       "text": "What does this need help?Damonusthegreat (talk \u2022 contribs) 04:47, December 6, 2011 (UTC)"
     },
     {
-      "body": "The ${link_0} is a good resource to use when editing articles to meet wiki standards. There are several other ${link_1} available for reference.\nplayer2start (wall \u2022 contribs) 21:09, May 18, 2012 (UTC)",
+      "body": "The ${link_0} is a good resource to use when editing articles to meet wiki standards. There are several other ${link_1} available for reference.\n${link_2} (${link_3} \u2022 ${link_4}) 21:09, May 18, 2012 (UTC)",
       "links": [
         {
           "body": "Manual of Style",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar_Wiki_Manual_of_Style",
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_Manual_of_Style",
             "page": "Avatar_Wiki_Manual_of_Style"
           }
         },
@@ -22,10 +55,42 @@
           "body": "policies",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar_Wiki_Policy",
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_Policy",
             "page": "Avatar_Wiki_Policy"
           }
+        },
+        {
+          "body": "player2start",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Player2start",
+            "page": "User:Player2start"
+          }
+        },
+        {
+          "body": "wall",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Message_Wall:Player2start",
+            "page": "Message_Wall:Player2start"
+          }
+        },
+        {
+          "body": "contribs",
+          "key": "${link_4}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Special:Contributions/Player2start",
+            "page": "Special:Contributions/Player2start"
+          }
         }
+      ],
+      "section": [
+        "Category talk:Needs help",
+        "Answers or hints to help"
       ],
       "text": "The Manual of Style is a good resource to use when editing articles to meet wiki standards. There are several other policies available for reference.\nplayer2start (wall \u2022 contribs) 21:09, May 18, 2012 (UTC)"
     }

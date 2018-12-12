@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Time for Beany (1949)",
+          "body": "${link_0} (1949)",
           "extra": "(1949)",
           "extra_text": "(1949)",
-          "links": [],
+          "links": [
+            {
+              "body": "Time for Beany",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0145637",
+                "page": "http://www.imdb.com/find?q=tt0145637"
+              }
+            }
+          ],
           "text": "Time for Beany (1949)",
-          "value": "Time for Beany",
+          "value": "${link_0}",
           "value_text": "Time for Beany"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0249456",
+                "page": "http://www.imdb.com/find?q=nm0249456"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Walker_Edmiston",
+                "page": "http://en.wikipedia.org/wiki/Walker_Edmiston"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,8 +124,332 @@
   ],
   "paragraphs": [
     {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Zuko Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Avatar: The Last Airbender credits",
+        "Azulon"
+      ],
+      "text": "207. \"Zuko Alone\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ABC Weekend Specials",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0075471",
+            "page": "http://www.imdb.com/find?q=tt0075471"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ABC Weekend Specials"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Adventures of the Gummi Bears",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0088528",
+            "page": "http://www.imdb.com/find?q=tt0088528"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Adventures of the Gummi Bears"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dallas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0077000",
+            "page": "http://www.imdb.com/find?q=tt0077000"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dallas"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112175",
+            "page": "http://www.imdb.com/find?q=tt0112175"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Spider-Man"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Chipmunks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0084972",
+            "page": "http://www.imdb.com/find?q=tt0084972"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Chipmunks"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Transformers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086817",
+            "page": "http://www.imdb.com/find?q=tt0086817"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Transformers"
+    },
+    {
+      "body": "${link_0} (1998; short)",
+      "links": [
+        {
+          "body": "Adventures in Odyssey: A Stranger Among Us",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1275498",
+            "page": "http://www.imdb.com/find?q=tt1275498"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Adventures in Odyssey: A Stranger Among Us (1998; short)"
+    },
+    {
+      "body": "${link_0} (1992; short)",
+      "links": [
+        {
+          "body": "Diner",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312624",
+            "page": "http://www.imdb.com/find?q=tt0312624"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Diner (1992; short)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Dick Tracy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0099422",
+            "page": "http://www.imdb.com/find?q=tt0099422"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dick Tracy (1990)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "Fat Man and Little boy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0097336",
+            "page": "http://www.imdb.com/find?q=tt0097336"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fat Man and Little boy (1989)"
+    },
+    {
+      "body": "${link_0} (1984)",
+      "links": [
+        {
+          "body": "The Bear",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086945",
+            "page": "http://www.imdb.com/find?q=tt0086945"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Bear (1984)"
+    },
+    {
+      "body": "${link_0} (1981)",
+      "links": [
+        {
+          "body": "Scared to Death",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0081457",
+            "page": "http://www.imdb.com/find?q=tt0081457"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Scared to Death (1981)"
+    },
+    {
+      "body": "${link_0} (1980)",
+      "links": [
+        {
+          "body": "Loose Shoes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0076582",
+            "page": "http://www.imdb.com/find?q=tt0076582"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Loose Shoes (1980)"
+    },
+    {
+      "body": "${link_0} (1974)",
+      "links": [
+        {
+          "body": "Down and Dirty Duck",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0072882",
+            "page": "http://www.imdb.com/find?q=tt0072882"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Down and Dirty Duck (1974)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Throne of Darkness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0933394",
+            "page": "http://www.imdb.com/find?q=tt0933394"
+          }
+        }
+      ],
+      "section": [
+        "Walker Edmiston",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Throne of Darkness (video game)"
+    },
+    {
       "body": "Edmiston discovered early in his life that he could mimic people's voices, impressing his family with imitations of Lionel Barrymore. He went to the Pasadena Playhouse to study acting after World War II and was discovered by animation producer Walter Lantz, who got him his first role in Time for Beany. After this, he hosted The Walker Edmiston Show over the next two decades, a children's show which featured puppet characters of his own creation. Most of his work came with Sid and Marty Kroft on Saturday morning television series, including The Bugaloos, H.R. Puffnstuf, and Sigmund and the Sea Monsters. He also gave his voice to Inferno in the television series Transformers and served twenty years as the characters Tom Riley and Bart Rathbone on Adventures in Odyssey. Edmiston had numerous guest roles in television, including on Maverick, Star Trek, Get Smart, The Dukes of Hazzard, and Gunsmoke. He also supplied voices in all five Planet of the Apes films.",
       "links": [],
+      "section": [
+        "Walker Edmiston",
+        "Biographical information"
+      ],
       "text": "Edmiston discovered early in his life that he could mimic people's voices, impressing his family with imitations of Lionel Barrymore. He went to the Pasadena Playhouse to study acting after World War II and was discovered by animation producer Walter Lantz, who got him his first role in Time for Beany. After this, he hosted The Walker Edmiston Show over the next two decades, a children's show which featured puppet characters of his own creation. Most of his work came with Sid and Marty Kroft on Saturday morning television series, including The Bugaloos, H.R. Puffnstuf, and Sigmund and the Sea Monsters. He also gave his voice to Inferno in the television series Transformers and served twenty years as the characters Tom Riley and Bart Rathbone on Adventures in Odyssey. Edmiston had numerous guest roles in television, including on Maverick, Star Trek, Get Smart, The Dukes of Hazzard, and Gunsmoke. He also supplied voices in all five Planet of the Apes films."
     }
   ],

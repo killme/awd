@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Legend of Prince Valiant (1993)",
+          "body": "${link_0} (1993)",
           "extra": "(1993)",
           "extra_text": "(1993)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Legend of Prince Valiant",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0101171",
+                "page": "http://www.imdb.com/find?q=tt0101171"
+              }
+            }
+          ],
           "text": "The Legend of Prince Valiant (1993)",
-          "value": "The Legend of Prince Valiant",
+          "value": "${link_0}",
           "value_text": "The Legend of Prince Valiant"
         }
       ]
@@ -41,27 +54,368 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0608457",
+                "page": "http://www.imdb.com/find?q=nm0608457"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/smosenson",
+                "page": "https://www.facebook.com/smosenson"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "It's All Relative",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0366034",
+            "page": "http://www.imdb.com/find?q=tt0366034"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "It's All Relative"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Psych",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0491738",
+            "page": "http://www.imdb.com/find?q=tt0491738"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Psych"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "She Spies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0315064",
+            "page": "http://www.imdb.com/find?q=tt0315064"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "She Spies"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Jake Effect",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0787969",
+            "page": "http://www.imdb.com/find?q=tt0787969"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Jake Effect"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Weeds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0439100",
+            "page": "http://www.imdb.com/find?q=tt0439100"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Weeds"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Zoey 101",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0415463",
+            "page": "http://www.imdb.com/find?q=tt0415463"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Zoey 101"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Dark Mind",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0422479",
+            "page": "http://www.imdb.com/find?q=tt0422479"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dark Mind (2006)"
+    },
+    {
+      "body": "${link_0} (2004; video short)",
+      "links": [
+        {
+          "body": "Van Helsing: The London Assignment",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0406310",
+            "page": "http://www.imdb.com/find?q=tt0406310"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Van Helsing: The London Assignment (2004; video short)"
+    },
+    {
+      "body": "${link_0} (2002; short)",
+      "links": [
+        {
+          "body": "When Angels Cry",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0824420",
+            "page": "http://www.imdb.com/find?q=tt0824420"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "When Angels Cry (2002; short)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Extreme Honor",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0264606",
+            "page": "http://www.imdb.com/find?q=tt0264606"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Extreme Honor (2001)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Lucky Numbers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0219952",
+            "page": "http://www.imdb.com/find?q=tt0219952"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lucky Numbers (2000)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "The Kid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0219854",
+            "page": "http://www.imdb.com/find?q=tt0219854"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Kid (2000)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Bulworth",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118798",
+            "page": "http://www.imdb.com/find?q=tt0118798"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bulworth (1998)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Clockwatchers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118866",
+            "page": "http://www.imdb.com/find?q=tt0118866"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Clockwatchers (1997)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy X-2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0317510",
+            "page": "http://www.imdb.com/find?q=tt0317510"
+          }
+        }
+      ],
+      "section": [
+        "Scott Mosenson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy X-2 (video game)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Scott_Mosenson",
     "file": "avatar.wikia.com/wiki/Scott_Mosenson.html",

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "What's Bugging Seth (2005)",
+          "body": "${link_0} (2005)",
           "extra": "(2005)",
           "extra_text": "(2005)",
-          "links": [],
+          "links": [
+            {
+              "body": "What's Bugging Seth",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0414675",
+                "page": "http://www.imdb.com/find?q=tt0414675"
+              }
+            }
+          ],
           "text": "What's Bugging Seth (2005)",
-          "value": "What's Bugging Seth",
+          "value": "${link_0}",
           "value_text": "What's Bugging Seth"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1653451",
+                "page": "http://www.imdb.com/find?q=nm1653451"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Ross_Thomas_(actor)",
+                "page": "http://en.wikipedia.org/wiki/Ross_Thomas_(actor)"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/therossthomas",
+                "page": "https://twitter.com/therossthomas"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -100,18 +143,613 @@
   ],
   "paragraphs": [
     {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Beach",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Beach",
+            "page": "The_Beach"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Avatar: The Last Airbender credits",
+        "Ruon-Jian"
+      ],
+      "text": "305. \"The Beach\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Beyond the Break",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0448950",
+            "page": "http://www.imdb.com/find?q=tt0448950"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Beyond the Break"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cold Case",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0368479",
+            "page": "http://www.imdb.com/find?q=tt0368479"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Cold Case"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CSI: Crime Scene Investigation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247082",
+            "page": "http://www.imdb.com/find?q=tt0247082"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CSI: Crime Scene Investigation"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CSI: NY",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0395843",
+            "page": "http://www.imdb.com/find?q=tt0395843"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CSI: NY"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gang Related",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2719784",
+            "page": "http://www.imdb.com/find?q=tt2719784"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gang Related"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "General Hospital",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0056758",
+            "page": "http://www.imdb.com/find?q=tt0056758"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "General Hospital"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lie to Me",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1235099",
+            "page": "http://www.imdb.com/find?q=tt1235099"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lie to Me"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Living with Fran",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0402471",
+            "page": "http://www.imdb.com/find?q=tt0402471"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Living with Fran"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "NCIS",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364845",
+            "page": "http://www.imdb.com/find?q=tt0364845"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "NCIS"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Abducted",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2413338",
+            "page": "http://www.imdb.com/find?q=tt2413338"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Abducted (2013)"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Pop Star",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1900920",
+            "page": "http://www.imdb.com/find?q=tt1900920"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pop Star (2013)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Underground",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1811371",
+            "page": "http://www.imdb.com/find?q=tt1811371"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Underground (2011)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Soul Surfer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1596346",
+            "page": "http://www.imdb.com/find?q=tt1596346"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Soul Surfer (2011)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "Alice & the White Hair",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1540757",
+            "page": "http://www.imdb.com/find?q=tt1540757"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Alice & the White Hair (2010; short)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Burning Palms",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1283887",
+            "page": "http://www.imdb.com/find?q=tt1283887"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Burning Palms (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Dance Flick",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1153706",
+            "page": "http://www.imdb.com/find?q=tt1153706"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dance Flick (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "The Haunting of Molly Hartley",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1045655",
+            "page": "http://www.imdb.com/find?q=tt1045655"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Haunting of Molly Hartley (2008)"
+    },
+    {
+      "body": "${link_0} (2008; short)",
+      "links": [
+        {
+          "body": "Incitement",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1358200",
+            "page": "http://www.imdb.com/find?q=tt1358200"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Incitement (2008; short)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Lipshitz Saves the World",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0826569",
+            "page": "http://www.imdb.com/find?q=tt0826569"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lipshitz Saves the World (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Shelter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0942384",
+            "page": "http://www.imdb.com/find?q=tt0942384"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Shelter (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "American Pie Presents The Naked Mile",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0808146",
+            "page": "http://www.imdb.com/find?q=tt0808146"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "American Pie Presents The Naked Mile (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Cutting Edge: Going for the Gold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0463953",
+            "page": "http://www.imdb.com/find?q=tt0463953"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Cutting Edge: Going for the Gold (2006)"
+    },
+    {
+      "body": "${link_0} (2005; short)",
+      "links": [
+        {
+          "body": "Sissy Frenchfry",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0477088",
+            "page": "http://www.imdb.com/find?q=tt0477088"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sissy Frenchfry (2005; short)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "What's Bugging Seth",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0414675",
+            "page": "http://www.imdb.com/find?q=tt0414675"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "What's Bugging Seth (2005)"
+    },
+    {
+      "body": "${link_0} (short - cinematographer, director, producer, and writer)",
+      "links": [
+        {
+          "body": "Extraction: The Plundering of the Amarakaeri Reserve",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1869408",
+            "page": "http://www.imdb.com/find?q=tt1869408"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Extraction: The Plundering of the Amarakaeri Reserve (short - cinematographer, director, producer, and writer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fracture",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1253846",
+            "page": "http://www.imdb.com/find?q=tt1253846"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fracture (video game)"
+    },
+    {
+      "body": "${link_0} (correspondent and producer)",
+      "links": [
+        {
+          "body": "Game Changers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3214726",
+            "page": "http://www.imdb.com/find?q=tt3214726"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Game Changers (correspondent and producer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts 3D: Dream Drop Distance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2125539",
+            "page": "http://www.imdb.com/find?q=tt2125539"
+          }
+        }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts 3D: Dream Drop Distance (video game)"
+    },
+    {
       "body": "Thomas was born in Stockton, California, the son of Catherine Schuler, a computer science professor and author, and Randy Thomas, a trial attorney, poet, and adventurer. He studied theater at both Arizona State University and the University of Southern California, earning a Bachelor of Arts in Theater Arts at USC in 2005, and later moved to Los Angeles to pursue a career in film and television.",
       "links": [],
+      "section": [
+        "Ross Thomas",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Thomas was born in Stockton, California, the son of Catherine Schuler, a computer science professor and author, and Randy Thomas, a trial attorney, poet, and adventurer. He studied theater at both Arizona State University and the University of Southern California, earning a Bachelor of Arts in Theater Arts at USC in 2005, and later moved to Los Angeles to pursue a career in film and television."
     },
     {
       "body": "Thomas is an extreme sports enthusiast, including surfing and snowboarding, and avid adventure traveller, having climbed Huayna Potos\u00ed, a 19,974-foot mountain in Bolivia. He is also a supporter of tribal people's rights, having shot a short documentary in the Peruvian Amazon about the plight of the Harakmbut Tribe and worked with indigenous rights organizations Survival International and Amazon Watch.",
       "links": [],
+      "section": [
+        "Ross Thomas",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Thomas is an extreme sports enthusiast, including surfing and snowboarding, and avid adventure traveller, having climbed Huayna Potos\u00ed, a 19,974-foot mountain in Bolivia. He is also a supporter of tribal people's rights, having shot a short documentary in the Peruvian Amazon about the plight of the Harakmbut Tribe and worked with indigenous rights organizations Survival International and Amazon Watch."
     },
     {
       "body": "Thomas' first role was as the titular character in the 2005 critically acclaimed film What's Bugging Seth and, later that year, he starred in the independent dark comedy Sissy Frenchfry, which was also a film festival winner. This was followed by starring roles in The Cutting Edge 2: Going for the Gold, in which he performed many of his stunts, American Pie: The Naked Mile, the award-winning independent film Shelter, Dance Flick, Burning Palms, and the 2011 film Soul Surfer.",
       "links": [],
+      "section": [
+        "Ross Thomas",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Thomas' first role was as the titular character in the 2005 critically acclaimed film What's Bugging Seth and, later that year, he starred in the independent dark comedy Sissy Frenchfry, which was also a film festival winner. This was followed by starring roles in The Cutting Edge 2: Going for the Gold, in which he performed many of his stunts, American Pie: The Naked Mile, the award-winning independent film Shelter, Dance Flick, Burning Palms, and the 2011 film Soul Surfer."
     },
     {
@@ -121,10 +759,16 @@
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
+      ],
+      "section": [
+        "Ross Thomas",
+        "Biographical information",
+        "Career"
       ],
       "text": "On the small screen, Thomas credits' include a regular role as Bailey on the Nickelodeon series Beyond the Break and a recurring role on General Hospital. He has also appeared on NCIS, Lie to Me, CSI, CSI: NY, Cold Case, and Living with Fran. In 2013, he was chosen to host the sports docu-series Game Changers and guest starred in the pilot episode of the Fox television series Gang Related."
     }

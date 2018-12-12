@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Interviews",
       "target": {
-        "href": "Category_Interviews",
+        "external": false,
+        "href": "/wiki/Category_Interviews",
         "page": "Category_Interviews"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -25,24 +28,105 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "This is an interview, conducted on 'reddit', with an anonymous Nickelodeon executive. His executive status was verified by a moderator.",
-      "links": [],
+      "body": "This is an interview, conducted on '${link_0}', with an anonymous Nickelodeon executive. His executive status was verified by a moderator.",
+      "links": [
+        {
+          "body": "reddit",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Reddit",
+            "page": "http://en.wikipedia.org/wiki/Reddit"
+          }
+        }
+      ],
+      "section": [
+        "Transcript:Reddit Interview with Nick Executive, February 8, 2012"
+      ],
       "text": "This is an interview, conducted on 'reddit', with an anonymous Nickelodeon executive. His executive status was verified by a moderator."
     },
     {
       "body": "",
       "links": [],
+      "section": [
+        "Transcript:Reddit Interview with Nick Executive, February 8, 2012"
+      ],
       "text": ""
     },
     {
-      "body": "I was very happy with all of the positive feedback it got, if anything good came out of it. There was very little negative feedback which is good ... but I didn't expect there would be as it is awesome.",
-      "links": [],
-      "text": "I was very happy with all of the positive feedback it got, if anything good came out of it. There was very little negative feedback which is good ... but I didn't expect there would be as it is awesome."
+      "body": "IAmA (2012-2-10). ${link_0}. ${link_1}. Retrieved on February 20, 2012.",
+      "links": [
+        {
+          "body": "IAmAn executive at the #1 children's network working on shows like InvaderZim, SpongeBob, etc. AMAA",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.reddit.com/r/IAmA/comments/pgrsc/iaman_executive_at_the_1_childrens_network/c3p94bw",
+            "page": "http://www.reddit.com/r/IAmA/comments/pgrsc/iaman_executive_at_the_1_childrens_network/c3p94bw"
+          }
+        },
+        {
+          "body": "reddit",
+          "key": "${link_1}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/reddit",
+            "page": "http://en.wikipedia.org/wiki/reddit"
+          }
+        }
+      ],
+      "section": [
+        "Transcript:Reddit Interview with Nick Executive, February 8, 2012",
+        "Origin"
+      ],
+      "text": "IAmA (2012-2-10). IAmAn executive at the #1 children's network working on shows like InvaderZim, SpongeBob, etc. AMAA. reddit. Retrieved on February 20, 2012."
     },
     {
-      "body": "With that said, no the leaks were not intended. People who steal stuff and go against the wishes of the creators by posting stuff are scum. The world does not belong to you (one) just because you think it does and it hurts people even if you don't think it does. How we track people and deal with them I probably shouldn't say ... other than \"hopefully harshly\".",
-      "links": [],
-      "text": "With that said, no the leaks were not intended. People who steal stuff and go against the wishes of the creators by posting stuff are scum. The world does not belong to you (one) just because you think it does and it hurts people even if you don't think it does. How we track people and deal with them I probably shouldn't say ... other than \"hopefully harshly\"."
+      "body": "Gadani13 (2012-2-10). ${link_0}. ${link_1}. Retrieved on February 20, 2012.",
+      "links": [
+        {
+          "body": "Interview, Legend of Korra",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://zuko-hot-fanclub.deviantart.com/journal/Interview-Legend-of-Korra-284234537",
+            "page": "http://zuko-hot-fanclub.deviantart.com/journal/Interview-Legend-of-Korra-284234537"
+          }
+        },
+        {
+          "body": "deviantArt",
+          "key": "${link_1}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/deviantArt",
+            "page": "http://en.wikipedia.org/wiki/deviantArt"
+          }
+        }
+      ],
+      "section": [
+        "Transcript:Reddit Interview with Nick Executive, February 8, 2012",
+        "Origin"
+      ],
+      "text": "Gadani13 (2012-2-10). Interview, Legend of Korra. deviantArt. Retrieved on February 20, 2012."
+    },
+    {
+      "body": "${link_0} This refers to the recent Nickelodeon ratings slide that led to revenue forecast downgrade by by a Wall Street analyst.. Viacom has cited this as one of the reasons for their earnings fall.",
+      "links": [
+        {
+          "body": "\u2191",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/#cite_ref-4",
+            "page": ""
+          }
+        }
+      ],
+      "section": [
+        "Transcript:Reddit Interview with Nick Executive, February 8, 2012",
+        "Notes"
+      ],
+      "text": "\u2191 This refers to the recent Nickelodeon ratings slide that led to revenue forecast downgrade by by a Wall Street analyst.. Viacom has cited this as one of the reasons for their earnings fall."
     }
   ],
   "source": {

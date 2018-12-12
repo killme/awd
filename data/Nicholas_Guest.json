@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Defection of Simas Kudirka (1978; TV movie)",
+          "body": "${link_0} (1978; TV movie)",
           "extra": "(1978; TV movie)",
           "extra_text": "(1978; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Defection of Simas Kudirka",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0077418",
+                "page": "http://www.imdb.com/find?q=tt0077418"
+              }
+            }
+          ],
           "text": "The Defection of Simas Kudirka (1978; TV movie)",
-          "value": "The Defection of Simas Kudirka",
+          "value": "${link_0}",
           "value_text": "The Defection of Simas Kudirka"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0346415",
+                "page": "http://www.imdb.com/find?q=nm0346415"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Nicholas_Guest",
+                "page": "http://en.wikipedia.org/wiki/Nicholas_Guest"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/Nicholas-Guest/112549985429075",
+                "page": "http://www.facebook.com/pages/Nicholas-Guest/112549985429075"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -100,13 +143,423 @@
   ],
   "paragraphs": [
     {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "City of Walls and Secrets",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/City_of_Walls_and_Secrets",
+            "page": "City_of_Walls_and_Secrets"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "214. \"City of Walls and Secrets\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "24",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285331",
+            "page": "http://www.imdb.com/find?q=tt0285331"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "24"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Brave and the Bold"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0760437",
+            "page": "http://www.imdb.com/find?q=tt0760437"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CSI: Miami",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0313043",
+            "page": "http://www.imdb.com/find?q=tt0313043"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CSI: Miami"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Psi-Kix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1429453",
+            "page": "http://www.imdb.com/find?q=tt1429453"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Psi-Kix"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sons of Anarchy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1124373",
+            "page": "http://www.imdb.com/find?q=tt1124373"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sons of Anarchy"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Mr. Peabody & Sherman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0864835",
+            "page": "http://www.imdb.com/find?q=tt0864835"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mr. Peabody & Sherman (2014)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Tangled",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398286",
+            "page": "http://www.imdb.com/find?q=tt0398286"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tangled (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Astro Boy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0375568",
+            "page": "http://www.imdb.com/find?q=tt0375568"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Astro Boy (2009)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Barnyard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0414853",
+            "page": "http://www.imdb.com/find?q=tt0414853"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Barnyard (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Over the Hedge",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0327084",
+            "page": "http://www.imdb.com/find?q=tt0327084"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Over the Hedge (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Wild",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0405469",
+            "page": "http://www.imdb.com/find?q=tt0405469"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wild (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Racing Stripes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0376105",
+            "page": "http://www.imdb.com/find?q=tt0376105"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Racing Stripes (2005)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Call of Duty: World at War",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1323508",
+            "page": "http://www.imdb.com/find?q=tt1323508"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Call of Duty: World at War (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Pirates of the Caribbean: At World's End",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1043740",
+            "page": "http://www.imdb.com/find?q=tt1043740"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Pirates of the Caribbean: At World's End (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Speed Racer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1152717",
+            "page": "http://www.imdb.com/find?q=tt1152717"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Speed Racer (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "S.W.A.T. 4",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0456000",
+            "page": "http://www.imdb.com/find?q=tt0456000"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "S.W.A.T. 4 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Bourne Conspiracy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1266631",
+            "page": "http://www.imdb.com/find?q=tt1266631"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Bourne Conspiracy (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Incredible Hulk: Ultimate Destruction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0457386",
+            "page": "http://www.imdb.com/find?q=tt0457386"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Incredible Hulk: Ultimate Destruction (video game)"
+    },
+    {
       "body": "Guest was born in New York City, the son of Peter Haden-Guest, a British United Nations diplomat who later became the fourth Baron Haden-Guest, and his second wife, Jean Pauline Hindes, a former vice president of casting at CBS. Guest's maternal grandparents were Jewish immigrants from Russia. His paternal grandfather, Leslie, Baron Haden-Guest, was a Labour Party politician who was a convert to Judaism, and his paternal grandmother's father was Colonel Albert Goldsmid, a British officer who founded the Jewish Lads' and Girls' Brigade and the Maccabaeans. Both of Guest's parents had become atheists, and Guest had no religious upbringing. Nearly a decade before he was born, his uncle David Guest, a lecturer and Communist Party member, was killed in the Spanish Civil War fighting in the International Brigades.",
       "links": [],
+      "section": [
+        "Nicholas Guest",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Guest was born in New York City, the son of Peter Haden-Guest, a British United Nations diplomat who later became the fourth Baron Haden-Guest, and his second wife, Jean Pauline Hindes, a former vice president of casting at CBS. Guest's maternal grandparents were Jewish immigrants from Russia. His paternal grandfather, Leslie, Baron Haden-Guest, was a Labour Party politician who was a convert to Judaism, and his paternal grandmother's father was Colonel Albert Goldsmid, a British officer who founded the Jewish Lads' and Girls' Brigade and the Maccabaeans. Both of Guest's parents had become atheists, and Guest had no religious upbringing. Nearly a decade before he was born, his uncle David Guest, a lecturer and Communist Party member, was killed in the Spanish Civil War fighting in the International Brigades."
     },
     {
       "body": "Guest spent parts of his childhood in his father's native England. He is the brother of Christopher Guest, the brother-in-law of Jamie Lee Curtis and the half brother of the British American writer Anthony Haden-Guest.",
       "links": [],
+      "section": [
+        "Nicholas Guest",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Guest spent parts of his childhood in his father's native England. He is the brother of Christopher Guest, the brother-in-law of Jamie Lee Curtis and the half brother of the British American writer Anthony Haden-Guest."
     }
   ],

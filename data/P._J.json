@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Spring Break Lawyer (2001; TV movie)",
+          "body": "${link_0} (2001; TV movie)",
           "extra": "(2001; TV movie)",
           "extra_text": "(2001; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Spring Break Lawyer",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0274883",
+                "page": "http://www.imdb.com/find?q=tt0274883"
+              }
+            }
+          ],
           "text": "Spring Break Lawyer (2001; TV movie)",
-          "value": "Spring Break Lawyer",
+          "value": "${link_0}",
           "value_text": "Spring Break Lawyer"
         }
       ]
@@ -69,66 +82,136 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0126260",
+                "page": "http://www.imdb.com/find?q=nm0126260"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/P.J._Byrne",
+                "page": "http://en.wikipedia.org/wiki/P.J._Byrne"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/PJ-Byrne/250150268337204",
+                "page": "https://www.facebook.com/pages/PJ-Byrne/250150268337204"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/pj_byrne#",
+                "page": "http://instagram.com/pj_byrne"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Pinterest",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Pinterest",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.pinterest.com/mypoorwife/",
+                "page": "http://www.pinterest.com/mypoorwife/"
+              }
+            }
+          ],
           "text": "Pinterest",
-          "value": "Pinterest",
+          "value": "${link_0}",
           "value_text": "Pinterest"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://pjbyrne.tumblr.com/",
+                "page": "http://pjbyrne.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/PJ_Byrne",
+                "page": "https://twitter.com/PJ_Byrne"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -136,19 +219,340 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Boston Legal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0402711",
+            "page": "http://www.imdb.com/find?q=tt0402711"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Boston Legal"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Burn Notice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0810788",
+            "page": "http://www.imdb.com/find?q=tt0810788"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Burn Notice"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Crossing Jordan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0284718",
+            "page": "http://www.imdb.com/find?q=tt0284718"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Crossing Jordan"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Desperate Housewives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0410975",
+            "page": "http://www.imdb.com/find?q=tt0410975"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Desperate Housewives"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ER",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108757",
+            "page": "http://www.imdb.com/find?q=tt0108757"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ER"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "It's Always Sunny in Philadelphia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0472954",
+            "page": "http://www.imdb.com/find?q=tt0472954"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "It's Always Sunny in Philadelphia"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "New Adventures of Old Christine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462128",
+            "page": "http://www.imdb.com/find?q=tt0462128"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "New Adventures of Old Christine"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Reno 911!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0370194",
+            "page": "http://www.imdb.com/find?q=tt0370194"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Reno 911!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0772137",
+            "page": "http://www.imdb.com/find?q=tt0772137"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Game"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "West Wing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200276",
+            "page": "http://www.imdb.com/find?q=tt0200276"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "West Wing"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "The Wolf of Wall Street",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0993846",
+            "page": "http://www.imdb.com/find?q=tt0993846"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wolf of Wall Street (2013)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Final Destination 5",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1622979",
+            "page": "http://www.imdb.com/find?q=tt1622979"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Final Destination 5 (2011)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Horrible Bosses",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1499658",
+            "page": "http://www.imdb.com/find?q=tt1499658"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Horrible Bosses (2011)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Dinner for Schmucks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0427152",
+            "page": "http://www.imdb.com/find?q=tt0427152"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dinner for Schmucks (2010)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Charlie Wilson's War",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0472062",
+            "page": "http://www.imdb.com/find?q=tt0472062"
+          }
+        }
+      ],
+      "section": [
+        "P. J. Byrne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Charlie Wilson's War (2007)"
+    },
+    {
       "body": "Byrne graduated from Boston College with a double major in finance and theater and later earned an M.F.A. from the Theater School at DePaul University. He attended Northern Valley Regional High School at Old Tappan, New Jersey.",
       "links": [],
+      "section": [
+        "P. J. Byrne",
+        "Biographical information"
+      ],
       "text": "Byrne graduated from Boston College with a double major in finance and theater and later earned an M.F.A. from the Theater School at DePaul University. He attended Northern Valley Regional High School at Old Tappan, New Jersey."
     },
     {
       "body": "His film credits include lead roles in Final Destination 5 as Isaac Palmer and Horrible Bosses opposite Jennifer Aniston, Jason Bateman, and Jamie Foxx. He also starred in Dinner for Schmucks, Extraordinary Measures, Charlie Wilson's War, Bruce Almighty, and Fun with Dick and Jane.",
       "links": [],
+      "section": [
+        "P. J. Byrne",
+        "Biographical information"
+      ],
       "text": "His film credits include lead roles in Final Destination 5 as Isaac Palmer and Horrible Bosses opposite Jennifer Aniston, Jason Bateman, and Jamie Foxx. He also starred in Dinner for Schmucks, Extraordinary Measures, Charlie Wilson's War, Bruce Almighty, and Fun with Dick and Jane."
     },
     {
       "body": "Byrne's on-camera television credits include a series regular role as Irv Smiff, a driven sports agent, on BET's The Game and guest appearances on The Mentalist, Castle, It's Always Sunny in Philadelphia, Burn Notice, Bones, Desperate Housewives, New Adventures of Old Christine, NCIS, The West Wing, and ER.",
       "links": [],
+      "section": [
+        "P. J. Byrne",
+        "Biographical information"
+      ],
       "text": "Byrne's on-camera television credits include a series regular role as Irv Smiff, a driven sports agent, on BET's The Game and guest appearances on The Mentalist, Castle, It's Always Sunny in Philadelphia, Burn Notice, Bones, Desperate Housewives, New Adventures of Old Christine, NCIS, The West Wing, and ER."
+    },
+    {
+      "body": "Bolin was Byrne's first voice acting role.",
+      "links": [],
+      "section": [
+        "P. J. Byrne",
+        "Trivia"
+      ],
+      "text": "Bolin was Byrne's first voice acting role."
     }
   ],
   "source": {

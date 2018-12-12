@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "General Hospital (1963)",
+          "body": "${link_0} (1963)",
           "extra": "(1963)",
           "extra_text": "(1963)",
-          "links": [],
+          "links": [
+            {
+              "body": "General Hospital",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0056758",
+                "page": "http://www.imdb.com/find?q=tt0056758"
+              }
+            }
+          ],
           "text": "General Hospital (1963)",
-          "value": "General Hospital",
+          "value": "${link_0}",
           "value_text": "General Hospital"
         }
       ]
@@ -41,21 +54,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0945194",
+                "page": "http://www.imdb.com/find?q=nm0945194"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Michael_Yama",
+                "page": "http://en.wikipedia.org/wiki/Michael_Yama"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -63,8 +96,192 @@
   ],
   "paragraphs": [
     {
+      "body": "108. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Winter Solstice, Part 2: Avatar Roku",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Winter_Solstice%2c_Part_2__Avatar_Roku",
+            "page": "Winter_Solstice%2c_Part_2__Avatar_Roku"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yama",
+        "Avatar: The Last Airbender credits",
+        "Shyu"
+      ],
+      "text": "108. \"Winter Solstice, Part 2: Avatar Roku\""
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "Angel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0162065",
+            "page": "http://www.imdb.com/find?q=tt0162065"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yama",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Angel (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Command & Conquer: Generals Zero Hour",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0386384",
+            "page": "http://www.imdb.com/find?q=tt0386384"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yama",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Command & Conquer: Generals Zero Hour (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dead Rising",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837114",
+            "page": "http://www.imdb.com/find?q=tt0837114"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yama",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dead Rising (video game)"
+    },
+    {
+      "body": "${link_0} (ADR loop group)",
+      "links": [
+        {
+          "body": "Snow Falling on Cedars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120834",
+            "page": "http://www.imdb.com/find?q=tt0120834"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yama",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Snow Falling on Cedars (ADR loop group)"
+    },
+    {
+      "body": "${link_0} (assistant director)",
+      "links": [
+        {
+          "body": "Teen Lust",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0078100",
+            "page": "http://www.imdb.com/find?q=tt0078100"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yama",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Teen Lust (assistant director)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tenchu: Wrath of Heaven",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0280142",
+            "page": "http://www.imdb.com/find?q=tt0280142"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yama",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tenchu: Wrath of Heaven (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "True Crime: New York City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462582",
+            "page": "http://www.imdb.com/find?q=tt0462582"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yama",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "True Crime: New York City (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Vampire: The Masquerade - Bloodlines",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0438550",
+            "page": "http://www.imdb.com/find?q=tt0438550"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yama",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Vampire: The Masquerade - Bloodlines (video game)"
+    },
+    {
       "body": "Yama has regularly done voice work for G.I. Joe and has appeared on The X-Files, Just Shoot Me!, Lois & Clark, Malcolm in the Middle, and Mad About You. He also spent thirty-eight years working in theater.",
       "links": [],
+      "section": [
+        "Michael Yama",
+        "Biographical information"
+      ],
       "text": "Yama has regularly done voice work for G.I. Joe and has appeared on The X-Files, Just Shoot Me!, Lois & Clark, Malcolm in the Middle, and Mad About You. He also spent thirty-eight years working in theater."
     }
   ],

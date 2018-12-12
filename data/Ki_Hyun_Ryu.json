@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Boondocks (2005 - assistant director)",
+          "body": "${link_0} (2005 - assistant director)",
           "extra": "(2005 - assistant director)",
           "extra_text": "(2005 - assistant director)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Boondocks",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0373732",
+                "page": "http://www.imdb.com/find?q=tt0373732"
+              }
+            }
+          ],
           "text": "The Boondocks (2005 - assistant director)",
-          "value": "The Boondocks",
+          "value": "${link_0}",
           "value_text": "The Boondocks"
         }
       ]
@@ -41,54 +54,467 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2700094",
+                "page": "http://www.imdb.com/find?q=nm2700094"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Ki_Hyun_Ryu",
+                "page": "http://en.wikipedia.org/wiki/Ki_Hyun_Ryu"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Blogspot",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Blogspot",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://blacksataguni.blogspot.com/",
+                "page": "http://blacksataguni.blogspot.com/"
+              }
+            }
+          ],
           "text": "Blogspot",
-          "value": "Blogspot",
+          "value": "${link_0}",
           "value_text": "Blogspot"
         },
         {
-          "body": "DeviantART",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "DeviantART",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://blacksataguni.deviantart.com/",
+                "page": "http://blacksataguni.deviantart.com/"
+              }
+            }
+          ],
           "text": "DeviantART",
-          "value": "DeviantART",
+          "value": "${link_0}",
           "value_text": "DeviantART"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/blacksataguni",
+                "page": "http://www.youtube.com/user/blacksataguni"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "Avatar: The Last Airbender credits",
+        "Character designer"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Voice in the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Voice_in_the_Night",
+            "page": "The_Voice_in_the_Night"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "104. \"The Voice in the Night\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_1",
+            "page": "Civil_Wars%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "203. \"Civil Wars, Part 1\""
+    },
+    {
+      "body": "408. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Remembrances",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Remembrances",
+            "page": "Remembrances"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "408. \"Remembrances\""
+    },
+    {
+      "body": "${link_0} (supervising producer)",
+      "links": [
+        {
+          "body": "Voltron: Legendary Defender",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt5580664",
+            "page": "http://www.imdb.com/find?q=tt5580664"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Voltron: Legendary Defender (supervising producer)"
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "Batman: Year One",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1672723",
+            "page": "http://www.imdb.com/find?q=tt1672723"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: Year One (storyboard artist)"
+    },
+    {
+      "body": "${link_0} (character designer)",
+      "links": [
+        {
+          "body": "Dante's Inferno: An Animated Epic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1401113",
+            "page": "http://www.imdb.com/find?q=tt1401113"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dante's Inferno: An Animated Epic (character designer)"
+    },
+    {
+      "body": "${link_0} (in-between artist)",
+      "links": [
+        {
+          "body": "Hercules and Xena - The Animated Movie: The Battle for Mount Olympus",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119283",
+            "page": "http://www.imdb.com/find?q=tt0119283"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hercules and Xena - The Animated Movie: The Battle for Mount Olympus (in-between artist)"
+    },
+    {
+      "body": "${link_0} (overseas animation director)",
+      "links": [
+        {
+          "body": "Random! Cartoons",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0890874",
+            "page": "http://www.imdb.com/find?q=tt0890874"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Random! Cartoons (overseas animation director)"
+    },
+    {
+      "body": "${link_0} (animator)",
+      "links": [
+        {
+          "body": "Recess: School's Out",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0265632",
+            "page": "http://www.imdb.com/find?q=tt0265632"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Recess: School's Out (animator)"
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "The Avengers: Earth's Mightiest Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1626038",
+            "page": "http://www.imdb.com/find?q=tt1626038"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Avengers: Earth's Mightiest Heroes (storyboard artist)"
+    },
+    {
+      "body": "${link_0} (assistant director)",
+      "links": [
+        {
+          "body": "The Boondocks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0373732",
+            "page": "http://www.imdb.com/find?q=tt0373732"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Boondocks (assistant director)"
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "The Goode Family",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1183569",
+            "page": "http://www.imdb.com/find?q=tt1183569"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Goode Family (storyboard artist)"
+    },
+    {
+      "body": "Ryu has been credited by ${link_0} as the one who conceived fartbending, an ${link_1} technique employed by ${link_2} and ${link_3}'s son, ${link_4}.",
+      "links": [
+        {
+          "body": "Bryan Konietzko",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bryan_Konietzko",
+            "page": "Bryan_Konietzko"
+          }
+        },
+        {
+          "body": "airbending",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Airbending",
+            "page": "Airbending"
+          }
+        },
+        {
+          "body": "Tenzin",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Tenzin",
+            "page": "Tenzin"
+          }
+        },
+        {
+          "body": "Pema",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Pema",
+            "page": "Pema"
+          }
+        },
+        {
+          "body": "Meelo",
+          "key": "${link_4}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Meelo",
+            "page": "Meelo"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "Trivia"
+      ],
+      "text": "Ryu has been credited by Bryan Konietzko as the one who conceived fartbending, an airbending technique employed by Tenzin and Pema's son, Meelo."
+    },
+    {
+      "body": "Ryu's creative insight has been influencing the Avatar franchise for far longer than the beginning of The Legend of Korra: he created the original character design of ${link_0}, suggesting that he has had a part in the show since quite early in production.",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet",
+            "page": "Jet"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "Trivia"
+      ],
+      "text": "Ryu's creative insight has been influencing the Avatar franchise for far longer than the beginning of The Legend of Korra: he created the original character design of Jet, suggesting that he has had a part in the show since quite early in production."
+    },
+    {
+      "body": "Interestingly, Ryu's name has been worded as \"Ryu Ki Hyun\" by Konietzko on occasion, likely in concern to Ryu's Korean origin; Korean names are spoken in a format that starts with a surname, followed by the given name.",
+      "links": [],
+      "section": [
+        "Ki Hyun Ryu",
+        "Trivia"
+      ],
+      "text": "Interestingly, Ryu's name has been worded as \"Ryu Ki Hyun\" by Konietzko on occasion, likely in concern to Ryu's Korean origin; Korean names are spoken in a format that starts with a surname, followed by the given name."
+    },
+    {
+      "body": "The design of the character ${link_0} was based on Ki Hyun Ryu.",
+      "links": [
+        {
+          "body": "Ryu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ryu",
+            "page": "Ryu"
+          }
+        }
+      ],
+      "section": [
+        "Ki Hyun Ryu",
+        "Trivia"
+      ],
+      "text": "The design of the character Ryu was based on Ki Hyun Ryu."
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Ki_Hyun_Ryu",
     "file": "avatar.wikia.com/wiki/Ki_Hyun_Ryu.html",

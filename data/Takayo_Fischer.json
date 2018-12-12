@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Battle of the Planets (1978)",
+          "body": "${link_0} (1978)",
           "extra": "(1978)",
           "extra_text": "(1978)",
-          "links": [],
+          "links": [
+            {
+              "body": "Battle of the Planets",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0076983",
+                "page": "http://www.imdb.com/find?q=tt0076983"
+              }
+            }
+          ],
           "text": "Battle of the Planets (1978)",
-          "value": "Battle of the Planets",
+          "value": "${link_0}",
           "value_text": "Battle of the Planets"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0279137",
+                "page": "http://www.imdb.com/find?q=nm0279137"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Takayo_Fischer",
+                "page": "http://en.wikipedia.org/wiki/Takayo_Fischer"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/Takayo-Fischer/112050288810885",
+                "page": "http://www.facebook.com/pages/Takayo-Fischer/112050288810885"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -100,18 +143,593 @@
   ],
   "paragraphs": [
     {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Avatar: The Last Airbender credits",
+        "Lo and Li"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Avatar: The Last Airbender credits",
+        "Lo and Li"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Awakening",
+            "page": "The_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Avatar: The Last Airbender credits",
+        "Lo and Li"
+      ],
+      "text": "301. \"The Awakening\""
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Beach",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Beach",
+            "page": "The_Beach"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Avatar: The Last Airbender credits",
+        "Lo and Li"
+      ],
+      "text": "305. \"The Beach\""
+    },
+    {
+      "body": "320. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 3: Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_3__Into_the_Inferno",
+            "page": "Sozin%27s_Comet%2c_Part_3__Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Avatar: The Last Airbender credits",
+        "Lo and Li"
+      ],
+      "text": "320. \"Sozin's Comet, Part 3: Into the Inferno\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Silent But Deadly",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2049631",
+            "page": "http://www.imdb.com/find?q=tt2049631"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Silent But Deadly (2012)"
+    },
+    {
+      "body": "${link_0} (2011; short)",
+      "links": [
+        {
+          "body": "Love, Older... Jack & Martha",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1733573",
+            "page": "http://www.imdb.com/find?q=tt1733573"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Love, Older... Jack & Martha (2011; short)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Moneyball",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1210166",
+            "page": "http://www.imdb.com/find?q=tt1210166"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Moneyball (2011)"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "Broken Hart",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1530876",
+            "page": "http://www.imdb.com/find?q=tt1530876"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Broken Hart (2009; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Love 10 to 1",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1403196",
+            "page": "http://www.imdb.com/find?q=tt1403196"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Love 10 to 1 (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Uncross the Stars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1027760",
+            "page": "http://www.imdb.com/find?q=tt1027760"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Uncross the Stars (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Pirates of the Caribbean: At World's End",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0449088",
+            "page": "http://www.imdb.com/find?q=tt0449088"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pirates of the Caribbean: At World's End (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Pursuit of Happyness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0454921",
+            "page": "http://www.imdb.com/find?q=tt0454921"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Pursuit of Happyness (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Americanese",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0402763",
+            "page": "http://www.imdb.com/find?q=tt0402763"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Americanese (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Only the Brave",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0410403",
+            "page": "http://www.imdb.com/find?q=tt0410403"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Only the Brave (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Memoirs of a Geisha",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397535",
+            "page": "http://www.imdb.com/find?q=tt0397535"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Memoirs of a Geisha (2005)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "War of the Worlds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0407304",
+            "page": "http://www.imdb.com/find?q=tt0407304"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "War of the Worlds (2005)"
+    },
+    {
+      "body": "${link_0} (2004; short)",
+      "links": [
+        {
+          "body": "Stand Up for Justice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0816179",
+            "page": "http://www.imdb.com/find?q=tt0816179"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stand Up for Justice (2004; short)"
+    },
+    {
+      "body": "${link_0} (2002; short)",
+      "links": [
+        {
+          "body": "Ocha Cups for Christmas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0341506",
+            "page": "http://www.imdb.com/find?q=tt0341506"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ocha Cups for Christmas (2002; short)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Strawberry Fields",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108233",
+            "page": "http://www.imdb.com/find?q=tt0108233"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Strawberry Fields (1997)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "The Dangerous",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0109536",
+            "page": "http://www.imdb.com/find?q=tt0109536"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Dangerous (1995)"
+    },
+    {
+      "body": "${link_0} (1991)",
+      "links": [
+        {
+          "body": "Showdown in Little Tokyo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0102915",
+            "page": "http://www.imdb.com/find?q=tt0102915"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Showdown in Little Tokyo (1991)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Pacific Heights",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0100318",
+            "page": "http://www.imdb.com/find?q=tt0100318"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pacific Heights (1990)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "Dad",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0097142",
+            "page": "http://www.imdb.com/find?q=tt0097142"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dad (1989)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Pirates of the Caribbean: At World's End",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1043740",
+            "page": "http://www.imdb.com/find?q=tt1043740"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Pirates of the Caribbean: At World's End (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crisis Core: Final Fantasy VII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0483593",
+            "page": "http://www.imdb.com/find?q=tt0483593"
+          }
+        }
+      ],
+      "section": [
+        "Takayo Fischer",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crisis Core: Final Fantasy VII (video game)"
+    },
+    {
       "body": "Fischer was born the daughter of Chukuro and Kinko Tsubouchi, both immigrants from Japan. During World War II, as a young child, she and her family were forcibly evacuated from the West Coast and spent time in the Fresno Assembly Center before being relocated to the Jerome and Rohwer internment camps. Fischer later lived in Chicago, Illinois, where, as a young adult, she won the crown of \"Miss Nisei Queen\". She attended Rollins College from 1951-1953. She married Sy Fischer, an entertainment executive, on November 29, 1980, in her second marriage. She has three children and resides in Los Angeles.",
       "links": [],
+      "section": [
+        "Takayo Fischer",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Fischer was born the daughter of Chukuro and Kinko Tsubouchi, both immigrants from Japan. During World War II, as a young child, she and her family were forcibly evacuated from the West Coast and spent time in the Fresno Assembly Center before being relocated to the Jerome and Rohwer internment camps. Fischer later lived in Chicago, Illinois, where, as a young adult, she won the crown of \"Miss Nisei Queen\". She attended Rollins College from 1951-1953. She married Sy Fischer, an entertainment executive, on November 29, 1980, in her second marriage. She has three children and resides in Los Angeles."
     },
     {
       "body": "Fischer appeared in the stage production of The World of Suzie Wong in New York in 1958. She won a Drama-Logue Award for ensemble performance for Tea at the Old Globe Theatre in San Diego. She has also appeared in many productions with East West Players in Los Angeles, including Into The Woods. She toured the U.S. and Europe in The Peony Pavilion in 1997.",
       "links": [],
+      "section": [
+        "Takayo Fischer",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Fischer appeared in the stage production of The World of Suzie Wong in New York in 1958. She won a Drama-Logue Award for ensemble performance for Tea at the Old Globe Theatre in San Diego. She has also appeared in many productions with East West Players in Los Angeles, including Into The Woods. She toured the U.S. and Europe in The Peony Pavilion in 1997."
     },
     {
       "body": "Fischer has appeared in many big-budget films, including 2007's Pirates of the Caribbean: At World's End as Mistress Ching, The Pursuit of Happyness in 2006, as Mrs. Chu, and the 2005 hits Memoirs of a Geisha and War of the Worlds. She has also worked on many independent Asian-American films including Americanese in 2009, 2005's Only the Brave, Stand Up for Justice: The Ralph Lazo Story in 2004, and Strawberry Fields in 1997.",
       "links": [],
+      "section": [
+        "Takayo Fischer",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Fischer has appeared in many big-budget films, including 2007's Pirates of the Caribbean: At World's End as Mistress Ching, The Pursuit of Happyness in 2006, as Mrs. Chu, and the 2005 hits Memoirs of a Geisha and War of the Worlds. She has also worked on many independent Asian-American films including Americanese in 2009, 2005's Only the Brave, Stand Up for Justice: The Ralph Lazo Story in 2004, and Strawberry Fields in 1997."
     }
   ],

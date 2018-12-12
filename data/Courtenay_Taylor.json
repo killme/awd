@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Golden Gate (1994)",
+          "body": "${link_0} (1994)",
           "extra": "(1994)",
           "extra_text": "(1994)",
-          "links": [],
+          "links": [
+            {
+              "body": "Golden Gate",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0109917",
+                "page": "http://www.imdb.com/find?q=tt0109917"
+              }
+            }
+          ],
           "text": "Golden Gate (1994)",
-          "value": "Golden Gate",
+          "value": "${link_0}",
           "value_text": "Golden Gate"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1057696",
+                "page": "http://www.imdb.com/find?q=nm1057696"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Courtenay_Taylor",
+                "page": "http://en.wikipedia.org/wiki/Courtenay_Taylor"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/CourtenayTaylorNews",
+                "page": "https://www.facebook.com/CourtenayTaylorNews"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.courtenaytaylor.com/",
+                "page": "http://www.courtenaytaylor.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/courtenaytaylor",
+                "page": "https://twitter.com/courtenaytaylor"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,18 +181,473 @@
   ],
   "paragraphs": [
     {
+      "body": "314. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_1",
+            "page": "The_Boiling_Rock%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "314. \"The Boiling Rock, Part 1\""
+    },
+    {
+      "body": "315. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "315. \"The Boiling Rock, Part 2\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Close to Home",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460631",
+            "page": "http://www.imdb.com/find?q=tt0460631"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Close to Home"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cold Case",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0368479",
+            "page": "http://www.imdb.com/find?q=tt0368479"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Cold Case"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CSI: NY",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0395843",
+            "page": "http://www.imdb.com/find?q=tt0395843"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CSI: NY"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Everybody Hates Chris",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460637",
+            "page": "http://www.imdb.com/find?q=tt0460637"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Everybody Hates Chris"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Strong Medicine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0252019",
+            "page": "http://www.imdb.com/find?q=tt0252019"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Strong Medicine"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Loaded",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2608030",
+            "page": "http://www.imdb.com/find?q=tt2608030"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Loaded (2013)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Rubber",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1612774",
+            "page": "http://www.imdb.com/find?q=tt1612774"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rubber (2010)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Take",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0815138",
+            "page": "http://www.imdb.com/find?q=tt0815138"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Take (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Because I Said So",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0490084",
+            "page": "http://www.imdb.com/find?q=tt0490084"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Because I Said So (2007)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Nog",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0482558",
+            "page": "http://www.imdb.com/find?q=tt0482558"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Nog (2005)"
+    },
+    {
+      "body": "${link_0} (video game - additional motion capture; stunts)",
+      "links": [
+        {
+          "body": "Ace Combat: Assault Horizon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2057895",
+            "page": "http://www.imdb.com/find?q=tt2057895"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ace Combat: Assault Horizon (video game - additional motion capture; stunts)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dragon Age: Origins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1541718",
+            "page": "http://www.imdb.com/find?q=tt1541718"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dragon Age: Origins (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Justice League Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0823153",
+            "page": "http://www.imdb.com/find?q=tt0823153"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Justice League Heroes (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Mass Effect 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1540125",
+            "page": "http://www.imdb.com/find?q=tt1540125"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mass Effect 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Mass Effect 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1839558",
+            "page": "http://www.imdb.com/find?q=tt1839558"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mass Effect 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Red Faction Guerrilla",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1333108",
+            "page": "http://www.imdb.com/find?q=tt1333108"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Red Faction Guerrilla (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Knights of the Old Republic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356070",
+            "page": "http://www.imdb.com/find?q=tt0356070"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Knights of the Old Republic (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Trek: Starfleet Command III",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0339724",
+            "page": "http://www.imdb.com/find?q=tt0339724"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Trek: Starfleet Command III (video game)"
+    },
+    {
+      "body": "${link_0} (ADR loop coordinator)",
+      "links": [
+        {
+          "body": "Tales from the Crypt",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096708",
+            "page": "http://www.imdb.com/find?q=tt0096708"
+          }
+        }
+      ],
+      "section": [
+        "Courtenay Taylor",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tales from the Crypt (ADR loop coordinator)"
+    },
+    {
       "body": "Courtenay was raised in San Francisco by her English mother and Australian father. She attended college at the University of Redlands and San Francisco State, majoring in Broadcast Communications with a minor in theater. She is married to David Taylor, a former footballer and the current assistant manager of Caersws F.C.",
       "links": [],
+      "section": [
+        "Courtenay Taylor",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Courtenay was raised in San Francisco by her English mother and Australian father. She attended college at the University of Redlands and San Francisco State, majoring in Broadcast Communications with a minor in theater. She is married to David Taylor, a former footballer and the current assistant manager of Caersws F.C."
     },
     {
       "body": "After spending a season in Los Angeles working on HBO's Tales From The Crypt as a production assistant, Courtenay returned to San Francisco to attend the American Conservatory Theater and study voice acting with The Voice Factory's Taylor Korobow. She is a founding instructor at Gorilla Sports, a popular boxing, spinning, and yoga gym that branched out to Manhattan Beach and Chicago.",
       "links": [],
+      "section": [
+        "Courtenay Taylor",
+        "Biographical information",
+        "Career"
+      ],
       "text": "After spending a season in Los Angeles working on HBO's Tales From The Crypt as a production assistant, Courtenay returned to San Francisco to attend the American Conservatory Theater and study voice acting with The Voice Factory's Taylor Korobow. She is a founding instructor at Gorilla Sports, a popular boxing, spinning, and yoga gym that branched out to Manhattan Beach and Chicago."
     },
     {
       "body": "In 1998, Courtenay moved back to Los Angeles and began working steadily in voice-overs, particularly for video games. Recently she has crossed over into on-camera work with roles on prime time TV and in feature films.",
       "links": [],
+      "section": [
+        "Courtenay Taylor",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 1998, Courtenay moved back to Los Angeles and began working steadily in voice-overs, particularly for video games. Recently she has crossed over into on-camera work with roles on prime time TV and in feature films."
     }
   ],

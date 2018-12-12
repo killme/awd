@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Jetsons (1962)",
+          "body": "${link_0} (1962)",
           "extra": "(1962)",
           "extra_text": "(1962)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Jetsons",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0055683",
+                "page": "http://www.imdb.com/find?q=tt0055683"
+              }
+            }
+          ],
           "text": "The Jetsons (1962)",
-          "value": "The Jetsons",
+          "value": "${link_0}",
           "value_text": "The Jetsons"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0041281",
+                "page": "http://www.imdb.com/find?q=nm0041281"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Ren\u00e9_Auberjonois_(actor)",
+                "page": "http://en.wikipedia.org/wiki/Ren\u00e9_Auberjonois_(actor)"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.renefiles.com/",
+                "page": "http://www.renefiles.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/reneauberjonois",
+                "page": "https://twitter.com/reneauberjonois"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -115,7 +168,8 @@
           "body": "Avatar: The Last Airbender",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         },
@@ -123,7 +177,8 @@
           "body": "Gan Jin leader",
           "key": "${link_1}",
           "target": {
-            "href": "Gan_Jin_leader",
+            "external": false,
+            "href": "/wiki/Gan_Jin_leader",
             "page": "Gan_Jin_leader"
           }
         },
@@ -131,7 +186,8 @@
           "body": "mechanist",
           "key": "${link_2}",
           "target": {
-            "href": "Mechanist",
+            "external": false,
+            "href": "/wiki/Mechanist",
             "page": "Mechanist"
           }
         },
@@ -139,42 +195,574 @@
           "body": "episodes",
           "key": "${link_3}",
           "target": {
-            "href": "List_of_Avatar__The_Last_Airbender_episodes",
+            "external": false,
+            "href": "/wiki/List_of_Avatar__The_Last_Airbender_episodes",
             "page": "List_of_Avatar__The_Last_Airbender_episodes"
           }
         }
       ],
+      "section": [
+        "Ren\u00e9 Auberjonois"
+      ],
       "text": "His Avatar: The Last Airbender credits include the Gan Jin leader and the mechanist, and he was also credited in two separate episodes for providing additional voices."
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Avatar: The Last Airbender credits",
+        "Gan Jin leader"
+      ],
+      "text": "111. \"The Great Divide\""
+    },
+    {
+      "body": "117. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Northern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Northern_Air_Temple",
+            "page": "The_Northern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Avatar: The Last Airbender credits",
+        "Mechanist"
+      ],
+      "text": "117. \"The Northern Air Temple\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Avatar: The Last Airbender credits",
+        "Mechanist"
+      ],
+      "text": "310. \"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Avatar: The Last Airbender credits",
+        "Mechanist"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "111. \"The Great Divide\""
+    },
+    {
+      "body": "117. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Northern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Northern_Air_Temple",
+            "page": "The_Northern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "117. \"The Northern Air Temple\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Boston Legal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0402711",
+            "page": "http://www.imdb.com/find?q=tt0402711"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Boston Legal"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Judging Amy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0209069",
+            "page": "http://www.imdb.com/find?q=tt0209069"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Judging Amy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Justice League",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275137",
+            "page": "http://www.imdb.com/find?q=tt0275137"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Justice League"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: Deep Space Nine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106145",
+            "page": "http://www.imdb.com/find?q=tt0106145"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: Deep Space Nine"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Legend of Tarzan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0283754",
+            "page": "http://www.imdb.com/find?q=tt0283754"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Legend of Tarzan"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Xiaolin Showdown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0386993",
+            "page": "http://www.imdb.com/find?q=tt0386993"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Xiaolin Showdown"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Geppetto's Secret",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0399085",
+            "page": "http://www.imdb.com/find?q=tt0399085"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Geppetto's Secret (2005)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Eulogy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0349416",
+            "page": "http://www.imdb.com/find?q=tt0349416"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Eulogy (2004)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "The Cat Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0347618",
+            "page": "http://www.imdb.com/find?q=tt0347618"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Cat Returns (2002)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "The Princess Diaries",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247638",
+            "page": "http://www.imdb.com/find?q=tt0247638"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Princess Diaries (2001)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Burning Down the House",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0123581",
+            "page": "http://www.imdb.com/find?q=tt0123581"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Burning Down the House (2001)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "The Patriot",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0187393",
+            "page": "http://www.imdb.com/find?q=tt0187393"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Patriot (2000)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Command & Conquer: Renegade",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0313919",
+            "page": "http://www.imdb.com/find?q=tt0313919"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Command & Conquer: Renegade (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fallout: New Vegas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1706601",
+            "page": "http://www.imdb.com/find?q=tt1706601"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fallout: New Vegas (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Legacy of Kain: Defiance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0365432",
+            "page": "http://www.imdb.com/find?q=tt0365432"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Legacy of Kain: Defiance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "New Legends",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0328181",
+            "page": "http://www.imdb.com/find?q=tt0328181"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "New Legends (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Pirates of the Caribbean: At World's End",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1043740",
+            "page": "http://www.imdb.com/find?q=tt1043740"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Pirates of the Caribbean: At World's End (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Uncharted 2: Among Thieves",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1349460",
+            "page": "http://www.imdb.com/find?q=tt1349460"
+          }
+        }
+      ],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Uncharted 2: Among Thieves (video game)"
     },
     {
       "body": "Auberjonois' father, Swiss-born Fernand Auberjonois (1910\u20132004), was a Cold War-era foreign correspondent and Pulitzer Prize-nominated writer. His grandfather, also named Ren\u00e9 Auberjonois, was a French Swiss post-Impressionist painter. His mother was Princess Laure Louise Napol\u00e9one Eug\u00e9nie Caroline Murat (1913\u20131986), a great-great granddaughter of Joachim Murat, King of Naples, and his wife Caroline Bonaparte, sister of the Emperor Napol\u00e9on.",
       "links": [],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Auberjonois' father, Swiss-born Fernand Auberjonois (1910\u20132004), was a Cold War-era foreign correspondent and Pulitzer Prize-nominated writer. His grandfather, also named Ren\u00e9 Auberjonois, was a French Swiss post-Impressionist painter. His mother was Princess Laure Louise Napol\u00e9one Eug\u00e9nie Caroline Murat (1913\u20131986), a great-great granddaughter of Joachim Murat, King of Naples, and his wife Caroline Bonaparte, sister of the Emperor Napol\u00e9on."
     },
     {
       "body": "He has a sister and a brother and also two half-sisters from his mother's first marriage. His family moved to Paris after World War II, where at an early age he decided to become an actor.",
       "links": [],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "He has a sister and a brother and also two half-sisters from his mother's first marriage. His family moved to Paris after World War II, where at an early age he decided to become an actor."
     },
     {
       "body": "Auberjonois married Judith Mihalyi on October 19, 1963. They have two children, Tessa and Remy, both of whom are also actors.",
       "links": [],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Auberjonois married Judith Mihalyi on October 19, 1963. They have two children, Tessa and Remy, both of whom are also actors."
     },
     {
       "body": "After college, Auberjonois worked with several different theater companies, beginning at the prestigious Arena Stage in Washington, D.C. He later traveled between Los Angeles and New York working in numerous theater productions. Auberjonois helped found the American Conservatory Theater in San Francisco, the Mark Taper Forum in Los Angeles, and the Brooklyn Academy of Music Repertory Company in New York. He was a member of the Peninsula Players summer theater program during the 1962 season.",
       "links": [],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Biographical information",
+        "Career"
+      ],
       "text": "After college, Auberjonois worked with several different theater companies, beginning at the prestigious Arena Stage in Washington, D.C. He later traveled between Los Angeles and New York working in numerous theater productions. Auberjonois helped found the American Conservatory Theater in San Francisco, the Mark Taper Forum in Los Angeles, and the Brooklyn Academy of Music Repertory Company in New York. He was a member of the Peninsula Players summer theater program during the 1962 season."
     },
     {
       "body": "Other Broadway appearances include Malvolio in the 1972 film\u00a0Twelfth Night; Scapin in the 1973 film Tricks; Mr. Samsa in Metamorphosis opposite Mikhail Baryshnikov in 1989; Professor Abronsius in Dance of the Vampires, Michael Crawford's unsuccessful rewrite of Tanz der Vampire; and Jethro Crouch in the 2004 show Sly Fox, for which he was nominated for an Outer Critics Circle Award. Auberjonois has also appeared many times at the Mark Taper Forum, notably as Stanislavski in Chekhov in Yalta. As a member of the Second Drama Quartet, Auberjonois toured with Ed Asner, Dianne Wiest, and Harris Yulin. He also appeared in the Tom Stoppard and Andre Previn work Every Good Boy Deserves Favor at the Kennedy Center.",
       "links": [],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Other Broadway appearances include Malvolio in the 1972 film\u00a0Twelfth Night; Scapin in the 1973 film Tricks; Mr. Samsa in Metamorphosis opposite Mikhail Baryshnikov in 1989; Professor Abronsius in Dance of the Vampires, Michael Crawford's unsuccessful rewrite of Tanz der Vampire; and Jethro Crouch in the 2004 show Sly Fox, for which he was nominated for an Outer Critics Circle Award. Auberjonois has also appeared many times at the Mark Taper Forum, notably as Stanislavski in Chekhov in Yalta. As a member of the Second Drama Quartet, Auberjonois toured with Ed Asner, Dianne Wiest, and Harris Yulin. He also appeared in the Tom Stoppard and Andre Previn work Every Good Boy Deserves Favor at the Kennedy Center."
     },
     {
       "body": "Auberjonois is a regular on three TV shows in three different genres: Benson, a situation comedy; the science fiction series Star Trek: Deep Space Nine; and the legal drama Boston Legal. He has also been a guest star on many different television series, including Hogan's Heroes, Charlie's Angels, The Jeffersons, Night Gallery, Murder, She Wrote, Frasier, Chicago Hope, Star Trek: Enterprise, Warehouse 13, The Practice, for which he received an Emmy nomination, Saving Grace, and It's Always Sunny In Philadelphia.",
       "links": [],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Auberjonois is a regular on three TV shows in three different genres: Benson, a situation comedy; the science fiction series Star Trek: Deep Space Nine; and the legal drama Boston Legal. He has also been a guest star on many different television series, including Hogan's Heroes, Charlie's Angels, The Jeffersons, Night Gallery, Murder, She Wrote, Frasier, Chicago Hope, Star Trek: Enterprise, Warehouse 13, The Practice, for which he received an Emmy nomination, Saving Grace, and It's Always Sunny In Philadelphia."
+    },
+    {
+      "body": "2007: Won a Prism Award for Boston Legal (Performance in a Drama Series, Multi-Episode Storyline)",
+      "links": [],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Awards"
+      ],
+      "text": "2007: Won a Prism Award for Boston Legal (Performance in a Drama Series, Multi-Episode Storyline)"
+    },
+    {
+      "body": "1991: Won a Grammy Award for The Little Mermaid (Best Recording for Children)",
+      "links": [],
+      "section": [
+        "Ren\u00e9 Auberjonois",
+        "Awards"
+      ],
+      "text": "1991: Won a Grammy Award for The Little Mermaid (Best Recording for Children)"
     }
   ],
   "source": {

@@ -3,28 +3,32 @@
     {
       "body": "Protected",
       "target": {
-        "href": "Category_Protected",
+        "external": false,
+        "href": "/wiki/Category_Protected",
         "page": "Category_Protected"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -48,12 +52,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Deck the Halls (2006)",
+          "body": "${link_0} (2006)",
           "extra": "(2006)",
           "extra_text": "(2006)",
-          "links": [],
+          "links": [
+            {
+              "body": "Deck the Halls",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0790604",
+                "page": "http://www.imdb.com/find?q=tt0790604"
+              }
+            }
+          ],
           "text": "Deck the Halls (2006)",
-          "value": "Deck the Halls",
+          "value": "${link_0}",
           "value_text": "Deck the Halls"
         }
       ]
@@ -62,30 +76,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2443758",
+                "page": "http://www.imdb.com/find?q=nm2443758"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Nicola_Peltz",
+                "page": "http://en.wikipedia.org/wiki/Nicola_Peltz"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/nicolaannepeltz",
+                "page": "https://twitter.com/nicolaannepeltz"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -93,8 +137,172 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bates Motel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2188671",
+            "page": "http://www.imdb.com/find?q=tt2188671"
+          }
+        }
+      ],
+      "section": [
+        "Nicola Peltz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bates Motel"
+    },
+    {
+      "body": "${link_0} (2016)",
+      "links": [
+        {
+          "body": "Youth in Oregon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3687316",
+            "page": "http://www.imdb.com/find?q=tt3687316"
+          }
+        }
+      ],
+      "section": [
+        "Nicola Peltz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Youth in Oregon (2016)"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Affluenza",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1906384",
+            "page": "http://www.imdb.com/find?q=tt1906384"
+          }
+        }
+      ],
+      "section": [
+        "Nicola Peltz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Affluenza (2014)"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Transformers: Age of Extinction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2109248",
+            "page": "http://www.imdb.com/find?q=tt2109248"
+          }
+        }
+      ],
+      "section": [
+        "Nicola Peltz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Transformers: Age of Extinction (2014)"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Affluenza",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1906384",
+            "page": "http://www.imdb.com/find?q=tt1906384"
+          }
+        }
+      ],
+      "section": [
+        "Nicola Peltz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Affluenza (2013)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Eye of the Hurricane",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1647665",
+            "page": "http://www.imdb.com/find?q=tt1647665"
+          }
+        }
+      ],
+      "section": [
+        "Nicola Peltz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Eye of the Hurricane (2010)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Harold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1041753",
+            "page": "http://www.imdb.com/find?q=tt1041753"
+          }
+        }
+      ],
+      "section": [
+        "Nicola Peltz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Harold (2008)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Deck the Halls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0790604",
+            "page": "http://www.imdb.com/find?q=tt0790604"
+          }
+        }
+      ],
+      "section": [
+        "Nicola Peltz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Deck the Halls (2006)"
+    },
+    {
       "body": "Peltz is the daughter of model Claudia, n\u00e9e Heffner, and billionaire Nelson Peltz. When she was younger she attended Greenwich Academy in Greenwich, Connecticut, and later went to Windward School in White Plains, New York. She also attended the Professional Children's School in Manhattan.",
       "links": [],
+      "section": [
+        "Nicola Peltz",
+        "Biographical information"
+      ],
       "text": "Peltz is the daughter of model Claudia, n\u00e9e Heffner, and billionaire Nelson Peltz. When she was younger she attended Greenwich Academy in Greenwich, Connecticut, and later went to Windward School in White Plains, New York. She also attended the Professional Children's School in Manhattan."
     }
   ],

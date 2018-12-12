@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Mister T (1983)",
+          "body": "${link_0} (1983)",
           "extra": "(1983)",
           "extra_text": "(1983)",
-          "links": [],
+          "links": [
+            {
+              "body": "Mister T",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0213357",
+                "page": "http://www.imdb.com/find?q=tt0213357"
+              }
+            }
+          ],
           "text": "Mister T (1983)",
-          "value": "Mister T",
+          "value": "${link_0}",
           "value_text": "Mister T"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0482851",
+                "page": "http://www.imdb.com/find?q=nm0482851"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Phil_LaMarr",
+                "page": "http://en.wikipedia.org/wiki/Phil_LaMarr"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Phil-LaMarr/104051366298082",
+                "page": "https://www.facebook.com/pages/Phil-LaMarr/104051366298082"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://web.me.com/phillamarr/Site/Welcome/",
+                "page": "http://web.me.com/phillamarr/Site/Welcome/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/phillamarr",
+                "page": "https://twitter.com/phillamarr"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,8 +181,633 @@
   ],
   "paragraphs": [
     {
+      "body": "218. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_King",
+            "page": "The_Earth_King"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Avatar: The Last Airbender credits",
+        "Kuei"
+      ],
+      "text": "218. \"The Earth King\""
+    },
+    {
+      "body": "219. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guru",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guru",
+            "page": "The_Guru"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Avatar: The Last Airbender credits",
+        "Kuei"
+      ],
+      "text": "219. \"The Guru\""
+    },
+    {
+      "body": "220. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Crossroads of Destiny",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Crossroads_of_Destiny",
+            "page": "The_Crossroads_of_Destiny"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Avatar: The Last Airbender credits",
+        "Kuei"
+      ],
+      "text": "220. \"The Crossroads of Destiny\""
+    },
+    {
+      "body": "220. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Crossroads of Destiny",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Crossroads_of_Destiny",
+            "page": "The_Crossroads_of_Destiny"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Avatar: The Last Airbender credits",
+        "Captured agent"
+      ],
+      "text": "220. \"The Crossroads of Destiny\""
+    },
+    {
+      "body": "218. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_King",
+            "page": "The_Earth_King"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "218. \"The Earth King\""
+    },
+    {
+      "body": "220. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Crossroads of Destiny",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Crossroads_of_Destiny",
+            "page": "The_Crossroads_of_Destiny"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "220. \"The Crossroads of Destiny\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Family Guy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0182576",
+            "page": "http://www.imdb.com/find?q=tt0182576"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Family Guy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Foster's Home for Imaginary Friends",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0419326",
+            "page": "http://www.imdb.com/find?q=tt0419326"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Foster's Home for Imaginary Friends"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Futurama",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0149460",
+            "page": "http://www.imdb.com/find?q=tt0149460"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Futurama"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Justice League",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275137",
+            "page": "http://www.imdb.com/find?q=tt0275137"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Justice League"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kaijudo: Rise of the Duel Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2339980",
+            "page": "http://www.imdb.com/find?q=tt2339980"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kaijudo: Rise of the Duel Masters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "King of the Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118375",
+            "page": "http://www.imdb.com/find?q=tt0118375"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "King of the Hill"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Samurai Jack",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0278238",
+            "page": "http://www.imdb.com/find?q=tt0278238"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Samurai Jack"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Avengers: Earth's Mightiest Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1626038",
+            "page": "http://www.imdb.com/find?q=tt1626038"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Avengers: Earth's Mightiest Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Young Justice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1641384",
+            "page": "http://www.imdb.com/find?q=tt1641384"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Young Justice"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Muffin Top: A Love Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2369600",
+            "page": "http://www.imdb.com/find?q=tt2369600"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Muffin Top: A Love Story (2014)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Cats & Dogs: The Revenge of Kitty Galore",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1287468",
+            "page": "http://www.imdb.com/find?q=tt1287468"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cats & Dogs: The Revenge of Kitty Galore (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Curious George 2: Follow That Monkey!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1350484",
+            "page": "http://www.imdb.com/find?q=tt1350484"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Curious George 2: Follow That Monkey! (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Bolt",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397892",
+            "page": "http://www.imdb.com/find?q=tt0397892"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bolt (2008)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Madagascar: Escape 2 Africa",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0479952",
+            "page": "http://www.imdb.com/find?q=tt0479952"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Madagascar: Escape 2 Africa (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "TMNT",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0453556",
+            "page": "http://www.imdb.com/find?q=tt0453556"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "TMNT (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Cook-Off!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0493407",
+            "page": "http://www.imdb.com/find?q=tt0493407"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cook-Off! (2006)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "FusionFall",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1363369",
+            "page": "http://www.imdb.com/find?q=tt1363369"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "FusionFall (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel: Ultimate Alliance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0814207",
+            "page": "http://www.imdb.com/find?q=tt0814207"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel: Ultimate Alliance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid 2: Sons of Liberty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0249008",
+            "page": "http://www.imdb.com/find?q=tt0249008"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid 2: Sons of Liberty (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid 4: Guns of the Patriots",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462423",
+            "page": "http://www.imdb.com/find?q=tt0462423"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid 4: Guns of the Patriots (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Saints Row 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1024918",
+            "page": "http://www.imdb.com/find?q=tt1024918"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Saints Row 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Scarface: The World Is Yours",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0451192",
+            "page": "http://www.imdb.com/find?q=tt0451192"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Scarface: The World Is Yours (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Speed Racer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1152717",
+            "page": "http://www.imdb.com/find?q=tt1152717"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Speed Racer (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837564",
+            "page": "http://www.imdb.com/find?q=tt0837564"
+          }
+        }
+      ],
+      "section": [
+        "Phil LaMarr",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man 3 (video game)"
+    },
+    {
       "body": "LaMarr is a graduate of Harvard High School in North Hollywood and Yale University, where he helped found the improv comedy group Purple Crayon. One of his biggest roles at Yale was the titular character in the British comedy Trevor. After graduating in 1989, LaMarr became a member of the award-winning sketch and improv comedy group The Groundlings. He also studied improv at The Second City and at the ImprovOlympic in Chicago with Del Close. He has also improvised with Cold Tofu and Off the Wall. His early film jobs arose from connections from his improv and college years; for example, LaMarr appeared in the film It's Pat because it was written by friends from The Groundlings, and appeared in Bio-Dome because the director was a friend from college. He is well remembered for his small but memorable role in Pulp Fiction as Marvin, and he was a member of the cast of the sketch comedy show MAD TV for five years.",
       "links": [],
+      "section": [
+        "Phil LaMarr",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "LaMarr is a graduate of Harvard High School in North Hollywood and Yale University, where he helped found the improv comedy group Purple Crayon. One of his biggest roles at Yale was the titular character in the British comedy Trevor. After graduating in 1989, LaMarr became a member of the award-winning sketch and improv comedy group The Groundlings. He also studied improv at The Second City and at the ImprovOlympic in Chicago with Del Close. He has also improvised with Cold Tofu and Off the Wall. His early film jobs arose from connections from his improv and college years; for example, LaMarr appeared in the film It's Pat because it was written by friends from The Groundlings, and appeared in Bio-Dome because the director was a friend from college. He is well remembered for his small but memorable role in Pulp Fiction as Marvin, and he was a member of the cast of the sketch comedy show MAD TV for five years."
     }
   ],

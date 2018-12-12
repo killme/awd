@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Lost Words (1994)",
+          "body": "${link_0} (1994)",
           "extra": "(1994)",
           "extra_text": "(1994)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Lost Words",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0110385",
+                "page": "http://www.imdb.com/find?q=tt0110385"
+              }
+            }
+          ],
           "text": "The Lost Words (1994)",
-          "value": "The Lost Words",
+          "value": "${link_0}",
           "value_text": "The Lost Words"
         }
       ]
@@ -55,12 +68,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0642104",
+                "page": "http://www.imdb.com/find?q=nm0642104"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -68,8 +91,773 @@
   ],
   "paragraphs": [
     {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Zuko Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Avatar: The Last Airbender credits",
+        "Gansu"
+      ],
+      "text": "207. \"Zuko Alone\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "666 Park Avenue",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2197797",
+            "page": "http://www.imdb.com/find?q=tt2197797"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "666 Park Avenue"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Believe",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2592094",
+            "page": "http://www.imdb.com/find?q=tt2592094"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Believe"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cupid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1143289",
+            "page": "http://www.imdb.com/find?q=tt1143289"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Cupid"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Damages",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0914387",
+            "page": "http://www.imdb.com/find?q=tt0914387"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Damages"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Elementary",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2191671",
+            "page": "http://www.imdb.com/find?q=tt2191671"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Elementary"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Freedom Riders",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1568331",
+            "page": "http://www.imdb.com/find?q=tt1568331"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Freedom Riders"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gotham",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3749900",
+            "page": "http://www.imdb.com/find?q=tt3749900"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gotham"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098844",
+            "page": "http://www.imdb.com/find?q=tt0098844"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order: Criminal Intent",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275140",
+            "page": "http://www.imdb.com/find?q=tt0275140"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order: Criminal Intent"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order: Special Victims Unit",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0203259",
+            "page": "http://www.imdb.com/find?q=tt0203259"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order: Special Victims Unit"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order: Trial by Jury",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0406429",
+            "page": "http://www.imdb.com/find?q=tt0406429"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order: Trial by Jury"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Madam Secretary",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3501074",
+            "page": "http://www.imdb.com/find?q=tt3501074"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Madam Secretary"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Person of Interest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1839578",
+            "page": "http://www.imdb.com/find?q=tt1839578"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Person of Interest"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Real Actors Read Yelp",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3102186",
+            "page": "http://www.imdb.com/find?q=tt3102186"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Real Actors Read Yelp"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Rescue Me",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0381798",
+            "page": "http://www.imdb.com/find?q=tt0381798"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Rescue Me"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Book of Daniel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0470642",
+            "page": "http://www.imdb.com/find?q=tt0470642"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Book of Daniel"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Corner",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0224853",
+            "page": "http://www.imdb.com/find?q=tt0224853"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Corner"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Following",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2071645",
+            "page": "http://www.imdb.com/find?q=tt2071645"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Following"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Good Wife",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1442462",
+            "page": "http://www.imdb.com/find?q=tt1442462"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Good Wife"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Jury",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398498",
+            "page": "http://www.imdb.com/find?q=tt0398498"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Jury"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Sopranos",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0141842",
+            "page": "http://www.imdb.com/find?q=tt0141842"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Sopranos"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Third Watch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0197182",
+            "page": "http://www.imdb.com/find?q=tt0197182"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Third Watch"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Unforgettable",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1842530",
+            "page": "http://www.imdb.com/find?q=tt1842530"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Unforgettable"
+    },
+    {
+      "body": "${link_0} (2014; short)",
+      "links": [
+        {
+          "body": "The Parker",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3841870",
+            "page": "http://www.imdb.com/find?q=tt3841870"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Parker (2014; short)"
+    },
+    {
+      "body": "${link_0} (2014; short)",
+      "links": [
+        {
+          "body": "Cop Doc",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3732712",
+            "page": "http://www.imdb.com/find?q=tt3732712"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cop Doc (2014; short)"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "East of Acadia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2032452",
+            "page": "http://www.imdb.com/find?q=tt2032452"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "East of Acadia (2013)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "The Bourne Legacy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1194173",
+            "page": "http://www.imdb.com/find?q=tt1194173"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Bourne Legacy (2012)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Burn After Reading",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0887883",
+            "page": "http://www.imdb.com/find?q=tt0887883"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Burn After Reading (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Brooklyn Rules",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0283503",
+            "page": "http://www.imdb.com/find?q=tt0283503"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Brooklyn Rules (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Chapter 27",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0488988",
+            "page": "http://www.imdb.com/find?q=tt0488988"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Chapter 27 (2007)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Laws of Attraction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0323033",
+            "page": "http://www.imdb.com/find?q=tt0323033"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Laws of Attraction (2004)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Three Long Years",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0346024",
+            "page": "http://www.imdb.com/find?q=tt0346024"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Three Long Years (2003)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "H.O.L.E.: The Disillusionment of Mike and Eva",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1548986",
+            "page": "http://www.imdb.com/find?q=tt1548986"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "H.O.L.E.: The Disillusionment of Mike and Eva (2002)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Bury the Evidence",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0180588",
+            "page": "http://www.imdb.com/find?q=tt0180588"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bury the Evidence (1998)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "The Lost Words",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110385",
+            "page": "http://www.imdb.com/find?q=tt0110385"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Lost Words (1994)"
+    },
+    {
+      "body": "${link_0} (co-producer, director, and writer)",
+      "links": [
+        {
+          "body": "H.O.L.E.: The Disillusionment of Mike and Eva",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1548986",
+            "page": "http://www.imdb.com/find?q=tt1548986"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "H.O.L.E.: The Disillusionment of Mike and Eva (co-producer, director, and writer)"
+    },
+    {
+      "body": "${link_0} (short - director)",
+      "links": [
+        {
+          "body": "The Parker",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3841870",
+            "page": "http://www.imdb.com/find?q=tt3841870"
+          }
+        }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Parker (short - director)"
+    },
+    {
       "body": "O'Neill is a singer, songwriter, and guitar/bass player for the band Minus Ted, which he founded with fellow Third Watch actor Skipp Sudduth. He also serves as an acting instructor at The New York Film Academy.",
       "links": [],
+      "section": [
+        "Brian O'Neill",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "O'Neill is a singer, songwriter, and guitar/bass player for the band Minus Ted, which he founded with fellow Third Watch actor Skipp Sudduth. He also serves as an acting instructor at The New York Film Academy."
     },
     {
@@ -79,17 +867,37 @@
           "body": "J. K. Simmons",
           "key": "${link_0}",
           "target": {
-            "href": "J._K",
+            "external": false,
+            "href": "/wiki/J._K",
             "page": "J._K"
           }
         }
+      ],
+      "section": [
+        "Brian O'Neill",
+        "Biographical information",
+        "Career"
       ],
       "text": "O'Neill's first acting credit came in the 1994 film The Lost Words, followed by Bury the Evidence in 1998. In 2002, he wrote, directed, and starred in H.O.L.E.: The Disillusionment of Mike and Eva, before appearing in Three Long Years, Laws of Attraction, Chapter 27, and Brooklyn Rules. He appeared alongside J. K. Simmons in the 2008 film Burn After Reading and later appeared in The Bourne Legacy and East of Acadia in 2012 and 2013, respectively. In 2014, he appeared in two shorts, Cop Doc and The Parker, the latter of which he also directed."
     },
     {
       "body": "O'Neill has also been a regular on television. His first appearance on the small screen came in 1998 when he appeared in one episode of Law & Order, which would be followed in subsequent years by appearances in a number of other series in the franchise. In 2000, he appeared in crime drama Third Watch and made multiple appearances in The Corner. He has since appeared in a number of other series, including Rescue Me, The Sopranos, Damages, The Good Wife, Person of Interest, Elementary, The Following, Believe, Madam Secretary, and Gotham.",
       "links": [],
+      "section": [
+        "Brian O'Neill",
+        "Biographical information",
+        "Career"
+      ],
       "text": "O'Neill has also been a regular on television. His first appearance on the small screen came in 1998 when he appeared in one episode of Law & Order, which would be followed in subsequent years by appearances in a number of other series in the franchise. In 2000, he appeared in crime drama Third Watch and made multiple appearances in The Corner. He has since appeared in a number of other series, including Rescue Me, The Sopranos, Damages, The Good Wife, Person of Interest, Elementary, The Following, Believe, Madam Secretary, and Gotham."
+    },
+    {
+      "body": "2004: Won a Julie Harris National Playwrighting Award for Grass Island",
+      "links": [],
+      "section": [
+        "Brian O'Neill",
+        "Awards"
+      ],
+      "text": "2004: Won a Julie Harris National Playwrighting Award for Grass Island"
     }
   ],
   "source": {

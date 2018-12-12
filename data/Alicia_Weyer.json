@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Avatar: The Last Airbender (2006)",
+          "body": "${link_0} (2006)",
           "extra": "(2006)",
           "extra_text": "(2006)",
-          "links": [],
+          "links": [
+            {
+              "body": "Avatar: The Last Airbender",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0417299",
+                "page": "http://www.imdb.com/find?q=tt0417299"
+              }
+            }
+          ],
           "text": "Avatar: The Last Airbender (2006)",
-          "value": "Avatar: The Last Airbender",
+          "value": "${link_0}",
           "value_text": "Avatar: The Last Airbender"
         }
       ]
@@ -41,12 +54,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2747085",
+                "page": "http://www.imdb.com/find?q=nm2747085"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -54,9 +77,24 @@
   ],
   "paragraphs": [
     {
-      "body": "This page lacks visual representations and needs one or more relevant images.",
-      "links": [],
-      "text": "This page lacks visual representations and needs one or more relevant images."
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Alicia Weyer",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
     }
   ],
   "source": {

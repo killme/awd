@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Ripping Friends (2001)",
+          "body": "${link_0} (2001)",
           "extra": "(2001)",
           "extra_text": "(2001)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Ripping Friends",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0290117",
+                "page": "http://www.imdb.com/find?q=tt0290117"
+              }
+            }
+          ],
           "text": "The Ripping Friends (2001)",
-          "value": "The Ripping Friends",
+          "value": "${link_0}",
           "value_text": "The Ripping Friends"
         }
       ]
@@ -69,66 +82,136 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1082823",
+                "page": "http://www.imdb.com/find?q=nm1082823"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Eric_Bauza",
+                "page": "http://en.wikipedia.org/wiki/Eric_Bauza"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Blogger",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Blogger",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://bauzilla.blogspot.com/",
+                "page": "http://bauzilla.blogspot.com/"
+              }
+            }
+          ],
           "text": "Blogger",
-          "value": "Blogger",
+          "value": "${link_0}",
           "value_text": "Blogger"
         },
         {
-          "body": "DeviantART",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "DeviantART",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://bauzilla.deviantart.com/",
+                "page": "http://bauzilla.deviantart.com/"
+              }
+            }
+          ],
           "text": "DeviantART",
-          "value": "DeviantART",
+          "value": "${link_0}",
           "value_text": "DeviantART"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/104345723192910501083/posts",
+                "page": "https://plus.google.com/104345723192910501083/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/bauzilla",
+                "page": "https://twitter.com/bauzilla"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/bauzilla",
+                "page": "http://www.youtube.com/user/bauzilla"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
@@ -136,23 +219,323 @@
   ],
   "paragraphs": [
     {
+      "body": "314. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_1",
+            "page": "The_Boiling_Rock%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "314. \"The Boiling Rock, Part 1\""
+    },
+    {
+      "body": "315. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "315. \"The Boiling Rock, Part 2\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Breadwinners",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3481544",
+            "page": "http://www.imdb.com/find?q=tt3481544"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Breadwinners"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Chowder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1140100",
+            "page": "http://www.imdb.com/find?q=tt1140100"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Chowder"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dan Vs.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1675276",
+            "page": "http://www.imdb.com/find?q=tt1675276"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dan Vs."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "El Tigre: The Adventures of Manny Rivera",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0805837",
+            "page": "http://www.imdb.com/find?q=tt0805837"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "El Tigre: The Adventures of Manny Rivera"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "G.I. Joe: Resolute",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1259299",
+            "page": "http://www.imdb.com/find?q=tt1259299"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "G.I. Joe: Resolute"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hero: 108",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1674117",
+            "page": "http://www.imdb.com/find?q=tt1674117"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hero: 108"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ren & Stimpy 'Adult Party Cartoon'",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0371475",
+            "page": "http://www.imdb.com/find?q=tt0371475"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ren & Stimpy 'Adult Party Cartoon'"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Toon Wolf",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1764712",
+            "page": "http://www.imdb.com/find?q=tt1764712"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Toon Wolf"
+    },
+    {
+      "body": "${link_0} (2010; video short)",
+      "links": [
+        {
+          "body": "DC Super Friends",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1773355",
+            "page": "http://www.imdb.com/find?q=tt1773355"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "DC Super Friends (2010; video short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Alvin and the Chipmunks: The Squeakquel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1231580",
+            "page": "http://www.imdb.com/find?q=tt1231580"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Alvin and the Chipmunks: The Squeakquel (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Los campeones de la lucha libre",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1264071",
+            "page": "http://www.imdb.com/find?q=tt1264071"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Los campeones de la lucha libre (2008)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "El Tigre: The Adventures of Manny Rivera",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1202561",
+            "page": "http://www.imdb.com/find?q=tt1202561"
+          }
+        }
+      ],
+      "section": [
+        "Eric Bauza",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "El Tigre: The Adventures of Manny Rivera (video game)"
+    },
+    {
       "body": "Eric Bauza attended Cardinal Newman High School in Scarborough, Ontario, from 1994 to 1997. Even from a young age, he was a comedic character who was heavily involved with the creative arts.",
       "links": [],
+      "section": [
+        "Eric Bauza",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Eric Bauza attended Cardinal Newman High School in Scarborough, Ontario, from 1994 to 1997. Even from a young age, he was a comedic character who was heavily involved with the creative arts."
     },
     {
       "body": "Bauza started his career in animation as a character designer, working with a few production studios in Hollywood. It was this introduction to the animation world that eventually led him to a successful career in voice-overs.",
       "links": [],
+      "section": [
+        "Eric Bauza",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Bauza started his career in animation as a character designer, working with a few production studios in Hollywood. It was this introduction to the animation world that eventually led him to a successful career in voice-overs."
     },
     {
       "body": "In just a few short years, Bauza has starred in such Emmy award-winning shows as Nickelodeon's El Tigre: The Adventures of Manny Rivera, The Fairly OddParents, Spike TV's Ren & Stimpy: 'Adult Party Cartoon', Warner Bros. Animation's Coconut Fred's Fruit Salad Island, and Hasbro's G.I. Joe: Resolute. Aside from his television credits, he has played multiple roles on The King and Us, a web-series sponsored by Burger King, and was seen on the NFL on Fox pregame show. Bauza had a cameo role as Digger the NASCAR Gopher in Alvin and the Chipmunks: The Squeakuel.",
       "links": [],
+      "section": [
+        "Eric Bauza",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In just a few short years, Bauza has starred in such Emmy award-winning shows as Nickelodeon's El Tigre: The Adventures of Manny Rivera, The Fairly OddParents, Spike TV's Ren & Stimpy: 'Adult Party Cartoon', Warner Bros. Animation's Coconut Fred's Fruit Salad Island, and Hasbro's G.I. Joe: Resolute. Aside from his television credits, he has played multiple roles on The King and Us, a web-series sponsored by Burger King, and was seen on the NFL on Fox pregame show. Bauza had a cameo role as Digger the NASCAR Gopher in Alvin and the Chipmunks: The Squeakuel."
     },
     {
       "body": "He is currently working on his stand up routine and has already performed at the Laugh Factory in Los Angeles alongside Harland Williams.",
       "links": [],
+      "section": [
+        "Eric Bauza",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He is currently working on his stand up routine and has already performed at the Laugh Factory in Los Angeles alongside Harland Williams."
     }
   ],

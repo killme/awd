@@ -3,28 +3,32 @@
     {
       "body": "Protected",
       "target": {
-        "href": "Category_Protected",
+        "external": false,
+        "href": "/wiki/Category_Protected",
         "page": "Category_Protected"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -62,12 +66,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Days of our Lives (2005)",
+          "body": "${link_0} (2005)",
           "extra": "(2005)",
           "extra_text": "(2005)",
-          "links": [],
+          "links": [
+            {
+              "body": "Days of our Lives",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0058796",
+                "page": "http://www.imdb.com/find?q=tt0058796"
+              }
+            }
+          ],
           "text": "Days of our Lives (2005)",
-          "value": "Days of our Lives",
+          "value": "${link_0}",
           "value_text": "Days of our Lives"
         }
       ]
@@ -76,39 +90,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1974397",
+                "page": "http://www.imdb.com/find?q=nm1974397"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Summer_Bishil",
+                "page": "http://en.wikipedia.org/wiki/Summer_Bishil"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/SummerBishil",
+                "page": "https://www.facebook.com/SummerBishil"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/SummerBishil1",
+                "page": "https://twitter.com/SummerBishil1"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -116,13 +170,363 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "90210",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1225901",
+            "page": "http://www.imdb.com/find?q=tt1225901"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "90210"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Blast Vegas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2320640",
+            "page": "http://www.imdb.com/find?q=tt2320640"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Blast Vegas (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Days of our Lives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0058796",
+            "page": "http://www.imdb.com/find?q=tt0058796"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Days of our Lives"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Drake & Josh",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0363328",
+            "page": "http://www.imdb.com/find?q=tt0363328"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Drake & Josh"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hannah Montana",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0493093",
+            "page": "http://www.imdb.com/find?q=tt0493093"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hannah Montana"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Just for Kicks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0439367",
+            "page": "http://www.imdb.com/find?q=tt0439367"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Just for Kicks"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lucky 7",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2712966",
+            "page": "http://www.imdb.com/find?q=tt2712966"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lucky 7"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Return to Halloweentown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0816520",
+            "page": "http://www.imdb.com/find?q=tt0816520"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Return to Halloweentown (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Magicians",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4254242",
+            "page": "http://www.imdb.com/find?q=tt4254242"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Magicians"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Whole Truth",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1610515",
+            "page": "http://www.imdb.com/find?q=tt1610515"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Whole Truth"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Three Rivers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1440346",
+            "page": "http://www.imdb.com/find?q=tt1440346"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Three Rivers"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Pop Star",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1900920",
+            "page": "http://www.imdb.com/find?q=tt1900920"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pop Star (2013)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Mooz-lum",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1450328",
+            "page": "http://www.imdb.com/find?q=tt1450328"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mooz-lum (2010)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0938283",
+            "page": "http://www.imdb.com/find?q=tt0938283"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Last Airbender (2010)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Public Relations",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1407071",
+            "page": "http://www.imdb.com/find?q=tt1407071"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Public Relations (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Crossing Over",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0924129",
+            "page": "http://www.imdb.com/find?q=tt0924129"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Crossing Over (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Towelhead",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0787523",
+            "page": "http://www.imdb.com/find?q=tt0787523"
+          }
+        }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Towelhead (2008)"
+    },
+    {
       "body": "Bishil was born in Pasadena, California, to an American mother and a father who is a Saudi citizen of Indian descent. She is the youngest of three children, with one sister and one brother. Bishil lived in Pasadena until she was three, when her family moved to Saudi Arabia, and later Bahrain.",
       "links": [],
+      "section": [
+        "Summer Bishil",
+        "Biographical information",
+        "Early years"
+      ],
       "text": "Bishil was born in Pasadena, California, to an American mother and a father who is a Saudi citizen of Indian descent. She is the youngest of three children, with one sister and one brother. Bishil lived in Pasadena until she was three, when her family moved to Saudi Arabia, and later Bahrain."
     },
     {
       "body": "Bishil, her brother, and her mother returned to Southern California when she was fourteen, where she completed an independent study program for high school. Returning to the United States was not easy at first, and Bishil stated that she \"... initially had some tough times trying to assimilate.\"",
       "links": [],
+      "section": [
+        "Summer Bishil",
+        "Biographical information",
+        "Early years"
+      ],
       "text": "Bishil, her brother, and her mother returned to Southern California when she was fourteen, where she completed an independent study program for high school. Returning to the United States was not easy at first, and Bishil stated that she \"... initially had some tough times trying to assimilate.\""
     },
     {
@@ -132,16 +536,27 @@
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
+      ],
+      "section": [
+        "Summer Bishil",
+        "Biographical information",
+        "Career"
       ],
       "text": "In love with the idea of becoming an actress since the age of five, Bishil was 14 when she took her first acting class. Nine months later, a manager and agency signed her to a contract. Her first role was on a short-lived Nickelodeon show, Just for Kicks, followed by several appearances in children's shows before her break-through performance in Towelhead. Bob Strauss, who writes for several Los Angeles newspapers, stated that Bishil \"is one of the finest natural film actresses to emerge in years.\" Gary Goldstein of the Los Angeles Times, in a September 12 review of the movie Towelhead, stated that \"newcomer Summer Bishil turns in a gutsy, quietly riveting performance as Jasira.\""
     },
     {
       "body": "In 2007, Bishil was chosen by Variety Magazine as one of the 10 actors to watch, and was similarly picked as \"One to Watch\" at the 2008 Young Hollywood Awards. She also appeared in Vanity Fair magazine in their young Hollywood portfolio.",
       "links": [],
+      "section": [
+        "Summer Bishil",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 2007, Bishil was chosen by Variety Magazine as one of the 10 actors to watch, and was similarly picked as \"One to Watch\" at the 2008 Young Hollywood Awards. She also appeared in Vanity Fair magazine in their young Hollywood portfolio."
     }
   ],

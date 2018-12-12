@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Jack Benny Program (1960)",
+          "body": "${link_0} (1960)",
           "extra": "(1960)",
           "extra_text": "(1960)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Jack Benny Program",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0042116",
+                "page": "http://www.imdb.com/find?q=tt0042116"
+              }
+            }
+          ],
           "text": "The Jack Benny Program (1960)",
-          "value": "The Jack Benny Program",
+          "value": "${link_0}",
           "value_text": "The Jack Benny Program"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0798152",
+                "page": "http://www.imdb.com/find?q=nm0798152"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Susan_Silo",
+                "page": "http://en.wikipedia.org/wiki/Susan_Silo"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.susansilo.com/",
+                "page": "http://www.susansilo.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -86,13 +129,561 @@
   ],
   "paragraphs": [
     {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Avatar: The Last Airbender credits",
+        "Fisherman's wife"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "The Legend of Korra credits",
+        "Yin"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "The Legend of Korra credits",
+        "Yin"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ultimatum",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ultimatum",
+            "page": "The_Ultimatum"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "The Legend of Korra credits",
+        "Yin"
+      ],
+      "text": "311. \"The Ultimatum\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enter the Void",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enter_the_Void",
+            "page": "Enter_the_Void"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "The Legend of Korra credits",
+        "Yin"
+      ],
+      "text": "312. \"Enter the Void\""
+    },
+    {
+      "body": "407. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Reunion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Reunion",
+            "page": "Reunion"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "The Legend of Korra credits",
+        "Yin"
+      ],
+      "text": "407. \"Reunion\""
+    },
+    {
+      "body": "408. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Remembrances",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Remembrances",
+            "page": "Remembrances"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "The Legend of Korra credits",
+        "Yin"
+      ],
+      "text": "408. \"Remembrances\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Attack of the Killer Tomatoes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0124229",
+            "page": "http://www.imdb.com/find?q=tt0124229"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Attack of the Killer Tomatoes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Biker Mice from Mars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0459618",
+            "page": "http://www.imdb.com/find?q=tt0459618"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Biker Mice from Mars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Curious George",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0381971",
+            "page": "http://www.imdb.com/find?q=tt0381971"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Curious George"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "El Tigre: The Adventures of Manny Rivera",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0805837",
+            "page": "http://www.imdb.com/find?q=tt0805837"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "El Tigre: The Adventures of Manny Rivera"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Garfield and Friends",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094469",
+            "page": "http://www.imdb.com/find?q=tt0094469"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Garfield and Friends"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Tick",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112196",
+            "page": "http://www.imdb.com/find?q=tt0112196"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Tick"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Where's Waldo?",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0213376",
+            "page": "http://www.imdb.com/find?q=tt0213376"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Where's Waldo?"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Xiaolin Showdown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0386993",
+            "page": "http://www.imdb.com/find?q=tt0386993"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Xiaolin Showdown"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Ant Bully",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0429589",
+            "page": "http://www.imdb.com/find?q=tt0429589"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Ant Bully (2006)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Lilo & Stitch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275847",
+            "page": "http://www.imdb.com/find?q=tt0275847"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lilo & Stitch (2002)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Kiss Toledo Goodbye",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0156711",
+            "page": "http://www.imdb.com/find?q=tt0156711"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kiss Toledo Goodbye (1999)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "The High Crusade",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110024",
+            "page": "http://www.imdb.com/find?q=tt0110024"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The High Crusade (1994)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "Once Upon a Forest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0107745",
+            "page": "http://www.imdb.com/find?q=tt0107745"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Once Upon a Forest (1993)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Jetsons: The Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0099878",
+            "page": "http://www.imdb.com/find?q=tt0099878"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Jetsons: The Movie (1990)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crash Tag Team Racing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0492452",
+            "page": "http://www.imdb.com/find?q=tt0492452"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crash Tag Team Racing (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dead Rising",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837114",
+            "page": "http://www.imdb.com/find?q=tt0837114"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dead Rising (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Earth and Beyond",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0338946",
+            "page": "http://www.imdb.com/find?q=tt0338946"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Earth and Beyond (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "God of War II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0846694",
+            "page": "http://www.imdb.com/find?q=tt0846694"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "God of War II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Guild Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458384",
+            "page": "http://www.imdb.com/find?q=tt0458384"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Guild Wars (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Jericho",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1135590",
+            "page": "http://www.imdb.com/find?q=tt1135590"
+          }
+        }
+      ],
+      "section": [
+        "Susan Silo",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Jericho (video game)"
+    },
+    {
       "body": "Silo's acting career started in television on an episode of The Jack Benny Show. She also co-starred with Larry Blyden, Dawn Nickerson, and Diahn Williams in the NBC sitcom Harry's Girls, about a vaudeville troupe touring Europe. She also made guest appearances in episodes of numerous 1960s TV series, including Route 66, The Many Loves of Dobie Gillis, and The Man from U.N.C.L.E. She also appeared as Rita Lane on Gunsmoke in 1969.",
       "links": [],
+      "section": [
+        "Susan Silo",
+        "Biographical information"
+      ],
       "text": "Silo's acting career started in television on an episode of The Jack Benny Show. She also co-starred with Larry Blyden, Dawn Nickerson, and Diahn Williams in the NBC sitcom Harry's Girls, about a vaudeville troupe touring Europe. She also made guest appearances in episodes of numerous 1960s TV series, including Route 66, The Many Loves of Dobie Gillis, and The Man from U.N.C.L.E. She also appeared as Rita Lane on Gunsmoke in 1969."
     },
     {
       "body": "Susan Silo began her voice-acting career as a talking cow in a series of Land O' Lakes Margarine commercials for over ten years. She has done voices for Hanna-Barbera, Marvel, Disney, Ruby-Spears, DIC, Film Roman, and Murakami Wolf Swenson, among others.",
       "links": [],
+      "section": [
+        "Susan Silo",
+        "Biographical information"
+      ],
       "text": "Susan Silo began her voice-acting career as a talking cow in a series of Land O' Lakes Margarine commercials for over ten years. She has done voices for Hanna-Barbera, Marvel, Disney, Ruby-Spears, DIC, Film Roman, and Murakami Wolf Swenson, among others."
     }
   ],

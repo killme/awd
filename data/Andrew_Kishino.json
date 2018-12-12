@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "EverQuest II (2004; video game)",
+          "body": "${link_0} (2004; video game)",
           "extra": "(2004; video game)",
           "extra_text": "(2004; video game)",
-          "links": [],
+          "links": [
+            {
+              "body": "EverQuest II",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0428505",
+                "page": "http://www.imdb.com/find?q=tt0428505"
+              }
+            }
+          ],
           "text": "EverQuest II (2004; video game)",
-          "value": "EverQuest II",
+          "value": "${link_0}",
           "value_text": "EverQuest II"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1873559",
+                "page": "http://www.imdb.com/find?q=nm1873559"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Andrew_Kishino",
+                "page": "http://en.wikipedia.org/wiki/Andrew_Kishino"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.andrewkishino.com/",
+                "page": "http://www.andrewkishino.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/big_kish",
+                "page": "https://twitter.com/big_kish"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,13 +148,243 @@
   ],
   "paragraphs": [
     {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Kishino",
+        "The Legend of Korra credits",
+        "Big Chou"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Beef: The Series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0886664",
+            "page": "http://www.imdb.com/find?q=tt0886664"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Kishino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Beef: The Series"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "From G's to Gents",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1142894",
+            "page": "http://www.imdb.com/find?q=tt1142894"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Kishino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "From G's to Gents"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kaijudo: Rise of the Duel Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2339980",
+            "page": "http://www.imdb.com/find?q=tt2339980"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Kishino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kaijudo: Rise of the Duel Masters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Kishino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Spectacular Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0976192",
+            "page": "http://www.imdb.com/find?q=tt0976192"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Kishino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Spectacular Spider-Man"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Superman vs. The Elite",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2224455",
+            "page": "http://www.imdb.com/find?q=tt2224455"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Kishino",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Superman vs. The Elite (2012)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "G.I. Joe: Renegades",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1705038",
+            "page": "http://www.imdb.com/find?q=tt1705038"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Kishino",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "G.I. Joe: Renegades (2010)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Kishino",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kung Fu Panda",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1191122",
+            "page": "http://www.imdb.com/find?q=tt1191122"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Kishino",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kung Fu Panda (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel: Ultimate Alliance 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1266580",
+            "page": "http://www.imdb.com/find?q=tt1266580"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Kishino",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel: Ultimate Alliance 2 (video game)"
+    },
+    {
       "body": "Kishino was married to voice actor Vanessa Marshall from 2001 to 2007. During their marriage, they founded Marsh-Kish Productions, a voice-over production company.",
       "links": [],
+      "section": [
+        "Andrew Kishino",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Kishino was married to voice actor Vanessa Marshall from 2001 to 2007. During their marriage, they founded Marsh-Kish Productions, a voice-over production company."
     },
     {
       "body": "Kishino formerly had a career as a rapper under the name Kish. He is considered a one-hit wonder due to his 1991 song \"I Rhyme the World in 80 Days\", which was accompanied by a music video that received airplay on MuchMusic. He later moved to Los Angeles to work as a hip-hop music producer.",
       "links": [],
+      "section": [
+        "Andrew Kishino",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Kishino formerly had a career as a rapper under the name Kish. He is considered a one-hit wonder due to his 1991 song \"I Rhyme the World in 80 Days\", which was accompanied by a music video that received airplay on MuchMusic. He later moved to Los Angeles to work as a hip-hop music producer."
     }
   ],

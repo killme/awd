@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Knight Rider (1984)",
+          "body": "${link_0} (1984)",
           "extra": "(1984)",
           "extra_text": "(1984)",
-          "links": [],
+          "links": [
+            {
+              "body": "Knight Rider",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0083437",
+                "page": "http://www.imdb.com/find?q=tt0083437"
+              }
+            }
+          ],
           "text": "Knight Rider (1984)",
-          "value": "Knight Rider",
+          "value": "${link_0}",
           "value_text": "Knight Rider"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0298281",
+                "page": "http://www.imdb.com/find?q=nm0298281"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Kurt_Fuller",
+                "page": "http://en.wikipedia.org/wiki/Kurt_Fuller"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/TheKurtFuller",
+                "page": "https://twitter.com/TheKurtFuller"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -100,18 +143,393 @@
   ],
   "paragraphs": [
     {
+      "body": "217. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lake Laogai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai_(episode)",
+            "page": "Lake_Laogai_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Avatar: The Last Airbender credits",
+        "Quon"
+      ],
+      "text": "217. \"Lake Laogai\""
+    },
+    {
+      "body": "217. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lake Laogai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai_(episode)",
+            "page": "Lake_Laogai_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "217. \"Lake Laogai\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Alias",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285333",
+            "page": "http://www.imdb.com/find?q=tt0285333"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Alias"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Better with You",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1598876",
+            "page": "http://www.imdb.com/find?q=tt1598876"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Better with You"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Big Day",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0805660",
+            "page": "http://www.imdb.com/find?q=tt0805660"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Big Day"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Desperate Housewives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0410975",
+            "page": "http://www.imdb.com/find?q=tt0410975"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Desperate Housewives"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Psych",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0491738",
+            "page": "http://www.imdb.com/find?q=tt0491738"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Psych"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Supernatural",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460681",
+            "page": "http://www.imdb.com/find?q=tt0460681"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Supernatural"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "Arrow Heads",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1542379",
+            "page": "http://www.imdb.com/find?q=tt1542379"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Arrow Heads (2009; short)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Superhero Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0426592",
+            "page": "http://www.imdb.com/find?q=tt0426592"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Superhero Movie (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Mr. Woodcock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0419984",
+            "page": "http://www.imdb.com/find?q=tt0419984"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mr. Woodcock (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Pursuit of Happyness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0454921",
+            "page": "http://www.imdb.com/find?q=tt0454921"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Pursuit of Happyness (2006)"
+    },
+    {
+      "body": "${link_0} (2005; short)",
+      "links": [
+        {
+          "body": "Candor City Hospital",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0358412",
+            "page": "http://www.imdb.com/find?q=tt0358412"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Candor City Hospital (2005; short)"
+    },
+    {
+      "body": "${link_0} (2005; short)",
+      "links": [
+        {
+          "body": "I'm Not Gay",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0491554",
+            "page": "http://www.imdb.com/find?q=tt0491554"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I'm Not Gay (2005; short)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "The Civilization of Maxwell Bright",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0299135",
+            "page": "http://www.imdb.com/find?q=tt0299135"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Civilization of Maxwell Bright (2005)"
+    },
+    {
+      "body": "${link_0} (2005; short)",
+      "links": [
+        {
+          "body": "The Lost People of Mountain Village",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1714137",
+            "page": "http://www.imdb.com/find?q=tt1714137"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Lost People of Mountain Village (2005; short)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Ray",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0350258",
+            "page": "http://www.imdb.com/find?q=tt0350258"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ray (2004)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Anger Management",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0305224",
+            "page": "http://www.imdb.com/find?q=tt0305224"
+          }
+        }
+      ],
+      "section": [
+        "Kurt Fuller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Anger Management (2003)"
+    },
+    {
       "body": "Fuller graduated from Lincoln High School in Stockton, California, in 1971. He is married to actress Jessica Hendra, daughter of writer Tony Hendra, and has two children named Julia and Charlotte.",
       "links": [],
+      "section": [
+        "Kurt Fuller",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Fuller graduated from Lincoln High School in Stockton, California, in 1971. He is married to actress Jessica Hendra, daughter of writer Tony Hendra, and has two children named Julia and Charlotte."
     },
     {
       "body": "Generally cast as smarmy executives and authority figures, Fuller, standing six-feet five-inches tall, is probably best recognized as nerdy television director Russell in Wayne's World, a spiteful mayoral aide in Ghostbusters II, Mr. Brell in No Holds Barred, a seedy real estate agent in Elvira, Mistress of the Dark, and power-abusing, egotistical NSC Director Robert Lindsey in the third season of Alias. Usually cast in comedic roles, Fuller played Werner Klemperer, to whom he bears a very close physical likeness, in Paul Schrader's Auto Focus and Karl Rove on the TV satire That's My Bush!. He also played Pacific Bell Retirement Fund Executive Walter Ribbon in The Pursuit of Happyness.",
       "links": [],
+      "section": [
+        "Kurt Fuller",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Generally cast as smarmy executives and authority figures, Fuller, standing six-feet five-inches tall, is probably best recognized as nerdy television director Russell in Wayne's World, a spiteful mayoral aide in Ghostbusters II, Mr. Brell in No Holds Barred, a seedy real estate agent in Elvira, Mistress of the Dark, and power-abusing, egotistical NSC Director Robert Lindsey in the third season of Alias. Usually cast in comedic roles, Fuller played Werner Klemperer, to whom he bears a very close physical likeness, in Paul Schrader's Auto Focus and Karl Rove on the TV satire That's My Bush!. He also played Pacific Bell Retirement Fund Executive Walter Ribbon in The Pursuit of Happyness."
     },
     {
       "body": "Fuller has appeared in many television shows as well, including Knight Rider, Timecop, Quantum Leap, L.A. Law, Murder, She Wrote, Ally McBeal, Felicity, Malcolm in the Middle, The West Wing, Boston Legal, Boston Public, House, Monk, Desperate Housewives, the live action version of The Tick, Charmed, Carniv\u00e0le, My Name Is Earl, Ugly Betty, Glee, and the pilot episode of NewsRadio. He has a recurring role as Woody the Coroner on Psych.",
       "links": [],
+      "section": [
+        "Kurt Fuller",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Fuller has appeared in many television shows as well, including Knight Rider, Timecop, Quantum Leap, L.A. Law, Murder, She Wrote, Ally McBeal, Felicity, Malcolm in the Middle, The West Wing, Boston Legal, Boston Public, House, Monk, Desperate Housewives, the live action version of The Tick, Charmed, Carniv\u00e0le, My Name Is Earl, Ugly Betty, Glee, and the pilot episode of NewsRadio. He has a recurring role as Woody the Coroner on Psych."
     }
   ],

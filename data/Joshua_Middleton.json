@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Meridian Iss. #1-6 (2000 - covers and interior pencils)",
+          "body": "${link_0} Iss. #1-6 (2000 - covers and interior pencils)",
           "extra": "(2000 - covers and interior pencils)",
           "extra_text": "(2000 - covers and interior pencils)",
-          "links": [],
+          "links": [
+            {
+              "body": "Meridian",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Meridian_(comics)",
+                "page": "http://en.wikipedia.org/wiki/Meridian_(comics)"
+              }
+            }
+          ],
           "text": "Meridian Iss. #1-6 (2000 - covers and interior pencils)",
-          "value": "Meridian Iss. #1-6",
+          "value": "${link_0} Iss. #1-6",
           "value_text": "Meridian Iss. #1-6"
         }
       ]
@@ -55,12 +68,31 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "WikipediaOfficial website",
+          "body": "${link_0}${link_1}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Joshua_Middleton",
+                "page": "http://en.wikipedia.org/wiki/Joshua_Middleton"
+              }
+            },
+            {
+              "body": "Official website",
+              "key": "${link_1}",
+              "target": {
+                "external": true,
+                "href": "http://www.joshuamiddleton.com/p/about",
+                "page": "http://www.joshuamiddleton.com/p/about"
+              }
+            }
+          ],
           "text": "WikipediaOfficial website",
-          "value": "WikipediaOfficial website",
+          "value": "${link_0}${link_1}",
           "value_text": "WikipediaOfficial website"
         }
       ]
@@ -68,34 +100,378 @@
   ],
   "paragraphs": [
     {
-      "body": "Official website",
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebel Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
+            "page": "Rebel_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Middleton",
+        "The Legend of Korra credits",
+        "Art director"
+      ],
+      "text": "201. \"Rebel Spirit\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Lights",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Lights",
+            "page": "The_Southern_Lights"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Middleton",
+        "The Legend of Korra credits",
+        "Art director"
+      ],
+      "text": "202. \"The Southern Lights\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Middleton",
+        "The Legend of Korra credits",
+        "Art director"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Middleton",
+        "The Legend of Korra credits",
+        "Art director"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "Wonder Woman Iss. #613, #614 (2011 - covers)",
       "links": [],
-      "text": "Official website"
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "In comics"
+      ],
+      "text": "Wonder Woman Iss. #613, #614 (2011 - covers)"
+    },
+    {
+      "body": "Supergirl Iss. #34-51 (2008-2009 - covers)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "In comics"
+      ],
+      "text": "Supergirl Iss. #34-51 (2008-2009 - covers)"
+    },
+    {
+      "body": "Wonder Woman #30 (May 2009 - cover)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "In comics"
+      ],
+      "text": "Wonder Woman #30 (May 2009 - cover)"
+    },
+    {
+      "body": "${link_0} #36 (October 2005 - cover)",
+      "links": [
+        {
+          "body": "Gotham Central",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Gotham_Central",
+            "page": "http://en.wikipedia.org/wiki/Gotham_Central"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "In comics"
+      ],
+      "text": "Gotham Central #36 (October 2005 - cover)"
+    },
+    {
+      "body": "${link_0} #3 (September 2005 - cover)",
+      "links": [
+        {
+          "body": "Serenity",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Serenity:_Those_Left_Behind",
+            "page": "http://en.wikipedia.org/wiki/Serenity:_Those_Left_Behind"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "In comics"
+      ],
+      "text": "Serenity #3 (September 2005 - cover)"
+    },
+    {
+      "body": "${link_0} #11 (November 2004 - cover and interior short story)",
+      "links": [
+        {
+          "body": "Street Fighter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Street_Fighter_(comic_book)",
+            "page": "http://en.wikipedia.org/wiki/Street_Fighter_(comic_book)"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "In comics"
+      ],
+      "text": "Street Fighter #11 (November 2004 - cover and interior short story)"
+    },
+    {
+      "body": "${link_0}\n #49 (September 2003 - cover)\n #47 (July 2003 - cover)\n #42 (April 2003 - interior)\n #40 (March 2003 - cover)\n #37 (December 2002 - interior)",
+      "links": [
+        {
+          "body": "X-Men Unlimited",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/X-Men_Unlimited",
+            "page": "http://en.wikipedia.org/wiki/X-Men_Unlimited"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "In comics"
+      ],
+      "text": "X-Men Unlimited\n #49 (September 2003 - cover)\n #47 (July 2003 - cover)\n #42 (April 2003 - interior)\n #40 (March 2003 - cover)\n #37 (December 2002 - interior)"
+    },
+    {
+      "body": "#49 (September 2003 - cover)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "In comics"
+      ],
+      "text": "#49 (September 2003 - cover)"
+    },
+    {
+      "body": "#47 (July 2003 - cover)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "In comics"
+      ],
+      "text": "#47 (July 2003 - cover)"
+    },
+    {
+      "body": "#42 (April 2003 - interior)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "In comics"
+      ],
+      "text": "#42 (April 2003 - interior)"
+    },
+    {
+      "body": "#40 (March 2003 - cover)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "In comics"
+      ],
+      "text": "#40 (March 2003 - cover)"
+    },
+    {
+      "body": "#37 (December 2002 - interior)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "In comics"
+      ],
+      "text": "#37 (December 2002 - interior)"
+    },
+    {
+      "body": "Sky Between Branches #0 (2001 - cover and interior)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "In comics"
+      ],
+      "text": "Sky Between Branches #0 (2001 - cover and interior)"
+    },
+    {
+      "body": "Meeting (2011 - cover)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "As an illustrator"
+      ],
+      "text": "Meeting (2011 - cover)"
+    },
+    {
+      "body": "Sidekicks (2011 - cover)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "As an illustrator"
+      ],
+      "text": "Sidekicks (2011 - cover)"
+    },
+    {
+      "body": "The Unknowns (2011 - cover)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "As an illustrator"
+      ],
+      "text": "The Unknowns (2011 - cover)"
+    },
+    {
+      "body": "Thresholds (2010 - cover)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "As an illustrator"
+      ],
+      "text": "Thresholds (2010 - cover)"
+    },
+    {
+      "body": "The Silver Door (2009 - cover)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "As an illustrator"
+      ],
+      "text": "The Silver Door (2009 - cover)"
+    },
+    {
+      "body": "The Ruby Key (2008 - cover)",
+      "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Selected other credits",
+        "As an illustrator"
+      ],
+      "text": "The Ruby Key (2008 - cover)"
     },
     {
       "body": "Middleton started his career as a comic book artist in 2000 as a penciler for CrossGen's Meridian, written by Barbara Kesel. After that, he joined a small independent British publisher, Com.x, planning to release there his creator-owned series Sky Between Branches; however, he only did a preview issue in early 2002, along with some other work for the publisher.",
       "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Biographical information"
+      ],
       "text": "Middleton started his career as a comic book artist in 2000 as a penciler for CrossGen's Meridian, written by Barbara Kesel. After that, he joined a small independent British publisher, Com.x, planning to release there his creator-owned series Sky Between Branches; however, he only did a preview issue in early 2002, along with some other work for the publisher."
     },
     {
       "body": "Following a stint at Marvel, he signed exclusively with DC Comics in 2004. His first DC series was Superman/Shazam: First Thunder, a miniseries that launched in September 2005. Middleton also served as regular cover artist for the Vertigo series American Virgin and DC Comics' Supergirl ongoing series.",
       "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Biographical information"
+      ],
       "text": "Following a stint at Marvel, he signed exclusively with DC Comics in 2004. His first DC series was Superman/Shazam: First Thunder, a miniseries that launched in September 2005. Middleton also served as regular cover artist for the Vertigo series American Virgin and DC Comics' Supergirl ongoing series."
     },
     {
       "body": "Middleton began working for WB Animation in October 2009 as a character designer but was quickly promoted to be an art director for Green Lantern: The Animated Series.",
       "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Biographical information"
+      ],
       "text": "Middleton began working for WB Animation in October 2009 as a character designer but was quickly promoted to be an art director for Green Lantern: The Animated Series."
     },
     {
       "body": "In addition to his comic book work, Joshua Middleton has illustrated book covers for several major publishers, including Scholastic, Abrams, Penguin, Viking, Tor, and Disney Press. Middleton has also served as a conceptual artist and illustrator for feature films produced by Universal Studios, Warner Brothers, Disney, Marvel Studios, Sony Pictures Entertainment, and Sony Pictures Animation.",
       "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Biographical information"
+      ],
       "text": "In addition to his comic book work, Joshua Middleton has illustrated book covers for several major publishers, including Scholastic, Abrams, Penguin, Viking, Tor, and Disney Press. Middleton has also served as a conceptual artist and illustrator for feature films produced by Universal Studios, Warner Brothers, Disney, Marvel Studios, Sony Pictures Entertainment, and Sony Pictures Animation."
     },
     {
       "body": "In early 2011, Middleton stated that he had decided to leave animation and return to his work in comics.",
       "links": [],
+      "section": [
+        "Joshua Middleton",
+        "Biographical information"
+      ],
       "text": "In early 2011, Middleton stated that he had decided to leave animation and return to his work in comics."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Joshua Middleton Online: About",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.joshuamiddleton.com/p/about",
+            "page": "http://www.joshuamiddleton.com/p/about"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Middleton",
+        "External links"
+      ],
+      "text": "Joshua Middleton Online: About"
     }
   ],
   "source": {

@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Console games",
       "target": {
-        "href": "Category_Console_games",
+        "external": false,
+        "href": "/wiki/Category_Console_games",
         "page": "Category_Console_games"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Video games",
       "target": {
-        "href": "Category_Video_games",
+        "external": false,
+        "href": "/wiki/Category_Video_games",
         "page": "Category_Video_games"
       }
     }
@@ -90,12 +94,31 @@
       "key": "Rating(s)",
       "value": [
         {
-          "body": "PS2, Wii, Xbox 360 ESRB: Everyone 10+ (violence) GBA, DS ESRB: Everyone (cartoon violence)",
+          "body": "PS2, Wii, Xbox 360 ${link_0}: Everyone 10+ (violence) GBA, DS ${link_1}: Everyone (cartoon violence)",
           "extra": "(violence)",
           "extra_text": "(violence)",
-          "links": [],
+          "links": [
+            {
+              "body": "ESRB",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board",
+                "page": "http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board"
+              }
+            },
+            {
+              "body": "ESRB",
+              "key": "${link_1}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board",
+                "page": "http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board"
+              }
+            }
+          ],
           "text": "PS2, Wii, Xbox 360 ESRB: Everyone 10+ (violence) GBA, DS ESRB: Everyone (cartoon violence)",
-          "value": "PS2, Wii, Xbox 360 ESRB: Everyone 10+  GBA, DS ESRB: Everyone",
+          "value": "PS2, Wii, Xbox 360 ${link_0}: Everyone 10+  GBA, DS ${link_1}: Everyone",
           "value_text": "PS2, Wii, Xbox 360 ESRB: Everyone 10+  GBA, DS ESRB: Everyone"
         }
       ]
@@ -176,7 +199,8 @@
               "body": "Avatar: The Last Airbender (video game)",
               "key": "${link_0}",
               "target": {
-                "href": "Avatar__The_Last_Airbender_(video_game)",
+                "external": false,
+                "href": "/wiki/Avatar__The_Last_Airbender_(video_game)",
                 "page": "Avatar__The_Last_Airbender_(video_game)"
               }
             }
@@ -199,7 +223,8 @@
               "body": "Avatar: The Last Airbender \u2013 Into the Inferno",
               "key": "${link_0}",
               "target": {
-                "href": "Avatar__The_Last_Airbender_%e2%80%93_Into_the_Inferno",
+                "external": false,
+                "href": "/wiki/Avatar__The_Last_Airbender_%e2%80%93_Into_the_Inferno",
                 "page": "Avatar__The_Last_Airbender_%e2%80%93_Into_the_Inferno"
               }
             }
@@ -213,47 +238,14 @@
   ],
   "paragraphs": [
     {
-      "body": "The following information is not considered to be part of ${link_0}.",
-      "links": [
-        {
-          "body": "the main continuity",
-          "key": "${link_0}",
-          "target": {
-            "href": "Avatar_Wiki_Continuity",
-            "page": "Avatar_Wiki_Continuity"
-          }
-        }
-      ],
-      "text": "The following information is not considered to be part of the main continuity."
-    },
-    {
-      "body": "PlayStation 2",
-      "links": [],
-      "text": "PlayStation 2"
-    },
-    {
-      "body": "Xbox 360",
-      "links": [],
-      "text": "Xbox 360"
-    },
-    {
-      "body": "Game Boy Advance",
-      "links": [],
-      "text": "Game Boy Advance"
-    },
-    {
-      "body": "Nintendo DS",
-      "links": [],
-      "text": "Nintendo DS"
-    },
-    {
       "body": "Avatar: The Last Airbender \u2013 The Burning Earth, known as Avatar: The Legend of Aang \u2013 The Burning Earth in Europe, is a ${link_0} for Xbox 360, Wii, PlayStation 2, Nintendo DS, and Game Boy Advance, based upon the animated television series ${link_1}. It was one of the last games to be released for the Game Boy Advance in the United States.",
       "links": [
         {
           "body": "video game",
           "key": "${link_0}",
           "target": {
-            "href": "List_of_Avatar_games#Console_games",
+            "external": false,
+            "href": "/wiki/List_of_Avatar_games#Console_games",
             "page": "List_of_Avatar_games"
           }
         },
@@ -261,10 +253,14 @@
           "body": "Avatar: The Last Airbender",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth"
       ],
       "text": "Avatar: The Last Airbender \u2013 The Burning Earth, known as Avatar: The Legend of Aang \u2013 The Burning Earth in Europe, is a video game for Xbox 360, Wii, PlayStation 2, Nintendo DS, and Game Boy Advance, based upon the animated television series Avatar: The Last Airbender. It was one of the last games to be released for the Game Boy Advance in the United States."
     },
@@ -275,7 +271,8 @@
           "body": "Avatar: The Last Airbender",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender_(video_game)",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_(video_game)",
             "page": "Avatar__The_Last_Airbender_(video_game)"
           }
         },
@@ -283,10 +280,15 @@
           "body": "Book One: Water",
           "key": "${link_1}",
           "target": {
-            "href": "Book_One__Water",
+            "external": false,
+            "href": "/wiki/Book_One__Water",
             "page": "Book_One__Water"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Synopsis"
       ],
       "text": "The game is the sequel to the story from the original game, Avatar: The Last Airbender, available on the Xbox 360, Wii, GameCube, PlayStation 2, PlayStation Portable, Nintendo DS, and Game Boy Advance, which took place during the events of the first season, Book One: Water."
     },
@@ -297,7 +299,8 @@
           "body": "Book Two: Earth",
           "key": "${link_0}",
           "target": {
-            "href": "Book_Two__Earth",
+            "external": false,
+            "href": "/wiki/Book_Two__Earth",
             "page": "Book_Two__Earth"
           }
         },
@@ -305,7 +308,8 @@
           "body": "Aang",
           "key": "${link_1}",
           "target": {
-            "href": "Aang_(games)",
+            "external": false,
+            "href": "/wiki/Aang_(games)",
             "page": "Aang_(games)"
           }
         },
@@ -313,7 +317,8 @@
           "body": "Katara",
           "key": "${link_2}",
           "target": {
-            "href": "Katara_(games)",
+            "external": false,
+            "href": "/wiki/Katara_(games)",
             "page": "Katara_(games)"
           }
         },
@@ -321,7 +326,8 @@
           "body": "Sokka",
           "key": "${link_3}",
           "target": {
-            "href": "Sokka_(games)",
+            "external": false,
+            "href": "/wiki/Sokka_(games)",
             "page": "Sokka_(games)"
           }
         },
@@ -329,7 +335,8 @@
           "body": "Toph",
           "key": "${link_4}",
           "target": {
-            "href": "Toph_Beifong_(games)",
+            "external": false,
+            "href": "/wiki/Toph_Beifong_(games)",
             "page": "Toph_Beifong_(games)"
           }
         },
@@ -337,7 +344,8 @@
           "body": "Zuko",
           "key": "${link_5}",
           "target": {
-            "href": "Zuko_(games)",
+            "external": false,
+            "href": "/wiki/Zuko_(games)",
             "page": "Zuko_(games)"
           }
         },
@@ -345,7 +353,8 @@
           "body": "Iroh",
           "key": "${link_6}",
           "target": {
-            "href": "Iroh",
+            "external": false,
+            "href": "/wiki/Iroh",
             "page": "Iroh"
           }
         },
@@ -353,7 +362,8 @@
           "body": "Momo",
           "key": "${link_7}",
           "target": {
-            "href": "Momo",
+            "external": false,
+            "href": "/wiki/Momo",
             "page": "Momo"
           }
         },
@@ -361,7 +371,8 @@
           "body": "Jet",
           "key": "${link_8}",
           "target": {
-            "href": "Jet",
+            "external": false,
+            "href": "/wiki/Jet",
             "page": "Jet"
           }
         },
@@ -369,7 +380,8 @@
           "body": "Fire Nation",
           "key": "${link_9}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         },
@@ -377,7 +389,8 @@
           "body": "firebenders",
           "key": "${link_10}",
           "target": {
-            "href": "Firebending",
+            "external": false,
+            "href": "/wiki/Firebending",
             "page": "Firebending"
           }
         },
@@ -385,7 +398,8 @@
           "body": "Dai Li",
           "key": "${link_11}",
           "target": {
-            "href": "Dai_Li",
+            "external": false,
+            "href": "/wiki/Dai_Li",
             "page": "Dai_Li"
           }
         },
@@ -393,7 +407,8 @@
           "body": "sandbenders",
           "key": "${link_12}",
           "target": {
-            "href": "Sandbender_Tribes",
+            "external": false,
+            "href": "/wiki/Sandbender_Tribes",
             "page": "Sandbender_Tribes"
           }
         },
@@ -401,16 +416,25 @@
           "body": "animals",
           "key": "${link_13}",
           "target": {
-            "href": "Fauna_in_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Fauna_in_the_World_of_Avatar",
             "page": "Fauna_in_the_World_of_Avatar"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Synopsis"
       ],
       "text": "Taking place during the events of the second season, Book Two: Earth, this game allows players to control Aang, Katara, Sokka, Toph, Zuko, Iroh, Momo, and Jet as the battle against the Fire Nation continues. Enemies include firebenders, Dai Li agents, and sandbenders, as well as a variety of other enemies and animals from the show."
     },
     {
       "body": "A departure from the first game is the lack of cell-shaded animation, instead using solid shading to give the game a more natural look. There is also a distinct lack of character interaction; the game requires splitting up into groups of two in each level, rather than talking to other people to complete certain objectives as was required in the first game.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Synopsis"
+      ],
       "text": "A departure from the first game is the lack of cell-shaded animation, instead using solid shading to give the game a more natural look. There is also a distinct lack of character interaction; the game requires splitting up into groups of two in each level, rather than talking to other people to complete certain objectives as was required in the first game."
     },
     {
@@ -420,7 +444,8 @@
           "body": "Momo",
           "key": "${link_0}",
           "target": {
-            "href": "Momo",
+            "external": false,
+            "href": "/wiki/Momo",
             "page": "Momo"
           }
         },
@@ -428,7 +453,8 @@
           "body": "Appa",
           "key": "${link_1}",
           "target": {
-            "href": "Appa",
+            "external": false,
+            "href": "/wiki/Appa",
             "page": "Appa"
           }
         },
@@ -436,10 +462,15 @@
           "body": "Avatar State",
           "key": "${link_2}",
           "target": {
-            "href": "Avatar#Avatar_State",
+            "external": false,
+            "href": "/wiki/Avatar#Avatar_State",
             "page": "Avatar"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Features"
       ],
       "text": "Unlike Avatar: The Last Airbender, Avatar: The Burning Earth features a multiplayer mode. Animal allies, Momo and Appa, appear in special \"dramatic air battles\". For the first time, players are able to engage in all four bending styles. Another feature is Aang's ability to go into the Avatar State and unleash its power on enemies."
     },
@@ -450,7 +481,8 @@
           "body": "Team Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Team_Avatar",
+            "external": false,
+            "href": "/wiki/Team_Avatar",
             "page": "Team_Avatar"
           }
         },
@@ -458,7 +490,8 @@
           "body": "Earth Kingdom base",
           "key": "${link_1}",
           "target": {
-            "href": "General_Fong%27s_fortress",
+            "external": false,
+            "href": "/wiki/General_Fong%27s_fortress",
             "page": "General_Fong%27s_fortress"
           }
         },
@@ -466,7 +499,8 @@
           "body": "Fong",
           "key": "${link_2}",
           "target": {
-            "href": "Fong",
+            "external": false,
+            "href": "/wiki/Fong",
             "page": "Fong"
           }
         },
@@ -474,7 +508,8 @@
           "body": "earthbending",
           "key": "${link_3}",
           "target": {
-            "href": "Earthbending",
+            "external": false,
+            "href": "/wiki/Earthbending",
             "page": "Earthbending"
           }
         },
@@ -482,7 +517,8 @@
           "body": "Earth Kingdom",
           "key": "${link_4}",
           "target": {
-            "href": "Earth_Kingdom",
+            "external": false,
+            "href": "/wiki/Earth_Kingdom",
             "page": "Earth_Kingdom"
           }
         },
@@ -490,10 +526,17 @@
           "body": "Omashu",
           "key": "${link_5}",
           "target": {
-            "href": "Omashu",
+            "external": false,
+            "href": "/wiki/Omashu",
             "page": "Omashu"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter One: The Avatar State"
       ],
       "text": "Team Avatar arrives at an Earth Kingdom base, welcomed by an attacking force of soldiers. General Fong explains to Aang and Katara that he is trying to trigger Aang's Avatar State, which he believes will make Aang powerful enough to overthrow the Fire Nation. He orders his guards to increase their numbers, dispatching earthbending guards. When the guards are defeated, the general steps up and attacks Aang and Katara to endanger them in order to force Aang into the Avatar State. General Fong attempts to sink Katara straight into the stone plaza. Aang sees the hazard and has no choice but to go into the Avatar State, swirling into the air and barreling down to earth, hurling Fong into the air. General Fong stands up and begins to say something. Before he can finish, however, Sokka arrives riding on Appa, and strikes Fong on the head with his boomerang. Team Avatar leaves victorious and heads to the Earth Kingdom city of Omashu, in search of an earthbending master for Aang."
     },
@@ -504,7 +547,8 @@
           "body": "pentapus",
           "key": "${link_0}",
           "target": {
-            "href": "Purple_pentapus",
+            "external": false,
+            "href": "/wiki/Purple_pentapus",
             "page": "Purple_pentapus"
           }
         },
@@ -512,10 +556,17 @@
           "body": "pentapox",
           "key": "${link_1}",
           "target": {
-            "href": "Pentapox",
+            "external": false,
+            "href": "/wiki/Pentapox",
             "page": "Pentapox"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Two: Return to Omashu"
       ],
       "text": "The kids are shocked to discover a Fire Nation flag over the front gate of Omashu, now christened New Ozai. Team Avatar comes to stop at a pipe near the base of the city. Sokka and Aang face a variety of strange reptilian creatures in the sewers, and eventually encounter two Fire Nation soldiers who see the marks of a pentapus on Sokka. Aang and Sokka trick the soldiers into thinking it is a deadly disease called pentapox. The pair arrives at an Earth Kingdom resistance camp, where they decide to use the pentapox to their advantage. Sokka and Aang must find pentapuses and supplies to use in their plan. All the remaining Earth Kingdom citizens in New Ozai are evacuated, to keep the \"epidemic\" from spreading to the Fire Nation citizens."
     },
@@ -526,7 +577,8 @@
           "body": "King",
           "key": "${link_0}",
           "target": {
-            "href": "King_of_Omashu",
+            "external": false,
+            "href": "/wiki/King_of_Omashu",
             "page": "King_of_Omashu"
           }
         },
@@ -534,7 +586,8 @@
           "body": "Bumi",
           "key": "${link_1}",
           "target": {
-            "href": "Bumi_(King_of_Omashu)",
+            "external": false,
+            "href": "/wiki/Bumi_(King_of_Omashu)",
             "page": "Bumi_(King_of_Omashu)"
           }
         },
@@ -542,7 +595,8 @@
           "body": "Azula",
           "key": "${link_2}",
           "target": {
-            "href": "Azula_(games)",
+            "external": false,
+            "href": "/wiki/Azula_(games)",
             "page": "Azula_(games)"
           }
         },
@@ -550,7 +604,8 @@
           "body": "Mai",
           "key": "${link_3}",
           "target": {
-            "href": "Mai",
+            "external": false,
+            "href": "/wiki/Mai",
             "page": "Mai"
           }
         },
@@ -558,7 +613,8 @@
           "body": "Ty Lee",
           "key": "${link_4}",
           "target": {
-            "href": "Ty_Lee",
+            "external": false,
+            "href": "/wiki/Ty_Lee",
             "page": "Ty_Lee"
           }
         },
@@ -566,10 +622,17 @@
           "body": "Fire Nation governor",
           "key": "${link_5}",
           "target": {
-            "href": "Ukano",
+            "external": false,
+            "href": "/wiki/Ukano",
             "page": "Ukano"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Two: Return to Omashu"
       ],
       "text": "Katara now joins Aang to go search for King Bumi, whom they hope will teach Aang earthbending. They encounter Azula, Mai, and Ty Lee, as well as Zuko. After a short video clip, Aang and Katara continue toward the palace. There, they battle the Fire Nation governor before they free Bumi. To Aang's disappointment, Bumi says that now is not the time for Omashu to be free, and will not leave to teach Aang. The kids fly off to find their next journey."
     },
@@ -580,10 +643,17 @@
           "body": "swamp",
           "key": "${link_0}",
           "target": {
-            "href": "Foggy_Swamp",
+            "external": false,
+            "href": "/wiki/Foggy_Swamp",
             "page": "Foggy_Swamp"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Three: The Swamp"
       ],
       "text": "The kids are flying over an eerie swamp. Aang states that the swamp is calling to him and asks his friends if they should land. Katara seems hesitant about this, saying that there is something ominous about the swamp, a statement proved true when a water tornado approaches Appa. Appa tries to avoid it, but they are caught in the tornado, and are separated. Katara and Momo try to search for the others once they land. Katara thinks she sees her mom, but it ends up being a vision, therefore upsetting her. They see a village and help extinguish the flaming huts. More firebenders appear, leaving Katara to tell Momo to go find Appa. Jet shows up and helps Katara defeat the firebenders. Afterward, he tells her that he has changed, and leaves."
     },
@@ -594,10 +664,17 @@
           "body": "Yue",
           "key": "${link_0}",
           "target": {
-            "href": "Yue",
+            "external": false,
+            "href": "/wiki/Yue",
             "page": "Yue"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Three: The Swamp"
       ],
       "text": "Sokka and Aang look for Katara, Appa, and Momo. They find that the Fire Nation has polluted the swamp, and they clear the waste. Along the way, Aang sees a vision of a girl, his future earthbending teacher, and Sokka sees a vision of Yue saying that she misses him. They finally meet up with Katara in the village and discover that the men of the waterbender village are hunting Appa."
     },
@@ -608,7 +685,8 @@
           "body": "Huu",
           "key": "${link_0}",
           "target": {
-            "href": "Huu",
+            "external": false,
+            "href": "/wiki/Huu",
             "page": "Huu"
           }
         },
@@ -616,7 +694,8 @@
           "body": "waterbending",
           "key": "${link_1}",
           "target": {
-            "href": "Waterbending",
+            "external": false,
+            "href": "/wiki/Waterbending",
             "page": "Waterbending"
           }
         },
@@ -624,7 +703,8 @@
           "body": "drill",
           "key": "${link_2}",
           "target": {
-            "href": "Fire_Nation_drill",
+            "external": false,
+            "href": "/wiki/Fire_Nation_drill",
             "page": "Fire_Nation_drill"
           }
         },
@@ -632,7 +712,8 @@
           "body": "Ba Sing Se",
           "key": "${link_3}",
           "target": {
-            "href": "Ba_Sing_Se",
+            "external": false,
+            "href": "/wiki/Ba_Sing_Se",
             "page": "Ba_Sing_Se"
           }
         },
@@ -640,10 +721,17 @@
           "body": "Master Yu's Earthbending Academy",
           "key": "${link_4}",
           "target": {
-            "href": "Master_Yu%27s_Earthbending_Academy",
+            "external": false,
+            "href": "/wiki/Master_Yu%27s_Earthbending_Academy",
             "page": "Master_Yu%27s_Earthbending_Academy"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Three: The Swamp"
       ],
       "text": "When Aang and Katara catch up to Appa, who has become entangled in vines, they have to fight the swamp monster. Once they defeat him, they discover that the swamp monster is just Huu moving the vines around with waterbending. Huu tells Aang that the entire swamp is connected, and tells Aang to place his hand on the tree. Aang does so, and sees visions of the drill heading for Ba Sing Se and the girl running into Master Yu's Earthbending Academy. He tells Katara and Sokka that they need to leave the swamp. Sokka agrees, saying that the swamp gives him the creeps. Huu says that it gives him the creeps too sometimes, and eats a bug, grossing the children out."
     },
@@ -654,7 +742,8 @@
           "body": "Gaoling",
           "key": "${link_0}",
           "target": {
-            "href": "Gaoling",
+            "external": false,
+            "href": "/wiki/Gaoling",
             "page": "Gaoling"
           }
         },
@@ -662,7 +751,8 @@
           "body": "Avatar",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar",
+            "external": false,
+            "href": "/wiki/Avatar",
             "page": "Avatar"
           }
         },
@@ -670,7 +760,8 @@
           "body": "Yu",
           "key": "${link_2}",
           "target": {
-            "href": "Yu",
+            "external": false,
+            "href": "/wiki/Yu",
             "page": "Yu"
           }
         },
@@ -678,10 +769,17 @@
           "body": "Earth Rumble VI",
           "key": "${link_3}",
           "target": {
-            "href": "Earth_Rumble_VI",
+            "external": false,
+            "href": "/wiki/Earth_Rumble_VI",
             "page": "Earth_Rumble_VI"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Four: The Blind Bandit"
       ],
       "text": "The team lands in Gaoling. There, Sokka shops for a new bag while Aang and Katara began to look for an earthbending teacher. A man tells them of Master Yu's Earthbending Academy. Aang tells Katara that, in his vision, he saw the girl run into the academy. They both go to the academy. They almost manage to reach the entrance, when earthbending bounty hunters block the path. They attack Aang and Katara so they can get the reward the Fire Nation is offering for the Avatar. Aang and Katara defeat them and eventually find another way into the academy. Aang decides that Master Yu is not the earthbending teacher he is looking for. He finds an Earth Rumble VI poster. In his vision, Aang saw the girl run by the same poster. He and Katara go to Earth Rumble VI. They eventually meet Sokka on their way there."
     },
@@ -692,7 +790,8 @@
           "body": "Xin Fu",
           "key": "${link_0}",
           "target": {
-            "href": "Xin_Fu",
+            "external": false,
+            "href": "/wiki/Xin_Fu",
             "page": "Xin_Fu"
           }
         },
@@ -700,7 +799,8 @@
           "body": "Fire Nation Man",
           "key": "${link_1}",
           "target": {
-            "href": "Fire_Nation_Man",
+            "external": false,
+            "href": "/wiki/Fire_Nation_Man",
             "page": "Fire_Nation_Man"
           }
         },
@@ -708,7 +808,8 @@
           "body": "The Boulder",
           "key": "${link_2}",
           "target": {
-            "href": "The_Boulder",
+            "external": false,
+            "href": "/wiki/The_Boulder",
             "page": "The_Boulder"
           }
         },
@@ -716,7 +817,8 @@
           "body": "gold",
           "key": "${link_3}",
           "target": {
-            "href": "Currency",
+            "external": false,
+            "href": "/wiki/Currency",
             "page": "Currency"
           }
         },
@@ -724,7 +826,8 @@
           "body": "flying boar",
           "key": "${link_4}",
           "target": {
-            "href": "Flying_boar",
+            "external": false,
+            "href": "/wiki/Flying_boar",
             "page": "Flying_boar"
           }
         },
@@ -732,10 +835,17 @@
           "body": "Beifong family",
           "key": "${link_5}",
           "target": {
-            "href": "Beifong_family",
+            "external": false,
+            "href": "/wiki/Beifong_family",
             "page": "Beifong_family"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Four: The Blind Bandit"
       ],
       "text": "Once inside Earth Rumble VI, Katara, knowing that it is just going to be pointless violence, leaves Aang and Sokka to watch the show. The host, Xin Fu, informs the audience that some contenders have withdrawn from the competition. Xin Fu asks the audience for two volunteers to face the champions. Aang immediately raises his hand and volunteers himself and Sokka to fight in the tournament. After beating two competitors, Fire Nation Man and The Boulder, Aang and Sokka face the champion, the Blind Bandit. They manage to beat her and win the Earth Rumble championship belt, along with a sack of gold. As the Blind Bandit leaves, Aang calls out to her, saying that he thinks she is meant to be his earthbending teacher. The Blind Bandit, however, tells him to leave her alone and runs away. Aang asks Xin Fu about the Blind Bandit, telling him about his vision of that girl, and seeing a flying boar. Xin Fu tells Aang of the Beifong family, whose symbol is a flying boar. Aang and Sokka head out to find the estate."
     },
@@ -746,31 +856,62 @@
           "body": "Zei",
           "key": "${link_0}",
           "target": {
-            "href": "Zei",
+            "external": false,
+            "href": "/wiki/Zei",
             "page": "Zei"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Four: The Blind Bandit"
       ],
       "text": "Before they manage to reach it, Aang and Sokka get trapped by a bandit, and are thrown in jail. They meet a prisoner who tells them that he was supposed to help Professor Zei with Fire Nation machine plans, but the bandits stole the said plans. The prisoner asks them if they could deliver the plans to Professor Zei. Aang and Sokka accept, but they first look for a way out. Eventually, they find the plans and the key that opens the door to the prisoner's cell."
     },
     {
       "body": "After escaping the prison, Aang and Sokka continue on their journey to find the Beifong Estate. They reach the estate, but find that the place is crawling with guards. They sneak past them and meet up with the Blind Bandit. As they talk, Xin Fu ambushes them and takes Aang prisoner, leaving the Blind Bandit, whose real name is Toph Beifong, and Sokka. Xin Fu tells them to bring two sacks of gold to the Earth Rumble VI arena.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Four: The Blind Bandit"
+      ],
       "text": "After escaping the prison, Aang and Sokka continue on their journey to find the Beifong Estate. They reach the estate, but find that the place is crawling with guards. They sneak past them and meet up with the Blind Bandit. As they talk, Xin Fu ambushes them and takes Aang prisoner, leaving the Blind Bandit, whose real name is Toph Beifong, and Sokka. Xin Fu tells them to bring two sacks of gold to the Earth Rumble VI arena."
     },
     {
       "body": "Sokka and Toph show up at the arena, but instead of bringing two bags of gold, they bring one. Xin Fu calls the deal off, saying that the Fire Nation would offer ten times that price for the Avatar. He tells Sokka and Toph to leave his ring, but the duo decides to fight him instead. They end up succeeding in the fight and, after freeing Aang, Toph decides to go with the gang to teach Aang earthbending.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Four: The Blind Bandit"
+      ],
       "text": "Sokka and Toph show up at the arena, but instead of bringing two bags of gold, they bring one. Xin Fu calls the deal off, saying that the Fire Nation would offer ten times that price for the Avatar. He tells Sokka and Toph to leave his ring, but the duo decides to fight him instead. They end up succeeding in the fight and, after freeing Aang, Toph decides to go with the gang to teach Aang earthbending."
     },
     {
       "body": "In Chapter Five of the Burning Earth, Toph and Aang start in the desert and practice earthbending. They come across Professor Zei eventually and he tells them of the library, while learning about Aang. In the DS version, on their way to the library, they are chased by buzzard wasps which Aang keeps away by using airbending, also enabling the player to outrun them. They also have the option to collect honey from the wasps.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Five: The Library"
+      ],
       "text": "In Chapter Five of the Burning Earth, Toph and Aang start in the desert and practice earthbending. They come across Professor Zei eventually and he tells them of the library, while learning about Aang. In the DS version, on their way to the library, they are chased by buzzard wasps which Aang keeps away by using airbending, also enabling the player to outrun them. They also have the option to collect honey from the wasps."
     },
     {
       "body": "The kids and Professor Zei find the spire of the library. Toph and Aang climb the spire and at the top, Aang enters the library by jumping through an open window, although Toph chooses to stay with Appa.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Five: The Library"
+      ],
       "text": "The kids and Professor Zei find the spire of the library. Toph and Aang climb the spire and at the top, Aang enters the library by jumping through an open window, although Toph chooses to stay with Appa."
     },
     {
@@ -780,26 +921,51 @@
           "body": "Wan Shi Tong",
           "key": "${link_0}",
           "target": {
-            "href": "Wan_Shi_Tong",
+            "external": false,
+            "href": "/wiki/Wan_Shi_Tong",
             "page": "Wan_Shi_Tong"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Five: The Library"
       ],
       "text": "Katara, Sokka, Aang, Momo, and Professor Zei are in the library when they meet the knowledge spirit: Wan Shi Tong. He tells them that humans are not permitted in his library because he expects that humans only use his knowledge to gain advantage over other humans. The kids and Zei promise that they will not, and Wan Shi Tong agrees as long as they contribute on item to his library. They all contribute one item and he leaves, telling them to enjoy the library."
     },
     {
       "body": "Sokka and Momo head off to find out what they can about the Fire Nation. They find an article revealing 'The Darkest Day of Fire Nation History.' Curious, they arrive upon a locked vault and wonder how to get in. Momo goes in through a small space and opens it from inside. By entering the symbols seen outside the door, Sokka learns of a solar eclipse that will render the firebenders powerless. This greatly pleases them. Suddenly, the library starts shaking and they run off.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Five: The Library"
+      ],
       "text": "Sokka and Momo head off to find out what they can about the Fire Nation. They find an article revealing 'The Darkest Day of Fire Nation History.' Curious, they arrive upon a locked vault and wonder how to get in. Momo goes in through a small space and opens it from inside. By entering the symbols seen outside the door, Sokka learns of a solar eclipse that will render the firebenders powerless. This greatly pleases them. Suddenly, the library starts shaking and they run off."
     },
     {
       "body": "Meanwhile, Katara and Aang try to figure out what the Fire Nation plans mean. By placing them on a grid, they go after the remaining scrolls containing the Fire Nation plans. The knowledge seeker helps them through a small variety of puzzles, until they obtain all the scrolls and complete the grid, revealing a drill. Shocked at the information on how the Fire Nation is building the drill, they decide to alert the king. Suddenly, Wan Shi Tong shows up, claiming that they abused his trust and that he was right all along.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Five: The Library"
+      ],
       "text": "Meanwhile, Katara and Aang try to figure out what the Fire Nation plans mean. By placing them on a grid, they go after the remaining scrolls containing the Fire Nation plans. The knowledge seeker helps them through a small variety of puzzles, until they obtain all the scrolls and complete the grid, revealing a drill. Shocked at the information on how the Fire Nation is building the drill, they decide to alert the king. Suddenly, Wan Shi Tong shows up, claiming that they abused his trust and that he was right all along."
     },
     {
       "body": "Wan Shi Tong begins sinking the library. Katara and Aang run, trying to escape, while Wan Shi Tong tries to stop them. Meanwhile, Toph is busy doing what she can to hold the library above the surface. However, a group of sandbenders show up and start taking Appa. She takes out one of them, but the library starts rapidly sinking again. She regains her hold on it, and holds it up while the sandbenders capture Appa and run off. The kids make it out all right, though Zei chose to sink with the library because he had been searching for it his entire life. When it is revealed that Appa was stolen, Aang enters a state of high emotion. The group declares they need to find him quickly.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Five: The Library"
+      ],
       "text": "Wan Shi Tong begins sinking the library. Katara and Aang run, trying to escape, while Wan Shi Tong tries to stop them. Meanwhile, Toph is busy doing what she can to hold the library above the surface. However, a group of sandbenders show up and start taking Appa. She takes out one of them, but the library starts rapidly sinking again. She regains her hold on it, and holds it up while the sandbenders capture Appa and run off. The kids make it out all right, though Zei chose to sink with the library because he had been searching for it his entire life. When it is revealed that Appa was stolen, Aang enters a state of high emotion. The group declares they need to find him quickly."
     },
     {
@@ -809,7 +975,8 @@
           "body": "Long Feng",
           "key": "${link_0}",
           "target": {
-            "href": "Long_Feng",
+            "external": false,
+            "href": "/wiki/Long_Feng",
             "page": "Long_Feng"
           }
         },
@@ -817,7 +984,8 @@
           "body": "Dai Li",
           "key": "${link_1}",
           "target": {
-            "href": "Dai_Li",
+            "external": false,
+            "href": "/wiki/Dai_Li",
             "page": "Dai_Li"
           }
         },
@@ -825,7 +993,8 @@
           "body": "Lake Laogai",
           "key": "${link_2}",
           "target": {
-            "href": "Lake_Laogai",
+            "external": false,
+            "href": "/wiki/Lake_Laogai",
             "page": "Lake_Laogai"
           }
         },
@@ -833,161 +1002,996 @@
           "body": "Earth King",
           "key": "${link_3}",
           "target": {
-            "href": "Kuei",
+            "external": false,
+            "href": "/wiki/Kuei",
             "page": "Kuei"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Six: City of Walls and Secrets"
       ],
       "text": "After Long Feng and the Dai Li send Appa to Lake Laogai, Aang and Katara exchange plans of finding Appa. Also, Sokka and Toph decide that it is time to go to the royal palace to confront the Earth King and tell him about the plans to invade the Fire Nation on the day of the eclipse. A Dai Li agent suddenly steals the plans. Sokka and Toph decide to chase the agent on top of the train. They end up getting the plans back and find a secret path to the royal palace. As soon as they reach the Earth King's chamber, they are confronted by Long Feng. When Sokka tried to tell him of the plans to defeat the Fire Nation and of the impending drill, Long Feng told him that the war not be mentioned within the walls. He orders his agents to take Sokka and Toph to Lake Laogai."
     },
     {
       "body": "Katara finds Jet in the city and tells him that they have lost Appa, and they think he is somewhere in the city. Jet tells her that he saw a member of the Dai Li carrying a sack of gold. He came out with a handful of white fur. Katara and Jet decide to work together to try to find clues about his disappearance. They run into a wall that can only be broken by a talented earthbender. Jet knows one, however, the earthbender is in a predicament of his own. The Dai Li shut down his baths to conserve water. If they could turn the main supply back on, he would do whatever they ask.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Six: City of Walls and Secrets"
+      ],
       "text": "Katara finds Jet in the city and tells him that they have lost Appa, and they think he is somewhere in the city. Jet tells her that he saw a member of the Dai Li carrying a sack of gold. He came out with a handful of white fur. Katara and Jet decide to work together to try to find clues about his disappearance. They run into a wall that can only be broken by a talented earthbender. Jet knows one, however, the earthbender is in a predicament of his own. The Dai Li shut down his baths to conserve water. If they could turn the main supply back on, he would do whatever they ask."
     },
     {
       "body": "Once they do this, the man helps break the rocky wall down. Katara finds a clue by seeing Appa's footprint. Aang comes and asks why Katara and Jet are fighting the Dai Li. It turns out that the man's boss sold Appa to the Dai Li. Enraged, Aang demanded that the man should tell him about Appa's whereabouts. The man said they took Appa to Lake Laogai. Aang and Jet decide to go to the lake and try to find Appa.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Six: City of Walls and Secrets"
+      ],
       "text": "Once they do this, the man helps break the rocky wall down. Katara finds a clue by seeing Appa's footprint. Aang comes and asks why Katara and Jet are fighting the Dai Li. It turns out that the man's boss sold Appa to the Dai Li. Enraged, Aang demanded that the man should tell him about Appa's whereabouts. The man said they took Appa to Lake Laogai. Aang and Jet decide to go to the lake and try to find Appa."
     },
     {
       "body": "Zuko and Iroh are standing in front of the tea shop when Zuko notices Katara walking in the city. He decides to chase her to find out where Aang is. She is long gone, and Zuko uncontrollably spews fire from his hands, revealing he is a firebender to a Dai Li agent, who promises to show him how Ba Sing Se welcomes intruders. Standing next to him, Iroh kicks him, which leads the agent to go to Lake Laogai, followed by Zuko and Iroh. There, they find the agent in the room where Appa is held. They defeat the agent and unwillingly free Appa. Iroh says that they have done a good deed today, leaving Zuko feeling the opposite.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Six: City of Walls and Secrets"
+      ],
       "text": "Zuko and Iroh are standing in front of the tea shop when Zuko notices Katara walking in the city. He decides to chase her to find out where Aang is. She is long gone, and Zuko uncontrollably spews fire from his hands, revealing he is a firebender to a Dai Li agent, who promises to show him how Ba Sing Se welcomes intruders. Standing next to him, Iroh kicks him, which leads the agent to go to Lake Laogai, followed by Zuko and Iroh. There, they find the agent in the room where Appa is held. They defeat the agent and unwillingly free Appa. Iroh says that they have done a good deed today, leaving Zuko feeling the opposite."
     },
     {
       "body": "Meanwhile, Aang and Jet lock horns with Long Feng. After he is defeated, Aang frees Sokka and Toph from their prison cell just near the site of the battle. Long Feng unleashes a surprise attack on Jet and escapes. Katara tries to heal Jet, but to no avail. Aang says that he does not care about Ba Sing Se's rules anymore, and they will do anything to see the king.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Six: City of Walls and Secrets"
+      ],
       "text": "Meanwhile, Aang and Jet lock horns with Long Feng. After he is defeated, Aang frees Sokka and Toph from their prison cell just near the site of the battle. Long Feng unleashes a surprise attack on Jet and escapes. Katara tries to heal Jet, but to no avail. Aang says that he does not care about Ba Sing Se's rules anymore, and they will do anything to see the king."
     },
     {
       "body": "The chapter begins in the Earth King's chamber, with Aang rejoicing in finding Appa. The Earth King reveals that Long Feng has been arrested and the Dai Li are finished. Katara warns him about a drill that is coming and will break through the walls of Ba Sing Se and it will be conquered the same way as Omashu did if they are not able to stop it.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Seven: The Drill"
+      ],
       "text": "The chapter begins in the Earth King's chamber, with Aang rejoicing in finding Appa. The Earth King reveals that Long Feng has been arrested and the Dai Li are finished. Katara warns him about a drill that is coming and will break through the walls of Ba Sing Se and it will be conquered the same way as Omashu did if they are not able to stop it."
     },
     {
       "body": "When they arrive at the site, the gang ponders about how they are going to sabotage the drill. Sokka says that the only way to sabotage it is to take it down from the inside.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Seven: The Drill"
+      ],
       "text": "When they arrive at the site, the gang ponders about how they are going to sabotage the drill. Sokka says that the only way to sabotage it is to take it down from the inside."
     },
     {
       "body": "Once they get inside the drill, Sokka breaks down each of the gang's plans. He and Momo will need to find the slurry valves so they can redirect the pressure backward. Aang and Katara need to cut through the braces to weaken the pipes. Finally, Toph will need to block the outlets at the back of the drill with her earthbending skills. Before they depart on their missions, Sokka reminds everyone that they should not be in the drill once they have sabotaged it.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Seven: The Drill"
+      ],
       "text": "Once they get inside the drill, Sokka breaks down each of the gang's plans. He and Momo will need to find the slurry valves so they can redirect the pressure backward. Aang and Katara need to cut through the braces to weaken the pipes. Finally, Toph will need to block the outlets at the back of the drill with her earthbending skills. Before they depart on their missions, Sokka reminds everyone that they should not be in the drill once they have sabotaged it."
     },
     {
       "body": "After the gang completes their appointed tasks, Aang and Katara confront Azula at the top of the drill. Katara warns her that Aang has now mastered earthbending, and that she does not have the ability to defeat both of them. Azula says that she has some tricks up her sleeve, as the fight for Ba Sing Se begins.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Seven: The Drill"
+      ],
       "text": "After the gang completes their appointed tasks, Aang and Katara confront Azula at the top of the drill. Katara warns her that Aang has now mastered earthbending, and that she does not have the ability to defeat both of them. Azula says that she has some tricks up her sleeve, as the fight for Ba Sing Se begins."
     },
     {
       "body": "After a while, Azula is impressed by how Aang's skills have improved. Zuko joins the three, ready to fight Aang and Katara. Katara is in a state of shock, believing that Zuko had changed. Azula orders Zuko to take care of them, as she wants to prepare something special for Aang and Katara.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Seven: The Drill"
+      ],
       "text": "After a while, Azula is impressed by how Aang's skills have improved. Zuko joins the three, ready to fight Aang and Katara. Katara is in a state of shock, believing that Zuko had changed. Azula orders Zuko to take care of them, as she wants to prepare something special for Aang and Katara."
     },
     {
       "body": "However, this proved useless as Aang and Katara manage to defeat Zuko and Azula. Aang deals the final blow to the drill and the gang escapes on Appa.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Seven: The Drill"
+      ],
       "text": "However, this proved useless as Aang and Katara manage to defeat Zuko and Azula. Aang deals the final blow to the drill and the gang escapes on Appa."
     },
     {
       "body": "Back in the Earth King's chamber, he thanks the group for saving Ba Sing Se, and without their help the city would have fallen, and although they won a victory today, the Fire Nation will not cease attacking. Toph says that they know about the upcoming eclipse, which will render the firebenders helpless. Aang, now declaring he is a master waterbender and a master earthbender, thinks they will be fine. Katara and Toph, feeling offended by Aang's cockiness, use some water and earth to make him look like a wild bird as a joke not to get too cocky, as he still has a lot to learn. The gang shares a laugh as their story ends.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Seven: The Drill"
+      ],
       "text": "Back in the Earth King's chamber, he thanks the group for saving Ba Sing Se, and without their help the city would have fallen, and although they won a victory today, the Fire Nation will not cease attacking. Toph says that they know about the upcoming eclipse, which will render the firebenders helpless. Aang, now declaring he is a master waterbender and a master earthbender, thinks they will be fine. Katara and Toph, feeling offended by Aang's cockiness, use some water and earth to make him look like a wild bird as a joke not to get too cocky, as he still has a lot to learn. The gang shares a laugh as their story ends."
     },
     {
       "body": "Back at the drill, the game comes to a cliffhanger ending when Azula, beside an unconscious Zuko, says that they will get revenge soon enough, and that the world will pay dearly for their indignation.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Game overview",
+        "PS2 version",
+        "Chapter Seven: The Drill"
+      ],
       "text": "Back at the drill, the game comes to a cliffhanger ending when Azula, beside an unconscious Zuko, says that they will get revenge soon enough, and that the world will pay dearly for their indignation."
     },
     {
       "body": "Playable characters:",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
       "text": "Playable characters:"
+    },
+    {
+      "body": "${link_0} (all versions)",
+      "links": [
+        {
+          "body": "Aang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Aang_(games)",
+            "page": "Aang_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Aang (all versions)"
+    },
+    {
+      "body": "${link_0} (all versions)",
+      "links": [
+        {
+          "body": "Katara",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Katara_(games)",
+            "page": "Katara_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Katara (all versions)"
+    },
+    {
+      "body": "${link_0} (all versions)",
+      "links": [
+        {
+          "body": "Sokka",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sokka_(games)",
+            "page": "Sokka_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Sokka (all versions)"
+    },
+    {
+      "body": "${link_0} (all versions)",
+      "links": [
+        {
+          "body": "Toph",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Toph_Beifong_(games)",
+            "page": "Toph_Beifong_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Toph (all versions)"
+    },
+    {
+      "body": "${link_0} (GBA and console)",
+      "links": [
+        {
+          "body": "Zuko",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_(games)",
+            "page": "Zuko_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Zuko (GBA and console)"
+    },
+    {
+      "body": "${link_0} (GBA and console)",
+      "links": [
+        {
+          "body": "Iroh",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Iroh",
+            "page": "Iroh"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Iroh (GBA and console)"
+    },
+    {
+      "body": "${link_0} (console)",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet",
+            "page": "Jet"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Jet (console)"
+    },
+    {
+      "body": "${link_0} (console)",
+      "links": [
+        {
+          "body": "Momo",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Momo",
+            "page": "Momo"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Momo (console)"
+    },
+    {
+      "body": "${link_0} (GBA and console)",
+      "links": [
+        {
+          "body": "Appa",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa",
+            "page": "Appa"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Appa (GBA and console)"
     },
     {
       "body": "Console bosses (in order of appearance):",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
       "text": "Console bosses (in order of appearance):"
+    },
+    {
+      "body": "General ${link_0} - fought with Aang and Katara",
+      "links": [
+        {
+          "body": "Fong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Fong",
+            "page": "Fong"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "General Fong - fought with Aang and Katara"
+    },
+    {
+      "body": "${link_0} - fought with Aang and Katara",
+      "links": [
+        {
+          "body": "Ukano",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ukano",
+            "page": "Ukano"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Ukano - fought with Aang and Katara"
+    },
+    {
+      "body": "${link_0} - fought with Aang and Katara",
+      "links": [
+        {
+          "body": "Swamp monster",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Huu",
+            "page": "Huu"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Swamp monster - fought with Aang and Katara"
+    },
+    {
+      "body": "Master ${link_0} - sub-boss",
+      "links": [
+        {
+          "body": "Yu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Yu",
+            "page": "Yu"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Master Yu - sub-boss"
+    },
+    {
+      "body": "${link_0} - sub-boss",
+      "links": [
+        {
+          "body": "Fire Nation Man",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Fire_Nation_Man",
+            "page": "Fire_Nation_Man"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Fire Nation Man - sub-boss"
+    },
+    {
+      "body": "${link_0} - sub-boss",
+      "links": [
+        {
+          "body": "The Boulder",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boulder",
+            "page": "The_Boulder"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "The Boulder - sub-boss"
+    },
+    {
+      "body": "The Blind Bandit - sub-boss",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "The Blind Bandit - sub-boss"
+    },
+    {
+      "body": "${link_0} - fought with Toph and Sokka",
+      "links": [
+        {
+          "body": "Xin Fu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Xin_Fu",
+            "page": "Xin_Fu"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Xin Fu - fought with Toph and Sokka"
+    },
+    {
+      "body": "Air Battle against ${link_0}, ${link_1}, and ${link_2}",
+      "links": [
+        {
+          "body": "Azula",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Azula_(games)",
+            "page": "Azula_(games)"
+          }
+        },
+        {
+          "body": "Mai",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Mai",
+            "page": "Mai"
+          }
+        },
+        {
+          "body": "Ty Lee",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ty_Lee",
+            "page": "Ty_Lee"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Air Battle against Azula, Mai, and Ty Lee"
+    },
+    {
+      "body": "${link_0} - fought with Aang and Katara (Note: Aang and Katara do not actually fight Wan Shi Tong, rather they run away from him while they escape his library before it sinks)",
+      "links": [
+        {
+          "body": "Wan Shi Tong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Wan_Shi_Tong",
+            "page": "Wan_Shi_Tong"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Wan Shi Tong - fought with Aang and Katara (Note: Aang and Katara do not actually fight Wan Shi Tong, rather they run away from him while they escape his library before it sinks)"
+    },
+    {
+      "body": "${link_0} - fought with Aang and Jet",
+      "links": [
+        {
+          "body": "Long Feng",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Feng",
+            "page": "Long_Feng"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Long Feng - fought with Aang and Jet"
+    },
+    {
+      "body": "Double Battle against Azula and ${link_0} - fought with Aang and Katara",
+      "links": [
+        {
+          "body": "Zuko",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko",
+            "page": "Zuko"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Double Battle against Azula and Zuko - fought with Aang and Katara"
     },
     {
       "body": "DS bosses (in order of appearance):",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
       "text": "DS bosses (in order of appearance):"
+    },
+    {
+      "body": "General ${link_0} - fought with Aang and Sokka",
+      "links": [
+        {
+          "body": "Fong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Fong",
+            "page": "Fong"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "General Fong - fought with Aang and Sokka"
+    },
+    {
+      "body": "${link_0} - fought with Aang and Katara",
+      "links": [
+        {
+          "body": "Ukano",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ukano",
+            "page": "Ukano"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Ukano - fought with Aang and Katara"
+    },
+    {
+      "body": "${link_0} - fought with Aang and Katara",
+      "links": [
+        {
+          "body": "Swamp Monster",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Huu",
+            "page": "Huu"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Swamp Monster - fought with Aang and Katara"
+    },
+    {
+      "body": "${link_0} - fought with Toph and Sokka",
+      "links": [
+        {
+          "body": "Xin Fu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Xin_Fu",
+            "page": "Xin_Fu"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Xin Fu - fought with Toph and Sokka"
+    },
+    {
+      "body": "${link_0} Agents - fought with Aang",
+      "links": [
+        {
+          "body": "Dai Li",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dai_Li",
+            "page": "Dai_Li"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Dai Li Agents - fought with Aang"
+    },
+    {
+      "body": "${link_0} and ${link_1} - fought with Toph and Sokka",
+      "links": [
+        {
+          "body": "Mai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Mai",
+            "page": "Mai"
+          }
+        },
+        {
+          "body": "Ty Lee",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ty_Lee",
+            "page": "Ty_Lee"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Mai and Ty Lee - fought with Toph and Sokka"
+    },
+    {
+      "body": "${link_0} - fought with Aang",
+      "links": [
+        {
+          "body": "Azula",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Azula_(games)",
+            "page": "Azula_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Azula - fought with Aang"
     },
     {
       "body": "GBA bosses (in order of appearance)",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
       "text": "GBA bosses (in order of appearance)"
+    },
+    {
+      "body": "Azula - fought with Aang and ${link_0}",
+      "links": [
+        {
+          "body": "Bumi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bumi_(King_of_Omashu)",
+            "page": "Bumi_(King_of_Omashu)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Azula - fought with Aang and Bumi"
+    },
+    {
+      "body": "Azula - fought with Zuko",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Azula - fought with Zuko"
+    },
+    {
+      "body": "Azula - fought with Aang",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Azula - fought with Aang"
+    },
+    {
+      "body": "Long Feng - fought with Aang and Jet",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Playable characters and bosses"
+      ],
+      "text": "Long Feng - fought with Aang and Jet"
+    },
+    {
+      "body": "One-hit dishonor: 28260",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Secret codes"
+      ],
+      "text": "One-hit dishonor: 28260"
+    },
+    {
+      "body": "Max level: 89121",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Secret codes"
+      ],
+      "text": "Max level: 89121"
+    },
+    {
+      "body": "All gallery items: 85061",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Secret codes"
+      ],
+      "text": "All gallery items: 85061"
+    },
+    {
+      "body": "All bonus games: 99801",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Secret codes"
+      ],
+      "text": "All bonus games: 99801"
+    },
+    {
+      "body": "Unlimited special attacks: 66206",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Secret codes"
+      ],
+      "text": "Unlimited special attacks: 66206"
+    },
+    {
+      "body": "Double damage: 90210",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Secret codes"
+      ],
+      "text": "Double damage: 90210"
+    },
+    {
+      "body": "Unlimited health: 65049",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Secret codes"
+      ],
+      "text": "Unlimited health: 65049"
     },
     {
       "body": "Several mini games can be played. Some of these are part of the story and must be played in order to progress whilst others are optional for entertainment purposes.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games"
+      ],
       "text": "Several mini games can be played. Some of these are part of the story and must be played in order to progress whilst others are optional for entertainment purposes."
     },
     {
       "body": "This game can only be played by Katara at General Fong's fortress. It is initially part of the story but can be replayed just before assaulting the drill by returning to the fortress.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Healing game"
+      ],
       "text": "This game can only be played by Katara at General Fong's fortress. It is initially part of the story but can be replayed just before assaulting the drill by returning to the fortress."
     },
     {
       "body": "It involves the player having to use Katara's waterbending to heal injured soldiers by tapping on the soldiers' bandages to do so. It gets progressively difficult, such as the bandages being hidden or there being many to tap.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Healing game"
+      ],
       "text": "It involves the player having to use Katara's waterbending to heal injured soldiers by tapping on the soldiers' bandages to do so. It gets progressively difficult, such as the bandages being hidden or there being many to tap."
     },
     {
       "body": "The player does not obtain anything from this, but merely to see if they can beat their high score. The game cannot result in a game over.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Healing game"
+      ],
       "text": "The player does not obtain anything from this, but merely to see if they can beat their high score. The game cannot result in a game over."
     },
     {
       "body": "During the story Aang and Sokka will find themselves in General Fong's office at his fortress. The general will leave to get something, but whilst he is gone, the two will shatter a painting of his.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Painting game"
+      ],
       "text": "During the story Aang and Sokka will find themselves in General Fong's office at his fortress. The general will leave to get something, but whilst he is gone, the two will shatter a painting of his."
     },
     {
       "body": "The player must use the stylus to piece the painting back together. Each piece can be rotated ninety degrees. They have until the general returns to complete the painting.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Painting game"
+      ],
       "text": "The player must use the stylus to piece the painting back together. Each piece can be rotated ninety degrees. They have until the general returns to complete the painting."
     },
     {
       "body": "If the player succeeds, they will receive a useful item to help them and the general will never know his painting has been destroyed. However, if the player fails to complete the painting, the general will not give any items. This mini game can only be played once.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Painting game"
+      ],
       "text": "If the player succeeds, they will receive a useful item to help them and the general will never know his painting has been destroyed. However, if the player fails to complete the painting, the general will not give any items. This mini game can only be played once."
     },
     {
       "body": "It does not have to be played as it is merely a side event that the player can do.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Painting game"
+      ],
       "text": "It does not have to be played as it is merely a side event that the player can do."
     },
     {
       "body": "While finding a teacher, the player can use Aang to take part in a mini game.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Boulder game"
+      ],
       "text": "While finding a teacher, the player can use Aang to take part in a mini game."
     },
     {
       "body": "In the game, the player has to successfully dodge a boulder fired by Master Yu. In the first (mandatory) play, Aang only needs to dodge the boulder once. Afterward, the master tricks Aang and attacks him, resulting in Aang being injured and deciding Yu would not be a good teacher.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Boulder game"
+      ],
       "text": "In the game, the player has to successfully dodge a boulder fired by Master Yu. In the first (mandatory) play, Aang only needs to dodge the boulder once. Afterward, the master tricks Aang and attacks him, resulting in Aang being injured and deciding Yu would not be a good teacher."
     },
     {
       "body": "The game can be played again once you reach Ba Sing Se and fly back to Gaoling. It is a relatively easy game, though you gain nothing from it, just a chance to beat your high score for the number of times you dodge the boulder in a row.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Boulder game"
+      ],
       "text": "The game can be played again once you reach Ba Sing Se and fly back to Gaoling. It is a relatively easy game, though you gain nothing from it, just a chance to beat your high score for the number of times you dodge the boulder in a row."
     },
     {
       "body": "A dice game can be played in certain levels.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Dice game"
+      ],
       "text": "A dice game can be played in certain levels."
     },
     {
       "body": "It involves the player and two AI controlled characters. Two dice are rolled with three different colors, blue, red, and yellow, painted on each side. Depending on the combination rolled, the player either keeps their coins, moves coins to the person left of them or places one coin in a bowl. Coins in the bowl cannot be placed back into circulation. The game continues until only one player still has coins.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Dice game"
+      ],
       "text": "It involves the player and two AI controlled characters. Two dice are rolled with three different colors, blue, red, and yellow, painted on each side. Depending on the combination rolled, the player either keeps their coins, moves coins to the person left of them or places one coin in a bowl. Coins in the bowl cannot be placed back into circulation. The game continues until only one player still has coins."
     },
     {
       "body": "Winning the game will mean the player receives a small amount of money for their use, while losing means that amount of money is subtracted from their total amount.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Dice game"
+      ],
       "text": "Winning the game will mean the player receives a small amount of money for their use, while losing means that amount of money is subtracted from their total amount."
     },
     {
@@ -997,16 +2001,29 @@
           "body": "firebenders",
           "key": "${link_0}",
           "target": {
-            "href": "Firebending",
+            "external": false,
+            "href": "/wiki/Firebending",
             "page": "Firebending"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Firebending game"
       ],
       "text": "This game is only played once as Zuko during the story; he rides an animal escaping from chasing firebenders. The animal can run in three lanes. Cacti in the way can be burned down but rocks cannot. Additionally, firebenders will create walls of fire to cause problems for Zuko."
     },
     {
       "body": "If the player hits too many obstacles, chasing firebenders will catch up. The mini game will be failed and will have to be played again until it is completed successfully.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Firebending game"
+      ],
       "text": "If the player hits too many obstacles, chasing firebenders will catch up. The mini game will be failed and will have to be played again until it is completed successfully."
     },
     {
@@ -1016,10 +2033,17 @@
           "body": "Wan Shi Tong's Library",
           "key": "${link_0}",
           "target": {
-            "href": "Wan_Shi_Tong%27s_Library",
+            "external": false,
+            "href": "/wiki/Wan_Shi_Tong%27s_Library",
             "page": "Wan_Shi_Tong%27s_Library"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Collecting honey"
       ],
       "text": "This mini game is unlocked after the player reaches Wan Shi Tong's Library and can be played at the oasis."
     },
@@ -1030,21 +2054,40 @@
           "body": "buzzard wasps",
           "key": "${link_0}",
           "target": {
-            "href": "Buzzard_wasp",
+            "external": false,
+            "href": "/wiki/Buzzard_wasp",
             "page": "Buzzard_wasp"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Collecting honey"
       ],
       "text": "The player must use Aang to defend from buzzard wasps as they attack Appa while also using the DS stick to tap on the honey on the lower screen to collect it. The player has until Appa reaches the library to do so."
     },
     {
       "body": "If the wasps get too close to Aang, the game is over. If the player manages to last long enough, they will reach the end of the game and are given a score based on how much honey they collected which results in a certain amount of money given to them.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Collecting honey"
+      ],
       "text": "If the wasps get too close to Aang, the game is over. If the player manages to last long enough, they will reach the end of the game and are given a score based on how much honey they collected which results in a certain amount of money given to them."
     },
     {
       "body": "This game is also played on the journey to the library but does not involve collecting honey.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Collecting honey"
+      ],
       "text": "This game is also played on the journey to the library but does not involve collecting honey."
     },
     {
@@ -1054,7 +2097,8 @@
           "body": "Zei",
           "key": "${link_0}",
           "target": {
-            "href": "Zei",
+            "external": false,
+            "href": "/wiki/Zei",
             "page": "Zei"
           }
         },
@@ -1062,7 +2106,8 @@
           "body": "Fire Nation drill",
           "key": "${link_1}",
           "target": {
-            "href": "Fire_Nation_drill",
+            "external": false,
+            "href": "/wiki/Fire_Nation_drill",
             "page": "Fire_Nation_drill"
           }
         },
@@ -1070,16 +2115,29 @@
           "body": "Ba Sing Se",
           "key": "${link_2}",
           "target": {
-            "href": "Ba_Sing_Se",
+            "external": false,
+            "href": "/wiki/Ba_Sing_Se",
             "page": "Ba_Sing_Se"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Library game"
       ],
       "text": "The mini game is initially played in Wan Shi Tong's Library for Zei to collect books with information on the Fire Nation drill, but can also played in Ba Sing Se just before the assault on the drill for a librarian."
     },
     {
       "body": "It involves pushing the respective button on the DS to collate to a colored book as the librarian/Zei calls them out. This game can only be played with the combination of Aang and Katara.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Library game"
+      ],
       "text": "It involves pushing the respective button on the DS to collate to a colored book as the librarian/Zei calls them out. This game can only be played with the combination of Aang and Katara."
     },
     {
@@ -1089,22 +2147,411 @@
           "body": "waterbending",
           "key": "${link_0}",
           "target": {
-            "href": "Waterbending",
+            "external": false,
+            "href": "/wiki/Waterbending",
             "page": "Waterbending"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Drill weak points"
       ],
       "text": "Aang and Katara are tasked with destroying weak points within the drill. They do this by waterbending a stream of water back and forth between themselves with a brace between them."
     },
     {
       "body": "The player controls their bending by hitting varying buttons on the DS. Twenty consecutive hits are needed to succeed. Each hit causes the stream of water to increasingly become faster and faster, causing the player a need to react faster each time. If the player fails, the counter will reset. There is no timer to the mini game, so the player can take as much time as needed to master the game.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Mini games",
+        "DS version",
+        "Drill weak points"
+      ],
       "text": "The player controls their bending by hitting varying buttons on the DS. Twenty consecutive hits are needed to succeed. Each hit causes the stream of water to increasingly become faster and faster, causing the player a need to react faster each time. If the player fails, the counter will reset. There is no timer to the mini game, so the player can take as much time as needed to master the game."
     },
     {
       "body": "The game was met with fairly average reviews. Some critics were happy to see Toph included, while others criticized it for lacking graphics and a campaign which did not fit well with season two's ending.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Critical reception"
+      ],
       "text": "The game was met with fairly average reviews. Some critics were happy to see Toph included, while others criticized it for lacking graphics and a campaign which did not fit well with season two's ending."
+    },
+    {
+      "body": "When the player faces Ukano, he is able to firebend despite not being a bender in ${link_0}.",
+      "links": [
+        {
+          "body": "the series",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
+            "page": "Avatar__The_Last_Airbender"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Goofs"
+      ],
+      "text": "When the player faces Ukano, he is able to firebend despite not being a bender in the series."
+    },
+    {
+      "body": "When Zuko is player two, his in-game character icon shows the scar over his right eye rather than his left.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Goofs"
+      ],
+      "text": "When Zuko is player two, his in-game character icon shows the scar over his right eye rather than his left."
+    },
+    {
+      "body": "In the PS2 version, before Master Yu knocks Aang down, he is standing next to Katara, while afterward, he is standing by the corner of the academy by the poster.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Goofs"
+      ],
+      "text": "In the PS2 version, before Master Yu knocks Aang down, he is standing next to Katara, while afterward, he is standing by the corner of the academy by the poster."
+    },
+    {
+      "body": "In the GBA version, Zuko's scar cannot be seen when he is facing left, but it can be seen when he is facing down and is on the wrong side of his face when he is attacking to the left.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Goofs"
+      ],
+      "text": "In the GBA version, Zuko's scar cannot be seen when he is facing left, but it can be seen when he is facing down and is on the wrong side of his face when he is attacking to the left."
+    },
+    {
+      "body": "In \"The Library\", Sokka only discovered the date of the previous eclipse, not of the one that would lead to the invasion of the Fire Nation. Throughout the rest of the game, however, the team claims they know an eclipse is coming.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Goofs"
+      ],
+      "text": "In \"The Library\", Sokka only discovered the date of the previous eclipse, not of the one that would lead to the invasion of the Fire Nation. Throughout the rest of the game, however, the team claims they know an eclipse is coming."
+    },
+    {
+      "body": "When Aang and Sokka win the fight against Toph during Earth Rumble VI, Xin Fu says that they won the Earth Rumble belt and a sack of gold. He holds his hand out to give them the prizes but has nothing in them.\n This happens again in \"Return to Omashu\", when Aang and Sokka find all the supplies and pentapuses they need for the citizens to leave Omashu, and once more in \"The Library\", when Team Avatar gives Wan Shi Tong their \"donations\" so they may peruse the library.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Goofs"
+      ],
+      "text": "When Aang and Sokka win the fight against Toph during Earth Rumble VI, Xin Fu says that they won the Earth Rumble belt and a sack of gold. He holds his hand out to give them the prizes but has nothing in them.\n This happens again in \"Return to Omashu\", when Aang and Sokka find all the supplies and pentapuses they need for the citizens to leave Omashu, and once more in \"The Library\", when Team Avatar gives Wan Shi Tong their \"donations\" so they may peruse the library."
+    },
+    {
+      "body": "This happens again in \"Return to Omashu\", when Aang and Sokka find all the supplies and pentapuses they need for the citizens to leave Omashu, and once more in \"The Library\", when Team Avatar gives Wan Shi Tong their \"donations\" so they may peruse the library.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Goofs"
+      ],
+      "text": "This happens again in \"Return to Omashu\", when Aang and Sokka find all the supplies and pentapuses they need for the citizens to leave Omashu, and once more in \"The Library\", when Team Avatar gives Wan Shi Tong their \"donations\" so they may peruse the library."
+    },
+    {
+      "body": "In some cut-scenes of the game, Sokka's boomerang case and the arrow marks on Aang's hands are missing.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Goofs"
+      ],
+      "text": "In some cut-scenes of the game, Sokka's boomerang case and the arrow marks on Aang's hands are missing."
+    },
+    {
+      "body": "Katara's necklace is missing in her artwork next to her health bar.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Goofs"
+      ],
+      "text": "Katara's necklace is missing in her artwork next to her health bar."
+    },
+    {
+      "body": "In \"The Swamp\", the subtitles misspell ${link_0}'s name as \"Du\".",
+      "links": [
+        {
+          "body": "Due",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Due",
+            "page": "Due"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Goofs"
+      ],
+      "text": "In \"The Swamp\", the subtitles misspell Due's name as \"Du\"."
+    },
+    {
+      "body": "All versions of the video game end with \"The Drill\", even though ${link_0} ended a year before the release of the game. The following game, ${link_1}, is much longer and more inclusive than Burning Earth.",
+      "links": [
+        {
+          "body": "Book Two: Earth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Book_Two__Earth",
+            "page": "Book_Two__Earth"
+          }
+        },
+        {
+          "body": "Avatar: The Last Airbender \u2013 Into the Inferno",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_%e2%80%93_Into_the_Inferno",
+            "page": "Avatar__The_Last_Airbender_%e2%80%93_Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Trivia"
+      ],
+      "text": "All versions of the video game end with \"The Drill\", even though Book Two: Earth ended a year before the release of the game. The following game, Avatar: The Last Airbender \u2013 Into the Inferno, is much longer and more inclusive than Burning Earth."
+    },
+    {
+      "body": "When Aang and Professor Zei are talking in Chapter Five: The Desert, Professor Zei asks Aang if he has seen the Northern Air Temple, and Aang says that he has not been there himself, but he had friends there. This is in obvious contrast to the series, as there was an ${link_0} centered around Team Avatar visiting the Northern Air Temple.",
+      "links": [
+        {
+          "body": "entire episode",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Northern_Air_Temple",
+            "page": "The_Northern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Trivia"
+      ],
+      "text": "When Aang and Professor Zei are talking in Chapter Five: The Desert, Professor Zei asks Aang if he has seen the Northern Air Temple, and Aang says that he has not been there himself, but he had friends there. This is in obvious contrast to the series, as there was an entire episode centered around Team Avatar visiting the Northern Air Temple."
+    },
+    {
+      "body": "The first chapter, \"The Avatar State\", consists solely of fighting General Fong and his warriors; in the DS version, however, the chapter is much longer, whereas the GBA version omits the chapter entirely, beginning instead with a shortened version of \"Return to Omashu\" involving fighting the fire soldiers and battling Azula to rescue Bumi.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Trivia"
+      ],
+      "text": "The first chapter, \"The Avatar State\", consists solely of fighting General Fong and his warriors; in the DS version, however, the chapter is much longer, whereas the GBA version omits the chapter entirely, beginning instead with a shortened version of \"Return to Omashu\" involving fighting the fire soldiers and battling Azula to rescue Bumi."
+    },
+    {
+      "body": "The GBA version also omits almost all of the story from \"${link_0}\", save\u00a0for a\u00a0minigame on Appa that involves surviving a tornado that is blowing debris near the area. This version\u00a0only mentions them going to the swamp where Aang sees a vision of 'a young girl', who is Toph. Events from the episode \"${link_1}\" are also omitted, save for a mention of them traveling to Wan Shi Tong's Library to learn about the solar eclipse, along with noting\u00a0that Appa was stolen.",
+      "links": [
+        {
+          "body": "The Swamp",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Swamp",
+            "page": "The_Swamp"
+          }
+        },
+        {
+          "body": "The Library",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Library",
+            "page": "The_Library"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Trivia"
+      ],
+      "text": "The GBA version also omits almost all of the story from \"The Swamp\", save\u00a0for a\u00a0minigame on Appa that involves surviving a tornado that is blowing debris near the area. This version\u00a0only mentions them going to the swamp where Aang sees a vision of 'a young girl', who is Toph. Events from the episode \"The Library\" are also omitted, save for a mention of them traveling to Wan Shi Tong's Library to learn about the solar eclipse, along with noting\u00a0that Appa was stolen."
+    },
+    {
+      "body": "The cover art for this game was drawn by ${link_0}.",
+      "links": [
+        {
+          "body": "Hye-Jung Kim",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Hye-Jung_Kim",
+            "page": "Hye-Jung_Kim"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Trivia"
+      ],
+      "text": "The cover art for this game was drawn by Hye-Jung Kim."
+    },
+    {
+      "body": "The Xbox 360 version of the game has earned the reputation as the easiest game to earn all achievements and Gamerscore among all titles released for that platform; all five achievements and 1,000 Gamerscore can be easily earned in a few minutes in the first level of the game.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Trivia"
+      ],
+      "text": "The Xbox 360 version of the game has earned the reputation as the easiest game to earn all achievements and Gamerscore among all titles released for that platform; all five achievements and 1,000 Gamerscore can be easily earned in a few minutes in the first level of the game."
+    },
+    {
+      "body": "Azula wears her season three armor in the cover art, even though she is not seen wearing it until the first chapter of Book Three.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Trivia"
+      ],
+      "text": "Azula wears her season three armor in the cover art, even though she is not seen wearing it until the first chapter of Book Three."
+    },
+    {
+      "body": "This is the only Avatar game to feature a multiplayer mode that is not a co-op story.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Trivia"
+      ],
+      "text": "This is the only Avatar game to feature a multiplayer mode that is not a co-op story."
+    },
+    {
+      "body": "Aang and Katara are playable as a duo in every level, except for chapter six, \"City of Walls and Secrets\". This makes them the most common duo the player uses in the game. \n In addition, they are the only two characters that are playable in every level.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Trivia"
+      ],
+      "text": "Aang and Katara are playable as a duo in every level, except for chapter six, \"City of Walls and Secrets\". This makes them the most common duo the player uses in the game. \n In addition, they are the only two characters that are playable in every level."
+    },
+    {
+      "body": "In addition, they are the only two characters that are playable in every level.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "Trivia"
+      ],
+      "text": "In addition, they are the only two characters that are playable in every level."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "List of Avatar games",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar_games",
+            "page": "List_of_Avatar_games"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "See also"
+      ],
+      "text": "List of Avatar games"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Official Site",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.avatartheburningearth.com/",
+            "page": "http://www.avatartheburningearth.com/"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "External links"
+      ],
+      "text": "Official Site"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "GameSpot.com: Avatar: The Burning Earth",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.gamespot.com/wii/action/avatarthelastairbendertheburningearth/index",
+            "page": "http://www.gamespot.com/wii/action/avatarthelastairbendertheburningearth/index"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "External links"
+      ],
+      "text": "GameSpot.com: Avatar: The Burning Earth"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "NintendoWorldReport.com: Avatar: The Burning Earth Preview",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.nintendoworldreport.com/previewArt.cfm?artid=13605",
+            "page": "http://www.nintendoworldreport.com/previewArt.cfm?artid=13605"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "External links"
+      ],
+      "text": "NintendoWorldReport.com: Avatar: The Burning Earth Preview"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ign.com: Avatar: The Burning Earth",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://wii.ign.com/objects/905/905219#",
+            "page": "http://wii.ign.com/objects/905/905219"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "External links"
+      ],
+      "text": "Ign.com: Avatar: The Burning Earth"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Avatar: The Burning Earth Achievements",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.xbox360achievements.org/game/avatar-the-burning-earth/achievements/",
+            "page": "http://www.xbox360achievements.org/game/avatar-the-burning-earth/achievements/"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 The Burning Earth",
+        "External links"
+      ],
+      "text": "Avatar: The Burning Earth Achievements"
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Sesame Street (1969)",
+          "body": "${link_0} (1969)",
           "extra": "(1969)",
           "extra_text": "(1969)",
-          "links": [],
+          "links": [
+            {
+              "body": "Sesame Street",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0063951",
+                "page": "http://www.imdb.com/find?q=tt0063951"
+              }
+            }
+          ],
           "text": "Sesame Street (1969)",
-          "value": "Sesame Street",
+          "value": "${link_0}",
           "value_text": "Sesame Street"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0485670",
+                "page": "http://www.imdb.com/find?q=nm0485670"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Lex_Lang",
+                "page": "http://en.wikipedia.org/wiki/Lex_Lang"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Lex-Lang/109482515738081",
+                "page": "https://www.facebook.com/pages/Lex-Lang/109482515738081"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.lexlang.com/",
+                "page": "http://www.lexlang.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/LexLang",
+                "page": "https://twitter.com/LexLang"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,18 +181,493 @@
   ],
   "paragraphs": [
     {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar and the Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_and_the_Fire_Lord",
+            "page": "The_Avatar_and_the_Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "306. \"The Avatar and the Fire Lord\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Blue Dragon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1238937",
+            "page": "http://www.imdb.com/find?q=tt1238937"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Blue Dragon"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Curious George",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0449545",
+            "page": "http://www.imdb.com/find?q=tt0449545"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Curious George"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lucky Star",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1086236",
+            "page": "http://www.imdb.com/find?q=tt1086236"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lucky Star"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Naruto",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0409591",
+            "page": "http://www.imdb.com/find?q=tt0409591"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Naruto"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gungrave",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0435961",
+            "page": "http://www.imdb.com/find?q=tt0435961"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gungrave"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Digimon: Digital Monsters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0210418",
+            "page": "http://www.imdb.com/find?q=tt0210418"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Digimon: Digital Monsters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Power Rangers in Space",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120575",
+            "page": "http://www.imdb.com/find?q=tt0120575"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Power Rangers in Space"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Highland Park",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1506998",
+            "page": "http://www.imdb.com/find?q=tt1506998"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Highland Park (2013)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Ark",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0473435",
+            "page": "http://www.imdb.com/find?q=tt0473435"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ark (2005)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Ekusu doraib\u00e2 za m\u00fbb\u00ee",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1086280",
+            "page": "http://www.imdb.com/find?q=tt1086280"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ekusu doraib\u00e2 za m\u00fbb\u00ee (2002)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Cowboy Bebop: The Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275277",
+            "page": "http://www.imdb.com/find?q=tt0275277"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cowboy Bebop: The Movie (2001)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Little Nicky",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0185431",
+            "page": "http://www.imdb.com/find?q=tt0185431"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Little Nicky (2000)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Attack the Gas Station!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0262246",
+            "page": "http://www.imdb.com/find?q=tt0262246"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Attack the Gas Station! (1999)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Six-String Samurai",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118736",
+            "page": "http://www.imdb.com/find?q=tt0118736"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Six-String Samurai (1998)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dragon Age: Origins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1541718",
+            "page": "http://www.imdb.com/find?q=tt1541718"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dragon Age: Origins (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Br\u00fctal Legend",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1171225",
+            "page": "http://www.imdb.com/find?q=tt1171225"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Br\u00fctal Legend (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crash: Mind Over Mutant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1282033",
+            "page": "http://www.imdb.com/find?q=tt1282033"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crash: Mind Over Mutant (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Disgaea 2: Cursed Memories",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1071784",
+            "page": "http://www.imdb.com/find?q=tt1071784"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Disgaea 2: Cursed Memories (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Matrix: Path of Neo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0451118",
+            "page": "http://www.imdb.com/find?q=tt0451118"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Matrix: Path of Neo (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Grandia III",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0470125",
+            "page": "http://www.imdb.com/find?q=tt0470125"
+          }
+        }
+      ],
+      "section": [
+        "Lex Lang",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Grandia III (video game)"
+    },
+    {
       "body": "Lang is a two-time Emmy Award-winning American voice actor, producer and entrepreneur. He is the co-founder of The Love Planet Foundation, a non-profit organization that creates educational materials for children on the importance of recycling, world water awareness, and the preservation of the planet. He is also the co-founder of H2Om: Water with Intention.",
       "links": [],
+      "section": [
+        "Lex Lang",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Lang is a two-time Emmy Award-winning American voice actor, producer and entrepreneur. He is the co-founder of The Love Planet Foundation, a non-profit organization that creates educational materials for children on the importance of recycling, world water awareness, and the preservation of the planet. He is also the co-founder of H2Om: Water with Intention."
     },
     {
       "body": "Lang has worked as a voice director for clients including Cartoon Network, EWAM, Sony, Bang Zoom! Entertainment, Technicolor, PCB productions, Microsoft, Xbox 360, Code Masters, HBO, and Warner Brothers.",
       "links": [],
+      "section": [
+        "Lex Lang",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Lang has worked as a voice director for clients including Cartoon Network, EWAM, Sony, Bang Zoom! Entertainment, Technicolor, PCB productions, Microsoft, Xbox 360, Code Masters, HBO, and Warner Brothers."
     },
     {
       "body": "Lang is a two-time Emmy Award-winning voice actor, first for his portrayal of Professor Bedhety in the 2003-2004 season of Tutenstein, and again as The Doorman and his dog Hundley on the 2009-2010 season of Curious George. He has been in hundreds of productions ranging from original animation, anime, video games, and movie trailers.",
       "links": [],
+      "section": [
+        "Lex Lang",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Lang is a two-time Emmy Award-winning voice actor, first for his portrayal of Professor Bedhety in the 2003-2004 season of Tutenstein, and again as The Doorman and his dog Hundley on the 2009-2010 season of Curious George. He has been in hundreds of productions ranging from original animation, anime, video games, and movie trailers."
     },
     {
@@ -139,26 +677,47 @@
           "body": "Clancy Brown",
           "key": "${link_0}",
           "target": {
-            "href": "Clancy_Brown",
+            "external": false,
+            "href": "/wiki/Clancy_Brown",
             "page": "Clancy_Brown"
           }
         }
+      ],
+      "section": [
+        "Lex Lang",
+        "Biographical information",
+        "Career"
       ],
       "text": "He is known for voicing characters for Lucas Arts, Crash Twinsanity, Crash Tag Team Racing, Crash of the Titans and Crash: Mind over Mutant, replacing Clancy Brown for Doctor Neo Cortex, Batman: The Brave and the Bold, Power Rangers: In Space, Power Rangers: Wild Force, Justice League Unlimited, and the Twisted Metal series. He was the announcer and celebrity voice matcher in Martin Short's talk show Primetime Glick. He reprises his role as Dr. Cortex in Skylanders: Imaginators and the upcoming Crash Bandicoot N. Sane Trilogy."
     },
     {
       "body": "He is a singer, composer, and guitarist in his band, LeXLang. He also has a band with fellow voice actor and close friend Bentley Mitchum named The Velvet Box. He is married to voice actress Sandy Fox, and together they perform in an acoustic duo called Butterfly.",
       "links": [],
+      "section": [
+        "Lex Lang",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He is a singer, composer, and guitarist in his band, LeXLang. He also has a band with fellow voice actor and close friend Bentley Mitchum named The Velvet Box. He is married to voice actress Sandy Fox, and together they perform in an acoustic duo called Butterfly."
     },
     {
       "body": "He has been a special media guest at many large science fiction and anime conventions throughout the United States and has voiced central characters in hundreds of Xbox, PlayStation, Wii, and PC video games.",
       "links": [],
+      "section": [
+        "Lex Lang",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He has been a special media guest at many large science fiction and anime conventions throughout the United States and has voiced central characters in hundreds of Xbox, PlayStation, Wii, and PC video games."
     },
     {
       "body": "",
       "links": [],
+      "section": [
+        "Lex Lang",
+        "Biographical information",
+        "Career"
+      ],
       "text": ""
     }
   ],

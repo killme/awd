@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Websites",
       "target": {
-        "href": "Category_Websites",
+        "external": false,
+        "href": "/wiki/Category_Websites",
         "page": "Category_Websites"
       }
     }
@@ -46,7 +49,8 @@
           "body": "Avatar: The Last Airbender",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         },
@@ -54,7 +58,8 @@
           "body": "The Last Airbender",
           "key": "${link_1}",
           "target": {
-            "href": "Film_The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender",
             "page": "Film_The_Last_Airbender"
           }
         },
@@ -62,22 +67,53 @@
           "body": "The Legend of Korra",
           "key": "${link_2}",
           "target": {
-            "href": "The_Legend_of_Korra",
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra",
             "page": "The_Legend_of_Korra"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Four Elements"
       ],
       "text": "Avatar: The Four Elements is a Dutch site dedicated to the original Avatar: The Last Airbender TV series, its film adaptation, The Last Airbender, and The Legend of Korra. The site has its very own and popular forum, and allows visitors to watch episodes from the Avatar franchise in both Dutch and English."
     },
     {
       "body": "Welcome to Avatar: The Four Elements: the biggest Dutch fansite about \"Avatar: The Legend of Aang\" and \"The Legend of Korra\". Watch the newest and the old episodes in English and Dutch. On the forum you can chat with other fans about Avatar.",
       "links": [],
+      "section": [
+        "Avatar: The Four Elements",
+        "Site information"
+      ],
       "text": "Welcome to Avatar: The Four Elements: the biggest Dutch fansite about \"Avatar: The Legend of Aang\" and \"The Legend of Korra\". Watch the newest and the old episodes in English and Dutch. On the forum you can chat with other fans about Avatar."
     },
     {
       "body": "\u2014 Taken and translated from the \"Home\" page on the website.",
       "links": [],
+      "section": [
+        "Avatar: The Four Elements",
+        "Site information"
+      ],
       "text": "\u2014 Taken and translated from the \"Home\" page on the website."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Avatar: The Four Elements homepage",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.avatar-fourelements.nl/",
+            "page": "http://www.avatar-fourelements.nl/"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Four Elements",
+        "External links"
+      ],
+      "text": "Avatar: The Four Elements homepage"
     }
   ],
   "source": {

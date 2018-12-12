@@ -3,21 +3,24 @@
     {
       "body": "Disambiguation pages",
       "target": {
-        "href": "Category_Disambiguation_pages",
+        "external": false,
+        "href": "/wiki/Category_Disambiguation_pages",
         "page": "Category_Disambiguation_pages"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -25,14 +28,57 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "This is a disambiguation page \u2014 a list of articles associated with the same title.",
-      "links": [],
-      "text": "This is a disambiguation page \u2014 a list of articles associated with the same title."
-    },
-    {
       "body": "Games could refer to:",
       "links": [],
+      "section": [
+        "Games"
+      ],
       "text": "Games could refer to:"
+    },
+    {
+      "body": "${link_0} \u2013 real world games, usually played online, that tie in with canon events.",
+      "links": [
+        {
+          "body": "List of Avatar games",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar_games",
+            "page": "List_of_Avatar_games"
+          }
+        }
+      ],
+      "section": [
+        "Games"
+      ],
+      "text": "List of Avatar games \u2013 real world games, usually played online, that tie in with canon events."
+    },
+    {
+      "body": "${link_0} \u2013 games and sports played in the ${link_1}.",
+      "links": [
+        {
+          "body": "Recreation in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Recreation_in_the_World_of_Avatar",
+            "page": "Recreation_in_the_World_of_Avatar"
+          }
+        },
+        {
+          "body": "World of Avatar",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Earth",
+            "page": "Earth"
+          }
+        }
+      ],
+      "section": [
+        "Games"
+      ],
+      "text": "Recreation in the World of Avatar \u2013 games and sports played in the World of Avatar."
     }
   ],
   "source": {

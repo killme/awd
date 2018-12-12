@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Celebrity Undercover (2001)",
+          "body": "${link_0} (2001)",
           "extra": "(2001)",
           "extra_text": "(2001)",
-          "links": [],
+          "links": [
+            {
+              "body": "Celebrity Undercover",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0290347",
+                "page": "http://www.imdb.com/find?q=tt0290347"
+              }
+            }
+          ],
           "text": "Celebrity Undercover (2001)",
-          "value": "Celebrity Undercover",
+          "value": "${link_0}",
           "value_text": "Celebrity Undercover"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1280290",
+                "page": "http://www.imdb.com/find?q=nm1280290"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/nickmalis",
+                "page": "https://twitter.com/nickmalis"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -77,19 +110,299 @@
   ],
   "paragraphs": [
     {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Warriors of Kyoshi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Warriors_of_Kyoshi",
+            "page": "The_Warriors_of_Kyoshi"
+          }
+        }
+      ],
+      "section": [
+        "Nick Malis",
+        "Avatar: The Last Airbender credit",
+        "Writer"
+      ],
+      "text": "104. \"The Warriors of Kyoshi\""
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Attack of the Show!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0498878",
+            "page": "http://www.imdb.com/find?q=tt0498878"
+          }
+        }
+      ],
+      "section": [
+        "Nick Malis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Attack of the Show! (writer)"
+    },
+    {
+      "body": "${link_0} (director, producer, and writer)",
+      "links": [
+        {
+          "body": "Finish Our Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1194810",
+            "page": "http://www.imdb.com/find?q=tt1194810"
+          }
+        }
+      ],
+      "section": [
+        "Nick Malis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Finish Our Movie (director, producer, and writer)"
+    },
+    {
+      "body": "${link_0} (actor and writer)",
+      "links": [
+        {
+          "body": "Mind of Mencia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0468999",
+            "page": "http://www.imdb.com/find?q=tt0468999"
+          }
+        }
+      ],
+      "section": [
+        "Nick Malis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mind of Mencia (actor and writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Stankervision",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0469007",
+            "page": "http://www.imdb.com/find?q=tt0469007"
+          }
+        }
+      ],
+      "section": [
+        "Nick Malis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Stankervision (writer)"
+    },
+    {
+      "body": "${link_0} (actor, head writer, and producer)",
+      "links": [
+        {
+          "body": "Tosh.0",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1430587",
+            "page": "http://www.imdb.com/find?q=tt1430587"
+          }
+        }
+      ],
+      "section": [
+        "Nick Malis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Tosh.0 (actor, head writer, and producer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Watch This!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0790586",
+            "page": "http://www.imdb.com/find?q=tt0790586"
+          }
+        }
+      ],
+      "section": [
+        "Nick Malis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Watch This! (writer)"
+    },
+    {
+      "body": "Men in Black Training Video:\n ${link_0}\n ${link_1}\n ${link_2}\n ${link_3}",
+      "links": [
+        {
+          "body": "Australia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0341464",
+            "page": "http://www.imdb.com/find?q=tt0341464"
+          }
+        },
+        {
+          "body": "Germany",
+          "key": "${link_1}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0341465",
+            "page": "http://www.imdb.com/find?q=tt0341465"
+          }
+        },
+        {
+          "body": "Japan",
+          "key": "${link_2}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0341466",
+            "page": "http://www.imdb.com/find?q=tt0341466"
+          }
+        },
+        {
+          "body": "UK",
+          "key": "${link_3}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2980764",
+            "page": "http://www.imdb.com/find?q=tt2980764"
+          }
+        }
+      ],
+      "section": [
+        "Nick Malis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Men in Black Training Video:\n Australia\n Germany\n Japan\n UK"
+    },
+    {
+      "body": "${link_0}",
+      "links": [],
+      "section": [
+        "Nick Malis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "${link_0}"
+    },
+    {
+      "body": "${link_1}",
+      "links": [],
+      "section": [
+        "Nick Malis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "${link_1}"
+    },
+    {
+      "body": "${link_2}",
+      "links": [],
+      "section": [
+        "Nick Malis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "${link_2}"
+    },
+    {
+      "body": "${link_3}",
+      "links": [],
+      "section": [
+        "Nick Malis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "${link_3}"
+    },
+    {
       "body": "A native of New York City's SoHo district, Malis attended Stuyvesant High School before graduating from Harvard University. While at Harvard, Malis was an editor for The Harvard Lampoon.",
       "links": [],
+      "section": [
+        "Nick Malis",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "A native of New York City's SoHo district, Malis attended Stuyvesant High School before graduating from Harvard University. While at Harvard, Malis was an editor for The Harvard Lampoon."
     },
     {
       "body": "In his early career, Malis was an intern and writer for The Howard Stern Show, as well as a joke writer for Joan Rivers. He went on to write and produce reality, variety, and award shows, like Celebrity Undercover, Spy TV, Nick & Jessica's Family Christmas, The Spike TV Video Game Awards, and VH1's Big in 04. He was also a writer/producer on The Biggest Loser, Run's House, Mind of Mencia, Attack of the Show, and Watch This with John Henson before becoming a writer on Comedy Central's Tosh.0 in its first season. Malis now acts as head writer and producer on the hit show.",
       "links": [],
+      "section": [
+        "Nick Malis",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "In his early career, Malis was an intern and writer for The Howard Stern Show, as well as a joke writer for Joan Rivers. He went on to write and produce reality, variety, and award shows, like Celebrity Undercover, Spy TV, Nick & Jessica's Family Christmas, The Spike TV Video Game Awards, and VH1's Big in 04. He was also a writer/producer on The Biggest Loser, Run's House, Mind of Mencia, Attack of the Show, and Watch This with John Henson before becoming a writer on Comedy Central's Tosh.0 in its first season. Malis now acts as head writer and producer on the hit show."
     },
     {
       "body": "Malis' web presence has included Cute Things Falling Asleep, which features YouTube videos of babies and animals dozing off, which are rated on a scale of 1 to 5 for cuteness and sleepiness. For his creation of Cute Things Falling Asleep, Malis was a featured guest in early 2009 on CNN's The Situation Room with Wolf Blitzer, The Bonnie Hunt Show, and Today, as well as the subject of a Time Magazine article about the site. He has a blog, Malis in Wonderland, but it has not been updated since July 2009.",
       "links": [],
+      "section": [
+        "Nick Malis",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Malis' web presence has included Cute Things Falling Asleep, which features YouTube videos of babies and animals dozing off, which are rated on a scale of 1 to 5 for cuteness and sleepiness. For his creation of Cute Things Falling Asleep, Malis was a featured guest in early 2009 on CNN's The Situation Room with Wolf Blitzer, The Bonnie Hunt Show, and Today, as well as the subject of a Time Magazine article about the site. He has a blog, Malis in Wonderland, but it has not been updated since July 2009."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cute Things Falling Asleep",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.cutethingsfallingasleep.org/",
+            "page": "http://www.cutethingsfallingasleep.org/"
+          }
+        }
+      ],
+      "section": [
+        "Nick Malis",
+        "External links"
+      ],
+      "text": "Cute Things Falling Asleep"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Malis in Wonderland",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.malisinwonderland.com/",
+            "page": "http://www.malisinwonderland.com/"
+          }
+        }
+      ],
+      "section": [
+        "Nick Malis",
+        "External links"
+      ],
+      "text": "Malis in Wonderland"
     }
   ],
   "source": {

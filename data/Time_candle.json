@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Earth Kingdom",
       "target": {
-        "href": "Category_Earth_Kingdom",
+        "external": false,
+        "href": "/wiki/Category_Earth_Kingdom",
         "page": "Category_Earth_Kingdom"
       }
     },
     {
       "body": "Equipment",
       "target": {
-        "href": "Category_Equipment",
+        "external": false,
+        "href": "/wiki/Category_Equipment",
         "page": "Category_Equipment"
       }
     },
     {
       "body": "Objects",
       "target": {
-        "href": "Category_Objects",
+        "external": false,
+        "href": "/wiki/Category_Objects",
         "page": "Category_Objects"
       }
     }
@@ -32,35 +36,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "The ${link_0} kept three time candles at the ${link_1}.",
-      "links": [
-        {
-          "body": "mechanist",
-          "key": "${link_0}",
-          "target": {
-            "href": "Mechanist",
-            "page": "Mechanist"
-          }
-        },
-        {
-          "body": "Northern Air Temple",
-          "key": "${link_1}",
-          "target": {
-            "href": "Northern_Air_Temple",
-            "page": "Northern_Air_Temple"
-          }
-        }
-      ],
-      "text": "The mechanist kept three time candles at the Northern Air Temple."
-    },
-    {
       "body": "Time candles are timekeeping devices developed by the ${link_0} at the ${link_1}. They are filled with varying amounts of spark powder at different points along the lines in order to signify the time of day.",
       "links": [
         {
           "body": "mechanist",
           "key": "${link_0}",
           "target": {
-            "href": "Mechanist",
+            "external": false,
+            "href": "/wiki/Mechanist",
             "page": "Mechanist"
           }
         },
@@ -68,17 +51,62 @@
           "body": "Northern Air Temple",
           "key": "${link_1}",
           "target": {
-            "href": "Northern_Air_Temple",
+            "external": false,
+            "href": "/wiki/Northern_Air_Temple",
             "page": "Northern_Air_Temple"
           }
         }
+      ],
+      "section": [
+        "Time candle"
       ],
       "text": "Time candles are timekeeping devices developed by the mechanist at the Northern Air Temple. They are filled with varying amounts of spark powder at different points along the lines in order to signify the time of day."
     },
     {
       "body": "The time is indicated by the number of flashes the candles produce, with each flash indicating the passing of one hour after midday. For example, if the candle flashed four times, it was four hours past midday or, as the mechanist called it, \"four o'candle\".",
       "links": [],
+      "section": [
+        "Time candle"
+      ],
       "text": "The time is indicated by the number of flashes the candles produce, with each flash indicating the passing of one hour after midday. For example, if the candle flashed four times, it was four hours past midday or, as the mechanist called it, \"four o'candle\"."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Technology in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Technology_in_the_World_of_Avatar",
+            "page": "Technology_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Time candle",
+        "See also"
+      ],
+      "text": "Technology in the World of Avatar"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Timing device",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Timing_device",
+            "page": "Timing_device"
+          }
+        }
+      ],
+      "section": [
+        "Time candle",
+        "See also"
+      ],
+      "text": "Timing device"
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "B.J. and the Bear (1979)",
+          "body": "${link_0} (1979)",
           "extra": "(1979)",
           "extra_text": "(1979)",
-          "links": [],
+          "links": [
+            {
+              "body": "B.J. and the Bear",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0078564",
+                "page": "http://www.imdb.com/find?q=tt0078564"
+              }
+            }
+          ],
           "text": "B.J. and the Bear (1979)",
-          "value": "B.J. and the Bear",
+          "value": "${link_0}",
           "value_text": "B.J. and the Bear"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0827565",
+                "page": "http://www.imdb.com/find?q=nm0827565"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Mindy_Sterling",
+                "page": "http://en.wikipedia.org/wiki/Mindy_Sterling"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,18 +124,533 @@
   ],
   "paragraphs": [
     {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Voice in the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Voice_in_the_Night",
+            "page": "The_Voice_in_the_Night"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "The Legend of Korra credits",
+        "Fire Nation councilwoman"
+      ],
+      "text": "104. \"The Voice in the Night\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Turning the Tides",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "The Legend of Korra credits",
+        "Fire Nation councilwoman"
+      ],
+      "text": "110. \"Turning the Tides\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "And the Winner Is...",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/And_the_Winner_Is..",
+            "page": "And_the_Winner_Is.."
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "106. \"And the Winner Is...\""
+    },
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Aftermath",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Aftermath",
+            "page": "The_Aftermath"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "107. \"The Aftermath\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "A.N.T. Farm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1772752",
+            "page": "http://www.imdb.com/find?q=tt1772752"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Television work"
+      ],
+      "text": "A.N.T. Farm"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Chowder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1140100",
+            "page": "http://www.imdb.com/find?q=tt1140100"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Television work"
+      ],
+      "text": "Chowder"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Desperate Housewives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0410975",
+            "page": "http://www.imdb.com/find?q=tt0410975"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Television work"
+      ],
+      "text": "Desperate Housewives"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Family Matters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096579",
+            "page": "http://www.imdb.com/find?q=tt0096579"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Television work"
+      ],
+      "text": "Family Matters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "iCarly",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0972534",
+            "page": "http://www.imdb.com/find?q=tt0972534"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Television work"
+      ],
+      "text": "iCarly"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Invader ZIM",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235923",
+            "page": "http://www.imdb.com/find?q=tt0235923"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Television work"
+      ],
+      "text": "Invader ZIM"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Manhattan, AZ",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247111",
+            "page": "http://www.imdb.com/find?q=tt0247111"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Television work"
+      ],
+      "text": "Manhattan, AZ"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "On the Television",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200359",
+            "page": "http://www.imdb.com/find?q=tt0200359"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Television work"
+      ],
+      "text": "On the Television"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Perfect Strangers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090501",
+            "page": "http://www.imdb.com/find?q=tt0090501"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Television work"
+      ],
+      "text": "Perfect Strangers"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Reno 911!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0370194",
+            "page": "http://www.imdb.com/find?q=tt0370194"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Television work"
+      ],
+      "text": "Reno 911!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Saved by the Bell: The College Years",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106122",
+            "page": "http://www.imdb.com/find?q=tt0106122"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Television work"
+      ],
+      "text": "Saved by the Bell: The College Years"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Larry Sanders Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103466",
+            "page": "http://www.imdb.com/find?q=tt0103466"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Television work"
+      ],
+      "text": "The Larry Sanders Show"
+    },
+    {
+      "body": "${link_0} (2014; video)",
+      "links": [
+        {
+          "body": "The Little Rascals Save the Day",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2490004",
+            "page": "http://www.imdb.com/find?q=tt2490004"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Filmography"
+      ],
+      "text": "The Little Rascals Save the Day (2014; video)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Mars Needs Moms",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1305591",
+            "page": "http://www.imdb.com/find?q=tt1305591"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Filmography"
+      ],
+      "text": "Mars Needs Moms (2011)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "The 12 Dogs of Christmas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0405615",
+            "page": "http://www.imdb.com/find?q=tt0405615"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Filmography"
+      ],
+      "text": "The 12 Dogs of Christmas (2005)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Austin Powers in Goldmember",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0295178",
+            "page": "http://www.imdb.com/find?q=tt0295178"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Filmography"
+      ],
+      "text": "Austin Powers in Goldmember (2002)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Totally Blonde",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200954",
+            "page": "http://www.imdb.com/find?q=tt0200954"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Filmography"
+      ],
+      "text": "Totally Blonde (2001)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Austin Powers: The Spy Who Shagged Me",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0145660",
+            "page": "http://www.imdb.com/find?q=tt0145660"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Filmography"
+      ],
+      "text": "Austin Powers: The Spy Who Shagged Me (1999)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Austin Powers: International Man of Mystery",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118655",
+            "page": "http://www.imdb.com/find?q=tt0118655"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Filmography"
+      ],
+      "text": "Austin Powers: International Man of Mystery (1997)"
+    },
+    {
+      "body": "${link_0} (1981)",
+      "links": [
+        {
+          "body": "The Devil and Max Devlin",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0082263",
+            "page": "http://www.imdb.com/find?q=tt0082263"
+          }
+        }
+      ],
+      "section": [
+        "Mindy Sterling",
+        "Selected credits",
+        "Filmography"
+      ],
+      "text": "The Devil and Max Devlin (1981)"
+    },
+    {
       "body": "Mindy Sterling is best known for her role as Frau Farbissina in the Austin Powers movie franchise. In 2000, her memorable portrayal earned her nominations for a Teen Choice award and a Blockbuster Entertainment Award for Favorite Supporting Actress.",
       "links": [],
+      "section": [
+        "Mindy Sterling",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Mindy Sterling is best known for her role as Frau Farbissina in the Austin Powers movie franchise. In 2000, her memorable portrayal earned her nominations for a Teen Choice award and a Blockbuster Entertainment Award for Favorite Supporting Actress."
     },
     {
       "body": "Sterling has also brought her comedic talent to a number of on-camera television roles, including A.N.T. Farm, Desperate Housewives, iCarly, 2 Broke Girls, My Name is Earl, Curb Your Enthusiasm, Scrubs, King of Queens, and Reno 911!.",
       "links": [],
+      "section": [
+        "Mindy Sterling",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Sterling has also brought her comedic talent to a number of on-camera television roles, including A.N.T. Farm, Desperate Housewives, iCarly, 2 Broke Girls, My Name is Earl, Curb Your Enthusiasm, Scrubs, King of Queens, and Reno 911!."
     },
     {
       "body": "Sterling's voice-over credits include As Told By Ginger, The Wild Thornberrys, Kick Buttowski, The Looney Tunes Show, Scooby-Doo Mystery Incorporated, Chowder, Robot Chicken, and Justice League.",
       "links": [],
+      "section": [
+        "Mindy Sterling",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Sterling's voice-over credits include As Told By Ginger, The Wild Thornberrys, Kick Buttowski, The Looney Tunes Show, Scooby-Doo Mystery Incorporated, Chowder, Robot Chicken, and Justice League."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -64,48 +67,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://lucidityeditorial.com/",
+                "page": "https://lucidityeditorial.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/rawlesmarieauthor/",
+                "page": "https://www.facebook.com/rawlesmarieauthor/"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Goodreads",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Goodreads",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.goodreads.com/author/show/7276851.Rawles_Marie_Lumumba",
+                "page": "https://www.goodreads.com/author/show/7276851.Rawles_Marie_Lumumba"
+              }
+            }
+          ],
           "text": "Goodreads",
-          "value": "Goodreads",
+          "value": "${link_0}",
           "value_text": "Goodreads"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://rawlesmarie.tumblr.com/",
+                "page": "http://rawlesmarie.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://twitter.com/rawlesmarie",
+                "page": "http://twitter.com/rawlesmarie"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -113,18 +166,90 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #20. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Combustion Man on a Train",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Combustion_Man_on_a_Train",
+            "page": "Combustion_Man_on_a_Train"
+          }
+        }
+      ],
+      "section": [
+        "Rawles Lumumba",
+        "Avatar: The Last Airbender credit",
+        "Comic writer"
+      ],
+      "text": "Iss. #20. \"Combustion Man on a Train\""
+    },
+    {
+      "body": "Duskfall (The Nightshade War #1)",
+      "links": [],
+      "section": [
+        "Rawles Lumumba",
+        "Selected other credits"
+      ],
+      "text": "Duskfall (The Nightshade War #1)"
+    },
+    {
+      "body": "The Sockdolager Winter 2016 Issue 08. Women of War",
+      "links": [],
+      "section": [
+        "Rawles Lumumba",
+        "Selected other credits"
+      ],
+      "text": "The Sockdolager Winter 2016 Issue 08. Women of War"
+    },
+    {
       "body": "Rawles Lumumba is a writer of different fiction genres, specializing in science fiction and fantasy. Aside from her single credit in ${link_0}, her work has been featured in an anthology from The Sockdolager titled Puzzle Box.",
       "links": [
         {
           "body": "The Lost Adventures",
           "key": "${link_0}",
           "target": {
-            "href": "List_of_Avatar__The_Last_Airbender_comics",
+            "external": false,
+            "href": "/wiki/List_of_Avatar__The_Last_Airbender_comics",
             "page": "List_of_Avatar__The_Last_Airbender_comics"
           }
         }
       ],
+      "section": [
+        "Rawles Lumumba",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Rawles Lumumba is a writer of different fiction genres, specializing in science fiction and fantasy. Aside from her single credit in The Lost Adventures, her work has been featured in an anthology from The Sockdolager titled Puzzle Box."
+    },
+    {
+      "body": "${link_0}, Lumumba's co-writer on \"${link_1}\", also has work published by The Sockdolager, hers being in a separate anthology titled The Ships We Sail.",
+      "links": [
+        {
+          "body": "Alison Wilgus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Alison_Wilgus",
+            "page": "Alison_Wilgus"
+          }
+        },
+        {
+          "body": "Combustion Man on a Train",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Combustion_Man_on_a_Train",
+            "page": "Combustion_Man_on_a_Train"
+          }
+        }
+      ],
+      "section": [
+        "Rawles Lumumba",
+        "Trivia"
+      ],
+      "text": "Alison Wilgus, Lumumba's co-writer on \"Combustion Man on a Train\", also has work published by The Sockdolager, hers being in a separate anthology titled The Ships We Sail."
     }
   ],
   "source": {

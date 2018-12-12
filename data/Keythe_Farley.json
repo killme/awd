@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Gabriel's Fire (1991)",
+          "body": "${link_0} (1991)",
           "extra": "(1991)",
           "extra_text": "(1991)",
-          "links": [],
+          "links": [
+            {
+              "body": "Gabriel's Fire",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0098801",
+                "page": "http://www.imdb.com/find?q=tt0098801"
+              }
+            }
+          ],
           "text": "Gabriel's Fire (1991)",
-          "value": "Gabriel's Fire",
+          "value": "${link_0}",
           "value_text": "Gabriel's Fire"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0267660",
+                "page": "http://www.imdb.com/find?q=nm0267660"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Keythe_Farley",
+                "page": "http://en.wikipedia.org/wiki/Keythe_Farley"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/104645592122706990711/posts",
+                "page": "https://plus.google.com/104645592122706990711/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/faronear",
+                "page": "https://twitter.com/faronear"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,8 +162,532 @@
   ],
   "paragraphs": [
     {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "The Legend of Korra credits",
+        "Captain"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "The Legend of Korra credits",
+        "Dai Li agent"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "And the Band Played On",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106273",
+            "page": "http://www.imdb.com/find?q=tt0106273"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "And the Band Played On (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Beverly Hills, 90210",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098749",
+            "page": "http://www.imdb.com/find?q=tt0098749"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Beverly Hills, 90210"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Full House",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092359",
+            "page": "http://www.imdb.com/find?q=tt0092359"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Full House"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Rugrats",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101188",
+            "page": "http://www.imdb.com/find?q=tt0101188"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Rugrats"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: Voyager",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112178",
+            "page": "http://www.imdb.com/find?q=tt0112178"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: Voyager"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Winx Club: Beyond Believix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2653030",
+            "page": "http://www.imdb.com/find?q=tt2653030"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Winx Club: Beyond Believix"
+    },
+    {
+      "body": "${link_0} (2008; short)",
+      "links": [
+        {
+          "body": "Rockwall",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1342929",
+            "page": "http://www.imdb.com/find?q=tt1342929"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rockwall (2008; short)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Nothing So Strange",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0274639",
+            "page": "http://www.imdb.com/find?q=tt0274639"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Nothing So Strange (2002)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "California Myth",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0431671",
+            "page": "http://www.imdb.com/find?q=tt0431671"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "California Myth (1999)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Hang Your Dog in the Wind",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0223424",
+            "page": "http://www.imdb.com/find?q=tt0223424"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hang Your Dog in the Wind (1997)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Private Obsession",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0114187",
+            "page": "http://www.imdb.com/find?q=tt0114187"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Private Obsession (1995)"
+    },
+    {
+      "body": "${link_0} (voice director)",
+      "links": [
+        {
+          "body": "Adventure Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1305826",
+            "page": "http://www.imdb.com/find?q=tt1305826"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Adventure Time (voice director)"
+    },
+    {
+      "body": "${link_0} (voice director)",
+      "links": [
+        {
+          "body": "As Told By Ginger",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235911",
+            "page": "http://www.imdb.com/find?q=tt0235911"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "As Told By Ginger (voice director)"
+    },
+    {
+      "body": "${link_0} (production assistant)",
+      "links": [
+        {
+          "body": "Duckman: Private Dick",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108755",
+            "page": "http://www.imdb.com/find?q=tt0108755"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Duckman: Private Dick (production assistant)"
+    },
+    {
+      "body": "${link_0} (video game - voice over casting)",
+      "links": [
+        {
+          "body": "God Hand",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0889191",
+            "page": "http://www.imdb.com/find?q=tt0889191"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "God Hand (video game - voice over casting)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "God of War II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0846694",
+            "page": "http://www.imdb.com/find?q=tt0846694"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "God of War II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Guild Wars 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1716744",
+            "page": "http://www.imdb.com/find?q=tt1716744"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Guild Wars 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Mass Effect 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1540125",
+            "page": "http://www.imdb.com/find?q=tt1540125"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mass Effect 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Mass Effect 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1839558",
+            "page": "http://www.imdb.com/find?q=tt1839558"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mass Effect 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game - voice over director and voice over casting)",
+      "links": [
+        {
+          "body": "MotorStorm: Apocalypse",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1849822",
+            "page": "http://www.imdb.com/find?q=tt1849822"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "MotorStorm: Apocalypse (video game - voice over director and voice over casting)"
+    },
+    {
+      "body": "${link_0} (voice director)",
+      "links": [
+        {
+          "body": "Rugrats",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101188",
+            "page": "http://www.imdb.com/find?q=tt0101188"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Rugrats (voice director)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Skylanders: Giants",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2331562",
+            "page": "http://www.imdb.com/find?q=tt2331562"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Skylanders: Giants (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Skylanders: SWAP Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3265786",
+            "page": "http://www.imdb.com/find?q=tt3265786"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Skylanders: SWAP Force (video game)"
+    },
+    {
+      "body": "${link_0} (production manager and voice director)",
+      "links": [
+        {
+          "body": "The Wild Thornberrys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0167743",
+            "page": "http://www.imdb.com/find?q=tt0167743"
+          }
+        }
+      ],
+      "section": [
+        "Keythe Farley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Wild Thornberrys (production manager and voice director)"
+    },
+    {
       "body": "Farley is a graduate of UCLA and is an active member of the Actors' Gang and Evidence Room theater companies.",
       "links": [],
+      "section": [
+        "Keythe Farley",
+        "Biographical information"
+      ],
       "text": "Farley is a graduate of UCLA and is an active member of the Actors' Gang and Evidence Room theater companies."
     }
   ],

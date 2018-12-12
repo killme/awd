@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Jetsons (1962)",
+          "body": "${link_0} (1962)",
           "extra": "(1962)",
           "extra_text": "(1962)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Jetsons",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0055683",
+                "page": "http://www.imdb.com/find?q=tt0055683"
+              }
+            }
+          ],
           "text": "The Jetsons (1962)",
-          "value": "The Jetsons",
+          "value": "${link_0}",
           "value_text": "The Jetsons"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0741648",
+                "page": "http://www.imdb.com/find?q=nm0741648"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Roger_Rose",
+                "page": "http://en.wikipedia.org/wiki/Roger_Rose"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.rogerrose.net/",
+                "page": "http://www.rogerrose.net/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -86,23 +129,463 @@
   ],
   "paragraphs": [
     {
+      "body": "314. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_1",
+            "page": "The_Boiling_Rock%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Avatar: The Last Airbender credits",
+        "Bully guard"
+      ],
+      "text": "314. \"The Boiling Rock, Part 1\""
+    },
+    {
+      "body": "315. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Avatar: The Last Airbender credits",
+        "Bully guard"
+      ],
+      "text": "315. \"The Boiling Rock, Part 2\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Brave and the Bold"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312109",
+            "page": "http://www.imdb.com/find?q=tt0312109"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Johnny Bravo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118360",
+            "page": "http://www.imdb.com/find?q=tt0118360"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Johnny Bravo"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Quack Pack",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0136658",
+            "page": "http://www.imdb.com/find?q=tt0136658"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Quack Pack"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Grim Adventures of Billy & Mandy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292800",
+            "page": "http://www.imdb.com/find?q=tt0292800"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Grim Adventures of Billy & Mandy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Zatch Bell!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0455295",
+            "page": "http://www.imdb.com/find?q=tt0455295"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Zatch Bell!"
+    },
+    {
+      "body": "${link_0} (2014; video)",
+      "links": [
+        {
+          "body": "Justice League: War",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3060952",
+            "page": "http://www.imdb.com/find?q=tt3060952"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Justice League: War (2014; video)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Happy Feet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0366548",
+            "page": "http://www.imdb.com/find?q=tt0366548"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Happy Feet (2006)"
+    },
+    {
+      "body": "${link_0} (2006; English version)",
+      "links": [
+        {
+          "body": "Gekij\u00f4-ban Naruto: Daik\u00f4fun! Mikazukijima no animaru panikku dattebayo!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1071815",
+            "page": "http://www.imdb.com/find?q=tt1071815"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Gekij\u00f4-ban Naruto: Daik\u00f4fun! Mikazukijima no animaru panikku dattebayo! (2006; English version)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Rugrats in Paris",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0213203",
+            "page": "http://www.imdb.com/find?q=tt0213203"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rugrats in Paris (2001)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Babe: Pig in the City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120595",
+            "page": "http://www.imdb.com/find?q=tt0120595"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Babe: Pig in the City (1998)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "Dead On",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106681",
+            "page": "http://www.imdb.com/find?q=tt0106681"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dead On (1994)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "Love Bites",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0107448",
+            "page": "http://www.imdb.com/find?q=tt0107448"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Love Bites (1993)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Assassin's Creed: Brotherhood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1699759",
+            "page": "http://www.imdb.com/find?q=tt1699759"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Assassin's Creed: Brotherhood (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Batman: Arkham Asylum",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1282022",
+            "page": "http://www.imdb.com/find?q=tt1282022"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Batman: Arkham Asylum (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Goosebumps: Attack of the Mutant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0219709",
+            "page": "http://www.imdb.com/find?q=tt0219709"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Goosebumps: Attack of the Mutant (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Gothic 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0891492",
+            "page": "http://www.imdb.com/find?q=tt0891492"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Gothic 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel: Ultimate Alliance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0814207",
+            "page": "http://www.imdb.com/find?q=tt0814207"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel: Ultimate Alliance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Shrek the Third",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1024946",
+            "page": "http://www.imdb.com/find?q=tt1024946"
+          }
+        }
+      ],
+      "section": [
+        "Roger Rose",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Shrek the Third (video game)"
+    },
+    {
       "body": "Rose is the son of Hilly Rose, a radio personality in Los Angeles, and Sondra B. Gair, a pioneer radio interviewer with Chicago Public Radio. His brother was Judd Rose, of ABC.",
       "links": [],
+      "section": [
+        "Roger Rose",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Rose is the son of Hilly Rose, a radio personality in Los Angeles, and Sondra B. Gair, a pioneer radio interviewer with Chicago Public Radio. His brother was Judd Rose, of ABC."
     },
     {
       "body": "Rose's first live role was in an episode of Buck Rogers in the 25th Century. He auditioned at Rod Roddy's podium in 2004 for the announcing job on television's longest running game show, The Price is Right, and was the announcer for the show's 6,000th aired episode.",
       "links": [],
+      "section": [
+        "Roger Rose",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Rose's first live role was in an episode of Buck Rogers in the 25th Century. He auditioned at Rod Roddy's podium in 2004 for the announcing job on television's longest running game show, The Price is Right, and was the announcer for the show's 6,000th aired episode."
     },
     {
       "body": "Rose starred in Ski Patrol in 1990 and produced and acted in 2004's Comic Book: The Movie. He voices on-air promos for most major television networks. He was the in-show announcer for the Emmy Awards hosted by Jane Lynch on Fox. He voiced both the Dark Fiend Charles the 3rd and Aquatic Terror Gran Bruce in the 2003 video game Viewtiful Joe. Some of his notable anime roles include several minor characters of Zatch Bell!. Rose also did the voice of Garbel of Manicuria on Bobobo-bo Bo-bobo. He has done promos for TV shows such as Ugly Betty, Hannah Montana, NCIS, and Big Bang. He has also done a David Letterman impression on several animated series, such as Tiny Toons and Animaniacs. In 2009, he voiced Doctor Strange on The Super Hero Squad Show and Superman on Batman: The Brave and the Bold. He has narrated documentaries for Animal Planet, Discovery and National Geographic. Rose also announced the 2011 Emmy Awards.",
       "links": [],
+      "section": [
+        "Roger Rose",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Rose starred in Ski Patrol in 1990 and produced and acted in 2004's Comic Book: The Movie. He voices on-air promos for most major television networks. He was the in-show announcer for the Emmy Awards hosted by Jane Lynch on Fox. He voiced both the Dark Fiend Charles the 3rd and Aquatic Terror Gran Bruce in the 2003 video game Viewtiful Joe. Some of his notable anime roles include several minor characters of Zatch Bell!. Rose also did the voice of Garbel of Manicuria on Bobobo-bo Bo-bobo. He has done promos for TV shows such as Ugly Betty, Hannah Montana, NCIS, and Big Bang. He has also done a David Letterman impression on several animated series, such as Tiny Toons and Animaniacs. In 2009, he voiced Doctor Strange on The Super Hero Squad Show and Superman on Batman: The Brave and the Bold. He has narrated documentaries for Animal Planet, Discovery and National Geographic. Rose also announced the 2011 Emmy Awards."
     },
     {
       "body": "Rose can be heard on WLS-TV in Chicago and WLNY in New York City.",
       "links": [],
+      "section": [
+        "Roger Rose",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Rose can be heard on WLS-TV in Chicago and WLNY in New York City."
     }
   ],

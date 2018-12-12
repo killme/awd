@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Battle Hell (1957)",
+          "body": "${link_0} (1957)",
           "extra": "(1957)",
           "extra_text": "(1957)",
-          "links": [],
+          "links": [
+            {
+              "body": "Battle Hell",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0051209",
+                "page": "http://www.imdb.com/find?q=tt0051209"
+              }
+            }
+          ],
           "text": "Battle Hell (1957)",
-          "value": "Battle Hell",
+          "value": "${link_0}",
           "value_text": "Battle Hell"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0157796",
+                "page": "http://www.imdb.com/find?q=nm0157796"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Tsai_Chin_(actress)",
+                "page": "http://en.wikipedia.org/wiki/Tsai_Chin_(actress)"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,18 +124,113 @@
   ],
   "paragraphs": [
     {
+      "body": "114. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Fortuneteller",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Fortuneteller",
+            "page": "The_Fortuneteller"
+          }
+        }
+      ],
+      "section": [
+        "Tsai Chin",
+        "Avatar: The Last Airbender credits",
+        "Wu"
+      ],
+      "text": "114. \"The Fortuneteller\""
+    },
+    {
+      "body": "115. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bato of the Water Tribe",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bato_of_the_Water_Tribe",
+            "page": "Bato_of_the_Water_Tribe"
+          }
+        }
+      ],
+      "section": [
+        "Tsai Chin",
+        "Avatar: The Last Airbender credits",
+        "Wu"
+      ],
+      "text": "115. \"Bato of the Water Tribe\""
+    },
+    {
+      "body": "114. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Fortuneteller",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Fortuneteller",
+            "page": "The_Fortuneteller"
+          }
+        }
+      ],
+      "section": [
+        "Tsai Chin",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "114. \"The Fortuneteller\""
+    },
+    {
+      "body": "${link_0} (awards ceremony)",
+      "links": [
+        {
+          "body": "The 2007 Miss Chinese Cosmos Pageant of the Americas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1331998",
+            "page": "http://www.imdb.com/find?q=tt1331998"
+          }
+        }
+      ],
+      "section": [
+        "Tsai Chin",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The 2007 Miss Chinese Cosmos Pageant of the Americas (awards ceremony)"
+    },
+    {
       "body": "Chin was born to Peking Opera actor Zhou Xinfang in 1936. She spent her early life in Shanghai and had two short marriages, both of\u00a0which ended in divorce. Her brother is Michael Chow, owner of the Mr. Chow restaurant chain,\u00a0and\u00a0she is the aunt to actress/model China Chow and her brother Maximillian Chow, who are the children of Michael and his ex-wife, Tina Chow.",
       "links": [],
+      "section": [
+        "Tsai Chin",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Chin was born to Peking Opera actor Zhou Xinfang in 1936. She spent her early life in Shanghai and had two short marriages, both of\u00a0which ended in divorce. Her brother is Michael Chow, owner of the Mr. Chow restaurant chain,\u00a0and\u00a0she is the aunt to actress/model China Chow and her brother Maximillian Chow, who are the children of Michael and his ex-wife, Tina Chow."
     },
     {
       "body": "She was the first person with Chinese roots to study at the Royal Academy of Dramatic Art, London, in 1951 and later became an associate member.",
       "links": [],
+      "section": [
+        "Tsai Chin",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "She was the first person with Chinese roots to study at the Royal Academy of Dramatic Art, London, in 1951 and later became an associate member."
     },
     {
       "body": "Chin played the part of Liat in the 1950s production of South Pacific in London's West End and moved onto what is probably her best known role:\u00a0Lin Tang, the daughter of Dr. Fu Manchu in the Fu Manchu movies starring Christopher Lee. She is also\u00a0noted for her role as Ling in the James Bond movie You Only Live Twice and in the role of Juicy Lucy in The Virgin Soldiers. She continues to appear in films, including The Joy Luck Club, Memoirs of a Geisha, and the James Bond film Casino Royale. She also has a recurring role in Grey's Anatomy as Helen Rubenstein, the mother of Cristina Yang.",
       "links": [],
+      "section": [
+        "Tsai Chin",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Chin played the part of Liat in the 1950s production of South Pacific in London's West End and moved onto what is probably her best known role:\u00a0Lin Tang, the daughter of Dr. Fu Manchu in the Fu Manchu movies starring Christopher Lee. She is also\u00a0noted for her role as Ling in the James Bond movie You Only Live Twice and in the role of Juicy Lucy in The Virgin Soldiers. She continues to appear in films, including The Joy Luck Club, Memoirs of a Geisha, and the James Bond film Casino Royale. She also has a recurring role in Grey's Anatomy as Helen Rubenstein, the mother of Cristina Yang."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Serious Business (1999)",
+          "body": "${link_0} (1999)",
           "extra": "(1999)",
           "extra_text": "(1999)",
-          "links": [],
+          "links": [
+            {
+              "body": "Serious Business",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0807765",
+                "page": "http://www.imdb.com/find?q=tt0807765"
+              }
+            }
+          ],
           "text": "Serious Business (1999)",
-          "value": "Serious Business",
+          "value": "${link_0}",
           "value_text": "Serious Business"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0237222",
+                "page": "http://www.imdb.com/find?q=nm0237222"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Rachel_Dratch",
+                "page": "http://en.wikipedia.org/wiki/Rachel_Dratch"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Rachel-Dratch/212633540540",
+                "page": "https://www.facebook.com/pages/Rachel-Dratch/212633540540"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.racheldratch.com/home",
+                "page": "http://www.racheldratch.com/home"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/TheRealDratch",
+                "page": "https://twitter.com/TheRealDratch"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,23 +181,403 @@
   ],
   "paragraphs": [
     {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Avatar: The Last Airbender credits",
+        "Actress Aang"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "318. \"${link_0}\"\u00a0(uncredited)",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 1: The Phoenix King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_1__The_Phoenix_King",
+            "page": "Sozin%27s_Comet%2c_Part_1__The_Phoenix_King"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Avatar: The Last Airbender credits",
+        "Actress Aang"
+      ],
+      "text": "318. \"Sozin's Comet, Part 1: The Phoenix King\"\u00a0(uncredited)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "30 Rock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0496424",
+            "page": "http://www.imdb.com/find?q=tt0496424"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "30 Rock"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Assy McGee",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0795065",
+            "page": "http://www.imdb.com/find?q=tt0795065"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Assy McGee"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Broad City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2578560",
+            "page": "http://www.imdb.com/find?q=tt2578560"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Broad City"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Delocated",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1299729",
+            "page": "http://www.imdb.com/find?q=tt1299729"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Delocated"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Fish Hooks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1725902",
+            "page": "http://www.imdb.com/find?q=tt1725902"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fish Hooks"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Saturday Night Live",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0072562",
+            "page": "http://www.imdb.com/find?q=tt0072562"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Saturday Night Live"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Suburgatory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1741256",
+            "page": "http://www.imdb.com/find?q=tt1741256"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Suburgatory"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The King of Queens",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0165581",
+            "page": "http://www.imdb.com/find?q=tt0165581"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The King of Queens"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wizards of Waverly Place",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0799922",
+            "page": "http://www.imdb.com/find?q=tt0799922"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wizards of Waverly Place"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Just Go with It",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1564367",
+            "page": "http://www.imdb.com/find?q=tt1564367"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Just Go with It (2011)"
+    },
+    {
+      "body": "${link_0} (2010; video short)",
+      "links": [
+        {
+          "body": "Size Zero",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1745819",
+            "page": "http://www.imdb.com/find?q=tt1745819"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Size Zero (2010; video short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Love N' Dancing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1028581",
+            "page": "http://www.imdb.com/find?q=tt1028581"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Love N' Dancing (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Driving Aphrodite",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0865559",
+            "page": "http://www.imdb.com/find?q=tt0865559"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Driving Aphrodite (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Harold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1041753",
+            "page": "http://www.imdb.com/find?q=tt1041753"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Harold (2008)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Bill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1205904",
+            "page": "http://www.imdb.com/find?q=tt1205904"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bill (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "I Now Pronounce You Chuck & Larry",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0762107",
+            "page": "http://www.imdb.com/find?q=tt0762107"
+          }
+        }
+      ],
+      "section": [
+        "Rachel Dratch",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I Now Pronounce You Chuck & Larry (2007)"
+    },
+    {
       "body": "Dratch was born in Lexington, Massachusetts, the daughter of Elaine, a transportation director, and Paul Dratch, a radiologist. Her younger brother, Daniel, is a television producer and writer who has worked most recently on Monk. Dratch grew up the \"class clown type\", attending William Diamond Middle School and Lexington High School in Massachusetts.",
       "links": [],
+      "section": [
+        "Rachel Dratch",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Dratch was born in Lexington, Massachusetts, the daughter of Elaine, a transportation director, and Paul Dratch, a radiologist. Her younger brother, Daniel, is a television producer and writer who has worked most recently on Monk. Dratch grew up the \"class clown type\", attending William Diamond Middle School and Lexington High School in Massachusetts."
     },
     {
       "body": "Dratch attended the National Theater Institute in the fall of 1986 and graduated from Dartmouth College in 1988, where she majored in drama and psychology and was a member of the improvisational comedy group Said and Done.",
       "links": [],
+      "section": [
+        "Rachel Dratch",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Dratch attended the National Theater Institute in the fall of 1986 and graduated from Dartmouth College in 1988, where she majored in drama and psychology and was a member of the improvisational comedy group Said and Done."
     },
     {
       "body": "Dratch was a member of the mainstage cast of the Second City comedy troupe for four years. She received the Joseph Jefferson award for Best Actress in a Revue for the latter two revues in which she performed, Paradigm Lost and Promisekeepers, Losers Weepers. At Second City, she performed alongside future Saturday Night Live head writers Adam McKay and Tina Fey, as well as future 30 Rock performer Scott Adsit. The first incarnation of her Saturday Night Live \"Wicked\" sketch was performed in Second City's Paradigm Lost. In addition to acting, Dratch also played the cello on stage.",
       "links": [],
+      "section": [
+        "Rachel Dratch",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Dratch was a member of the mainstage cast of the Second City comedy troupe for four years. She received the Joseph Jefferson award for Best Actress in a Revue for the latter two revues in which she performed, Paradigm Lost and Promisekeepers, Losers Weepers. At Second City, she performed alongside future Saturday Night Live head writers Adam McKay and Tina Fey, as well as future 30 Rock performer Scott Adsit. The first incarnation of her Saturday Night Live \"Wicked\" sketch was performed in Second City's Paradigm Lost. In addition to acting, Dratch also played the cello on stage."
     },
     {
       "body": "Her tenure with Saturday Night Live spanned 1999 to 2006. Dratch's recurring characters included Boston teens Sully and Denise; Sheldon, the junior-high-school boy from \"Wake up, Wakefield\"; the Lovers (with Will Ferrell, as two pretentious professors); Abe Scheinwald, a Hollywood producer; and Debbie Downer, a depressed woman who creeped others out with disturbing non sequiturs.",
       "links": [],
+      "section": [
+        "Rachel Dratch",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Her tenure with Saturday Night Live spanned 1999 to 2006. Dratch's recurring characters included Boston teens Sully and Denise; Sheldon, the junior-high-school boy from \"Wake up, Wakefield\"; the Lovers (with Will Ferrell, as two pretentious professors); Abe Scheinwald, a Hollywood producer; and Debbie Downer, a depressed woman who creeped others out with disturbing non sequiturs."
     }
   ],

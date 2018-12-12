@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Weddings and Babies (1958)",
+          "body": "${link_0} (1958)",
           "extra": "(1958)",
           "extra_text": "(1958)",
-          "links": [],
+          "links": [
+            {
+              "body": "Weddings and Babies",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0052382",
+                "page": "http://www.imdb.com/find?q=tt0052382"
+              }
+            }
+          ],
           "text": "Weddings and Babies (1958)",
-          "value": "Weddings and Babies",
+          "value": "${link_0}",
           "value_text": "Weddings and Babies"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0846070",
+                "page": "http://www.imdb.com/find?q=nm0846070"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Kristoffer_Tabori",
+                "page": "http://en.wikipedia.org/wiki/Kristoffer_Tabori"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/kristoffer.tabori",
+                "page": "https://www.facebook.com/kristoffer.tabori"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.ktabori.com/",
+                "page": "http://www.ktabori.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -109,19 +162,513 @@
   ],
   "paragraphs": [
     {
-      "body": "Tabori is the son of director Don Siegal and Swedish-American actress Viveca Lindfors. He appeared in one of his mother's films, Weddings and Babies, as a young boy. His parents divorced in 1953 and Lindfors married Hungarian writer and director George Tabori. He adopted his stepfather's surname and changed the English spelling of his forename.",
-      "links": [],
+      "body": "117. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Northern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Northern_Air_Temple",
+            "page": "The_Northern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Avatar: The Last Airbender credits",
+        "Qin"
+      ],
+      "text": "117. \"The Northern Air Temple\""
+    },
+    {
+      "body": "213. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Drill",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Drill",
+            "page": "The_Drill"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Avatar: The Last Airbender credits",
+        "Qin"
+      ],
+      "text": "213. \"The Drill\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Avatar: The Last Airbender credits",
+        "Qin"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "213. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Drill",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Drill",
+            "page": "The_Drill"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "213. \"The Drill\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Chicago Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0083400",
+            "page": "http://www.imdb.com/find?q=tt0083400"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Chicago Story"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cluedo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101068",
+            "page": "http://www.imdb.com/find?q=tt0101068"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Cluedo"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "London Embassy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092395",
+            "page": "http://www.imdb.com/find?q=tt0092395"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "London Embassy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Matlock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090481",
+            "page": "http://www.imdb.com/find?q=tt0090481"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Matlock"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Murder, She Wrote",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086765",
+            "page": "http://www.imdb.com/find?q=tt0086765"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Murder, She Wrote"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "QB VII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0071039",
+            "page": "http://www.imdb.com/find?q=tt0071039"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "QB VII"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Last Summer in the Hamptons",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0113612",
+            "page": "http://www.imdb.com/find?q=tt0113612"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Last Summer in the Hamptons (1995)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Deep Down",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0109588",
+            "page": "http://www.imdb.com/find?q=tt0109588"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Deep Down (1995)"
+    },
+    {
+      "body": "${link_0} (1992)",
+      "links": [
+        {
+          "body": "Wildly Available",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118170",
+            "page": "http://www.imdb.com/find?q=tt0118170"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Wildly Available (1992)"
+    },
+    {
+      "body": "${link_0} (1978)",
+      "links": [
+        {
+          "body": "Girlfriends",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0077613",
+            "page": "http://www.imdb.com/find?q=tt0077613"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Girlfriends (1978)"
+    },
+    {
+      "body": "${link_0} (1972)",
+      "links": [
+        {
+          "body": "Journey Through Rosebud",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0068775",
+            "page": "http://www.imdb.com/find?q=tt0068775"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Journey Through Rosebud (1972)"
+    },
+    {
+      "body": "${link_0} (1971)",
+      "links": [
+        {
+          "body": "Dirty Harry",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0066999",
+            "page": "http://www.imdb.com/find?q=tt0066999"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dirty Harry (1971)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Alpha Protocol",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1249406",
+            "page": "http://www.imdb.com/find?q=tt1249406"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Alpha Protocol (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dishonored",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2322244",
+            "page": "http://www.imdb.com/find?q=tt2322244"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dishonored (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dungeons and Dragons: Dragonshard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0483217",
+            "page": "http://www.imdb.com/find?q=tt0483217"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dungeons and Dragons: Dragonshard (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Endwar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1389075",
+            "page": "http://www.imdb.com/find?q=tt1389075"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Endwar (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man: Web of Shadows",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1249419",
+            "page": "http://www.imdb.com/find?q=tt1249419"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man: Web of Shadows (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Knights of the Old Republic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356070",
+            "page": "http://www.imdb.com/find?q=tt0356070"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Knights of the Old Republic (video game)"
+    },
+    {
+      "body": "Tabori is the son of director ${link_0} and Swedish-American actress Viveca Lindfors. He appeared in one of his mother's films, Weddings and Babies, as a young boy. His parents divorced in 1953 and Lindfors married Hungarian writer and director George Tabori. He adopted his stepfather's surname and changed the English spelling of his forename.",
+      "links": [
+        {
+          "body": "Don Siegal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=nm0796923",
+            "page": "http://www.imdb.com/find?q=nm0796923"
+          }
+        }
+      ],
+      "section": [
+        "Kristoffer Tabori",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Tabori is the son of director Don Siegal and Swedish-American actress Viveca Lindfors. He appeared in one of his mother's films, Weddings and Babies, as a young boy. His parents divorced in 1953 and Lindfors married Hungarian writer and director George Tabori. He adopted his stepfather's surname and changed the English spelling of his forename."
     },
     {
       "body": "He started his career as a stage actor in his teens in the late 1960s. During the 1970s and 1980s, he appeared in many films, including Arthur Miller's A Memory of Two Mondays. In 1988, he played the part of Sir Henry Baskerville in The Hound of the Baskervilles next to Jeremy Brett as Sherlock Holmes and Edward Hardwicke as Dr. Watson. In 1989, he played Professor Peter Plum in the first television series of Cluedo, where he was known for his loud protestations of innocence during the studio-based portions of the program.",
       "links": [],
+      "section": [
+        "Kristoffer Tabori",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He started his career as a stage actor in his teens in the late 1960s. During the 1970s and 1980s, he appeared in many films, including Arthur Miller's A Memory of Two Mondays. In 1988, he played the part of Sir Henry Baskerville in The Hound of the Baskervilles next to Jeremy Brett as Sherlock Holmes and Edward Hardwicke as Dr. Watson. In 1989, he played Professor Peter Plum in the first television series of Cluedo, where he was known for his loud protestations of innocence during the studio-based portions of the program."
     },
     {
       "body": "During the 1990s, Tabori began directing in television. He also voiced HK-47, the assassin droid and comic relief character in the video games Star Wars: Knights of the Old Republic and Star Wars: Knights of the Old Republic II: The Sith Lords, as well as providing the voices for some characters in other Star Wars related products and in the Battlestar Galactica area. Tabori was also featured on the radio program CBS Radio Mystery Theater.",
       "links": [],
+      "section": [
+        "Kristoffer Tabori",
+        "Biographical information",
+        "Career"
+      ],
       "text": "During the 1990s, Tabori began directing in television. He also voiced HK-47, the assassin droid and comic relief character in the video games Star Wars: Knights of the Old Republic and Star Wars: Knights of the Old Republic II: The Sith Lords, as well as providing the voices for some characters in other Star Wars related products and in the Battlestar Galactica area. Tabori was also featured on the radio program CBS Radio Mystery Theater."
+    },
+    {
+      "body": "1991: Won a Daytime Emmy for ABC Afterschool Specials (Outstanding Achievement in Directing - Special Class)",
+      "links": [],
+      "section": [
+        "Kristoffer Tabori",
+        "Awards"
+      ],
+      "text": "1991: Won a Daytime Emmy for ABC Afterschool Specials (Outstanding Achievement in Directing - Special Class)"
     }
   ],
   "source": {

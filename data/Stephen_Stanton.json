@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Reel Horror (1985)",
+          "body": "${link_0} (1985)",
           "extra": "(1985)",
           "extra_text": "(1985)",
-          "links": [],
+          "links": [
+            {
+              "body": "Reel Horror",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0089894",
+                "page": "http://www.imdb.com/find?q=tt0089894"
+              }
+            }
+          ],
           "text": "Reel Horror (1985)",
-          "value": "Reel Horror",
+          "value": "${link_0}",
           "value_text": "Reel Horror"
         }
       ]
@@ -55,57 +68,117 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0822812",
+                "page": "http://www.imdb.com/find?q=nm0822812"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Stephen_Stanton",
+                "page": "http://en.wikipedia.org/wiki/Stephen_Stanton"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/103491317532031455629/posts",
+                "page": "https://plus.google.com/103491317532031455629/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Stephen-Stanton/142208022510169",
+                "page": "https://www.facebook.com/pages/Stephen-Stanton/142208022510169"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.stephenstanton.com/",
+                "page": "http://www.stephenstanton.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/StephenStanton",
+                "page": "http://www.youtube.com/user/StephenStanton"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
@@ -113,13 +186,303 @@
   ],
   "paragraphs": [
     {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "The Legend of Korra credits",
+        "Air lion turtle"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "The Legend of Korra credits",
+        "Old Wan"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Black Panther",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1441105",
+            "page": "http://www.imdb.com/find?q=tt1441105"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Black Panther"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hero Factory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1728863",
+            "page": "http://www.imdb.com/find?q=tt1728863"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hero Factory"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wolverine and the X-Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0772145",
+            "page": "http://www.imdb.com/find?q=tt0772145"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wolverine and the X-Men"
+    },
+    {
+      "body": "${link_0} (2014; video)",
+      "links": [
+        {
+          "body": "Achmed Saves America",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3557440",
+            "page": "http://www.imdb.com/find?q=tt3557440"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Achmed Saves America (2014; video)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Garfield's Pet Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1389762",
+            "page": "http://www.imdb.com/find?q=tt1389762"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Garfield's Pet Force (2009)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Return of the Pink Five",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0800178",
+            "page": "http://www.imdb.com/find?q=tt0800178"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Return of the Pink Five (2006)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Titan A. E.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120913",
+            "page": "http://www.imdb.com/find?q=tt0120913"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Titan A. E. (2000)"
+    },
+    {
+      "body": "${link_0} (digital camera operator)",
+      "links": [
+        {
+          "body": "Alien 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103644",
+            "page": "http://www.imdb.com/find?q=tt0103644"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Alien 3 (digital camera operator)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lord of the Rings: The Battle for Middle Earth II - Rise of the Witch King",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1058040",
+            "page": "http://www.imdb.com/find?q=tt1058040"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lord of the Rings: The Battle for Middle Earth II - Rise of the Witch King (video game)"
+    },
+    {
+      "body": "${link_0} (digital scanner operator)",
+      "links": [
+        {
+          "body": "Virus",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120458",
+            "page": "http://www.imdb.com/find?q=tt0120458"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Virus (digital scanner operator)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "X-Men: The Official Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0807737",
+            "page": "http://www.imdb.com/find?q=tt0807737"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Stanton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "X-Men: The Official Game (video game)"
+    },
+    {
       "body": "Stanton is well known as an \"audio double\" or \"voicematch\" for a number of actors, including Alec Guinness, John Cusack, Bruce Willis, Clive Owen, Nicolas Cage, Robert Downey Jr., Roger Ebert, Tim Allen, Peter Cushing, and Jeff Goldblum.",
       "links": [],
+      "section": [
+        "Stephen Stanton",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Stanton is well known as an \"audio double\" or \"voicematch\" for a number of actors, including Alec Guinness, John Cusack, Bruce Willis, Clive Owen, Nicolas Cage, Robert Downey Jr., Roger Ebert, Tim Allen, Peter Cushing, and Jeff Goldblum."
     },
     {
       "body": "He also provides voices for both Disney and Disneyland theme parks.",
       "links": [],
+      "section": [
+        "Stephen Stanton",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He also provides voices for both Disney and Disneyland theme parks."
     }
   ],

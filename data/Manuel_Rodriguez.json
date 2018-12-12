@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -41,12 +44,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://sifumanuel.tumblr.com/",
+                "page": "http://sifumanuel.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         }
       ]

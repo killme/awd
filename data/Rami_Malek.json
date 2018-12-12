@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Gilmore Girls (2004)",
+          "body": "${link_0} (2004)",
           "extra": "(2004)",
           "extra_text": "(2004)",
-          "links": [],
+          "links": [
+            {
+              "body": "Gilmore Girls",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0238784",
+                "page": "http://www.imdb.com/find?q=tt0238784"
+              }
+            }
+          ],
           "text": "Gilmore Girls (2004)",
-          "value": "Gilmore Girls",
+          "value": "${link_0}",
           "value_text": "Gilmore Girls"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1785339",
+                "page": "http://www.imdb.com/find?q=nm1785339"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Rami_Malek",
+                "page": "http://en.wikipedia.org/wiki/Rami_Malek"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/ItsRamiMalek",
+                "page": "https://twitter.com/ItsRamiMalek"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -100,29 +143,438 @@
   ],
   "paragraphs": [
     {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Spirit of Competition",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Spirit_of_Competition",
+            "page": "The_Spirit_of_Competition"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "The Legend of Korra credits",
+        "Tahno"
+      ],
+      "text": "105. \"The Spirit of Competition\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "And the Winner Is...",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/And_the_Winner_Is..",
+            "page": "And_the_Winner_Is.."
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "The Legend of Korra credits",
+        "Tahno"
+      ],
+      "text": "106. \"And the Winner Is...\""
+    },
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Aftermath",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Aftermath",
+            "page": "The_Aftermath"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "The Legend of Korra credits",
+        "Tahno"
+      ],
+      "text": "107. \"The Aftermath\""
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Legend of Korra",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra_(video_game)",
+            "page": "The_Legend_of_Korra_(video_game)"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "The Legend of Korra credits",
+        "Tahno"
+      ],
+      "text": "The Legend of Korra (video game)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Alcatraz",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1728102",
+            "page": "http://www.imdb.com/find?q=tt1728102"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "Alcatraz"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gilmore Girls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0238784",
+            "page": "http://www.imdb.com/find?q=tt0238784"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "Gilmore Girls"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Medium",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0412175",
+            "page": "http://www.imdb.com/find?q=tt0412175"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "Medium"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Over There",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0446241",
+            "page": "http://www.imdb.com/find?q=tt0446241"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "Over There"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Pacific",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0374463",
+            "page": "http://www.imdb.com/find?q=tt0374463"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "The Pacific"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The War at Home",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460692",
+            "page": "http://www.imdb.com/find?q=tt0460692"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "The War at Home"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Battleship",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1440129",
+            "page": "http://www.imdb.com/find?q=tt1440129"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "Battleship (2012)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "The Twilight Saga: Breaking Dawn Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1673434",
+            "page": "http://www.imdb.com/find?q=tt1673434"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "The Twilight Saga: Breaking Dawn Part 2 (2012)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "The Master",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1560747",
+            "page": "http://www.imdb.com/find?q=tt1560747"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "The Master (2012)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Larry Crowne",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1583420",
+            "page": "http://www.imdb.com/find?q=tt1583420"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "Larry Crowne (2011)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Night at the Museum: Battle of the Smithsonian",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1078912",
+            "page": "http://www.imdb.com/find?q=tt1078912"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "Night at the Museum: Battle of the Smithsonian (2009)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Night at the Museum",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0477347",
+            "page": "http://www.imdb.com/find?q=tt0477347"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "Night at the Museum (2006)"
+    },
+    {
       "body": "Malek was raised in a Coptic Orthodox family and attended Notre Dame High School in Sherman Oaks, California, and received his Bachelor of Fine Arts degree from the University of Evansville in Evansville, Indiana.",
       "links": [],
+      "section": [
+        "Rami Malek",
+        "Biographical information",
+        "Early life"
+      ],
       "text": "Malek was raised in a Coptic Orthodox family and attended Notre Dame High School in Sherman Oaks, California, and received his Bachelor of Fine Arts degree from the University of Evansville in Evansville, Indiana."
     },
     {
       "body": "In 2004, Malek began his acting career with guest-starring roles on several notable television series including Gilmore Girls, Over There, and Medium, as well as voicing additional characters for the video game Halo 2, though he was not credited for these roles. In 2005, he was cast as the prominent recurring role of \"Kenny\", the gay teenage next-door-neighbor on the Fox comedy series The War at Home.",
       "links": [],
+      "section": [
+        "Rami Malek",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 2004, Malek began his acting career with guest-starring roles on several notable television series including Gilmore Girls, Over There, and Medium, as well as voicing additional characters for the video game Halo 2, though he was not credited for these roles. In 2005, he was cast as the prominent recurring role of \"Kenny\", the gay teenage next-door-neighbor on the Fox comedy series The War at Home."
     },
     {
       "body": "In 2006, Malek made his feature film debut as Pharaoh Ahkmenrah in the comedy Night at the Museum and reprised his role in the 2009 sequel, Night at the Museum: Battle of the Smithsonian. In the spring of 2007 he appeared onstage as \"Jamie\" in the Vitality Productions theatrical presentation of Keith Bunin's The Credeaux Canvas at the Elephant Theatre in Los Angeles.",
       "links": [],
+      "section": [
+        "Rami Malek",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 2006, Malek made his feature film debut as Pharaoh Ahkmenrah in the comedy Night at the Museum and reprised his role in the 2009 sequel, Night at the Museum: Battle of the Smithsonian. In the spring of 2007 he appeared onstage as \"Jamie\" in the Vitality Productions theatrical presentation of Keith Bunin's The Credeaux Canvas at the Elephant Theatre in Los Angeles."
     },
     {
       "body": "In 2010, Malek returned to television in a recurring role as the Egyptian-American suicide bomber Marcos Al-Zacar on the eighth season of the Fox series, 24. Later that same year, he received critical acclaim for his portrayal of Corporal Merriell \"Snafu\" Shelton on the Emmy Award-winning HBO World War II mini-series, The Pacific.",
       "links": [],
+      "section": [
+        "Rami Malek",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 2010, Malek returned to television in a recurring role as the Egyptian-American suicide bomber Marcos Al-Zacar on the eighth season of the Fox series, 24. Later that same year, he received critical acclaim for his portrayal of Corporal Merriell \"Snafu\" Shelton on the Emmy Award-winning HBO World War II mini-series, The Pacific."
     },
     {
       "body": "During filming of The Pacific, Malek met executive producer Tom Hanks, who was impressed with his performance and would later cast him as college student Steve Dibiasi in the feature film Larry Crowne, released in July 2011.",
       "links": [],
+      "section": [
+        "Rami Malek",
+        "Biographical information",
+        "Career"
+      ],
       "text": "During filming of The Pacific, Malek met executive producer Tom Hanks, who was impressed with his performance and would later cast him as college student Steve Dibiasi in the feature film Larry Crowne, released in July 2011."
+    },
+    {
+      "body": "Malek has an identical twin brother named Sami, who was born four minutes after him.",
+      "links": [],
+      "section": [
+        "Rami Malek",
+        "Trivia"
+      ],
+      "text": "Malek has an identical twin brother named Sami, who was born four minutes after him."
+    },
+    {
+      "body": "${link_0}, Malek's character in part two of ${link_1}, is a vampire with the rare ability to physically manipulate the four elements (earth, wind, water, and fire), similar to the ${link_2}. In addition, Tahno was turned into a nonbender by ${link_3}, while Benjamin was turned into a vampire by ${link_4}.",
+      "links": [
+        {
+          "body": "Benjamin",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://twilightsaga.wikia.com/wiki/Benjamin",
+            "page": "http://twilightsaga.wikia.com/wiki/Benjamin"
+          }
+        },
+        {
+          "body": "The Twilight Saga: Breaking Dawn",
+          "key": "${link_1}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn",
+            "page": "http://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn"
+          }
+        },
+        {
+          "body": "Avatar",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar",
+            "page": "Avatar"
+          }
+        },
+        {
+          "body": "Amon",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Amon",
+            "page": "Amon"
+          }
+        },
+        {
+          "body": "Amun",
+          "key": "${link_4}",
+          "target": {
+            "external": true,
+            "href": "http://twilightsaga.wikia.com/wiki/Amun",
+            "page": "http://twilightsaga.wikia.com/wiki/Amun"
+          }
+        }
+      ],
+      "section": [
+        "Rami Malek",
+        "Trivia"
+      ],
+      "text": "Benjamin, Malek's character in part two of The Twilight Saga: Breaking Dawn, is a vampire with the rare ability to physically manipulate the four elements (earth, wind, water, and fire), similar to the Avatar. In addition, Tahno was turned into a nonbender by Amon, while Benjamin was turned into a vampire by Amun."
     }
   ],
   "source": {

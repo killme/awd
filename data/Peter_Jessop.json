@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "MechWarrior 2 Expansion Pack: Ghost Bear's Legacy (1995; video game)",
+          "body": "${link_0} (1995; video game)",
           "extra": "(1995; video game)",
           "extra_text": "(1995; video game)",
-          "links": [],
+          "links": [
+            {
+              "body": "MechWarrior 2 Expansion Pack: Ghost Bear's Legacy",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0361894",
+                "page": "http://www.imdb.com/find?q=tt0361894"
+              }
+            }
+          ],
           "text": "MechWarrior 2 Expansion Pack: Ghost Bear's Legacy (1995; video game)",
-          "value": "MechWarrior 2 Expansion Pack: Ghost Bear's Legacy",
+          "value": "${link_0}",
           "value_text": "MechWarrior 2 Expansion Pack: Ghost Bear's Legacy"
         }
       ]
@@ -55,27 +68,337 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0422247",
+                "page": "http://www.imdb.com/find?q=nm0422247"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Peter_Jessop",
+                "page": "http://en.wikipedia.org/wiki/Peter_Jessop"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Avatar: The Last Airbender credits",
+        "Fung"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Puppetmaster",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Puppetmaster",
+            "page": "The_Puppetmaster"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "308. \"The Puppetmaster\""
+    },
+    {
+      "body": "${link_0} (TV documentary)",
+      "links": [
+        {
+          "body": "Bear Attack!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1476969",
+            "page": "http://www.imdb.com/find?q=tt1476969"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bear Attack! (TV documentary)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Pig Bomb",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1684923",
+            "page": "http://www.imdb.com/find?q=tt1684923"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Pig Bomb (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Ratzilla",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1446703",
+            "page": "http://www.imdb.com/find?q=tt1446703"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ratzilla (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Slacker Cats",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1056456",
+            "page": "http://www.imdb.com/find?q=tt1056456"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Slacker Cats"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Batman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398417",
+            "page": "http://www.imdb.com/find?q=tt0398417"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Batman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Great War and the Shaping of the 20th Century",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115193",
+            "page": "http://www.imdb.com/find?q=tt0115193"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Great War and the Shaping of the 20th Century"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The King of Queens",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0165581",
+            "page": "http://www.imdb.com/find?q=tt0165581"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The King of Queens"
+    },
+    {
+      "body": "${link_0} (2011; video)",
+      "links": [
+        {
+          "body": "Green Lantern: Emerald Knights",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1683043",
+            "page": "http://www.imdb.com/find?q=tt1683043"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Green Lantern: Emerald Knights (2011; video)"
+    },
+    {
+      "body": "${link_0} (2010; video)",
+      "links": [
+        {
+          "body": "Dante's Inferno: An Animated Epic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1401113",
+            "page": "http://www.imdb.com/find?q=tt1401113"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dante's Inferno: An Animated Epic (2010; video)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "D-Tox",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0160184",
+            "page": "http://www.imdb.com/find?q=tt0160184"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "D-Tox (2002)"
+    },
+    {
+      "body": "${link_0} (1995; video documentary)",
+      "links": [
+        {
+          "body": "The Freemasons",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0489480",
+            "page": "http://www.imdb.com/find?q=tt0489480"
+          }
+        }
+      ],
+      "section": [
+        "Peter Jessop",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Freemasons (1995; video documentary)"
+    },
+    {
+      "body": "1979: Won a Medalla Sitges en Plata de Ley for The Comeback (Best Cinematography)",
+      "links": [],
+      "section": [
+        "Peter Jessop",
+        "Awards"
+      ],
+      "text": "1979: Won a Medalla Sitges en Plata de Ley for The Comeback (Best Cinematography)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Peter_Jessop",
     "file": "avatar.wikia.com/wiki/Peter_Jessop.html",

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Lord of the Rings (1990; video game)",
+          "body": "${link_0} (1990; video game)",
           "extra": "(1990; video game)",
           "extra_text": "(1990; video game)",
-          "links": [],
+          "links": [
+            {
+              "body": "Lord of the Rings",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0154789",
+                "page": "http://www.imdb.com/find?q=tt0154789"
+              }
+            }
+          ],
           "text": "Lord of the Rings (1990; video game)",
-          "value": "Lord of the Rings",
+          "value": "${link_0}",
           "value_text": "Lord of the Rings"
         }
       ]
@@ -55,66 +68,136 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0235960",
+                "page": "http://www.imdb.com/find?q=nm0235960"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Robin_Atkin_Downes",
+                "page": "http://en.wikipedia.org/wiki/Robin_Atkin_Downes"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/RobinAtkinDownesOfficial",
+                "page": "https://www.facebook.com/RobinAtkinDownesOfficial"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/116503879153079927797/posts",
+                "page": "https://plus.google.com/116503879153079927797/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.robinatkindownes.com/",
+                "page": "http://www.robinatkindownes.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.twitter.com/Robin_A_Downes",
+                "page": "https://www.twitter.com/Robin_A_Downes"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/RobinAtkinDownes",
+                "page": "http://www.youtube.com/user/RobinAtkinDownes"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
@@ -122,14 +205,591 @@
   ],
   "paragraphs": [
     {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Avatar: The Last Airbender credits",
+        "Azula's ship captain"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Avatar: The Last Airbender credits",
+        "Circus master"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "216. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Avatar: The Last Airbender credits",
+        "Circus master"
+      ],
+      "text": "216. \"Appa's Lost Days\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Babylon 5",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105946",
+            "page": "http://www.imdb.com/find?q=tt0105946"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Babylon 5"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Brave and the Bold"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Justice League",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275137",
+            "page": "http://www.imdb.com/find?q=tt0275137"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Justice League"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Stroker and Hoop",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0420939",
+            "page": "http://www.imdb.com/find?q=tt0420939"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Stroker and Hoop"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Avengers: Earth's Mightiest Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1626038",
+            "page": "http://www.imdb.com/find?q=tt1626038"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Avengers: Earth's Mightiest Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Starter Wife",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1127107",
+            "page": "http://www.imdb.com/find?q=tt1127107"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Starter Wife"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Postman Pat: The Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2062622",
+            "page": "http://www.imdb.com/find?q=tt2062622"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Postman Pat: The Movie (2014)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "How to Train Your Dragon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0892769",
+            "page": "http://www.imdb.com/find?q=tt0892769"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "How to Train Your Dragon (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Transformers: Revenge of the Fallen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1055369",
+            "page": "http://www.imdb.com/find?q=tt1055369"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Transformers: Revenge of the Fallen (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "The Tale of Despereaux",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0420238",
+            "page": "http://www.imdb.com/find?q=tt0420238"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Tale of Despereaux (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "For Pete's Wake!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0382036",
+            "page": "http://www.imdb.com/find?q=tt0382036"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "For Pete's Wake! (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Garfield: A Tail of Two Kitties",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0455499",
+            "page": "http://www.imdb.com/find?q=tt0455499"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Garfield: A Tail of Two Kitties (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Geppetto's Secret",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0399085",
+            "page": "http://www.imdb.com/find?q=tt0399085"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Geppetto's Secret (2005)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Br\u00fctal Legend",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1171225",
+            "page": "http://www.imdb.com/find?q=tt1171225"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Br\u00fctal Legend (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dirge of Cerberus: Final Fantasy VII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0481507",
+            "page": "http://www.imdb.com/find?q=tt0481507"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dirge of Cerberus: Final Fantasy VII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dragon Age: Origins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1541718",
+            "page": "http://www.imdb.com/find?q=tt1541718"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dragon Age: Origins (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIV",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1737166",
+            "page": "http://www.imdb.com/find?q=tt1737166"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIV (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts 358/2 Days",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1302571",
+            "page": "http://www.imdb.com/find?q=tt1302571"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts 358/2 Days (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0390163",
+            "page": "http://www.imdb.com/find?q=tt0390163"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lost Planet\u00b2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1535602",
+            "page": "http://www.imdb.com/find?q=tt1535602"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lost Planet\u00b2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "StarCraft II: Wings of Liberty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1037854",
+            "page": "http://www.imdb.com/find?q=tt1037854"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "StarCraft II: Wings of Liberty (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Team Fortress 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1210335",
+            "page": "http://www.imdb.com/find?q=tt1210335"
+          }
+        }
+      ],
+      "section": [
+        "Robin Atkin Downes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Team Fortress 2 (video game)"
+    },
+    {
       "body": "Although he was born and raised in the U.K., Downes was trained in the United States, earning a Masters of Fine Arts degree from Temple University in Philadelphia. He taught advanced acting and directing at Freedom Theater, Pennsylvania's oldest nationally recognized African-American Theater, and has taught workshops in acting throughout the U.S. and Europe.",
       "links": [],
+      "section": [
+        "Robin Atkin Downes",
+        "Biographical information"
+      ],
       "text": "Although he was born and raised in the U.K., Downes was trained in the United States, earning a Masters of Fine Arts degree from Temple University in Philadelphia. He taught advanced acting and directing at Freedom Theater, Pennsylvania's oldest nationally recognized African-American Theater, and has taught workshops in acting throughout the U.S. and Europe."
     },
     {
       "body": "He married Michael Ann Young in 2004 and they reside in Los Angeles, California.",
       "links": [],
+      "section": [
+        "Robin Atkin Downes",
+        "Biographical information"
+      ],
       "text": "He married Michael Ann Young in 2004 and they reside in Los Angeles, California."
+    },
+    {
+      "body": "For Pete's Wake! was co-directed by Downes and James Alario.",
+      "links": [],
+      "section": [
+        "Robin Atkin Downes",
+        "Trivia"
+      ],
+      "text": "For Pete's Wake! was co-directed by Downes and James Alario."
     }
   ],
   "source": {

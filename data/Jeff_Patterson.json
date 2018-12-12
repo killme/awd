@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Star Wars: X-Wing Alliance (1999; video game)",
+          "body": "${link_0} (1999; video game)",
           "extra": "(1999; video game)",
           "extra_text": "(1999; video game)",
-          "links": [],
+          "links": [
+            {
+              "body": "Star Wars: X-Wing Alliance",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0246253",
+                "page": "http://www.imdb.com/find?q=tt0246253"
+              }
+            }
+          ],
           "text": "Star Wars: X-Wing Alliance (1999; video game)",
-          "value": "Star Wars: X-Wing Alliance",
+          "value": "${link_0}",
           "value_text": "Star Wars: X-Wing Alliance"
         }
       ]
@@ -41,12 +54,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0666261",
+                "page": "http://www.imdb.com/find?q=nm0666261"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -54,9 +77,44 @@
   ],
   "paragraphs": [
     {
-      "body": "This page lacks visual representations and needs one or more relevant images.",
-      "links": [],
-      "text": "This page lacks visual representations and needs one or more relevant images."
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar and the Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_and_the_Fire_Lord",
+            "page": "The_Avatar_and_the_Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "Jeff Patterson",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "306. \"The Avatar and the Fire Lord\""
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: X-Wing Alliance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0246253",
+            "page": "http://www.imdb.com/find?q=tt0246253"
+          }
+        }
+      ],
+      "section": [
+        "Jeff Patterson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: X-Wing Alliance (video game)"
     }
   ],
   "source": {

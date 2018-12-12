@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "UFC 83: Serra vs. St. Pierre 2 (2008; TV movie)",
+          "body": "${link_0} (2008; TV movie)",
           "extra": "(2008; TV movie)",
           "extra_text": "(2008; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "UFC 83: Serra vs. St. Pierre 2",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1224377",
+                "page": "http://www.imdb.com/find?q=tt1224377"
+              }
+            }
+          ],
           "text": "UFC 83: Serra vs. St. Pierre 2 (2008; TV movie)",
-          "value": "UFC 83: Serra vs. St. Pierre 2",
+          "value": "${link_0}",
           "value_text": "UFC 83: Serra vs. St. Pierre 2"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2992630",
+                "page": "http://www.imdb.com/find?q=nm2992630"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Mac_Danzig",
+                "page": "http://en.wikipedia.org/wiki/Mac_Danzig"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/macdanzigmma",
+                "page": "https://twitter.com/macdanzigmma"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -86,38 +129,133 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "UFC 83: Serra vs. St. Pierre 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1224377",
+            "page": "http://www.imdb.com/find?q=tt1224377"
+          }
+        }
+      ],
+      "section": [
+        "Mac Danzig",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "UFC 83: Serra vs. St. Pierre 2 (TV movie)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Forks Over Knives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1567233",
+            "page": "http://www.imdb.com/find?q=tt1567233"
+          }
+        }
+      ],
+      "section": [
+        "Mac Danzig",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Forks Over Knives (2011)"
+    },
+    {
+      "body": "${link_0} (2009 - scenes deleted)",
+      "links": [
+        {
+          "body": "I Hope They Serve Beer in Hell",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1220628",
+            "page": "http://www.imdb.com/find?q=tt1220628"
+          }
+        }
+      ],
+      "section": [
+        "Mac Danzig",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I Hope They Serve Beer in Hell (2009 - scenes deleted)"
+    },
+    {
       "body": "Danzig, of German and Scots-Irish descent, grew up in the greater Pittsburgh area before moving to Los Angeles to pursue his career.",
       "links": [],
+      "section": [
+        "Mac Danzig",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Danzig, of German and Scots-Irish descent, grew up in the greater Pittsburgh area before moving to Los Angeles to pursue his career."
     },
     {
       "body": "In the past, Danzig was known for his association with R1 fight team (formerly RAW) and had been a student of Iowa wrestling standout Rico Chiapparelli and MMA fighter Frank Trigg. He has since trained boxing extensively under Justin Fortune of the Wild Card Gym in Hollywood, California, and more recently under Gil Martinez in Las Vegas, Nevada. Danzig credits Martinez as his only current boxing coach.",
       "links": [],
+      "section": [
+        "Mac Danzig",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In the past, Danzig was known for his association with R1 fight team (formerly RAW) and had been a student of Iowa wrestling standout Rico Chiapparelli and MMA fighter Frank Trigg. He has since trained boxing extensively under Justin Fortune of the Wild Card Gym in Hollywood, California, and more recently under Gil Martinez in Las Vegas, Nevada. Danzig credits Martinez as his only current boxing coach."
     },
     {
       "body": "While Danzig is known as an impressive grappler, having scored 12 of his victories by submission, he has proven himself to be an adept striker, most notably with his KO victory over Joe Stevenson and his TKO victory over former lightweight champion Takumi Nakayama.",
       "links": [],
+      "section": [
+        "Mac Danzig",
+        "Biographical information",
+        "Career"
+      ],
       "text": "While Danzig is known as an impressive grappler, having scored 12 of his victories by submission, he has proven himself to be an adept striker, most notably with his KO victory over Joe Stevenson and his TKO victory over former lightweight champion Takumi Nakayama."
     },
     {
       "body": "In his first major fight, facing Hayato Sakurai at PRIDE 33 on February 24, Danzig lost the fight by KO (punch) at the 4:01 mark of round two.",
       "links": [],
+      "section": [
+        "Mac Danzig",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In his first major fight, facing Hayato Sakurai at PRIDE 33 on February 24, Danzig lost the fight by KO (punch) at the 4:01 mark of round two."
     },
     {
       "body": "Danzig was a contestant on The Ultimate Fighter 6, defeating Joe Scarola in a preliminary fight and later defeated John Kolosci to make it to the semifinals. He subsequently defeated Kolosci, who had replaced an injured Matt Arroyo, again and moved on to the finals where he submitted Tom Speer in the 1st round to become TUF Season 6 winner. Before the fight, Danzig stated his intention to drop down in weight class to lightweight whether he won or lost, citing the size difference between himself and most of the other UFC welterweights.",
       "links": [],
+      "section": [
+        "Mac Danzig",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Danzig was a contestant on The Ultimate Fighter 6, defeating Joe Scarola in a preliminary fight and later defeated John Kolosci to make it to the semifinals. He subsequently defeated Kolosci, who had replaced an injured Matt Arroyo, again and moved on to the finals where he submitted Tom Speer in the 1st round to become TUF Season 6 winner. Before the fight, Danzig stated his intention to drop down in weight class to lightweight whether he won or lost, citing the size difference between himself and most of the other UFC welterweights."
     },
     {
       "body": "Danzig made his return to lightweight by defeating Canadian Mark Bocek via third round submission at UFC 83 on April 19, 2008.",
       "links": [],
+      "section": [
+        "Mac Danzig",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Danzig made his return to lightweight by defeating Canadian Mark Bocek via third round submission at UFC 83 on April 19, 2008."
     },
     {
       "body": "At UFC Fight Night 17 he lost via triangle choke to Josh Neer. Both Danzig and Neer received Fight of the Night honors. The loss dropped Danzig to 1\u20132 in his post-TUF career.",
       "links": [],
+      "section": [
+        "Mac Danzig",
+        "Biographical information",
+        "Career"
+      ],
       "text": "At UFC Fight Night 17 he lost via triangle choke to Josh Neer. Both Danzig and Neer received Fight of the Night honors. The loss dropped Danzig to 1\u20132 in his post-TUF career."
     }
   ],

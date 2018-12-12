@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "King of Kensington (1976)",
+          "body": "${link_0} (1976)",
           "extra": "(1976)",
           "extra_text": "(1976)",
-          "links": [],
+          "links": [
+            {
+              "body": "King of Kensington",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0072529",
+                "page": "http://www.imdb.com/find?q=tt0072529"
+              }
+            }
+          ],
           "text": "King of Kensington (1976)",
-          "value": "King of Kensington",
+          "value": "${link_0}",
           "value_text": "King of Kensington"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0313364",
+                "page": "http://www.imdb.com/find?q=nm0313364"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Brian_George",
+                "page": "http://en.wikipedia.org/wiki/Brian_George"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -77,43 +110,583 @@
   ],
   "paragraphs": [
     {
+      "body": "216. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Avatar: The Last Airbender credits",
+        "Pathik"
+      ],
+      "text": "216. \"Appa's Lost Days\""
+    },
+    {
+      "body": "219. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guru",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guru",
+            "page": "The_Guru"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Avatar: The Last Airbender credits",
+        "Pathik"
+      ],
+      "text": "219. \"The Guru\""
+    },
+    {
+      "body": "220. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Crossroads of Destiny",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Crossroads_of_Destiny",
+            "page": "The_Crossroads_of_Destiny"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Avatar: The Last Airbender credits",
+        "Pathik"
+      ],
+      "text": "220. \"The Crossroads of Destiny\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Nightmares and Daydreams",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Nightmares_and_Daydreams",
+            "page": "Nightmares_and_Daydreams"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Avatar: The Last Airbender credits",
+        "Pathik"
+      ],
+      "text": "309. \"Nightmares and Daydreams\""
+    },
+    {
+      "body": "220. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Crossroads of Destiny",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Crossroads_of_Destiny",
+            "page": "The_Crossroads_of_Destiny"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "220. \"The Crossroads of Destiny\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "American Dad!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397306",
+            "page": "http://www.imdb.com/find?q=tt0397306"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Dad!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kim Possible",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0278866",
+            "page": "http://www.imdb.com/find?q=tt0278866"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kim Possible"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Seinfeld",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098904",
+            "page": "http://www.imdb.com/find?q=tt0098904"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Seinfeld"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Big Bang Theory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0898266",
+            "page": "http://www.imdb.com/find?q=tt0898266"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Big Bang Theory"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Secret Life of the American Teenager",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1179817",
+            "page": "http://www.imdb.com/find?q=tt1179817"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Secret Life of the American Teenager"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Spectacular Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0976192",
+            "page": "http://www.imdb.com/find?q=tt0976192"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Spectacular Spider-Man"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Dependent's Day",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3511220",
+            "page": "http://www.imdb.com/find?q=tt3511220"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dependent's Day (2014)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Shades of Ray",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0886531",
+            "page": "http://www.imdb.com/find?q=tt0886531"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Shades of Ray (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Numb",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0795439",
+            "page": "http://www.imdb.com/find?q=tt0795439"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Numb (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Employee of the Month",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0424993",
+            "page": "http://www.imdb.com/find?q=tt0424993"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Employee of the Month (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Tales from Earthsea",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0495596",
+            "page": "http://www.imdb.com/find?q=tt0495596"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tales from Earthsea (2006)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Ghost World",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0162346",
+            "page": "http://www.imdb.com/find?q=tt0162346"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ghost World (2001)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Keeping the Faith",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0171433",
+            "page": "http://www.imdb.com/find?q=tt0171433"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Keeping the Faith (2000)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dragon Age: Origins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1541718",
+            "page": "http://www.imdb.com/find?q=tt1541718"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dragon Age: Origins (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIV",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1737166",
+            "page": "http://www.imdb.com/find?q=tt1737166"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIV (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Medal of Honor: Rising Sun",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0390249",
+            "page": "http://www.imdb.com/find?q=tt0390249"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Medal of Honor: Rising Sun (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Night at the Museum: Battle of the Smithsonian",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1425242",
+            "page": "http://www.imdb.com/find?q=tt1425242"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Night at the Museum: Battle of the Smithsonian (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Knights of the Old Republic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356070",
+            "page": "http://www.imdb.com/find?q=tt0356070"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Knights of the Old Republic (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Bard's Tale",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0411146",
+            "page": "http://www.imdb.com/find?q=tt0411146"
+          }
+        }
+      ],
+      "section": [
+        "Brian George",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Bard's Tale (video game)"
+    },
+    {
       "body": "George was born in Jerusalem, Israel, to Iraqi-Jewish parents who had immigrated to Israel from India. A year after his birth, the family moved from Israel to London and later to Toronto, Canada, in 1966. George is the youngest of four siblings.",
       "links": [],
+      "section": [
+        "Brian George",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "George was born in Jerusalem, Israel, to Iraqi-Jewish parents who had immigrated to Israel from India. A year after his birth, the family moved from Israel to London and later to Toronto, Canada, in 1966. George is the youngest of four siblings."
     },
     {
       "body": "He attended an all-boys school in London but made the switch to a public co-ed high school when the family moved to Toronto. He attended the University of Toronto, where he was active in the university's theater productions. George left before graduation and formed a theater group; unsuccessful, he moved on to join The Second City, where he trained with John Candy, among others.",
       "links": [],
+      "section": [
+        "Brian George",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "He attended an all-boys school in London but made the switch to a public co-ed high school when the family moved to Toronto. He attended the University of Toronto, where he was active in the university's theater productions. George left before graduation and formed a theater group; unsuccessful, he moved on to join The Second City, where he trained with John Candy, among others."
     },
     {
       "body": "As he ages, George is increasingly cast in one-time guest roles as the father of a principal character; for example, he played Julian Bashir's father in the Star Trek: Deep Space Nine episode \"Doctor Bashir, I Presume?\" and Raj's father in The Big Bang Theory. In 2006, he landed a recurring role as Sasan's father Omid on the VH1 sitcom So NoTORIous. He had a recurring role as newsman Hugh Persons on Doctor, Doctor during the series' second season and appeared as a United Nations secretary on Austin Powers: International Man of Mystery.",
       "links": [],
+      "section": [
+        "Brian George",
+        "Biographical information",
+        "Career"
+      ],
       "text": "As he ages, George is increasingly cast in one-time guest roles as the father of a principal character; for example, he played Julian Bashir's father in the Star Trek: Deep Space Nine episode \"Doctor Bashir, I Presume?\" and Raj's father in The Big Bang Theory. In 2006, he landed a recurring role as Sasan's father Omid on the VH1 sitcom So NoTORIous. He had a recurring role as newsman Hugh Persons on Doctor, Doctor during the series' second season and appeared as a United Nations secretary on Austin Powers: International Man of Mystery."
     },
     {
       "body": "He has also done voice-over work in animated shows such as Batman: The Animated Series, Kim Possible, Batman Beyond, and Justice League and has appeared in video games like Star Wars: Knights of the Old Republic, Baldur's Gate, Ultimate Spider-Man, Everquest II and Final Fantasy XIV. He took over the voice of Bob Fish in the British-Canadian animated comedy series Bob and Margaret and played The Inspector in the 1993 revival series of The Pink Panther.",
       "links": [],
+      "section": [
+        "Brian George",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He has also done voice-over work in animated shows such as Batman: The Animated Series, Kim Possible, Batman Beyond, and Justice League and has appeared in video games like Star Wars: Knights of the Old Republic, Baldur's Gate, Ultimate Spider-Man, Everquest II and Final Fantasy XIV. He took over the voice of Bob Fish in the British-Canadian animated comedy series Bob and Margaret and played The Inspector in the 1993 revival series of The Pink Panther."
     },
     {
       "body": "Some of George's other appearances include the role of Mr. Pashmutt on Desperate Housewives in the 2005 episode \"You Could Drive a Person Crazy\", Ali on American Dad! in the 2005 episode \"Stan of Arabia\", and Captain Barbossa in the video games Kingdom Hearts II and Pirates of the Caribbean: The Legend of Jack Sparrow.",
       "links": [],
+      "section": [
+        "Brian George",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Some of George's other appearances include the role of Mr. Pashmutt on Desperate Housewives in the 2005 episode \"You Could Drive a Person Crazy\", Ali on American Dad! in the 2005 episode \"Stan of Arabia\", and Captain Barbossa in the video games Kingdom Hearts II and Pirates of the Caribbean: The Legend of Jack Sparrow."
     },
     {
       "body": "He voiced Sahin the Falcon and Stuart Black in Age of Empires III and is the voice of Fareed \"Freddie\" Abdul Salaam, a taxi driver and informant, in the game True Crime: New York City. He plays a short tempered convenience store owner in the 2001 movie Ghost World and Iqbal in the 2006 movie Employee Of The Month.",
       "links": [],
+      "section": [
+        "Brian George",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He voiced Sahin the Falcon and Stuart Black in Age of Empires III and is the voice of Fareed \"Freddie\" Abdul Salaam, a taxi driver and informant, in the game True Crime: New York City. He plays a short tempered convenience store owner in the 2001 movie Ghost World and Iqbal in the 2006 movie Employee Of The Month."
     },
     {
       "body": "In The Penguins of Madagascar, George guest stars as the zoo doctor in \"Needle Point\", \"I Was a Penguin Zombie\", \"Operation: Cooties\" and \"Love Hurts\".",
       "links": [],
+      "section": [
+        "Brian George",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In The Penguins of Madagascar, George guest stars as the zoo doctor in \"Needle Point\", \"I Was a Penguin Zombie\", \"Operation: Cooties\" and \"Love Hurts\"."
     },
     {
       "body": "George appeared on That's so Raven as Dr. Sleevemore, a \"psychic doctor\" who treats Raven's vision-related problems, and Phineas and Ferb on the hour long special Summer Belongs To You as Uncle Sabu.",
       "links": [],
+      "section": [
+        "Brian George",
+        "Biographical information",
+        "Career"
+      ],
       "text": "George appeared on That's so Raven as Dr. Sleevemore, a \"psychic doctor\" who treats Raven's vision-related problems, and Phineas and Ferb on the hour long special Summer Belongs To You as Uncle Sabu."
     }
   ],

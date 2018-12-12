@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "American Shaolin (1991)",
+          "body": "${link_0} (1991)",
           "extra": "(1991)",
           "extra_text": "(1991)",
-          "links": [],
+          "links": [
+            {
+              "body": "American Shaolin",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0101327",
+                "page": "http://www.imdb.com/find?q=tt0101327"
+              }
+            }
+          ],
           "text": "American Shaolin (1991)",
-          "value": "American Shaolin",
+          "value": "${link_0}",
           "value_text": "American Shaolin"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0196654",
+                "page": "http://www.imdb.com/find?q=nm0196654"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Daniel_Dae_Kim",
+                "page": "http://en.wikipedia.org/wiki/Daniel_Dae_Kim"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Daniel-Dae-Kim/136577846385452",
+                "page": "https://www.facebook.com/pages/Daniel-Dae-Kim/136577846385452"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official wesbsite",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official wesbsite",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://danieldaekim.com/",
+                "page": "http://danieldaekim.com/"
+              }
+            }
+          ],
           "text": "Official wesbsite",
-          "value": "Official wesbsite",
+          "value": "${link_0}",
           "value_text": "Official wesbsite"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/danieldaekim",
+                "page": "https://twitter.com/danieldaekim"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,29 +181,668 @@
   ],
   "paragraphs": [
     {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Avatar: The Last Airbender credits",
+        "Fong"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Voice in the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Voice_in_the_Night",
+            "page": "The_Voice_in_the_Night"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "The Legend of Korra credits",
+        "Hiroshi Sato"
+      ],
+      "text": "104. \"The Voice in the Night\""
+    },
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Aftermath",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Aftermath",
+            "page": "The_Aftermath"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "The Legend of Korra credits",
+        "Hiroshi Sato"
+      ],
+      "text": "107. \"The Aftermath\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Turning the Tides",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "The Legend of Korra credits",
+        "Hiroshi Sato"
+      ],
+      "text": "110. \"Turning the Tides\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Skeletons in the Closet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
+            "page": "Skeletons_in_the_Closet"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "The Legend of Korra credits",
+        "Hiroshi Sato"
+      ],
+      "text": "111. \"Skeletons in the Closet\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Endgame",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Endgame",
+            "page": "Endgame"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "The Legend of Korra credits",
+        "Hiroshi Sato"
+      ],
+      "text": "112. \"Endgame\""
+    },
+    {
+      "body": "405. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enemy at the Gates",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enemy_at_the_Gates",
+            "page": "Enemy_at_the_Gates"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "The Legend of Korra credits",
+        "Hiroshi Sato"
+      ],
+      "text": "405. \"Enemy at the Gates\""
+    },
+    {
+      "body": "412. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Day of the Colossus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Day_of_the_Colossus",
+            "page": "Day_of_the_Colossus"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "The Legend of Korra credits",
+        "Hiroshi Sato"
+      ],
+      "text": "412. \"Day of the Colossus\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "24",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285331",
+            "page": "http://www.imdb.com/find?q=tt0285331"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "24"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Angel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0162065",
+            "page": "http://www.imdb.com/find?q=tt0162065"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Angel"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Crusade",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0149437",
+            "page": "http://www.imdb.com/find?q=tt0149437"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Crusade"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Beverly Hills, 90210",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098749",
+            "page": "http://www.imdb.com/find?q=tt0098749"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Beverly Hills, 90210"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hawaii Five-0",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1600194",
+            "page": "http://www.imdb.com/find?q=tt1600194"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hawaii Five-0"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lost",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0411008",
+            "page": "http://www.imdb.com/find?q=tt0411008"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lost"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Ktown Cowboys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3414960",
+            "page": "http://www.imdb.com/find?q=tt3414960"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ktown Cowboys (2014)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "The Onion Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0392878",
+            "page": "http://www.imdb.com/find?q=tt0392878"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Onion Movie (2008)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "The Cave",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0402901",
+            "page": "http://www.imdb.com/find?q=tt0402901"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Cave (2005)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Crash",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0375679",
+            "page": "http://www.imdb.com/find?q=tt0375679"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Crash (2004)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Spider-Man 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0316654",
+            "page": "http://www.imdb.com/find?q=tt0316654"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spider-Man 2 (2004)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Sin",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0307466",
+            "page": "http://www.imdb.com/find?q=tt0307466"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sin (2003)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Hulk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0286716",
+            "page": "http://www.imdb.com/find?q=tt0286716"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hulk (2003)"
+    },
+    {
+      "body": "${link_0} (2001; short)",
+      "links": [
+        {
+          "body": "Looking for Bobby D",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356833",
+            "page": "http://www.imdb.com/find?q=tt0356833"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Looking for Bobby D (2001; short)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ride or Die",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0313532",
+            "page": "http://www.imdb.com/find?q=tt0313532"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ride or Die (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Saints Row",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0477848",
+            "page": "http://www.imdb.com/find?q=tt0477848"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Saints Row (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Saints Row 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1024918",
+            "page": "http://www.imdb.com/find?q=tt1024918"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Saints Row 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Saints Row: The Third",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2124034",
+            "page": "http://www.imdb.com/find?q=tt2124034"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Saints Row: The Third (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Scarface: The World Is Yours",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0451192",
+            "page": "http://www.imdb.com/find?q=tt0451192"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Scarface: The World Is Yours (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tenchu: Wrath of Heaven",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0280142",
+            "page": "http://www.imdb.com/find?q=tt0280142"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Dae Kim",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tenchu: Wrath of Heaven (video game)"
+    },
+    {
       "body": "Kim was born in Busan, South Korea, and moved to the United States with his family when he was two, growing up in the city of Easton in Pennsylvania's Lehigh Valley. Kim is a graduate of Freedom High School in Bethlehem, Pennsylvania, and Haverford College in Haverford Township, Pennsylvania. His theater major was completed at the neighboring Bryn Mawr College in Bryn Mawr, Pennsylvania. He graduated from NYU's Graduate Acting Program in 1996.",
       "links": [],
+      "section": [
+        "Daniel Dae Kim",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Kim was born in Busan, South Korea, and moved to the United States with his family when he was two, growing up in the city of Easton in Pennsylvania's Lehigh Valley. Kim is a graduate of Freedom High School in Bethlehem, Pennsylvania, and Haverford College in Haverford Township, Pennsylvania. His theater major was completed at the neighboring Bryn Mawr College in Bryn Mawr, Pennsylvania. He graduated from NYU's Graduate Acting Program in 1996."
     },
     {
       "body": "Daniel Dae Kim's film career began with roles in The Jackal, For Love of the Game, The Hulk, Spider-Man 2, The Cave, and Crash, which won an Academy Award for Best Picture in 2005. Kim is best known to audiences for his portrayal of Jin on the critically-acclaimed television series Lost.",
       "links": [],
+      "section": [
+        "Daniel Dae Kim",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Daniel Dae Kim's film career began with roles in The Jackal, For Love of the Game, The Hulk, Spider-Man 2, The Cave, and Crash, which won an Academy Award for Best Picture in 2005. Kim is best known to audiences for his portrayal of Jin on the critically-acclaimed television series Lost."
     },
     {
       "body": "On television, Kim's credits include Hawaii Five-0, CSI, ER, 24, and the animated series Justice League Unlimited. In 2008, he starred in the Emmy Award-nominated miniseries The Andromeda Strain. Kim has also lent his voice talents to video games, including Saints Row, Saints Row 2, Scarface: The World Is Yours, Tenchu, and 24.",
       "links": [],
+      "section": [
+        "Daniel Dae Kim",
+        "Biographical information",
+        "Career"
+      ],
       "text": "On television, Kim's credits include Hawaii Five-0, CSI, ER, 24, and the animated series Justice League Unlimited. In 2008, he starred in the Emmy Award-nominated miniseries The Andromeda Strain. Kim has also lent his voice talents to video games, including Saints Row, Saints Row 2, Scarface: The World Is Yours, Tenchu, and 24."
     },
     {
       "body": "Kim played the King of Siam in Rodgers and Hammerstein's The King and I from June 12\u201328, 2009, at the Royal Albert Hall in London, England.",
       "links": [],
+      "section": [
+        "Daniel Dae Kim",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Kim played the King of Siam in Rodgers and Hammerstein's The King and I from June 12\u201328, 2009, at the Royal Albert Hall in London, England."
     },
     {
       "body": "In February 2010, it was announced that Kim was cast as Chin Ho Kelly in the CBS reboot of Hawaii Five-0, which premiered on September 20, 2010. He was the first actor cast for the series.",
       "links": [],
+      "section": [
+        "Daniel Dae Kim",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In February 2010, it was announced that Kim was cast as Chin Ho Kelly in the CBS reboot of Hawaii Five-0, which premiered on September 20, 2010. He was the first actor cast for the series."
+    },
+    {
+      "body": "2010: Won an Influential Asian American Artist Award",
+      "links": [],
+      "section": [
+        "Daniel Dae Kim",
+        "Awards"
+      ],
+      "text": "2010: Won an Influential Asian American Artist Award"
+    },
+    {
+      "body": "2009: KoreAm Journal Achievement Award (Arts and Entertainment)",
+      "links": [],
+      "section": [
+        "Daniel Dae Kim",
+        "Awards"
+      ],
+      "text": "2009: KoreAm Journal Achievement Award (Arts and Entertainment)"
+    },
+    {
+      "body": "2006: AZN Asian Excellence Award Lost (Outstanding Performance by an Actor)",
+      "links": [],
+      "section": [
+        "Daniel Dae Kim",
+        "Awards"
+      ],
+      "text": "2006: AZN Asian Excellence Award Lost (Outstanding Performance by an Actor)"
+    },
+    {
+      "body": "2006: Won a Screen Actors' Guild Award for Lost (Outstanding Performance by an Ensemble in a Drama Series)",
+      "links": [],
+      "section": [
+        "Daniel Dae Kim",
+        "Awards"
+      ],
+      "text": "2006: Won a Screen Actors' Guild Award for Lost (Outstanding Performance by an Ensemble in a Drama Series)"
+    },
+    {
+      "body": "2006: Won a Multicultural Prism Award for Lost (Outstanding Performance by an Actor)",
+      "links": [],
+      "section": [
+        "Daniel Dae Kim",
+        "Awards"
+      ],
+      "text": "2006: Won a Multicultural Prism Award for Lost (Outstanding Performance by an Actor)"
+    },
+    {
+      "body": "2006: Won a Vanguard Award for Lost (Outstanding Performance by an Actor)",
+      "links": [],
+      "section": [
+        "Daniel Dae Kim",
+        "Awards"
+      ],
+      "text": "2006: Won a Vanguard Award for Lost (Outstanding Performance by an Actor)"
     }
   ],
   "source": {

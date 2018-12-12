@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Slog Movie (1982; documentary)",
+          "body": "${link_0} (1982; documentary)",
           "extra": "(1982; documentary)",
           "extra_text": "(1982; documentary)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Slog Movie",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0405326",
+                "page": "http://www.imdb.com/find?q=tt0405326"
+              }
+            }
+          ],
           "text": "The Slog Movie (1982; documentary)",
-          "value": "The Slog Movie",
+          "value": "${link_0}",
           "value_text": "The Slog Movie"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0738433",
+                "page": "http://www.imdb.com/find?q=nm0738433"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Henry_Rollins",
+                "page": "http://en.wikipedia.org/wiki/Henry_Rollins"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/officialhenryrollins",
+                "page": "https://www.facebook.com/officialhenryrollins"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://henryrollins.com/",
+                "page": "http://henryrollins.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/henryrollins",
+                "page": "https://twitter.com/henryrollins"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,34 +181,743 @@
   ],
   "paragraphs": [
     {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Breath of Fresh Air",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Breath_of_Fresh_Air",
+            "page": "A_Breath_of_Fresh_Air"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "The Legend of Korra credits",
+        "Zaheer"
+      ],
+      "text": "301. \"A Breath of Fresh Air\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "The Legend of Korra credits",
+        "Zaheer"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "The Legend of Korra credits",
+        "Zaheer"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Metal Clan",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Metal_Clan",
+            "page": "The_Metal_Clan"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "The Legend of Korra credits",
+        "Zaheer"
+      ],
+      "text": "305. \"The Metal Clan\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "The Legend of Korra credits",
+        "Zaheer"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Terror Within",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Terror_Within",
+            "page": "The_Terror_Within"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "The Legend of Korra credits",
+        "Zaheer"
+      ],
+      "text": "308. \"The Terror Within\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "The Legend of Korra credits",
+        "Zaheer"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "The Legend of Korra credits",
+        "Zaheer"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ultimatum",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ultimatum",
+            "page": "The_Ultimatum"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "The Legend of Korra credits",
+        "Zaheer"
+      ],
+      "text": "311. \"The Ultimatum\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enter the Void",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enter_the_Void",
+            "page": "Enter_the_Void"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "The Legend of Korra credits",
+        "Zaheer"
+      ],
+      "text": "312. \"Enter the Void\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "The Legend of Korra credits",
+        "Zaheer"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "408. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Remembrances",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Remembrances",
+            "page": "Remembrances"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "The Legend of Korra credits",
+        "Zaheer"
+      ],
+      "text": "408. \"Remembrances\""
+    },
+    {
+      "body": "409. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beyond the Wilds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beyond_the_Wilds",
+            "page": "Beyond_the_Wilds"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "The Legend of Korra credits",
+        "Zaheer"
+      ],
+      "text": "409. \"Beyond the Wilds\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "10 Things You Don't Know About",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2271785",
+            "page": "http://www.imdb.com/find?q=tt2271785"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "10 Things You Don't Know About"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Adventure Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1305826",
+            "page": "http://www.imdb.com/find?q=tt1305826"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Adventure Time"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hawaii Five-0",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1600994",
+            "page": "http://www.imdb.com/find?q=tt1600994"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hawaii Five-0"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sons of Anarchy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1124373",
+            "page": "http://www.imdb.com/find?q=tt1124373"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sons of Anarchy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Henry Rollins Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0782110",
+            "page": "http://www.imdb.com/find?q=tt0782110"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Henry Rollins Show"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "In the House of Files",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2113685",
+            "page": "http://www.imdb.com/find?q=tt2113685"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "In the House of Files (2012)"
+    },
+    {
+      "body": "${link_0} (2009; video short)",
+      "links": [
+        {
+          "body": "The Ballad of G.I. Joe",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1535550",
+            "page": "http://www.imdb.com/find?q=tt1535550"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Ballad of G.I. Joe (2009; video short)"
+    },
+    {
+      "body": "${link_0} (2007; video)",
+      "links": [
+        {
+          "body": "Wrong Turn 2: Dead End",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0804555",
+            "page": "http://www.imdb.com/find?q=tt0804555"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Wrong Turn 2: Dead End (2007; video)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Feast",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0426459",
+            "page": "http://www.imdb.com/find?q=tt0426459"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Feast (2005)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "The New Guy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0241760",
+            "page": "http://www.imdb.com/find?q=tt0241760"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The New Guy (2002)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Scenes of the Crime",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0265709",
+            "page": "http://www.imdb.com/find?q=tt0265709"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Scenes of the Crime (2001)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Jack Frost",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0141109",
+            "page": "http://www.imdb.com/find?q=tt0141109"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Jack Frost (1998)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Heat",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0113277",
+            "page": "http://www.imdb.com/find?q=tt0113277"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Heat (1995)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Kiss Napoleon Goodbye",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1368863",
+            "page": "http://www.imdb.com/find?q=tt1368863"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kiss Napoleon Goodbye (1990)"
+    },
+    {
+      "body": "${link_0} (producer)",
+      "links": [
+        {
+          "body": "10 Things You Didn't Know About",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2271785",
+            "page": "http://www.imdb.com/find?q=tt2271785"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "10 Things You Didn't Know About (producer)"
+    },
+    {
+      "body": "${link_0} (songwriter)",
+      "links": [
+        {
+          "body": "Futurama",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0149460",
+            "page": "http://www.imdb.com/find?q=tt0149460"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Futurama (songwriter)"
+    },
+    {
+      "body": "${link_0} (songwriter)",
+      "links": [
+        {
+          "body": "Johnny Mnemonic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0113481",
+            "page": "http://www.imdb.com/find?q=tt0113481"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Johnny Mnemonic (songwriter)"
+    },
+    {
+      "body": "${link_0} (songwriter)",
+      "links": [
+        {
+          "body": "Metal Evolution",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1978940",
+            "page": "http://www.imdb.com/find?q=tt1978940"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Evolution (songwriter)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "Pump Up the Volume",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0100436",
+            "page": "http://www.imdb.com/find?q=tt0100436"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Pump Up the Volume (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Ten Monologues from the Lives of Serial Killers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111393",
+            "page": "http://www.imdb.com/find?q=tt0111393"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ten Monologues from the Lives of Serial Killers (writer)"
+    },
+    {
       "body": "Rollins was born Henry Lawrence Garfield, the only child of Iris and Paul Garfield. When he was three years old, his parents divorced and he was raised by his mother in Glover Park.",
       "links": [],
+      "section": [
+        "Henry Rollins",
+        "Biographical information",
+        "Early life"
+      ],
       "text": "Rollins was born Henry Lawrence Garfield, the only child of Iris and Paul Garfield. When he was three years old, his parents divorced and he was raised by his mother in Glover Park."
     },
     {
       "body": "As a child and teenager, Rollins suffered from depression and low self-esteem. In the fourth grade, he was diagnosed with hyperactivity and took Ritalin for several years so that he could focus during school. He attended The Bullis School, at the time an all-male preparatory school in Potomac, Maryland.",
       "links": [],
+      "section": [
+        "Henry Rollins",
+        "Biographical information",
+        "Early life"
+      ],
       "text": "As a child and teenager, Rollins suffered from depression and low self-esteem. In the fourth grade, he was diagnosed with hyperactivity and took Ritalin for several years so that he could focus during school. He attended The Bullis School, at the time an all-male preparatory school in Potomac, Maryland."
     },
     {
       "body": "According to Rollins, the Bullis School helped him to develop a sense of discipline and a strong work ethic. It was at Bullis that he began writing. In 1987, Rollins said he had not seen his father since he was 18.",
       "links": [],
+      "section": [
+        "Henry Rollins",
+        "Biographical information",
+        "Early life"
+      ],
       "text": "According to Rollins, the Bullis School helped him to develop a sense of discipline and a strong work ethic. It was at Bullis that he began writing. In 1987, Rollins said he had not seen his father since he was 18."
     },
     {
       "body": "Rollins began a music career in 1979 after discovering punk rock, and became the frontman of a band known as The Extorts, who later renamed themselves to State of Alert. After they disbanded in 1981, he became the frontman for Black Flag. However, his style of screaming lyrics resulted in the alienation of the band's fanbase; ultimately, the band broke up in 1986, and Rollins began his own band. In 1991, he and his best friend, Joe Cole, were assaulted by robbers; Cole was shot in the face and killed. In a 1992 Los Angeles Times interview, Rollins revealed he kept a plastic container full of soil soaked with the blood of Joe Cole. \"I dug up all the earth where his head fell\u2014he was shot in the face\u2014and I've got all the dirt here, and so Joe Cole's in the house. I say good morning to him every day. I got his phone, too, so I got a direct line to him. So that feels good.\"",
       "links": [],
+      "section": [
+        "Henry Rollins",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Rollins began a music career in 1979 after discovering punk rock, and became the frontman of a band known as The Extorts, who later renamed themselves to State of Alert. After they disbanded in 1981, he became the frontman for Black Flag. However, his style of screaming lyrics resulted in the alienation of the band's fanbase; ultimately, the band broke up in 1986, and Rollins began his own band. In 1991, he and his best friend, Joe Cole, were assaulted by robbers; Cole was shot in the face and killed. In a 1992 Los Angeles Times interview, Rollins revealed he kept a plastic container full of soil soaked with the blood of Joe Cole. \"I dug up all the earth where his head fell\u2014he was shot in the face\u2014and I've got all the dirt here, and so Joe Cole's in the house. I say good morning to him every day. I got his phone, too, so I got a direct line to him. So that feels good.\""
     },
     {
       "body": "Rollins went on to include Cole's story in his spoken word performances.",
       "links": [],
+      "section": [
+        "Henry Rollins",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Rollins went on to include Cole's story in his spoken word performances."
     },
     {
       "body": "Success with this band later led Rollins to television appearances, including a guest role on The Drew Carey Show and appearances in shows such as Jackass and Californication. He also appeared as a guest judge on the sixth episode of the second season of RuPaul's Drag Race.",
       "links": [],
+      "section": [
+        "Henry Rollins",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Success with this band later led Rollins to television appearances, including a guest role on The Drew Carey Show and appearances in shows such as Jackass and Californication. He also appeared as a guest judge on the sixth episode of the second season of RuPaul's Drag Race."
+    },
+    {
+      "body": "Rollins took his role as Zaheer very seriously from the beginning. Before he had even recorded his audition, he conducted an in-depth phone interview with Mike and Bryan about his character's background and motivations, while he was on a ${link_0} tour.",
+      "links": [
+        {
+          "body": "spoken word",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Spoken_word",
+            "page": "http://en.wikipedia.org/wiki/Spoken_word"
+          }
+        }
+      ],
+      "section": [
+        "Henry Rollins",
+        "Trivia"
+      ],
+      "text": "Rollins took his role as Zaheer very seriously from the beginning. Before he had even recorded his audition, he conducted an in-depth phone interview with Mike and Bryan about his character's background and motivations, while he was on a spoken word tour."
     }
   ],
   "source": {

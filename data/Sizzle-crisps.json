@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Cuisine",
       "target": {
-        "href": "Category_Cuisine",
+        "external": false,
+        "href": "/wiki/Category_Cuisine",
         "page": "Category_Cuisine"
       }
     },
     {
       "body": "Fire Nation",
       "target": {
-        "href": "Category_Fire_Nation",
+        "external": false,
+        "href": "/wiki/Category_Fire_Nation",
         "page": "Category_Fire_Nation"
       }
     },
     {
       "body": "Foods",
       "target": {
-        "href": "Category_Foods",
+        "external": false,
+        "href": "/wiki/Category_Foods",
         "page": "Category_Foods"
       }
     }
@@ -32,35 +36,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "Sizzle-crisps were a popular treat in the ${link_0} during the ${link_1}.",
-      "links": [
-        {
-          "body": "Fire Nation",
-          "key": "${link_0}",
-          "target": {
-            "href": "Fire_Nation",
-            "page": "Fire_Nation"
-          }
-        },
-        {
-          "body": "Hundred Year War",
-          "key": "${link_1}",
-          "target": {
-            "href": "Hundred_Year_War",
-            "page": "Hundred_Year_War"
-          }
-        }
-      ],
-      "text": "Sizzle-crisps were a popular treat in the Fire Nation during the Hundred Year War."
-    },
-    {
       "body": "Sizzle-crisps are a popular ${link_0} in the ${link_1}. They have a distinct crispy, bacon-like taste and are, in the style of typical Fire Nation foods, spicy-hot. Due to their taste, sizzle-crisps are widely believed to be made from meat, but there is a theory among some that they are actually vegetable-based and made from rice, soy, and nuts.",
       "links": [
         {
           "body": "treat",
           "key": "${link_0}",
           "target": {
-            "href": "Cuisine_in_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Cuisine_in_the_World_of_Avatar",
             "page": "Cuisine_in_the_World_of_Avatar"
           }
         },
@@ -68,12 +51,35 @@
           "body": "Fire Nation",
           "key": "${link_1}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         }
       ],
+      "section": [
+        "Sizzle-crisps"
+      ],
       "text": "Sizzle-crisps are a popular treat in the Fire Nation. They have a distinct crispy, bacon-like taste and are, in the style of typical Fire Nation foods, spicy-hot. Due to their taste, sizzle-crisps are widely believed to be made from meat, but there is a theory among some that they are actually vegetable-based and made from rice, soy, and nuts."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cuisine in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Cuisine_in_the_World_of_Avatar",
+            "page": "Cuisine_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Sizzle-crisps",
+        "See also"
+      ],
+      "text": "Cuisine in the World of Avatar"
     }
   ],
   "source": {

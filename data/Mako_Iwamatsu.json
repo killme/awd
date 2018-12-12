@@ -3,28 +3,32 @@
     {
       "body": "Protected",
       "target": {
-        "href": "Category_Protected",
+        "external": false,
+        "href": "/wiki/Category_Protected",
         "page": "Category_Protected"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -76,12 +80,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Never So Few (1959)",
+          "body": "${link_0} (1959)",
           "extra": "(1959)",
           "extra_text": "(1959)",
-          "links": [],
+          "links": [
+            {
+              "body": "Never So Few",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0053108",
+                "page": "http://www.imdb.com/find?q=tt0053108"
+              }
+            }
+          ],
           "text": "Never So Few (1959)",
-          "value": "Never So Few",
+          "value": "${link_0}",
           "value_text": "Never So Few"
         }
       ]
@@ -90,30 +104,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0538683",
+                "page": "http://www.imdb.com/find?q=nm0538683"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Mako_Iwamatsu",
+                "page": "http://en.wikipedia.org/wiki/Mako_Iwamatsu"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/Makoto-Iwamatsu/67716169255",
+                "page": "http://www.facebook.com/pages/Makoto-Iwamatsu/67716169255"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -121,13 +165,483 @@
   ],
   "paragraphs": [
     {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Black Sash",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356233",
+            "page": "http://www.imdb.com/find?q=tt0356233"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Black Sash"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dexter's Laboratory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115157",
+            "page": "http://www.imdb.com/find?q=tt0115157"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dexter's Laboratory"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Duck Dodgers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0376390",
+            "page": "http://www.imdb.com/find?q=tt0376390"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Duck Dodgers"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hawaiian Heat",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086724",
+            "page": "http://www.imdb.com/find?q=tt0086724"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hawaiian Heat"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "M*A*S*H",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0068098",
+            "page": "http://www.imdb.com/find?q=tt0068098"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "M*A*S*H"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Samurai Jack",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0278238",
+            "page": "http://www.imdb.com/find?q=tt0278238"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Samurai Jack"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The West Wing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200276",
+            "page": "http://www.imdb.com/find?q=tt0200276"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The West Wing"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Rise: Blood Hunter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0389328",
+            "page": "http://www.imdb.com/find?q=tt0389328"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rise: Blood Hunter (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "TMNT",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0453556",
+            "page": "http://www.imdb.com/find?q=tt0453556"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "TMNT (2007)"
+    },
+    {
+      "body": "${link_0} (2005; video documentary short)",
+      "links": [
+        {
+          "body": "Genndy's Scrapbook",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0945557",
+            "page": "http://www.imdb.com/find?q=tt0945557"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Genndy's Scrapbook (2005; video documentary short)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Memoirs of a Geisha",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397535",
+            "page": "http://www.imdb.com/find?q=tt0397535"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Memoirs of a Geisha (2005)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Cages",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0424875",
+            "page": "http://www.imdb.com/find?q=tt0424875"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cages (2005)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Bulletproof Monk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0245803",
+            "page": "http://www.imdb.com/find?q=tt0245803"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bulletproof Monk (2003)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Pearl Harbor",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0213149",
+            "page": "http://www.imdb.com/find?q=tt0213149"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pearl Harbor (2001)"
+    },
+    {
+      "body": "${link_0} (1984)",
+      "links": [
+        {
+          "body": "Conan: The Destroyer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0087078",
+            "page": "http://www.imdb.com/find?q=tt0087078"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Conan: The Destroyer (1984)"
+    },
+    {
+      "body": "${link_0} (1982)",
+      "links": [
+        {
+          "body": "Conan: The Barbarian",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0082198",
+            "page": "http://www.imdb.com/find?q=tt0082198"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Conan: The Barbarian (1982)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender - The Burning Earth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_-_The_Burning_Earth",
+            "page": "Avatar__The_Last_Airbender_-_The_Burning_Earth"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Last Airbender - The Burning Earth (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Medal of Honor: Rising Sun",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0390249",
+            "page": "http://www.imdb.com/find?q=tt0390249"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Medal of Honor: Rising Sun (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Samurai Jack: The Shadow of Aku",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0413224",
+            "page": "http://www.imdb.com/find?q=tt0413224"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Samurai Jack: The Shadow of Aku (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Secret Weapons Over Normandy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0405298",
+            "page": "http://www.imdb.com/find?q=tt0405298"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Secret Weapons Over Normandy (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "True Crime: Streets of LA",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0378918",
+            "page": "http://www.imdb.com/find?q=tt0378918"
+          }
+        }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "True Crime: Streets of LA (video game)"
+    },
+    {
       "body": "Mako was born in Kobe, Japan, the son of noted children's book author and illustrator Taro Yashima. His parents moved to the United States when he was a small child. He joined them there in 1949 and began studying architecture. He joined the military in the 1950s and became a naturalized American citizen in 1956. During his military service, he discovered his theatrical talent and trained at the Pasadena Community Playhouse while on leave.",
       "links": [],
+      "section": [
+        "Mako Iwamatsu",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Mako was born in Kobe, Japan, the son of noted children's book author and illustrator Taro Yashima. His parents moved to the United States when he was a small child. He joined them there in 1949 and began studying architecture. He joined the military in the 1950s and became a naturalized American citizen in 1956. During his military service, he discovered his theatrical talent and trained at the Pasadena Community Playhouse while on leave."
     },
     {
       "body": "Mako was married to actress Shizuko Hoshi and had two daughters with her, both of whom are actresses. He had three grandchildren.",
       "links": [],
+      "section": [
+        "Mako Iwamatsu",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Mako was married to actress Shizuko Hoshi and had two daughters with her, both of whom are actresses. He had three grandchildren."
     },
     {
@@ -137,56 +651,47 @@
           "body": "James Hong",
           "key": "${link_0}",
           "target": {
-            "href": "James_Hong",
+            "external": false,
+            "href": "/wiki/James_Hong",
             "page": "James_Hong"
           }
         }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Biographical information",
+        "Career"
       ],
       "text": "Mako's first cinema role was in the 1959 film Never So Few. In 1965, frustrated by the limited roles available to himself and other Asian-American actors, Mako and six others, including James Hong, formed the East West Players theater company, first performing out of a church basement. The company is one of the earliest Asian-American theater organizations and not only provided a venue for Asian-American actors to train and perform, but nurtured many Asian-American playwrights. Mako remained artistic director of the company until 1989."
     },
     {
       "body": "He was nominated for an Academy Award for Best Supporting Actor for his role in the 1966 film The Sand Pebbles and for a Tony Award for Best Leading Actor in a Musical for the 1976 musical Pacific Overtures. In 2005, he had a cameo role in Memoirs of a Geisha. His last leading role was in the 2005 film Cages, written and directed by Graham Streeter.",
       "links": [],
+      "section": [
+        "Mako Iwamatsu",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He was nominated for an Academy Award for Best Supporting Actor for his role in the 1966 film The Sand Pebbles and for a Tony Award for Best Leading Actor in a Musical for the 1976 musical Pacific Overtures. In 2005, he had a cameo role in Memoirs of a Geisha. His last leading role was in the 2005 film Cages, written and directed by Graham Streeter."
     },
     {
       "body": "Mako was among the actors, producers, and directors interviewed in the 2006 documentary The Slanted Screen, directed by Jeff Adachi, about the representation of Asian and Asian-American men in Hollywood.",
       "links": [],
-      "text": "Mako was among the actors, producers, and directors interviewed in the 2006 documentary The Slanted Screen, directed by Jeff Adachi, about the representation of Asian and Asian-American men in Hollywood."
-    },
-    {
-      "body": "The staff of ${link_0} honored Mako at the end of ${link_1}'s tale in \"${link_2}\".",
-      "links": [
-        {
-          "body": "Avatar: The Last Airbender",
-          "key": "${link_0}",
-          "target": {
-            "href": "Avatar__The_Last_Airbender",
-            "page": "Avatar__The_Last_Airbender"
-          }
-        },
-        {
-          "body": "Iroh",
-          "key": "${link_1}",
-          "target": {
-            "href": "Iroh",
-            "page": "Iroh"
-          }
-        },
-        {
-          "body": "The Tales of Ba Sing Se",
-          "key": "${link_2}",
-          "target": {
-            "href": "The_Tales_of_Ba_Sing_Se",
-            "page": "The_Tales_of_Ba_Sing_Se"
-          }
-        }
+      "section": [
+        "Mako Iwamatsu",
+        "Biographical information",
+        "Career"
       ],
-      "text": "The staff of Avatar: The Last Airbender honored Mako at the end of Iroh's tale in \"The Tales of Ba Sing Se\"."
+      "text": "Mako was among the actors, producers, and directors interviewed in the 2006 documentary The Slanted Screen, directed by Jeff Adachi, about the representation of Asian and Asian-American men in Hollywood."
     },
     {
       "body": "Mako died after a brief period of suffering from esophageal cancer. One day prior to his death, Mako had been confirmed to star in the film TMNT as the voice of Splinter. The film's director Kevin Munroe confirmed that Mako had completed his recording before his death. The finished film was dedicated to Mako.",
       "links": [],
+      "section": [
+        "Mako Iwamatsu",
+        "Biographical information",
+        "Death"
+      ],
       "text": "Mako died after a brief period of suffering from esophageal cancer. One day prior to his death, Mako had been confirmed to star in the film TMNT as the voice of Splinter. The film's director Kevin Munroe confirmed that Mako had completed his recording before his death. The finished film was dedicated to Mako."
     },
     {
@@ -196,7 +701,8 @@
           "body": "The Tales of Ba Sing Se",
           "key": "${link_0}",
           "target": {
-            "href": "The_Tales_of_Ba_Sing_Se",
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
             "page": "The_Tales_of_Ba_Sing_Se"
           }
         },
@@ -204,7 +710,8 @@
           "body": "One",
           "key": "${link_1}",
           "target": {
-            "href": "Book_One__Water",
+            "external": false,
+            "href": "/wiki/Book_One__Water",
             "page": "Book_One__Water"
           }
         },
@@ -212,10 +719,16 @@
           "body": "Two",
           "key": "${link_2}",
           "target": {
-            "href": "Book_Two__Earth",
+            "external": false,
+            "href": "/wiki/Book_Two__Earth",
             "page": "Book_Two__Earth"
           }
         }
+      ],
+      "section": [
+        "Mako Iwamatsu",
+        "Biographical information",
+        "Death"
       ],
       "text": "During the Avatar: The Last Airbender episode \"The Tales of Ba Sing Se\", the segment titled \"The Tale of Iroh\" features a dedication to Mako as he was the voice actor for Iroh for Books One and Two. He was also featured in the Memoriam Montage in the 79th Academy Awards."
     },
@@ -226,7 +739,8 @@
           "body": "Mako",
           "key": "${link_0}",
           "target": {
-            "href": "Mako",
+            "external": false,
+            "href": "/wiki/Mako",
             "page": "Mako"
           }
         },
@@ -234,12 +748,35 @@
           "body": "The Legend of Korra",
           "key": "${link_1}",
           "target": {
-            "href": "The_Legend_of_Korra",
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra",
             "page": "The_Legend_of_Korra"
           }
         }
       ],
+      "section": [
+        "Mako Iwamatsu",
+        "Legacy"
+      ],
       "text": "The character Mako in The Legend of Korra is named after him in dedication."
+    },
+    {
+      "body": "2002: Won a Big Bear Lake International Film Festival Lifetime Achievement Award",
+      "links": [],
+      "section": [
+        "Mako Iwamatsu",
+        "Awards"
+      ],
+      "text": "2002: Won a Big Bear Lake International Film Festival Lifetime Achievement Award"
+    },
+    {
+      "body": "1994: Earned a star on the Hollywood Walk of Fame (Motion Picture; 7095 Hollywood Blvd.)",
+      "links": [],
+      "section": [
+        "Mako Iwamatsu",
+        "Awards"
+      ],
+      "text": "1994: Earned a star on the Hollywood Walk of Fame (Motion Picture; 7095 Hollywood Blvd.)"
     }
   ],
   "source": {

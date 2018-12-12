@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Judging Amy (2002)",
+          "body": "${link_0} (2002)",
           "extra": "(2002)",
           "extra_text": "(2002)",
-          "links": [],
+          "links": [
+            {
+              "body": "Judging Amy",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0209069",
+                "page": "http://www.imdb.com/find?q=tt0209069"
+              }
+            }
+          ],
           "text": "Judging Amy (2002)",
-          "value": "Judging Amy",
+          "value": "${link_0}",
           "value_text": "Judging Amy"
         }
       ]
@@ -41,18 +54,449 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1274989",
+                "page": "http://www.imdb.com/find?q=nm1274989"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Zuko Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Avatar: The Last Airbender credits",
+        "Lee"
+      ],
+      "text": "207. \"Zuko Alone\""
+    },
+    {
+      "body": "${link_0} (ADR loop group)",
+      "links": [
+        {
+          "body": "American Family",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0303635",
+            "page": "http://www.imdb.com/find?q=tt0303635"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Family (ADR loop group)"
+    },
+    {
+      "body": "${link_0} (ADR loop group)",
+      "links": [
+        {
+          "body": "And Starring Pancho Villa as Himself",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0337824",
+            "page": "http://www.imdb.com/find?q=tt0337824"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "And Starring Pancho Villa as Himself (ADR loop group)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Handy Manny",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0451460",
+            "page": "http://www.imdb.com/find?q=tt0451460"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Handy Manny"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Judging Amy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0209069",
+            "page": "http://www.imdb.com/find?q=tt0209069"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Judging Amy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Tonight Show with Jay Leno",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103569",
+            "page": "http://www.imdb.com/find?q=tt0103569"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Tonight Show with Jay Leno"
+    },
+    {
+      "body": "${link_0} (2009 - additional voice)",
+      "links": [
+        {
+          "body": "An American Affair",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0899138",
+            "page": "http://www.imdb.com/find?q=tt0899138"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "An American Affair (2009 - additional voice)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Forget Me Not",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1147684",
+            "page": "http://www.imdb.com/find?q=tt1147684"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Forget Me Not (2009)"
+    },
+    {
+      "body": "${link_0} (2009 - voice-over)",
+      "links": [
+        {
+          "body": "Ghosts of Girlfriends Past",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0821640",
+            "page": "http://www.imdb.com/find?q=tt0821640"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ghosts of Girlfriends Past (2009 - voice-over)"
+    },
+    {
+      "body": "${link_0} (2009 - voice looping; multiple characters)",
+      "links": [
+        {
+          "body": "Hannah Montana: The Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1114677",
+            "page": "http://www.imdb.com/find?q=tt1114677"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hannah Montana: The Movie (2009 - voice looping; multiple characters)"
+    },
+    {
+      "body": "${link_0} (2009 - voice-over)",
+      "links": [
+        {
+          "body": "Cirque du Freak: The Vampire's Assistant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0450405",
+            "page": "http://www.imdb.com/find?q=tt0450405"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cirque du Freak: The Vampire's Assistant (2009 - voice-over)"
+    },
+    {
+      "body": "${link_0} (2008; short)",
+      "links": [
+        {
+          "body": "El Tux",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1287858",
+            "page": "http://www.imdb.com/find?q=tt1287858"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "El Tux (2008; short)"
+    },
+    {
+      "body": "${link_0} (2007 - ADR loop group)",
+      "links": [
+        {
+          "body": "Zodiac",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0443706",
+            "page": "http://www.imdb.com/find?q=tt0443706"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Zodiac (2007 - ADR loop group)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Night at the Museum",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0477347",
+            "page": "http://www.imdb.com/find?q=tt0477347"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Night at the Museum (2006)"
+    },
+    {
+      "body": "${link_0} (2006 - ADR artist)",
+      "links": [
+        {
+          "body": "The Santa Clause 3: The Escape Clause",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0452681",
+            "page": "http://www.imdb.com/find?q=tt0452681"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Santa Clause 3: The Escape Clause (2006 - ADR artist)"
+    },
+    {
+      "body": "${link_0} (2005; video)",
+      "links": [
+        {
+          "body": "Stuart Little 3: Call of the Wild",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0472602",
+            "page": "http://www.imdb.com/find?q=tt0472602"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stuart Little 3: Call of the Wild (2005; video)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Spanglish",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0371246",
+            "page": "http://www.imdb.com/find?q=tt0371246"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spanglish (2004)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Man on Fire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0328107",
+            "page": "http://www.imdb.com/find?q=tt0328107"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Man on Fire (2004)"
+    },
+    {
+      "body": "${link_0} (2003; short)",
+      "links": [
+        {
+          "body": "The Mexican Dream",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0340242",
+            "page": "http://www.imdb.com/find?q=tt0340242"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Mexican Dream (2003; short)"
+    },
+    {
+      "body": "${link_0} (2002 - ADR loop group)",
+      "links": [
+        {
+          "body": "Spider Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0145487",
+            "page": "http://www.imdb.com/find?q=tt0145487"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spider Man (2002 - ADR loop group)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Sopranos: Road to Respect",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0484895",
+            "page": "http://www.imdb.com/find?q=tt0484895"
+          }
+        }
+      ],
+      "section": [
+        "Robby Bruce",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Sopranos: Road to Respect (video game)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Robby_Bruce",
     "file": "avatar.wikia.com/wiki/Robby_Bruce.html",

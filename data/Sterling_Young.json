@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Avatar: The Last Airbender (2005)",
+          "body": "${link_0} (2005)",
           "extra": "(2005)",
           "extra_text": "(2005)",
-          "links": [],
+          "links": [
+            {
+              "body": "Avatar: The Last Airbender",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0417299",
+                "page": "http://www.imdb.com/find?q=tt0417299"
+              }
+            }
+          ],
           "text": "Avatar: The Last Airbender (2005)",
-          "value": "Avatar: The Last Airbender",
+          "value": "${link_0}",
           "value_text": "Avatar: The Last Airbender"
         }
       ]
@@ -55,18 +68,169 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2676226",
+                "page": "http://www.imdb.com/find?q=nm2676226"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Sterling Young",
+        "Avatar: The Last Airbender credits",
+        "Pipsqueak"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Awakening",
+            "page": "The_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "Sterling Young",
+        "Avatar: The Last Airbender credits",
+        "Pipsqueak"
+      ],
+      "text": "301. \"The Awakening\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "Sterling Young",
+        "Avatar: The Last Airbender credits",
+        "Pipsqueak"
+      ],
+      "text": "310. \"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Sterling Young",
+        "Avatar: The Last Airbender credits",
+        "Pipsqueak"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Sterling Young",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Awakening",
+            "page": "The_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "Sterling Young",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "301. \"The Awakening\""
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crisis Core: Final Fantasy VII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0483593",
+            "page": "http://www.imdb.com/find?q=tt0483593"
+          }
+        }
+      ],
+      "section": [
+        "Sterling Young",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crisis Core: Final Fantasy VII (video game)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Sterling_Young",
     "file": "avatar.wikia.com/wiki/Sterling_Young.html",

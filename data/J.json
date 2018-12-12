@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -69,21 +72,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/J._Torres",
+                "page": "http://en.wikipedia.org/wiki/J._Torres"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website/blog",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website/blog",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.jtorresonline.blogspot.com/",
+                "page": "http://www.jtorresonline.blogspot.com/"
+              }
+            }
+          ],
           "text": "Official website/blog",
-          "value": "Official website/blog",
+          "value": "${link_0}",
           "value_text": "Official website/blog"
         }
       ]
@@ -91,13 +114,161 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #9. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Dirty Is Only Skin Deep",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dirty_Is_Only_Skin_Deep",
+            "page": "Dirty_Is_Only_Skin_Deep"
+          }
+        }
+      ],
+      "section": [
+        "J. Torres",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #9. \"Dirty Is Only Skin Deep\""
+    },
+    {
+      "body": "Iss. #11. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Reach for the Toph",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Reach_for_the_Toph",
+            "page": "Reach_for_the_Toph"
+          }
+        }
+      ],
+      "section": [
+        "J. Torres",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #11. \"Reach for the Toph\""
+    },
+    {
+      "body": "Iss. #19. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Monster Slayer",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Monster_Slayer",
+            "page": "Monster_Slayer"
+          }
+        }
+      ],
+      "section": [
+        "J. Torres",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #19. \"Monster Slayer\""
+    },
+    {
+      "body": "Iss. #23. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Love Is a Battlefield",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Love_Is_a_Battlefield",
+            "page": "Love_Is_a_Battlefield"
+          }
+        }
+      ],
+      "section": [
+        "J. Torres",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #23. \"Love Is a Battlefield\""
+    },
+    {
+      "body": "${link_0} (animation)",
+      "links": [
+        {
+          "body": "Hi Hi Puffy AmiYumi",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0407398",
+            "page": "http://www.imdb.com/find?q=tt0407398"
+          }
+        }
+      ],
+      "section": [
+        "J. Torres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hi Hi Puffy AmiYumi (animation)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Degrassi: Extra Credit",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Degrassi:_Extra_Credit",
+            "page": "http://en.wikipedia.org/wiki/Degrassi:_Extra_Credit"
+          }
+        }
+      ],
+      "section": [
+        "J. Torres",
+        "Selected other credits",
+        "Authorial works"
+      ],
+      "text": "Degrassi: Extra Credit (writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Teen Titans Go!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Teen_Titans_Go!",
+            "page": "http://en.wikipedia.org/wiki/Teen_Titans_Go!"
+          }
+        }
+      ],
+      "section": [
+        "J. Torres",
+        "Selected other credits",
+        "Authorial works"
+      ],
+      "text": "Teen Titans Go! (writer)"
+    },
+    {
       "body": "Torres debuted with the semi-autobiographical Copybook Tales, first published by Slave Labor Graphics in the early 90s and later collected and reprinted by Oni Press. Next came Siren, a three-part miniseries published by Image Comics. Both titles were co-created with artist Tim Levins, whom Torres had first met in high school.",
       "links": [],
+      "section": [
+        "J. Torres",
+        "Biographical information"
+      ],
       "text": "Torres debuted with the semi-autobiographical Copybook Tales, first published by Slave Labor Graphics in the early 90s and later collected and reprinted by Oni Press. Next came Siren, a three-part miniseries published by Image Comics. Both titles were co-created with artist Tim Levins, whom Torres had first met in high school."
     },
     {
       "body": "After some short assignments at Marvel Comics on titles, including Black Panther, X-Men: Ronin, and X-Men Unlimited, Torres went on to write the fan-favorite Teen Titans Go! for DC Comics until the series was canceled after a 55-issue run. With Teen Titans Go!, Torres began to carve out a niche for himself as a popular and successful writer of kids comics.",
       "links": [],
+      "section": [
+        "J. Torres",
+        "Biographical information"
+      ],
       "text": "After some short assignments at Marvel Comics on titles, including Black Panther, X-Men: Ronin, and X-Men Unlimited, Torres went on to write the fan-favorite Teen Titans Go! for DC Comics until the series was canceled after a 55-issue run. With Teen Titans Go!, Torres began to carve out a niche for himself as a popular and successful writer of kids comics."
     },
     {
@@ -107,17 +278,54 @@
           "body": "Nickelodeon Magazine",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon_Magazine",
+            "external": false,
+            "href": "/wiki/Nickelodeon_Magazine",
             "page": "Nickelodeon_Magazine"
           }
         }
+      ],
+      "section": [
+        "J. Torres",
+        "Biographical information"
       ],
       "text": "In 2006, Torres penned the Degrassi: Extra Credit series of graphic novels from Simon & Schuster and contributed writing to the Degrassi: The Next Generation animated and live action webisodes, also known as Degrassi Minis, increasing his popularity. Torres has also written chapter books and activity books for Scholastic and Simon Says and short stories and comic strips for magazines, including Kayak, YTV's Whoa, and Nickelodeon Magazine. He was also a staff writer on the Rugrats daily syndicated newspaper comic strip."
     },
     {
       "body": "His animation credits include Oh No! It's An Alien Invasion, Hi Hi Puffy Ami Yumi, Edgar & Ellen, and League of Super Evil.",
       "links": [],
+      "section": [
+        "J. Torres",
+        "Biographical information"
+      ],
       "text": "His animation credits include Oh No! It's An Alien Invasion, Hi Hi Puffy Ami Yumi, Edgar & Ellen, and League of Super Evil."
+    },
+    {
+      "body": "2006: Won a Shuster Award (Outstanding Canadian Writer)",
+      "links": [],
+      "section": [
+        "J. Torres",
+        "Awards"
+      ],
+      "text": "2006: Won a Shuster Award (Outstanding Canadian Writer)"
+    },
+    {
+      "body": "All of Torres' work for the Avatar franchise has been in collaboration with ${link_0}.",
+      "links": [
+        {
+          "body": "Gurihiru",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Gurihiru",
+            "page": "Gurihiru"
+          }
+        }
+      ],
+      "section": [
+        "J. Torres",
+        "Trivia"
+      ],
+      "text": "All of Torres' work for the Avatar franchise has been in collaboration with Gurihiru."
     }
   ],
   "source": {

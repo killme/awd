@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Profiler (1997)",
+          "body": "${link_0} (1997)",
           "extra": "(1997)",
           "extra_text": "(1997)",
-          "links": [],
+          "links": [
+            {
+              "body": "Profiler",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0115322",
+                "page": "http://www.imdb.com/find?q=tt0115322"
+              }
+            }
+          ],
           "text": "Profiler (1997)",
-          "value": "Profiler",
+          "value": "${link_0}",
           "value_text": "Profiler"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0931898",
+                "page": "http://www.imdb.com/find?q=nm0931898"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Wade_Williams",
+                "page": "http://en.wikipedia.org/wiki/Wade_Williams"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,13 +124,463 @@
   ],
   "paragraphs": [
     {
+      "body": "314. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_1",
+            "page": "The_Boiling_Rock%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Avatar: The Last Airbender credits",
+        "Warden (Boiling Rock)"
+      ],
+      "text": "314. \"The Boiling Rock, Part 1\""
+    },
+    {
+      "body": "315. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Avatar: The Last Airbender credits",
+        "Warden (Boiling Rock)"
+      ],
+      "text": "315. \"The Boiling Rock, Part 2\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "The Legend of Korra credits",
+        "Captain"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "24",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285331",
+            "page": "http://www.imdb.com/find?q=tt0285331"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "24"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "MDs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0320069",
+            "page": "http://www.imdb.com/find?q=tt0320069"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "MDs"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Over There",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0446241",
+            "page": "http://www.imdb.com/find?q=tt0446241"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Over There"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Prison Break",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0455275",
+            "page": "http://www.imdb.com/find?q=tt0455275"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Prison Break"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: Enterprise",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0244365",
+            "page": "http://www.imdb.com/find?q=tt0244365"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: Enterprise"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Bernie Mac Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285341",
+            "page": "http://www.imdb.com/find?q=tt0285341"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Bernie Mac Show"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Draft Day",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2223990",
+            "page": "http://www.imdb.com/find?q=tt2223990"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Draft Day (2014)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "The Last Harbor",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1332106",
+            "page": "http://www.imdb.com/find?q=tt1332106"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Last Harbor (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Hole",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1085779",
+            "page": "http://www.imdb.com/find?q=tt1085779"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Hole (2009)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Flicka",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0434215",
+            "page": "http://www.imdb.com/find?q=tt0434215"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Flicka (2006)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Collateral",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0369339",
+            "page": "http://www.imdb.com/find?q=tt0369339"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Collateral (2004)"
+    },
+    {
+      "body": "${link_0} (2004; short)",
+      "links": [
+        {
+          "body": "Male Mail",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0785026",
+            "page": "http://www.imdb.com/find?q=tt0785026"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Male Mail (2004; short)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "I Witness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0329216",
+            "page": "http://www.imdb.com/find?q=tt0329216"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I Witness (2003)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Ken Park",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0209077",
+            "page": "http://www.imdb.com/find?q=tt0209077"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ken Park (2002)"
+    },
+    {
+      "body": "${link_0} (2002; short)",
+      "links": [
+        {
+          "body": "Project Redlight",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0307354",
+            "page": "http://www.imdb.com/find?q=tt0307354"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Project Redlight (2002; short)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Gun",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0482518",
+            "page": "http://www.imdb.com/find?q=tt0482518"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Gun (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Hitman: Blood Money",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0433390",
+            "page": "http://www.imdb.com/find?q=tt0433390"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Hitman: Blood Money (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Prison Break: The Conspiracy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1531425",
+            "page": "http://www.imdb.com/find?q=tt1531425"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Prison Break: The Conspiracy (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Chronicles of Riddick: Assault on Dark Athena",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1218336",
+            "page": "http://www.imdb.com/find?q=tt1218336"
+          }
+        }
+      ],
+      "section": [
+        "Wade Williams",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Chronicles of Riddick: Assault on Dark Athena (video game)"
+    },
+    {
       "body": "Williams and his three siblings were born in Georgia and later moved to Tulsa, Oklahoma. As a youth, Williams was interested in drama and music, beginning at church, but he did not intend to pursue acting as a career. After high school, Williams planned to take pre-med courses at the University of Tulsa (TU). His interest in music and drama never waned and eventually he changed career paths. Williams completed his bachelor's degree in theatrical studies at TU, starring in the play Sweeney Todd in the process, and later obtained a Master of Fine Arts in acting from the Rutgers University Mason Gross School of the Arts, where he studied under William Esper. Williams lives in Texas with his wife and daughter.",
       "links": [],
+      "section": [
+        "Wade Williams",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Williams and his three siblings were born in Georgia and later moved to Tulsa, Oklahoma. As a youth, Williams was interested in drama and music, beginning at church, but he did not intend to pursue acting as a career. After high school, Williams planned to take pre-med courses at the University of Tulsa (TU). His interest in music and drama never waned and eventually he changed career paths. Williams completed his bachelor's degree in theatrical studies at TU, starring in the play Sweeney Todd in the process, and later obtained a Master of Fine Arts in acting from the Rutgers University Mason Gross School of the Arts, where he studied under William Esper. Williams lives in Texas with his wife and daughter."
     },
     {
       "body": "Williams began his acting career at the Delacorte Theater in Central Park in The Taming of the Shrew alongside Morgan Freeman and Tracey Ullman, and also had a role with Denzel Washington in Richard III. He continued with performances on and off Broadway and toured nationally in productions such as Guys and Dolls, Les Mis\u00e9rables, Kiss of the Spiderwoman, Ragtime, and Show Boat.",
       "links": [],
+      "section": [
+        "Wade Williams",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Williams began his acting career at the Delacorte Theater in Central Park in The Taming of the Shrew alongside Morgan Freeman and Tracey Ullman, and also had a role with Denzel Washington in Richard III. He continued with performances on and off Broadway and toured nationally in productions such as Guys and Dolls, Les Mis\u00e9rables, Kiss of the Spiderwoman, Ragtime, and Show Boat."
     }
   ],

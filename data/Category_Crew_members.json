@@ -3,7 +3,8 @@
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -17,7 +18,8 @@
           "body": "Avatar: The Last Airbender",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         },
@@ -25,17 +27,54 @@
           "body": "The Legend of Korra",
           "key": "${link_1}",
           "target": {
-            "href": "The_Legend_of_Korra",
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra",
             "page": "The_Legend_of_Korra"
           }
         }
       ],
+      "section": [
+        "Category:Crew members"
+      ],
       "text": "This category contains all pages for production crew on Avatar: The Last Airbender and The Legend of Korra."
     },
     {
-      "body": "All items (2)",
-      "links": [],
-      "text": "All items (2)"
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Category:Comic staff",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Category_Comic_staff",
+            "page": "Category_Comic_staff"
+          }
+        }
+      ],
+      "section": [
+        "Category:Crew members",
+        "C"
+      ],
+      "text": "Category:Comic staff"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Category:Television staff",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Category_Television_staff",
+            "page": "Category_Television_staff"
+          }
+        }
+      ],
+      "section": [
+        "Category:Crew members",
+        "T"
+      ],
+      "text": "Category:Television staff"
     }
   ],
   "source": {

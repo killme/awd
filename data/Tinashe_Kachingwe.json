@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Cora Unashamed (2000; TV movie)",
+          "body": "${link_0} (2000; TV movie)",
           "extra": "(2000; TV movie)",
           "extra_text": "(2000; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Cora Unashamed",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0233483",
+                "page": "http://www.imdb.com/find?q=tt0233483"
+              }
+            }
+          ],
           "text": "Cora Unashamed (2000; TV movie)",
-          "value": "Cora Unashamed",
+          "value": "${link_0}",
           "value_text": "Cora Unashamed"
         }
       ]
@@ -69,84 +82,174 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0434186",
+                "page": "http://www.imdb.com/find?q=nm0434186"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Tinashe_Kachingwe",
+                "page": "http://en.wikipedia.org/wiki/Tinashe_Kachingwe"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/Tinashe-Kachingwe/112218065462245",
+                "page": "http://www.facebook.com/pages/Tinashe-Kachingwe/112218065462245"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/tinashenow/#",
+                "page": "http://instagram.com/tinashenow/"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.tinashenow.com/",
+                "page": "http://www.tinashenow.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Pinterest",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Pinterest",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.pinterest.com/kachingwe/",
+                "page": "http://www.pinterest.com/kachingwe/"
+              }
+            }
+          ],
           "text": "Pinterest",
-          "value": "Pinterest",
+          "value": "${link_0}",
           "value_text": "Pinterest"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://tinashenow.tumblr.com/",
+                "page": "http://tinashenow.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/Tinashe",
+                "page": "https://twitter.com/Tinashe"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/tinashenow",
+                "page": "http://www.youtube.com/user/tinashenow"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
@@ -154,34 +257,273 @@
   ],
   "paragraphs": [
     {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "Tinashe Kachingwe",
+        "Avatar: The Last Airbender credits",
+        "On Ji"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Out of Jimmy's Head",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1078463",
+            "page": "http://www.imdb.com/find?q=tt1078463"
+          }
+        }
+      ],
+      "section": [
+        "Tinashe Kachingwe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Out of Jimmy's Head"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Two and a Half Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0369179",
+            "page": "http://www.imdb.com/find?q=tt0369179"
+          }
+        }
+      ],
+      "section": [
+        "Tinashe Kachingwe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Two and a Half Men"
+    },
+    {
+      "body": "${link_0} (2007; video short)",
+      "links": [
+        {
+          "body": "Holly Hobbie and Friends: Secret Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1052004",
+            "page": "http://www.imdb.com/find?q=tt1052004"
+          }
+        }
+      ],
+      "section": [
+        "Tinashe Kachingwe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Holly Hobbie and Friends: Secret Adventures (2007; video short)"
+    },
+    {
+      "body": "${link_0} (2006; video short)",
+      "links": [
+        {
+          "body": "Holly Hobbie and Friends: Christmas Wishes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0906022",
+            "page": "http://www.imdb.com/find?q=tt0906022"
+          }
+        }
+      ],
+      "section": [
+        "Tinashe Kachingwe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Holly Hobbie and Friends: Christmas Wishes (2006; video short)"
+    },
+    {
+      "body": "${link_0} (2005; video short)",
+      "links": [
+        {
+          "body": "Holly Hobbie and Friends: Surprise Party",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0795392",
+            "page": "http://www.imdb.com/find?q=tt0795392"
+          }
+        }
+      ],
+      "section": [
+        "Tinashe Kachingwe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Holly Hobbie and Friends: Surprise Party (2005; video short)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Holly Hobbie and Friends: Best Friends Forever",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1145855",
+            "page": "http://www.imdb.com/find?q=tt1145855"
+          }
+        }
+      ],
+      "section": [
+        "Tinashe Kachingwe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Holly Hobbie and Friends: Best Friends Forever (2004)"
+    },
+    {
+      "body": "${link_0} (2004; short)",
+      "links": [
+        {
+          "body": "Time Out",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0304826",
+            "page": "http://www.imdb.com/find?q=tt0304826"
+          }
+        }
+      ],
+      "section": [
+        "Tinashe Kachingwe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Time Out (2004; short)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Masked and Anonymous",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0319829",
+            "page": "http://www.imdb.com/find?q=tt0319829"
+          }
+        }
+      ],
+      "section": [
+        "Tinashe Kachingwe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Masked and Anonymous (2003)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Call Me Claus",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0272018",
+            "page": "http://www.imdb.com/find?q=tt0272018"
+          }
+        }
+      ],
+      "section": [
+        "Tinashe Kachingwe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Call Me Claus (2001)"
+    },
+    {
       "body": "Kachingwe was born in Lexington, Kentucky, and named \"Tinashe\" Jorgensen, which means \"We are with God\" in Shona, by her grandfather. She spent her early years in DeKalb, Illinois, as a baby model with her two younger brothers, Thulani and Kudzai, but moved to Los Angeles, California, when she was eight.",
       "links": [],
+      "section": [
+        "Tinashe Kachingwe",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Kachingwe was born in Lexington, Kentucky, and named \"Tinashe\" Jorgensen, which means \"We are with God\" in Shona, by her grandfather. She spent her early years in DeKalb, Illinois, as a baby model with her two younger brothers, Thulani and Kudzai, but moved to Los Angeles, California, when she was eight."
     },
     {
       "body": "At age fourteen, Kachingwe was approached by former pop-star Vitamin C to join an all-girl singing and dancing group. She quickly joined Allie Gonino, Hayley Kiyoko, Marisol Esparza and Kelsey Saunders, later replaced by Lauren Hudson in 2009, to form the Stunners. The group soon signed with Columbia Records and released a single titled Bubblegum to iTunes along with the official video for the single, and contributed a song to the iCarly soundtrack.",
       "links": [],
+      "section": [
+        "Tinashe Kachingwe",
+        "Biographical information",
+        "Career"
+      ],
       "text": "At age fourteen, Kachingwe was approached by former pop-star Vitamin C to join an all-girl singing and dancing group. She quickly joined Allie Gonino, Hayley Kiyoko, Marisol Esparza and Kelsey Saunders, later replaced by Lauren Hudson in 2009, to form the Stunners. The group soon signed with Columbia Records and released a single titled Bubblegum to iTunes along with the official video for the single, and contributed a song to the iCarly soundtrack."
     },
     {
       "body": "On March 16, 2011, Kachingwe announced that she was now pursuing a solo career and working on a solo album. Since her departure, the band has separated. She also announced via her official Twitter page that she would be singing the theme song to the CW show Shedding for the Wedding. On April 6, 2011, her debut solo single Chainsaw, produced by The Cararacs, was leaked online.",
       "links": [],
+      "section": [
+        "Tinashe Kachingwe",
+        "Biographical information",
+        "Career"
+      ],
       "text": "On March 16, 2011, Kachingwe announced that she was now pursuing a solo career and working on a solo album. Since her departure, the band has separated. She also announced via her official Twitter page that she would be singing the theme song to the CW show Shedding for the Wedding. On April 6, 2011, her debut solo single Chainsaw, produced by The Cararacs, was leaked online."
     },
     {
       "body": "Kachingwe worked on her debut studio album, Aquarius in 2014, which was released on October 7. She has recorded in Los Angeles, London, Atlanta, New York, and Toronto. Kachingwe has been working with several producers, including\u00a0Clams Casino,\u00a0Ryan Hemsworth,\u00a0Stuart Matthewman,\u00a0DJ Mustard,\u00a0T-Minus,\u00a0Mike Will Made It,\u00a0Boi-1da, Fisticuffs,\u00a0Best Kept Secret, and Ritz Reynolds.",
       "links": [],
+      "section": [
+        "Tinashe Kachingwe",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Kachingwe worked on her debut studio album, Aquarius in 2014, which was released on October 7. She has recorded in Los Angeles, London, Atlanta, New York, and Toronto. Kachingwe has been working with several producers, including\u00a0Clams Casino,\u00a0Ryan Hemsworth,\u00a0Stuart Matthewman,\u00a0DJ Mustard,\u00a0T-Minus,\u00a0Mike Will Made It,\u00a0Boi-1da, Fisticuffs,\u00a0Best Kept Secret, and Ritz Reynolds."
     },
     {
       "body": "On January 13, 2014, Kachingwe released \"2 On\", a song featuring American rapper\u00a0Schoolboy Q\u00a0and produced by\u00a0DJ Mustard, as the first\u00a0single\u00a0from her debut album.\u00a0The song entered the US\u00a0Billboard\u00a0Hot 100\u00a0chart at number 89 and has since peaked at number 24.\u00a0On June 29, 2014, Kachingwe made her national television debut, performing her hit single \"2 On\" at the\u00a0BET Awards\u00a0pre-show and also announced that her anticipated debut album\u00a0would officially be released on October 7, 2014.\u00a0She spoke about the theme of the album and said \"It combines the essence of all my previous work. I've stayed true to who I am. Obviously, there's some progression as I've grown as an artist, and I'm influenced by new things and what not. I think my fans will be really happy with it. I think it really embodies who I am and where I am creatively right now.\"\u00a0The second single, \"Pretend\", featuring Harlem rapper\u00a0ASAP Rocky,\u00a0was released on August 22 and the music video premiered in October.\u00a0\"Aquarius\" debuted at number 17 on\u00a0 theBillboard\u00a0200. She was also featured on Nick Jonas' \"Jealous\" remix, Calvin Harris' \"Dollar Signs\" and Usher's \"Body Language\".",
       "links": [],
+      "section": [
+        "Tinashe Kachingwe",
+        "Biographical information",
+        "Career"
+      ],
       "text": "On January 13, 2014, Kachingwe released \"2 On\", a song featuring American rapper\u00a0Schoolboy Q\u00a0and produced by\u00a0DJ Mustard, as the first\u00a0single\u00a0from her debut album.\u00a0The song entered the US\u00a0Billboard\u00a0Hot 100\u00a0chart at number 89 and has since peaked at number 24.\u00a0On June 29, 2014, Kachingwe made her national television debut, performing her hit single \"2 On\" at the\u00a0BET Awards\u00a0pre-show and also announced that her anticipated debut album\u00a0would officially be released on October 7, 2014.\u00a0She spoke about the theme of the album and said \"It combines the essence of all my previous work. I've stayed true to who I am. Obviously, there's some progression as I've grown as an artist, and I'm influenced by new things and what not. I think my fans will be really happy with it. I think it really embodies who I am and where I am creatively right now.\"\u00a0The second single, \"Pretend\", featuring Harlem rapper\u00a0ASAP Rocky,\u00a0was released on August 22 and the music video premiered in October.\u00a0\"Aquarius\" debuted at number 17 on\u00a0 theBillboard\u00a0200. She was also featured on Nick Jonas' \"Jealous\" remix, Calvin Harris' \"Dollar Signs\" and Usher's \"Body Language\"."
     },
     {
       "body": "In late January 2015, Kachingwe was reported to be working with \"Prescription Songs\" writers and producers and Taylor Parks on her upcoming second studio album. On February 16, Ty Dollar $ign's song Drop That Kitty that features Kachingwe and English pop artist Charli XCX was released.",
       "links": [],
+      "section": [
+        "Tinashe Kachingwe",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In late January 2015, Kachingwe was reported to be working with \"Prescription Songs\" writers and producers and Taylor Parks on her upcoming second studio album. On February 16, Ty Dollar $ign's song Drop That Kitty that features Kachingwe and English pop artist Charli XCX was released."
+    },
+    {
+      "body": "2008: Won a Young Artist Award for Out of Timmy's Head (Best Young Ensemble Performance in a TV Series)",
+      "links": [],
+      "section": [
+        "Tinashe Kachingwe",
+        "Awards"
+      ],
+      "text": "2008: Won a Young Artist Award for Out of Timmy's Head (Best Young Ensemble Performance in a TV Series)"
     }
   ],
   "source": {

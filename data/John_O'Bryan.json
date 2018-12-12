@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -34,12 +38,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Mission Hill (2000 - assistant to producers)",
+          "body": "${link_0} (2000 - assistant to producers)",
           "extra": "(2000 - assistant to producers)",
           "extra_text": "(2000 - assistant to producers)",
-          "links": [],
+          "links": [
+            {
+              "body": "Mission Hill",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0197148",
+                "page": "http://www.imdb.com/find?q=tt0197148"
+              }
+            }
+          ],
           "text": "Mission Hill (2000 - assistant to producers)",
-          "value": "Mission Hill",
+          "value": "${link_0}",
           "value_text": "Mission Hill"
         }
       ]
@@ -48,27 +62,485 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1503357",
+                "page": "http://www.imdb.com/find?q=nm1503357"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/Johnotryin",
+                "page": "https://twitter.com/Johnotryin"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The King of Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_King_of_Omashu",
+            "page": "The_King_of_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "105. \"The King of Omashu\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Scroll",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Scroll",
+            "page": "The_Waterbending_Scroll"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "109. \"The Waterbending Scroll\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "111. \"The Great Divide\""
+    },
+    {
+      "body": "114. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Fortuneteller",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Fortuneteller",
+            "page": "The_Fortuneteller"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "114. \"The Fortuneteller\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "210. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Library",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Library",
+            "page": "The_Library"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "210. \"The Library\""
+    },
+    {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "218. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_King",
+            "page": "The_Earth_King"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "218. \"The Earth King\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Nightmares and Daydreams",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Nightmares_and_Daydreams",
+            "page": "Nightmares_and_Daydreams"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "309. \"Nightmares and Daydreams\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Firebending Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Firebending_Masters",
+            "page": "The_Firebending_Masters"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "313. \"The Firebending Masters\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Story editor"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "Iss. #1. \"${link_0}\" (co-written with ${link_1})",
+      "links": [
+        {
+          "body": "Bee Calm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bee_Calm",
+            "page": "Bee_Calm"
+          }
+        },
+        {
+          "body": "Joshua Hamilton",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Joshua_Hamilton",
+            "page": "Joshua_Hamilton"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #1. \"Bee Calm\" (co-written with Joshua Hamilton)"
+    },
+    {
+      "body": "${link_0} (assistant to producers)",
+      "links": [
+        {
+          "body": "Mission Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0197148",
+            "page": "http://www.imdb.com/find?q=tt0197148"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mission Hill (assistant to producers)"
+    },
+    {
+      "body": "${link_0} (staff writer)",
+      "links": [
+        {
+          "body": "Motorcity",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2392143",
+            "page": "http://www.imdb.com/find?q=tt2392143"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Motorcity (staff writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "The Mullets",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0367371",
+            "page": "http://www.imdb.com/find?q=tt0367371"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Mullets (writer)"
+    },
+    {
+      "body": "${link_0} (production associate)",
+      "links": [
+        {
+          "body": "The Nightmare Room",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0280282",
+            "page": "http://www.imdb.com/find?q=tt0280282"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Nightmare Room (production associate)"
+    },
+    {
+      "body": "${link_0} (2014; short - self)",
+      "links": [
+        {
+          "body": "Baby Fight Night",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3638438",
+            "page": "http://www.imdb.com/find?q=tt3638438"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Baby Fight Night (2014; short - self)"
+    },
+    {
+      "body": "According to the DVD commentary of \"${link_0}\", ${link_1}'s drawing style is that of O'Bryan's.",
+      "links": [
+        {
+          "body": "Lake Laogai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai_(episode)",
+            "page": "Lake_Laogai_(episode)"
+          }
+        },
+        {
+          "body": "Sokka",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sokka",
+            "page": "Sokka"
+          }
+        }
+      ],
+      "section": [
+        "John O'Bryan",
+        "Trivia"
+      ],
+      "text": "According to the DVD commentary of \"Lake Laogai\", Sokka's drawing style is that of O'Bryan's."
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/John_O%27Bryan",
     "file": "avatar.wikia.com/wiki/John_O'Bryan.html",

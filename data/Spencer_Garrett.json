@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "American Playhouse (1989)",
+          "body": "${link_0} (1989)",
           "extra": "(1989)",
           "extra_text": "(1989)",
-          "links": [],
+          "links": [
+            {
+              "body": "American Playhouse",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0176357",
+                "page": "http://www.imdb.com/find?q=tt0176357"
+              }
+            }
+          ],
           "text": "American Playhouse (1989)",
-          "value": "American Playhouse",
+          "value": "${link_0}",
           "value_text": "American Playhouse"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0308208",
+                "page": "http://www.imdb.com/find?q=nm0308208"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Spencer_Garrett",
+                "page": "http://en.wikipedia.org/wiki/Spencer_Garrett"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Spencer-Garrett/108105979209969",
+                "page": "https://www.facebook.com/pages/Spencer-Garrett/108105979209969"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/1SpencerGarrett",
+                "page": "https://twitter.com/1SpencerGarrett"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,9 +162,473 @@
   ],
   "paragraphs": [
     {
-      "body": "A third-generation actor, Garrett was born in Los Angeles, California, to talent agent Richard Heckenkamp and actress Kathleen Nolan.",
-      "links": [],
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Peacekeepers",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Peacekeepers",
+            "page": "Peacekeepers"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Raiko"
+      ],
+      "text": "205. \"Peacekeepers\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Night of a Thousand Stars",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Night_of_a_Thousand_Stars",
+            "page": "Night_of_a_Thousand_Stars"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Raiko"
+      ],
+      "text": "211. \"Night of a Thousand Stars\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Light in the Dark",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Light_in_the_Dark",
+            "page": "Light_in_the_Dark"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Raiko"
+      ],
+      "text": "214. \"Light in the Dark\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Breath of Fresh Air",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Breath_of_Fresh_Air",
+            "page": "A_Breath_of_Fresh_Air"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Raiko"
+      ],
+      "text": "301. \"A Breath of Fresh Air\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Raiko"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "401. \"${link_0}\"",
+      "links": [
+        {
+          "body": "After All These Years",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/After_All_These_Years",
+            "page": "After_All_These_Years"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Raiko"
+      ],
+      "text": "401. \"After All These Years\""
+    },
+    {
+      "body": "403. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Coronation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Coronation",
+            "page": "The_Coronation"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Raiko"
+      ],
+      "text": "403. \"The Coronation\""
+    },
+    {
+      "body": "405. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enemy at the Gates",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enemy_at_the_Gates",
+            "page": "Enemy_at_the_Gates"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Raiko"
+      ],
+      "text": "405. \"Enemy at the Gates\""
+    },
+    {
+      "body": "409. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beyond the Wilds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beyond_the_Wilds",
+            "page": "Beyond_the_Wilds"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Raiko"
+      ],
+      "text": "409. \"Beyond the Wilds\""
+    },
+    {
+      "body": "410. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Operation Beifong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Operation_Beifong",
+            "page": "Operation_Beifong"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Raiko"
+      ],
+      "text": "410. \"Operation Beifong\""
+    },
+    {
+      "body": "411. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Kuvira's Gambit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kuvira%27s_Gambit",
+            "page": "Kuvira%27s_Gambit"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Raiko"
+      ],
+      "text": "411. \"Kuvira's Gambit\""
+    },
+    {
+      "body": "401. \"${link_0}\"",
+      "links": [
+        {
+          "body": "After All These Years",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/After_All_These_Years",
+            "page": "After_All_These_Years"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Male bandit"
+      ],
+      "text": "401. \"After All These Years\""
+    },
+    {
+      "body": "405. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enemy at the Gates",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enemy_at_the_Gates",
+            "page": "Enemy_at_the_Gates"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Lookout"
+      ],
+      "text": "405. \"Enemy at the Gates\""
+    },
+    {
+      "body": "409. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beyond the Wilds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beyond_the_Wilds",
+            "page": "Beyond_the_Wilds"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Guard"
+      ],
+      "text": "409. \"Beyond the Wilds\""
+    },
+    {
+      "body": "411. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Kuvira's Gambit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kuvira%27s_Gambit",
+            "page": "Kuvira%27s_Gambit"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "The Legend of Korra credits",
+        "Soldier"
+      ],
+      "text": "411. \"Kuvira's Gambit\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gary the Rat",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0372062",
+            "page": "http://www.imdb.com/find?q=tt0372062"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gary the Rat"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hitz",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118340",
+            "page": "http://www.imdb.com/find?q=tt0118340"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hitz"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Reasonable Doubts",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101175",
+            "page": "http://www.imdb.com/find?q=tt0101175"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Reasonable Doubts"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Invisible Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0220238",
+            "page": "http://www.imdb.com/find?q=tt0220238"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Invisible Man"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Public Enemies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1152836",
+            "page": "http://www.imdb.com/find?q=tt1152836"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Public Enemies (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Transformers: Revenge of the Fallen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1055369",
+            "page": "http://www.imdb.com/find?q=tt1055369"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Transformers: Revenge of the Fallen (2009)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Air Force One",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118571",
+            "page": "http://www.imdb.com/find?q=tt0118571"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Air Force One (1997)"
+    },
+    {
+      "body": "A third-generation actor, Garrett was born in Los Angeles, California, to talent agent Richard Heckenkamp and actress ${link_0}.",
+      "links": [
+        {
+          "body": "Kathleen Nolan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Kathleen_Nolan",
+            "page": "http://en.wikipedia.org/wiki/Kathleen_Nolan"
+          }
+        }
+      ],
+      "section": [
+        "Spencer Garrett",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "A third-generation actor, Garrett was born in Los Angeles, California, to talent agent Richard Heckenkamp and actress Kathleen Nolan."
+    },
+    {
+      "body": "2010: Won a Newport Beach Film Festival Audience Award for Below the Beltway (Feature)",
+      "links": [],
+      "section": [
+        "Spencer Garrett",
+        "Awards"
+      ],
+      "text": "2010: Won a Newport Beach Film Festival Audience Award for Below the Beltway (Feature)"
     }
   ],
   "source": {

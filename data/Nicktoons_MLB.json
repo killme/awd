@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Console games",
       "target": {
-        "href": "Category_Console_games",
+        "external": false,
+        "href": "/wiki/Category_Console_games",
         "page": "Category_Console_games"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Video games",
       "target": {
-        "href": "Category_Video_games",
+        "external": false,
+        "href": "/wiki/Category_Video_games",
         "page": "Category_Video_games"
       }
     }
@@ -34,12 +38,22 @@
       "key": "Developers",
       "value": [
         {
-          "body": "High Voltage Software, Black Lantern Studios (DS and 3DS versions)",
+          "body": "${link_0}, Black Lantern Studios (DS and 3DS versions)",
           "extra": "(DS and 3DS versions)",
           "extra_text": "(DS and 3DS versions)",
-          "links": [],
+          "links": [
+            {
+              "body": "High Voltage Software",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/High_Voltage_Software",
+                "page": "http://en.wikipedia.org/wiki/High_Voltage_Software"
+              }
+            }
+          ],
           "text": "High Voltage Software, Black Lantern Studios (DS and 3DS versions)",
-          "value": "High Voltage Software, Black Lantern Studios",
+          "value": "${link_0}, Black Lantern Studios",
           "value_text": "High Voltage Software, Black Lantern Studios"
         }
       ]
@@ -48,12 +62,22 @@
       "key": "Publishers",
       "value": [
         {
-          "body": "2K Play",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "2K Play",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/2K_Play",
+                "page": "http://en.wikipedia.org/wiki/2K_Play"
+              }
+            }
+          ],
           "text": "2K Play",
-          "value": "2K Play",
+          "value": "${link_0}",
           "value_text": "2K Play"
         }
       ]
@@ -70,7 +94,8 @@
               "body": "Nickelodeon",
               "key": "${link_0}",
               "target": {
-                "href": "Nickelodeon",
+                "external": false,
+                "href": "/wiki/Nickelodeon",
                 "page": "Nickelodeon"
               }
             }
@@ -121,7 +146,8 @@
               "body": "Nickelodeon",
               "key": "${link_0}",
               "target": {
-                "href": "Nickelodeon",
+                "external": false,
+                "href": "/wiki/Nickelodeon",
                 "page": "Nickelodeon"
               }
             }
@@ -155,7 +181,8 @@
           "body": "video game",
           "key": "${link_0}",
           "target": {
-            "href": "List_of_Avatar_games#Console_games",
+            "external": false,
+            "href": "/wiki/List_of_Avatar_games#Console_games",
             "page": "List_of_Avatar_games"
           }
         },
@@ -163,57 +190,840 @@
           "body": "Nickelodeon",
           "key": "${link_1}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
       ],
+      "section": [
+        "Nicktoons MLB"
+      ],
       "text": "Nicktoons MLB is a crossover baseball video game released for the Xbox 360, Wii, and Nintendo DS. The game is developed by High Voltage Software, along with Black Lantern Studio for the Nintendo DS and 3DS, and published by 2K Play. It features the characters from Nickelodeon and Major League Baseball teams. It was released on September 13, 2011, in North America and October 30, 2011, in Europe. The game was also released on the Nintendo 3DS, first in North America on March 6, 2012, followed by Europe on April 11, 2012."
+    },
+    {
+      "body": "Season*",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Modes"
+      ],
+      "text": "Season*"
+    },
+    {
+      "body": "Tournament",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Modes"
+      ],
+      "text": "Tournament"
+    },
+    {
+      "body": "Pick-Up Game (called \"Single Game\" in 3DS version)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Modes"
+      ],
+      "text": "Pick-Up Game (called \"Single Game\" in 3DS version)"
+    },
+    {
+      "body": "Quick Play*",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Modes"
+      ],
+      "text": "Quick Play*"
+    },
+    {
+      "body": "Showdown",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Modes"
+      ],
+      "text": "Showdown"
+    },
+    {
+      "body": "Homerun Derby**",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Modes"
+      ],
+      "text": "Homerun Derby**"
+    },
+    {
+      "body": "Distance Derby*",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Modes"
+      ],
+      "text": "Distance Derby*"
+    },
+    {
+      "body": "Rock 'N Roll*",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Modes"
+      ],
+      "text": "Rock 'N Roll*"
+    },
+    {
+      "body": "Frosty Freeze Toss*",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Modes"
+      ],
+      "text": "Frosty Freeze Toss*"
     },
     {
       "body": "Notes:\n* 3DS-Only\n** Absent in 3DS version.",
       "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Modes"
+      ],
       "text": "Notes:\n* 3DS-Only\n** Absent in 3DS version."
     },
     {
-      "body": "Aang's Mugshot.",
-      "links": [],
-      "text": "Aang's Mugshot."
+      "body": "${link_0} (${link_1})",
+      "links": [
+        {
+          "body": "Aang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Aang",
+            "page": "Aang"
+          }
+        },
+        {
+          "body": "Avatar: The Last Airbender",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
+            "page": "Avatar__The_Last_Airbender"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Aang (Avatar: The Last Airbender)"
     },
     {
-      "body": "Katara's Mugshot.",
-      "links": [],
-      "text": "Katara's Mugshot."
+      "body": "${link_0} (Avatar: The Last Airbender)",
+      "links": [
+        {
+          "body": "Katara",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Katara",
+            "page": "Katara"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Katara (Avatar: The Last Airbender)"
     },
     {
-      "body": "Toph's Mugshot.",
-      "links": [],
-      "text": "Toph's Mugshot."
+      "body": "${link_0} (Avatar: The Last Airbender)",
+      "links": [
+        {
+          "body": "Toph",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Toph_Beifong",
+            "page": "Toph_Beifong"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Toph (Avatar: The Last Airbender)"
     },
     {
-      "body": "Zuko's Mugshot.",
+      "body": "${link_0} (Avatar: The Last Airbender)",
+      "links": [
+        {
+          "body": "Zuko",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko",
+            "page": "Zuko"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Zuko (Avatar: The Last Airbender)"
+    },
+    {
+      "body": "SpongeBob SquarePants (SpongeBob SquarePants)",
       "links": [],
-      "text": "Zuko's Mugshot."
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "SpongeBob SquarePants (SpongeBob SquarePants)"
+    },
+    {
+      "body": "Patrick Star (SpongeBob SquarePants)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Patrick Star (SpongeBob SquarePants)"
+    },
+    {
+      "body": "Sandy Cheeks (SpongeBob SquarePants)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Sandy Cheeks (SpongeBob SquarePants)"
+    },
+    {
+      "body": "The Flying Dutchman (SpongeBob SquarePants)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "The Flying Dutchman (SpongeBob SquarePants)"
+    },
+    {
+      "body": "Larry the Lobster (SpongeBob SquarePants)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Larry the Lobster (SpongeBob SquarePants)"
+    },
+    {
+      "body": "Dudley Puppy (T.U.F.F. Puppy)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Dudley Puppy (T.U.F.F. Puppy)"
+    },
+    {
+      "body": "Kitty Katswell (T.U.F.F. Puppy)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Kitty Katswell (T.U.F.F. Puppy)"
+    },
+    {
+      "body": "Jimmy Neutron (Jimmy Neutron)*",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Jimmy Neutron (Jimmy Neutron)*"
+    },
+    {
+      "body": "Sheen Estevez (Planet Sheen & Jimmy Neutron)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Sheen Estevez (Planet Sheen & Jimmy Neutron)"
+    },
+    {
+      "body": "Mr. Nesmith (Planet Sheen)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Mr. Nesmith (Planet Sheen)"
+    },
+    {
+      "body": "Ultra Lord (Planet Sheen & Jimmy Neutron)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Ultra Lord (Planet Sheen & Jimmy Neutron)"
+    },
+    {
+      "body": "Fanboy (Fanboy and Chum Chum)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Fanboy (Fanboy and Chum Chum)"
+    },
+    {
+      "body": "Chum Chum (Fanboy and Chum Chum)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Chum Chum (Fanboy and Chum Chum)"
+    },
+    {
+      "body": "Danny Phantom (Danny Phantom)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Danny Phantom (Danny Phantom)"
+    },
+    {
+      "body": "Zim (Invader Zim)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Zim (Invader Zim)"
+    },
+    {
+      "body": "Gaz Membrane (Invader Zim)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Gaz Membrane (Invader Zim)"
+    },
+    {
+      "body": "Ren H\u00f6ek (The Ren & Stimpy Show)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Ren H\u00f6ek (The Ren & Stimpy Show)"
+    },
+    {
+      "body": "Stimpson J. Cat (The Ren & Stimpy Show)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Stimpson J. Cat (The Ren & Stimpy Show)"
+    },
+    {
+      "body": "Powder Toast Man (The Ren & Stimpy Show)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Powder Toast Man (The Ren & Stimpy Show)"
+    },
+    {
+      "body": "The Gilded Yak (The Ren & Stimpy Show)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "The Gilded Yak (The Ren & Stimpy Show)"
+    },
+    {
+      "body": "Hiro Mightypaw (Monkey Quest)*",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
+      "text": "Hiro Mightypaw (Monkey Quest)*"
     },
     {
       "body": "Notes:\n* 3DS-Only",
       "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Playable characters"
+      ],
       "text": "Notes:\n* 3DS-Only"
     },
     {
-      "body": "The Air Temple Courtyard field.",
+      "body": "${link_0} Courtyard (Avatar: The Last Airbender)",
+      "links": [
+        {
+          "body": "Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Air_temple",
+            "page": "Air_temple"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "Nicktoons stadium"
+      ],
+      "text": "Air Temple Courtyard (Avatar: The Last Airbender)"
+    },
+    {
+      "body": "The Poseidome (SpongeBob SquarePants)",
       "links": [],
-      "text": "The Air Temple Courtyard field."
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "Nicktoons stadium"
+      ],
+      "text": "The Poseidome (SpongeBob SquarePants)"
+    },
+    {
+      "body": "Frosty Freeze Field (Fanboy and Chum Chum)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "Nicktoons stadium"
+      ],
+      "text": "Frosty Freeze Field (Fanboy and Chum Chum)"
+    },
+    {
+      "body": "Yolkus Stadium (Jimmy Neutron)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "Nicktoons stadium"
+      ],
+      "text": "Yolkus Stadium (Jimmy Neutron)"
+    },
+    {
+      "body": "Irken Field (Invader Zim)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "Nicktoons stadium"
+      ],
+      "text": "Irken Field (Invader Zim)"
+    },
+    {
+      "body": "Ghost Zone Field (Danny Phantom)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "Nicktoons stadium"
+      ],
+      "text": "Ghost Zone Field (Danny Phantom)"
+    },
+    {
+      "body": "Ook Park (Monkey Quest)*",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "Nicktoons stadium"
+      ],
+      "text": "Ook Park (Monkey Quest)*"
+    },
+    {
+      "body": "AT&T Park (San Francisco Giants)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "MLB stadiums"
+      ],
+      "text": "AT&T Park (San Francisco Giants)"
+    },
+    {
+      "body": "Chase Field (Arizona Diamondbacks)*",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "MLB stadiums"
+      ],
+      "text": "Chase Field (Arizona Diamondbacks)*"
+    },
+    {
+      "body": "Dodger Stadium (Los Angeles Dodgers)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "MLB stadiums"
+      ],
+      "text": "Dodger Stadium (Los Angeles Dodgers)"
+    },
+    {
+      "body": "Fenway Park (Boston Red Sox)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "MLB stadiums"
+      ],
+      "text": "Fenway Park (Boston Red Sox)"
+    },
+    {
+      "body": "Great American Ballpark (Cincinnati Reds)*",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "MLB stadiums"
+      ],
+      "text": "Great American Ballpark (Cincinnati Reds)*"
+    },
+    {
+      "body": "Rangers Ballpark in Arlington (Texas Rangers)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "MLB stadiums"
+      ],
+      "text": "Rangers Ballpark in Arlington (Texas Rangers)"
+    },
+    {
+      "body": "Wrigley Field (Chicago Cubs)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "MLB stadiums"
+      ],
+      "text": "Wrigley Field (Chicago Cubs)"
+    },
+    {
+      "body": "Yankee Stadium (New York Yankees)",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "MLB stadiums"
+      ],
+      "text": "Yankee Stadium (New York Yankees)"
     },
     {
       "body": "Notes:\n* 3DS-Only",
       "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Stadiums",
+        "MLB stadiums"
+      ],
       "text": "Notes:\n* 3DS-Only"
     },
     {
-      "body": "Aang's official artwork, which appears on the game's front cover.",
+      "body": "${link_0} can be seen flying around the background of the Air Temple Courtyard.",
+      "links": [
+        {
+          "body": "Appa",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa",
+            "page": "Appa"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "Trivia"
+      ],
+      "text": "Appa can be seen flying around the background of the Air Temple Courtyard."
+    },
+    {
+      "body": "Appa, ${link_0}, ${link_1}, and ${link_2} all appear on baseball cards that fans can collect after completing certain objectives in the game. They also all cameo on a loading screen.",
+      "links": [
+        {
+          "body": "Momo",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Momo",
+            "page": "Momo"
+          }
+        },
+        {
+          "body": "Sokka",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sokka",
+            "page": "Sokka"
+          }
+        },
+        {
+          "body": "Iroh",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Iroh",
+            "page": "Iroh"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "Trivia"
+      ],
+      "text": "Appa, Momo, Sokka, and Iroh all appear on baseball cards that fans can collect after completing certain objectives in the game. They also all cameo on a loading screen."
+    },
+    {
+      "body": "All of the playable Avatar characters cover the ball in their respective element when they pitch or perform a power hit, namely air for Aang, water for Katara, earth for Toph, and fire for Zuko.\n Additionally, all of these characters use bending in their intros, with the exception of Toph.",
       "links": [],
-      "text": "Aang's official artwork, which appears on the game's front cover."
+      "section": [
+        "Nicktoons MLB",
+        "Trivia"
+      ],
+      "text": "All of the playable Avatar characters cover the ball in their respective element when they pitch or perform a power hit, namely air for Aang, water for Katara, earth for Toph, and fire for Zuko.\n Additionally, all of these characters use bending in their intros, with the exception of Toph."
+    },
+    {
+      "body": "Additionally, all of these characters use bending in their intros, with the exception of Toph.",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Trivia"
+      ],
+      "text": "Additionally, all of these characters use bending in their intros, with the exception of Toph."
+    },
+    {
+      "body": "Aang\u00a0is voiced by Benjamin Helms, instead of ${link_0} who voices him in ${link_1}.\n Interestingly, Dudley Puppy's new voice actor in this game is ${link_2}, the voice of Sokka.",
+      "links": [
+        {
+          "body": "Zach Tyler Eisen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zach_Tyler_Eisen",
+            "page": "Zach_Tyler_Eisen"
+          }
+        },
+        {
+          "body": "Avatar: The Last Airbender",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
+            "page": "Avatar__The_Last_Airbender"
+          }
+        },
+        {
+          "body": "Jack DeSena",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jack_DeSena",
+            "page": "Jack_DeSena"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "Trivia"
+      ],
+      "text": "Aang\u00a0is voiced by Benjamin Helms, instead of Zach Tyler Eisen who voices him in Avatar: The Last Airbender.\n Interestingly, Dudley Puppy's new voice actor in this game is Jack DeSena, the voice of Sokka."
+    },
+    {
+      "body": "Interestingly, Dudley Puppy's new voice actor in this game is ${link_2}, the voice of Sokka.",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Trivia"
+      ],
+      "text": "Interestingly, Dudley Puppy's new voice actor in this game is ${link_2}, the voice of Sokka."
+    },
+    {
+      "body": "In the character select, Zuko is referred to as \"Prince Zuko\".",
+      "links": [],
+      "section": [
+        "Nicktoons MLB",
+        "Trivia"
+      ],
+      "text": "In the character select, Zuko is referred to as \"Prince Zuko\"."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "List of Avatar games",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar_games",
+            "page": "List_of_Avatar_games"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "See also"
+      ],
+      "text": "List of Avatar games"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Nick Racers Revolution 3D (game)",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Nick_Racers_Revolution_3D",
+            "page": "Nick_Racers_Revolution_3D"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "See also"
+      ],
+      "text": "Nick Racers Revolution 3D (game)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "IGN: Nicktoons MLB (Nintendo 3DS)",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://ds.ign.com/objects/124/124670",
+            "page": "http://ds.ign.com/objects/124/124670"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "External links"
+      ],
+      "text": "IGN: Nicktoons MLB (Nintendo 3DS)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "IGN: Nicktoons Baseball (Xbox 360)",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://xbox360.ign.com/objects/107/107286",
+            "page": "http://xbox360.ign.com/objects/107/107286"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "External links"
+      ],
+      "text": "IGN: Nicktoons Baseball (Xbox 360)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Nicktoons MLB Wiki",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://nicktoonsmlb.wikia.com/",
+            "page": "http://nicktoonsmlb.wikia.com/"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "External links"
+      ],
+      "text": "Nicktoons MLB Wiki"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Nintendo Website",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.nintendo.com/games/detail/_loh28jvK_e9UW7k_--k9zN4VpiE5gmS",
+            "page": "http://www.nintendo.com/games/detail/_loh28jvK_e9UW7k_--k9zN4VpiE5gmS"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "External links"
+      ],
+      "text": "Nintendo Website"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wikipedia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Nicktoons_MLB",
+            "page": "http://en.wikipedia.org/wiki/Nicktoons_MLB"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "External links"
+      ],
+      "text": "Wikipedia"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ToonZone.Net",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.toonzone.net/news/articles/38466/pr-final\u2014nicktoons-mbl-video-game-roster-announced",
+            "page": "http://www.toonzone.net/news/articles/38466/pr-final\u2014nicktoons-mbl-video-game-roster-announced"
+          }
+        }
+      ],
+      "section": [
+        "Nicktoons MLB",
+        "External links"
+      ],
+      "text": "ToonZone.Net"
     }
   ],
   "source": {

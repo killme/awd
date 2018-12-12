@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film staff",
       "target": {
-        "href": "Category_Film_staff",
+        "external": false,
+        "href": "/wiki/Category_Film_staff",
         "page": "Category_Film_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Battlestar Galactica (1978 - editorial assistant: miniature and optical effects unit)",
+          "body": "${link_0} (1978 - editorial assistant: miniature and optical effects unit)",
           "extra": "(1978 - editorial assistant: miniature and optical effects unit)",
           "extra_text": "(1978 - editorial assistant: miniature and optical effects unit)",
-          "links": [],
+          "links": [
+            {
+              "body": "Battlestar Galactica",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0077215",
+                "page": "http://www.imdb.com/find?q=tt0077215"
+              }
+            }
+          ],
           "text": "Battlestar Galactica (1978 - editorial assistant: miniature and optical effects unit)",
-          "value": "Battlestar Galactica",
+          "value": "${link_0}",
           "value_text": "Battlestar Galactica"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0119322",
+                "page": "http://www.imdb.com/find?q=nm0119322"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Conrad_Buff",
+                "page": "http://en.wikipedia.org/wiki/Conrad_Buff"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,9 +124,350 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0} (2012 - editor)",
+      "links": [
+        {
+          "body": "Snow White and the Huntsman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1735898",
+            "page": "http://www.imdb.com/find?q=tt1735898"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Snow White and the Huntsman (2012 - editor)"
+    },
+    {
+      "body": "${link_0} (2008 - editor)",
+      "links": [
+        {
+          "body": "The Happening",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0949731",
+            "page": "http://www.imdb.com/find?q=tt0949731"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Happening (2008 - editor)"
+    },
+    {
+      "body": "${link_0} (2007 - additional editor)",
+      "links": [
+        {
+          "body": "The Seeker: The Dark Is Rising",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0484562",
+            "page": "http://www.imdb.com/find?q=tt0484562"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Seeker: The Dark Is Rising (2007 - additional editor)"
+    },
+    {
+      "body": "${link_0} (2004 - editor)",
+      "links": [
+        {
+          "body": "King Arthur",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0349683",
+            "page": "http://www.imdb.com/find?q=tt0349683"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "King Arthur (2004 - editor)"
+    },
+    {
+      "body": "${link_0} (2000 - editor)",
+      "links": [
+        {
+          "body": "Thirteen Days",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0146309",
+            "page": "http://www.imdb.com/find?q=tt0146309"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Thirteen Days (2000 - editor)"
+    },
+    {
+      "body": "${link_0} (1995 - editor)",
+      "links": [
+        {
+          "body": "Species",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0114508",
+            "page": "http://www.imdb.com/find?q=tt0114508"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Species (1995 - editor)"
+    },
+    {
+      "body": "${link_0} (1991 - additional editor)",
+      "links": [
+        {
+          "body": "The Last Boy Scout",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0102266",
+            "page": "http://www.imdb.com/find?q=tt0102266"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Last Boy Scout (1991 - additional editor)"
+    },
+    {
+      "body": "${link_0} (1990 - editor)",
+      "links": [
+        {
+          "body": "Side Out",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0100613",
+            "page": "http://www.imdb.com/find?q=tt0100613"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Side Out (1990 - editor)"
+    },
+    {
+      "body": "${link_0} (1984 - visual effects editor: EEG)",
+      "links": [
+        {
+          "body": "Ghostbusters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0087332",
+            "page": "http://www.imdb.com/find?q=tt0087332"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ghostbusters (1984 - visual effects editor: EEG)"
+    },
+    {
+      "body": "${link_0} (1983 - assistant film editor)",
+      "links": [
+        {
+          "body": "Star Wars: Episode VI - Return of the Jedi",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086190",
+            "page": "http://www.imdb.com/find?q=tt0086190"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Wars: Episode VI - Return of the Jedi (1983 - assistant film editor)"
+    },
+    {
+      "body": "${link_0} (1983 - editor)",
+      "links": [
+        {
+          "body": "Classic Creatures: Return of the Jedi",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0400304",
+            "page": "http://www.imdb.com/find?q=tt0400304"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Classic Creatures: Return of the Jedi (1983 - editor)"
+    },
+    {
+      "body": "${link_0} (1982 - visual effects editorial supervisor: ILM)",
+      "links": [
+        {
+          "body": "Poltergeist",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0084516",
+            "page": "http://www.imdb.com/find?q=tt0084516"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Poltergeist (1982 - visual effects editorial supervisor: ILM)"
+    },
+    {
+      "body": "${link_0} (1982 - effects editorial supervisor: ILM)",
+      "links": [
+        {
+          "body": "E.T. the Extra-Terrestrial",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0083866",
+            "page": "http://www.imdb.com/find?q=tt0083866"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "E.T. the Extra-Terrestrial (1982 - effects editorial supervisor: ILM)"
+    },
+    {
+      "body": "${link_0} (1981 - visual effects editorial supervisor: ILM)",
+      "links": [
+        {
+          "body": "Raiders of the Lost Ark",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0082971",
+            "page": "http://www.imdb.com/find?q=tt0082971"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Raiders of the Lost Ark (1981 - visual effects editorial supervisor: ILM)"
+    },
+    {
+      "body": "${link_0} (1980 - visual effects editorial supervisor: miniature and optical effects unit)",
+      "links": [
+        {
+          "body": "Star Wars: Episode V - The Empire Strikes Back",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0080684",
+            "page": "http://www.imdb.com/find?q=tt0080684"
+          }
+        }
+      ],
+      "section": [
+        "Conrad Buff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Wars: Episode V - The Empire Strikes Back (1980 - visual effects editorial supervisor: miniature and optical effects unit)"
+    },
+    {
       "body": "Buff's full name is Conrad Buff IV. He was born to the architect Conrad Buff III and is the grandson of the painter Conrad Buff II. He attended Pasadena City College for two years before joining the US Navy.",
       "links": [],
+      "section": [
+        "Conrad Buff",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Buff's full name is Conrad Buff IV. He was born to the architect Conrad Buff III and is the grandson of the painter Conrad Buff II. He attended Pasadena City College for two years before joining the US Navy."
+    },
+    {
+      "body": "2001: Won a Golden Satellite Award for Thirteen Days (Best Film Editing)",
+      "links": [],
+      "section": [
+        "Conrad Buff",
+        "Awards"
+      ],
+      "text": "2001: Won a Golden Satellite Award for Thirteen Days (Best Film Editing)"
+    },
+    {
+      "body": "1998: Won an Academy Award for Titanic (Best Film Editing)",
+      "links": [],
+      "section": [
+        "Conrad Buff",
+        "Awards"
+      ],
+      "text": "1998: Won an Academy Award for Titanic (Best Film Editing)"
+    },
+    {
+      "body": "1998: Won an Eddie Award for Titanic (Best Edited Feature Film)",
+      "links": [],
+      "section": [
+        "Conrad Buff",
+        "Awards"
+      ],
+      "text": "1998: Won an Eddie Award for Titanic (Best Edited Feature Film)"
+    },
+    {
+      "body": "1998: Won a Golden Satellite Award for Titanic (Outstanding Film Editing)",
+      "links": [],
+      "section": [
+        "Conrad Buff",
+        "Awards"
+      ],
+      "text": "1998: Won a Golden Satellite Award for Titanic (Outstanding Film Editing)"
     }
   ],
   "source": {

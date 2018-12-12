@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Hotel Mario (1994; video game)",
+          "body": "${link_0} (1994; video game)",
           "extra": "(1994; video game)",
           "extra_text": "(1994; video game)",
-          "links": [],
+          "links": [
+            {
+              "body": "Hotel Mario",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1571573",
+                "page": "http://www.imdb.com/find?q=tt1571573"
+              }
+            }
+          ],
           "text": "Hotel Mario (1994; video game)",
-          "value": "Hotel Mario",
+          "value": "${link_0}",
           "value_text": "Hotel Mario"
         }
       ]
@@ -41,63 +54,464 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1246394",
+                "page": "http://www.imdb.com/find?q=nm1246394"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/marc.graue.3",
+                "page": "https://www.facebook.com/marc.graue.3"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/107706857005015601582/posts",
+                "page": "https://plus.google.com/107706857005015601582/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.fixinthemix.com/",
+                "page": "http://www.fixinthemix.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/marcgraue",
+                "page": "https://twitter.com/marcgraue"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/mgrsburbank",
+                "page": "http://www.youtube.com/user/mgrsburbank"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Avatar: The Last Airbender credits",
+        "Xin Fu"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Avatar: The Last Airbender credits",
+        "Xin Fu"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "218. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_King",
+            "page": "The_Earth_King"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Avatar: The Last Airbender credits",
+        "Xin Fu"
+      ],
+      "text": "218. \"The Earth King\""
+    },
+    {
+      "body": "219. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guru",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guru",
+            "page": "The_Guru"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Avatar: The Last Airbender credits",
+        "Xin Fu"
+      ],
+      "text": "219. \"The Guru\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bugtime Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0848560",
+            "page": "http://www.imdb.com/find?q=tt0848560"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bugtime Adventures"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312109",
+            "page": "http://www.imdb.com/find?q=tt0312109"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Free Radio",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1056319",
+            "page": "http://www.imdb.com/find?q=tt1056319"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Free Radio"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Random! Cartoons",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0890874",
+            "page": "http://www.imdb.com/find?q=tt0890874"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Random! Cartoons"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Enemy Territory: Quake Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0874889",
+            "page": "http://www.imdb.com/find?q=tt0874889"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Enemy Territory: Quake Wars (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Gothic 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0891492",
+            "page": "http://www.imdb.com/find?q=tt0891492"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Gothic 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Hotel Mario",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1571573",
+            "page": "http://www.imdb.com/find?q=tt1571573"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Hotel Mario (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Night at the Museum: Battle of the Smithsonian",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1425242",
+            "page": "http://www.imdb.com/find?q=tt1425242"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Night at the Museum: Battle of the Smithsonian (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ratchet & Clank Future: Tools of Destruction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1018825",
+            "page": "http://www.imdb.com/find?q=tt1018825"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ratchet & Clank Future: Tools of Destruction (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837564",
+            "page": "http://www.imdb.com/find?q=tt0837564"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Rise of the Argonauts",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1277732",
+            "page": "http://www.imdb.com/find?q=tt1277732"
+          }
+        }
+      ],
+      "section": [
+        "Marc Graue",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Rise of the Argonauts (video game)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Marc_Graue",
     "file": "avatar.wikia.com/wiki/Marc_Graue.html",

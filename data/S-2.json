@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "ABC Afterschool Specials (1975)",
+          "body": "${link_0} (1975)",
           "extra": "(1975)",
           "extra_text": "(1975)",
-          "links": [],
+          "links": [
+            {
+              "body": "ABC Afterschool Specials",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0202179",
+                "page": "http://www.imdb.com/find?q=tt0202179"
+              }
+            }
+          ],
           "text": "ABC Afterschool Specials (1975)",
-          "value": "ABC Afterschool Specials",
+          "value": "${link_0}",
           "value_text": "ABC Afterschool Specials"
         }
       ]
@@ -69,12 +82,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0430172",
+                "page": "http://www.imdb.com/find?q=nm0430172"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -82,13 +105,621 @@
   ],
   "paragraphs": [
     {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Warriors of Kyoshi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Warriors_of_Kyoshi",
+            "page": "The_Warriors_of_Kyoshi"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "104. \"The Warriors of Kyoshi\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Babylon 5",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105946",
+            "page": "http://www.imdb.com/find?q=tt0105946"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Babylon 5"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Caroline in the City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111910",
+            "page": "http://www.imdb.com/find?q=tt0111910"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Caroline in the City"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Days of Our Lives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0058796",
+            "page": "http://www.imdb.com/find?q=tt0058796"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Days of Our Lives"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Designing Women",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090418",
+            "page": "http://www.imdb.com/find?q=tt0090418"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Designing Women"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Doogie Howser, M.D.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096569",
+            "page": "http://www.imdb.com/find?q=tt0096569"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Doogie Howser, M.D."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dragnet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096570",
+            "page": "http://www.imdb.com/find?q=tt0096570"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dragnet"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dream On",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098780",
+            "page": "http://www.imdb.com/find?q=tt0098780"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dream On"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Empty Nest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094455",
+            "page": "http://www.imdb.com/find?q=tt0094455"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Empty Nest"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hill Street Blues",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0081873",
+            "page": "http://www.imdb.com/find?q=tt0081873"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hill Street Blues"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Homefront",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101121",
+            "page": "http://www.imdb.com/find?q=tt0101121"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Homefront"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hunter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086734",
+            "page": "http://www.imdb.com/find?q=tt0086734"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hunter"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mama's Family",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0085050",
+            "page": "http://www.imdb.com/find?q=tt0085050"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mama's Family"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mr. Belvedere",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0088576",
+            "page": "http://www.imdb.com/find?q=tt0088576"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mr. Belvedere"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Night Court",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086770",
+            "page": "http://www.imdb.com/find?q=tt0086770"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Night Court"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Perfect Strangers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090501",
+            "page": "http://www.imdb.com/find?q=tt0090501"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Perfect Strangers"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Providence",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0177991",
+            "page": "http://www.imdb.com/find?q=tt0177991"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Providence"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Scarecrow and Mrs. King",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0085088",
+            "page": "http://www.imdb.com/find?q=tt0085088"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Scarecrow and Mrs. King"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Seinfeld",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098904",
+            "page": "http://www.imdb.com/find?q=tt0098904"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Seinfeld"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sister, Sister",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108927",
+            "page": "http://www.imdb.com/find?q=tt0108927"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sister, Sister"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sisters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101199",
+            "page": "http://www.imdb.com/find?q=tt0101199"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sisters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The A-Team",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0084967",
+            "page": "http://www.imdb.com/find?q=tt0084967"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The A-Team"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Loop",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460655",
+            "page": "http://www.imdb.com/find?q=tt0460655"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Loop"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The New Mike Hammer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086760",
+            "page": "http://www.imdb.com/find?q=tt0086760"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The New Mike Hammer"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Real Adventures of Jonny Quest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115226",
+            "page": "http://www.imdb.com/find?q=tt0115226"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Real Adventures of Jonny Quest"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Transformers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086817",
+            "page": "http://www.imdb.com/find?q=tt0086817"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Transformers"
+    },
+    {
+      "body": "${link_0} (1995; short)",
+      "links": [
+        {
+          "body": "Covenant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0129015",
+            "page": "http://www.imdb.com/find?q=tt0129015"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Covenant (1995; short)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "Perfect Victims",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0095851",
+            "page": "http://www.imdb.com/find?q=tt0095851"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Perfect Victims (1989)"
+    },
+    {
+      "body": "${link_0} (1985)",
+      "links": [
+        {
+          "body": "Delta Pi",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0089012",
+            "page": "http://www.imdb.com/find?q=tt0089012"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Delta Pi (1985)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Soldier of Fortune II: Double Helix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0295621",
+            "page": "http://www.imdb.com/find?q=tt0295621"
+          }
+        }
+      ],
+      "section": [
+        "S. Marc Jordan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Soldier of Fortune II: Double Helix (video game)"
+    },
+    {
       "body": "Jordan worked as a professional performer for over sixty years. By age sixteen, he had performed in Grand Opera and hosted his own radio show; he would later acquire roles in many Broadway shows, including Funny Girl, Kiss Me Kate, Guys and Dolls, and Titanic. He has also landed roles in a number of television shows, including Night Court and Days of Our Lives, as well as in animated programs such as The Real Adventures of Jonny Quest.",
       "links": [],
+      "section": [
+        "S. Marc Jordan",
+        "Biographical information"
+      ],
       "text": "Jordan worked as a professional performer for over sixty years. By age sixteen, he had performed in Grand Opera and hosted his own radio show; he would later acquire roles in many Broadway shows, including Funny Girl, Kiss Me Kate, Guys and Dolls, and Titanic. He has also landed roles in a number of television shows, including Night Court and Days of Our Lives, as well as in animated programs such as The Real Adventures of Jonny Quest."
     },
     {
       "body": "Jordan joined the Actors' Equity Association in 1957 and was a member of the National Council and Western Regional Board for 36 years, serving on more than sixty committees in his lifetime.",
       "links": [],
+      "section": [
+        "S. Marc Jordan",
+        "Biographical information"
+      ],
       "text": "Jordan joined the Actors' Equity Association in 1957 and was a member of the National Council and Western Regional Board for 36 years, serving on more than sixty committees in his lifetime."
     }
   ],

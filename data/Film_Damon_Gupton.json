@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Law & Order (1999)",
+          "body": "${link_0} (1999)",
           "extra": "(1999)",
           "extra_text": "(1999)",
-          "links": [],
+          "links": [
+            {
+              "body": "Law & Order",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0098844",
+                "page": "http://www.imdb.com/find?q=tt0098844"
+              }
+            }
+          ],
           "text": "Law & Order (1999)",
-          "value": "Law & Order",
+          "value": "${link_0}",
           "value_text": "Law & Order"
         }
       ]
@@ -41,30 +54,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0348515",
+                "page": "http://www.imdb.com/find?q=nm0348515"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/damon.gupton",
+                "page": "https://www.facebook.com/damon.gupton"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Kansas City Symphony",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Kansas City Symphony",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.kcsymphony.org/AboutUs/MeettheOrchestra/damon_gupton.jsp",
+                "page": "http://www.kcsymphony.org/AboutUs/MeettheOrchestra/damon_gupton.jsp"
+              }
+            }
+          ],
           "text": "Kansas City Symphony",
-          "value": "Kansas City Symphony",
+          "value": "${link_0}",
           "value_text": "Kansas City Symphony"
         }
       ]
@@ -72,8 +115,212 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Conviction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0494186",
+            "page": "http://www.imdb.com/find?q=tt0494186"
+          }
+        }
+      ],
+      "section": [
+        "Damon Gupton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Conviction"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Deadline",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247086",
+            "page": "http://www.imdb.com/find?q=tt0247086"
+          }
+        }
+      ],
+      "section": [
+        "Damon Gupton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Deadline"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098844",
+            "page": "http://www.imdb.com/find?q=tt0098844"
+          }
+        }
+      ],
+      "section": [
+        "Damon Gupton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order: Criminal Intent",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275140",
+            "page": "http://www.imdb.com/find?q=tt0275140"
+          }
+        }
+      ],
+      "section": [
+        "Damon Gupton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order: Criminal Intent"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Prime Suspect",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1582456",
+            "page": "http://www.imdb.com/find?q=tt1582456"
+          }
+        }
+      ],
+      "section": [
+        "Damon Gupton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Prime Suspect"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Rake",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2515462",
+            "page": "http://www.imdb.com/find?q=tt2515462"
+          }
+        }
+      ],
+      "section": [
+        "Damon Gupton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Rake"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Loretta Claiborne Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0232002",
+            "page": "http://www.imdb.com/find?q=tt0232002"
+          }
+        }
+      ],
+      "section": [
+        "Damon Gupton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Loretta Claiborne Story (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Newsroom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1870479",
+            "page": "http://www.imdb.com/find?q=tt1870479"
+          }
+        }
+      ],
+      "section": [
+        "Damon Gupton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Newsroom"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "This is 40",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1758830",
+            "page": "http://www.imdb.com/find?q=tt1758830"
+          }
+        }
+      ],
+      "section": [
+        "Damon Gupton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "This is 40 (2012)"
+    },
+    {
+      "body": "${link_0} (2006; video)",
+      "links": [
+        {
+          "body": "Helen at Risk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1536418",
+            "page": "http://www.imdb.com/find?q=tt1536418"
+          }
+        }
+      ],
+      "section": [
+        "Damon Gupton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Helen at Risk (2006; video)"
+    },
+    {
       "body": "Gupton assumed the position of Assistant Conductor with the Kansas City Symphony for the 2006-2007 season. He received his Bachelor of Music Education degree from the University of Michigan and went on to earn his diploma from The Drama Division of the Juilliard School in New York.",
       "links": [],
+      "section": [
+        "Damon Gupton",
+        "Biographical information"
+      ],
       "text": "Gupton assumed the position of Assistant Conductor with the Kansas City Symphony for the 2006-2007 season. He received his Bachelor of Music Education degree from the University of Michigan and went on to earn his diploma from The Drama Division of the Juilliard School in New York."
     }
   ],

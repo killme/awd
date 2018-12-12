@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Popeye Doyle (1986; TV movie)",
+          "body": "${link_0} (1986; TV movie)",
           "extra": "(1986; TV movie)",
           "extra_text": "(1986; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Popeye Doyle",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0091780",
+                "page": "http://www.imdb.com/find?q=tt0091780"
+              }
+            }
+          ],
           "text": "Popeye Doyle (1986; TV movie)",
-          "value": "Popeye Doyle",
+          "value": "${link_0}",
           "value_text": "Popeye Doyle"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0799777",
+                "page": "http://www.imdb.com/find?q=nm0799777"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/J.K._Simmons",
+                "page": "http://en.wikipedia.org/wiki/J.K._Simmons"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -97,32 +130,781 @@
           "body": "The Spirit of Competition",
           "key": "${link_0}",
           "target": {
-            "href": "The_Spirit_of_Competition",
+            "external": false,
+            "href": "/wiki/The_Spirit_of_Competition",
             "page": "The_Spirit_of_Competition"
           }
         }
       ],
+      "section": [
+        "J. K. Simmons",
+        "The Legend of Korra credits",
+        "Tenzin"
+      ],
       "text": "Simmons was credited for voicing Tenzin in \"The Spirit of Competition\" even though he did not appear in the episode."
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Endgame",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Endgame",
+            "page": "Endgame"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "The Legend of Korra credits",
+        "Feathered hat man"
+      ],
+      "text": "112. \"Endgame\""
+    },
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Leaf in the Wind",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Leaf_in_the_Wind",
+            "page": "A_Leaf_in_the_Wind"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "102. \"A Leaf in the Wind\""
+    },
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Aftermath",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Aftermath",
+            "page": "The_Aftermath"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "107. \"The Aftermath\""
+    },
+    {
+      "body": "108. \"${link_0}\"",
+      "links": [
+        {
+          "body": "When Extremes Meet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/When_Extremes_Meet",
+            "page": "When_Extremes_Meet"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "108. \"When Extremes Meet\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Turning the Tides",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "110. \"Turning the Tides\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebel Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
+            "page": "Rebel_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "201. \"Rebel Spirit\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Lights",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Lights",
+            "page": "The_Southern_Lights"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "202. \"The Southern Lights\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Generator Rex",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1636691",
+            "page": "http://www.imdb.com/find?q=tt1636691"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Generator Rex"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Growing Up Fisher",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2698984",
+            "page": "http://www.imdb.com/find?q=tt2698984"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Growing Up Fisher"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kim Possible",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0278866",
+            "page": "http://www.imdb.com/find?q=tt0278866"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kim Possible"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098844",
+            "page": "http://www.imdb.com/find?q=tt0098844"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Oz",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118421",
+            "page": "http://www.imdb.com/find?q=tt0118421"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Oz"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Phineas and Ferb",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0852863",
+            "page": "http://www.imdb.com/find?q=tt0852863"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Phineas and Ferb"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Popeye Doyle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0091780",
+            "page": "http://www.imdb.com/find?q=tt0091780"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Popeye Doyle"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Avengers: Earth's Mightiest Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1626038",
+            "page": "http://www.imdb.com/find?q=tt1626038"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Avengers: Earth's Mightiest Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Closer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458253",
+            "page": "http://www.imdb.com/find?q=tt0458253"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Closer"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ultimate Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1722512",
+            "page": "http://www.imdb.com/find?q=tt1722512"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ultimate Spider-Man"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gravity Falls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1865718",
+            "page": "http://www.imdb.com/find?q=tt1865718"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gravity Falls"
+    },
+    {
+      "body": "${link_0} (2016)",
+      "links": [
+        {
+          "body": "Kung Fu Panda 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2267968",
+            "page": "http://www.imdb.com/find?q=tt2267968"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kung Fu Panda 3 (2016)"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Whiplash",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2582802",
+            "page": "http://www.imdb.com/find?q=tt2582802"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Whiplash (2014)"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Break Point",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3062742",
+            "page": "http://www.imdb.com/find?q=tt3062742"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Break Point (2014)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Megamind",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1001526",
+            "page": "http://www.imdb.com/find?q=tt1001526"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Megamind (2010)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Juno",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0467406",
+            "page": "http://www.imdb.com/find?q=tt0467406"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Juno (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Spider-Man 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0413300",
+            "page": "http://www.imdb.com/find?q=tt0413300"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spider-Man 3 (2007)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Spider-Man 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0316654",
+            "page": "http://www.imdb.com/find?q=tt0316654"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spider-Man 2 (2004)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0145487",
+            "page": "http://www.imdb.com/find?q=tt0145487"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spider-Man (2002)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "The Scout",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111094",
+            "page": "http://www.imdb.com/find?q=tt0111094"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Scout (1994)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "Pom Poko",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110008",
+            "page": "http://www.imdb.com/find?q=tt0110008"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pom Poko (1994)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "The Ref",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110955",
+            "page": "http://www.imdb.com/find?q=tt0110955"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Ref (1994)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Command & Conquer: Red Alert 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1198194",
+            "page": "http://www.imdb.com/find?q=tt1198194"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Command & Conquer: Red Alert 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Portal 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1648163",
+            "page": "http://www.imdb.com/find?q=tt1648163"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Portal 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837564",
+            "page": "http://www.imdb.com/find?q=tt0837564"
+          }
+        }
+      ],
+      "section": [
+        "J. K. Simmons",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man 3 (video game)"
     },
     {
       "body": "Simmons was born in Detroit, Michigan, to Patricia and Donald William Simmons. He has a brother and sister and attended the University of Montana.",
       "links": [],
+      "section": [
+        "J. K. Simmons",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Simmons was born in Detroit, Michigan, to Patricia and Donald William Simmons. He has a brother and sister and attended the University of Montana."
     },
     {
       "body": "J.K. Simmons has appeared in diverse projects spanning motion pictures, television, and on and off Broadway productions. In film, he is best known as J. Jonah Jameson in Sam Raimi's Spider-Man trilogy and as Mac MacGuff in Juno; his other motion picture credits include Hidalgo, The Ladykillers, The Mexican, Off the Map, For Love of the Game, The Gift, Thank You for Smoking, Rendition, Burn After Reading, The Music Never Stopped, Jennifer's Body, Extract, The Vicious Kind, I Love You Man, Beginner's Guide to Endings, and the Academy Award-nominated film Up in the Air. In 2014, he appeared as abusive jazz conductor Terence Fletcher in the critically acclaimed film Whiplash; Simmons' role in the picture has been similarly acclaimed, earning him a Golden Globe, a BAFTA, and an Academy Award for Best Supporting Actor.",
       "links": [],
+      "section": [
+        "J. K. Simmons",
+        "Biographical information",
+        "Career"
+      ],
       "text": "J.K. Simmons has appeared in diverse projects spanning motion pictures, television, and on and off Broadway productions. In film, he is best known as J. Jonah Jameson in Sam Raimi's Spider-Man trilogy and as Mac MacGuff in Juno; his other motion picture credits include Hidalgo, The Ladykillers, The Mexican, Off the Map, For Love of the Game, The Gift, Thank You for Smoking, Rendition, Burn After Reading, The Music Never Stopped, Jennifer's Body, Extract, The Vicious Kind, I Love You Man, Beginner's Guide to Endings, and the Academy Award-nominated film Up in the Air. In 2014, he appeared as abusive jazz conductor Terence Fletcher in the critically acclaimed film Whiplash; Simmons' role in the picture has been similarly acclaimed, earning him a Golden Globe, a BAFTA, and an Academy Award for Best Supporting Actor."
     },
     {
       "body": "On television, he is best known as Dr. Emil Skoda in multiple programs in NBC's Law & Order franchise, Assistant Police Chief Will Pope in TNT's The Closer, and neo-Nazi Vernon Schillinger in the HBO prison drama Oz. Simmons has also appeared on the Broadway stage in Guys and Dolls, Laughter on the 23rd Floor, A Change in the Heir, Peter Pan, and A Few Good Men.",
       "links": [],
+      "section": [
+        "J. K. Simmons",
+        "Biographical information",
+        "Career"
+      ],
       "text": "On television, he is best known as Dr. Emil Skoda in multiple programs in NBC's Law & Order franchise, Assistant Police Chief Will Pope in TNT's The Closer, and neo-Nazi Vernon Schillinger in the HBO prison drama Oz. Simmons has also appeared on the Broadway stage in Guys and Dolls, Laughter on the 23rd Floor, A Change in the Heir, Peter Pan, and A Few Good Men."
     },
     {
       "body": "In video games he is best known for his work as Aperture Science's eccentric founder and CEO, Cave Johnson, in Valve Software's critically acclaimed physics and puzzle game Portal 2.",
       "links": [],
+      "section": [
+        "J. K. Simmons",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In video games he is best known for his work as Aperture Science's eccentric founder and CEO, Cave Johnson, in Valve Software's critically acclaimed physics and puzzle game Portal 2."
+    },
+    {
+      "body": "2015: Won an Academy Award for Whiplash (Best Supporting Actor)",
+      "links": [],
+      "section": [
+        "J. K. Simmons",
+        "Awards"
+      ],
+      "text": "2015: Won an Academy Award for Whiplash (Best Supporting Actor)"
+    },
+    {
+      "body": "2015: Won a BAFTA for Whiplash (Best Supporting Actor)",
+      "links": [],
+      "section": [
+        "J. K. Simmons",
+        "Awards"
+      ],
+      "text": "2015: Won a BAFTA for Whiplash (Best Supporting Actor)"
+    },
+    {
+      "body": "2015: Won a Critics Choice Award for Whiplash (Best Supporting Actor)",
+      "links": [],
+      "section": [
+        "J. K. Simmons",
+        "Awards"
+      ],
+      "text": "2015: Won a Critics Choice Award for Whiplash (Best Supporting Actor)"
+    },
+    {
+      "body": "2015: Won a Golden Globe for Whiplash (Best Supporting Actor)",
+      "links": [],
+      "section": [
+        "J. K. Simmons",
+        "Awards"
+      ],
+      "text": "2015: Won a Golden Globe for Whiplash (Best Supporting Actor)"
+    },
+    {
+      "body": "2015: Won an NSFC Award for Whiplash (Best Supporting Actor)",
+      "links": [],
+      "section": [
+        "J. K. Simmons",
+        "Awards"
+      ],
+      "text": "2015: Won an NSFC Award for Whiplash (Best Supporting Actor)"
+    },
+    {
+      "body": "2015: Won a Screen Actors Guild Award for Whiplash (Outstanding Performance by a Male Actor in a Supporting Role)",
+      "links": [],
+      "section": [
+        "J. K. Simmons",
+        "Awards"
+      ],
+      "text": "2015: Won a Screen Actors Guild Award for Whiplash (Outstanding Performance by a Male Actor in a Supporting Role)"
+    },
+    {
+      "body": "2014: Won an AAFCA Award for Whiplash (Best Supporting Actor)",
+      "links": [],
+      "section": [
+        "J. K. Simmons",
+        "Awards"
+      ],
+      "text": "2014: Won an AAFCA Award for Whiplash (Best Supporting Actor)"
     }
   ],
   "source": {

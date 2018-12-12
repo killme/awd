@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Jetsons (1962)",
+          "body": "${link_0} (1962)",
           "extra": "(1962)",
           "extra_text": "(1962)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Jetsons",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0055683",
+                "page": "http://www.imdb.com/find?q=tt0055683"
+              }
+            }
+          ],
           "text": "The Jetsons (1962)",
-          "value": "The Jetsons",
+          "value": "${link_0}",
           "value_text": "The Jetsons"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0251646",
+                "page": "http://www.imdb.com/find?q=nm0251646"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Paul_Eiding",
+                "page": "http://en.wikipedia.org/wiki/Paul_Eiding"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -77,8 +110,552 @@
   ],
   "paragraphs": [
     {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Avatar: The Last Airbender credits",
+        "Mai's father"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Painted Lady",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Painted_Lady",
+            "page": "The_Painted_Lady"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Avatar: The Last Airbender credits",
+        "Dock/Xu/Bushi"
+      ],
+      "text": "303. \"The Painted Lady\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Painted Lady",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Painted_Lady",
+            "page": "The_Painted_Lady"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "303. \"The Painted Lady\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0760437",
+            "page": "http://www.imdb.com/find?q=tt0760437"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10 Alien Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1192169",
+            "page": "http://www.imdb.com/find?q=tt1192169"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10 Alien Force"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10 Ultimate Alien",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1622696",
+            "page": "http://www.imdb.com/find?q=tt1622696"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10 Ultimate Alien"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Picket Fences",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103512",
+            "page": "http://www.imdb.com/find?q=tt0103512"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Picket Fences"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Grim Adventures of Billy & Mandy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292800",
+            "page": "http://www.imdb.com/find?q=tt0292800"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Grim Adventures of Billy & Mandy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Pirates of Dark Water",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1192169",
+            "page": "http://www.imdb.com/find?q=tt1192169"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Pirates of Dark Water"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Real Adventures of Johnny Quest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115226",
+            "page": "http://www.imdb.com/find?q=tt0115226"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Real Adventures of Johnny Quest"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "W.I.T.C.H.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0383718",
+            "page": "http://www.imdb.com/find?q=tt0383718"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "W.I.T.C.H."
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Monsters University",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1453405",
+            "page": "http://www.imdb.com/find?q=tt1453405"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Monsters University (2013)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Cloudy with a Chance of Meatballs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0844471",
+            "page": "http://www.imdb.com/find?q=tt0844471"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cloudy with a Chance of Meatballs (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Up",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1049413",
+            "page": "http://www.imdb.com/find?q=tt1049413"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Up (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "WALL\u00b7E",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0910970",
+            "page": "http://www.imdb.com/find?q=tt0910970"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "WALL\u00b7E (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "American Zombie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0765430",
+            "page": "http://www.imdb.com/find?q=tt0765430"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "American Zombie (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Cars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0317219",
+            "page": "http://www.imdb.com/find?q=tt0317219"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cars (2006)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Treasure Planet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0133240",
+            "page": "http://www.imdb.com/find?q=tt0133240"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Treasure Planet (2002)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1517155",
+            "page": "http://www.imdb.com/find?q=tt1517155"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Game (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dead to Rights: Retribution",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1661824",
+            "page": "http://www.imdb.com/find?q=tt1661824"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dead to Rights: Retribution (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dragon Age: Origins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1541718",
+            "page": "http://www.imdb.com/find?q=tt1541718"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dragon Age: Origins (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "FusionFall",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1363369",
+            "page": "http://www.imdb.com/find?q=tt1363369"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "FusionFall (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Metal_Gear",
+            "page": "http://en.wikipedia.org/wiki/Metal_Gear"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear series (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "StarCraft II: Wings of Liberty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1037854",
+            "page": "http://www.imdb.com/find?q=tt1037854"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "StarCraft II: Wings of Liberty (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Super Smash Bros. Brawl",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Super_Smash_Bros._(series)",
+            "page": "http://en.wikipedia.org/wiki/Super_Smash_Bros._(series)"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Super Smash Bros. Brawl (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Rise of the Argonauts",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1277732",
+            "page": "http://www.imdb.com/find?q=tt1277732"
+          }
+        }
+      ],
+      "section": [
+        "Paul Eiding",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Rise of the Argonauts (video game)"
+    },
+    {
       "body": "Eiding began his career over thirty years ago. He was a singer, bass player, and director in the 3rd Infantry Division's Marne Glee Club in Germany. Later, while creating and performing comedy sketches at the Brave New Workshop in Minneapolis, Eiding also contributed as an actor and writer to National Public Radio's All Things Considered, supplying topical material. He has directed stage shows in Ohio, Wisconsin, Minnesota, and California, and has also written and directed several short films and videos. A husband of twenty-eight years, he is the father of two daughters.",
       "links": [],
+      "section": [
+        "Paul Eiding",
+        "Biographical information"
+      ],
       "text": "Eiding began his career over thirty years ago. He was a singer, bass player, and director in the 3rd Infantry Division's Marne Glee Club in Germany. Later, while creating and performing comedy sketches at the Brave New Workshop in Minneapolis, Eiding also contributed as an actor and writer to National Public Radio's All Things Considered, supplying topical material. He has directed stage shows in Ohio, Wisconsin, Minnesota, and California, and has also written and directed several short films and videos. A husband of twenty-eight years, he is the father of two daughters."
     }
   ],

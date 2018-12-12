@@ -3,28 +3,32 @@
     {
       "body": "Protected",
       "target": {
-        "href": "Category_Protected",
+        "external": false,
+        "href": "/wiki/Category_Protected",
         "page": "Category_Protected"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -48,12 +52,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Sublet (2006; short)",
+          "body": "${link_0} (2006; short)",
           "extra": "(2006; short)",
           "extra_text": "(2006; short)",
-          "links": [],
+          "links": [
+            {
+              "body": "Sublet",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1823212",
+                "page": "http://www.imdb.com/find?q=tt1823212"
+              }
+            }
+          ],
           "text": "Sublet (2006; short)",
-          "value": "Sublet",
+          "value": "${link_0}",
           "value_text": "Sublet"
         }
       ]
@@ -62,21 +76,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2599071",
+                "page": "http://www.imdb.com/find?q=nm2599071"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/JessicaJAndres",
+                "page": "https://twitter.com/JessicaJAndres"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -84,27 +118,14 @@
   ],
   "paragraphs": [
     {
-      "body": "This article needs references to support its information. ${link_0}.",
-      "links": [
-        {
-          "body": "See how to add them",
-          "key": "${link_0}",
-          "target": {
-            "href": "Avatar_Wiki_S.O.S#Adding_references",
-            "page": "Avatar_Wiki_S.O.S"
-          }
-        }
-      ],
-      "text": "This article needs references to support its information. See how to add them."
-    },
-    {
       "body": "In February 2009, it was announced that Andres would play ${link_0} in the M. Night Shyamalan feature film ${link_1}; however, her scenes were ultimately cut in the final movie. Shyamalan chose Andres because he said he would wanted the characters to all be played by \"undiscovered\" actors. There were a few pictures released of Andres as Suki, along with the rest of the ${link_2}, and the group was also included in the French trailer for the film. They are also included in a deleted scene titled \"The Avatar has Returned\" in the DVD release of The Last Airbender.",
       "links": [
         {
           "body": "Suki",
           "key": "${link_0}",
           "target": {
-            "href": "Film_Suki",
+            "external": false,
+            "href": "/wiki/Film_Suki",
             "page": "Film_Suki"
           }
         },
@@ -112,7 +133,8 @@
           "body": "The Last Airbender",
           "key": "${link_1}",
           "target": {
-            "href": "Film_The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender",
             "page": "Film_The_Last_Airbender"
           }
         },
@@ -120,12 +142,656 @@
           "body": "Kyoshi Warriors",
           "key": "${link_2}",
           "target": {
-            "href": "Kyoshi_Warriors",
+            "external": false,
+            "href": "/wiki/Kyoshi_Warriors",
             "page": "Kyoshi_Warriors"
           }
         }
       ],
+      "section": [
+        "Jessica Jade Andres"
+      ],
       "text": "In February 2009, it was announced that Andres would play Suki in the M. Night Shyamalan feature film The Last Airbender; however, her scenes were ultimately cut in the final movie. Shyamalan chose Andres because he said he would wanted the characters to all be played by \"undiscovered\" actors. There were a few pictures released of Andres as Suki, along with the rest of the Kyoshi Warriors, and the group was also included in the French trailer for the film. They are also included in a deleted scene titled \"The Avatar has Returned\" in the DVD release of The Last Airbender."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dabsity",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4595698",
+            "page": "http://www.imdb.com/find?q=tt4595698"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dabsity"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Edgar Allan Poe's Murder Mystery Dinner Party",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt5689282",
+            "page": "http://www.imdb.com/find?q=tt5689282"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Edgar Allan Poe's Murder Mystery Dinner Party"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Emma Approved",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3254928",
+            "page": "http://www.imdb.com/find?q=tt3254928"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Emma Approved"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Fishball Are Definitely My Thing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3901500",
+            "page": "http://www.imdb.com/find?q=tt3901500"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fishball Are Definitely My Thing"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Freak Out",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4085600",
+            "page": "http://www.imdb.com/find?q=tt4085600"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Freak Out"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gossip Girl",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397442",
+            "page": "http://www.imdb.com/find?q=tt0397442"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gossip Girl"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Improv",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3501286",
+            "page": "http://www.imdb.com/find?q=tt3501286"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Improv"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "NCIS: Los Angeles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1378167",
+            "page": "http://www.imdb.com/find?q=tt1378167"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "NCIS: Los Angeles"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Squatters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1607959",
+            "page": "http://www.imdb.com/find?q=tt1607959"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Squatters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Such a Small World",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt5109486",
+            "page": "http://www.imdb.com/find?q=tt5109486"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Such a Small World"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sunday Brunch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3608198",
+            "page": "http://www.imdb.com/find?q=tt3608198"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sunday Brunch"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Lizzie Bennett Diaries",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2392261",
+            "page": "http://www.imdb.com/find?q=tt2392261"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Lizzie Bennett Diaries"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Mindy Project",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2211129",
+            "page": "http://www.imdb.com/find?q=tt2211129"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Mindy Project"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Ropes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2084685",
+            "page": "http://www.imdb.com/find?q=tt2084685"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Ropes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wheelz",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4850572",
+            "page": "http://www.imdb.com/find?q=tt4850572"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wheelz"
+    },
+    {
+      "body": "${link_0} (2016; short)",
+      "links": [
+        {
+          "body": "Professor Phillips & the Devil",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4770722",
+            "page": "http://www.imdb.com/find?q=tt4770722"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Professor Phillips & the Devil (2016; short)"
+    },
+    {
+      "body": "${link_0} (2016; short)",
+      "links": [
+        {
+          "body": "Downpour Summer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt5442912",
+            "page": "http://www.imdb.com/find?q=tt5442912"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Downpour Summer (2016; short)"
+    },
+    {
+      "body": "${link_0} (2015; short)",
+      "links": [
+        {
+          "body": "Knotts",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4820164",
+            "page": "http://www.imdb.com/find?q=tt4820164"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Knotts (2015; short)"
+    },
+    {
+      "body": "${link_0} (2015)",
+      "links": [
+        {
+          "body": "Road to Juarez",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1935277",
+            "page": "http://www.imdb.com/find?q=tt1935277"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Road to Juarez (2015)"
+    },
+    {
+      "body": "${link_0} (2015; short)",
+      "links": [
+        {
+          "body": "Jessica California USA",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3409430",
+            "page": "http://www.imdb.com/find?q=tt3409430"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Jessica California USA (2015; short)"
+    },
+    {
+      "body": "${link_0} (2015; short)",
+      "links": [
+        {
+          "body": "Heat Wave",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2298438",
+            "page": "http://www.imdb.com/find?q=tt2298438"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Heat Wave (2015; short)"
+    },
+    {
+      "body": "${link_0} (2015; short)",
+      "links": [
+        {
+          "body": "Alpha",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4040578",
+            "page": "http://www.imdb.com/find?q=tt4040578"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Alpha (2015; short)"
+    },
+    {
+      "body": "${link_0} (2014; short)",
+      "links": [
+        {
+          "body": "Dusty & The Desert Rose",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4041638",
+            "page": "http://www.imdb.com/find?q=tt4041638"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dusty & The Desert Rose (2014; short)"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Ride",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1930463",
+            "page": "http://www.imdb.com/find?q=tt1930463"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ride (2014)"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "The Five Birds of Texas, California",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3694960",
+            "page": "http://www.imdb.com/find?q=tt3694960"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Five Birds of Texas, California (2014)"
+    },
+    {
+      "body": "${link_0} (2014; short)",
+      "links": [
+        {
+          "body": "Replicant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3746132",
+            "page": "http://www.imdb.com/find?q=tt3746132"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Replicant (2014; short)"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Orenthal: The Musical",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2412714",
+            "page": "http://www.imdb.com/find?q=tt2412714"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Orenthal: The Musical (2013)"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Sugar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1729615",
+            "page": "http://www.imdb.com/find?q=tt1729615"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sugar (2013)"
+    },
+    {
+      "body": "${link_0} (2012; short)",
+      "links": [
+        {
+          "body": "Liberator",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2125542",
+            "page": "http://www.imdb.com/find?q=tt2125542"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Liberator (2012; short)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Just Go With It",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1564367",
+            "page": "http://www.imdb.com/find?q=tt1564367"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Just Go With It (2011)"
+    },
+    {
+      "body": "${link_0} (2006; short)",
+      "links": [
+        {
+          "body": "Sublet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1823212",
+            "page": "http://www.imdb.com/find?q=tt1823212"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sublet (2006; short)"
+    },
+    {
+      "body": "${link_0} (short - producer)",
+      "links": [
+        {
+          "body": "The Banana Runt People",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2999830",
+            "page": "http://www.imdb.com/find?q=tt2999830"
+          }
+        }
+      ],
+      "section": [
+        "Jessica Jade Andres",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Banana Runt People (short - producer)"
     }
   ],
   "source": {

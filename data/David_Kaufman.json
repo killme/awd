@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Gimme a Break! (1982)",
+          "body": "${link_0} (1982)",
           "extra": "(1982)",
           "extra_text": "(1982)",
-          "links": [],
+          "links": [
+            {
+              "body": "Gimme a Break!",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0081869",
+                "page": "http://www.imdb.com/find?q=tt0081869"
+              }
+            }
+          ],
           "text": "Gimme a Break! (1982)",
-          "value": "Gimme a Break!",
+          "value": "${link_0}",
           "value_text": "Gimme a Break!"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0442120",
+                "page": "http://www.imdb.com/find?q=nm0442120"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/David_Kaufman",
+                "page": "http://en.wikipedia.org/wiki/David_Kaufman"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.davidkaufmanweb.com/",
+                "page": "http://www.davidkaufmanweb.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/DavidK23",
+                "page": "https://twitter.com/DavidK23"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,18 +162,613 @@
   ],
   "paragraphs": [
     {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "The Legend of Korra credits",
+        "Arik"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Alien Abduction: Incident in Lake Country",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0142074",
+            "page": "http://www.imdb.com/find?q=tt0142074"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Alien Abduction: Incident in Lake Country (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Back to the Future",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101042",
+            "page": "http://www.imdb.com/find?q=tt0101042"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Back to the Future"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Danny Phantom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0366005",
+            "page": "http://www.imdb.com/find?q=tt0366005"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Danny Phantom"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Down to Earth",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086697",
+            "page": "http://www.imdb.com/find?q=tt0086697"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Down to Earth"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dweebs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111947",
+            "page": "http://www.imdb.com/find?q=tt0111947"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dweebs"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ER",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108757",
+            "page": "http://www.imdb.com/find?q=tt0108757"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ER"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Freakazoid!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111970",
+            "page": "http://www.imdb.com/find?q=tt0111970"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Freakazoid!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Highway to Heaven",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086730",
+            "page": "http://www.imdb.com/find?q=tt0086730"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Highway to Heaven"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Kids Like These",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0093344",
+            "page": "http://www.imdb.com/find?q=tt0093344"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kids Like These (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Matlock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090481",
+            "page": "http://www.imdb.com/find?q=tt0090481"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Matlock"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Presidio Med",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0315047",
+            "page": "http://www.imdb.com/find?q=tt0315047"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Presidio Med"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Rewrite for Murder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0395731",
+            "page": "http://www.imdb.com/find?q=tt0395731"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Rewrite for Murder (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Stuart Little",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356302",
+            "page": "http://www.imdb.com/find?q=tt0356302"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Stuart Little"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Superman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115378",
+            "page": "http://www.imdb.com/find?q=tt0115378"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Superman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Avengers: Earth's Mightiest Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1626038",
+            "page": "http://www.imdb.com/find?q=tt1626038"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Avengers: Earth's Mightiest Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Buzz on Maggie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0450208",
+            "page": "http://www.imdb.com/find?q=tt0450208"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Buzz on Maggie"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Redd Foxx Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090507",
+            "page": "http://www.imdb.com/find?q=tt0090507"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Redd Foxx Show"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Prom Night",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0926129",
+            "page": "http://www.imdb.com/find?q=tt0926129"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Prom Night (2008)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Red Riding Hood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0385988",
+            "page": "http://www.imdb.com/find?q=tt0385988"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Red Riding Hood (2006)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Role of a Lifetime",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0294881",
+            "page": "http://www.imdb.com/find?q=tt0294881"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Role of a Lifetime (2002)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Intrepid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0183280",
+            "page": "http://www.imdb.com/find?q=tt0183280"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Intrepid (2000)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Enchanted",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0175592",
+            "page": "http://www.imdb.com/find?q=tt0175592"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Enchanted (1998)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "Mission Kill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0093550",
+            "page": "http://www.imdb.com/find?q=tt0093550"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mission Kill (1986)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Batman & Robin",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0284883",
+            "page": "http://www.imdb.com/find?q=tt0284883"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Batman & Robin (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Broken Age",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3165792",
+            "page": "http://www.imdb.com/find?q=tt3165792"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Broken Age (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II: Desert of Flames",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0813399",
+            "page": "http://www.imdb.com/find?q=tt0813399"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II: Desert of Flames (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Hot Wheels: Velocity X",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0416822",
+            "page": "http://www.imdb.com/find?q=tt0416822"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Hot Wheels: Velocity X (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "SpongeBob SquarePants featuring Nicktoons: Globs of Doom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1347360",
+            "page": "http://www.imdb.com/find?q=tt1347360"
+          }
+        }
+      ],
+      "section": [
+        "David Kaufman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "SpongeBob SquarePants featuring Nicktoons: Globs of Doom (video game)"
+    },
+    {
       "body": "Kaufman began acting at a young age in his hometown of St. Louis, Missouri, when his kindergarten teacher handed him the lead role of Santa Claus in the class Christmas play.",
       "links": [],
+      "section": [
+        "David Kaufman",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Kaufman began acting at a young age in his hometown of St. Louis, Missouri, when his kindergarten teacher handed him the lead role of Santa Claus in the class Christmas play."
     },
     {
       "body": "At the age of eighteen, Kaufman set out from St. Louis, Missouri, to attend UCLA's Department of Theatre Arts. Since that time, Kaufman has studied and worked extensively as a professional actor in films and television.",
       "links": [],
+      "section": [
+        "David Kaufman",
+        "Biographical information",
+        "Career"
+      ],
       "text": "At the age of eighteen, Kaufman set out from St. Louis, Missouri, to attend UCLA's Department of Theatre Arts. Since that time, Kaufman has studied and worked extensively as a professional actor in films and television."
     },
     {
       "body": "Kaufman lives in Los Angeles with his wife, actress Lisa Picotte, their daughter Gracie, and their son Henry Oliver.",
       "links": [],
+      "section": [
+        "David Kaufman",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Kaufman lives in Los Angeles with his wife, actress Lisa Picotte, their daughter Gracie, and their son Henry Oliver."
     }
   ],

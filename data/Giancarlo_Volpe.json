@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "King of the Hill (2002 - assistant director and storyboard artist)",
+          "body": "${link_0} (2002 - assistant director and storyboard artist)",
           "extra": "(2002 - assistant director and storyboard artist)",
           "extra_text": "(2002 - assistant director and storyboard artist)",
-          "links": [],
+          "links": [
+            {
+              "body": "King of the Hill",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0118375",
+                "page": "http://www.imdb.com/find?q=tt0118375"
+              }
+            }
+          ],
           "text": "King of the Hill (2002 - assistant director and storyboard artist)",
-          "value": "King of the Hill",
+          "value": "${link_0}",
           "value_text": "King of the Hill"
         }
       ]
@@ -55,57 +68,117 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2083477",
+                "page": "http://www.imdb.com/find?q=nm2083477"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Giancarlo_Volpe",
+                "page": "http://en.wikipedia.org/wiki/Giancarlo_Volpe"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/giancarlo.volpe",
+                "page": "https://www.facebook.com/giancarlo.volpe"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/gvolpe23#",
+                "page": "http://instagram.com/gvolpe23"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://giancarlovolpe.tumblr.com/",
+                "page": "http://giancarlovolpe.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/Giancarlo_Volpe",
+                "page": "https://twitter.com/Giancarlo_Volpe"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -113,8 +186,141 @@
   ],
   "paragraphs": [
     {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_Returns",
+            "page": "The_Avatar_Returns"
+          }
+        }
+      ],
+      "section": [
+        "Giancarlo Volpe",
+        "Avatar: The Last Airbender credits",
+        "Assistant director"
+      ],
+      "text": "102. \"The Avatar Returns\""
+    },
+    {
+      "body": "215. \"${link_0}\" (${link_1})",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        },
+        {
+          "body": "The Tale of Momo",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se#The_Tale_of_Momo",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Giancarlo Volpe",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\" (The Tale of Momo)"
+    },
+    {
+      "body": "${link_0} (2014 - director and producer)",
+      "links": [
+        {
+          "body": "JLA Adventures: Trapped in Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3468260",
+            "page": "http://www.imdb.com/find?q=tt3468260"
+          }
+        }
+      ],
+      "section": [
+        "Giancarlo Volpe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "JLA Adventures: Trapped in Time (2014 - director and producer)"
+    },
+    {
+      "body": "${link_0} (producer)",
+      "links": [
+        {
+          "body": "Green Lantern: The Animated Series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1724587",
+            "page": "http://www.imdb.com/find?q=tt1724587"
+          }
+        }
+      ],
+      "section": [
+        "Giancarlo Volpe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Green Lantern: The Animated Series (producer)"
+    },
+    {
+      "body": "${link_0} (director, storyboard artist and writer)",
+      "links": [
+        {
+          "body": "Star vs the Forces of Evil",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2758770",
+            "page": "http://www.imdb.com/find?q=tt2758770"
+          }
+        }
+      ],
+      "section": [
+        "Giancarlo Volpe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star vs the Forces of Evil (director, storyboard artist and writer)"
+    },
+    {
+      "body": "${link_0} (director and storyboard artist)",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Giancarlo Volpe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars (director and storyboard artist)"
+    },
+    {
       "body": "Volpe majored in illustration at the Art Institute of Seattle in 1994 and later graduated with a B.A. in animation from the School of Visual Arts in 1997. He began his career at Humongous Entertainment, working as an animator on the children's computer games Pajama Sam and Putt-Putt Enters the Race. He moved to Fox in 1998 to work on King of the Hill, where he was the layout artist and assistant director, before working on Avatar: The Last Airbender in 2004. In 2008, he moved to Lucasfilm Animation to work as an episodic director on Star Wars: The Clone Wars, collaborating directly with famed filmmaker George Lucas.",
       "links": [],
+      "section": [
+        "Giancarlo Volpe",
+        "Biographical information"
+      ],
       "text": "Volpe majored in illustration at the Art Institute of Seattle in 1994 and later graduated with a B.A. in animation from the School of Visual Arts in 1997. He began his career at Humongous Entertainment, working as an animator on the children's computer games Pajama Sam and Putt-Putt Enters the Race. He moved to Fox in 1998 to work on King of the Hill, where he was the layout artist and assistant director, before working on Avatar: The Last Airbender in 2004. In 2008, he moved to Lucasfilm Animation to work as an episodic director on Star Wars: The Clone Wars, collaborating directly with famed filmmaker George Lucas."
     },
     {
@@ -124,17 +330,44 @@
           "body": "Aaron Ehasz",
           "key": "${link_0}",
           "target": {
-            "href": "Aaron_Ehasz",
+            "external": false,
+            "href": "/wiki/Aaron_Ehasz",
             "page": "Aaron_Ehasz"
           }
         }
+      ],
+      "section": [
+        "Giancarlo Volpe",
+        "Biographical information"
       ],
       "text": "Three years later, he co-produced and directed the CG-animated television show Green Lantern: The Animated Series, working on the show until its cancellation. In 2014, he worked as producer and director on JLA Adventures: Trapped in Time at Warner Bros. and also worked temporarily at video game developer Riot Games. He later moved to Disney XD to work on their new show Star vs the Forces of Evil but left the show upon receiving an offer to work as a director at entertainment studio Wonderstorm, reuniting with its co-founder and former Avatar writer Aaron Ehasz."
     },
     {
       "body": "On February 14, 2015, Volpe launched the webcomic God of Love on his tumblr account.",
       "links": [],
+      "section": [
+        "Giancarlo Volpe",
+        "Biographical information"
+      ],
       "text": "On February 14, 2015, Volpe launched the webcomic God of Love on his tumblr account."
+    },
+    {
+      "body": "2007: Won an Annie Award for Avatar: The Last Airbender (Best Directing in an Animated Television Production)",
+      "links": [],
+      "section": [
+        "Giancarlo Volpe",
+        "Awards"
+      ],
+      "text": "2007: Won an Annie Award for Avatar: The Last Airbender (Best Directing in an Animated Television Production)"
+    },
+    {
+      "body": "IMDb has him listed in two more episodes as an uncredited writer.",
+      "links": [],
+      "section": [
+        "Giancarlo Volpe",
+        "Trivia"
+      ],
+      "text": "IMDb has him listed in two more episodes as an uncredited writer."
     }
   ],
   "source": {

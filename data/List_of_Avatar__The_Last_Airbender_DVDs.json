@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "DVD",
       "target": {
-        "href": "Category_DVD",
+        "external": false,
+        "href": "/wiki/Category_DVD",
         "page": "Category_DVD"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -31,12 +34,35 @@
           "body": "Avatar: The Last Airbender",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         }
       ],
+      "section": [
+        "List of Avatar: The Last Airbender DVDs"
+      ],
       "text": "This page lists all the Avatar: The Last Airbender DVD releases and volumes."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Amazon Avatar Store",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.amazon.com/Avatar-The-Last-Airbender/e/B001CH763Y/ref=ntt_tv_dp_pel",
+            "page": "http://www.amazon.com/Avatar-The-Last-Airbender/e/B001CH763Y/ref=ntt_tv_dp_pel"
+          }
+        }
+      ],
+      "section": [
+        "List of Avatar: The Last Airbender DVDs",
+        "External links"
+      ],
+      "text": "Amazon Avatar Store"
     }
   ],
   "source": {

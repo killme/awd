@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Police Story (1975)",
+          "body": "${link_0} (1975)",
           "extra": "(1975)",
           "extra_text": "(1975)",
-          "links": [],
+          "links": [
+            {
+              "body": "Police Story",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0069620",
+                "page": "http://www.imdb.com/find?q=tt0069620"
+              }
+            }
+          ],
           "text": "Police Story (1975)",
-          "value": "Police Story",
+          "value": "${link_0}",
           "value_text": "Police Story"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0156475",
+                "page": "http://www.imdb.com/find?q=nm0156475"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/George_Cheung",
+                "page": "http://en.wikipedia.org/wiki/George_Cheung"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/George-Cheung/127264003977755",
+                "page": "https://www.facebook.com/pages/George-Cheung/127264003977755"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -86,18 +129,453 @@
   ],
   "paragraphs": [
     {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "City of Walls and Secrets",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/City_of_Walls_and_Secrets",
+            "page": "City_of_Walls_and_Secrets"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Avatar: The Last Airbender credits",
+        "Pao"
+      ],
+      "text": "214. \"City of Walls and Secrets\""
+    },
+    {
+      "body": "217. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lake Laogai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai_(episode)",
+            "page": "Lake_Laogai_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Avatar: The Last Airbender credits",
+        "Pao"
+      ],
+      "text": "217. \"Lake Laogai\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Awesome Asian Bad Guys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3153524",
+            "page": "http://www.imdb.com/find?q=tt3153524"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Awesome Asian Bad Guys"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Days of Our Lives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0058796",
+            "page": "http://www.imdb.com/find?q=tt0058796"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Days of Our Lives"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ER",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108757",
+            "page": "http://www.imdb.com/find?q=tt0108757"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ER"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Just Jordan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0486935",
+            "page": "http://www.imdb.com/find?q=tt0486935"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Just Jordan"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Scoundrels",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1595860",
+            "page": "http://www.imdb.com/find?q=tt1595860"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Scoundrels"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sunset Beach",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118484",
+            "page": "http://www.imdb.com/find?q=tt0118484"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sunset Beach"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The West Wing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200276",
+            "page": "http://www.imdb.com/find?q=tt0200276"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The West Wing"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Blizhniy Boy: The Ultimate Fighter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0780484",
+            "page": "http://www.imdb.com/find?q=tt0780484"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Blizhniy Boy: The Ultimate Fighter (2007)"
+    },
+    {
+      "body": "${link_0} (2007; short)",
+      "links": [
+        {
+          "body": "The Racewalker",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1323536",
+            "page": "http://www.imdb.com/find?q=tt1323536"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Racewalker (2007; short)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Pursuit of Happyness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0454921",
+            "page": "http://www.imdb.com/find?q=tt0454921"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Pursuit of Happyness (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "American Fusion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0448989",
+            "page": "http://www.imdb.com/find?q=tt0448989"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "American Fusion (2005)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Starsky & Hutch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0335438",
+            "page": "http://www.imdb.com/find?q=tt0335438"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Starsky & Hutch (2004)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Wicked Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0283143",
+            "page": "http://www.imdb.com/find?q=tt0283143"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Wicked Game (2002)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "We Were Soldiers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0277434",
+            "page": "http://www.imdb.com/find?q=tt0277434"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "We Were Soldiers (2002)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dead to Rights: Retribution",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1661824",
+            "page": "http://www.imdb.com/find?q=tt1661824"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dead to Rights: Retribution (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Enemy Territory: Quake Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0874889",
+            "page": "http://www.imdb.com/find?q=tt0874889"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Enemy Territory: Quake Wars (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Halo 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0357718",
+            "page": "http://www.imdb.com/find?q=tt0357718"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Halo 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Matrix: Path of Neo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0451118",
+            "page": "http://www.imdb.com/find?q=tt0451118"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Matrix: Path of Neo (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Uncharted: Drake's Fortune",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1000777",
+            "page": "http://www.imdb.com/find?q=tt1000777"
+          }
+        }
+      ],
+      "section": [
+        "George Cheung",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Uncharted: Drake's Fortune (video game)"
+    },
+    {
       "body": "Cheung was born in Hong Kong, China, and earned his degree in biology at the University of San Francisco.",
       "links": [],
+      "section": [
+        "George Cheung",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Cheung was born in Hong Kong, China, and earned his degree in biology at the University of San Francisco."
     },
     {
       "body": "In May 2008, Cheung was presented with the Asian Pacific Islander Heritage Award for Excellence in Arts and Entertainment by California's Asian Pacific Islander Legislative Caucus.",
       "links": [],
+      "section": [
+        "George Cheung",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "In May 2008, Cheung was presented with the Asian Pacific Islander Heritage Award for Excellence in Arts and Entertainment by California's Asian Pacific Islander Legislative Caucus."
     },
     {
       "body": "Cheung has guest starred on many television series, including MacGyver, Magnum, P.I., The A-Team, Knight Rider, How I Met Your Mother, Seinfeld, NYPD Blue, ER, The West Wing, Seibu Keisatsu, and Lost. Some of his film appearances include Rambo: First Blood Part II, RoboCop 2, Lethal Weapon 4, Rush Hour, and Starsky & Hutch.",
       "links": [],
+      "section": [
+        "George Cheung",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Cheung has guest starred on many television series, including MacGyver, Magnum, P.I., The A-Team, Knight Rider, How I Met Your Mother, Seinfeld, NYPD Blue, ER, The West Wing, Seibu Keisatsu, and Lost. Some of his film appearances include Rambo: First Blood Part II, RoboCop 2, Lethal Weapon 4, Rush Hour, and Starsky & Hutch."
     }
   ],

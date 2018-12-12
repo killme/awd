@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film staff",
       "target": {
-        "href": "Category_Film_staff",
+        "external": false,
+        "href": "/wiki/Category_Film_staff",
         "page": "Category_Film_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Twilight Zone: The Movie (1983)",
+          "body": "${link_0} (1983)",
           "extra": "(1983)",
           "extra_text": "(1983)",
-          "links": [],
+          "links": [
+            {
+              "body": "Twilight Zone: The Movie",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0086491",
+                "page": "http://www.imdb.com/find?q=tt0086491"
+              }
+            }
+          ],
           "text": "Twilight Zone: The Movie (1983)",
-          "value": "Twilight Zone: The Movie",
+          "value": "${link_0}",
           "value_text": "Twilight Zone: The Movie"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0006133",
+                "page": "http://www.imdb.com/find?q=nm0006133"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/James_Newton_Howard",
+                "page": "http://en.wikipedia.org/wiki/James_Newton_Howard"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/James-Newton-Howard/103117299729073",
+                "page": "http://www.facebook.com/pages/James-Newton-Howard/103117299729073"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -86,13 +129,123 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0} (composer)",
+      "links": [
+        {
+          "body": "2000 Malibu Road",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103346",
+            "page": "http://www.imdb.com/find?q=tt0103346"
+          }
+        }
+      ],
+      "section": [
+        "Film:James Newton Howard",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "2000 Malibu Road (composer)"
+    },
+    {
+      "body": "${link_0} (TV movie - score producer)",
+      "links": [
+        {
+          "body": "Blue Smoke",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0893397",
+            "page": "http://www.imdb.com/find?q=tt0893397"
+          }
+        }
+      ],
+      "section": [
+        "Film:James Newton Howard",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Blue Smoke (TV movie - score producer)"
+    },
+    {
+      "body": "${link_0} (composer)",
+      "links": [
+        {
+          "body": "ER",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108757",
+            "page": "http://www.imdb.com/find?q=tt0108757"
+          }
+        }
+      ],
+      "section": [
+        "Film:James Newton Howard",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ER (composer)"
+    },
+    {
+      "body": "${link_0} (composer)",
+      "links": [
+        {
+          "body": "Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096652",
+            "page": "http://www.imdb.com/find?q=tt0096652"
+          }
+        }
+      ],
+      "section": [
+        "Film:James Newton Howard",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Men (composer)"
+    },
+    {
+      "body": "${link_0} (composer)",
+      "links": [
+        {
+          "body": "The Fugitive",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247097",
+            "page": "http://www.imdb.com/find?q=tt0247097"
+          }
+        }
+      ],
+      "section": [
+        "Film:James Newton Howard",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Fugitive (composer)"
+    },
+    {
       "body": "Howard was born in Los Angeles, California. He began studying music as a child and went on to attend the Thacher School in Ojai, California, the Music Academy of the West in Santa Barbara, California, and later majored in piano performance at the University of Southern California. After leaving college, he toured with Elton John as a keyboardist during the late 1970s and early 1980s and was part of the band that played behind John in Central Park, New York, on September 13, 1980. Howard also arranged strings for several of Elton's songs during this period, including the hits \"Don't Go Breaking My Heart\" and \"Sorry Seems To Be The Hardest Word\", as well as playing additional keyboards and synthesizers on several of Elton's studio albums, including \"Rock of The Westies\" (1975), \"Blue Moves\" (1976), \"21 At 33\" (1980), and \"The Fox\" (1981).",
       "links": [],
+      "section": [
+        "Film:James Newton Howard",
+        "Biographical information",
+        "Early life"
+      ],
       "text": "Howard was born in Los Angeles, California. He began studying music as a child and went on to attend the Thacher School in Ojai, California, the Music Academy of the West in Santa Barbara, California, and later majored in piano performance at the University of Southern California. After leaving college, he toured with Elton John as a keyboardist during the late 1970s and early 1980s and was part of the band that played behind John in Central Park, New York, on September 13, 1980. Howard also arranged strings for several of Elton's songs during this period, including the hits \"Don't Go Breaking My Heart\" and \"Sorry Seems To Be The Hardest Word\", as well as playing additional keyboards and synthesizers on several of Elton's studio albums, including \"Rock of The Westies\" (1975), \"Blue Moves\" (1976), \"21 At 33\" (1980), and \"The Fox\" (1981)."
     },
     {
       "body": "After his tenure with Elton John, Howard toured briefly with Crosby, Stills and Nash before moving into film music in the mid-1980s. Howard did, however, return for a brief collaboration with Elton John on the final night of John's Australia tour in December 1987. Howard conducted both his own and Paul Buckmaster's arrangements during the second half of the set, which focused on orchestrated performances of selected songs from John's catalog. After his father died, Howard learned from his grandfather that his family was Jewish.",
       "links": [],
+      "section": [
+        "Film:James Newton Howard",
+        "Biographical information",
+        "Early life"
+      ],
       "text": "After his tenure with Elton John, Howard toured briefly with Crosby, Stills and Nash before moving into film music in the mid-1980s. Howard did, however, return for a brief collaboration with Elton John on the final night of John's Australia tour in December 1987. Howard conducted both his own and Paul Buckmaster's arrangements during the second half of the set, which focused on orchestrated performances of selected songs from John's catalog. After his father died, Howard learned from his grandfather that his family was Jewish."
     }
   ],

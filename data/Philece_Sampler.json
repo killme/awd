@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Lupin the Third (1978; English version)",
+          "body": "${link_0} (1978; English version)",
           "extra": "(1978; English version)",
           "extra_text": "(1978; English version)",
-          "links": [],
+          "links": [
+            {
+              "body": "Lupin the Third",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0159192",
+                "page": "http://www.imdb.com/find?q=tt0159192"
+              }
+            }
+          ],
           "text": "Lupin the Third (1978; English version)",
-          "value": "Lupin the Third",
+          "value": "${link_0}",
           "value_text": "Lupin the Third"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0192291",
+                "page": "http://www.imdb.com/find?q=nm0192291"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Philece_Sampler",
+                "page": "http://en.wikipedia.org/wiki/Philece_Sampler"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/102967854605730541019/posts",
+                "page": "https://plus.google.com/102967854605730541019/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         }
       ]
@@ -100,23 +143,759 @@
   ],
   "paragraphs": [
     {
+      "body": "402. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Korra Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Korra_Alone",
+            "page": "Korra_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "The Legend of Korra credits",
+        "Toph Beifong"
+      ],
+      "text": "402. \"Korra Alone\""
+    },
+    {
+      "body": "403. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Coronation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Coronation",
+            "page": "The_Coronation"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "The Legend of Korra credits",
+        "Toph Beifong"
+      ],
+      "text": "403. \"The Coronation\""
+    },
+    {
+      "body": "404. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Calling",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Calling",
+            "page": "The_Calling"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "The Legend of Korra credits",
+        "Toph Beifong"
+      ],
+      "text": "404. \"The Calling\""
+    },
+    {
+      "body": "410. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Operation Beifong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Operation_Beifong",
+            "page": "Operation_Beifong"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "The Legend of Korra credits",
+        "Toph Beifong"
+      ],
+      "text": "410. \"Operation Beifong\""
+    },
+    {
+      "body": "402. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Korra Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Korra_Alone",
+            "page": "Korra_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "The Legend of Korra credits",
+        "Vendor"
+      ],
+      "text": "402. \"Korra Alone\""
+    },
+    {
+      "body": "402. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Korra Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Korra_Alone",
+            "page": "Korra_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "The Legend of Korra credits",
+        "Woman"
+      ],
+      "text": "402. \"Korra Alone\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Aaahh!!! Real Monsters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108684",
+            "page": "http://www.imdb.com/find?q=tt0108684"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Aaahh!!! Real Monsters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Another World",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0057731",
+            "page": "http://www.imdb.com/find?q=tt0057731"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Another World"
+    },
+    {
+      "body": "${link_0} (English version)",
+      "links": [
+        {
+          "body": "Bottle Fairy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0933425",
+            "page": "http://www.imdb.com/find?q=tt0933425"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bottle Fairy (English version)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Days of Our Lives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0058796",
+            "page": "http://www.imdb.com/find?q=tt0058796"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Days of Our Lives"
+    },
+    {
+      "body": "${link_0} (English monsters)",
+      "links": [
+        {
+          "body": "Digimon: Digital Monsters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0210418",
+            "page": "http://www.imdb.com/find?q=tt0210418"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Digimon: Digital Monsters (English monsters)"
+    },
+    {
+      "body": "${link_0} (English version)",
+      "links": [
+        {
+          "body": "Ekusu doraib\u0101",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1000946",
+            "page": "http://www.imdb.com/find?q=tt1000946"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ekusu doraib\u0101 (English version)"
+    },
+    {
+      "body": "${link_0} (English version)",
+      "links": [
+        {
+          "body": "Ky\u014dgoku Natsuhiko k\u014dsetsu hyakumonogatari",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1290729",
+            "page": "http://www.imdb.com/find?q=tt1290729"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ky\u014dgoku Natsuhiko k\u014dsetsu hyakumonogatari (English version)"
+    },
+    {
+      "body": "${link_0} (English version)",
+      "links": [
+        {
+          "body": "Ky\u016bketsuki Miyu",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0158415",
+            "page": "http://www.imdb.com/find?q=tt0158415"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ky\u016bketsuki Miyu (English version)"
+    },
+    {
+      "body": "${link_0} (English version)",
+      "links": [
+        {
+          "body": "Last Exile",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0390733",
+            "page": "http://www.imdb.com/find?q=tt0390733"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Last Exile (English version)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Lily's Light",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1650830",
+            "page": "http://www.imdb.com/find?q=tt1650830"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lily's Light (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Stanley",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0315068",
+            "page": "http://www.imdb.com/find?q=tt0315068"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Stanley"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Incredible Hulk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115215",
+            "page": "http://www.imdb.com/find?q=tt0115215"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Incredible Hulk"
+    },
+    {
+      "body": "${link_0} (English version)",
+      "links": [
+        {
+          "body": "Tokko",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1141604",
+            "page": "http://www.imdb.com/find?q=tt1141604"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Tokko (English version)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Transformers: Robots in Disguise",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0290380",
+            "page": "http://www.imdb.com/find?q=tt0290380"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Transformers: Robots in Disguise"
+    },
+    {
+      "body": "${link_0} (English version)",
+      "links": [
+        {
+          "body": "X",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312258",
+            "page": "http://www.imdb.com/find?q=tt0312258"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "X (English version)"
+    },
+    {
+      "body": "${link_0} (2015)",
+      "links": [
+        {
+          "body": "Digimon Adventure tri. Saikai",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4307880",
+            "page": "http://www.imdb.com/find?q=tt4307880"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Digimon Adventure tri. Saikai (2015)"
+    },
+    {
+      "body": "${link_0} (2004; English version)",
+      "links": [
+        {
+          "body": "Art of the Devil",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0444759",
+            "page": "http://www.imdb.com/find?q=tt0444759"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Art of the Devil (2004; English version)"
+    },
+    {
+      "body": "${link_0} (2001; English version)",
+      "links": [
+        {
+          "body": "Ekusu doraib\u0101 za m\u016bb\u012b",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1086280",
+            "page": "http://www.imdb.com/find?q=tt1086280"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ekusu doraib\u0101 za m\u016bb\u012b (2001; English version)"
+    },
+    {
+      "body": "${link_0} (2001; English version)",
+      "links": [
+        {
+          "body": "The Happy Cricket from the Amazon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0291959",
+            "page": "http://www.imdb.com/find?q=tt0291959"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Happy Cricket from the Amazon (2001; English version)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Tom and Huck",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112302",
+            "page": "http://www.imdb.com/find?q=tt0112302"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tom and Huck (1995)"
+    },
+    {
+      "body": "${link_0} (1991; English version)",
+      "links": [
+        {
+          "body": "Here Is Greenwood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0102230",
+            "page": "http://www.imdb.com/find?q=tt0102230"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Here Is Greenwood (1991; English version)"
+    },
+    {
+      "body": "${link_0} (1987)",
+      "links": [
+        {
+          "body": "Pretty Smart",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0091789",
+            "page": "http://www.imdb.com/find?q=tt0091789"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pretty Smart (1987)"
+    },
+    {
+      "body": "${link_0} (1978)",
+      "links": [
+        {
+          "body": "The Seniors",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0078228",
+            "page": "http://www.imdb.com/find?q=tt0078228"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Seniors (1978)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Arcania: Gothic Four",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1753447",
+            "page": "http://www.imdb.com/find?q=tt1753447"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Arcania: Gothic Four (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Blue Dragon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1024953",
+            "page": "http://www.imdb.com/find?q=tt1024953"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Blue Dragon (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "King's Quest VIII: Mask of Eternity",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0192205",
+            "page": "http://www.imdb.com/find?q=tt0192205"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "King's Quest VIII: Mask of Eternity (video game)"
+    },
+    {
+      "body": "${link_0} (TV movie - co-producer and writer)",
+      "links": [
+        {
+          "body": "Lily's Light",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1650830",
+            "page": "http://www.imdb.com/find?q=tt1650830"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lily's Light (TV movie - co-producer and writer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Outcry",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1361577",
+            "page": "http://www.imdb.com/find?q=tt1361577"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Outcry (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Radiata Stories",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0485982",
+            "page": "http://www.imdb.com/find?q=tt0485982"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Radiata Stories (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tales of the Abyss",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0795479",
+            "page": "http://www.imdb.com/find?q=tt0795479"
+          }
+        }
+      ],
+      "section": [
+        "Philece Sampler",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tales of the Abyss (video game)"
+    },
+    {
       "body": "After graduating from the University of North Texas in 1975 with a drama degree, Sampler went to Hollywood and quickly landed guest roles in TV movies and TV series, including an episode of The Incredible Hulk.",
       "links": [],
+      "section": [
+        "Philece Sampler",
+        "Biographical information"
+      ],
       "text": "After graduating from the University of North Texas in 1975 with a drama degree, Sampler went to Hollywood and quickly landed guest roles in TV movies and TV series, including an episode of The Incredible Hulk."
     },
     {
       "body": "Sampler first made a name of herself playing Ren\u00e9e DuMonde on the soap Days of Our Lives. The Renee character became the focus of a major 1983 murder mystery, resulting in one of the most spectacular send-offs in daytime history. After leaving Days of our Lives, she went on to the TV series Rituals. After Rituals, Sampler went on to Another World to play Donna Love. She left AW in 1989 and had guest starring roles on TJ Hooker as Sue Ann and on Hunter as Casey. She subsequently took a sabbatical to Japan with her then-fianc\u00e9 and, upon her return to the US, formed Philman Entertainment, a production company.",
       "links": [],
+      "section": [
+        "Philece Sampler",
+        "Biographical information"
+      ],
       "text": "Sampler first made a name of herself playing Ren\u00e9e DuMonde on the soap Days of Our Lives. The Renee character became the focus of a major 1983 murder mystery, resulting in one of the most spectacular send-offs in daytime history. After leaving Days of our Lives, she went on to the TV series Rituals. After Rituals, Sampler went on to Another World to play Donna Love. She left AW in 1989 and had guest starring roles on TJ Hooker as Sue Ann and on Hunter as Casey. She subsequently took a sabbatical to Japan with her then-fianc\u00e9 and, upon her return to the US, formed Philman Entertainment, a production company."
     },
     {
       "body": "Sampler worked as associate producer of the Los Angeles stage hit Sordid Lives. She performed in The Incredible Hulk as the voice of Betty Ross and performed a voice over on Real Monsters episode \"Ollie Ollie Oxen Free\". She did a voice on Nickelodeon's Rugrats, where she played Emma in the episode \"He Saw, She Saw\". She later voiced Francine, a character from the Rugrats spin-off series All Grown Up! and was well known for voicing Mimi Tachikawa in the anime series Digimon. Sampler has played roles spanning young males, such as Cody from Digimon, to old women, such as Tiptory in Eureka Seven or Toph Beifong in The Legend of Korra.",
       "links": [],
+      "section": [
+        "Philece Sampler",
+        "Biographical information"
+      ],
       "text": "Sampler worked as associate producer of the Los Angeles stage hit Sordid Lives. She performed in The Incredible Hulk as the voice of Betty Ross and performed a voice over on Real Monsters episode \"Ollie Ollie Oxen Free\". She did a voice on Nickelodeon's Rugrats, where she played Emma in the episode \"He Saw, She Saw\". She later voiced Francine, a character from the Rugrats spin-off series All Grown Up! and was well known for voicing Mimi Tachikawa in the anime series Digimon. Sampler has played roles spanning young males, such as Cody from Digimon, to old women, such as Tiptory in Eureka Seven or Toph Beifong in The Legend of Korra."
     },
     {
       "body": "Sampler married Larry Dean on July 10, 1999.",
       "links": [],
+      "section": [
+        "Philece Sampler",
+        "Biographical information"
+      ],
       "text": "Sampler married Larry Dean on July 10, 1999."
     }
   ],

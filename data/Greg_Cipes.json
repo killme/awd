@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Rocket Power (1999)",
+          "body": "${link_0} (1999)",
           "extra": "(1999)",
           "extra_text": "(1999)",
-          "links": [],
+          "links": [
+            {
+              "body": "Rocket Power",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0244296",
+                "page": "http://www.imdb.com/find?q=tt0244296"
+              }
+            }
+          ],
           "text": "Rocket Power (1999)",
-          "value": "Rocket Power",
+          "value": "${link_0}",
           "value_text": "Rocket Power"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0996651",
+                "page": "http://www.imdb.com/find?q=nm0996651"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Greg_Cipes",
+                "page": "http://en.wikipedia.org/wiki/Greg_Cipes"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://instagram.com/gregcipes#",
+                "page": "https://instagram.com/gregcipes"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://gregcipes.com/",
+                "page": "http://gregcipes.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/GregCipes",
+                "page": "https://twitter.com/GregCipes"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,8 +181,433 @@
   ],
   "paragraphs": [
     {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "The Legend of Korra credits",
+        "Cousin"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "The Legend of Korra credits",
+        "Tu"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "The Legend of Korra credits",
+        "Tu"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ultimatum",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ultimatum",
+            "page": "The_Ultimatum"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "The Legend of Korra credits",
+        "Tu"
+      ],
+      "text": "311. \"The Ultimatum\""
+    },
+    {
+      "body": "408. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Remembrances",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Remembrances",
+            "page": "Remembrances"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "The Legend of Korra credits",
+        "Tu"
+      ],
+      "text": "408. \"Remembrances\""
+    },
+    {
+      "body": "412. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Day of the Colossus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Day_of_the_Colossus",
+            "page": "Day_of_the_Colossus"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "The Legend of Korra credits",
+        "Tu"
+      ],
+      "text": "412. \"Day of the Colossus\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10: Alien Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1192169",
+            "page": "http://www.imdb.com/find?q=tt1192169"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10: Alien Force"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10: Ultimate Alien",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1622696",
+            "page": "http://www.imdb.com/find?q=tt1622696"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10: Ultimate Alien"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Super Robot Monkey Team Hyperforce Go!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0423716",
+            "page": "http://www.imdb.com/find?q=tt0423716"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Super Robot Monkey Team Hyperforce Go!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Teenage Mutant Ninja Turtles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1877889",
+            "page": "http://www.imdb.com/find?q=tt1877889"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Teen Titans",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0343314",
+            "page": "http://www.imdb.com/find?q=tt0343314"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teen Titans"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Teen Titans Go!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2771780",
+            "page": "http://www.imdb.com/find?q=tt2771780"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teen Titans Go!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ultimate Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1722512",
+            "page": "http://www.imdb.com/find?q=tt1722512"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ultimate Spider-Man"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "W.I.T.C.H.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0383718",
+            "page": "http://www.imdb.com/find?q=tt0383718"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "W.I.T.C.H."
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Fast & Furious",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1013752",
+            "page": "http://www.imdb.com/find?q=tt1013752"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fast & Furious (2009)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Holes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0311289",
+            "page": "http://www.imdb.com/find?q=tt0311289"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Holes (2003)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ben 10 Galactic Racing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2064732",
+            "page": "http://www.imdb.com/find?q=tt2064732"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ben 10 Galactic Racing (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Cartoon Network: Punch Time Explosion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1985962",
+            "page": "http://www.imdb.com/find?q=tt1985962"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Cartoon Network: Punch Time Explosion (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lego Marvel Super Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2620204",
+            "page": "http://www.imdb.com/find?q=tt2620204"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lego Marvel Super Heroes (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Nickelodeon Teenage Mutant Ninja Turtles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3473640",
+            "page": "http://www.imdb.com/find?q=tt3473640"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Nickelodeon Teenage Mutant Ninja Turtles (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Teen Titans",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0823190",
+            "page": "http://www.imdb.com/find?q=tt0823190"
+          }
+        }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Teen Titans (video game)"
+    },
+    {
       "body": "Cipes was born to Robin Mrasek and Geoff Cipes. He quickly took up surfing, and was ranked as the #3 Junior Professional Surfer in 1998.",
       "links": [],
+      "section": [
+        "Greg Cipes",
+        "Biographical information",
+        "Early life"
+      ],
       "text": "Cipes was born to Robin Mrasek and Geoff Cipes. He quickly took up surfing, and was ranked as the #3 Junior Professional Surfer in 1998."
     },
     {
@@ -129,16 +617,27 @@
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
+      ],
+      "section": [
+        "Greg Cipes",
+        "Biographical information",
+        "Career"
       ],
       "text": "Cipes later became an actor, landing a role as the voice of Beast Boy in the Teen Titans franchise and Kevin Levin in the Ben 10 franchise. Since 2012, he has provided the voice of Michelangelo in Nickelodeon's version of Teenage Mutant Ninja Turtles."
     },
     {
       "body": "Cipes is a vegetarian, having adhered to such a diet since he was eight years old. He also owns three dogs: Shadow, Marley, and Timber and is very close to them. His favorite musician is reggae artist Bob Marley.",
       "links": [],
+      "section": [
+        "Greg Cipes",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Cipes is a vegetarian, having adhered to such a diet since he was eight years old. He also owns three dogs: Shadow, Marley, and Timber and is very close to them. His favorite musician is reggae artist Bob Marley."
     }
   ],

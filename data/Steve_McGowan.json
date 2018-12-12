@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Pinky and the Brain (1996)",
+          "body": "${link_0} (1996)",
           "extra": "(1996)",
           "extra_text": "(1996)",
-          "links": [],
+          "links": [
+            {
+              "body": "Pinky and the Brain",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0112123",
+                "page": "http://www.imdb.com/find?q=tt0112123"
+              }
+            }
+          ],
           "text": "Pinky and the Brain (1996)",
-          "value": "Pinky and the Brain",
+          "value": "${link_0}",
           "value_text": "Pinky and the Brain"
         }
       ]
@@ -41,12 +54,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2004153",
+                "page": "http://www.imdb.com/find?q=nm2004153"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -54,9 +77,184 @@
   ],
   "paragraphs": [
     {
-      "body": "This page lacks visual representations and needs one or more relevant images.",
-      "links": [],
-      "text": "This page lacks visual representations and needs one or more relevant images."
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Steve McGowan",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Pinky and the Brain",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112123",
+            "page": "http://www.imdb.com/find?q=tt0112123"
+          }
+        }
+      ],
+      "section": [
+        "Steve McGowan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Pinky and the Brain"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Superman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115378",
+            "page": "http://www.imdb.com/find?q=tt0115378"
+          }
+        }
+      ],
+      "section": [
+        "Steve McGowan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Superman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Zeta Project",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0260662",
+            "page": "http://www.imdb.com/find?q=tt0260662"
+          }
+        }
+      ],
+      "section": [
+        "Steve McGowan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Zeta Project"
+    },
+    {
+      "body": "${link_0} (2011; short)",
+      "links": [
+        {
+          "body": "The View from Tarrington Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1929424",
+            "page": "http://www.imdb.com/find?q=tt1929424"
+          }
+        }
+      ],
+      "section": [
+        "Steve McGowan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The View from Tarrington Hill (2011; short)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "AniMen: Triton Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1874412",
+            "page": "http://www.imdb.com/find?q=tt1874412"
+          }
+        }
+      ],
+      "section": [
+        "Steve McGowan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "AniMen: Triton Force (2010)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "Refraction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1692897",
+            "page": "http://www.imdb.com/find?q=tt1692897"
+          }
+        }
+      ],
+      "section": [
+        "Steve McGowan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Refraction (2010; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Hired Gun",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1152401",
+            "page": "http://www.imdb.com/find?q=tt1152401"
+          }
+        }
+      ],
+      "section": [
+        "Steve McGowan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hired Gun (2009)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Darkest Hour",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0475247",
+            "page": "http://www.imdb.com/find?q=tt0475247"
+          }
+        }
+      ],
+      "section": [
+        "Steve McGowan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Darkest Hour (2005)"
     }
   ],
   "source": {

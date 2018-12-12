@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Mission Hill (1999 - character layout artist)",
+          "body": "${link_0} (1999 - character layout artist)",
           "extra": "(1999 - character layout artist)",
           "extra_text": "(1999 - character layout artist)",
-          "links": [],
+          "links": [
+            {
+              "body": "Mission Hill",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0197148",
+                "page": "http://www.imdb.com/find?q=tt0197148"
+              }
+            }
+          ],
           "text": "Mission Hill (1999 - character layout artist)",
-          "value": "Mission Hill",
+          "value": "${link_0}",
           "value_text": "Mission Hill"
         }
       ]
@@ -41,36 +54,427 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1445544",
+                "page": "http://www.imdb.com/find?q=nm1445544"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://cbheck.tumblr.com/",
+                "page": "http://cbheck.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/colinheck",
+                "page": "https://twitter.com/colinheck"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard revisionist"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Leaf in the Wind",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Leaf_in_the_Wind",
+            "page": "A_Leaf_in_the_Wind"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard revisionist"
+      ],
+      "text": "102. \"A Leaf in the Wind\""
+    },
+    {
+      "body": "103. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Revelation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Revelation_(episode)",
+            "page": "The_Revelation_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard revisionist"
+      ],
+      "text": "103. \"The Revelation\""
+    },
+    {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Voice in the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Voice_in_the_Night",
+            "page": "The_Voice_in_the_Night"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard revisionist"
+      ],
+      "text": "104. \"The Voice in the Night\""
+    },
+    {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Spirit of Competition",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Spirit_of_Competition",
+            "page": "The_Spirit_of_Competition"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard revisionist"
+      ],
+      "text": "105. \"The Spirit of Competition\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "And the Winner Is...",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/And_the_Winner_Is..",
+            "page": "And_the_Winner_Is.."
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard revisionist"
+      ],
+      "text": "106. \"And the Winner Is...\""
+    },
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Aftermath",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Aftermath",
+            "page": "The_Aftermath"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard revisionist"
+      ],
+      "text": "107. \"The Aftermath\""
+    },
+    {
+      "body": "108. \"${link_0}\"",
+      "links": [
+        {
+          "body": "When Extremes Meet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/When_Extremes_Meet",
+            "page": "When_Extremes_Meet"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard revisionist"
+      ],
+      "text": "108. \"When Extremes Meet\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard supervisor"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Turning the Tides",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard supervisor"
+      ],
+      "text": "110. \"Turning the Tides\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Skeletons in the Closet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
+            "page": "Skeletons_in_the_Closet"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard supervisor"
+      ],
+      "text": "111. \"Skeletons in the Closet\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebel Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
+            "page": "Rebel_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "201. \"Rebel Spirit\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Lights",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Lights",
+            "page": "The_Southern_Lights"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "202. \"The Southern Lights\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_1",
+            "page": "Civil_Wars%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "203. \"Civil Wars, Part 1\""
+    },
+    {
+      "body": "${link_0} (assistant director, character designer, and storyboard artist)",
+      "links": [
+        {
+          "body": "American Dad!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397306",
+            "page": "http://www.imdb.com/find?q=tt0397306"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Dad! (assistant director, character designer, and storyboard artist)"
+    },
+    {
+      "body": "${link_0} (character layout artist)",
+      "links": [
+        {
+          "body": "Mission Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0197148",
+            "page": "http://www.imdb.com/find?q=tt0197148"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mission Hill (character layout artist)"
+    },
+    {
+      "body": "${link_0} (animator and storyboard artist)",
+      "links": [
+        {
+          "body": "Neighbors from Hell",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1592270",
+            "page": "http://www.imdb.com/find?q=tt1592270"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Neighbors from Hell (animator and storyboard artist)"
+    },
+    {
+      "body": "${link_0} (character layout artist, storyboard artist, and storyboard cleanup)",
+      "links": [
+        {
+          "body": "The Simpsons",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096697",
+            "page": "http://www.imdb.com/find?q=tt0096697"
+          }
+        }
+      ],
+      "section": [
+        "Colin Heck",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Simpsons (character layout artist, storyboard artist, and storyboard cleanup)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Colin_Heck",
     "file": "avatar.wikia.com/wiki/Colin_Heck.html",

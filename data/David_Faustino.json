@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Lily Tomlin Special (1975; TV movie)",
+          "body": "${link_0} (1975; TV movie)",
           "extra": "(1975; TV movie)",
           "extra_text": "(1975; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Lily Tomlin Special",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0364479",
+                "page": "http://www.imdb.com/find?q=tt0364479"
+              }
+            }
+          ],
           "text": "Lily Tomlin Special (1975; TV movie)",
-          "value": "Lily Tomlin Special",
+          "value": "${link_0}",
           "value_text": "Lily Tomlin Special"
         }
       ]
@@ -69,57 +82,117 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0004910",
+                "page": "http://www.imdb.com/find?q=nm0004910"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/David_Faustino",
+                "page": "http://en.wikipedia.org/wiki/David_Faustino"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/DavidFaustino",
+                "page": "https://www.facebook.com/DavidFaustino"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/davidfaustino#",
+                "page": "http://instagram.com/davidfaustino"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.davidfaustino.com/",
+                "page": "http://www.davidfaustino.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/DavidFaustino",
+                "page": "https://twitter.com/DavidFaustino"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -127,19 +200,307 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman Beyond",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0147746",
+            "page": "http://www.imdb.com/find?q=tt0147746"
+          }
+        }
+      ],
+      "section": [
+        "David Faustino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman Beyond"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dragons: Riders of Berk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2325846",
+            "page": "http://www.imdb.com/find?q=tt2325846"
+          }
+        }
+      ],
+      "section": [
+        "David Faustino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dragons: Riders of Berk"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Lily Tomlin Special",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364479",
+            "page": "http://www.imdb.com/find?q=tt0364479"
+          }
+        }
+      ],
+      "section": [
+        "David Faustino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lily Tomlin Special (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Little House on the Prairie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0071007",
+            "page": "http://www.imdb.com/find?q=tt0071007"
+          }
+        }
+      ],
+      "section": [
+        "David Faustino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Little House on the Prairie"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Married With Children",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092400",
+            "page": "http://www.imdb.com/find?q=tt0092400"
+          }
+        }
+      ],
+      "section": [
+        "David Faustino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Married With Children"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Static Shock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247729",
+            "page": "http://www.imdb.com/find?q=tt0247729"
+          }
+        }
+      ],
+      "section": [
+        "David Faustino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Static Shock"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Zeta Project",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0260662",
+            "page": "http://www.imdb.com/find?q=tt0260662"
+          }
+        }
+      ],
+      "section": [
+        "David Faustino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Zeta Project"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Trapper John, M.D.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0078704",
+            "page": "http://www.imdb.com/find?q=tt0078704"
+          }
+        }
+      ],
+      "section": [
+        "David Faustino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Trapper John, M.D."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Winx Club: Enchantix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2033921",
+            "page": "http://www.imdb.com/find?q=tt2033921"
+          }
+        }
+      ],
+      "section": [
+        "David Faustino",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Winx Club: Enchantix"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Not Another B Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1043757",
+            "page": "http://www.imdb.com/find?q=tt1043757"
+          }
+        }
+      ],
+      "section": [
+        "David Faustino",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Not Another B Movie (2010)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Heist",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0252503",
+            "page": "http://www.imdb.com/find?q=tt0252503"
+          }
+        }
+      ],
+      "section": [
+        "David Faustino",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Heist (2001)"
+    },
+    {
       "body": "A Los Angeles native, David Faustino made his television debut at three months old as Lily Tomlin's daughter in the CBS special, Lily. Faustino has since gone on to appear in several television series including Little House on the Prairie, The Love Boat, Fantasy Island, Family Ties, St. Elsewhere, Highway to Heaven, The X-Files, and HBO's Entourage; however, he is best known for his role as Bud Bundy in Fox's ground-breaking series Married... with Children.",
       "links": [],
+      "section": [
+        "David Faustino",
+        "Biographical information"
+      ],
       "text": "A Los Angeles native, David Faustino made his television debut at three months old as Lily Tomlin's daughter in the CBS special, Lily. Faustino has since gone on to appear in several television series including Little House on the Prairie, The Love Boat, Fantasy Island, Family Ties, St. Elsewhere, Highway to Heaven, The X-Files, and HBO's Entourage; however, he is best known for his role as Bud Bundy in Fox's ground-breaking series Married... with Children."
     },
     {
       "body": "In film, Faustino has starred in the cult classic Killer Bud, Macarthur Park, The Heist and starred opposite Jason Mewes, Danny Trejo, and Robert Rodriguez in the comedy High Hopes. In 2009, he created, wrote, produced, and starred in Star-ving for Sony Pictures Television through his production company, F.N.B. Entertainment.",
       "links": [],
+      "section": [
+        "David Faustino",
+        "Biographical information"
+      ],
       "text": "In film, Faustino has starred in the cult classic Killer Bud, Macarthur Park, The Heist and starred opposite Jason Mewes, Danny Trejo, and Robert Rodriguez in the comedy High Hopes. In 2009, he created, wrote, produced, and starred in Star-ving for Sony Pictures Television through his production company, F.N.B. Entertainment."
     },
     {
       "body": "Faustino has appeared in over one hundred commercials and is currently the voice of T-Mobile. He has appeared in numerous stage productions including A Christmas Carol, Cat on a Hot Tin Roof, and the American premiere of Ben Elton's Popcorn, in which he played the lead role. In 2010, he launched Old Scratch, an independent record label and management firm featuring flag ship hip-hop artist Patience Price.",
       "links": [],
+      "section": [
+        "David Faustino",
+        "Biographical information"
+      ],
       "text": "Faustino has appeared in over one hundred commercials and is currently the voice of T-Mobile. He has appeared in numerous stage productions including A Christmas Carol, Cat on a Hot Tin Roof, and the American premiere of Ben Elton's Popcorn, in which he played the lead role. In 2010, he launched Old Scratch, an independent record label and management firm featuring flag ship hip-hop artist Patience Price."
+    },
+    {
+      "body": "2009: Won a TV Land Award for Married with Children (Innovator Award)",
+      "links": [],
+      "section": [
+        "David Faustino",
+        "Awards"
+      ],
+      "text": "2009: Won a TV Land Award for Married with Children (Innovator Award)"
+    },
+    {
+      "body": "2008: Won a TV Land Award for Married with Children (Siblings That Make You Grateful for Your Own Crazy Family)",
+      "links": [],
+      "section": [
+        "David Faustino",
+        "Awards"
+      ],
+      "text": "2008: Won a TV Land Award for Married with Children (Siblings That Make You Grateful for Your Own Crazy Family)"
+    },
+    {
+      "body": "During an exclusive San Diego Comic-Con 2014 interview for Wikia, Faustino mentioned that ${link_0} is his favorite character on the show.",
+      "links": [
+        {
+          "body": "Bolin",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bolin",
+            "page": "Bolin"
+          }
+        }
+      ],
+      "section": [
+        "David Faustino",
+        "Trivia"
+      ],
+      "text": "During an exclusive San Diego Comic-Con 2014 interview for Wikia, Faustino mentioned that Bolin is his favorite character on the show."
+    },
+    {
+      "body": "Faustino's favorite villain in The Legend of Korra is ${link_0}.",
+      "links": [
+        {
+          "body": "Amon",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Amon",
+            "page": "Amon"
+          }
+        }
+      ],
+      "section": [
+        "David Faustino",
+        "Trivia"
+      ],
+      "text": "Faustino's favorite villain in The Legend of Korra is Amon."
     }
   ],
   "source": {

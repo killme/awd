@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Doctors (1963)",
+          "body": "${link_0} (1963)",
           "extra": "(1963)",
           "extra_text": "(1963)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Doctors",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0056752",
+                "page": "http://www.imdb.com/find?q=tt0056752"
+              }
+            }
+          ],
           "text": "The Doctors (1963)",
-          "value": "The Doctors",
+          "value": "${link_0}",
           "value_text": "The Doctors"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0168642",
+                "page": "http://www.imdb.com/find?q=nm0168642"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/George_Coe",
+                "page": "http://en.wikipedia.org/wiki/George_Coe"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,24 +124,653 @@
   ],
   "paragraphs": [
     {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Leaf in the Wind",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Leaf_in_the_Wind",
+            "page": "A_Leaf_in_the_Wind"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "The Legend of Korra credits",
+        "Toza"
+      ],
+      "text": "102. \"A Leaf in the Wind\""
+    },
+    {
+      "body": "${link_0} (web series)",
+      "links": [
+        {
+          "body": "Republic City Hustle",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Republic_City_Hustle",
+            "page": "Republic_City_Hustle"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "The Legend of Korra credits",
+        "Toza"
+      ],
+      "text": "Republic City Hustle (web series)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Archer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1486217",
+            "page": "http://www.imdb.com/find?q=tt1486217"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Archer"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bones",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460627",
+            "page": "http://www.imdb.com/find?q=tt0460627"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bones"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Celebrity Deathmatch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0208614",
+            "page": "http://www.imdb.com/find?q=tt0208614"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Celebrity Deathmatch"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cold Case",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0368479",
+            "page": "http://www.imdb.com/find?q=tt0368479"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Cold Case"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Crossing Jordan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0284718",
+            "page": "http://www.imdb.com/find?q=tt0284718"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Crossing Jordan"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Curb Your Enthusiasm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0264235",
+            "page": "http://www.imdb.com/find?q=tt0264235"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Curb Your Enthusiasm"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gilmore Girls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0238784",
+            "page": "http://www.imdb.com/find?q=tt0238784"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gilmore Girls"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Grey's Anatomy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0413573",
+            "page": "http://www.imdb.com/find?q=tt0413573"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Grey's Anatomy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Judging Amy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0209069",
+            "page": "http://www.imdb.com/find?q=tt0209069"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Judging Amy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Nip/Tuck",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0361217",
+            "page": "http://www.imdb.com/find?q=tt0361217"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Nip/Tuck"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Numb3rs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0433309",
+            "page": "http://www.imdb.com/find?q=tt0433309"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Numb3rs"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Private Practice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0972412",
+            "page": "http://www.imdb.com/find?q=tt0972412"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Private Practice"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Supernatural",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460681",
+            "page": "http://www.imdb.com/find?q=tt0460681"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Supernatural"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Division",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0272376",
+            "page": "http://www.imdb.com/find?q=tt0272376"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Division"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The King of Queens",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0165581",
+            "page": "http://www.imdb.com/find?q=tt0165581"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The King of Queens"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wilfred",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1703925",
+            "page": "http://www.imdb.com/find?q=tt1703925"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wilfred"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Chez Upshaw",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2006088",
+            "page": "http://www.imdb.com/find?q=tt2006088"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Chez Upshaw (2013)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Transformers: Dark of the Moon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1399103",
+            "page": "http://www.imdb.com/find?q=tt1399103"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Transformers: Dark of the Moon (2011)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "Bathrub Picnic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1659309",
+            "page": "http://www.imdb.com/find?q=tt1659309"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bathrub Picnic (2010; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Funny People",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1201167",
+            "page": "http://www.imdb.com/find?q=tt1201167"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Funny People (2009)"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "Slice of Water",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1567692",
+            "page": "http://www.imdb.com/find?q=tt1567692"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Slice of Water (2009; short)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Corporate Affairs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0494279",
+            "page": "http://www.imdb.com/find?q=tt0494279"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Corporate Affairs (2008)"
+    },
+    {
+      "body": "${link_0} (short - director and producer)",
+      "links": [
+        {
+          "body": "De D\u00fcva: The Dove",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0062906",
+            "page": "http://www.imdb.com/find?q=tt0062906"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "De D\u00fcva: The Dove (short - director and producer)"
+    },
+    {
+      "body": "${link_0} (producer)",
+      "links": [
+        {
+          "body": "Distance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0072883",
+            "page": "http://www.imdb.com/find?q=tt0072883"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Distance (producer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Guild Wars 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1716744",
+            "page": "http://www.imdb.com/find?q=tt1716744"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Guild Wars 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: The Old Republic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1320395",
+            "page": "http://www.imdb.com/find?q=tt1320395"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: The Old Republic (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Elder Scrolls V: Skyrim",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1814884",
+            "page": "http://www.imdb.com/find?q=tt1814884"
+          }
+        }
+      ],
+      "section": [
+        "George Coe",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Elder Scrolls V: Skyrim (video game)"
+    },
+    {
       "body": "In 1970, he originated the role of David in the original Broadway cast of George Furth and Stephen Sondheim's Company.",
       "links": [],
+      "section": [
+        "George Coe",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 1970, he originated the role of David in the original Broadway cast of George Furth and Stephen Sondheim's Company."
     },
     {
       "body": "Coe was also an original member of the Not Ready For Prime Time Players, the original cast of Saturday Night Live, but he was only credited as a cast member for the first three shows, often as a pitchman in commercial parodies.",
       "links": [],
+      "section": [
+        "George Coe",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Coe was also an original member of the Not Ready For Prime Time Players, the original cast of Saturday Night Live, but he was only credited as a cast member for the first three shows, often as a pitchman in commercial parodies."
     },
     {
       "body": "In 1979, he appeared as the head of Dustin Hoffman's advertising firm in the Academy Award-winning Kramer vs. Kramer. He himself was nominated for an Academy Award for the 1968 comedy short film The Dove, a parody of Ingmar Bergman's films, which he co-directed and starred in. Coe is also known for a guest-starring role in the 1991 Star Trek: The Next Generation episode \"First Contact\", where he played Chancellor Durkin, the leader of an alien planet with whom the Federation is attempting to establish relations. He also portrayed Ben Cheviot, the eventual head of Network 23, in the TV series Max Headroom.",
       "links": [],
+      "section": [
+        "George Coe",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 1979, he appeared as the head of Dustin Hoffman's advertising firm in the Academy Award-winning Kramer vs. Kramer. He himself was nominated for an Academy Award for the 1968 comedy short film The Dove, a parody of Ingmar Bergman's films, which he co-directed and starred in. Coe is also known for a guest-starring role in the 1991 Star Trek: The Next Generation episode \"First Contact\", where he played Chancellor Durkin, the leader of an alien planet with whom the Federation is attempting to establish relations. He also portrayed Ben Cheviot, the eventual head of Network 23, in the TV series Max Headroom."
     },
     {
       "body": "His various television appearances include Murder, She Wrote, Bones, Judging Amy, The King of Queens, Nip/Tuck, Grey's Anatomy, Columbo, Curb Your Enthusiasm, Gilmore Girls, and in two episodes of The West Wing as Senator Howard Stackhouse. He voiced the character of Woodhouse, the much-put-upon butler, in the FX animated series Archer, and the Autobot Wheeljack in Transformers: Dark of the Moon. Coe also provided voice acting for the 2011 video games The Elder Scrolls V: Skyrim and Star Wars: The Old Republic.",
       "links": [],
+      "section": [
+        "George Coe",
+        "Biographical information",
+        "Career"
+      ],
       "text": "His various television appearances include Murder, She Wrote, Bones, Judging Amy, The King of Queens, Nip/Tuck, Grey's Anatomy, Columbo, Curb Your Enthusiasm, Gilmore Girls, and in two episodes of The West Wing as Senator Howard Stackhouse. He voiced the character of Woodhouse, the much-put-upon butler, in the FX animated series Archer, and the Autobot Wheeljack in Transformers: Dark of the Moon. Coe also provided voice acting for the 2011 video games The Elder Scrolls V: Skyrim and Star Wars: The Old Republic."
+    },
+    {
+      "body": "2009: Won a Screen Actors' Guild Award (Ralph Morgan Award)",
+      "links": [],
+      "section": [
+        "George Coe",
+        "Awards"
+      ],
+      "text": "2009: Won a Screen Actors' Guild Award (Ralph Morgan Award)"
     }
   ],
   "source": {

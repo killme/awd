@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The F Word (1998)",
+          "body": "${link_0} (1998)",
           "extra": "(1998)",
           "extra_text": "(1998)",
-          "links": [],
+          "links": [
+            {
+              "body": "The F Word",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0126290",
+                "page": "http://www.imdb.com/find?q=tt0126290"
+              }
+            }
+          ],
           "text": "The F Word (1998)",
-          "value": "The F Word",
+          "value": "${link_0}",
           "value_text": "The F Word"
         }
       ]
@@ -41,30 +54,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0571908",
+                "page": "http://www.imdb.com/find?q=nm0571908"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/therealpaulmckinney",
+                "page": "https://www.facebook.com/therealpaulmckinney"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://paulmckinney.com/",
+                "page": "http://paulmckinney.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -72,9 +115,763 @@
   ],
   "paragraphs": [
     {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Avatar: The Last Airbender credits",
+        "Ghashiun"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "216. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Avatar: The Last Airbender credits",
+        "Ghashiun"
+      ],
+      "text": "216. \"Appa's Lost Days\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "216. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "216. \"Appa's Lost Days\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "18 Wheels of Justice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0221728",
+            "page": "http://www.imdb.com/find?q=tt0221728"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "18 Wheels of Justice"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Backwash",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1699205",
+            "page": "http://www.imdb.com/find?q=tt1699205"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Backwash"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "How I Met Your Mother",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460649",
+            "page": "http://www.imdb.com/find?q=tt0460649"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "How I Met Your Mother"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Internet Tonight",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0240271",
+            "page": "http://www.imdb.com/find?q=tt0240271"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Internet Tonight"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jon Benjamin Has a Van",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1717343",
+            "page": "http://www.imdb.com/find?q=tt1717343"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jon Benjamin Has a Van"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "My Wife and Kids",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0273855",
+            "page": "http://www.imdb.com/find?q=tt0273855"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "My Wife and Kids"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Norm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0181935",
+            "page": "http://www.imdb.com/find?q=tt0181935"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Norm"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Power Rangers Wild Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0287871",
+            "page": "http://www.imdb.com/find?q=tt0287871"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Power Rangers Wild Force"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Rude Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0165057",
+            "page": "http://www.imdb.com/find?q=tt0165057"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Rude Awakening"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sabrina, the Teenage Witch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115341",
+            "page": "http://www.imdb.com/find?q=tt0115341"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sabrina, the Teenage Witch"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "That '70s Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0165598",
+            "page": "http://www.imdb.com/find?q=tt0165598"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "That '70s Show"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Invisible Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0220238",
+            "page": "http://www.imdb.com/find?q=tt0220238"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Invisible Man"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Yes, Dear",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247144",
+            "page": "http://www.imdb.com/find?q=tt0247144"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Yes, Dear"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "The Gunrunner Billy Kane",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1633358",
+            "page": "http://www.imdb.com/find?q=tt1633358"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Gunrunner Billy Kane (2014)"
+    },
+    {
+      "body": "${link_0} (2011; short)",
+      "links": [
+        {
+          "body": "Absolution",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2063578",
+            "page": "http://www.imdb.com/find?q=tt2063578"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Absolution (2011; short)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "Marvin",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1671643",
+            "page": "http://www.imdb.com/find?q=tt1671643"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Marvin (2010; short)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "Guerrilla Garden",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1546389",
+            "page": "http://www.imdb.com/find?q=tt1546389"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Guerrilla Garden (2010; short)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "How to Eat Bacon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1664669",
+            "page": "http://www.imdb.com/find?q=tt1664669"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "How to Eat Bacon (2010; short)"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "Kowalczyk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1507967",
+            "page": "http://www.imdb.com/find?q=tt1507967"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kowalczyk (2009; short)"
+    },
+    {
+      "body": "${link_0} (2008; short)",
+      "links": [
+        {
+          "body": "In the Bath with Kath",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1332107",
+            "page": "http://www.imdb.com/find?q=tt1332107"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "In the Bath with Kath (2008; short)"
+    },
+    {
+      "body": "${link_0} (2008; short)",
+      "links": [
+        {
+          "body": "Three-Fifty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0995054",
+            "page": "http://www.imdb.com/find?q=tt0995054"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Three-Fifty (2008; short)"
+    },
+    {
+      "body": "${link_0} (2008; video)",
+      "links": [
+        {
+          "body": "Laundromat",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1657380",
+            "page": "http://www.imdb.com/find?q=tt1657380"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Laundromat (2008; video)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Will Unplugged",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0353008",
+            "page": "http://www.imdb.com/find?q=tt0353008"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Will Unplugged (2005)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Tapped Out",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0250023",
+            "page": "http://www.imdb.com/find?q=tt0250023"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tapped Out (2003)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "The First $20 Million Is Always the Hardest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0280674",
+            "page": "http://www.imdb.com/find?q=tt0280674"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The First $20 Million Is Always the Hardest (2002)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Foolish Minds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0302572",
+            "page": "http://www.imdb.com/find?q=tt0302572"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Foolish Minds (2001)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Clerks of Darkness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0165175",
+            "page": "http://www.imdb.com/find?q=tt0165175"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Clerks of Darkness (1999)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Show Me Your Tattoo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0170572",
+            "page": "http://www.imdb.com/find?q=tt0170572"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Show Me Your Tattoo (1999)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "The F Word",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0126290",
+            "page": "http://www.imdb.com/find?q=tt0126290"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The F Word (1998)"
+    },
+    {
+      "body": "${link_0} (short - editor, writer, and producer)",
+      "links": [
+        {
+          "body": "Mementos",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0337675",
+            "page": "http://www.imdb.com/find?q=tt0337675"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mementos (short - editor, writer, and producer)"
+    },
+    {
+      "body": "${link_0} (short - associate producer)",
+      "links": [
+        {
+          "body": "Sissy Frenchfry",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0477088",
+            "page": "http://www.imdb.com/find?q=tt0477088"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Sissy Frenchfry (short - associate producer)"
+    },
+    {
+      "body": "${link_0} (short - boom operator)",
+      "links": [
+        {
+          "body": "The Wind Effect",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0372030",
+            "page": "http://www.imdb.com/find?q=tt0372030"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Wind Effect (short - boom operator)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Gothic 3: Forsaken Gods",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1344111",
+            "page": "http://www.imdb.com/find?q=tt1344111"
+          }
+        }
+      ],
+      "section": [
+        "Paul McKinney",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Gothic 3: Forsaken Gods (video game)"
+    },
+    {
       "body": "McKinney earned a degree in theater from the University of California, Davis.",
       "links": [],
+      "section": [
+        "Paul McKinney",
+        "Biographical information",
+        "Career"
+      ],
       "text": "McKinney earned a degree in theater from the University of California, Davis."
+    },
+    {
+      "body": "2005: Won a New Haven Film Fest Jury Award for Mementos (Best Performance)",
+      "links": [],
+      "section": [
+        "Paul McKinney",
+        "Awards"
+      ],
+      "text": "2005: Won a New Haven Film Fest Jury Award for Mementos (Best Performance)"
     }
   ],
   "source": {

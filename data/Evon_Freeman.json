@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Skullgirls (2012; video game - environment painter)",
+          "body": "${link_0} (2012; video game - environment painter)",
           "extra": "(2012; video game - environment painter)",
           "extra_text": "(2012; video game - environment painter)",
-          "links": [],
+          "links": [
+            {
+              "body": "Skullgirls",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt2357337",
+                "page": "http://www.imdb.com/find?q=tt2357337"
+              }
+            }
+          ],
           "text": "Skullgirls (2012; video game - environment painter)",
-          "value": "Skullgirls",
+          "value": "${link_0}",
           "value_text": "Skullgirls"
         }
       ]
@@ -41,63 +54,283 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm5000143",
+                "page": "http://www.imdb.com/find?q=nm5000143"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "DeviantArt",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "DeviantArt",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://porkbun.deviantart.com/",
+                "page": "http://porkbun.deviantart.com/"
+              }
+            }
+          ],
           "text": "DeviantArt",
-          "value": "DeviantArt",
+          "value": "${link_0}",
           "value_text": "DeviantArt"
         },
         {
-          "body": "Design portfolio",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Design portfolio",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://evonport.blogspot.com/",
+                "page": "http://evonport.blogspot.com/"
+              }
+            }
+          ],
           "text": "Design portfolio",
-          "value": "Design portfolio",
+          "value": "${link_0}",
           "value_text": "Design portfolio"
         },
         {
-          "body": "Personal blog",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Personal blog",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://evonyo.blogspot.com/",
+                "page": "http://evonyo.blogspot.com/"
+              }
+            }
+          ],
           "text": "Personal blog",
-          "value": "Personal blog",
+          "value": "${link_0}",
           "value_text": "Personal blog"
         },
         {
-          "body": "Storyboard portfolio",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Storyboard portfolio",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://evonstoryboard.blogspot.com/",
+                "page": "http://evonstoryboard.blogspot.com/"
+              }
+            }
+          ],
           "text": "Storyboard portfolio",
-          "value": "Storyboard portfolio",
+          "value": "${link_0}",
           "value_text": "Storyboard portfolio"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/evonyo",
+                "page": "https://twitter.com/evonyo"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Evon Freeman",
+        "The Legend of Korra credits",
+        "Character designer"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Evon Freeman",
+        "The Legend of Korra credits",
+        "Character designer"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "${link_0} (web series)",
+      "links": [
+        {
+          "body": "Republic City Hustle",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Republic_City_Hustle",
+            "page": "Republic_City_Hustle"
+          }
+        }
+      ],
+      "section": [
+        "Evon Freeman",
+        "The Legend of Korra credits",
+        "Character designer"
+      ],
+      "text": "Republic City Hustle (web series)"
+    },
+    {
+      "body": "${link_0} (background and prop designer)",
+      "links": [
+        {
+          "body": "Monsters vs. Aliens",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2782214",
+            "page": "http://www.imdb.com/find?q=tt2782214"
+          }
+        }
+      ],
+      "section": [
+        "Evon Freeman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Monsters vs. Aliens (background and prop designer)"
+    },
+    {
+      "body": "${link_0} (storyboard artist/revisionist and prop designer)",
+      "links": [
+        {
+          "body": "Star vs. the Forces of Evil",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2758770",
+            "page": "http://www.imdb.com/find?q=tt2758770"
+          }
+        }
+      ],
+      "section": [
+        "Evon Freeman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star vs. the Forces of Evil (storyboard artist/revisionist and prop designer)"
+    },
+    {
+      "body": "${link_0} (prop designer)",
+      "links": [
+        {
+          "body": "Unikitty!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt6874502",
+            "page": "http://www.imdb.com/find?q=tt6874502"
+          }
+        }
+      ],
+      "section": [
+        "Evon Freeman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Unikitty! (prop designer)"
+    },
+    {
+      "body": "${link_0} (video game - environment painter)",
+      "links": [
+        {
+          "body": "Skullgirls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2357337",
+            "page": "http://www.imdb.com/find?q=tt2357337"
+          }
+        }
+      ],
+      "section": [
+        "Evon Freeman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Skullgirls (video game - environment painter)"
+    },
+    {
+      "body": "${link_0} personally chose Freeman to do the character designs for Republic City Hustle; he has shown personal interest in her work in the past.",
+      "links": [
+        {
+          "body": "Bryan Konietzko",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bryan_Konietzko",
+            "page": "Bryan_Konietzko"
+          }
+        }
+      ],
+      "section": [
+        "Evon Freeman",
+        "Trivia"
+      ],
+      "text": "Bryan Konietzko personally chose Freeman to do the character designs for Republic City Hustle; he has shown personal interest in her work in the past."
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Evon_Freeman",
     "file": "avatar.wikia.com/wiki/Evon_Freeman.html",

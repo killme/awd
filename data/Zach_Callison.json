@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Ghost Image (2007)",
+          "body": "${link_0} (2007)",
           "extra": "(2007)",
           "extra_text": "(2007)",
-          "links": [],
+          "links": [
+            {
+              "body": "Ghost Image",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0861772",
+                "page": "http://www.imdb.com/find?q=tt0861772"
+              }
+            }
+          ],
           "text": "Ghost Image (2007)",
-          "value": "Ghost Image",
+          "value": "${link_0}",
           "value_text": "Ghost Image"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2642131",
+                "page": "http://www.imdb.com/find?q=nm2642131"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://instagram.com/zachcallison#",
+                "page": "https://instagram.com/zachcallison"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.zachcallison.com/",
+                "page": "http://www.zachcallison.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/ZachCallison",
+                "page": "https://twitter.com/ZachCallison"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,14 +162,533 @@
   ],
   "paragraphs": [
     {
+      "body": "103. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Revelation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Revelation_(episode)",
+            "page": "The_Revelation_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "The Legend of Korra credits",
+        "Skoochy"
+      ],
+      "text": "103. \"The Revelation\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Skeletons in the Closet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
+            "page": "Skeletons_in_the_Closet"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "The Legend of Korra credits",
+        "Tarrlok (age 11)"
+      ],
+      "text": "111. \"Skeletons in the Closet\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Diary of a Single Mom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1362673",
+            "page": "http://www.imdb.com/find?q=tt1362673"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Diary of a Single Mom"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Flip the Script Kids Reality Special",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2090049",
+            "page": "http://www.imdb.com/find?q=tt2090049"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Flip the Script Kids Reality Special"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Funny or Die Presents...",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1556078",
+            "page": "http://www.imdb.com/find?q=tt1556078"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Funny or Die Presents..."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hannah Montana",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0493093",
+            "page": "http://www.imdb.com/find?q=tt0493093"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hannah Montana"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "iCarly",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0972534",
+            "page": "http://www.imdb.com/find?q=tt0972534"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "iCarly"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "I'm in the Band",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1433495",
+            "page": "http://www.imdb.com/find?q=tt1433495"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "I'm in the Band"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Little Brother",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2145785",
+            "page": "http://www.imdb.com/find?q=tt2145785"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Little Brother"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Perfect Couples",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1595856",
+            "page": "http://www.imdb.com/find?q=tt1595856"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Perfect Couples"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Scooby-Doo! Mystery Incorporated",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1660055",
+            "page": "http://www.imdb.com/find?q=tt1660055"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Scooby-Doo! Mystery Incorporated"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sofia the First",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2136138",
+            "page": "http://www.imdb.com/find?q=tt2136138"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sofia the First"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Steven Universe",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3061046",
+            "page": "http://www.imdb.com/find?q=tt3061046"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Steven Universe"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sym-Bionic Titan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1709198",
+            "page": "http://www.imdb.com/find?q=tt1709198"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sym-Bionic Titan"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Teens Wanna Know",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2258266",
+            "page": "http://www.imdb.com/find?q=tt2258266"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teens Wanna Know"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Micah the Asshole Ghost",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3286096",
+            "page": "http://www.imdb.com/find?q=tt3286096"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Micah the Asshole Ghost (2013)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Sofia the First: Once Upon a Princess",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2137286",
+            "page": "http://www.imdb.com/find?q=tt2137286"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sofia the First: Once Upon a Princess (2012)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Rock Jocks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1869653",
+            "page": "http://www.imdb.com/find?q=tt1869653"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rock Jocks (2012)"
+    },
+    {
+      "body": "${link_0} (2010; video)",
+      "links": [
+        {
+          "body": "DC Showcase Original Shorts Collection",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1696202",
+            "page": "http://www.imdb.com/find?q=tt1696202"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "DC Showcase Original Shorts Collection (2010; video)"
+    },
+    {
+      "body": "${link_0} (2010; video short)",
+      "links": [
+        {
+          "body": "DC Showcase: Superman/Shazam!: The Return of Black Adam",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1701223",
+            "page": "http://www.imdb.com/find?q=tt1701223"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "DC Showcase: Superman/Shazam!: The Return of Black Adam (2010; video short)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Kingshighway",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1023339",
+            "page": "http://www.imdb.com/find?q=tt1023339"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kingshighway (2010)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "Ninjas in the Shed",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1815851",
+            "page": "http://www.imdb.com/find?q=tt1815851"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ninjas in the Shed (2010; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Land of the Lost",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0457400",
+            "page": "http://www.imdb.com/find?q=tt0457400"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Land of the Lost (2009)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Ghost Image",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0861772",
+            "page": "http://www.imdb.com/find?q=tt0861772"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ghost Image (2007)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kinect Disneyland Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2131554",
+            "page": "http://www.imdb.com/find?q=tt2131554"
+          }
+        }
+      ],
+      "section": [
+        "Zach Callison",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kinect Disneyland Adventures (video game)"
+    },
+    {
       "body": "Callison has an older brother, Wes, and an older sister, Andrea. When he was young, he used his lisp to get away with spitting.",
       "links": [],
+      "section": [
+        "Zach Callison",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Callison has an older brother, Wes, and an older sister, Andrea. When he was young, he used his lisp to get away with spitting."
     },
     {
       "body": "Callison began acting at the age of seven when he was cast as Winthrop in The Music Man, and he starred in his first feature film, Ghost Image, in 2007.",
       "links": [],
+      "section": [
+        "Zach Callison",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Callison began acting at the age of seven when he was cast as Winthrop in The Music Man, and he starred in his first feature film, Ghost Image, in 2007."
+    },
+    {
+      "body": "2013: Won a Young Artist Award for Sofia the First: Once Upon a Princess (Best Performance in a Voice-Over Role - Television - Young Actor)",
+      "links": [],
+      "section": [
+        "Zach Callison",
+        "Awards"
+      ],
+      "text": "2013: Won a Young Artist Award for Sofia the First: Once Upon a Princess (Best Performance in a Voice-Over Role - Television - Young Actor)"
     }
   ],
   "source": {

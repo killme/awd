@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Hostile Takeover (1997)",
+          "body": "${link_0} (1997)",
           "extra": "(1997)",
           "extra_text": "(1997)",
-          "links": [],
+          "links": [
+            {
+              "body": "Hostile Takeover",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0119319",
+                "page": "http://www.imdb.com/find?q=tt0119319"
+              }
+            }
+          ],
           "text": "Hostile Takeover (1997)",
-          "value": "Hostile Takeover",
+          "value": "${link_0}",
           "value_text": "Hostile Takeover"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0615130",
+                "page": "http://www.imdb.com/find?q=nm0615130"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Liz_Murray",
+                "page": "http://en.wikipedia.org/wiki/Liz_Murray"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/lizmurraybreakingnight",
+                "page": "https://www.facebook.com/lizmurraybreakingnight"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/Liz_Murray",
+                "page": "https://twitter.com/Liz_Murray"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,23 +162,399 @@
   ],
   "paragraphs": [
     {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "All Grown Up",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0387714",
+            "page": "http://www.imdb.com/find?q=tt0387714"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "All Grown Up"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Beyond Belief: Fact or Fiction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0138956",
+            "page": "http://www.imdb.com/find?q=tt0138956"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Beyond Belief: Fact or Fiction"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Caroline in the City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111910",
+            "page": "http://www.imdb.com/find?q=tt0111910"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Caroline in the City"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Judging Amy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0209069",
+            "page": "http://www.imdb.com/find?q=tt0209069"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Judging Amy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Katie Joplin",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0210424",
+            "page": "http://www.imdb.com/find?q=tt0210424"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Katie Joplin"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mike Hammer, Private Eye",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0130416",
+            "page": "http://www.imdb.com/find?q=tt0130416"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mike Hammer, Private Eye"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Night Stand",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112097",
+            "page": "http://www.imdb.com/find?q=tt0112097"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Night Stand"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Payne",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0182623",
+            "page": "http://www.imdb.com/find?q=tt0182623"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Payne"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Raising the Bar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1001558",
+            "page": "http://www.imdb.com/find?q=tt1001558"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Raising the Bar"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Spin City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115369",
+            "page": "http://www.imdb.com/find?q=tt0115369"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Spin City"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Wild Thornberrys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0167743",
+            "page": "http://www.imdb.com/find?q=tt0167743"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Wild Thornberrys"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Hughlys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0168337",
+            "page": "http://www.imdb.com/find?q=tt0168337"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Hughlys"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ugly Betty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0805669",
+            "page": "http://www.imdb.com/find?q=tt0805669"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ugly Betty"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Veronica Mars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0412253",
+            "page": "http://www.imdb.com/find?q=tt0412253"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Veronica Mars"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Kill the Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0165846",
+            "page": "http://www.imdb.com/find?q=tt0165846"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kill the Man (1999)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Hostile Takeover",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119319",
+            "page": "http://www.imdb.com/find?q=tt0119319"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hostile Takeover (1997)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Galactic Battlegrounds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292254",
+            "page": "http://www.imdb.com/find?q=tt0292254"
+          }
+        }
+      ],
+      "section": [
+        "Lizzie Murray",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Galactic Battlegrounds (video game)"
+    },
+    {
       "body": "Murray was born in the Bronx, New York, to poor and drug-addicted parents, both of whom would later contract HIV. She became homeless just after she turned 15 when her mother died of AIDS and her father moved to a homeless shelter. Despite personal adversity, Murray began attending the Humanities Preparatory Academy in Chelsea, Manhattan, and graduated two years later. She was awarded a New York Times scholarship for needy students and was accepted into Harvard University, matriculating in the fall semester of 2000. Her older sister Lisa graduated from Purchase College in New York State and is a school teacher for children with autism.",
       "links": [],
+      "section": [
+        "Lizzie Murray",
+        "Biographical information"
+      ],
       "text": "Murray was born in the Bronx, New York, to poor and drug-addicted parents, both of whom would later contract HIV. She became homeless just after she turned 15 when her mother died of AIDS and her father moved to a homeless shelter. Despite personal adversity, Murray began attending the Humanities Preparatory Academy in Chelsea, Manhattan, and graduated two years later. She was awarded a New York Times scholarship for needy students and was accepted into Harvard University, matriculating in the fall semester of 2000. Her older sister Lisa graduated from Purchase College in New York State and is a school teacher for children with autism."
     },
     {
       "body": "In late 2006, her father died of AIDS. She returned to Harvard in 2006 and graduated in June 2009. As of August 2009, she began taking graduate courses at Harvard Summer School with plans to earn a doctorate in clinical psychology and become a counselor.",
       "links": [],
+      "section": [
+        "Lizzie Murray",
+        "Biographical information"
+      ],
       "text": "In late 2006, her father died of AIDS. She returned to Harvard in 2006 and graduated in June 2009. As of August 2009, she began taking graduate courses at Harvard Summer School with plans to earn a doctorate in clinical psychology and become a counselor."
     },
     {
       "body": "She is the founder and director of Manifest Living and a motivational speaker. A made-for-TV film about Murray's life, Homeless to Harvard: The Liz Murray Story, was released in 2003. Liz Murray's New York Times and Sunday Times bestselling memoir Breaking Night was released in September 2010.",
       "links": [],
+      "section": [
+        "Lizzie Murray",
+        "Biographical information"
+      ],
       "text": "She is the founder and director of Manifest Living and a motivational speaker. A made-for-TV film about Murray's life, Homeless to Harvard: The Liz Murray Story, was released in 2003. Liz Murray's New York Times and Sunday Times bestselling memoir Breaking Night was released in September 2010."
     },
     {
       "body": "On May 19, 2013, she was awarded an honorary doctorate of public service and gave the Commencement address at Merrimack College in North Andover, Massachusetts.",
       "links": [],
+      "section": [
+        "Lizzie Murray",
+        "Biographical information"
+      ],
       "text": "On May 19, 2013, she was awarded an honorary doctorate of public service and gave the Commencement address at Merrimack College in North Andover, Massachusetts."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Bernie Mac Show (2001)",
+          "body": "${link_0} (2001)",
           "extra": "(2001)",
           "extra_text": "(2001)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Bernie Mac Show",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0285341",
+                "page": "http://www.imdb.com/find?q=tt0285341"
+              }
+            }
+          ],
           "text": "The Bernie Mac Show (2001)",
-          "value": "The Bernie Mac Show",
+          "value": "${link_0}",
           "value_text": "The Bernie Mac Show"
         }
       ]
@@ -69,75 +82,155 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0124703",
+                "page": "http://www.imdb.com/find?q=nm0124703"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Paul_Butcher_(actor)",
+                "page": "http://en.wikipedia.org/wiki/Paul_Butcher_(actor)"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "DeviantART",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "DeviantART",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://pbart79.deviantart.com/",
+                "page": "http://pbart79.deviantart.com/"
+              }
+            }
+          ],
           "text": "DeviantART",
-          "value": "DeviantART",
+          "value": "${link_0}",
           "value_text": "DeviantART"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Paul-Butcher/161310697274958",
+                "page": "https://www.facebook.com/pages/Paul-Butcher/161310697274958"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/thepaulbutcher#",
+                "page": "http://instagram.com/thepaulbutcher"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.paulbutcher.net/",
+                "page": "http://www.paulbutcher.net/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/ThePaulButcher",
+                "page": "https://twitter.com/ThePaulButcher"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/ThePaulButcher",
+                "page": "http://www.youtube.com/user/ThePaulButcher"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
@@ -145,9 +238,440 @@
   ],
   "paragraphs": [
     {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "American Dad!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397306",
+            "page": "http://www.imdb.com/find?q=tt0397306"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Dad!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Back to You",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0950721",
+            "page": "http://www.imdb.com/find?q=tt0950721"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Back to You"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bones",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460627",
+            "page": "http://www.imdb.com/find?q=tt0460627"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bones"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "King of the Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118375",
+            "page": "http://www.imdb.com/find?q=tt0118375"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "King of the Hill"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "MyMusic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2169273",
+            "page": "http://www.imdb.com/find?q=tt2169273"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "MyMusic"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Mighty B!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0917551",
+            "page": "http://www.imdb.com/find?q=tt0917551"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Mighty B!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Zoey 101",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0415463",
+            "page": "http://www.imdb.com/find?q=tt0415463"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Zoey 101"
+    },
+    {
+      "body": "${link_0} (2008; video short)",
+      "links": [
+        {
+          "body": "Surviving Sid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1338677",
+            "page": "http://www.imdb.com/find?q=tt1338677"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Surviving Sid (2008; video short)"
+    },
+    {
+      "body": "${link_0} (2007; video short)",
+      "links": [
+        {
+          "body": "Holly Hobbie and Friends: Secret Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1052004",
+            "page": "http://www.imdb.com/find?q=tt1052004"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Holly Hobbie and Friends: Secret Adventures (2007; video short)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Meet the Robinsons",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0396555",
+            "page": "http://www.imdb.com/find?q=tt0396555"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Meet the Robinsons (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "The Number 23",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0481369",
+            "page": "http://www.imdb.com/find?q=tt0481369"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Number 23 (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Barnyard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0414853",
+            "page": "http://www.imdb.com/find?q=tt0414853"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Barnyard (2006)"
+    },
+    {
+      "body": "${link_0} (2006; video short)",
+      "links": [
+        {
+          "body": "Holly Hobbie and Friends: Christmas Wishes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0906022",
+            "page": "http://www.imdb.com/find?q=tt0906022"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Holly Hobbie and Friends: Christmas Wishes (2006; video short)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Over the Hedge",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0327084",
+            "page": "http://www.imdb.com/find?q=tt0327084"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Over the Hedge (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Ice Age: The Meltdown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0438097",
+            "page": "http://www.imdb.com/find?q=tt0438097"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ice Age: The Meltdown (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Reeker",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0393635",
+            "page": "http://www.imdb.com/find?q=tt0393635"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Reeker (2005)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0390163",
+            "page": "http://www.imdb.com/find?q=tt0390163"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts II: Final Mix+",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1018736",
+            "page": "http://www.imdb.com/find?q=tt1018736"
+          }
+        }
+      ],
+      "section": [
+        "Paul Butcher",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts II: Final Mix+ (video game)"
+    },
+    {
       "body": "Butcher lives in Malibu, California, with his father, also named Paul, and his mother, Jacqueline.",
       "links": [],
+      "section": [
+        "Paul Butcher",
+        "Biographical information"
+      ],
       "text": "Butcher lives in Malibu, California, with his father, also named Paul, and his mother, Jacqueline."
+    },
+    {
+      "body": "2008: Won a Young Artist Award for Meet the Robinsons (Best Performance in a Voice-Over Role - Young Actor)",
+      "links": [],
+      "section": [
+        "Paul Butcher",
+        "Awards"
+      ],
+      "text": "2008: Won a Young Artist Award for Meet the Robinsons (Best Performance in a Voice-Over Role - Young Actor)"
+    },
+    {
+      "body": "2007: Won a Young Artist Award for Zoey 101 (Best Young Ensemble Performance in a TV Series (Comedy or Drama))",
+      "links": [],
+      "section": [
+        "Paul Butcher",
+        "Awards"
+      ],
+      "text": "2007: Won a Young Artist Award for Zoey 101 (Best Young Ensemble Performance in a TV Series (Comedy or Drama))"
+    },
+    {
+      "body": "2006: Won a Young Artist Award for Zoey 101 (Best Young Ensemble Performance in a TV Series (Comedy or Drama))",
+      "links": [],
+      "section": [
+        "Paul Butcher",
+        "Awards"
+      ],
+      "text": "2006: Won a Young Artist Award for Zoey 101 (Best Young Ensemble Performance in a TV Series (Comedy or Drama))"
     }
   ],
   "source": {

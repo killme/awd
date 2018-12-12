@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic transcripts",
       "target": {
-        "href": "Category_Comic_transcripts",
+        "external": false,
+        "href": "/wiki/Category_Comic_transcripts",
         "page": "Category_Comic_transcripts"
       }
     },
     {
       "body": "The Lost Adventures transcripts",
       "target": {
-        "href": "Category_The_Lost_Adventures_transcripts",
+        "external": false,
+        "href": "/wiki/Category_The_Lost_Adventures_transcripts",
         "page": "Category_The_Lost_Adventures_transcripts"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -34,34 +38,48 @@
     {
       "body": "",
       "links": [],
+      "section": [
+        "Transcript:Game Time"
+      ],
       "text": ""
     },
     {
-      "body": "\"Dragon Days\"\n\u2193\n\"Game Time\"\n\u2193\n\"Bumi vs. Toph, Round One\"",
-      "links": [],
-      "text": "\"Dragon Days\"\n\u2193\n\"Game Time\"\n\u2193\n\"Bumi vs. Toph, Round One\""
-    },
-    {
-      "body": "${link_0} \u00b7 ${link_1}",
+      "body": "${link_0}",
       "links": [
         {
-          "body": "Article",
+          "body": "Ember Island",
           "key": "${link_0}",
           "target": {
-            "href": "Game_Time",
-            "page": "Game_Time"
-          }
-        },
-        {
-          "body": "More transcripts",
-          "key": "${link_1}",
-          "target": {
-            "href": "Avatar_Wiki_Transcripts",
-            "page": "Avatar_Wiki_Transcripts"
+            "external": false,
+            "href": "/wiki/Ember_Island",
+            "page": "Ember_Island"
           }
         }
       ],
-      "text": "Article \u00b7 More transcripts"
+      "section": [
+        "Transcript:Game Time",
+        "Locations"
+      ],
+      "text": "Ember Island"
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "Game Time",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Game_Time",
+            "page": "Game_Time"
+          }
+        }
+      ],
+      "section": [
+        "Transcript:Game Time",
+        "See also"
+      ],
+      "text": "\"Game Time\""
     }
   ],
   "source": {

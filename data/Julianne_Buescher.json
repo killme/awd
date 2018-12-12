@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Muppet Perk-Up (1985; short)",
+          "body": "${link_0} (1985; short)",
           "extra": "(1985; short)",
           "extra_text": "(1985; short)",
-          "links": [],
+          "links": [
+            {
+              "body": "Muppet Perk-Up",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1037802",
+                "page": "http://www.imdb.com/find?q=tt1037802"
+              }
+            }
+          ],
           "text": "Muppet Perk-Up (1985; short)",
-          "value": "Muppet Perk-Up",
+          "value": "${link_0}",
           "value_text": "Muppet Perk-Up"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0003925",
+                "page": "http://www.imdb.com/find?q=nm0003925"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Julianne_Buescher",
+                "page": "http://en.wikipedia.org/wiki/Julianne_Buescher"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.newvenus.com/",
+                "page": "http://www.newvenus.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -86,14 +129,431 @@
   ],
   "paragraphs": [
     {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dinosaurs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101081",
+            "page": "http://www.imdb.com/find?q=tt0101081"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dinosaurs"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Lady Gaga & the Muppets' Holiday Spectacular",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3268828",
+            "page": "http://www.imdb.com/find?q=tt3268828"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lady Gaga & the Muppets' Holiday Spectacular (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Naruto",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0409591",
+            "page": "http://www.imdb.com/find?q=tt0409591"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Naruto"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Robot Chicken",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0437745",
+            "page": "http://www.imdb.com/find?q=tt0437745"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Robot Chicken"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sid the Science Kid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1236429",
+            "page": "http://www.imdb.com/find?q=tt1236429"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sid the Science Kid"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Weekenders",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0237987",
+            "page": "http://www.imdb.com/find?q=tt0237987"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Weekenders"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Zatch Bell!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0455295",
+            "page": "http://www.imdb.com/find?q=tt0455295"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Zatch Bell!"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Barnyard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0414853",
+            "page": "http://www.imdb.com/find?q=tt0414853"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Barnyard (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Wild",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0405469",
+            "page": "http://www.imdb.com/find?q=tt0405469"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wild (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Chicken Little",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0371606",
+            "page": "http://www.imdb.com/find?q=tt0371606"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Chicken Little (2005)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Geppetto's Secret",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0399085",
+            "page": "http://www.imdb.com/find?q=tt0399085"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Geppetto's Secret (2005)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Resculpting Venus",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0240860",
+            "page": "http://www.imdb.com/find?q=tt0240860"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Resculpting Venus (1999)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Mulan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120762",
+            "page": "http://www.imdb.com/find?q=tt0120762"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mulan (1998)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Br\u00fctal Legend",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1171225",
+            "page": "http://www.imdb.com/find?q=tt1171225"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Br\u00fctal Legend (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dragon Age: Origins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1541718",
+            "page": "http://www.imdb.com/find?q=tt1541718"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dragon Age: Origins (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Secret Weapons Over Normandy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0405298",
+            "page": "http://www.imdb.com/find?q=tt0405298"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Secret Weapons Over Normandy (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: X-Wing Alliance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0246253",
+            "page": "http://www.imdb.com/find?q=tt0246253"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: X-Wing Alliance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Bard's Tale",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0411146",
+            "page": "http://www.imdb.com/find?q=tt0411146"
+          }
+        }
+      ],
+      "section": [
+        "Julianne Buescher",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Bard's Tale (video game)"
+    },
+    {
       "body": "As a voice artist, Buescher is known for many roles, including Anko Mitarashi on Naruto. She is also a skilled puppeteer and has worked for both Sesame Street and The Muppets. Buescher recently received an offer to join the cast of Avenue Q; she can also be heard as the announcer for E!'s The Soup, Gone Bad, and Love Chai. Buescher was a member of The Second City comedy troupe.",
       "links": [],
+      "section": [
+        "Julianne Buescher",
+        "Biographical information"
+      ],
       "text": "As a voice artist, Buescher is known for many roles, including Anko Mitarashi on Naruto. She is also a skilled puppeteer and has worked for both Sesame Street and The Muppets. Buescher recently received an offer to join the cast of Avenue Q; she can also be heard as the announcer for E!'s The Soup, Gone Bad, and Love Chai. Buescher was a member of The Second City comedy troupe."
     },
     {
       "body": "Buescher is a breast cancer survivor and is supportive of attempts to raise awareness of the issue, having written about her own experiences and produced an award winning film on the subject.",
       "links": [],
+      "section": [
+        "Julianne Buescher",
+        "Biographical information"
+      ],
       "text": "Buescher is a breast cancer survivor and is supportive of attempts to raise awareness of the issue, having written about her own experiences and produced an award winning film on the subject."
+    },
+    {
+      "body": "2000: Won a Freaky Film Festival Jury Award for Resculpting Venus (Best Narrative)",
+      "links": [],
+      "section": [
+        "Julianne Buescher",
+        "Awards"
+      ],
+      "text": "2000: Won a Freaky Film Festival Jury Award for Resculpting Venus (Best Narrative)"
     }
   ],
   "source": {

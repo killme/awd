@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Dreaming (1988)",
+          "body": "${link_0} (1988)",
           "extra": "(1988)",
           "extra_text": "(1988)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Dreaming",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0095064",
+                "page": "http://www.imdb.com/find?q=tt0095064"
+              }
+            }
+          ],
           "text": "The Dreaming (1988)",
-          "value": "The Dreaming",
+          "value": "${link_0}",
           "value_text": "The Dreaming"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0633604",
+                "page": "http://www.imdb.com/find?q=nm0633604"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/John_Noble",
+                "page": "http://en.wikipedia.org/wiki/John_Noble"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/johnnob58004412",
+                "page": "https://twitter.com/johnnob58004412"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -86,9 +129,630 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "24",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285331",
+            "page": "http://www.imdb.com/find?q=tt0285331"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "24"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Airtight",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0222688",
+            "page": "http://www.imdb.com/find?q=tt0222688"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Airtight (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "All Saints",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0163924",
+            "page": "http://www.imdb.com/find?q=tt0163924"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "All Saints"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Fringe",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1119644",
+            "page": "http://www.imdb.com/find?q=tt1119644"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fringe"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Home and Away",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094481",
+            "page": "http://www.imdb.com/find?q=tt0094481"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Home and Away"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Pirate Islands: The Lost Treasure of Fiji",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0970917",
+            "page": "http://www.imdb.com/find?q=tt0970917"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Pirate Islands: The Lost Treasure of Fiji"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sleepy Hollow",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2647544",
+            "page": "http://www.imdb.com/find?q=tt2647544"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sleepy Hollow"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Superfire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0303110",
+            "page": "http://www.imdb.com/find?q=tt0303110"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Superfire (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Good Wife",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1442462",
+            "page": "http://www.imdb.com/find?q=tt1442462"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Good Wife"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Mystery of Natalie Wood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0389121",
+            "page": "http://www.imdb.com/find?q=tt0389121"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Mystery of Natalie Wood (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Outsider",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0289374",
+            "page": "http://www.imdb.com/find?q=tt0289374"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Outsider (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Transformers Prime",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1659175",
+            "page": "http://www.imdb.com/find?q=tt1659175"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Transformers Prime"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Virtual Nightmare",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0244290",
+            "page": "http://www.imdb.com/find?q=tt0244290"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Virtual Nightmare (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Young Lions",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0303575",
+            "page": "http://www.imdb.com/find?q=tt0303575"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Young Lions"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "One Night with the King",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0430431",
+            "page": "http://www.imdb.com/find?q=tt0430431"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "One Night with the King (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Running Scared",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0404390",
+            "page": "http://www.imdb.com/find?q=tt0404390"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Running Scared (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Voodoo Lagoon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0478321",
+            "page": "http://www.imdb.com/find?q=tt0478321"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Voodoo Lagoon (2006)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Fracture",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0388952",
+            "page": "http://www.imdb.com/find?q=tt0388952"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fracture (2004)"
+    },
+    {
+      "body": "${link_0} (2003; short)",
+      "links": [
+        {
+          "body": "Black",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0430812",
+            "page": "http://www.imdb.com/find?q=tt0430812"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Black (2003; short)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "The Lord of the Rings: The Return of the King",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0167260",
+            "page": "http://www.imdb.com/find?q=tt0167260"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Lord of the Rings: The Return of the King (2003)"
+    },
+    {
+      "body": "${link_0} (2002; extended edition)",
+      "links": [
+        {
+          "body": "The Lord of the Rings: The Two Towers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0167261",
+            "page": "http://www.imdb.com/find?q=tt0167261"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Lord of the Rings: The Two Towers (2002; extended edition)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "The Monkey's Mask",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0259442",
+            "page": "http://www.imdb.com/find?q=tt0259442"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Monkey's Mask (2000)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "The Nostradamus Kid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0107702",
+            "page": "http://www.imdb.com/find?q=tt0107702"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Nostradamus Kid (1993)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Call Me Mr. Brown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090785",
+            "page": "http://www.imdb.com/find?q=tt0090785"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Call Me Mr. Brown (1990)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "A Sting in the Tale",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098389",
+            "page": "http://www.imdb.com/find?q=tt0098389"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Sting in the Tale (1989)"
+    },
+    {
+      "body": "${link_0} (1988)",
+      "links": [
+        {
+          "body": "The Dreaming",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0095064",
+            "page": "http://www.imdb.com/find?q=tt0095064"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Dreaming (1988)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Infinity Blade III",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3312964",
+            "page": "http://www.imdb.com/find?q=tt3312964"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Infinity Blade III (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "L.A. Noire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1764429",
+            "page": "http://www.imdb.com/find?q=tt1764429"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "L.A. Noire (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Saboteur",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1612786",
+            "page": "http://www.imdb.com/find?q=tt1612786"
+          }
+        }
+      ],
+      "section": [
+        "John Noble",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Saboteur (video game)"
+    },
+    {
       "body": "John is married to Penny Noble, with whom he has three children: Daniel, Jess, and actress Samantha Noble. His hobbies include music and painting.",
       "links": [],
+      "section": [
+        "John Noble",
+        "Biography",
+        "Personal life"
+      ],
       "text": "John is married to Penny Noble, with whom he has three children: Daniel, Jess, and actress Samantha Noble. His hobbies include music and painting."
+    },
+    {
+      "body": "2011: Won a Saturn Award for Fringe (Best Supporting Actor on Television)",
+      "links": [],
+      "section": [
+        "John Noble",
+        "Awards"
+      ],
+      "text": "2011: Won a Saturn Award for Fringe (Best Supporting Actor on Television)"
+    },
+    {
+      "body": "2004: Won a Critics' Choice Award for The Lord of the Rings: The Return of the King (Best Acting Ensemble)",
+      "links": [],
+      "section": [
+        "John Noble",
+        "Awards"
+      ],
+      "text": "2004: Won a Critics' Choice Award for The Lord of the Rings: The Return of the King (Best Acting Ensemble)"
+    },
+    {
+      "body": "2004: Won a Screen Actors' Guild Award for The Lord of the Rings: The Return of the King (Outstanding Performance by a Cast in a Motion Picture)",
+      "links": [],
+      "section": [
+        "John Noble",
+        "Awards"
+      ],
+      "text": "2004: Won a Screen Actors' Guild Award for The Lord of the Rings: The Return of the King (Outstanding Performance by a Cast in a Motion Picture)"
+    },
+    {
+      "body": "2003: Won an NBR Award for The Lord of the Rings: The Return of the King (Best Acting by an Ensemble)",
+      "links": [],
+      "section": [
+        "John Noble",
+        "Awards"
+      ],
+      "text": "2003: Won an NBR Award for The Lord of the Rings: The Return of the King (Best Acting by an Ensemble)"
     }
   ],
   "source": {

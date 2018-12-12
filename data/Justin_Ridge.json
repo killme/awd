@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -34,12 +38,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Fatherhood (2004)",
+          "body": "${link_0} (2004)",
           "extra": "(2004)",
           "extra_text": "(2004)",
-          "links": [],
+          "links": [
+            {
+              "body": "Fatherhood",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0415424",
+                "page": "http://www.imdb.com/find?q=tt0415424"
+              }
+            }
+          ],
           "text": "Fatherhood (2004)",
-          "value": "Fatherhood",
+          "value": "${link_0}",
           "value_text": "Fatherhood"
         }
       ]
@@ -48,54 +62,734 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2198694",
+                "page": "http://www.imdb.com/find?q=nm2198694"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "DeviantART",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "DeviantART",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://justinridge.deviantart.com/",
+                "page": "http://justinridge.deviantart.com/"
+              }
+            }
+          ],
           "text": "DeviantART",
-          "value": "DeviantART",
+          "value": "${link_0}",
           "value_text": "DeviantART"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.justinridge.com/",
+                "page": "http://www.justinridge.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://justinridgeart.tumblr.com/",
+                "page": "http://justinridgeart.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/JustinRidgeArt",
+                "page": "https://twitter.com/JustinRidgeArt"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boy in the Iceberg",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boy_in_the_Iceberg",
+            "page": "The_Boy_in_the_Iceberg"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Assistant director"
+      ],
+      "text": "101. \"The Boy in the Iceberg\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_Returns",
+            "page": "The_Avatar_Returns"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Assistant director"
+      ],
+      "text": "102. \"The Avatar Returns\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Assistant director"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Assistant director"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boy in the Iceberg",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boy_in_the_Iceberg",
+            "page": "The_Boy_in_the_Iceberg"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Illustrator/storyboard artist"
+      ],
+      "text": "101. \"The Boy in the Iceberg\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_Returns",
+            "page": "The_Avatar_Returns"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Illustrator/storyboard artist"
+      ],
+      "text": "102. \"The Avatar Returns\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Illustrator/storyboard artist"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Illustrator/storyboard artist"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "114. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Fortuneteller",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Fortuneteller",
+            "page": "The_Fortuneteller"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Illustrator/storyboard artist"
+      ],
+      "text": "114. \"The Fortuneteller\""
+    },
+    {
+      "body": "117. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Northern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Northern_Air_Temple",
+            "page": "The_Northern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Illustrator/storyboard artist"
+      ],
+      "text": "117. \"The Northern Air Temple\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Illustrator/storyboard artist"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Illustrator/storyboard artist"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Illustrator/storyboard artist"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "209. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bitter Work",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bitter_Work",
+            "page": "Bitter_Work"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Illustrator/storyboard artist"
+      ],
+      "text": "209. \"Bitter Work\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Serpent's Pass",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Serpent%27s_Pass",
+            "page": "The_Serpent%27s_Pass"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Illustrator/storyboard artist"
+      ],
+      "text": "212. \"The Serpent's Pass\""
+    },
+    {
+      "body": "215. \"${link_0}\" (${link_1})",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        },
+        {
+          "body": "The Tale of Momo",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se#The_Tale_of_Momo",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\" (The Tale of Momo)"
+    },
+    {
+      "body": "Iss. #1. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bee Calm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bee_Calm",
+            "page": "Bee_Calm"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #1. \"Bee Calm\""
+    },
+    {
+      "body": "Iss. #2. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Water War",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Water_War",
+            "page": "Water_War"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #2. \"Water War\""
+    },
+    {
+      "body": "Iss. #8. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sokka the Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sokka_the_Avatar",
+            "page": "Sokka_the_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #8. \"Sokka the Avatar\""
+    },
+    {
+      "body": "Iss. #10. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Divided We Fall",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Divided_We_Fall",
+            "page": "Divided_We_Fall"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #10. \"Divided We Fall\""
+    },
+    {
+      "body": "Iss. #16. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Night Animals",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Night_Animals",
+            "page": "Night_Animals"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #16. \"Night Animals\""
+    },
+    {
+      "body": "Iss. #21. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Swordbending",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Swordbending",
+            "page": "Swordbending"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #21. \"Swordbending\""
+    },
+    {
+      "body": "Iss. #25. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Game Time",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Game_Time",
+            "page": "Game_Time"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #25. \"Game Time\""
+    },
+    {
+      "body": "Iss. #27. \"${link_0}\"",
+      "links": [
+        {
+          "body": "New Recruits",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/New_Recruits",
+            "page": "New_Recruits"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #27. \"New Recruits\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "${link_0} (assistant character designer)",
+      "links": [
+        {
+          "body": "Fatherhood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0415424",
+            "page": "http://www.imdb.com/find?q=tt0415424"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fatherhood (assistant character designer)"
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "G.I. Joe: Resolute",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1259299",
+            "page": "http://www.imdb.com/find?q=tt1259299"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "G.I. Joe: Resolute (storyboard artist)"
+    },
+    {
+      "body": "${link_0} (assistant director, director, and storyboard artist)",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars (assistant director, director, and storyboard artist)"
+    },
+    {
+      "body": "${link_0} (director)",
+      "links": [
+        {
+          "body": "The Cleveland Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1195935",
+            "page": "http://www.imdb.com/find?q=tt1195935"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Cleveland Show (director)"
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "The Mighty B!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0917551",
+            "page": "http://www.imdb.com/find?q=tt0917551"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Mighty B! (storyboard artist)"
+    },
+    {
+      "body": "${link_0} (2004; short - musical director)",
+      "links": [
+        {
+          "body": "Sockbaby",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0488783",
+            "page": "http://www.imdb.com/find?q=tt0488783"
+          }
+        }
+      ],
+      "section": [
+        "Justin Ridge",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sockbaby (2004; short - musical director)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Justin_Ridge",
     "file": "avatar.wikia.com/wiki/Justin_Ridge.html",

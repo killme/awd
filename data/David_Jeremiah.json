@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Midas Touch (1997; video)",
+          "body": "${link_0} (1997; video)",
           "extra": "(1997; video)",
           "extra_text": "(1997; video)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Midas Touch",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0119667",
+                "page": "http://www.imdb.com/find?q=tt0119667"
+              }
+            }
+          ],
           "text": "The Midas Touch (1997; video)",
-          "value": "The Midas Touch",
+          "value": "${link_0}",
           "value_text": "The Midas Touch"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0421892",
+                "page": "http://www.imdb.com/find?q=nm0421892"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://davidjeremiah.com/",
+                "page": "http://davidjeremiah.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -77,8 +110,453 @@
   ],
   "paragraphs": [
     {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "As Told by Ginger",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235911",
+            "page": "http://www.imdb.com/find?q=tt0235911"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "As Told by Ginger"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Duel Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0404597",
+            "page": "http://www.imdb.com/find?q=tt0404597"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Duel Masters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Higglytown Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0406419",
+            "page": "http://www.imdb.com/find?q=tt0406419"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Higglytown Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "That '70s Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0165598",
+            "page": "http://www.imdb.com/find?q=tt0165598"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "That '70s Show"
+    },
+    {
+      "body": "${link_0} (2010; video)",
+      "links": [
+        {
+          "body": "Jesus Boat Revealed",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1741658",
+            "page": "http://www.imdb.com/find?q=tt1741658"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Jesus Boat Revealed (2010; video)"
+    },
+    {
+      "body": "${link_0} (2005; video)",
+      "links": [
+        {
+          "body": "Legend of Frosty the Snowman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0488147",
+            "page": "http://www.imdb.com/find?q=tt0488147"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Legend of Frosty the Snowman (2005; video)"
+    },
+    {
+      "body": "${link_0} (2004; English version)",
+      "links": [
+        {
+          "body": "Gekij\u00f4-ban Naruto: Daikatsugeki! Yukihime ninp\u00f4ch\u00f4 dattebayo!!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0476680",
+            "page": "http://www.imdb.com/find?q=tt0476680"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Gekij\u00f4-ban Naruto: Daikatsugeki! Yukihime ninp\u00f4ch\u00f4 dattebayo!! (2004; English version)"
+    },
+    {
+      "body": "${link_0} (2003; video)",
+      "links": [
+        {
+          "body": "The Light of the World",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0387352",
+            "page": "http://www.imdb.com/find?q=tt0387352"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Light of the World (2003; video)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "The Trumpet of the Swan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0206367",
+            "page": "http://www.imdb.com/find?q=tt0206367"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Trumpet of the Swan (2001)"
+    },
+    {
+      "body": "${link_0} (2000; video short)",
+      "links": [
+        {
+          "body": "Adventures in Odyssey: The Last Days of Eugene Meltsner",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1268957",
+            "page": "http://www.imdb.com/find?q=tt1268957"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Adventures in Odyssey: The Last Days of Eugene Meltsner (2000; video short)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Best Man in Grass Creek",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0216569",
+            "page": "http://www.imdb.com/find?q=tt0216569"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Best Man in Grass Creek (1999)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Eternal Sonata",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0979878",
+            "page": "http://www.imdb.com/find?q=tt0979878"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Eternal Sonata (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Grim Fandango",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0177822",
+            "page": "http://www.imdb.com/find?q=tt0177822"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Grim Fandango (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ground Control",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0416787",
+            "page": "http://www.imdb.com/find?q=tt0416787"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ground Control (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lord of the Rings: Battle for Middle Earth II - Rise of the Witch King",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1058040",
+            "page": "http://www.imdb.com/find?q=tt1058040"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lord of the Rings: Battle for Middle Earth II - Rise of the Witch King (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Shadow of Rome",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0452052",
+            "page": "http://www.imdb.com/find?q=tt0452052"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Shadow of Rome (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Episode I - Jedi Power Battles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0241986",
+            "page": "http://www.imdb.com/find?q=tt0241986"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Episode I - Jedi Power Battles (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Episode I - Racer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200172",
+            "page": "http://www.imdb.com/find?q=tt0200172"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Episode I - Racer (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Episode I - The Phantom Menace",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0215208",
+            "page": "http://www.imdb.com/find?q=tt0215208"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Episode I - The Phantom Menace (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Galactic Battlegrounds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292254",
+            "page": "http://www.imdb.com/find?q=tt0292254"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Galactic Battlegrounds (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: X-Wing Alliance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0246253",
+            "page": "http://www.imdb.com/find?q=tt0246253"
+          }
+        }
+      ],
+      "section": [
+        "David Jeremiah",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: X-Wing Alliance (video game)"
+    },
+    {
       "body": "Jeremiah got his start in voice-over acting in 1986 when he landed a job singing in a Red Robin commercial. He has since become famous for his voice work in popular video games and television shows, providing voice roles in a number of Star Wars video games and narration for many History Channel programs.",
       "links": [],
+      "section": [
+        "David Jeremiah",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Jeremiah got his start in voice-over acting in 1986 when he landed a job singing in a Red Robin commercial. He has since become famous for his voice work in popular video games and television shows, providing voice roles in a number of Star Wars video games and narration for many History Channel programs."
     }
   ],

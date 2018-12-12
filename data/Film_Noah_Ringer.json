@@ -3,28 +3,32 @@
     {
       "body": "Protected",
       "target": {
-        "href": "Category_Protected",
+        "external": false,
+        "href": "/wiki/Category_Protected",
         "page": "Category_Protected"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -70,7 +74,8 @@
               "body": "The Last Airbender",
               "key": "${link_0}",
               "target": {
-                "href": "Film_The_Last_Airbender",
+                "external": false,
+                "href": "/wiki/Film_The_Last_Airbender",
                 "page": "Film_The_Last_Airbender"
               }
             }
@@ -85,39 +90,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm3226241",
+                "page": "http://www.imdb.com/find?q=nm3226241"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Noah_Ringer",
+                "page": "http://en.wikipedia.org/wiki/Noah_Ringer"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Noah-Ringer/109306182466431",
+                "page": "https://www.facebook.com/pages/Noah-Ringer/109306182466431"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/ringer_noah",
+                "page": "https://twitter.com/ringer_noah"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -125,16 +170,90 @@
   ],
   "paragraphs": [
     {
-      "body": "Ringer has stated that he has Native American ancestry. He is a regional Texas taekwondo champion as well as a fan of ${link_0}. He was supposedly nicknamed \"Avatar\" because he looks similar to the main character, Aang, a resemblance further heightened by the fact that Noah would regularly shave his head. When asked why he keeps his hair shaved, Ringer responded, \"It keeps me cool when I'm doing taekwondo.\"",
+      "body": "${link_0} (2015)",
       "links": [
         {
-          "body": "Avatar: The Last Airbender",
+          "body": "The Peppercorn Chronicles",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3082856",
+            "page": "http://www.imdb.com/find?q=tt3082856"
+          }
+        }
+      ],
+      "section": [
+        "Noah Ringer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Peppercorn Chronicles (2015)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Cowboys and Aliens",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0409847",
+            "page": "http://www.imdb.com/find?q=tt0409847"
+          }
+        }
+      ],
+      "section": [
+        "Noah Ringer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cowboys and Aliens (2011)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0409847",
+            "page": "http://www.imdb.com/find?q=tt0409847"
+          }
+        }
+      ],
+      "section": [
+        "Noah Ringer",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Last Airbender (video game)"
+    },
+    {
+      "body": "Ringer has stated that he has ${link_0} ancestry. He is a regional Texas taekwondo champion as well as a fan of ${link_1}. He was supposedly nicknamed \"Avatar\" because he looks similar to the main character, Aang, a resemblance further heightened by the fact that Noah would regularly shave his head. When asked why he keeps his hair shaved, Ringer responded, \"It keeps me cool when I'm doing taekwondo.\"",
+      "links": [
+        {
+          "body": "Native American",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas",
+            "page": "http://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
+          }
+        },
+        {
+          "body": "Avatar: The Last Airbender",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         }
+      ],
+      "section": [
+        "Noah Ringer",
+        "Biographical information"
       ],
       "text": "Ringer has stated that he has Native American ancestry. He is a regional Texas taekwondo champion as well as a fan of Avatar: The Last Airbender. He was supposedly nicknamed \"Avatar\" because he looks similar to the main character, Aang, a resemblance further heightened by the fact that Noah would regularly shave his head. When asked why he keeps his hair shaved, Ringer responded, \"It keeps me cool when I'm doing taekwondo.\""
     },
@@ -145,7 +264,8 @@
           "body": "Prince",
           "key": "${link_0}",
           "target": {
-            "href": "Heir_to_the_Fire_Lord",
+            "external": false,
+            "href": "/wiki/Heir_to_the_Fire_Lord",
             "page": "Heir_to_the_Fire_Lord"
           }
         },
@@ -153,17 +273,64 @@
           "body": "Zuko",
           "key": "${link_1}",
           "target": {
-            "href": "Film_Zuko",
+            "external": false,
+            "href": "/wiki/Film_Zuko",
             "page": "Film_Zuko"
           }
         }
+      ],
+      "section": [
+        "Noah Ringer",
+        "Biographical information"
       ],
       "text": "Ringer was cast for the role of Aang after submitting a homemade DVD of himself practicing taekwondo. Dev Patel, set to portray Prince Zuko, also had experience in taekwondo before he began acting. Even though he is seven years older than Ringer and a foot taller, Patel states that in a martial arts match between the two, \"Noah would knock [him] flat on [his] back!\""
     },
     {
       "body": "Ringer received mixed reviews with respect to his acting ability in the film from critics and fans alike, although many professional reviews were mostly negative. John Meyer wrote, \"Dallas-born actor Noah Ringer comes across as a pouty-lipped kid who seems to be reading his lines off a teleprompter.\"",
       "links": [],
+      "section": [
+        "Noah Ringer",
+        "Biographical information"
+      ],
       "text": "Ringer received mixed reviews with respect to his acting ability in the film from critics and fans alike, although many professional reviews were mostly negative. John Meyer wrote, \"Dallas-born actor Noah Ringer comes across as a pouty-lipped kid who seems to be reading his lines off a teleprompter.\""
+    },
+    {
+      "body": "2011 - Won the 3rd Annual TheSkyKid.Com \"Coming of Age\" Best Actor movie award for his performance in ${link_0}",
+      "links": [
+        {
+          "body": "The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender",
+            "page": "Film_The_Last_Airbender"
+          }
+        }
+      ],
+      "section": [
+        "Noah Ringer",
+        "Awards"
+      ],
+      "text": "2011 - Won the 3rd Annual TheSkyKid.Com \"Coming of Age\" Best Actor movie award for his performance in The Last Airbender"
+    },
+    {
+      "body": "${link_0}, Aang's voice actor for the animated series.",
+      "links": [
+        {
+          "body": "Zachary Tyler Eisen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zach_Tyler_Eisen",
+            "page": "Zach_Tyler_Eisen"
+          }
+        }
+      ],
+      "section": [
+        "Noah Ringer",
+        "See also"
+      ],
+      "text": "Zachary Tyler Eisen, Aang's voice actor for the animated series."
     }
   ],
   "source": {

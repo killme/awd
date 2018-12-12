@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Porco Rosso (1992; English version)",
+          "body": "${link_0} (1992; English version)",
           "extra": "(1992; English version)",
           "extra_text": "(1992; English version)",
-          "links": [],
+          "links": [
+            {
+              "body": "Porco Rosso",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0104652",
+                "page": "http://www.imdb.com/find?q=tt0104652"
+              }
+            }
+          ],
           "text": "Porco Rosso (1992; English version)",
-          "value": "Porco Rosso",
+          "value": "${link_0}",
           "value_text": "Porco Rosso"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0048389",
+                "page": "http://www.imdb.com/find?q=nm0048389"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Dee_Bradley_Baker",
+                "page": "http://en.wikipedia.org/wiki/Dee_Bradley_Baker"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://deebaker.com/",
+                "page": "http://deebaker.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/deebradleybaker",
+                "page": "https://twitter.com/deebradleybaker"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,23 +148,1679 @@
   ],
   "paragraphs": [
     {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Cave of Two Lovers",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Cave_of_Two_Lovers",
+            "page": "The_Cave_of_Two_Lovers"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Avatar: The Last Airbender credits",
+        "Chong"
+      ],
+      "text": "202. \"The Cave of Two Lovers\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Avatar: The Last Airbender credits",
+        "Actor Bumi/Actor Jet/Actor Ozai"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Voice in the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Voice_in_the_Night",
+            "page": "The_Voice_in_the_Night"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Tarrlok"
+      ],
+      "text": "104. \"The Voice in the Night\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "And the Winner Is...",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/And_the_Winner_Is..",
+            "page": "And_the_Winner_Is.."
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Tarrlok"
+      ],
+      "text": "106. \"And the Winner Is...\""
+    },
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Aftermath",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Aftermath",
+            "page": "The_Aftermath"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Tarrlok"
+      ],
+      "text": "107. \"The Aftermath\""
+    },
+    {
+      "body": "108. \"${link_0}\"",
+      "links": [
+        {
+          "body": "When Extremes Meet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/When_Extremes_Meet",
+            "page": "When_Extremes_Meet"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Tarrlok"
+      ],
+      "text": "108. \"When Extremes Meet\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Tarrlok"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Skeletons in the Closet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
+            "page": "Skeletons_in_the_Closet"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Tarrlok"
+      ],
+      "text": "111. \"Skeletons in the Closet\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Endgame",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Endgame",
+            "page": "Endgame"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Tarrlok"
+      ],
+      "text": "112. \"Endgame\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "And the Winner Is...",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/And_the_Winner_Is..",
+            "page": "And_the_Winner_Is.."
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Radio host"
+      ],
+      "text": "106. \"And the Winner Is...\""
+    },
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Aftermath",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Aftermath",
+            "page": "The_Aftermath"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Butler"
+      ],
+      "text": "107. \"The Aftermath\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Endgame",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Endgame",
+            "page": "Endgame"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Bumi"
+      ],
+      "text": "112. \"Endgame\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Lights",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Lights",
+            "page": "The_Southern_Lights"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Poki"
+      ],
+      "text": "202. \"The Southern Lights\""
+    },
+    {
+      "body": "209. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guide",
+            "page": "The_Guide"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Poki"
+      ],
+      "text": "209. \"The Guide\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Poki"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Metal Clan",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Metal_Clan",
+            "page": "The_Metal_Clan"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Poki"
+      ],
+      "text": "305. \"The Metal Clan\""
+    },
+    {
+      "body": "404. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Calling",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Calling",
+            "page": "The_Calling"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Poki"
+      ],
+      "text": "404. \"The Calling\""
+    },
+    {
+      "body": "407. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Reunion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Reunion",
+            "page": "Reunion"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Poki"
+      ],
+      "text": "407. \"Reunion\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Juji"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Night of a Thousand Stars",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Night_of_a_Thousand_Stars",
+            "page": "Night_of_a_Thousand_Stars"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Juji"
+      ],
+      "text": "211. \"Night of a Thousand Stars\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Pyrotechnics guy"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Mula"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Mula"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Light in the Dark",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Light_in_the_Dark",
+            "page": "Light_in_the_Dark"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Bum-Ju"
+      ],
+      "text": "214. \"Light in the Dark\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Breath of Fresh Air",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Breath_of_Fresh_Air",
+            "page": "A_Breath_of_Fresh_Air"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Bum-Ju"
+      ],
+      "text": "301. \"A Breath of Fresh Air\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Bum-Ju"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "307. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Original Airbenders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Original_Airbenders",
+            "page": "Original_Airbenders"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Bum-Ju"
+      ],
+      "text": "307. \"Original Airbenders\""
+    },
+    {
+      "body": "407. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Reunion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Reunion",
+            "page": "Reunion"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Bum-Ju"
+      ],
+      "text": "407. \"Reunion\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "White Lotus guard #1"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "307. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Original Airbenders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Original_Airbenders",
+            "page": "Original_Airbenders"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Additional animals"
+      ],
+      "text": "307. \"Original Airbenders\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Spirits"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Camels"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Baby bison"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "401. \"${link_0}\"",
+      "links": [
+        {
+          "body": "After All These Years",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/After_All_These_Years",
+            "page": "After_All_These_Years"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Bison"
+      ],
+      "text": "401. \"After All These Years\""
+    },
+    {
+      "body": "401. \"${link_0}\"",
+      "links": [
+        {
+          "body": "After All These Years",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/After_All_These_Years",
+            "page": "After_All_These_Years"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Cow hippos"
+      ],
+      "text": "401. \"After All These Years\""
+    },
+    {
+      "body": "403. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Coronation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Coronation",
+            "page": "The_Coronation"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Bull frog"
+      ],
+      "text": "403. \"The Coronation\""
+    },
+    {
+      "body": "404. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Calling",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Calling",
+            "page": "The_Calling"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Animal gaggle"
+      ],
+      "text": "404. \"The Calling\""
+    },
+    {
+      "body": "404. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Calling",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Calling",
+            "page": "The_Calling"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Pepper"
+      ],
+      "text": "404. \"The Calling\""
+    },
+    {
+      "body": "405. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enemy at the Gates",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enemy_at_the_Gates",
+            "page": "Enemy_at_the_Gates"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Pepper"
+      ],
+      "text": "405. \"Enemy at the Gates\""
+    },
+    {
+      "body": "406. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Battle of Zaofu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Battle_of_Zaofu",
+            "page": "The_Battle_of_Zaofu"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Pepper"
+      ],
+      "text": "406. \"The Battle of Zaofu\""
+    },
+    {
+      "body": "407. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Reunion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Reunion",
+            "page": "Reunion"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Pepper"
+      ],
+      "text": "407. \"Reunion\""
+    },
+    {
+      "body": "407. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Reunion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Reunion",
+            "page": "Reunion"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Sugar glider"
+      ],
+      "text": "407. \"Reunion\""
+    },
+    {
+      "body": "410. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Operation Beifong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Operation_Beifong",
+            "page": "Operation_Beifong"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Juicy"
+      ],
+      "text": "410. \"Operation Beifong\""
+    },
+    {
+      "body": "412. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Day of the Colossus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Day_of_the_Colossus",
+            "page": "Day_of_the_Colossus"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Evacuee"
+      ],
+      "text": "412. \"Day of the Colossus\""
+    },
+    {
+      "body": "412. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Day of the Colossus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Day_of_the_Colossus",
+            "page": "Day_of_the_Colossus"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Helmsman"
+      ],
+      "text": "412. \"Day of the Colossus\""
+    },
+    {
+      "body": "413. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Last Stand",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Last_Stand",
+            "page": "The_Last_Stand"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Helmsman"
+      ],
+      "text": "413. \"The Last Stand\""
+    },
+    {
+      "body": "413. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Last Stand",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Last_Stand",
+            "page": "The_Last_Stand"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Bunny spirits"
+      ],
+      "text": "413. \"The Last Stand\""
+    },
+    {
+      "body": "413. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Last Stand",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Last_Stand",
+            "page": "The_Last_Stand"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "The Legend of Korra credits",
+        "Earth Empire captain"
+      ],
+      "text": "413. \"The Last Stand\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Adventure Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1305826",
+            "page": "http://www.imdb.com/find?q=tt1305826"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Adventure Time"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "American Dad!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397306",
+            "page": "http://www.imdb.com/find?q=tt0397306"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Dad!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Brave and the Bold"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0760437",
+            "page": "http://www.imdb.com/find?q=tt0760437"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10: Alien Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1192169",
+            "page": "http://www.imdb.com/find?q=tt1192169"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10: Alien Force"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10: Omniverse",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2293002",
+            "page": "http://www.imdb.com/find?q=tt2293002"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10: Omniverse"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10: Ultimate Alien",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1622696",
+            "page": "http://www.imdb.com/find?q=tt1622696"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10: Ultimate Alien"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312109",
+            "page": "http://www.imdb.com/find?q=tt0312109"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Legends of the Hidden Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0310482",
+            "page": "http://www.imdb.com/find?q=tt0310482"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Legends of the Hidden Temple"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Phineas and Ferb",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0852863",
+            "page": "http://www.imdb.com/find?q=tt0852863"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Phineas and Ferb"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "SpongeBob SquarePants",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0206512",
+            "page": "http://www.imdb.com/find?q=tt0206512"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "SpongeBob SquarePants"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Teen Titans",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0343314",
+            "page": "http://www.imdb.com/find?q=tt0343314"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teen Titans"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Puzzle Place",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0179042",
+            "page": "http://www.imdb.com/find?q=tt0179042"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Puzzle Place"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Winx Club",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0421482",
+            "page": "http://www.imdb.com/find?q=tt0421482"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Winx Club"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Young Justice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1641384",
+            "page": "http://www.imdb.com/find?q=tt1641384"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Young Justice"
+    },
+    {
+      "body": "${link_0} (2010 - uncredited)",
+      "links": [
+        {
+          "body": "The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender",
+            "page": "Film_The_Last_Airbender"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Last Airbender (2010 - uncredited)"
+    },
+    {
+      "body": "${link_0}(2010)",
+      "links": [
+        {
+          "body": "Furry Vengeance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0492389",
+            "page": "http://www.imdb.com/find?q=tt0492389"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Furry Vengeance(2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Astro Boy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0375568",
+            "page": "http://www.imdb.com/find?q=tt0375568"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Astro Boy (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Haunted World of El Superbeasto",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0419724",
+            "page": "http://www.imdb.com/find?q=tt0419724"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Haunted World of El Superbeasto (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "G-Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0436339",
+            "page": "http://www.imdb.com/find?q=tt0436339"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "G-Force (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1185834",
+            "page": "http://www.imdb.com/find?q=tt1185834"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Wars: The Clone Wars (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Ben 10: Secret of the Omnitrix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1146431",
+            "page": "http://www.imdb.com/find?q=tt1146431"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ben 10: Secret of the Omnitrix (2007)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Batman: Arkham City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1568322",
+            "page": "http://www.imdb.com/find?q=tt1568322"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Batman: Arkham City (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ben 10 Ultimate Alien: Cosmic Destruction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1705101",
+            "page": "http://www.imdb.com/find?q=tt1705101"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ben 10 Ultimate Alien: Cosmic Destruction (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dante's Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1409575",
+            "page": "http://www.imdb.com/find?q=tt1409575"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dante's Inferno (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Halo 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0357718",
+            "page": "http://www.imdb.com/find?q=tt0357718"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Halo 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Halo 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0494232",
+            "page": "http://www.imdb.com/find?q=tt0494232"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Halo 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "LEGO Marvel Super Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2620204",
+            "page": "http://www.imdb.com/find?q=tt2620204"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "LEGO Marvel Super Heroes (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "LEGO Star Wars III: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1612560",
+            "page": "http://www.imdb.com/find?q=tt1612560"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "LEGO Star Wars III: The Clone Wars (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel Super Hero Squad: The Infinity Gauntlet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1720160",
+            "page": "http://www.imdb.com/find?q=tt1720160"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel Super Hero Squad: The Infinity Gauntlet (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Portal 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1648163",
+            "page": "http://www.imdb.com/find?q=tt1648163"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Portal 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "StarCraft II: Wings of Liberty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1037854",
+            "page": "http://www.imdb.com/find?q=tt1037854"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "StarCraft II: Wings of Liberty (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: The Force Unleashed II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1570976",
+            "page": "http://www.imdb.com/find?q=tt1570976"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: The Force Unleashed II (video game)"
+    },
+    {
       "body": "Baker was born in Indiana but grew up in Greeley, Colorado. He started performing at the age of nine and had steady work in musicals, operas, plays and stand up comedy until college.",
       "links": [],
+      "section": [
+        "Dee Bradley Baker",
+        "Biographical information"
+      ],
       "text": "Baker was born in Indiana but grew up in Greeley, Colorado. He started performing at the age of nine and had steady work in musicals, operas, plays and stand up comedy until college."
     },
     {
       "body": "He is a graduate of Colorado College, located in Colorado Springs. There, he majored in philosophy and also studied German. Baker started working as a stage actor, stand up comedian, and singer after college, which led him to Los Angeles.",
       "links": [],
+      "section": [
+        "Dee Bradley Baker",
+        "Biographical information"
+      ],
       "text": "He is a graduate of Colorado College, located in Colorado Springs. There, he majored in philosophy and also studied German. Baker started working as a stage actor, stand up comedian, and singer after college, which led him to Los Angeles."
     },
     {
       "body": "Baker has also done work on game shows, announcing for Legends of the Hidden Temple and Shop 'til You Drop. In Legends, he also provided the voice of the show's mascot, Olmec, and on Shop 'til You Drop, Baker would dress up and play a role in some of the main game's stunts.",
       "links": [],
+      "section": [
+        "Dee Bradley Baker",
+        "Biographical information"
+      ],
       "text": "Baker has also done work on game shows, announcing for Legends of the Hidden Temple and Shop 'til You Drop. In Legends, he also provided the voice of the show's mascot, Olmec, and on Shop 'til You Drop, Baker would dress up and play a role in some of the main game's stunts."
     },
     {
       "body": "As of 2007, he is the voice of Captain Jack Sparrow's talking parrot in the newly refurbished Pirates of the Caribbean rides at Disneyland and the Magic Kingdom.",
       "links": [],
+      "section": [
+        "Dee Bradley Baker",
+        "Biographical information"
+      ],
       "text": "As of 2007, he is the voice of Captain Jack Sparrow's talking parrot in the newly refurbished Pirates of the Caribbean rides at Disneyland and the Magic Kingdom."
     },
     {
@@ -121,12 +1830,45 @@
           "body": "Cora",
           "key": "${link_0}",
           "target": {
-            "href": "Cora_Baker",
+            "external": false,
+            "href": "/wiki/Cora_Baker",
             "page": "Cora_Baker"
           }
         }
       ],
+      "section": [
+        "Dee Bradley Baker",
+        "Biographical information"
+      ],
       "text": "He and his wife Michelle have two daughters, Josie and Cora."
+    },
+    {
+      "body": "No actor has a credit in all sixty-one episodes of Avatar. Baker and ${link_0} tie for the most at sixty, with Baker missing only \"${link_1}\".",
+      "links": [
+        {
+          "body": "Zach Tyler Eisen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zach_Tyler_Eisen",
+            "page": "Zach_Tyler_Eisen"
+          }
+        },
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Dee Bradley Baker",
+        "Trivia"
+      ],
+      "text": "No actor has a credit in all sixty-one episodes of Avatar. Baker and Zach Tyler Eisen tie for the most at sixty, with Baker missing only \"The Boiling Rock, Part 2\"."
     }
   ],
   "source": {

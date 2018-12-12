@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Legend of Paul Bunyan (1973; short)",
+          "body": "${link_0} (1973; short)",
           "extra": "(1973; short)",
           "extra_text": "(1973; short)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Legend of Paul Bunyan",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0283449",
+                "page": "http://www.imdb.com/find?q=tt0283449"
+              }
+            }
+          ],
           "text": "The Legend of Paul Bunyan (1973; short)",
-          "value": "The Legend of Paul Bunyan",
+          "value": "${link_0}",
           "value_text": "The Legend of Paul Bunyan"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0029460",
+                "page": "http://www.imdb.com/find?q=nm0029460"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jack_Angel",
+                "page": "http://en.wikipedia.org/wiki/Jack_Angel"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.jackangel.com/",
+                "page": "http://www.jackangel.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/mrJackAngel",
+                "page": "https://twitter.com/mrJackAngel"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,28 +148,553 @@
   ],
   "paragraphs": [
     {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Scroll",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Scroll",
+            "page": "The_Waterbending_Scroll"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Avatar: The Last Airbender credits",
+        "Pirate captain"
+      ],
+      "text": "109. \"The Waterbending Scroll\""
+    },
+    {
+      "body": "118. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Master",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Master",
+            "page": "The_Waterbending_Master"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Avatar: The Last Airbender credits",
+        "Pirate captain"
+      ],
+      "text": "118. \"The Waterbending Master\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Scroll",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Scroll",
+            "page": "The_Waterbending_Scroll"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "109. \"The Waterbending Scroll\""
+    },
+    {
+      "body": "118. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Master",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Master",
+            "page": "The_Waterbending_Master"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "118. \"The Waterbending Master\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Crime Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090410",
+            "page": "http://www.imdb.com/find?q=tt0090410"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Crime Story"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Darkwing Duck",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101076",
+            "page": "http://www.imdb.com/find?q=tt0101076"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Darkwing Duck"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112175",
+            "page": "http://www.imdb.com/find?q=tt0112175"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Spider-Man"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Superfriends",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086817",
+            "page": "http://www.imdb.com/find?q=tt0086817"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Superfriends"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Legend of Prince Valiant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101171",
+            "page": "http://www.imdb.com/find?q=tt0101171"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Legend of Prince Valiant"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Transformers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086817",
+            "page": "http://www.imdb.com/find?q=tt0086817"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Transformers"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Where's Waldo?",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0213376",
+            "page": "http://www.imdb.com/find?q=tt0213376"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Where's Waldo?"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Recruited",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3393272",
+            "page": "http://www.imdb.com/find?q=tt3393272"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Recruited (2013)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Toy Story 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0435761",
+            "page": "http://www.imdb.com/find?q=tt0435761"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Toy Story 3 (2010)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Cars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0317219",
+            "page": "http://www.imdb.com/find?q=tt0317219"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cars (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Ice Age: The Meltdown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0438097",
+            "page": "http://www.imdb.com/find?q=tt0438097"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ice Age: The Meltdown (2006)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Lilo & Stitch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275847",
+            "page": "http://www.imdb.com/find?q=tt0275847"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lilo & Stitch (2002)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Spirited Away",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0245429",
+            "page": "http://www.imdb.com/find?q=tt0245429"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spirited Away (2001)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Monsters, Inc.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0198781",
+            "page": "http://www.imdb.com/find?q=tt0198781"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Monsters, Inc. (2001)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "A.I. Artificial Intelligence",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0212720",
+            "page": "http://www.imdb.com/find?q=tt0212720"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A.I. Artificial Intelligence (2001)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Grim Fandango",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0177822",
+            "page": "http://www.imdb.com/find?q=tt0177822"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Grim Fandango (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Shattered Steel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0155165",
+            "page": "http://www.imdb.com/find?q=tt0155165"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Shattered Steel (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Supreme Commander",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0489287",
+            "page": "http://www.imdb.com/find?q=tt0489287"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Supreme Commander (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Throne of Darkness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0933394",
+            "page": "http://www.imdb.com/find?q=tt0933394"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Throne of Darkness (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Titan Quest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837135",
+            "page": "http://www.imdb.com/find?q=tt0837135"
+          }
+        }
+      ],
+      "section": [
+        "Jack Angel",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Titan Quest (video game)"
+    },
+    {
       "body": "Angel's first jobs in the industry included guest appearances in various Scooby Doo cartoons as well as in the series Super Friends, in which he played Hawkman; he also voiced Governor Wetworth on The Snorks, The Flash, and Samurai.",
       "links": [],
+      "section": [
+        "Jack Angel",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Angel's first jobs in the industry included guest appearances in various Scooby Doo cartoons as well as in the series Super Friends, in which he played Hawkman; he also voiced Governor Wetworth on The Snorks, The Flash, and Samurai."
     },
     {
       "body": "In the Transformers series, he was the voice of Astrotrain, Ramjet, Omega Supreme, and Ultra Magnus, and also took over as Cyclonus following the death of Roger C. Carmel. He also lent his voice to the character Dr. Zachary Darret in the 1984 CBS cartoon series Pole Position. In 1995 he was the voice of Nikki in Balto, an animated film produced by Universal Studios and Amblin Entertainment, and also appeared in Dino-riders and G.I. Joe. In these three cartoons, he often acted alongside Frank Welker, Chris Latta, Peter Cullen, and Charlie Adler. He also voices the SWATbots on Sonic the Hedgehog, and played the voice of Liquidator on Darkwing Duck. Angel played the Chief of Police in Goof Troop and also voiced Nick Fury on Spider-Man: The Animated series.",
       "links": [],
+      "section": [
+        "Jack Angel",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In the Transformers series, he was the voice of Astrotrain, Ramjet, Omega Supreme, and Ultra Magnus, and also took over as Cyclonus following the death of Roger C. Carmel. He also lent his voice to the character Dr. Zachary Darret in the 1984 CBS cartoon series Pole Position. In 1995 he was the voice of Nikki in Balto, an animated film produced by Universal Studios and Amblin Entertainment, and also appeared in Dino-riders and G.I. Joe. In these three cartoons, he often acted alongside Frank Welker, Chris Latta, Peter Cullen, and Charlie Adler. He also voices the SWATbots on Sonic the Hedgehog, and played the voice of Liquidator on Darkwing Duck. Angel played the Chief of Police in Goof Troop and also voiced Nick Fury on Spider-Man: The Animated series."
     },
     {
       "body": "In 2001, Angel was the voice of Teddy in the movie A.I. Artificial Intelligence. He later provided additional voices in animated films such as A Bug's Life, Monsters, Inc., Ice Age: The Meltdown, Cars, Horton Hears a Who, and Toy Story, and later returned to voice Chunk in Toy Story 3. Angel has also ventured into video games, narrating the cult hit Killer7 and playing Wonkers the Watilla in Dreamfall: The Longest Journey, The Mayor in Ratchet & Clank, and Captain Teague in the video game version of Pirates of the Caribbean: At World's End.",
       "links": [],
+      "section": [
+        "Jack Angel",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 2001, Angel was the voice of Teddy in the movie A.I. Artificial Intelligence. He later provided additional voices in animated films such as A Bug's Life, Monsters, Inc., Ice Age: The Meltdown, Cars, Horton Hears a Who, and Toy Story, and later returned to voice Chunk in Toy Story 3. Angel has also ventured into video games, narrating the cult hit Killer7 and playing Wonkers the Watilla in Dreamfall: The Longest Journey, The Mayor in Ratchet & Clank, and Captain Teague in the video game version of Pirates of the Caribbean: At World's End."
     },
     {
       "body": "In 2007, he voiced an alien named Technorg on Ben 10 and Comrade Chaos on El Tigre: The Adventures of Manny Rivera.",
       "links": [],
+      "section": [
+        "Jack Angel",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 2007, he voiced an alien named Technorg on Ben 10 and Comrade Chaos on El Tigre: The Adventures of Manny Rivera."
     },
     {
       "body": "Jack Angel's popular radio programs have been heard on stations KMPC and KFI, Los Angeles.",
       "links": [],
+      "section": [
+        "Jack Angel",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Jack Angel's popular radio programs have been heard on stations KMPC and KFI, Los Angeles."
     }
   ],

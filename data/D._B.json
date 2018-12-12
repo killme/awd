@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Out of the Darkness (1985; TV movie)",
+          "body": "${link_0} (1985; TV movie)",
           "extra": "(1985; TV movie)",
           "extra_text": "(1985; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Out of the Darkness",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0089757",
+                "page": "http://www.imdb.com/find?q=tt0089757"
+              }
+            }
+          ],
           "text": "Out of the Darkness (1985; TV movie)",
-          "value": "Out of the Darkness",
+          "value": "${link_0}",
           "value_text": "Out of the Darkness"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0000665",
+                "page": "http://www.imdb.com/find?q=nm0000665"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/D_B_Sweeney",
+                "page": "http://en.wikipedia.org/wiki/D_B_Sweeney"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/actordbsweeney",
+                "page": "https://twitter.com/actordbsweeney"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -100,24 +143,590 @@
   ],
   "paragraphs": [
     {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "The Legend of Korra credits",
+        "Aang"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Endgame",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Endgame",
+            "page": "Endgame"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "The Legend of Korra credits",
+        "Aang"
+      ],
+      "text": "112. \"Endgame\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "The Legend of Korra credits",
+        "Aang"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "213. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Darkness Falls",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Darkness_Falls",
+            "page": "Darkness_Falls"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "The Legend of Korra credits",
+        "Aang"
+      ],
+      "text": "213. \"Darkness Falls\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "24",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285331",
+            "page": "http://www.imdb.com/find?q=tt0285331"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "24"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Criminal Minds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0452046",
+            "page": "http://www.imdb.com/find?q=tt0452046"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Criminal Minds"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jericho",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0805663",
+            "page": "http://www.imdb.com/find?q=tt0805663"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jericho"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Life As We Know It",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0411004",
+            "page": "http://www.imdb.com/find?q=tt0411004"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Life As We Know It"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Event",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1582459",
+            "page": "http://www.imdb.com/find?q=tt1582459"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Event"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Universal Dead",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1704677",
+            "page": "http://www.imdb.com/find?q=tt1704677"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Universal Dead"
+    },
+    {
+      "body": "${link_0} (2014; short)",
+      "links": [
+        {
+          "body": "Elwood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1987559",
+            "page": "http://www.imdb.com/find?q=tt1987559"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Elwood (2014; short)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "False Creek Stories",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1662502",
+            "page": "http://www.imdb.com/find?q=tt1662502"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "False Creek Stories (2010; short)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Miracle at St. Anna",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1046997",
+            "page": "http://www.imdb.com/find?q=tt1046997"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Miracle at St. Anna (2008)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Stiletto",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1027747",
+            "page": "http://www.imdb.com/find?q=tt1027747"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stiletto (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Entry Level",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0902279",
+            "page": "http://www.imdb.com/find?q=tt0902279"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Entry Level (2007)"
+    },
+    {
+      "body": "${link_0} (2007; short)",
+      "links": [
+        {
+          "body": "Vegas: An Opulent Illusion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1142580",
+            "page": "http://www.imdb.com/find?q=tt1142580"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Vegas: An Opulent Illusion (2007; short)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Yellow",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0488349",
+            "page": "http://www.imdb.com/find?q=tt0488349"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Yellow (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Two Tickets to Paradise",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0463963",
+            "page": "http://www.imdb.com/find?q=tt0463963"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Two Tickets to Paradise (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Darwin Awards",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428446",
+            "page": "http://www.imdb.com/find?q=tt0428446"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Darwin Awards (2006)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Dinosaur",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0130623",
+            "page": "http://www.imdb.com/find?q=tt0130623"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dinosaur (2000)"
+    },
+    {
+      "body": "${link_0} (director, producer, soundtrack writer, and writer)",
+      "links": [
+        {
+          "body": "Two Tickets to Paradise",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0463963",
+            "page": "http://www.imdb.com/find?q=tt0463963"
+          }
+        }
+      ],
+      "section": [
+        "D. B. Sweeney",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Two Tickets to Paradise (director, producer, soundtrack writer, and writer)"
+    },
+    {
       "body": "Sweeney was born and raised in Shoreham, New York; his father was an educator and his mother a municipal government employee. He attended Shoreham-Wading River High School and both Tulane and New York University. Before completing his Bachelor of Fine Arts degree at New York University in 1984, he was cast in the Broadway revival of The Caine Mutiny Court Martial.",
       "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Sweeney was born and raised in Shoreham, New York; his father was an educator and his mother a municipal government employee. He attended Shoreham-Wading River High School and both Tulane and New York University. Before completing his Bachelor of Fine Arts degree at New York University in 1984, he was cast in the Broadway revival of The Caine Mutiny Court Martial."
     },
     {
       "body": "He has been married to Ashley Vachon since April 2000, and they have two children.",
       "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "He has been married to Ashley Vachon since April 2000, and they have two children."
     },
     {
       "body": "Sweeney guest starred on television series The Edge of Night and Spenser: For Hire before entering films, where he portrayed a gung-ho Army enlistee in Francis Ford Coppola's Gardens of Stone. Sweeney is perhaps best remembered for his portrayal of Doug Dorsey in The Cutting Edge, Shoeless Joe Jackson in Eight Men Out, or Dish Boggett in Lonesome Dove.",
       "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Sweeney guest starred on television series The Edge of Night and Spenser: For Hire before entering films, where he portrayed a gung-ho Army enlistee in Francis Ford Coppola's Gardens of Stone. Sweeney is perhaps best remembered for his portrayal of Doug Dorsey in The Cutting Edge, Shoeless Joe Jackson in Eight Men Out, or Dish Boggett in Lonesome Dove."
     },
     {
       "body": "He is currently the voice-over artist for the Oprah Winfrey Network, and his large body of voice-over work includes three seasons of Fox Sports Net's Beyond the Glory and National Geographic Television's Ice Pilots. Past ad campaigns for which he has done work include Bud Light, Lincoln automobiles, Conoco-Phillips, John Deere, Major League Baseball, and Coca-Cola.",
       "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He is currently the voice-over artist for the Oprah Winfrey Network, and his large body of voice-over work includes three seasons of Fox Sports Net's Beyond the Glory and National Geographic Television's Ice Pilots. Past ad campaigns for which he has done work include Bud Light, Lincoln automobiles, Conoco-Phillips, John Deere, Major League Baseball, and Coca-Cola."
+    },
+    {
+      "body": "2008: Won a Big Island Film Festival Golden Honu Award for Two Tickets to Paradise (Actor)",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Awards"
+      ],
+      "text": "2008: Won a Big Island Film Festival Golden Honu Award for Two Tickets to Paradise (Actor)"
+    },
+    {
+      "body": "2007: Won an Accolade Competition Honorable Mention for Two Tickets to Paradise",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Awards"
+      ],
+      "text": "2007: Won an Accolade Competition Honorable Mention for Two Tickets to Paradise"
+    },
+    {
+      "body": "2007: Won an Action on Film Award for Two Tickets to Paradise (Best Supporting Actor)",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Awards"
+      ],
+      "text": "2007: Won an Action on Film Award for Two Tickets to Paradise (Best Supporting Actor)"
+    },
+    {
+      "body": "2007: Won an Action on Film Award for Two Tickets to Paradise (Best Director)",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Awards"
+      ],
+      "text": "2007: Won an Action on Film Award for Two Tickets to Paradise (Best Director)"
+    },
+    {
+      "body": "2007: Won an Appalachian Film Festival Governor's Golden Appy for Two Tickets to Paradise",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Awards"
+      ],
+      "text": "2007: Won an Appalachian Film Festival Governor's Golden Appy for Two Tickets to Paradise"
+    },
+    {
+      "body": "2007: Won a Coney Island Film Festival Tillie Award for Two Tickets to Paradise (Best Feature)",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Awards"
+      ],
+      "text": "2007: Won a Coney Island Film Festival Tillie Award for Two Tickets to Paradise (Best Feature)"
+    },
+    {
+      "body": "2007: Won a Ft. Lauderdale International Film Festival Renaissance Award for Two Tickets to Paradise",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Awards"
+      ],
+      "text": "2007: Won a Ft. Lauderdale International Film Festival Renaissance Award for Two Tickets to Paradise"
+    },
+    {
+      "body": "2007: Won a Santa Fe Film Festival Independent Spirit Award for Two Tickets to Paradise",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Awards"
+      ],
+      "text": "2007: Won a Santa Fe Film Festival Independent Spirit Award for Two Tickets to Paradise"
+    },
+    {
+      "body": "2007: Won a Savannah Film Festival Best Feature Award for Two Tickets to Paradise (Professional)",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Awards"
+      ],
+      "text": "2007: Won a Savannah Film Festival Best Feature Award for Two Tickets to Paradise (Professional)"
+    },
+    {
+      "body": "2007: Won a Vail Film Festival Audience Award for Two Tickets to Paradise",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Awards"
+      ],
+      "text": "2007: Won a Vail Film Festival Audience Award for Two Tickets to Paradise"
+    },
+    {
+      "body": "2006: Won a Boston International Film Festival Award for Two Tickets to Paradise (Best Director)",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Awards"
+      ],
+      "text": "2006: Won a Boston International Film Festival Award for Two Tickets to Paradise (Best Director)"
+    },
+    {
+      "body": "2006: Won a Method Fest Festival Director's Award for Two Tickets to Paradise (Director)",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Awards"
+      ],
+      "text": "2006: Won a Method Fest Festival Director's Award for Two Tickets to Paradise (Director)"
+    },
+    {
+      "body": "2000: Won a Seattle Film Festival New American Cinema Award for The Weekend (Citation of Excellence for Ensemble Cast Performance)",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Awards"
+      ],
+      "text": "2000: Won a Seattle Film Festival New American Cinema Award for The Weekend (Citation of Excellence for Ensemble Cast Performance)"
+    },
+    {
+      "body": "Sweeney was the director of Two Tickets to Paradise as well as one of the screenwriters, along with Brian Hayes Currie.",
+      "links": [],
+      "section": [
+        "D. B. Sweeney",
+        "Trivia"
+      ],
+      "text": "Sweeney was the director of Two Tickets to Paradise as well as one of the screenwriters, along with Brian Hayes Currie."
     }
   ],
   "source": {

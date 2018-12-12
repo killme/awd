@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Ephraim (2004; short)",
+          "body": "${link_0} (2004; short)",
           "extra": "(2004; short)",
           "extra_text": "(2004; short)",
-          "links": [],
+          "links": [
+            {
+              "body": "Ephraim",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0397054",
+                "page": "http://www.imdb.com/find?q=tt0397054"
+              }
+            }
+          ],
           "text": "Ephraim (2004; short)",
-          "value": "Ephraim",
+          "value": "${link_0}",
           "value_text": "Ephraim"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1526223",
+                "page": "http://www.imdb.com/find?q=nm1526223"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Daniel_Samonas",
+                "page": "http://en.wikipedia.org/wiki/Daniel_Samonas"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/104478716636878987743/posts",
+                "page": "https://plus.google.com/104478716636878987743/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.danielsamonas.com/",
+                "page": "http://www.danielsamonas.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/danielsamonas",
+                "page": "https://twitter.com/danielsamonas"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,13 +181,503 @@
   ],
   "paragraphs": [
     {
+      "body": "117. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Northern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Northern_Air_Temple",
+            "page": "The_Northern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Avatar: The Last Airbender credits",
+        "Teo"
+      ],
+      "text": "117. \"The Northern Air Temple\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Avatar: The Last Airbender credits",
+        "Teo"
+      ],
+      "text": "310. \"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Avatar: The Last Airbender credits",
+        "Teo"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Western Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Western_Air_Temple",
+            "page": "The_Western_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Avatar: The Last Airbender credits",
+        "Teo"
+      ],
+      "text": "312. \"The Western Air Temple\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CSI: NY",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0395843",
+            "page": "http://www.imdb.com/find?q=tt0395843"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CSI: NY"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Entourage",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0387199",
+            "page": "http://www.imdb.com/find?q=tt0387199"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Entourage"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Everybody Hates Chris",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460637",
+            "page": "http://www.imdb.com/find?q=tt0460637"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Everybody Hates Chris"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hannah Montana",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0493093",
+            "page": "http://www.imdb.com/find?q=tt0493093"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hannah Montana"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "iCarly",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0972534",
+            "page": "http://www.imdb.com/find?q=tt0972534"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "iCarly"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wizards of Waverly Place",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0799922",
+            "page": "http://www.imdb.com/find?q=tt0799922"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wizards of Waverly Place"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Zoey 101",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0415463",
+            "page": "http://www.imdb.com/find?q=tt0415463"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Zoey 101"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Brother's Keeper",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1748016",
+            "page": "http://www.imdb.com/find?q=tt1748016"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Brother's Keeper (2013)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "I Owe My Life to Corbin Bleu",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1719722",
+            "page": "http://www.imdb.com/find?q=tt1719722"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I Owe My Life to Corbin Bleu (2010; short)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Monster Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1680101",
+            "page": "http://www.imdb.com/find?q=tt1680101"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Monster Heroes (2010)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Downstream",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1229236",
+            "page": "http://www.imdb.com/find?q=tt1229236"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Downstream (2010)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "The Least of These",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1014766",
+            "page": "http://www.imdb.com/find?q=tt1014766"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Least of These (2008)"
+    },
+    {
+      "body": "${link_0} (2006; short)",
+      "links": [
+        {
+          "body": "My Struggle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0814226",
+            "page": "http://www.imdb.com/find?q=tt0814226"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "My Struggle (2006; short)"
+    },
+    {
+      "body": "${link_0} (2006; short)",
+      "links": [
+        {
+          "body": "Stronger Than Daylight",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0860930",
+            "page": "http://www.imdb.com/find?q=tt0860930"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stronger Than Daylight (2006; short)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Love and Debate",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0410751",
+            "page": "http://www.imdb.com/find?q=tt0410751"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Love and Debate (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Hitters Anonymous",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0415042",
+            "page": "http://www.imdb.com/find?q=tt0415042"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hitters Anonymous (2005)"
+    },
+    {
+      "body": "${link_0} (2005; short)",
+      "links": [
+        {
+          "body": "3 the Hard Way",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0813125",
+            "page": "http://www.imdb.com/find?q=tt0813125"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "3 the Hard Way (2005; short)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "La migra",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0405157",
+            "page": "http://www.imdb.com/find?q=tt0405157"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "La migra (2005)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy Versus XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0960140",
+            "page": "http://www.imdb.com/find?q=tt0960140"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Samonas",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy Versus XIII (video game)"
+    },
+    {
       "body": "Born in Toronto, Ontario, Samonas moved to Coral Springs, Florida, with his family when he was eleven. There he did print modeling and became involved in theater. He currently resides in Los Angeles, California.",
       "links": [],
+      "section": [
+        "Daniel Samonas",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Born in Toronto, Ontario, Samonas moved to Coral Springs, Florida, with his family when he was eleven. There he did print modeling and became involved in theater. He currently resides in Los Angeles, California."
     },
     {
       "body": "After moving to Florida when he was eleven, Samonas became involved in print modeling and local theater. His first lead role was in Ephraim, after which he served in several more films until his first television spot in Everybody Hates Chris. He returned to film and, in 2006, was cast in the ABC pilot Enemies. This was followed by appearances in Hannah Montana as Josh, Zoey 101, and repeated appearances as the voice of Teo in Avatar: The Last Airbender. In 2006 he was cast as Meat in The Last Day of Summer. In 2008, Samonas made an appearance on iCarly as Freddie's fencing rival Doug Toder and later appeared on Disney Channel's Wizards of Waverly Place as Alex's boyfriend Dean.",
       "links": [],
+      "section": [
+        "Daniel Samonas",
+        "Biographical information",
+        "Career"
+      ],
       "text": "After moving to Florida when he was eleven, Samonas became involved in print modeling and local theater. His first lead role was in Ephraim, after which he served in several more films until his first television spot in Everybody Hates Chris. He returned to film and, in 2006, was cast in the ABC pilot Enemies. This was followed by appearances in Hannah Montana as Josh, Zoey 101, and repeated appearances as the voice of Teo in Avatar: The Last Airbender. In 2006 he was cast as Meat in The Last Day of Summer. In 2008, Samonas made an appearance on iCarly as Freddie's fencing rival Doug Toder and later appeared on Disney Channel's Wizards of Waverly Place as Alex's boyfriend Dean."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Shnookums and Meat Funny Cartoon Show (1993)",
+          "body": "${link_0} (1993)",
           "extra": "(1993)",
           "extra_text": "(1993)",
-          "links": [],
+          "links": [
+            {
+              "body": "Shnookums and Meat Funny Cartoon Show",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0189309",
+                "page": "http://www.imdb.com/find?q=tt0189309"
+              }
+            }
+          ],
           "text": "Shnookums and Meat Funny Cartoon Show (1993)",
-          "value": "Shnookums and Meat Funny Cartoon Show",
+          "value": "${link_0}",
           "value_text": "Shnookums and Meat Funny Cartoon Show"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0016141",
+                "page": "http://www.imdb.com/find?q=nm0016141"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Carlos_Alazraqui",
+                "page": "http://en.wikipedia.org/wiki/Carlos_Alazraqui"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/carlos.alazraqui",
+                "page": "https://www.facebook.com/carlos.alazraqui"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.carlosalazraqui.com/",
+                "page": "http://www.carlosalazraqui.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/carlosalazraqui",
+                "page": "https://twitter.com/carlosalazraqui"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,8 +181,873 @@
   ],
   "paragraphs": [
     {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Swamp",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Swamp",
+            "page": "The_Swamp"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Avatar: The Last Airbender credits",
+        "Due"
+      ],
+      "text": "204. \"The Swamp\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Avatar: The Last Airbender credits",
+        "Due"
+      ],
+      "text": "310. \"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Swamp",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Swamp",
+            "page": "The_Swamp"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Avatar: The Last Airbender credits",
+        "Tho"
+      ],
+      "text": "204. \"The Swamp\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Avatar: The Last Airbender credits",
+        "Tho"
+      ],
+      "text": "310. \"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Swamp",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Swamp",
+            "page": "The_Swamp"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "204. \"The Swamp\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "310. \"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Protester"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "103. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Revelation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Revelation_(episode)",
+            "page": "The_Revelation_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Protester"
+      ],
+      "text": "103. \"The Revelation\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Skeletons in the Closet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
+            "page": "Skeletons_in_the_Closet"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Protester"
+      ],
+      "text": "111. \"Skeletons in the Closet\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Endgame",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Endgame",
+            "page": "Endgame"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Protester"
+      ],
+      "text": "112. \"Endgame\""
+    },
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Earth Kingdom guard"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Train guard"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Chow"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ultimatum",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ultimatum",
+            "page": "The_Ultimatum"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Chow"
+      ],
+      "text": "311. \"The Ultimatum\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Uncle"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Royal guard #3"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Yung"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "307. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Original Airbenders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Original_Airbenders",
+            "page": "Original_Airbenders"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Yung"
+      ],
+      "text": "307. \"Original Airbenders\""
+    },
+    {
+      "body": "307. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Original Airbenders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Original_Airbenders",
+            "page": "Original_Airbenders"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Otaku"
+      ],
+      "text": "307. \"Original Airbenders\""
+    },
+    {
+      "body": "307. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Original Airbenders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Original_Airbenders",
+            "page": "Original_Airbenders"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Rustler"
+      ],
+      "text": "307. \"Original Airbenders\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ultimatum",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ultimatum",
+            "page": "The_Ultimatum"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Radio operator"
+      ],
+      "text": "311. \"The Ultimatum\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ultimatum",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ultimatum",
+            "page": "The_Ultimatum"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "The Legend of Korra credits",
+        "Royal guard"
+      ],
+      "text": "311. \"The Ultimatum\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Camp Lazlo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0419315",
+            "page": "http://www.imdb.com/find?q=tt0419315"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Camp Lazlo"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Chozen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3221268",
+            "page": "http://www.imdb.com/find?q=tt3221268"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Chozen"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "I'm in the Band",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1433495",
+            "page": "http://www.imdb.com/find?q=tt1433495"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "I'm in the Band"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Reno 911!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0370194",
+            "page": "http://www.imdb.com/find?q=tt0370194"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Reno 911!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Rocko's Modern Life",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106115",
+            "page": "http://www.imdb.com/find?q=tt0106115"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Rocko's Modern Life"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Fairly OddParents",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235918",
+            "page": "http://www.imdb.com/find?q=tt0235918"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Fairly OddParents"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Puzzle Place",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0179042",
+            "page": "http://www.imdb.com/find?q=tt0179042"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Puzzle Place"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wow! Wow! Wubbzy!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0762067",
+            "page": "http://www.imdb.com/find?q=tt0762067"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wow! Wow! Wubbzy!"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "The Invited",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0454941",
+            "page": "http://www.imdb.com/find?q=tt0454941"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Invited (2010)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Ponyo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0876563",
+            "page": "http://www.imdb.com/find?q=tt0876563"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ponyo (2008)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Happy Feet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0366548",
+            "page": "http://www.imdb.com/find?q=tt0366548"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Happy Feet (2006)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Howl's Moving Castle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0347149",
+            "page": "http://www.imdb.com/find?q=tt0347149"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Howl's Moving Castle (2004)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Spanish Fly",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0311850",
+            "page": "http://www.imdb.com/find?q=tt0311850"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spanish Fly (2003)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Osmosis Jones",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0181739",
+            "page": "http://www.imdb.com/find?q=tt0181739"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Osmosis Jones (2001)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Cars Race-O-Rama",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1671453",
+            "page": "http://www.imdb.com/find?q=tt1671453"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Cars Race-O-Rama (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crash: Mind Over Mutant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1282033",
+            "page": "http://www.imdb.com/find?q=tt1282033"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crash: Mind Over Mutant (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Justice League Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0823153",
+            "page": "http://www.imdb.com/find?q=tt0823153"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Justice League Heroes (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Nicktoons: Attack of the Toybots",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1074205",
+            "page": "http://www.imdb.com/find?q=tt1074205"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Nicktoons: Attack of the Toybots (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Secret Weapons Over Normandy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0405298",
+            "page": "http://www.imdb.com/find?q=tt0405298"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Secret Weapons Over Normandy (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Titan Quest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837135",
+            "page": "http://www.imdb.com/find?q=tt0837135"
+          }
+        }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Titan Quest (video game)"
+    },
+    {
       "body": "Alazraqui was born to Argentine parents in Yonkers, New York, and moved to Concord, California, at an early age. He later relocated to Sacramento to attend California State Sacramento where he began competing in open mic contests. After winning in his fourth year of competing at the San Francisco International Comedy Competition, he took his prize money and moved to Los Angeles.",
       "links": [],
+      "section": [
+        "Carlos Alazraqui",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Alazraqui was born to Argentine parents in Yonkers, New York, and moved to Concord, California, at an early age. He later relocated to Sacramento to attend California State Sacramento where he began competing in open mic contests. After winning in his fourth year of competing at the San Francisco International Comedy Competition, he took his prize money and moved to Los Angeles."
     },
     {
@@ -129,16 +1057,27 @@
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Biographical information",
+        "Career"
       ],
       "text": "Alazraqui has performed several voices for Nickelodeon cartoons, including Rocko on Rocko's Modern Life, Denzel Q. Crocker and Juandissimo Magnifico on The Fairly OddParents, Winslow on CatDog, and additional voices on Angry Beavers and KaBlam!. Alazraqui also voiced several additional characters for the Cartoon Network show Cow and Chicken during its run in the mid-late 1990s. He also voiced the titular character of the first game in the Spyro the Dragon series, the Taco Bell chihuahua in commercials, Rikochet in the first two seasons of Mucha Lucha!, and Jonathan Weed, the head of the Happy Go Lucky Toy Factory on Family Guy, until the character's death. It is mentioned in the DVD commentary track that Alazraqui was reluctant to leave the Family Guy series. In particular, Seth McFarlane suggests that the death of Mr. Weed took the actor by surprise."
     },
     {
       "body": "In 2005, he added the voices for two Cartoon Network series: The Life and Times of Juniper Lee, wherein he played Monroe, a guardian dog with a Scottish accent, and Lazlo and Clam in Camp Lazlo. In 2006, he added Salty Mike from Squirrel Boy and Walden in Wow! Wow! Wubbzy! to his credits. He played Wisk in Glen Hill's 2000 film version of L. Frank Baum's The Life and Adventures of Santa Claus and also provided the voice of Nestor in Happy Feet.",
       "links": [],
+      "section": [
+        "Carlos Alazraqui",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 2005, he added the voices for two Cartoon Network series: The Life and Times of Juniper Lee, wherein he played Monroe, a guardian dog with a Scottish accent, and Lazlo and Clam in Camp Lazlo. In 2006, he added Salty Mike from Squirrel Boy and Walden in Wow! Wow! Wubbzy! to his credits. He played Wisk in Glen Hill's 2000 film version of L. Frank Baum's The Life and Adventures of Santa Claus and also provided the voice of Nestor in Happy Feet."
     },
     {
@@ -148,10 +1087,16 @@
           "body": "Jim Ward",
           "key": "${link_0}",
           "target": {
-            "href": "Jim_Ward",
+            "external": false,
+            "href": "/wiki/Jim_Ward",
             "page": "Jim_Ward"
           }
         }
+      ],
+      "section": [
+        "Carlos Alazraqui",
+        "Biographical information",
+        "Career"
       ],
       "text": "Alazraqui also does work for the Disney Channel on the Playhouse Disney show Handy Manny, providing the voices for Felipe, the bilingual Phillips-head screwdriver, and Abuelito, Manny's grandfather. He was also the original \"voice guy\" on the Stephanie Miller Show. His replacement was voice actor Jim Ward, who had previously substituted for him. In January 2008, he returned to fill in for Jim Ward briefly while the latter recovered from surgery."
     }

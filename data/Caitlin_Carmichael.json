@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "In the Motherhood (2008; web series)",
+          "body": "${link_0} (2008; web series)",
           "extra": "(2008; web series)",
           "extra_text": "(2008; web series)",
-          "links": [],
+          "links": [
+            {
+              "body": "In the Motherhood",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1016276",
+                "page": "http://www.imdb.com/find?q=tt1016276"
+              }
+            }
+          ],
           "text": "In the Motherhood (2008; web series)",
-          "value": "In the Motherhood",
+          "value": "${link_0}",
           "value_text": "In the Motherhood"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2965079",
+                "page": "http://www.imdb.com/find?q=nm2965079"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Caitlin_Carmichael",
+                "page": "http://en.wikipedia.org/wiki/Caitlin_Carmichael"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/reallycaitlinxox",
+                "page": "http://instagram.com/reallycaitlinxox"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/reallycaitlin",
+                "page": "https://twitter.com/reallycaitlin"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,29 +162,530 @@
   ],
   "paragraphs": [
     {
+      "body": "404. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Calling",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Calling",
+            "page": "The_Calling"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "The Legend of Korra credits",
+        "Tuyen"
+      ],
+      "text": "404. \"The Calling\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "10 Things I Hate About You",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1321805",
+            "page": "http://www.imdb.com/find?q=tt1321805"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "10 Things I Hate About You"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Bad Girls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2214829",
+            "page": "http://www.imdb.com/find?q=tt2214829"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bad Girls (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV miniseries)",
+      "links": [
+        {
+          "body": "Bag of Bones",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1212452",
+            "page": "http://www.imdb.com/find?q=tt1212452"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bag of Bones (TV miniseries)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Chosen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2390334",
+            "page": "http://www.imdb.com/find?q=tt2390334"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Chosen"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Criminal Minds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0452046",
+            "page": "http://www.imdb.com/find?q=tt0452046"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Criminal Minds"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Daybreak",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2173240",
+            "page": "http://www.imdb.com/find?q=tt2173240"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Daybreak"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Doc McStuffins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1710295",
+            "page": "http://www.imdb.com/find?q=tt1710295"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Doc McStuffins"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order: LA",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1657081",
+            "page": "http://www.imdb.com/find?q=tt1657081"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order: LA"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mystery ER",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0772560",
+            "page": "http://www.imdb.com/find?q=tt0772560"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mystery ER"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Shake It Up",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1661326",
+            "page": "http://www.imdb.com/find?q=tt1661326"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Shake It Up"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Special Agent Oso",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1124354",
+            "page": "http://www.imdb.com/find?q=tt1124354"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Special Agent Oso"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Suburgatory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1741256",
+            "page": "http://www.imdb.com/find?q=tt1741256"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Suburgatory"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "300: Rise of an Empire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1253863",
+            "page": "http://www.imdb.com/find?q=tt1253863"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "300: Rise of an Empire (2014)"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Being American",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2295908",
+            "page": "http://www.imdb.com/find?q=tt2295908"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Being American (2014)"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Teacher of the Year",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2076346",
+            "page": "http://www.imdb.com/find?q=tt2076346"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Teacher of the Year (2014)"
+    },
+    {
+      "body": "${link_0} (2013; short)",
+      "links": [
+        {
+          "body": "Bedbug",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3135370",
+            "page": "http://www.imdb.com/find?q=tt3135370"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bedbug (2013; short)"
+    },
+    {
+      "body": "${link_0} (2013; video)",
+      "links": [
+        {
+          "body": "The Wicked",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1986994",
+            "page": "http://www.imdb.com/find?q=tt1986994"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wicked (2013; video)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Lizzie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1582213",
+            "page": "http://www.imdb.com/find?q=tt1582213"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lizzie (2012)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Conception",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1619277",
+            "page": "http://www.imdb.com/find?q=tt1619277"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Conception (2011)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Backlight",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1326238",
+            "page": "http://www.imdb.com/find?q=tt1326238"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Backlight (2010)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "The Mis-Informant - with Jack Black as Nathan Spewman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1754671",
+            "page": "http://www.imdb.com/find?q=tt1754671"
+          }
+        }
+      ],
+      "section": [
+        "Caitlin Carmichael",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Mis-Informant - with Jack Black as Nathan Spewman (2010; short)"
+    },
+    {
       "body": "Caitlin Carmichael was born in Tifton, Georgia, to Tom and Catherine Carmichael. In addition to acting, Carmichael spends time taking dance classes in ballet, tap, and hip hop, as well as gymnastics. She also does volunteer work with the Beverly Hills Presbyterian Church, helping feed the homeless.",
       "links": [],
+      "section": [
+        "Caitlin Carmichael",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Caitlin Carmichael was born in Tifton, Georgia, to Tom and Catherine Carmichael. In addition to acting, Carmichael spends time taking dance classes in ballet, tap, and hip hop, as well as gymnastics. She also does volunteer work with the Beverly Hills Presbyterian Church, helping feed the homeless."
     },
     {
       "body": "Carmichael's career began when she was three years old. Her family took her on a Disney cruise for her birthday and, while attending a show, she was drawn to the stage and chosen \"Princess of the Boat\".",
       "links": [],
+      "section": [
+        "Caitlin Carmichael",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Carmichael's career began when she was three years old. Her family took her on a Disney cruise for her birthday and, while attending a show, she was drawn to the stage and chosen \"Princess of the Boat\"."
     },
     {
       "body": "In 2007, John Robert Powers (JRP) talent agency eventually gave the Carmichaels a call for her to audition for The Disney Channel. She attended classes at JRP for modeling, commercials, television, and print media. Within two months, she landed a spot after auditioning to attend the International Presentation of Performers in Los Angeles in 2008. She was the youngest of approximately 2,500 performers and contestants representing five countries. Since 2008, she has appeared in a number television shows and films.",
       "links": [],
+      "section": [
+        "Caitlin Carmichael",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 2007, John Robert Powers (JRP) talent agency eventually gave the Carmichaels a call for her to audition for The Disney Channel. She attended classes at JRP for modeling, commercials, television, and print media. Within two months, she landed a spot after auditioning to attend the International Presentation of Performers in Los Angeles in 2008. She was the youngest of approximately 2,500 performers and contestants representing five countries. Since 2008, she has appeared in a number television shows and films."
     },
     {
       "body": "In 2008, Carmichael was handpicked by Jenny McCarthy to play McCarthy's daughter in the webisode series In the Motherhood.",
       "links": [],
+      "section": [
+        "Caitlin Carmichael",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 2008, Carmichael was handpicked by Jenny McCarthy to play McCarthy's daughter in the webisode series In the Motherhood."
     },
     {
       "body": "Carmichael has spent time in New York City shooting a feature film and shooting for print national commercials, including Ralph Lauren for Lord & Taylor, Ann Taylor, Charles Voegele, Dillards, Toys \"R\" Us, and others.",
       "links": [],
+      "section": [
+        "Caitlin Carmichael",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Carmichael has spent time in New York City shooting a feature film and shooting for print national commercials, including Ralph Lauren for Lord & Taylor, Ann Taylor, Charles Voegele, Dillards, Toys \"R\" Us, and others."
+    },
+    {
+      "body": "2014: Won a Young Artist Award for Chosen (Best Web Performance for Young Actress)",
+      "links": [],
+      "section": [
+        "Caitlin Carmichael",
+        "Awards"
+      ],
+      "text": "2014: Won a Young Artist Award for Chosen (Best Web Performance for Young Actress)"
+    },
+    {
+      "body": "2013: Won a Young Artist Award for Doc McStuffins (Best Performance in a Voice-Over Role, Television)",
+      "links": [],
+      "section": [
+        "Caitlin Carmichael",
+        "Awards"
+      ],
+      "text": "2013: Won a Young Artist Award for Doc McStuffins (Best Performance in a Voice-Over Role, Television)"
+    },
+    {
+      "body": "2012: Won a Young Artist Award for Bag of Bones (Best Performance for Supporting Young Actress)",
+      "links": [],
+      "section": [
+        "Caitlin Carmichael",
+        "Awards"
+      ],
+      "text": "2012: Won a Young Artist Award for Bag of Bones (Best Performance for Supporting Young Actress)"
+    },
+    {
+      "body": "2010: Won an International Presentation of Performers Star of the Year Award",
+      "links": [],
+      "section": [
+        "Caitlin Carmichael",
+        "Awards"
+      ],
+      "text": "2010: Won an International Presentation of Performers Star of the Year Award"
     }
   ],
   "source": {

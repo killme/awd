@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Grace Bedell (2010; short)",
+          "body": "${link_0} (2010; short)",
           "extra": "(2010; short)",
           "extra_text": "(2010; short)",
-          "links": [],
+          "links": [
+            {
+              "body": "Grace Bedell",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1520907",
+                "page": "http://www.imdb.com/find?q=tt1520907"
+              }
+            }
+          ],
           "text": "Grace Bedell (2010; short)",
-          "value": "Grace Bedell",
+          "value": "${link_0}",
           "value_text": "Grace Bedell"
         }
       ]
@@ -41,27 +54,188 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm3717456",
+                "page": "http://www.imdb.com/find?q=nm3717456"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/Nicholas_Braico",
+                "page": "https://twitter.com/Nicholas_Braico"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Skeletons in the Closet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
+            "page": "Skeletons_in_the_Closet"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Braico",
+        "The Legend of Korra credits",
+        "Tarrlok (ages three to seven)"
+      ],
+      "text": "111. \"Skeletons in the Closet\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Braico",
+        "The Legend of Korra credits",
+        "Kind spirit #2"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Friends with Benefits",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1604113",
+            "page": "http://www.imdb.com/find?q=tt1604113"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Braico",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Friends with Benefits"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Heaven's Rain",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1617636",
+            "page": "http://www.imdb.com/find?q=tt1617636"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Braico",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Heaven's Rain"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Shake It Up",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1661326",
+            "page": "http://www.imdb.com/find?q=tt1661326"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Braico",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Shake It Up"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Incybers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1716773",
+            "page": "http://www.imdb.com/find?q=tt1716773"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Braico",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Incybers (TV movie)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "Grace Bedell",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1520907",
+            "page": "http://www.imdb.com/find?q=tt1520907"
+          }
+        }
+      ],
+      "section": [
+        "Nicholas Braico",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Grace Bedell (2010; short)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Nicholas_Braico",
     "file": "avatar.wikia.com/wiki/Nicholas_Braico.html",

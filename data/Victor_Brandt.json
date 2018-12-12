@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Battle of the Bulge (1965)",
+          "body": "${link_0} (1965)",
           "extra": "(1965)",
           "extra_text": "(1965)",
-          "links": [],
+          "links": [
+            {
+              "body": "Battle of the Bulge",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0058947",
+                "page": "http://www.imdb.com/find?q=tt0058947"
+              }
+            }
+          ],
           "text": "Battle of the Bulge (1965)",
-          "value": "Battle of the Bulge",
+          "value": "${link_0}",
           "value_text": "Battle of the Bulge"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0105011",
+                "page": "http://www.imdb.com/find?q=nm0105011"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Victor_Brandt",
+                "page": "http://en.wikipedia.org/wiki/Victor_Brandt"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Victor-Brandt/108148619213671?nr",
+                "page": "https://www.facebook.com/pages/Victor-Brandt/108148619213671?nr"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -100,8 +143,712 @@
   ],
   "paragraphs": [
     {
+      "body": "118. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Master",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Master",
+            "page": "The_Waterbending_Master"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Avatar: The Last Airbender credits",
+        "Pakku"
+      ],
+      "text": "118. \"The Waterbending Master\""
+    },
+    {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Avatar: The Last Airbender credits",
+        "Pakku"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Avatar: The Last Airbender credits",
+        "Pakku"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Avatar: The Last Airbender credits",
+        "Pakku"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "319. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 2: The Old Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_2__The_Old_Masters",
+            "page": "Sozin%27s_Comet%2c_Part_2__The_Old_Masters"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Avatar: The Last Airbender credits",
+        "Pakku"
+      ],
+      "text": "319. \"Sozin's Comet, Part 2: The Old Masters\""
+    },
+    {
+      "body": "320. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 3: Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_3__Into_the_Inferno",
+            "page": "Sozin%27s_Comet%2c_Part_3__Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Avatar: The Last Airbender credits",
+        "Pakku"
+      ],
+      "text": "320. \"Sozin's Comet, Part 3: Into the Inferno\""
+    },
+    {
+      "body": "118. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Master",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Master",
+            "page": "The_Waterbending_Master"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "118. \"The Waterbending Master\""
+    },
+    {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "320. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 3: Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_3__Into_the_Inferno",
+            "page": "Sozin%27s_Comet%2c_Part_3__Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "320. \"Sozin's Comet, Part 3: Into the Inferno\""
+    },
+    {
+      "body": "${link_0} (2010; documentary short - self)",
+      "links": [
+        {
+          "body": "The Enemy of the Smile: AA - An Ancient Bacterium",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1705055",
+            "page": "http://www.imdb.com/find?q=tt1705055"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Enemy of the Smile: AA - An Ancient Bacterium (2010; documentary short - self)"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "The Girl in the Window",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1370857",
+            "page": "http://www.imdb.com/find?q=tt1370857"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Girl in the Window (2009; short)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "The Cat in the Hat",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312528",
+            "page": "http://www.imdb.com/find?q=tt0312528"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Cat in the Hat (2003)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "The Santa Clause 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0304669",
+            "page": "http://www.imdb.com/find?q=tt0304669"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Santa Clause 2 (2002)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Babe: Pig in the City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120595",
+            "page": "http://www.imdb.com/find?q=tt0120595"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Babe: Pig in the City (1998)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Midnight in the Garden of Good and Evil",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119668",
+            "page": "http://www.imdb.com/find?q=tt0119668"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Midnight in the Garden of Good and Evil (1997)"
+    },
+    {
+      "body": "${link_0} (1994 - ADR loop group)",
+      "links": [
+        {
+          "body": "Cabin Boy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0109361",
+            "page": "http://www.imdb.com/find?q=tt0109361"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cabin Boy (1994 - ADR loop group)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "Sliver",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108162",
+            "page": "http://www.imdb.com/find?q=tt0108162"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sliver (1993)"
+    },
+    {
+      "body": "${link_0} (1992)",
+      "links": [
+        {
+          "body": "Unlawful Entry",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105699",
+            "page": "http://www.imdb.com/find?q=tt0105699"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Unlawful Entry (1992)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Another 48 Hrs.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0099044",
+            "page": "http://www.imdb.com/find?q=tt0099044"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Another 48 Hrs. (1990)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "Criminal Act",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0097124",
+            "page": "http://www.imdb.com/find?q=tt0097124"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Criminal Act (1989)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "Neon Maniacs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0127045",
+            "page": "http://www.imdb.com/find?q=tt0127045"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Neon Maniacs (1986)"
+    },
+    {
+      "body": "${link_0} (1982)",
+      "links": [
+        {
+          "body": "Wacko",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0083310",
+            "page": "http://www.imdb.com/find?q=tt0083310"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Wacko (1982)"
+    },
+    {
+      "body": "${link_0} (1978)",
+      "links": [
+        {
+          "body": "I Wanna Hold Your Hand",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0077714",
+            "page": "http://www.imdb.com/find?q=tt0077714"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I Wanna Hold Your Hand (1978)"
+    },
+    {
+      "body": "${link_0} (1974)",
+      "links": [
+        {
+          "body": "Three the Hard Way",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0072284",
+            "page": "http://www.imdb.com/find?q=tt0072284"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Three the Hard Way (1974)"
+    },
+    {
+      "body": "${link_0} (1968)",
+      "links": [
+        {
+          "body": "The Head Mistress",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0161654",
+            "page": "http://www.imdb.com/find?q=tt0161654"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Head Mistress (1968)"
+    },
+    {
+      "body": "${link_0} (1965)",
+      "links": [
+        {
+          "body": "Battle of the Bulge",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0058947",
+            "page": "http://www.imdb.com/find?q=tt0058947"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Battle of the Bulge (1965)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0959552",
+            "page": "http://www.imdb.com/find?q=tt0959552"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Last Airbender (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Jade Empire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0455965",
+            "page": "http://www.imdb.com/find?q=tt0455965"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Jade Empire (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Law & Order: Dead on the Money",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0363760",
+            "page": "http://www.imdb.com/find?q=tt0363760"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Law & Order: Dead on the Money (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Law & Order II: Double or Nothing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0386589",
+            "page": "http://www.imdb.com/find?q=tt0386589"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Law & Order II: Double or Nothing (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Men in Black: The Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292100",
+            "page": "http://www.imdb.com/find?q=tt0292100"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Men in Black: The Game (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spawn 3: Ultimate Battle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0500178",
+            "page": "http://www.imdb.com/find?q=tt0500178"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spawn 3: Ultimate Battle (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Superman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0281244",
+            "page": "http://www.imdb.com/find?q=tt0281244"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Superman (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Superman: Shadow of Apokolips",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0395274",
+            "page": "http://www.imdb.com/find?q=tt0395274"
+          }
+        }
+      ],
+      "section": [
+        "Victor Brandt",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Superman: Shadow of Apokolips (video game)"
+    },
+    {
       "body": "Brandt is the son of late assistant director Louis Brandt.",
       "links": [],
+      "section": [
+        "Victor Brandt",
+        "Biographical information"
+      ],
       "text": "Brandt is the son of late assistant director Louis Brandt."
     }
   ],

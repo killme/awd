@@ -3,35 +3,40 @@
     {
       "body": "Needs help",
       "target": {
-        "href": "Category_Needs_help",
+        "external": false,
+        "href": "/wiki/Category_Needs_help",
         "page": "Category_Needs_help"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Books",
       "target": {
-        "href": "Category_Books",
+        "external": false,
+        "href": "/wiki/Category_Books",
         "page": "Category_Books"
       }
     },
     {
       "body": "Print publications",
       "target": {
-        "href": "Category_Print_publications",
+        "external": false,
+        "href": "/wiki/Category_Print_publications",
         "page": "Category_Print_publications"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,34 +46,10 @@
     {
       "body": "",
       "links": [],
-      "text": ""
-    },
-    {
-      "body": "This page requires editing to meet Avatar Wiki's quality standards.",
-      "links": [],
-      "text": "This page requires editing to meet Avatar Wiki's quality standards."
-    },
-    {
-      "body": "The cover for the book features ${link_0} and ${link_1}.",
-      "links": [
-        {
-          "body": "Aang",
-          "key": "${link_0}",
-          "target": {
-            "href": "Aang",
-            "page": "Aang"
-          }
-        },
-        {
-          "body": "Tenzin",
-          "key": "${link_1}",
-          "target": {
-            "href": "Tenzin",
-            "page": "Tenzin"
-          }
-        }
+      "section": [
+        "Avatar: The Last Airbender: Legacy"
       ],
-      "text": "The cover for the book features Aang and Tenzin."
+      "text": ""
     },
     {
       "body": "Avatar: The Last Airbender: Legacy is a hardcover book published by Insight Edition. It features ${link_0} looking back on his life after the ${link_1} through stories, along with various mementos such as posters, maps, and cards, a collection which he passes down to his ${link_2} son, ${link_3}. It was released on October 13, 2015.",
@@ -77,7 +58,8 @@
           "body": "Aang",
           "key": "${link_0}",
           "target": {
-            "href": "Aang",
+            "external": false,
+            "href": "/wiki/Aang",
             "page": "Aang"
           }
         },
@@ -85,7 +67,8 @@
           "body": "Hundred Year War",
           "key": "${link_1}",
           "target": {
-            "href": "Hundred_Year_War",
+            "external": false,
+            "href": "/wiki/Hundred_Year_War",
             "page": "Hundred_Year_War"
           }
         },
@@ -93,7 +76,8 @@
           "body": "airbending",
           "key": "${link_2}",
           "target": {
-            "href": "Airbending",
+            "external": false,
+            "href": "/wiki/Airbending",
             "page": "Airbending"
           }
         },
@@ -101,12 +85,35 @@
           "body": "Tenzin",
           "key": "${link_3}",
           "target": {
-            "href": "Tenzin",
+            "external": false,
+            "href": "/wiki/Tenzin",
             "page": "Tenzin"
           }
         }
       ],
+      "section": [
+        "Avatar: The Last Airbender: Legacy"
+      ],
       "text": "Avatar: The Last Airbender: Legacy is a hardcover book published by Insight Edition. It features Aang looking back on his life after the Hundred Year War through stories, along with various mementos such as posters, maps, and cards, a collection which he passes down to his airbending son, Tenzin. It was released on October 13, 2015."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "List of Avatar books",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar_books",
+            "page": "List_of_Avatar_books"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender: Legacy",
+        "See also"
+      ],
+      "text": "List of Avatar books"
     }
   ],
   "source": {

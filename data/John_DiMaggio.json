@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Castle in the Sky (1986; English version)",
+          "body": "${link_0} (1986; English version)",
           "extra": "(1986; English version)",
           "extra_text": "(1986; English version)",
-          "links": [],
+          "links": [
+            {
+              "body": "Castle in the Sky",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0092067",
+                "page": "http://www.imdb.com/find?q=tt0092067"
+              }
+            }
+          ],
           "text": "Castle in the Sky (1986; English version)",
-          "value": "Castle in the Sky",
+          "value": "${link_0}",
           "value_text": "Castle in the Sky"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0224007",
+                "page": "http://www.imdb.com/find?q=nm0224007"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/John_DiMaggio",
+                "page": "http://en.wikipedia.org/wiki/John_DiMaggio"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/John-Dimaggio/48024165039",
+                "page": "http://www.facebook.com/pages/John-Dimaggio/48024165039"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.twitter.com/TheJohnDiMaggio",
+                "page": "https://www.twitter.com/TheJohnDiMaggio"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,19 +162,663 @@
   ],
   "paragraphs": [
     {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Avatar: The Last Airbender credits",
+        "Actor Iroh"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Avatar: The Last Airbender credits",
+        "Actor Toph"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Adventure Time with Finn and Jake",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1305826",
+            "page": "http://www.imdb.com/find?q=tt1305826"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Adventure Time with Finn and Jake"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Brave and the Bold"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0760437",
+            "page": "http://www.imdb.com/find?q=tt0760437"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10: Alien Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1192169",
+            "page": "http://www.imdb.com/find?q=tt1192169"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10: Alien Force"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10: Ultimate Alien",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1622696",
+            "page": "http://www.imdb.com/find?q=tt1622696"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10: Ultimate Alien"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Chowder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1140100",
+            "page": "http://www.imdb.com/find?q=tt1140100"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Chowder"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Futurama",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0149460",
+            "page": "http://www.imdb.com/find?q=tt0149460"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Futurama"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Generator Rex",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1636691",
+            "page": "http://www.imdb.com/find?q=tt1636691"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Generator Rex"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kung Fu Panda: Legends of Awesomeness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545214",
+            "page": "http://www.imdb.com/find?q=tt1545214"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kung Fu Panda: Legends of Awesomeness"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Penguins of Madagascar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0892700",
+            "page": "http://www.imdb.com/find?q=tt0892700"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Penguins of Madagascar"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Transformers: Dark of the Moon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1399103",
+            "page": "http://www.imdb.com/find?q=tt1399103"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Transformers: Dark of the Moon (2011)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Batman: Under the Red Hood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1569923",
+            "page": "http://www.imdb.com/find?q=tt1569923"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Batman: Under the Red Hood (2010)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Little Fockers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0970866",
+            "page": "http://www.imdb.com/find?q=tt0970866"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Little Fockers (2010)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Screwball: The Ted Whitfield Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1262978",
+            "page": "http://www.imdb.com/find?q=tt1262978"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Screwball: The Ted Whitfield Story (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Haunted World of El Superbeasto",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0419724",
+            "page": "http://www.imdb.com/find?q=tt0419724"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Haunted World of El Superbeasto (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Bolt",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397892",
+            "page": "http://www.imdb.com/find?q=tt0397892"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bolt (2008)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Dragon Hunters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0944834",
+            "page": "http://www.imdb.com/find?q=tt0944834"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dragon Hunters (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Bee Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0389790",
+            "page": "http://www.imdb.com/find?q=tt0389790"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bee Movie (2007)"
+    },
+    {
+      "body": "${link_0} (soundtrack)",
+      "links": [
+        {
+          "body": "Adventure Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1305826",
+            "page": "http://www.imdb.com/find?q=tt1305826"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Adventure Time (soundtrack)"
+    },
+    {
+      "body": "${link_0} (soundtrack)",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Batman: The Brave and the Bold (soundtrack)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crash: Mind Over Mutant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1282033",
+            "page": "http://www.imdb.com/find?q=tt1282033"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crash: Mind Over Mutant (video game)"
+    },
+    {
+      "body": "${link_0} (documentary - co-executive producer)",
+      "links": [
+        {
+          "body": "Danny Greene: The Rise and Fall of the Irishman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1286747",
+            "page": "http://www.imdb.com/find?q=tt1286747"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Danny Greene: The Rise and Fall of the Irishman (documentary - co-executive producer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy X",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0284110",
+            "page": "http://www.imdb.com/find?q=tt0284110"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy X (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Forgotten Realms: Demon Stone",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0412737",
+            "page": "http://www.imdb.com/find?q=tt0412737"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Forgotten Realms: Demon Stone (video game)"
+    },
+    {
+      "body": "${link_0} (documentary - executive producer)",
+      "links": [
+        {
+          "body": "I Know That Voice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2113683",
+            "page": "http://www.imdb.com/find?q=tt2113683"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "I Know That Voice (documentary - executive producer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0411906",
+            "page": "http://www.imdb.com/find?q=tt0411906"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Valkyria Chronicles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1322987",
+            "page": "http://www.imdb.com/find?q=tt1322987"
+          }
+        }
+      ],
+      "section": [
+        "John DiMaggio",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Valkyria Chronicles (video game)"
+    },
+    {
       "body": "John DiMaggio attended the Mason Gross School of the Arts, Rutgers University, for two years. He was a member of the Gamma Sigma fraternity.",
       "links": [],
+      "section": [
+        "John DiMaggio",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "John DiMaggio attended the Mason Gross School of the Arts, Rutgers University, for two years. He was a member of the Gamma Sigma fraternity."
     },
     {
       "body": "DiMaggio is also a highly skilled beatboxer and can be heard in the Futurama episode \"Luck of the Fryrish\" as the character Noticeably F.A.T. He recorded an a cappella version of the Futurama theme for two episodes of the show with Billy West and also beatboxed with Coolio, as Kwanzaabot, on Bender's Big Score.",
       "links": [],
+      "section": [
+        "John DiMaggio",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "DiMaggio is also a highly skilled beatboxer and can be heard in the Futurama episode \"Luck of the Fryrish\" as the character Noticeably F.A.T. He recorded an a cappella version of the Futurama theme for two episodes of the show with Billy West and also beatboxed with Coolio, as Kwanzaabot, on Bender's Big Score."
     },
     {
       "body": "He is best known for his voice roles of Bender in Futurama, Dr. Drakken and Motor Ed in Kim Possible, Rico in The Penguins of Madagascar, and the characters Wakka and Kimahri Ronso in Final Fantasy X. He voices Jake the dog in the animated series Adventure Time, Bobo Haha and Skalamander on Generator Rex, and Niblet the Sheepdog in Pound Puppies.",
       "links": [],
+      "section": [
+        "John DiMaggio",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He is best known for his voice roles of Bender in Futurama, Dr. Drakken and Motor Ed in Kim Possible, Rico in The Penguins of Madagascar, and the characters Wakka and Kimahri Ronso in Final Fantasy X. He voices Jake the dog in the animated series Adventure Time, Bobo Haha and Skalamander on Generator Rex, and Niblet the Sheepdog in Pound Puppies."
+    },
+    {
+      "body": "2001: Won an Annie Award for Futurama (Voice Acting by a Male Performer in an Animated Television Production)",
+      "links": [],
+      "section": [
+        "John DiMaggio",
+        "Awards"
+      ],
+      "text": "2001: Won an Annie Award for Futurama (Voice Acting by a Male Performer in an Animated Television Production)"
     }
   ],
   "source": {

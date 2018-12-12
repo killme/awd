@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Godzilla Raids Again (1955)",
+          "body": "${link_0} (1955)",
           "extra": "(1955)",
           "extra_text": "(1955)",
-          "links": [],
+          "links": [
+            {
+              "body": "Godzilla Raids Again",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0048127",
+                "page": "http://www.imdb.com/find?q=tt0048127"
+              }
+            }
+          ],
           "text": "Godzilla Raids Again (1955)",
-          "value": "Godzilla Raids Again",
+          "value": "${link_0}",
           "value_text": "Godzilla Raids Again"
         }
       ]
@@ -69,57 +82,117 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0001786",
+                "page": "http://www.imdb.com/find?q=nm0001786"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/George_Takei",
+                "page": "http://en.wikipedia.org/wiki/George_Takei"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/georgehtakei",
+                "page": "https://www.facebook.com/georgehtakei"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/+GeorgeTakei/posts",
+                "page": "https://plus.google.com/+GeorgeTakei/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.georgetakei.com/",
+                "page": "http://www.georgetakei.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/GeorgeTakei",
+                "page": "https://twitter.com/GeorgeTakei"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -127,19 +200,651 @@
   ],
   "paragraphs": [
     {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Avatar: The Last Airbender credits",
+        "Warden (prison rig)"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Adventure Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1305826",
+            "page": "http://www.imdb.com/find?q=tt1305826"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Adventure Time"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0813715",
+            "page": "http://www.imdb.com/find?q=tt0813715"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kim Possible",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0278866",
+            "page": "http://www.imdb.com/find?q=tt0278866"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kim Possible"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lightning Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101133",
+            "page": "http://www.imdb.com/find?q=tt0101133"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lightning Force"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Space Cases",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115366",
+            "page": "http://www.imdb.com/find?q=tt0115366"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Space Cases"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0060028",
+            "page": "http://www.imdb.com/find?q=tt0060028"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Supah Ninjas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1615925",
+            "page": "http://www.imdb.com/find?q=tt1615925"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Supah Ninjas"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Suite Life on Deck",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1181917",
+            "page": "http://www.imdb.com/find?q=tt1181917"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Suite Life on Deck"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Super Hero Squad Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1388589",
+            "page": "http://www.imdb.com/find?q=tt1388589"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Super Hero Squad Show"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Eat with Me",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2274604",
+            "page": "http://www.imdb.com/find?q=tt2274604"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Eat with Me (2013)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Submission",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1734585",
+            "page": "http://www.imdb.com/find?q=tt1734585"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Submission (2010)"
+    },
+    {
+      "body": "${link_0} (2008; short)",
+      "links": [
+        {
+          "body": "Showdown of the Godz",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1216507",
+            "page": "http://www.imdb.com/find?q=tt1216507"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Showdown of the Godz (2008; short)"
+    },
+    {
+      "body": "${link_0} (2003; video short)",
+      "links": [
+        {
+          "body": "Roddenberry on Patrol",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0431367",
+            "page": "http://www.imdb.com/find?q=tt0431367"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Roddenberry on Patrol (2003; video short)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Mulan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120762",
+            "page": "http://www.imdb.com/find?q=tt0120762"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mulan (1998)"
+    },
+    {
+      "body": "${link_0} (1991)",
+      "links": [
+        {
+          "body": "Star Trek VI: The Undiscovered Country",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0102975",
+            "page": "http://www.imdb.com/find?q=tt0102975"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Trek VI: The Undiscovered Country (1991)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "Star Trek IV: The Voyage Home",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092007",
+            "page": "http://www.imdb.com/find?q=tt0092007"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Trek IV: The Voyage Home (1986)"
+    },
+    {
+      "body": "${link_0} (1984)",
+      "links": [
+        {
+          "body": "Star Trek III: The Search for Spock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0088170",
+            "page": "http://www.imdb.com/find?q=tt0088170"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Trek III: The Search for Spock (1984)"
+    },
+    {
+      "body": "${link_0} (1982)",
+      "links": [
+        {
+          "body": "Star Trek II: The Wrath of Khan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0084726",
+            "page": "http://www.imdb.com/find?q=tt0084726"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Trek II: The Wrath of Khan (1982)"
+    },
+    {
+      "body": "${link_0} (1979)",
+      "links": [
+        {
+          "body": "Star Trek: The Motion Picture",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0079945",
+            "page": "http://www.imdb.com/find?q=tt0079945"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Trek: The Motion Picture (1979)"
+    },
+    {
+      "body": "${link_0} (1968)",
+      "links": [
+        {
+          "body": "The Green Berets",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0063035",
+            "page": "http://www.imdb.com/find?q=tt0063035"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Green Berets (1968)"
+    },
+    {
+      "body": "${link_0} (1965)",
+      "links": [
+        {
+          "body": "Red Line 7000",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0059641",
+            "page": "http://www.imdb.com/find?q=tt0059641"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Red Line 7000 (1965)"
+    },
+    {
+      "body": "${link_0} (1960)",
+      "links": [
+        {
+          "body": "Ice Palace",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0053936",
+            "page": "http://www.imdb.com/find?q=tt0053936"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ice Palace (1960)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Command & Conquer: Red Alert 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1198194",
+            "page": "http://www.imdb.com/find?q=tt1198194"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Command & Conquer: Red Alert 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Draconus Cult of the Wyrm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0389947",
+            "page": "http://www.imdb.com/find?q=tt0389947"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Draconus Cult of the Wyrm (video game)"
+    },
+    {
+      "body": "${link_0} (documentary - producer)",
+      "links": [
+        {
+          "body": "Space Travelers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1479832",
+            "page": "http://www.imdb.com/find?q=tt1479832"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Space Travelers (documentary - producer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Trek: Shattered Universe",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0284514",
+            "page": "http://www.imdb.com/find?q=tt0284514"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Trek: Shattered Universe (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Starfleet Academy: Chekov's Lost Missions",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0160912",
+            "page": "http://www.imdb.com/find?q=tt0160912"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Starfleet Academy: Chekov's Lost Missions (video game)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "The Great Buck Howard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460810",
+            "page": "http://www.imdb.com/find?q=tt0460810"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Great Buck Howard (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (short - executive producer)",
+      "links": [
+        {
+          "body": "The Potential Wives of Norman Mao",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1743973",
+            "page": "http://www.imdb.com/find?q=tt1743973"
+          }
+        }
+      ],
+      "section": [
+        "George Takei",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Potential Wives of Norman Mao (short - executive producer)"
+    },
+    {
       "body": "George Takei was born George Hosato Takei on April 20, 1937, in Los Angeles, California.",
       "links": [],
+      "section": [
+        "George Takei",
+        "Biographical information"
+      ],
       "text": "George Takei was born George Hosato Takei on April 20, 1937, in Los Angeles, California."
     },
     {
       "body": "Takei came out as homosexual in 2005 and married his partner, Brad Altman, in May 2008, shortly after California legalized gay marriage. Their marriage was unaffected by Proposition 8 in November 2008, where voters chose to re-illegalize gay marriage, but which was later overturned by a Federal District Court in 2010.",
       "links": [],
+      "section": [
+        "George Takei",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Takei came out as homosexual in 2005 and married his partner, Brad Altman, in May 2008, shortly after California legalized gay marriage. Their marriage was unaffected by Proposition 8 in November 2008, where voters chose to re-illegalize gay marriage, but which was later overturned by a Federal District Court in 2010."
     },
     {
       "body": "Takei began his illustrious career in 1955 with an uncredited role in Godzilla Raids Again, released in the United States as Gigantis, the Fire Monster, and also had a role in a 1964 episode of The Twilight Zone. He is best known for his role as Sulu on Star Trek from 1966 to 1969, and again from 1973 to 1974. He played Sulu in six Star Trek Movies and provided his voice for several Star Trek video games. He appeared as Sulu once again in one episode of Star Trek New Voyages in 2007. His most recent major role was twelve episodes in the NBC drama Heroes between 2007 and 2010. He also starred in the 2011 film Larry Crowne alongside Tom Hanks, and was one of the competitors in the 2012 season of Celebrity Apprentice.",
       "links": [],
+      "section": [
+        "George Takei",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Takei began his illustrious career in 1955 with an uncredited role in Godzilla Raids Again, released in the United States as Gigantis, the Fire Monster, and also had a role in a 1964 episode of The Twilight Zone. He is best known for his role as Sulu on Star Trek from 1966 to 1969, and again from 1973 to 1974. He played Sulu in six Star Trek Movies and provided his voice for several Star Trek video games. He appeared as Sulu once again in one episode of Star Trek New Voyages in 2007. His most recent major role was twelve episodes in the NBC drama Heroes between 2007 and 2010. He also starred in the 2011 film Larry Crowne alongside Tom Hanks, and was one of the competitors in the 2012 season of Celebrity Apprentice."
+    },
+    {
+      "body": "2007: Won a San Diego Asian Film Festival Lifetime Achievement Award",
+      "links": [],
+      "section": [
+        "George Takei",
+        "Awards"
+      ],
+      "text": "2007: Won a San Diego Asian Film Festival Lifetime Achievement Award"
+    },
+    {
+      "body": "1986: Earned a star on the Hollywood Walk of Fame (Television; 6681 Hollywood Blvd.)",
+      "links": [],
+      "section": [
+        "George Takei",
+        "Awards"
+      ],
+      "text": "1986: Earned a star on the Hollywood Walk of Fame (Television; 6681 Hollywood Blvd.)"
     }
   ],
   "source": {

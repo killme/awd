@@ -3,28 +3,32 @@
     {
       "body": "Protected",
       "target": {
-        "href": "Category_Protected",
+        "external": false,
+        "href": "/wiki/Category_Protected",
         "page": "Category_Protected"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -62,12 +66,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "D-Minus (1998 - sound assistant)",
+          "body": "${link_0} (1998 - sound assistant)",
           "extra": "(1998 - sound assistant)",
           "extra_text": "(1998 - sound assistant)",
-          "links": [],
+          "links": [
+            {
+              "body": "D-Minus",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0138388",
+                "page": "http://www.imdb.com/find?q=tt0138388"
+              }
+            }
+          ],
           "text": "D-Minus (1998 - sound assistant)",
-          "value": "D-Minus",
+          "value": "${link_0}",
           "value_text": "D-Minus"
         }
       ]
@@ -76,30 +90,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0878940",
+                "page": "http://www.imdb.com/find?q=nm0878940"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Zach_Tyler_Eisen",
+                "page": "http://en.wikipedia.org/wiki/Zach_Tyler_Eisen"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Linkedin",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Linkedin",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.linkedin.com/in/zteisen",
+                "page": "https://www.linkedin.com/in/zteisen"
+              }
+            }
+          ],
           "text": "Linkedin",
-          "value": "Linkedin",
+          "value": "${link_0}",
           "value_text": "Linkedin"
         }
       ]
@@ -107,9 +151,390 @@
   ],
   "paragraphs": [
     {
+      "body": "216. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Avatar: The Last Airbender credits",
+        "Unnamed Fire Nation boy"
+      ],
+      "text": "216. \"Appa's Lost Days\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Avatar: The Last Airbender credits",
+        "Kid"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "216. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "216. \"Appa's Lost Days\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Little Bill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0229141",
+            "page": "http://www.imdb.com/find?q=tt0229141"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Little Bill"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Backyardigans",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0439349",
+            "page": "http://www.imdb.com/find?q=tt0439349"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Backyardigans"
+    },
+    {
+      "body": "${link_0} (2008; English version)",
+      "links": [
+        {
+          "body": "Doraemon: Nobita and the Green Giant Legend",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1180304",
+            "page": "http://www.imdb.com/find?q=tt1180304"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Doraemon: Nobita and the Green Giant Legend (2008; English version)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Ant Bully",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0429589",
+            "page": "http://www.imdb.com/find?q=tt0429589"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Ant Bully (2006)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Marci X",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0266747",
+            "page": "http://www.imdb.com/find?q=tt0266747"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Marci X (2003)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Entropy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0156515",
+            "page": "http://www.imdb.com/find?q=tt0156515"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Entropy (1999)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_(video_game)",
+            "page": "Avatar__The_Last_Airbender_(video_game)"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Last Airbender (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender \u2013 Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_%e2%80%93_Into_the_Inferno",
+            "page": "Avatar__The_Last_Airbender_%e2%80%93_Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Last Airbender \u2013 Into the Inferno (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender \u2013 The Burning Earth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_%e2%80%93_The_Burning_Earth",
+            "page": "Avatar__The_Last_Airbender_%e2%80%93_The_Burning_Earth"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Last Airbender \u2013 The Burning Earth (video game)"
+    },
+    {
+      "body": "${link_0} (sound assistant)",
+      "links": [
+        {
+          "body": "D Minus",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0138388",
+            "page": "http://www.imdb.com/find?q=tt0138388"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "D Minus (sound assistant)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Doraemon: Nobita and the Green Giant Legend",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1180304",
+            "page": "http://www.imdb.com/find?q=tt1180304"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Doraemon: Nobita and the Green Giant Legend (video game)"
+    },
+    {
+      "body": "${link_0} (art coordinator)",
+      "links": [
+        {
+          "body": "Relative Strangers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0425395",
+            "page": "http://www.imdb.com/find?q=tt0425395"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Relative Strangers (art coordinator)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Ant Bully",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0832435",
+            "page": "http://www.imdb.com/find?q=tt0832435"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Ant Bully (video game)"
+    },
+    {
       "body": "Eisen was born in Stamford, Connecticut, in 1993 and attended Westhill High School. He was active as an actor and voice actor until 2010, and subsequently attended Syracuse University from 2011 to 2015, majoring in Television-Radio-Film at the S.I. Newhouse School of Public Communications. During his time at Syracuse, he worked as a video editor for Fe Fe Entertainment, a desk writer for WAER Sports Radio, and as co-executive producer on the tv series Loud and Clear. After graduating, he worked as a production assistant for a number of companies, including NBCUniversal Inc., Funny or Die, and Boy Wonder Productions, before joining mass media company Cond\u00e9 Nast in September 2016 as a videographer.",
       "links": [],
+      "section": [
+        "Zach Tyler Eisen",
+        "Biographical information"
+      ],
       "text": "Eisen was born in Stamford, Connecticut, in 1993 and attended Westhill High School. He was active as an actor and voice actor until 2010, and subsequently attended Syracuse University from 2011 to 2015, majoring in Television-Radio-Film at the S.I. Newhouse School of Public Communications. During his time at Syracuse, he worked as a video editor for Fe Fe Entertainment, a desk writer for WAER Sports Radio, and as co-executive producer on the tv series Loud and Clear. After graduating, he worked as a production assistant for a number of companies, including NBCUniversal Inc., Funny or Die, and Boy Wonder Productions, before joining mass media company Cond\u00e9 Nast in September 2016 as a videographer."
+    },
+    {
+      "body": "Most of Eisen's recordings for Avatar were in Connecticut via satellite.",
+      "links": [],
+      "section": [
+        "Zach Tyler Eisen",
+        "Trivia"
+      ],
+      "text": "Most of Eisen's recordings for Avatar were in Connecticut via satellite."
+    },
+    {
+      "body": "No actor has a credit in all sixty-one episodes of Avatar. Eisen and ${link_0} tie for the most at sixty, with Eisen missing only \"${link_1}\".",
+      "links": [
+        {
+          "body": "Dee Bradley Baker",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dee_Bradley_Baker",
+            "page": "Dee_Bradley_Baker"
+          }
+        },
+        {
+          "body": "Zuko Alone",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Zach Tyler Eisen",
+        "Trivia"
+      ],
+      "text": "No actor has a credit in all sixty-one episodes of Avatar. Eisen and Dee Bradley Baker tie for the most at sixty, with Eisen missing only \"Zuko Alone\"."
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,21 +44,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Corey_Lewis",
+                "page": "http://en.wikipedia.org/wiki/Corey_Lewis"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://reyyy.com/",
+                "page": "http://reyyy.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -63,8 +86,132 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #11. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Reach for the Toph",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Reach_for_the_Toph",
+            "page": "Reach_for_the_Toph"
+          }
+        }
+      ],
+      "section": [
+        "Corey Lewis",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #11. \"Reach for the Toph\""
+    },
+    {
+      "body": "Iss. #11. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Reach for the Toph",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Reach_for_the_Toph",
+            "page": "Reach_for_the_Toph"
+          }
+        }
+      ],
+      "section": [
+        "Corey Lewis",
+        "Avatar: The Last Airbender credits",
+        "Comic colorist"
+      ],
+      "text": "Iss. #11. \"Reach for the Toph\""
+    },
+    {
+      "body": "Iss. #18. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Ember Island Arcade",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ember_Island_Arcade",
+            "page": "Ember_Island_Arcade"
+          }
+        }
+      ],
+      "section": [
+        "Corey Lewis",
+        "Avatar: The Last Airbender credits",
+        "Comic cartoonist"
+      ],
+      "text": "Iss. #18. \"Ember Island Arcade\""
+    },
+    {
+      "body": "${link_0} (cartoonist; one-shot)",
+      "links": [
+        {
+          "body": "PENG",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/PENG",
+            "page": "http://en.wikipedia.org/wiki/PENG"
+          }
+        }
+      ],
+      "section": [
+        "Corey Lewis",
+        "Selected other credits",
+        "Comic works"
+      ],
+      "text": "PENG (cartoonist; one-shot)"
+    },
+    {
+      "body": "${link_0} (artist)",
+      "links": [
+        {
+          "body": "Rival Schools",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Rival_Schools:_United_By_Fate#Related_media",
+            "page": "http://en.wikipedia.org/wiki/Rival_Schools:_United_By_Fate"
+          }
+        }
+      ],
+      "section": [
+        "Corey Lewis",
+        "Selected other credits",
+        "Comic works"
+      ],
+      "text": "Rival Schools (artist)"
+    },
+    {
+      "body": "${link_0} (cartoonist)",
+      "links": [
+        {
+          "body": "Sharknife",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Sharknife",
+            "page": "http://en.wikipedia.org/wiki/Sharknife"
+          }
+        }
+      ],
+      "section": [
+        "Corey Lewis",
+        "Selected other credits",
+        "Comic works"
+      ],
+      "text": "Sharknife (cartoonist)"
+    },
+    {
       "body": "Lewis lives in the Greater Seattle Area and graduated from Seattle Central Community College.",
       "links": [],
+      "section": [
+        "Corey Lewis",
+        "Biographical information"
+      ],
       "text": "Lewis lives in the Greater Seattle Area and graduated from Seattle Central Community College."
     }
   ],

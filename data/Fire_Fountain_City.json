@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Fire Nation",
       "target": {
-        "href": "Category_Fire_Nation",
+        "external": false,
+        "href": "/wiki/Category_Fire_Nation",
         "page": "Category_Fire_Nation"
       }
     },
     {
       "body": "Locations",
       "target": {
-        "href": "Category_Locations",
+        "external": false,
+        "href": "/wiki/Category_Locations",
         "page": "Category_Locations"
       }
     },
     {
       "body": "Settlements",
       "target": {
-        "href": "Category_Settlements",
+        "external": false,
+        "href": "/wiki/Category_Settlements",
         "page": "Category_Settlements"
       }
     }
@@ -42,7 +46,8 @@
               "body": "Fire Nation",
               "key": "${link_0}",
               "target": {
-                "href": "Fire_Nation",
+                "external": false,
+                "href": "/wiki/Fire_Nation",
                 "page": "Fire_Nation"
               }
             }
@@ -79,7 +84,8 @@
               "body": "Town authority",
               "key": "${link_0}",
               "target": {
-                "href": "Town_authority",
+                "external": false,
+                "href": "/wiki/Town_authority",
                 "page": "Town_authority"
               }
             }
@@ -102,7 +108,8 @@
               "body": "The Runaway",
               "key": "${link_0}",
               "target": {
-                "href": "The_Runaway",
+                "external": false,
+                "href": "/wiki/The_Runaway",
                 "page": "The_Runaway"
               }
             }
@@ -122,7 +129,8 @@
           "body": "located",
           "key": "${link_0}",
           "target": {
-            "href": "Geography_of_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Geography_of_the_World_of_Avatar",
             "page": "Geography_of_the_World_of_Avatar"
           }
         },
@@ -130,7 +138,8 @@
           "body": "Fire Nation",
           "key": "${link_1}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         },
@@ -138,7 +147,8 @@
           "body": "Fire Lord",
           "key": "${link_2}",
           "target": {
-            "href": "Fire_Lord",
+            "external": false,
+            "href": "/wiki/Fire_Lord",
             "page": "Fire_Lord"
           }
         },
@@ -146,10 +156,14 @@
           "body": "Ozai",
           "key": "${link_3}",
           "target": {
-            "href": "Ozai",
+            "external": false,
+            "href": "/wiki/Ozai",
             "page": "Ozai"
           }
         }
+      ],
+      "section": [
+        "Fire Fountain City"
       ],
       "text": "Fire Fountain City, originally named North Chung-Ling, is a large industrialized city located on one of the many islands in the eastern Fire Nation. It is named for the large statue of Fire Lord Ozai in its center."
     },
@@ -160,38 +174,24 @@
           "body": "war",
           "key": "${link_0}",
           "target": {
-            "href": "Hundred_Year_War",
+            "external": false,
+            "href": "/wiki/Hundred_Year_War",
             "page": "Hundred_Year_War"
           }
         }
       ],
-      "text": "The city was one of the many industrial towns in the Fire Nation that supported the war effort. Many factories are located around the city, and pollution is extensive. The settlement is a working class town with seedy elements. It is considered unsafe to walk around Fire Fountain City at night, so most citizens stay indoors."
-    },
-    {
-      "body": "The Fire Fountain is a statue of ${link_0} ${link_1} that continually emits fire.",
-      "links": [
-        {
-          "body": "Fire Lord",
-          "key": "${link_0}",
-          "target": {
-            "href": "Fire_Lord",
-            "page": "Fire_Lord"
-          }
-        },
-        {
-          "body": "Ozai",
-          "key": "${link_1}",
-          "target": {
-            "href": "Ozai",
-            "page": "Ozai"
-          }
-        }
+      "section": [
+        "Fire Fountain City"
       ],
-      "text": "The Fire Fountain is a statue of Fire Lord Ozai that continually emits fire."
+      "text": "The city was one of the many industrial towns in the Fire Nation that supported the war effort. Many factories are located around the city, and pollution is extensive. The settlement is a working class town with seedy elements. It is considered unsafe to walk around Fire Fountain City at night, so most citizens stay indoors."
     },
     {
       "body": "The city was once named North Chung-Ling but was changed to Fire Fountain City due to the fire fountain for which they are known.",
       "links": [],
+      "section": [
+        "Fire Fountain City",
+        "History"
+      ],
       "text": "The city was once named North Chung-Ling but was changed to Fire Fountain City due to the fire fountain for which they are known."
     },
     {
@@ -201,7 +201,8 @@
           "body": "Team Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Team_Avatar",
+            "external": false,
+            "href": "/wiki/Team_Avatar",
             "page": "Team_Avatar"
           }
         },
@@ -209,7 +210,8 @@
           "body": "Katara",
           "key": "${link_1}",
           "target": {
-            "href": "Katara",
+            "external": false,
+            "href": "/wiki/Katara",
             "page": "Katara"
           }
         },
@@ -217,7 +219,8 @@
           "body": "Toph",
           "key": "${link_2}",
           "target": {
-            "href": "Toph_Beifong",
+            "external": false,
+            "href": "/wiki/Toph_Beifong",
             "page": "Toph_Beifong"
           }
         },
@@ -225,7 +228,8 @@
           "body": "money",
           "key": "${link_3}",
           "target": {
-            "href": "Currency",
+            "external": false,
+            "href": "/wiki/Currency",
             "page": "Currency"
           }
         },
@@ -233,7 +237,8 @@
           "body": "dealer",
           "key": "${link_4}",
           "target": {
-            "href": "Dealer",
+            "external": false,
+            "href": "/wiki/Dealer",
             "page": "Dealer"
           }
         },
@@ -241,7 +246,8 @@
           "body": "earthbending",
           "key": "${link_5}",
           "target": {
-            "href": "Earthbending",
+            "external": false,
+            "href": "/wiki/Earthbending",
             "page": "Earthbending"
           }
         },
@@ -249,7 +255,8 @@
           "body": "Sokka",
           "key": "${link_6}",
           "target": {
-            "href": "Sokka",
+            "external": false,
+            "href": "/wiki/Sokka",
             "page": "Sokka"
           }
         },
@@ -257,7 +264,8 @@
           "body": "town authority",
           "key": "${link_7}",
           "target": {
-            "href": "Town_authority",
+            "external": false,
+            "href": "/wiki/Town_authority",
             "page": "Town_authority"
           }
         },
@@ -265,7 +273,8 @@
           "body": "metalbend",
           "key": "${link_8}",
           "target": {
-            "href": "Metalbending",
+            "external": false,
+            "href": "/wiki/Metalbending",
             "page": "Metalbending"
           }
         },
@@ -273,10 +282,15 @@
           "body": "Combustion Man",
           "key": "${link_9}",
           "target": {
-            "href": "Combustion_Man",
+            "external": false,
+            "href": "/wiki/Combustion_Man",
             "page": "Combustion_Man"
           }
         }
+      ],
+      "section": [
+        "Fire Fountain City",
+        "History"
       ],
       "text": "While Team Avatar, excluding Katara, walked around town, Toph suggested that they obtain more money by scamming the merchants on the streets. The dealer at a game of chance took away the pebble from under the shell at the end so that no one could win, but Toph used her earthbending and kept the pebble under the shell, thus she guessed correctly and won. After that, the trio continued to scam people at a game of chance sticks, and also at a carnival where she used her earthbending to ring the bell on the high striker game. After Sokka found a wanted poster of Toph with a huge bounty, Katara and Toph attempted to pull off the \"scam of all scams\". Katara got Toph captured by the police so as to get the bounty. The town authority locked both the girls up and put them in a wooden cage instead of a metal one, rendering Toph unable to metalbend them free and escape. He subsequently handed them over to Combustion Man."
     },
@@ -287,16 +301,25 @@
           "body": "chi",
           "key": "${link_0}",
           "target": {
-            "href": "Chi",
+            "external": false,
+            "href": "/wiki/Chi",
             "page": "Chi"
           }
         }
+      ],
+      "section": [
+        "Fire Fountain City",
+        "History"
       ],
       "text": "When Aang and Sokka entered the town in an attempt to retrieve Katara and Toph, Combustion Man attacked. The girls were able to escape the prison and helped the group escape the city with no further problems when an attack from Toph resulted in Combustion Man's chi being blocked, turning his attack against himself."
     },
     {
       "body": "Fire Fountain City is located on a small island with fairly rough terrain. It is situated on the shore of a small bay. The city is bounded by hills on either side with factories surrounding it as well. In the center of the town is a large square in which a famous statue of Ozai stands. Streets lined with small buildings originate from the square and go outward in a radial fashion.",
       "links": [],
+      "section": [
+        "Fire Fountain City",
+        "Layout and description"
+      ],
       "text": "Fire Fountain City is located on a small island with fairly rough terrain. It is situated on the shore of a small bay. The city is bounded by hills on either side with factories surrounding it as well. In the center of the town is a large square in which a famous statue of Ozai stands. Streets lined with small buildings originate from the square and go outward in a radial fashion."
     },
     {
@@ -306,7 +329,8 @@
           "body": "Fire Lord",
           "key": "${link_0}",
           "target": {
-            "href": "Fire_Lord",
+            "external": false,
+            "href": "/wiki/Fire_Lord",
             "page": "Fire_Lord"
           }
         },
@@ -314,17 +338,18 @@
           "body": "Ozai",
           "key": "${link_1}",
           "target": {
-            "href": "Ozai",
+            "external": false,
+            "href": "/wiki/Ozai",
             "page": "Ozai"
           }
         }
       ],
+      "section": [
+        "Fire Fountain City",
+        "Locations",
+        "Fire Fountain"
+      ],
       "text": "A giant statue of Fire Lord Ozai stands in the center of the town square and is powered by pressurized, natural gas. The statue depicts Ozai with his head tilted back and fire gushing from three holes in each fist and mouth similar to how water would pour from a typical fountain. The piece is so famous and incredibly moving to any Fire Nation citizen that the town officially changed its name."
-    },
-    {
-      "body": "A post office is located in the town's center.",
-      "links": [],
-      "text": "A post office is located in the town's center."
     },
     {
       "body": "This is one of many communication hubs in the Fire Nation. ${link_0} are trained to fly on designated routes between different post offices. Outside the building is a bulletin board where the ${link_1} hangs fliers and wanted posters.",
@@ -333,7 +358,8 @@
           "body": "Messenger hawks",
           "key": "${link_0}",
           "target": {
-            "href": "Messenger_hawk",
+            "external": false,
+            "href": "/wiki/Messenger_hawk",
             "page": "Messenger_hawk"
           }
         },
@@ -341,10 +367,16 @@
           "body": "town authority",
           "key": "${link_1}",
           "target": {
-            "href": "Town_authority",
+            "external": false,
+            "href": "/wiki/Town_authority",
             "page": "Town_authority"
           }
         }
+      ],
+      "section": [
+        "Fire Fountain City",
+        "Locations",
+        "Post office"
       ],
       "text": "This is one of many communication hubs in the Fire Nation. Messenger hawks are trained to fly on designated routes between different post offices. Outside the building is a bulletin board where the town authority hangs fliers and wanted posters."
     },
@@ -355,22 +387,95 @@
           "body": "Hawky",
           "key": "${link_0}",
           "target": {
-            "href": "Hawky",
+            "external": false,
+            "href": "/wiki/Hawky",
             "page": "Hawky"
           }
         }
+      ],
+      "section": [
+        "Fire Fountain City",
+        "Locations",
+        "Post office"
       ],
       "text": "While walking through the town, Sokka noticed the messenger hawks and expressed his desire to have one. After he got money from all the scamming, he went to the post office and bought Hawky, a new member of Team Avatar."
     },
     {
       "body": "This fair is a popular local venue which is permanently stationed in the city. There are many stalls and tents selling various items, including a high striker, which is used to test one's strength by hitting a target with a hammer and attempting to ring the bell at the top. However, given the weight of the hammer, the stall is not intended for children.",
       "links": [],
+      "section": [
+        "Fire Fountain City",
+        "Locations",
+        "Fair"
+      ],
       "text": "This fair is a popular local venue which is permanently stationed in the city. There are many stalls and tents selling various items, including a high striker, which is used to test one's strength by hitting a target with a hammer and attempting to ring the bell at the top. However, given the weight of the hammer, the stall is not intended for children."
     },
     {
       "body": "A small prison, consisting of both a metal and a wooden cell, is present in the town for the detainment of criminals.",
       "links": [],
+      "section": [
+        "Fire Fountain City",
+        "Locations",
+        "Prison"
+      ],
       "text": "A small prison, consisting of both a metal and a wooden cell, is present in the town for the detainment of criminals."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dealer",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dealer",
+            "page": "Dealer"
+          }
+        }
+      ],
+      "section": [
+        "Fire Fountain City",
+        "Notable figures"
+      ],
+      "text": "Dealer"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hawky",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Hawky",
+            "page": "Hawky"
+          }
+        }
+      ],
+      "section": [
+        "Fire Fountain City",
+        "Notable figures"
+      ],
+      "text": "Hawky"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Town authority",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Town_authority",
+            "page": "Town_authority"
+          }
+        }
+      ],
+      "section": [
+        "Fire Fountain City",
+        "Notable figures"
+      ],
+      "text": "Town authority"
     }
   ],
   "source": {

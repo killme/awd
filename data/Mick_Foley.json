@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Clash of the Champions X: Texas Shootout (1990; TV movie)",
+          "body": "${link_0} (1990; TV movie)",
           "extra": "(1990; TV movie)",
           "extra_text": "(1990; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Clash of the Champions X: Texas Shootout",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1498562",
+                "page": "http://www.imdb.com/find?q=tt1498562"
+              }
+            }
+          ],
           "text": "Clash of the Champions X: Texas Shootout (1990; TV movie)",
-          "value": "Clash of the Champions X: Texas Shootout",
+          "value": "${link_0}",
           "value_text": "Clash of the Champions X: Texas Shootout"
         }
       ]
@@ -69,66 +82,136 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0284201",
+                "page": "http://www.imdb.com/find?q=nm0284201"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Mick_Foley",
+                "page": "http://en.wikipedia.org/wiki/Mick_Foley"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/RealMickFoley",
+                "page": "https://www.facebook.com/RealMickFoley"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/108122485051713684654/posts",
+                "page": "https://plus.google.com/108122485051713684654/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.realmickfoley.com/",
+                "page": "http://www.realmickfoley.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/realmickfoley",
+                "page": "https://twitter.com/realmickfoley"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/RealMickFoley1",
+                "page": "http://www.youtube.com/user/RealMickFoley1"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
@@ -136,18 +219,393 @@
   ],
   "paragraphs": [
     {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Avatar: The Last Airbender credits",
+        "The Boulder"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Avatar: The Last Airbender credits",
+        "The Boulder"
+      ],
+      "text": "310. \"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "TNA Impact! Wrestling",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0421463",
+            "page": "http://www.imdb.com/find?q=tt0421463"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "TNA Impact! Wrestling"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Warren the Ape",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1592240",
+            "page": "http://www.imdb.com/find?q=tt1592240"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Warren the Ape"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "WWE Smackdown!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0227972",
+            "page": "http://www.imdb.com/find?q=tt0227972"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "WWE Smackdown!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "WWE Sunday Night Heat",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0257324",
+            "page": "http://www.imdb.com/find?q=tt0257324"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "WWE Sunday Night Heat"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "WWF Monday Night RAW",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0198258",
+            "page": "http://www.imdb.com/find?q=tt0198258"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "WWF Monday Night RAW"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "WWF Raw",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0185103",
+            "page": "http://www.imdb.com/find?q=tt0185103"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "WWF Raw"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "WWF Superstars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0261495",
+            "page": "http://www.imdb.com/find?q=tt0261495"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "WWF Superstars"
+    },
+    {
+      "body": "${link_0} (2010; video short)",
+      "links": [
+        {
+          "body": "All That Remains",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1703180",
+            "page": "http://www.imdb.com/find?q=tt1703180"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "All That Remains (2010; video short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Tattoos: A Scarred History",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0991177",
+            "page": "http://www.imdb.com/find?q=tt0991177"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tattoos: A Scarred History (2009)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Anamorph",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0497323",
+            "page": "http://www.imdb.com/find?q=tt0497323"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Anamorph (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Staten Island",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0982934",
+            "page": "http://www.imdb.com/find?q=tt0982934"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Staten Island (2007)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Beyond the Mat",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0218043",
+            "page": "http://www.imdb.com/find?q=tt0218043"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Beyond the Mat (1999)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "WWE Day of Reckoning 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0472202",
+            "page": "http://www.imdb.com/find?q=tt0472202"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "WWE Day of Reckoning 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "WWE SmackDown! vs. RAW",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0423500",
+            "page": "http://www.imdb.com/find?q=tt0423500"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "WWE SmackDown! vs. RAW (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "WWF Attitude",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0260523",
+            "page": "http://www.imdb.com/find?q=tt0260523"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "WWF Attitude (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "WWF Warzone",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0262889",
+            "page": "http://www.imdb.com/find?q=tt0262889"
+          }
+        }
+      ],
+      "section": [
+        "Mick Foley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "WWF Warzone (video game)"
+    },
+    {
       "body": "Foley was born in Bloomington, Indiana. Shortly after he was born, Foley's family moved to Setauket, New York, where Foley attended Ward Melville High School, played lacrosse, and wrestled. Foley was also a high school classmate of comic actor Kevin James of The King of Queens. The two were on the wrestling team together. While a student at State University of New York at Cortland, he hitchhiked to Madison Square Garden to see his favorite wrestler, Jimmy Snuka, in a steel cage match against Don Muraco. Foley has said that Snuka's flying body splash from the top of the cage inspired him to pursue a career in pro wrestling.",
       "links": [],
+      "section": [
+        "Mick Foley",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Foley was born in Bloomington, Indiana. Shortly after he was born, Foley's family moved to Setauket, New York, where Foley attended Ward Melville High School, played lacrosse, and wrestled. Foley was also a high school classmate of comic actor Kevin James of The King of Queens. The two were on the wrestling team together. While a student at State University of New York at Cortland, he hitchhiked to Madison Square Garden to see his favorite wrestler, Jimmy Snuka, in a steel cage match against Don Muraco. Foley has said that Snuka's flying body splash from the top of the cage inspired him to pursue a career in pro wrestling."
     },
     {
       "body": "Outside wrestling appearances, one of Foley's first TV guest appearances was as a wrestler on USA Network's short-lived action-comedy G vs E. He also featured prominently in the documentary Beyond the Mat. Foley, as Mankind, also starred in a series of commercials for Chef Boyardee's beef ravioli. He appeared in the Insane Clown Posse vehicle Big Money Hustlas as Cactus Sac, which was basically the same character as his Cactus Jack persona.",
       "links": [],
+      "section": [
+        "Mick Foley",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Outside wrestling appearances, one of Foley's first TV guest appearances was as a wrestler on USA Network's short-lived action-comedy G vs E. He also featured prominently in the documentary Beyond the Mat. Foley, as Mankind, also starred in a series of commercials for Chef Boyardee's beef ravioli. He appeared in the Insane Clown Posse vehicle Big Money Hustlas as Cactus Sac, which was basically the same character as his Cactus Jack persona."
     },
     {
       "body": "From May 7 to July 1, 1999, Foley wrote his autobiography \u2014 without the aid of a ghostwriter, as he proudly notes in the introduction \u2014 in almost eight hundred pages of longhand. The book, Have a Nice Day: A Tale of Blood and Sweatsocks, became hugely popular and topped The New York Times bestseller list for several weeks. The follow-up, Foley Is Good: And the Real World Is Faker than Wrestling, was published in 2001 and debuted at number one on the Times list.",
       "links": [],
+      "section": [
+        "Mick Foley",
+        "Biographical information",
+        "Career"
+      ],
       "text": "From May 7 to July 1, 1999, Foley wrote his autobiography \u2014 without the aid of a ghostwriter, as he proudly notes in the introduction \u2014 in almost eight hundred pages of longhand. The book, Have a Nice Day: A Tale of Blood and Sweatsocks, became hugely popular and topped The New York Times bestseller list for several weeks. The follow-up, Foley Is Good: And the Real World Is Faker than Wrestling, was published in 2001 and debuted at number one on the Times list."
     }
   ],

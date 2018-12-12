@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Beverly Hills, 90210 (1997)",
+          "body": "${link_0} (1997)",
           "extra": "(1997)",
           "extra_text": "(1997)",
-          "links": [],
+          "links": [
+            {
+              "body": "Beverly Hills, 90210",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0098749",
+                "page": "http://www.imdb.com/find?q=tt0098749"
+              }
+            }
+          ],
           "text": "Beverly Hills, 90210 (1997)",
-          "value": "Beverly Hills, 90210",
+          "value": "${link_0}",
           "value_text": "Beverly Hills, 90210"
         }
       ]
@@ -41,18 +54,109 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1048246",
+                "page": "http://www.imdb.com/find?q=nm1048246"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "316. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Raiders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Raiders",
+            "page": "The_Southern_Raiders"
+          }
+        }
+      ],
+      "section": [
+        "Bonnie McNeil",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "316. \"The Southern Raiders\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Seinfeld",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098904",
+            "page": "http://www.imdb.com/find?q=tt0098904"
+          }
+        }
+      ],
+      "section": [
+        "Bonnie McNeil",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Seinfeld"
+    },
+    {
+      "body": "${link_0} (2013; short)",
+      "links": [
+        {
+          "body": "Red Poppies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2756022",
+            "page": "http://www.imdb.com/find?q=tt2756022"
+          }
+        }
+      ],
+      "section": [
+        "Bonnie McNeil",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Red Poppies (2013; short)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Player 5150",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0906773",
+            "page": "http://www.imdb.com/find?q=tt0906773"
+          }
+        }
+      ],
+      "section": [
+        "Bonnie McNeil",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Player 5150 (2008)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Bonnie_McNeil",
     "file": "avatar.wikia.com/wiki/Bonnie_McNeil.html",

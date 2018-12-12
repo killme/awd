@@ -3,35 +3,40 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Earth Kingdom",
       "target": {
-        "href": "Category_Earth_Kingdom",
+        "external": false,
+        "href": "/wiki/Category_Earth_Kingdom",
         "page": "Category_Earth_Kingdom"
       }
     },
     {
       "body": "Equipment",
       "target": {
-        "href": "Category_Equipment",
+        "external": false,
+        "href": "/wiki/Category_Equipment",
         "page": "Category_Equipment"
       }
     },
     {
       "body": "Military",
       "target": {
-        "href": "Category_Military",
+        "external": false,
+        "href": "/wiki/Category_Military",
         "page": "Category_Military"
       }
     },
     {
       "body": "Objects",
       "target": {
-        "href": "Category_Objects",
+        "external": false,
+        "href": "/wiki/Category_Objects",
         "page": "Category_Objects"
       }
     }
@@ -39,35 +44,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "${link_0} used the timing device to keep track of the solar eclipse during the ${link_1}.",
-      "links": [
-        {
-          "body": "Sokka",
-          "key": "${link_0}",
-          "target": {
-            "href": "Sokka",
-            "page": "Sokka"
-          }
-        },
-        {
-          "body": "Invasion of the Fire Nation",
-          "key": "${link_1}",
-          "target": {
-            "href": "Invasion_of_the_Fire_Nation",
-            "page": "Invasion_of_the_Fire_Nation"
-          }
-        }
-      ],
-      "text": "Sokka used the timing device to keep track of the solar eclipse during the Invasion of the Fire Nation."
-    },
-    {
       "body": "The timing device was developed by the ${link_0} for the ${link_1} during the ${link_2}.",
       "links": [
         {
           "body": "mechanist",
           "key": "${link_0}",
           "target": {
-            "href": "Mechanist",
+            "external": false,
+            "href": "/wiki/Mechanist",
             "page": "Mechanist"
           }
         },
@@ -75,7 +59,8 @@
           "body": "invasion of the Fire Nation",
           "key": "${link_1}",
           "target": {
-            "href": "Invasion_of_the_Fire_Nation",
+            "external": false,
+            "href": "/wiki/Invasion_of_the_Fire_Nation",
             "page": "Invasion_of_the_Fire_Nation"
           }
         },
@@ -83,10 +68,14 @@
           "body": "Day of Black Sun",
           "key": "${link_2}",
           "target": {
-            "href": "Day_of_Black_Sun",
+            "external": false,
+            "href": "/wiki/Day_of_Black_Sun",
             "page": "Day_of_Black_Sun"
           }
         }
+      ],
+      "section": [
+        "Timing device"
       ],
       "text": "The timing device was developed by the mechanist for the invasion of the Fire Nation during the Day of Black Sun."
     },
@@ -97,17 +86,83 @@
           "body": "Sokka",
           "key": "${link_0}",
           "target": {
-            "href": "Sokka",
+            "external": false,
+            "href": "/wiki/Sokka",
             "page": "Sokka"
           }
         }
+      ],
+      "section": [
+        "Timing device",
+        "History"
       ],
       "text": "The timing device was given to Sokka as a way to keep track of the amount of time before and during the eclipse, and was frequently used to observe the length of time passed."
     },
     {
       "body": "The timing device is a small, hexagonal handheld object similar in appearance to a timer. The mechanism is divided into six sections by six metal pins, with one of the sections having an open compartment consisting of a needle and a series of notches used to calculate elapsed time. The timing device is a mechanical apparatus that is initiated when the user winds it using a little key that is inserted in the square hole at the center of the device.",
       "links": [],
+      "section": [
+        "Timing device",
+        "Design"
+      ],
       "text": "The timing device is a small, hexagonal handheld object similar in appearance to a timer. The mechanism is divided into six sections by six metal pins, with one of the sections having an open compartment consisting of a needle and a series of notches used to calculate elapsed time. The timing device is a mechanical apparatus that is initiated when the user winds it using a little key that is inserted in the square hole at the center of the device."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mechanist",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Mechanist",
+            "page": "Mechanist"
+          }
+        }
+      ],
+      "section": [
+        "Timing device",
+        "See also"
+      ],
+      "text": "Mechanist"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Technology in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Technology_in_the_World_of_Avatar",
+            "page": "Technology_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Timing device",
+        "See also"
+      ],
+      "text": "Technology in the World of Avatar"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Time candles",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Time_candle",
+            "page": "Time_candle"
+          }
+        }
+      ],
+      "section": [
+        "Timing device",
+        "See also"
+      ],
+      "text": "Time candles"
     }
   ],
   "source": {

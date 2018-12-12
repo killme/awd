@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "CBS Schoolbreak Special (1987)",
+          "body": "${link_0} (1987)",
           "extra": "(1987)",
           "extra_text": "(1987)",
-          "links": [],
+          "links": [
+            {
+              "body": "CBS Schoolbreak Special",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0985040",
+                "page": "http://www.imdb.com/find?q=tt0985040"
+              }
+            }
+          ],
           "text": "CBS Schoolbreak Special (1987)",
-          "value": "CBS Schoolbreak Special",
+          "value": "${link_0}",
           "value_text": "CBS Schoolbreak Special"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0142000",
+                "page": "http://www.imdb.com/find?q=nm0142000"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Gabrielle_Carteris",
+                "page": "http://en.wikipedia.org/wiki/Gabrielle_Carteris"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Gabrielle-Carteris/38719465780",
+                "page": "https://www.facebook.com/pages/Gabrielle-Carteris/38719465780"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/TheGabrielle_C",
+                "page": "https://twitter.com/TheGabrielle_C"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,18 +162,413 @@
   ],
   "paragraphs": [
     {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Avatar: The Last Airbender credits",
+        "Poppy Beifong"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Beverly Hills, 90210",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098749",
+            "page": "http://www.imdb.com/find?q=tt0098749"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Beverly Hills, 90210"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "JAG",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112022",
+            "page": "http://www.imdb.com/find?q=tt0112022"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "JAG"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Johnny Bravo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118360",
+            "page": "http://www.imdb.com/find?q=tt0118360"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Johnny Bravo"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "My Alibi",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1334496",
+            "page": "http://www.imdb.com/find?q=tt1334496"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "My Alibi"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Strong Medicine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0252019",
+            "page": "http://www.imdb.com/find?q=tt0252019"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Strong Medicine"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Middle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1442464",
+            "page": "http://www.imdb.com/find?q=tt1442464"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Middle"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Touched by an Angel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108968",
+            "page": "http://www.imdb.com/find?q=tt0108968"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Touched by an Angel"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Dimples",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0447927",
+            "page": "http://www.imdb.com/find?q=tt0447927"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dimples (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Plot 7",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0859627",
+            "page": "http://www.imdb.com/find?q=tt0859627"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Plot 7 (2007)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Full Circle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285123",
+            "page": "http://www.imdb.com/find?q=tt0285123"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Full Circle (2001)"
+    },
+    {
+      "body": "${link_0} (1992)",
+      "links": [
+        {
+          "body": "Raising Cain",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105217",
+            "page": "http://www.imdb.com/find?q=tt0105217"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Raising Cain (1992)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "Jacknife",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0097607",
+            "page": "http://www.imdb.com/find?q=tt0097607"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Jacknife (1989)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Arc the Lad: Twilight of the Spirits",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0373684",
+            "page": "http://www.imdb.com/find?q=tt0373684"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Arc the Lad: Twilight of the Spirits (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "La Pucelle: Tactics",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0410179",
+            "page": "http://www.imdb.com/find?q=tt0410179"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "La Pucelle: Tactics (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel: Ultimate Alliance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0814207",
+            "page": "http://www.imdb.com/find?q=tt0814207"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel: Ultimate Alliance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Minority Report",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0347546",
+            "page": "http://www.imdb.com/find?q=tt0347546"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Minority Report (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Shout About Movies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0454546",
+            "page": "http://www.imdb.com/find?q=tt0454546"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Shout About Movies (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837564",
+            "page": "http://www.imdb.com/find?q=tt0837564"
+          }
+        }
+      ],
+      "section": [
+        "Gabrielle Carteris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man 3 (video game)"
+    },
+    {
       "body": "Carteris was born in Scottsdale, Arizona, the daughter of Marlene, a realtor, and Ernest Carteris, a restaurant owner of Jewish ancestry. Her parents separated six months after her birth, and Carteris subsequently moved with her mother and twin brother, James, to San Francisco, California. While attending high school in Marin County, California, Carteris took an interest in the arts, studying ballet and performing as a mime on a European tour at sixteen years old. She graduated from Sarah Lawrence College in 1983 with a bachelor's degree in Liberal Arts.",
       "links": [],
+      "section": [
+        "Gabrielle Carteris",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Carteris was born in Scottsdale, Arizona, the daughter of Marlene, a realtor, and Ernest Carteris, a restaurant owner of Jewish ancestry. Her parents separated six months after her birth, and Carteris subsequently moved with her mother and twin brother, James, to San Francisco, California. While attending high school in Marin County, California, Carteris took an interest in the arts, studying ballet and performing as a mime on a European tour at sixteen years old. She graduated from Sarah Lawrence College in 1983 with a bachelor's degree in Liberal Arts."
     },
     {
       "body": "She married Charles Isaacs, a stock broker, in 1992, and has two daughters with him named Kelsey and Mollie.",
       "links": [],
+      "section": [
+        "Gabrielle Carteris",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "She married Charles Isaacs, a stock broker, in 1992, and has two daughters with him named Kelsey and Mollie."
     },
     {
       "body": "In 2006, Carteris suffered an injury while filming a TV movie in Vancouver, Canada, that partially paralyzed her face and affected her speech for over six months.",
       "links": [],
+      "section": [
+        "Gabrielle Carteris",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "In 2006, Carteris suffered an injury while filming a TV movie in Vancouver, Canada, that partially paralyzed her face and affected her speech for over six months."
     }
   ],

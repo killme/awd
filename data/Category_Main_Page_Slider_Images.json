@@ -3,7 +3,8 @@
     {
       "body": "Slider Images",
       "target": {
-        "href": "Category_Slider_Images",
+        "external": false,
+        "href": "/wiki/Category_Slider_Images",
         "page": "Category_Slider_Images"
       }
     }
@@ -17,17 +18,35 @@
           "body": "main page slider",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar_Wiki",
+            "external": false,
+            "href": "/wiki/Avatar_Wiki",
             "page": "Avatar_Wiki"
           }
         }
       ],
+      "section": [
+        "Category:Main Page Slider Images"
+      ],
       "text": "This category is for images in the main page slider."
     },
     {
-      "body": "All items (1)",
-      "links": [],
-      "text": "All items (1)"
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "File:Sozin's Comet Slider.png",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/File:Sozin%27s_Comet_Slider.png",
+            "page": "File:Sozin%27s_Comet_Slider.png"
+          }
+        }
+      ],
+      "section": [
+        "Category:Main Page Slider Images",
+        "S"
+      ],
+      "text": "File:Sozin's Comet Slider.png"
     }
   ],
   "source": {

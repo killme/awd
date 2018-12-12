@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Malcolm X (1992)",
+          "body": "${link_0} (1992)",
           "extra": "(1992)",
           "extra_text": "(1992)",
-          "links": [],
+          "links": [
+            {
+              "body": "Malcolm X",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0104797",
+                "page": "http://www.imdb.com/find?q=tt0104797"
+              }
+            }
+          ],
           "text": "Malcolm X (1992)",
-          "value": "Malcolm X",
+          "value": "${link_0}",
           "value_text": "Malcolm X"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1662296",
+                "page": "http://www.imdb.com/find?q=nm1662296"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Matthew_Underwood",
+                "page": "http://en.wikipedia.org/wiki/Matthew_Underwood"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Matthew-Underwood/127846667259818",
+                "page": "https://www.facebook.com/pages/Matthew-Underwood/127846667259818"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/RealMatthew",
+                "page": "https://twitter.com/RealMatthew"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,18 +162,441 @@
   ],
   "paragraphs": [
     {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Avatar: The Last Airbender credits",
+        "Hide"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "All That",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111875",
+            "page": "http://www.imdb.com/find?q=tt0111875"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "All That"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "All That 10th Anniversary Reunion Special",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458313",
+            "page": "http://www.imdb.com/find?q=tt0458313"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "All That 10th Anniversary Reunion Special (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Casper's Scare School",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0884322",
+            "page": "http://www.imdb.com/find?q=tt0884322"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Casper's Scare School (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Comedy Whacked",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1353013",
+            "page": "http://www.imdb.com/find?q=tt1353013"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Comedy Whacked (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "E-Venture Kids",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0490720",
+            "page": "http://www.imdb.com/find?q=tt0490720"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "E-Venture Kids"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Go for It!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0327291",
+            "page": "http://www.imdb.com/find?q=tt0327291"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Go for It!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Method & Red",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0406438",
+            "page": "http://www.imdb.com/find?q=tt0406438"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Method & Red"
+    },
+    {
+      "body": "${link_0} (award show)",
+      "links": [
+        {
+          "body": "Nickelodeon Kids' Choice Awards 2008",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1212906",
+            "page": "http://www.imdb.com/find?q=tt1212906"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Nickelodeon Kids' Choice Awards 2008 (award show)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Wright Stuff",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0315727",
+            "page": "http://www.imdb.com/find?q=tt0315727"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Wright Stuff"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Zoey 101",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0415463",
+            "page": "http://www.imdb.com/find?q=tt0415463"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Zoey 101"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Reality Horror Night",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1337416",
+            "page": "http://www.imdb.com/find?q=tt1337416"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Reality Horror Night (2009)"
+    },
+    {
+      "body": "${link_0} (2008; video short)",
+      "links": [
+        {
+          "body": "Zoey 101: Behind the scenes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1410214",
+            "page": "http://www.imdb.com/find?q=tt1410214"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Zoey 101: Behind the scenes (2008; video short)"
+    },
+    {
+      "body": "${link_0} (2006; video)",
+      "links": [
+        {
+          "body": "Damnation of Souls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1517668",
+            "page": "http://www.imdb.com/find?q=tt1517668"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Damnation of Souls (2006; video)"
+    },
+    {
+      "body": "${link_0} (2006; short)",
+      "links": [
+        {
+          "body": "Web Journal Now",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0859733",
+            "page": "http://www.imdb.com/find?q=tt0859733"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Web Journal Now (2006; short)"
+    },
+    {
+      "body": "${link_0} (2004; video)",
+      "links": [
+        {
+          "body": "The Marionette",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0407980",
+            "page": "http://www.imdb.com/find?q=tt0407980"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Marionette (2004; video)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "The Wishing Stone",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0478328",
+            "page": "http://www.imdb.com/find?q=tt0478328"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wishing Stone (2002)"
+    },
+    {
+      "body": "${link_0} (1999; English version)",
+      "links": [
+        {
+          "body": "My Neighbors the Yamadas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0206013",
+            "page": "http://www.imdb.com/find?q=tt0206013"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "My Neighbors the Yamadas (1999; English version)"
+    },
+    {
+      "body": "${link_0} (1992)",
+      "links": [
+        {
+          "body": "Malcolm X",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0104797",
+            "page": "http://www.imdb.com/find?q=tt0104797"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Underwood",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Malcolm X (1992)"
+    },
+    {
       "body": "Underwood started his career at the age of six months, winning various talent competitions, such as AMTC. Soon after, he became involved in modeling and appeared in many print ads. In 2005, he became part of the cast of ${link_0}'s Zoey 101, where he played the role of Logan Reese, and he later played himself in the 2009 film Reality Horror Night.",
       "links": [
         {
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
       ],
+      "section": [
+        "Matthew Underwood",
+        "Biographical information"
+      ],
       "text": "Underwood started his career at the age of six months, winning various talent competitions, such as AMTC. Soon after, he became involved in modeling and appeared in many print ads. In 2005, he became part of the cast of Nickelodeon's Zoey 101, where he played the role of Logan Reese, and he later played himself in the 2009 film Reality Horror Night."
+    },
+    {
+      "body": "2007: Won a Young Artist Award for Zoey 101 (Best Young Ensemble Performance in a TV Series (Comedy or Drama))",
+      "links": [],
+      "section": [
+        "Matthew Underwood",
+        "Awards"
+      ],
+      "text": "2007: Won a Young Artist Award for Zoey 101 (Best Young Ensemble Performance in a TV Series (Comedy or Drama))"
+    },
+    {
+      "body": "2006: Won a Young Artist Award for Zoey 101 (Best Young Ensemble Performance in a TV Series (Comedy or Drama))",
+      "links": [],
+      "section": [
+        "Matthew Underwood",
+        "Awards"
+      ],
+      "text": "2006: Won a Young Artist Award for Zoey 101 (Best Young Ensemble Performance in a TV Series (Comedy or Drama))"
     }
   ],
   "source": {

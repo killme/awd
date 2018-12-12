@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Everybody Loves Raymond (1997)",
+          "body": "${link_0} (1997)",
           "extra": "(1997)",
           "extra_text": "(1997)",
-          "links": [],
+          "links": [
+            {
+              "body": "Everybody Loves Raymond",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0115167",
+                "page": "http://www.imdb.com/find?q=tt0115167"
+              }
+            }
+          ],
           "text": "Everybody Loves Raymond (1997)",
-          "value": "Everybody Loves Raymond",
+          "value": "${link_0}",
           "value_text": "Everybody Loves Raymond"
         }
       ]
@@ -41,12 +54,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0360743",
+                "page": "http://www.imdb.com/find?q=nm0360743"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -54,8 +77,313 @@
   ],
   "paragraphs": [
     {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bette",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247079",
+            "page": "http://www.imdb.com/find?q=tt0247079"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bette"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "City Guys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0147757",
+            "page": "http://www.imdb.com/find?q=tt0147757"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "City Guys"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ER",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108757",
+            "page": "http://www.imdb.com/find?q=tt0108757"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ER"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Judging Amy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0209069",
+            "page": "http://www.imdb.com/find?q=tt0209069"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Judging Amy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Roswell",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0201391",
+            "page": "http://www.imdb.com/find?q=tt0201391"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Roswell"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Nightmare Room",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0280282",
+            "page": "http://www.imdb.com/find?q=tt0280282"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Nightmare Room"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Meet the Robinsons",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0396555",
+            "page": "http://www.imdb.com/find?q=tt0396555"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Meet the Robinsons (2007)"
+    },
+    {
+      "body": "${link_0} (2003; video short)",
+      "links": [
+        {
+          "body": "Lucy Must Be Traded, Charlie Brown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0389128",
+            "page": "http://www.imdb.com/find?q=tt0389128"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lucy Must Be Traded, Charlie Brown (2003; video short)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Stuart Little 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0243585",
+            "page": "http://www.imdb.com/find?q=tt0243585"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stuart Little 2 (2002)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Buying the Cow",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0218864",
+            "page": "http://www.imdb.com/find?q=tt0218864"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Buying the Cow (2002)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "The Big Day",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0189201",
+            "page": "http://www.imdb.com/find?q=tt0189201"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Big Day (2001)"
+    },
+    {
+      "body": "${link_0} (2001; short)",
+      "links": [
+        {
+          "body": "Trust Me",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0280156",
+            "page": "http://www.imdb.com/find?q=tt0280156"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Trust Me (2001; short)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Being John Malkovich",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120601",
+            "page": "http://www.imdb.com/find?q=tt0120601"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Being John Malkovich (1999)"
+    },
+    {
+      "body": "${link_0} (1998; short)",
+      "links": [
+        {
+          "body": "6\u00bd",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0419412",
+            "page": "http://www.imdb.com/find?q=tt0419412"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Hansen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "6\u00bd (1998; short)"
+    },
+    {
       "body": "Hansen's career has consisted predominantly of minor roles. His first part was a brief appearance on Everybody Loves Raymond in 1997, and he later appeared in four episodes of Roswell from 1999 to 2000.",
       "links": [],
+      "section": [
+        "Daniel Hansen",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Hansen's career has consisted predominantly of minor roles. His first part was a brief appearance on Everybody Loves Raymond in 1997, and he later appeared in four episodes of Roswell from 1999 to 2000."
     }
   ],

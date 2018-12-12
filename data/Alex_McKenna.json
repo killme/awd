@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Middle Ages (1992)",
+          "body": "${link_0} (1992)",
           "extra": "(1992)",
           "extra_text": "(1992)",
-          "links": [],
+          "links": [
+            {
+              "body": "Middle Ages",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0103492",
+                "page": "http://www.imdb.com/find?q=tt0103492"
+              }
+            }
+          ],
           "text": "Middle Ages (1992)",
-          "value": "Middle Ages",
+          "value": "${link_0}",
           "value_text": "Middle Ages"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0571327",
+                "page": "http://www.imdb.com/find?q=nm0571327"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Alex_McKenna",
+                "page": "http://en.wikipedia.org/wiki/Alex_McKenna"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/officialalexMK",
+                "page": "https://twitter.com/officialalexMK"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -86,18 +129,673 @@
   ],
   "paragraphs": [
     {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "The Legend of Korra credits",
+        "Senna"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebel Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
+            "page": "Rebel_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "The Legend of Korra credits",
+        "Senna"
+      ],
+      "text": "201. \"Rebel Spirit\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_1",
+            "page": "Civil_Wars%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "The Legend of Korra credits",
+        "Senna"
+      ],
+      "text": "203. \"Civil Wars, Part 1\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_2",
+            "page": "Civil_Wars%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "The Legend of Korra credits",
+        "Senna"
+      ],
+      "text": "204. \"Civil Wars, Part 2\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Harmonic Convergence",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Harmonic_Convergence_(episode)",
+            "page": "Harmonic_Convergence_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "The Legend of Korra credits",
+        "Senna"
+      ],
+      "text": "212. \"Harmonic Convergence\""
+    },
+    {
+      "body": "402. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Korra Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Korra_Alone",
+            "page": "Korra_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "The Legend of Korra credits",
+        "Senna"
+      ],
+      "text": "402. \"Korra Alone\""
+    },
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Voice in the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Voice_in_the_Night",
+            "page": "The_Voice_in_the_Night"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "104. \"The Voice in the Night\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "90210",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1225901",
+            "page": "http://www.imdb.com/find?q=tt1225901"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "90210"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ABC TGIF",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312324",
+            "page": "http://www.imdb.com/find?q=tt0312324"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ABC TGIF"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Boston Public",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247081",
+            "page": "http://www.imdb.com/find?q=tt0247081"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Boston Public"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Common Law",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1771072",
+            "page": "http://www.imdb.com/find?q=tt1771072"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Common Law"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Crossing Jordan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0284718",
+            "page": "http://www.imdb.com/find?q=tt0284718"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Crossing Jordan"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dallas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1723760",
+            "page": "http://www.imdb.com/find?q=tt1723760"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dallas"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Guys with Kids",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2281583",
+            "page": "http://www.imdb.com/find?q=tt2281583"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Guys with Kids"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Malcolm in the Middle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0212671",
+            "page": "http://www.imdb.com/find?q=tt0212671"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Malcolm in the Middle"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Middle Ages",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103492",
+            "page": "http://www.imdb.com/find?q=tt0103492"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Middle Ages"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Shake It Up!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1661326",
+            "page": "http://www.imdb.com/find?q=tt1661326"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Shake It Up!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sketchy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2287053",
+            "page": "http://www.imdb.com/find?q=tt2287053"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sketchy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Trouble with Larry",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106162",
+            "page": "http://www.imdb.com/find?q=tt0106162"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Trouble with Larry"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Two and a Half Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0369179",
+            "page": "http://www.imdb.com/find?q=tt0369179"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Two and a Half Men"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "You Wish",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118322",
+            "page": "http://www.imdb.com/find?q=tt0118322"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "You Wish"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Dark House",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1385543",
+            "page": "http://www.imdb.com/find?q=tt1385543"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dark House (2014)"
+    },
+    {
+      "body": "${link_0} (2013; short)",
+      "links": [
+        {
+          "body": "Stand By",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3127408",
+            "page": "http://www.imdb.com/find?q=tt3127408"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stand By (2013; short)"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "The City of Lights",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1620618",
+            "page": "http://www.imdb.com/find?q=tt1620618"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The City of Lights (2009; short)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "What Women Want",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0207201",
+            "page": "http://www.imdb.com/find?q=tt0207201"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "What Women Want (2000)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Safety Patrol",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0152265",
+            "page": "http://www.imdb.com/find?q=tt0152265"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Safety Patrol (1998)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Joey",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119415",
+            "page": "http://www.imdb.com/find?q=tt0119415"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Joey (1997)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Campfire Tales",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115813",
+            "page": "http://www.imdb.com/find?q=tt0115813"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Campfire Tales (1997)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Heart of Fire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119267",
+            "page": "http://www.imdb.com/find?q=tt0119267"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Heart of Fire (1997)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "The Stupids",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0117768",
+            "page": "http://www.imdb.com/find?q=tt0117768"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Stupids (1996)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Woman Undone",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0114974",
+            "page": "http://www.imdb.com/find?q=tt0114974"
+          }
+        }
+      ],
+      "section": [
+        "Alex McKenna",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Woman Undone (1996)"
+    },
+    {
       "body": "McKenna was born in Los Angeles, California. Her father is American and her mother is American of French and Scandinavian provenance. She attended Archer School for Girls in Brentwood, Los Angeles.",
       "links": [],
+      "section": [
+        "Alex McKenna",
+        "Biographical information",
+        "Early life"
+      ],
       "text": "McKenna was born in Los Angeles, California. Her father is American and her mother is American of French and Scandinavian provenance. She attended Archer School for Girls in Brentwood, Los Angeles."
     },
     {
       "body": "McKenna started out with small roles in television shows and movies before earning a role as Amanda in the film Campfire Tales. She was nominated for her role in You Wish as \"Best Performance in a TV Comedy Series\" at the 1998 Young Artist Awards. Her recognition later earned her guest roles in Malcolm in the Middle and Boston Public before getting the role as Abby Macy in Crossing Jordan.",
       "links": [],
+      "section": [
+        "Alex McKenna",
+        "Biographical information",
+        "Career"
+      ],
       "text": "McKenna started out with small roles in television shows and movies before earning a role as Amanda in the film Campfire Tales. She was nominated for her role in You Wish as \"Best Performance in a TV Comedy Series\" at the 1998 Young Artist Awards. Her recognition later earned her guest roles in Malcolm in the Middle and Boston Public before getting the role as Abby Macy in Crossing Jordan."
     },
     {
       "body": "After taking a few years break from acting to attend university, McKenna returned in 2009 to play the lead role of Megs in the short film The City of Lights. In 2010, she appeared in three episodes of the CW hit teen drama series 90210, and in 2012, she landed a role in the TNT revival of the CBS prime-time soap opera, Dallas. She also made guest appearances in Two and a Half Men, Sketchy and Guys with Kids. In 2014, she appeared in the horror film Haunted.",
       "links": [],
+      "section": [
+        "Alex McKenna",
+        "Biographical information",
+        "Career"
+      ],
       "text": "After taking a few years break from acting to attend university, McKenna returned in 2009 to play the lead role of Megs in the short film The City of Lights. In 2010, she appeared in three episodes of the CW hit teen drama series 90210, and in 2012, she landed a role in the TNT revival of the CBS prime-time soap opera, Dallas. She also made guest appearances in Two and a Half Men, Sketchy and Guys with Kids. In 2014, she appeared in the horror film Haunted."
     }
   ],

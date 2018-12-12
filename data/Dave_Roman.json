@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Quicken Forbidden (1997; comic)",
+          "body": "${link_0} (1997; comic)",
           "extra": "(1997; comic)",
           "extra_text": "(1997; comic)",
-          "links": [],
+          "links": [
+            {
+              "body": "Quicken Forbidden",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Quicken_Forbidden",
+                "page": "http://en.wikipedia.org/wiki/Quicken_Forbidden"
+              }
+            }
+          ],
           "text": "Quicken Forbidden (1997; comic)",
-          "value": "Quicken Forbidden",
+          "value": "${link_0}",
           "value_text": "Quicken Forbidden"
         }
       ]
@@ -55,75 +68,155 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Dave_Roman",
+                "page": "http://en.wikipedia.org/wiki/Dave_Roman"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "DeviantART",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "DeviantART",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://yaytime.deviantart.com/",
+                "page": "http://yaytime.deviantart.com/"
+              }
+            }
+          ],
           "text": "DeviantART",
-          "value": "DeviantART",
+          "value": "${link_0}",
           "value_text": "DeviantART"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/yaytime",
+                "page": "https://www.facebook.com/yaytime"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/113771773108158880173/posts",
+                "page": "https://plus.google.com/113771773108158880173/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/yaytime#",
+                "page": "http://instagram.com/yaytime"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://yaytime.com/",
+                "page": "http://yaytime.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://yaytime.tumblr.com/",
+                "page": "http://yaytime.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/yaytime",
+                "page": "https://twitter.com/yaytime"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -131,28 +224,153 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #27. \"${link_0}\"",
+      "links": [
+        {
+          "body": "New Recruits",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/New_Recruits",
+            "page": "New_Recruits"
+          }
+        }
+      ],
+      "section": [
+        "Dave Roman",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #27. \"New Recruits\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Last Airbender Prequel: Zuko's Story",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender_Prequel__Zuko%27s_Story",
+            "page": "Film_The_Last_Airbender_Prequel__Zuko%27s_Story"
+          }
+        }
+      ],
+      "section": [
+        "Dave Roman",
+        "Avatar: The Last Airbender credits",
+        "Graphic novel film tie-ins"
+      ],
+      "text": "The Last Airbender Prequel: Zuko's Story"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender_movie_tie-ins#The_Last_Airbender",
+            "page": "Film_The_Last_Airbender_movie_tie-ins"
+          }
+        }
+      ],
+      "section": [
+        "Dave Roman",
+        "Avatar: The Last Airbender credits",
+        "Graphic novel film tie-ins"
+      ],
+      "text": "The Last Airbender"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Flight 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Flight",
+            "page": "http://en.wikipedia.org/wiki/Flight"
+          }
+        }
+      ],
+      "section": [
+        "Dave Roman",
+        "Selected other credits",
+        "Comic works"
+      ],
+      "text": "Flight 3 (writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Quicken Forbidden",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Quicken_Forbidden",
+            "page": "http://en.wikipedia.org/wiki/Quicken_Forbidden"
+          }
+        }
+      ],
+      "section": [
+        "Dave Roman",
+        "Selected other credits",
+        "Comic works"
+      ],
+      "text": "Quicken Forbidden (writer)"
+    },
+    {
       "body": "Roman graduated from the School of Visual Arts before becoming a comics editor of ${link_0} from 1998 to 2009.",
       "links": [
         {
           "body": "Nickelodeon Magazine",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon_Magazine",
+            "external": false,
+            "href": "/wiki/Nickelodeon_Magazine",
             "page": "Nickelodeon_Magazine"
           }
         }
+      ],
+      "section": [
+        "Dave Roman",
+        "Biographical information",
+        "Career"
       ],
       "text": "Roman graduated from the School of Visual Arts before becoming a comics editor of Nickelodeon Magazine from 1998 to 2009."
     },
     {
       "body": "Many of Roman's written works have won or been nominated for comic awards. His Quicken Forbidden series was nominated for a Harvey Award, and the Teen Boat comic, which he co-created, earned him an Igantz Award.",
       "links": [],
+      "section": [
+        "Dave Roman",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Many of Roman's written works have won or been nominated for comic awards. His Quicken Forbidden series was nominated for a Harvey Award, and the Teen Boat comic, which he co-created, earned him an Igantz Award."
     },
     {
       "body": "Dave Roman lives in Astoria, New York, with his wife Raina Telgemeier, a fellow cartoonist.",
       "links": [],
+      "section": [
+        "Dave Roman",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Dave Roman lives in Astoria, New York, with his wife Raina Telgemeier, a fellow cartoonist."
+    },
+    {
+      "body": "Roman and his wife share the same birthday.",
+      "links": [],
+      "section": [
+        "Dave Roman",
+        "Trivia"
+      ],
+      "text": "Roman and his wife share the same birthday."
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Wrong Brother (2000)",
+          "body": "${link_0} (2000)",
           "extra": "(2000)",
           "extra_text": "(2000)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Wrong Brother",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0391535",
+                "page": "http://www.imdb.com/find?q=tt0391535"
+              }
+            }
+          ],
           "text": "The Wrong Brother (2000)",
-          "value": "The Wrong Brother",
+          "value": "${link_0}",
           "value_text": "The Wrong Brother"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1417647",
+                "page": "http://www.imdb.com/find?q=nm1417647"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jon_Heder",
+                "page": "http://en.wikipedia.org/wiki/Jon_Heder"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Jon-Heder/138618776210110",
+                "page": "https://www.facebook.com/pages/Jon-Heder/138618776210110"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/jonheder",
+                "page": "http://instagram.com/jonheder"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/hederjon",
+                "page": "https://twitter.com/hederjon"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,29 +181,519 @@
   ],
   "paragraphs": [
     {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "The Legend of Korra credits",
+        "Ryu"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "409. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beyond the Wilds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beyond_the_Wilds",
+            "page": "Beyond_the_Wilds"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "The Legend of Korra credits",
+        "Ryu"
+      ],
+      "text": "409. \"Beyond the Wilds\""
+    },
+    {
+      "body": "409. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beyond the Wilds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beyond_the_Wilds",
+            "page": "Beyond_the_Wilds"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "The Legend of Korra credits",
+        "Dad"
+      ],
+      "text": "409. \"Beyond the Wilds\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dead Grandma",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1831024",
+            "page": "http://www.imdb.com/find?q=tt1831024"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dead Grandma"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "FCU: Fact Checkers Unit",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1688297",
+            "page": "http://www.imdb.com/find?q=tt1688297"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "FCU: Fact Checkers Unit"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Late Night with Jimmy Fallon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1231460",
+            "page": "http://www.imdb.com/find?q=tt1231460"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Late Night with Jimmy Fallon"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Napoleon Dynamite",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1743880",
+            "page": "http://www.imdb.com/find?q=tt1743880"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Napoleon Dynamite"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Robot Chicken",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0437745",
+            "page": "http://www.imdb.com/find?q=tt0437745"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Robot Chicken"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Woke Up Dead",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1222663",
+            "page": "http://www.imdb.com/find?q=tt1222663"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Woke Up Dead"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "For Ellen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1570583",
+            "page": "http://www.imdb.com/find?q=tt1570583"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "For Ellen (2012)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "When in Rome",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1185416",
+            "page": "http://www.imdb.com/find?q=tt1185416"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "When in Rome (2010)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Blades of Glory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0445934",
+            "page": "http://www.imdb.com/find?q=tt0445934"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Blades of Glory (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Mama's Boy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0415141",
+            "page": "http://www.imdb.com/find?q=tt0415141"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mama's Boy (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Benchwarmers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0437863",
+            "page": "http://www.imdb.com/find?q=tt0437863"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Benchwarmers (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Just Like Heaven",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0425123",
+            "page": "http://www.imdb.com/find?q=tt0425123"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Just Like Heaven (2005)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Napoleon Dynamite",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0374900",
+            "page": "http://www.imdb.com/find?q=tt0374900"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Napoleon Dynamite (2004)"
+    },
+    {
+      "body": "${link_0} (2000; short)",
+      "links": [
+        {
+          "body": "Funky Town",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0260917",
+            "page": "http://www.imdb.com/find?q=tt0260917"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Funky Town (2000; short)"
+    },
+    {
+      "body": "${link_0} (short - producer)",
+      "links": [
+        {
+          "body": "Drained",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2072949",
+            "page": "http://www.imdb.com/find?q=tt2072949"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Drained (short - producer)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "Napoleon Dynamite",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1743880",
+            "page": "http://www.imdb.com/find?q=tt1743880"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Napoleon Dynamite (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "Saturday Night Live",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0072562",
+            "page": "http://www.imdb.com/find?q=tt0072562"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Saturday Night Live (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (executive producer)",
+      "links": [
+        {
+          "body": "Woke Up Dead",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1222663",
+            "page": "http://www.imdb.com/find?q=tt1222663"
+          }
+        }
+      ],
+      "section": [
+        "Jon Heder",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Woke Up Dead (executive producer)"
+    },
+    {
       "body": "Heder was born the son of Helen, n\u00e9e Brammer, and Dr. James Heder, a practicing physician. Heder and his parents moved to Salem, Oregon, when he was two years old. He attended Walker Middle School in Salem and graduated from South Salem High School in 1996, where he was on the swim team and was a member of the Drama Association.",
       "links": [],
+      "section": [
+        "Jon Heder",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Heder was born the son of Helen, n\u00e9e Brammer, and Dr. James Heder, a practicing physician. Heder and his parents moved to Salem, Oregon, when he was two years old. He attended Walker Middle School in Salem and graduated from South Salem High School in 1996, where he was on the swim team and was a member of the Drama Association."
     },
     {
       "body": "Heder lives with his wife Kirsten Heder, whom he married in 2002, in Los Angeles, California. The couple have a daughter and a son, born in 2007 and 2009 respectively.",
       "links": [],
+      "section": [
+        "Jon Heder",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Heder lives with his wife Kirsten Heder, whom he married in 2002, in Los Angeles, California. The couple have a daughter and a son, born in 2007 and 2009 respectively."
     },
     {
       "body": "Heder is a member of The Church of Jesus Christ of Latter-day Saints and served an LDS mission in Japan, from which he learned to speak Japanese. He, his brothers, and his father are scouting enthusiasts, with Heder and several of his brothers becoming Eagle Scouts. He currently serves as a Scoutmaster.",
       "links": [],
+      "section": [
+        "Jon Heder",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Heder is a member of The Church of Jesus Christ of Latter-day Saints and served an LDS mission in Japan, from which he learned to speak Japanese. He, his brothers, and his father are scouting enthusiasts, with Heder and several of his brothers becoming Eagle Scouts. He currently serves as a Scoutmaster."
     },
     {
       "body": "Heder had his first big break in film as the title character of the 2004 hit comedy Napoleon Dynamite; he later reprised the role in the 2012 television series version. After his success with Napoleon Dynamite, Heder and his film co-star Efren Ramirez filmed a series of commercials to promote the 2005 Utah State Fair, appearing as their characters from the film. They also reprised their roles in a self-parody sketch called \"Napoleon Bonamite\" on the animated series Robot Chicken. He later starred alongside Rob Schneider and David Spade in the 2006 sports comedy, The Benchwarmers.",
       "links": [],
+      "section": [
+        "Jon Heder",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Heder had his first big break in film as the title character of the 2004 hit comedy Napoleon Dynamite; he later reprised the role in the 2012 television series version. After his success with Napoleon Dynamite, Heder and his film co-star Efren Ramirez filmed a series of commercials to promote the 2005 Utah State Fair, appearing as their characters from the film. They also reprised their roles in a self-parody sketch called \"Napoleon Bonamite\" on the animated series Robot Chicken. He later starred alongside Rob Schneider and David Spade in the 2006 sports comedy, The Benchwarmers."
     },
     {
       "body": "Heder also turned to voice acting, with one of his noteworthy credits being in the web series Woke Up Dead.",
       "links": [],
+      "section": [
+        "Jon Heder",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Heder also turned to voice acting, with one of his noteworthy credits being in the web series Woke Up Dead."
+    },
+    {
+      "body": "2012: Won a Washington DC Independent Film Festival Grand Jury Award for Drained (Best Experimental/Animation)",
+      "links": [],
+      "section": [
+        "Jon Heder",
+        "Awards"
+      ],
+      "text": "2012: Won a Washington DC Independent Film Festival Grand Jury Award for Drained (Best Experimental/Animation)"
+    },
+    {
+      "body": "2005: Won an MTV Movie Award for Napoleon Dynamite (Breakthrough Male)",
+      "links": [],
+      "section": [
+        "Jon Heder",
+        "Awards"
+      ],
+      "text": "2005: Won an MTV Movie Award for Napoleon Dynamite (Breakthrough Male)"
+    },
+    {
+      "body": "2005: Won an MTV Movie Award for Napoleon Dynamite (Best Musical Performance)",
+      "links": [],
+      "section": [
+        "Jon Heder",
+        "Awards"
+      ],
+      "text": "2005: Won an MTV Movie Award for Napoleon Dynamite (Best Musical Performance)"
+    },
+    {
+      "body": "2005: Won a Teens Choice Award for Napoleon Dynamite (Choice Movie Hissy Fit)",
+      "links": [],
+      "section": [
+        "Jon Heder",
+        "Awards"
+      ],
+      "text": "2005: Won a Teens Choice Award for Napoleon Dynamite (Choice Movie Hissy Fit)"
+    },
+    {
+      "body": "2005: Won a Teens Choice Award for Napoleon Dynamite (Choice Movie Dance Scene)",
+      "links": [],
+      "section": [
+        "Jon Heder",
+        "Awards"
+      ],
+      "text": "2005: Won a Teens Choice Award for Napoleon Dynamite (Choice Movie Dance Scene)"
     }
   ],
   "source": {

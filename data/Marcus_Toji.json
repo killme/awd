@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Dream On (1992)",
+          "body": "${link_0} (1992)",
           "extra": "(1992)",
           "extra_text": "(1992)",
-          "links": [],
+          "links": [
+            {
+              "body": "Dream On",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0098780",
+                "page": "http://www.imdb.com/find?q=tt0098780"
+              }
+            }
+          ],
           "text": "Dream On (1992)",
-          "value": "Dream On",
+          "value": "${link_0}",
           "value_text": "Dream On"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0865686",
+                "page": "http://www.imdb.com/find?q=nm0865686"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/MToji",
+                "page": "https://twitter.com/MToji"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -77,9 +110,462 @@
   ],
   "paragraphs": [
     {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "The Legend of Korra credits",
+        "Little Chou"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Metal Clan",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Metal_Clan",
+            "page": "The_Metal_Clan"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "The Legend of Korra credits",
+        "Wei"
+      ],
+      "text": "305. \"The Metal Clan\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "The Legend of Korra credits",
+        "Wei"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Terror Within",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Terror_Within",
+            "page": "The_Terror_Within"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "The Legend of Korra credits",
+        "Wei"
+      ],
+      "text": "308. \"The Terror Within\""
+    },
+    {
+      "body": "406. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Battle of Zaofu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Battle_of_Zaofu",
+            "page": "The_Battle_of_Zaofu"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "The Legend of Korra credits",
+        "Wei"
+      ],
+      "text": "406. \"The Battle of Zaofu\""
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Metal Clan",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Metal_Clan",
+            "page": "The_Metal_Clan"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "The Legend of Korra credits",
+        "Wing"
+      ],
+      "text": "305. \"The Metal Clan\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "The Legend of Korra credits",
+        "Wing"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Terror Within",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Terror_Within",
+            "page": "The_Terror_Within"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "The Legend of Korra credits",
+        "Wing"
+      ],
+      "text": "308. \"The Terror Within\""
+    },
+    {
+      "body": "406. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Battle of Zaofu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Battle_of_Zaofu",
+            "page": "The_Battle_of_Zaofu"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "The Legend of Korra credits",
+        "Wing"
+      ],
+      "text": "406. \"The Battle of Zaofu\""
+    },
+    {
+      "body": "410. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Operation Beifong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Operation_Beifong",
+            "page": "Operation_Beifong"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "The Legend of Korra credits",
+        "Wing"
+      ],
+      "text": "410. \"Operation Beifong\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Beverly Hills, 90210",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098749",
+            "page": "http://www.imdb.com/find?q=tt0098749"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Beverly Hills, 90210"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Boy Meets World",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105958",
+            "page": "http://www.imdb.com/find?q=tt0105958"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Boy Meets World"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Family Matters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096579",
+            "page": "http://www.imdb.com/find?q=tt0096579"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Family Matters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Fillmore!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0337761",
+            "page": "http://www.imdb.com/find?q=tt0337761"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fillmore!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hey Arnold!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115200",
+            "page": "http://www.imdb.com/find?q=tt0115200"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hey Arnold!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Thunder Alley",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108957",
+            "page": "http://www.imdb.com/find?q=tt0108957"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Thunder Alley"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Zoey 101",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0415463",
+            "page": "http://www.imdb.com/find?q=tt0415463"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Zoey 101"
+    },
+    {
+      "body": "${link_0} (2012; short)",
+      "links": [
+        {
+          "body": "The Money Shot",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2352416",
+            "page": "http://www.imdb.com/find?q=tt2352416"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Money Shot (2012; short)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Self Medicated",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0341569",
+            "page": "http://www.imdb.com/find?q=tt0341569"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Self Medicated (2005)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "The Little Mermaid 2: Return to the Sea",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0240684",
+            "page": "http://www.imdb.com/find?q=tt0240684"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Little Mermaid 2: Return to the Sea (2000)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "Little Giants",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110364",
+            "page": "http://www.imdb.com/find?q=tt0110364"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Little Giants (1994)"
+    },
+    {
+      "body": "${link_0} (assistant director)",
+      "links": [
+        {
+          "body": "Stalker Chronicles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1757470",
+            "page": "http://www.imdb.com/find?q=tt1757470"
+          }
+        }
+      ],
+      "section": [
+        "Marcus Toji",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Stalker Chronicles (assistant director)"
+    },
+    {
       "body": "Toji is an actor and assistant director known for working in productions such as Jingle All the Way, Day of Independence, and Little Giants. He also attended Beverly Hills High School.",
       "links": [],
+      "section": [
+        "Marcus Toji",
+        "Biographical information"
+      ],
       "text": "Toji is an actor and assistant director known for working in productions such as Jingle All the Way, Day of Independence, and Little Giants. He also attended Beverly Hills High School."
+    },
+    {
+      "body": "2006: Won a Phoenix Film Festival Copper Wing Award for Self Medicated (Best Ensemble)",
+      "links": [],
+      "section": [
+        "Marcus Toji",
+        "Awards"
+      ],
+      "text": "2006: Won a Phoenix Film Festival Copper Wing Award for Self Medicated (Best Ensemble)"
     }
   ],
   "source": {

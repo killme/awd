@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Matters of the Heart (1990; TV movie)",
+          "body": "${link_0} (1990; TV movie)",
           "extra": "(1990; TV movie)",
           "extra_text": "(1990; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Matters of the Heart",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0100123",
+                "page": "http://www.imdb.com/find?q=tt0100123"
+              }
+            }
+          ],
           "text": "Matters of the Heart (1990; TV movie)",
-          "value": "Matters of the Heart",
+          "value": "${link_0}",
           "value_text": "Matters of the Heart"
         }
       ]
@@ -55,12 +68,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0059667",
+                "page": "http://www.imdb.com/find?q=nm0059667"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -68,13 +91,354 @@
   ],
   "paragraphs": [
     {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Cave of Two Lovers",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Cave_of_Two_Lovers",
+            "page": "The_Cave_of_Two_Lovers"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Avatar: The Last Airbender credits",
+        "Moku"
+      ],
+      "text": "202. \"The Cave of Two Lovers\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Avatar: The Last Airbender credits",
+        "Actor Zuko"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Cave of Two Lovers",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Cave_of_Two_Lovers",
+            "page": "The_Cave_of_Two_Lovers"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "202. \"The Cave of Two Lovers\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "24",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285331",
+            "page": "http://www.imdb.com/find?q=tt0285331"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "24"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dexter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0773262",
+            "page": "http://www.imdb.com/find?q=tt0773262"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dexter"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hannah Montana",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0493093",
+            "page": "http://www.imdb.com/find?q=tt0493093"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hannah Montana"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "L.A. Dragnet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0319987",
+            "page": "http://www.imdb.com/find?q=tt0319987"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "L.A. Dragnet"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Love & Money",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0210429",
+            "page": "http://www.imdb.com/find?q=tt0210429"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Love & Money"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Party Down",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1073507",
+            "page": "http://www.imdb.com/find?q=tt1073507"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Party Down"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Alien Raiders",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0996979",
+            "page": "http://www.imdb.com/find?q=tt0996979"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Alien Raiders (2008)"
+    },
+    {
+      "body": "${link_0} (2007; short)",
+      "links": [
+        {
+          "body": "69 Cents",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1069217",
+            "page": "http://www.imdb.com/find?q=tt1069217"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "69 Cents (2007; short)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "All In",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0475217",
+            "page": "http://www.imdb.com/find?q=tt0475217"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "All In (2006)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Naked Brown Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0299055",
+            "page": "http://www.imdb.com/find?q=tt0299055"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Naked Brown Men (2003)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Six Days Seven Nights",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120828",
+            "page": "http://www.imdb.com/find?q=tt0120828"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Six Days Seven Nights (1998)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Sgt. Bilko",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0117608",
+            "page": "http://www.imdb.com/find?q=tt0117608"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sgt. Bilko (1996)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "A Dangerous Place",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0107696",
+            "page": "http://www.imdb.com/find?q=tt0107696"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Dangerous Place (1995)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Grand Theft Auto: San Andreas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0383385",
+            "page": "http://www.imdb.com/find?q=tt0383385"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Grand Theft Auto: San Andreas (video game)"
+    },
+    {
       "body": "Derek has one sister, Arianna, and three brothers: Darion, Dion, and ${link_0}, the latter of whom voiced ${link_1} in Avatar: The Last Airbender and ${link_2} in The Legend of Korra. He is married to Emily Cho.",
       "links": [
         {
           "body": "Dante",
           "key": "${link_0}",
           "target": {
-            "href": "Dante_Basco",
+            "external": false,
+            "href": "/wiki/Dante_Basco",
             "page": "Dante_Basco"
           }
         },
@@ -82,7 +446,8 @@
           "body": "Zuko",
           "key": "${link_1}",
           "target": {
-            "href": "Zuko",
+            "external": false,
+            "href": "/wiki/Zuko",
             "page": "Zuko"
           }
         },
@@ -90,12 +455,55 @@
           "body": "Iroh",
           "key": "${link_2}",
           "target": {
-            "href": "Iroh_(United_Forces_general)",
+            "external": false,
+            "href": "/wiki/Iroh_(United_Forces_general)",
             "page": "Iroh_(United_Forces_general)"
           }
         }
       ],
+      "section": [
+        "Derek Basco",
+        "Biographical information"
+      ],
       "text": "Derek has one sister, Arianna, and three brothers: Darion, Dion, and Dante, the latter of whom voiced Zuko in Avatar: The Last Airbender and Iroh in The Legend of Korra. He is married to Emily Cho."
+    },
+    {
+      "body": "${link_0} was written by Derek and co-directed by himself and his three brothers.",
+      "links": [
+        {
+          "body": "Naked Brown Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0299055",
+            "page": "http://www.imdb.com/find?q=tt0299055"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Trivia"
+      ],
+      "text": "Naked Brown Men was written by Derek and co-directed by himself and his three brothers."
+    },
+    {
+      "body": "Derek acted alongside ${link_0} in the 1998 film Six Days Seven Nights. Derek played Ricky, a helicopter crewman, and Cliff Curtis played Kip, a pirate captain.",
+      "links": [
+        {
+          "body": "Cliff Curtis",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Cliff_Curtis",
+            "page": "Film_Cliff_Curtis"
+          }
+        }
+      ],
+      "section": [
+        "Derek Basco",
+        "Trivia"
+      ],
+      "text": "Derek acted alongside Cliff Curtis in the 1998 film Six Days Seven Nights. Derek played Ricky, a helicopter crewman, and Cliff Curtis played Kip, a pirate captain."
     }
   ],
   "source": {

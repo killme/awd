@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -35,7 +38,8 @@
               "body": "Avatar: The Last Airbender",
               "key": "${link_0}",
               "target": {
-                "href": "Avatar__The_Last_Airbender",
+                "external": false,
+                "href": "/wiki/Avatar__The_Last_Airbender",
                 "page": "Avatar__The_Last_Airbender"
               }
             }
@@ -50,12 +54,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm3147036",
+                "page": "http://www.imdb.com/find?q=nm3147036"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -63,9 +77,44 @@
   ],
   "paragraphs": [
     {
-      "body": "This page lacks visual representations and needs one or more relevant images.",
-      "links": [],
-      "text": "This page lacks visual representations and needs one or more relevant images."
+      "body": "314. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_1",
+            "page": "The_Boiling_Rock%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Ezekial Rollins",
+        "Avatar: The Last Airbender credits",
+        "Chit Sang"
+      ],
+      "text": "314. \"The Boiling Rock, Part 1\""
+    },
+    {
+      "body": "315. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Ezekial Rollins",
+        "Avatar: The Last Airbender credits",
+        "Chit Sang"
+      ],
+      "text": "315. \"The Boiling Rock, Part 2\""
     }
   ],
   "source": {

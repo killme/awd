@@ -3,35 +3,40 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Legend of Korra",
       "target": {
-        "href": "Category_Legend_of_Korra",
+        "external": false,
+        "href": "/wiki/Category_Legend_of_Korra",
         "page": "Category_Legend_of_Korra"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Video games",
       "target": {
-        "href": "Category_Video_games",
+        "external": false,
+        "href": "/wiki/Category_Video_games",
         "page": "Category_Video_games"
       }
     },
     {
       "body": "Online games",
       "target": {
-        "href": "Category_Online_games",
+        "external": false,
+        "href": "/wiki/Category_Online_games",
         "page": "Category_Online_games"
       }
     }
@@ -49,7 +54,8 @@
               "body": "Nickelodeon",
               "key": "${link_0}",
               "target": {
-                "href": "Nickelodeon",
+                "external": false,
+                "href": "/wiki/Nickelodeon",
                 "page": "Nickelodeon"
               }
             }
@@ -107,6 +113,9 @@
     {
       "body": "Republic City Run is a game hosted by Nick.com.",
       "links": [],
+      "section": [
+        "Republic City Run"
+      ],
       "text": "Republic City Run is a game hosted by Nick.com."
     },
     {
@@ -116,7 +125,8 @@
           "body": "Korra",
           "key": "${link_0}",
           "target": {
-            "href": "Korra",
+            "external": false,
+            "href": "/wiki/Korra",
             "page": "Korra"
           }
         },
@@ -124,7 +134,8 @@
           "body": "Equalists",
           "key": "${link_1}",
           "target": {
-            "href": "Equalists",
+            "external": false,
+            "href": "/wiki/Equalists",
             "page": "Equalists"
           }
         },
@@ -132,26 +143,44 @@
           "body": "electrified gloves",
           "key": "${link_2}",
           "target": {
-            "href": "Electrified_glove",
+            "external": false,
+            "href": "/wiki/Electrified_glove",
             "page": "Electrified_glove"
           }
         }
       ],
+      "section": [
+        "Republic City Run",
+        "Objective"
+      ],
       "text": "Korra must fight the Equalists while avoiding their electrified gloves."
     },
     {
-      "body": "${link_0} dashes through the city with coins floating above her.",
-      "links": [
-        {
-          "body": "Korra",
-          "key": "${link_0}",
-          "target": {
-            "href": "Korra",
-            "page": "Korra"
-          }
-        }
+      "body": "Up arrow key \u2013 Jump",
+      "links": [],
+      "section": [
+        "Republic City Run",
+        "Controls"
       ],
-      "text": "Korra dashes through the city with coins floating above her."
+      "text": "Up arrow key \u2013 Jump"
+    },
+    {
+      "body": "Space-bar \u2013 Bend",
+      "links": [],
+      "section": [
+        "Republic City Run",
+        "Controls"
+      ],
+      "text": "Space-bar \u2013 Bend"
+    },
+    {
+      "body": "Left mouse click \u2013 Masterbending/Shop controls",
+      "links": [],
+      "section": [
+        "Republic City Run",
+        "Controls"
+      ],
+      "text": "Left mouse click \u2013 Masterbending/Shop controls"
     },
     {
       "body": "A chibi version of ${link_0} Korra runs through various places in ${link_1} while attempting to avoid normal Equalists, Equalists dangling from above, Equalists on motorcycles, and ${link_2}, and collecting ${link_3}.",
@@ -160,7 +189,8 @@
           "body": "Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar",
+            "external": false,
+            "href": "/wiki/Avatar",
             "page": "Avatar"
           }
         },
@@ -168,7 +198,8 @@
           "body": "Republic City",
           "key": "${link_1}",
           "target": {
-            "href": "Republic_City",
+            "external": false,
+            "href": "/wiki/Republic_City",
             "page": "Republic_City"
           }
         },
@@ -176,7 +207,8 @@
           "body": "mecha tanks",
           "key": "${link_2}",
           "target": {
-            "href": "Mecha_tank",
+            "external": false,
+            "href": "/wiki/Mecha_tank",
             "page": "Mecha_tank"
           }
         },
@@ -184,10 +216,16 @@
           "body": "yuans",
           "key": "${link_3}",
           "target": {
-            "href": "Currency#United_Republic",
+            "external": false,
+            "href": "/wiki/Currency#United_Republic",
             "page": "Currency"
           }
         }
+      ],
+      "section": [
+        "Republic City Run",
+        "Controls",
+        "Instructions"
       ],
       "text": "A chibi version of Avatar Korra runs through various places in Republic City while attempting to avoid normal Equalists, Equalists dangling from above, Equalists on motorcycles, and mecha tanks, and collecting yuans."
     },
@@ -198,10 +236,16 @@
           "body": "chi",
           "key": "${link_0}",
           "target": {
-            "href": "Chi",
+            "external": false,
+            "href": "/wiki/Chi",
             "page": "Chi"
           }
         }
+      ],
+      "section": [
+        "Republic City Run",
+        "Controls",
+        "Instructions"
       ],
       "text": "During the game, Avatar Korra can either jump using the up arrow key (twice for a double jump) to avoid foes, or bend at them, defeating them. Korra is given a limited amount of chi, which can be used up by used by either double jumping or bending. The amount replenishes itself over time, unless the player is master bending."
     },
@@ -212,7 +256,8 @@
           "body": "Naga",
           "key": "${link_0}",
           "target": {
-            "href": "Naga",
+            "external": false,
+            "href": "/wiki/Naga",
             "page": "Naga"
           }
         },
@@ -220,7 +265,8 @@
           "body": "Pabu",
           "key": "${link_1}",
           "target": {
-            "href": "Pabu",
+            "external": false,
+            "href": "/wiki/Pabu",
             "page": "Pabu"
           }
         },
@@ -228,21 +274,40 @@
           "body": "flying bison",
           "key": "${link_2}",
           "target": {
-            "href": "Flying_bison",
+            "external": false,
+            "href": "/wiki/Flying_bison",
             "page": "Flying_bison"
           }
         }
+      ],
+      "section": [
+        "Republic City Run",
+        "Controls",
+        "Instructions",
+        "Purchases"
       ],
       "text": "After collecting a certain number of yuans, the player can purchase new skills and upgrades, namely specific bending abilities, coins that can summon Naga, Pabu, or a flying bison, and the ability to gain yuans from defeated enemies. Each of the abilities can be unlocked for one hundred yuans each, and be upgraded four times after that, for two to five hundred yuans."
     },
     {
       "body": "Purchasing this upgrade will allow for a player to earn bonus yuans for every Equalist or mecha tank they defeat, and also if they break a crate of cabbage with their bending. The yuans they can earn increases progressively from one to five with each rank they purchase.",
       "links": [],
+      "section": [
+        "Republic City Run",
+        "Controls",
+        "Instructions",
+        "Yuan collector"
+      ],
       "text": "Purchasing this upgrade will allow for a player to earn bonus yuans for every Equalist or mecha tank they defeat, and also if they break a crate of cabbage with their bending. The yuans they can earn increases progressively from one to five with each rank they purchase."
     },
     {
       "body": "After purchasing these upgrades, coins will occasionally become available with either a flying bison, Naga, or Pabu's face on it. When collected, both the Naga and sky bison coins will produce their respective creature, whom Korra quickly rides on, and can defeat any Equalist they touch, collecting coins if the feature has been purchased. When Pabu is summoned, he will leave a trail of yuans behind him for Korra to collect.",
       "links": [],
+      "section": [
+        "Republic City Run",
+        "Controls",
+        "Instructions",
+        "Animal coins"
+      ],
       "text": "After purchasing these upgrades, coins will occasionally become available with either a flying bison, Naga, or Pabu's face on it. When collected, both the Naga and sky bison coins will produce their respective creature, whom Korra quickly rides on, and can defeat any Equalist they touch, collecting coins if the feature has been purchased. When Pabu is summoned, he will leave a trail of yuans behind him for Korra to collect."
     },
     {
@@ -252,7 +317,8 @@
           "body": "Avatar State",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar#Avatar_State",
+            "external": false,
+            "href": "/wiki/Avatar#Avatar_State",
             "page": "Avatar"
           }
         },
@@ -260,7 +326,8 @@
           "body": "fire",
           "key": "${link_1}",
           "target": {
-            "href": "Firebending",
+            "external": false,
+            "href": "/wiki/Firebending",
             "page": "Firebending"
           }
         },
@@ -268,7 +335,8 @@
           "body": "air",
           "key": "${link_2}",
           "target": {
-            "href": "Airbending",
+            "external": false,
+            "href": "/wiki/Airbending",
             "page": "Airbending"
           }
         },
@@ -276,7 +344,8 @@
           "body": "water",
           "key": "${link_3}",
           "target": {
-            "href": "Waterbending",
+            "external": false,
+            "href": "/wiki/Waterbending",
             "page": "Waterbending"
           }
         },
@@ -284,7 +353,8 @@
           "body": "healing",
           "key": "${link_4}",
           "target": {
-            "href": "Healing",
+            "external": false,
+            "href": "/wiki/Healing",
             "page": "Healing"
           }
         },
@@ -292,12 +362,121 @@
           "body": "earth",
           "key": "${link_5}",
           "target": {
-            "href": "Earthbending",
+            "external": false,
+            "href": "/wiki/Earthbending",
             "page": "Earthbending"
           }
         }
       ],
+      "section": [
+        "Republic City Run",
+        "Controls",
+        "Instructions",
+        "Master bending"
+      ],
       "text": "Once any of the four master bending abilities are purchased, the player can click on an icon of Korra in the Avatar State on the top right. It will subsequently ask the player to \"choose an element\", and shows the bending icons of the elements purchased thus far. Each bending type has its own special abilities, fire produces faster and stronger bending attacks, air drags yuans and animal coins toward Korra, water can use healing to replace lost lives, and earth can protect Korra in a sphere from any attacks, although using large amounts of chi to do so. While a master bending ability is being used, chi will be drained rather than collected. The master bending effect will continue until Korra runs out of chi."
+    },
+    {
+      "body": "Crates of cabbages appear periodically throughout the game, most likely as a call back to the running gag in the ${link_0} series about ${link_1} destroying the ${link_2}'s produce, as well as its call back in ${link_3}, with ${link_4} and ${link_5}.",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
+            "page": "Avatar__The_Last_Airbender"
+          }
+        },
+        {
+          "body": "Team Avatar",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Team_Avatar",
+            "page": "Team_Avatar"
+          }
+        },
+        {
+          "body": "cabbage merchant",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Cabbage_merchant",
+            "page": "Cabbage_merchant"
+          }
+        },
+        {
+          "body": "The Legend of Korra",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra",
+            "page": "The_Legend_of_Korra"
+          }
+        },
+        {
+          "body": "Lau Gan-Lan",
+          "key": "${link_4}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lau_Gan-Lan",
+            "page": "Lau_Gan-Lan"
+          }
+        },
+        {
+          "body": "Cabbage Corp",
+          "key": "${link_5}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Cabbage_Corp",
+            "page": "Cabbage_Corp"
+          }
+        }
+      ],
+      "section": [
+        "Republic City Run",
+        "Trivia"
+      ],
+      "text": "Crates of cabbages appear periodically throughout the game, most likely as a call back to the running gag in the Avatar: The Last Airbender series about Team Avatar destroying the cabbage merchant's produce, as well as its call back in The Legend of Korra, with Lau Gan-Lan and Cabbage Corp."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "List of Avatar games",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar_games",
+            "page": "List_of_Avatar_games"
+          }
+        }
+      ],
+      "section": [
+        "Republic City Run",
+        "See also"
+      ],
+      "text": "List of Avatar games"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Play Republic City Run",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.nick.com/legend-of-korra/games/legend-of-korra-republic-city-run/",
+            "page": "http://www.nick.com/legend-of-korra/games/legend-of-korra-republic-city-run/"
+          }
+        }
+      ],
+      "section": [
+        "Republic City Run",
+        "External links"
+      ],
+      "text": "Play Republic City Run"
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Mississippi Burning (1988)",
+          "body": "${link_0} (1988)",
           "extra": "(1988)",
           "extra_text": "(1988)",
-          "links": [],
+          "links": [
+            {
+              "body": "Mississippi Burning",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0095647",
+                "page": "http://www.imdb.com/find?q=tt0095647"
+              }
+            }
+          ],
           "text": "Mississippi Burning (1988)",
-          "value": "Mississippi Burning",
+          "value": "${link_0}",
           "value_text": "Mississippi Burning"
         }
       ]
@@ -41,48 +54,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0956053",
+                "page": "http://www.imdb.com/find?q=nm0956053"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Rick_Zieff",
+                "page": "http://en.wikipedia.org/wiki/Rick_Zieff"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/rick.zieff",
+                "page": "https://www.facebook.com/rick.zieff"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.rickzieff.com/",
+                "page": "http://www.rickzieff.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/MrCar2n",
+                "page": "https://twitter.com/MrCar2n"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -90,8 +153,312 @@
   ],
   "paragraphs": [
     {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Peacekeepers",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Peacekeepers",
+            "page": "Peacekeepers"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "The Legend of Korra credits",
+        "Gang"
+      ],
+      "text": "205. \"Peacekeepers\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "The Legend of Korra credits",
+        "Gang"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "209. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guide",
+            "page": "The_Guide"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "The Legend of Korra credits",
+        "Gang"
+      ],
+      "text": "209. \"The Guide\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Night of a Thousand Stars",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Night_of_a_Thousand_Stars",
+            "page": "Night_of_a_Thousand_Stars"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "The Legend of Korra credits",
+        "Gang"
+      ],
+      "text": "211. \"Night of a Thousand Stars\""
+    },
+    {
+      "body": "${link_0} (English version)",
+      "links": [
+        {
+          "body": "Bleach",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0434665",
+            "page": "http://www.imdb.com/find?q=tt0434665"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bleach (English version)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Naruto: Shipp\u016bden",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0988824",
+            "page": "http://www.imdb.com/find?q=tt0988824"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Naruto: Shipp\u016bden"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Neander-Jin: The Return of the Neanderthal Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1789037",
+            "page": "http://www.imdb.com/find?q=tt1789037"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Neander-Jin: The Return of the Neanderthal Man (2011)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Murderous Camouflage",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0295456",
+            "page": "http://www.imdb.com/find?q=tt0295456"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Murderous Camouflage (2002)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "The Good Doctor",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0205096",
+            "page": "http://www.imdb.com/find?q=tt0205096"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Good Doctor (2000)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "I'm Losing You",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0142393",
+            "page": "http://www.imdb.com/find?q=tt0142393"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I'm Losing You (1998)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "The Hard Truth",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0109986",
+            "page": "http://www.imdb.com/find?q=tt0109986"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Hard Truth (1994)"
+    },
+    {
+      "body": "${link_0} (1988)",
+      "links": [
+        {
+          "body": "Mississippi Burning",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0095647",
+            "page": "http://www.imdb.com/find?q=tt0095647"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mississippi Burning (1988)"
+    },
+    {
+      "body": "${link_0} (voice casting)",
+      "links": [
+        {
+          "body": "Breakdown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118771",
+            "page": "http://www.imdb.com/find?q=tt0118771"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Breakdown (voice casting)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Halo 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0357718",
+            "page": "http://www.imdb.com/find?q=tt0357718"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Halo 2 (video game)"
+    },
+    {
+      "body": "${link_0} (English version - voice director)",
+      "links": [
+        {
+          "body": "Steamboy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0348121",
+            "page": "http://www.imdb.com/find?q=tt0348121"
+          }
+        }
+      ],
+      "section": [
+        "Rick Zieff",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Steamboy (English version - voice director)"
+    },
+    {
       "body": "Zieff began his career in voice acting in the mid-80s, but has also appeared in such films as Mississippi Burning, Nick of Time, and Terminator 3. In 2004, he provided the voice for Simon in Steamboy, Shusuke Amagai in the anime series Bleach in 2008, and began voicing Spike on The Tom and Jerry Show in 2013.",
       "links": [],
+      "section": [
+        "Rick Zieff",
+        "Biographical information"
+      ],
       "text": "Zieff began his career in voice acting in the mid-80s, but has also appeared in such films as Mississippi Burning, Nick of Time, and Terminator 3. In 2004, he provided the voice for Simon in Steamboy, Shusuke Amagai in the anime series Bleach in 2008, and began voicing Spike on The Tom and Jerry Show in 2013."
     }
   ],

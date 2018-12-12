@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "ABC Stage 67 (1966)",
+          "body": "${link_0} (1966)",
           "extra": "(1966)",
           "extra_text": "(1966)",
-          "links": [],
+          "links": [
+            {
+              "body": "ABC Stage 67",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0233023",
+                "page": "http://www.imdb.com/find?q=tt0233023"
+              }
+            }
+          ],
           "text": "ABC Stage 67 (1966)",
-          "value": "ABC Stage 67",
+          "value": "${link_0}",
           "value_text": "ABC Stage 67"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0396455",
+                "page": "http://www.imdb.com/find?q=nm0396455"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Katharine_Houghton",
+                "page": "http://en.wikipedia.org/wiki/Katharine_Houghton"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -77,13 +110,261 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ABC Afterschool Specials",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0202179",
+            "page": "http://www.imdb.com/find?q=tt0202179"
+          }
+        }
+      ],
+      "section": [
+        "Katharine Houghton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ABC Afterschool Specials"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CBS Daytime 90",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1012951",
+            "page": "http://www.imdb.com/find?q=tt1012951"
+          }
+        }
+      ],
+      "section": [
+        "Katharine Houghton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CBS Daytime 90"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hawk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0059992",
+            "page": "http://www.imdb.com/find?q=tt0059992"
+          }
+        }
+      ],
+      "section": [
+        "Katharine Houghton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hawk"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "I'll Take Manhattan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092378",
+            "page": "http://www.imdb.com/find?q=tt0092378"
+          }
+        }
+      ],
+      "section": [
+        "Katharine Houghton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "I'll Take Manhattan"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Judd for the Defense",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0061271",
+            "page": "http://www.imdb.com/find?q=tt0061271"
+          }
+        }
+      ],
+      "section": [
+        "Katharine Houghton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Judd for the Defense"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Kinsey",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0362269",
+            "page": "http://www.imdb.com/find?q=tt0362269"
+          }
+        }
+      ],
+      "section": [
+        "Katharine Houghton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kinsey (2004)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Let It Be Me",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0113638",
+            "page": "http://www.imdb.com/find?q=tt0113638"
+          }
+        }
+      ],
+      "section": [
+        "Katharine Houghton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Let It Be Me (1995)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "Ethan Frome",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106833",
+            "page": "http://www.imdb.com/find?q=tt0106833"
+          }
+        }
+      ],
+      "section": [
+        "Katharine Houghton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ethan Frome (1993)"
+    },
+    {
+      "body": "${link_0} (1988)",
+      "links": [
+        {
+          "body": "Mr. North",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0095665",
+            "page": "http://www.imdb.com/find?q=tt0095665"
+          }
+        }
+      ],
+      "section": [
+        "Katharine Houghton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mr. North (1988)"
+    },
+    {
+      "body": "${link_0} (1982)",
+      "links": [
+        {
+          "body": "The Eyes of the Amaryllis",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0083912",
+            "page": "http://www.imdb.com/find?q=tt0083912"
+          }
+        }
+      ],
+      "section": [
+        "Katharine Houghton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Eyes of the Amaryllis (1982)"
+    },
+    {
+      "body": "${link_0} (1974)",
+      "links": [
+        {
+          "body": "Garden of Death",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0072133",
+            "page": "http://www.imdb.com/find?q=tt0072133"
+          }
+        }
+      ],
+      "section": [
+        "Katharine Houghton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Garden of Death (1974)"
+    },
+    {
+      "body": "${link_0} (1967)",
+      "links": [
+        {
+          "body": "Guess Who's Coming to Dinner",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0061735",
+            "page": "http://www.imdb.com/find?q=tt0061735"
+          }
+        }
+      ],
+      "section": [
+        "Katharine Houghton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Guess Who's Coming to Dinner (1967)"
+    },
+    {
       "body": "Houghton is best known for her role as Joanna \"Joey\" Drayton, the European-American ing\u00e9nue who brings home an African-American fianc\u00e9 to meet her parents, in the 1967 film Guess Who's Coming to Dinner. She was chosen for the role due to her striking resemblance to the actress playing her on-screen mother, Katharine Hepburn. This comparison was no coincidence, as she was Hepburn's real-life niece.",
       "links": [],
+      "section": [
+        "Katharine Houghton",
+        "Biographical information"
+      ],
       "text": "Houghton is best known for her role as Joanna \"Joey\" Drayton, the European-American ing\u00e9nue who brings home an African-American fianc\u00e9 to meet her parents, in the 1967 film Guess Who's Coming to Dinner. She was chosen for the role due to her striking resemblance to the actress playing her on-screen mother, Katharine Hepburn. This comparison was no coincidence, as she was Hepburn's real-life niece."
     },
     {
       "body": "In 2004, she portrayed Mrs. Spaulding, one of the trustees of Indiana University, in the feature film Kinsey.",
       "links": [],
+      "section": [
+        "Katharine Houghton",
+        "Biographical information"
+      ],
       "text": "In 2004, she portrayed Mrs. Spaulding, one of the trustees of Indiana University, in the feature film Kinsey."
     }
   ],

@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Avatar: The Last Airbender episode transcripts",
       "target": {
-        "href": "Category_Avatar__The_Last_Airbender_episode_transcripts",
+        "external": false,
+        "href": "/wiki/Category_Avatar__The_Last_Airbender_episode_transcripts",
         "page": "Category_Avatar__The_Last_Airbender_episode_transcripts"
       }
     },
     {
       "body": "Book Two: Earth transcripts",
       "target": {
-        "href": "Category_Book_Two__Earth_transcripts",
+        "external": false,
+        "href": "/wiki/Category_Book_Two__Earth_transcripts",
         "page": "Category_Book_Two__Earth_transcripts"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -34,56 +38,84 @@
     {
       "body": "",
       "links": [],
+      "section": [
+        "Transcript:The Library"
+      ],
       "text": ""
     },
     {
-      "body": "Cut to a shot of the group from the front of Appa, Sokka, Toph, Katara, and Momo standing behind Aang. The Avatar is holding a thin wooden flute in both hands.",
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Misty Palms Oasis",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Misty_Palms_Oasis",
+            "page": "Misty_Palms_Oasis"
+          }
+        }
+      ],
+      "section": [
+        "Transcript:The Library",
+        "Locations"
+      ],
+      "text": "Misty Palms Oasis"
+    },
+    {
+      "body": "${link_0}\n ${link_1}\n ${link_2}",
+      "links": [
+        {
+          "body": "Si Wong Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Si_Wong_Desert",
+            "page": "Si_Wong_Desert"
+          }
+        },
+        {
+          "body": "Wan Shi Tong's Library",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Wan_Shi_Tong%27s_Library",
+            "page": "Wan_Shi_Tong%27s_Library"
+          }
+        },
+        {
+          "body": "Planetary calendar room",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Planetary_calendar_room",
+            "page": "Planetary_calendar_room"
+          }
+        }
+      ],
+      "section": [
+        "Transcript:The Library",
+        "Locations"
+      ],
+      "text": "Si Wong Desert\n Wan Shi Tong's Library\n Planetary calendar room"
+    },
+    {
+      "body": "${link_1}\n ${link_2}",
       "links": [],
-      "text": "Cut to a shot of the group from the front of Appa, Sokka, Toph, Katara, and Momo standing behind Aang. The Avatar is holding a thin wooden flute in both hands."
+      "section": [
+        "Transcript:The Library",
+        "Locations"
+      ],
+      "text": "${link_1}\n ${link_2}"
     },
     {
-      "body": "\"${link_0}\"\n\u2193\n\"The Library\"\n\u2193\n\"${link_1}\"",
-      "links": [
-        {
-          "body": "Bitter Work",
-          "key": "${link_0}",
-          "target": {
-            "href": "Transcript_Bitter_Work",
-            "page": "Transcript_Bitter_Work"
-          }
-        },
-        {
-          "body": "The Desert",
-          "key": "${link_1}",
-          "target": {
-            "href": "Transcript_The_Desert",
-            "page": "Transcript_The_Desert"
-          }
-        }
+      "body": "${link_2}",
+      "links": [],
+      "section": [
+        "Transcript:The Library",
+        "Locations"
       ],
-      "text": "\"Bitter Work\"\n\u2193\n\"The Library\"\n\u2193\n\"The Desert\""
-    },
-    {
-      "body": "${link_0} \u00b7 ${link_1}",
-      "links": [
-        {
-          "body": "Article",
-          "key": "${link_0}",
-          "target": {
-            "href": "The_Library",
-            "page": "The_Library"
-          }
-        },
-        {
-          "body": "More transcripts",
-          "key": "${link_1}",
-          "target": {
-            "href": "Avatar_Wiki_Transcripts",
-            "page": "Avatar_Wiki_Transcripts"
-          }
-        }
-      ],
-      "text": "Article \u00b7 More transcripts"
+      "text": "${link_2}"
     }
   ],
   "source": {

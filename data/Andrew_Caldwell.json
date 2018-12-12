@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Bernie Mac Show (2005)",
+          "body": "${link_0} (2005)",
           "extra": "(2005)",
           "extra_text": "(2005)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Bernie Mac Show",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0285341",
+                "page": "http://www.imdb.com/find?q=tt0285341"
+              }
+            }
+          ],
           "text": "The Bernie Mac Show (2005)",
-          "value": "The Bernie Mac Show",
+          "value": "${link_0}",
           "value_text": "The Bernie Mac Show"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2255271",
+                "page": "http://www.imdb.com/find?q=nm2255271"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Andrew_Caldwell",
+                "page": "http://en.wikipedia.org/wiki/Andrew_Caldwell"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/andycaldwell#",
+                "page": "http://instagram.com/andycaldwell"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/AndrewCaldwell1",
+                "page": "https://twitter.com/AndrewCaldwell1"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,8 +148,313 @@
   ],
   "paragraphs": [
     {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar and the Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_and_the_Fire_Lord",
+            "page": "The_Avatar_and_the_Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Avatar: The Last Airbender credits",
+        "Teen Roku"
+      ],
+      "text": "306. \"The Avatar and the Fire Lord\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Accidentally on Purpose",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1441096",
+            "page": "http://www.imdb.com/find?q=tt1441096"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Accidentally on Purpose"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "American Dad!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397306",
+            "page": "http://www.imdb.com/find?q=tt0397306"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Dad!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hannah Montana",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0493093",
+            "page": "http://www.imdb.com/find?q=tt0493093"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hannah Montana"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "How I Met Your Mother",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460649",
+            "page": "http://www.imdb.com/find?q=tt0460649"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "How I Met Your Mother"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Medium",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0412175",
+            "page": "http://www.imdb.com/find?q=tt0412175"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Medium"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "My Name Is Earl",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460091",
+            "page": "http://www.imdb.com/find?q=tt0460091"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "My Name Is Earl"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Spring Break '83",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1082098",
+            "page": "http://www.imdb.com/find?q=tt1082098"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spring Break '83 (2011)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "I Owe My Life to Corbin Bleu",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1719722",
+            "page": "http://www.imdb.com/find?q=tt1719722"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I Owe My Life to Corbin Bleu (2010; short)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "My Best Friend's Girl",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1046163",
+            "page": "http://www.imdb.com/find?q=tt1046163"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "My Best Friend's Girl (2008)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Drillbit Taylor",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0817538",
+            "page": "http://www.imdb.com/find?q=tt0817538"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Drillbit Taylor (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Transformers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0418279",
+            "page": "http://www.imdb.com/find?q=tt0418279"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Transformers (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "7-10 Split",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0784962",
+            "page": "http://www.imdb.com/find?q=tt0784962"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "7-10 Split (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Fleetwood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0800031",
+            "page": "http://www.imdb.com/find?q=tt0800031"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fleetwood (2006)"
+    },
+    {
+      "body": "${link_0} (2005; short)",
+      "links": [
+        {
+          "body": "F: Ohhh, the Agony of Da-feet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0832445",
+            "page": "http://www.imdb.com/find?q=tt0832445"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Caldwell",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "F: Ohhh, the Agony of Da-feet (2005; short)"
+    },
+    {
       "body": "Caldwell appeared in three episodes of Hannah Montana in 2007 as Thor, a new kid from Minnesota whom Jackson befriends, and later that year played the bully, Bubba Bixby, in the Nickelodeon movie Shredderman Rules, as well as a small role in Michael Bay's Transformers. In 2008, he had a role in the film Drillbit Taylor and a lead role in the comedy film College alongside Drake Bell.",
       "links": [],
+      "section": [
+        "Andrew Caldwell",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Caldwell appeared in three episodes of Hannah Montana in 2007 as Thor, a new kid from Minnesota whom Jackson befriends, and later that year played the bully, Bubba Bixby, in the Nickelodeon movie Shredderman Rules, as well as a small role in Michael Bay's Transformers. In 2008, he had a role in the film Drillbit Taylor and a lead role in the comedy film College alongside Drake Bell."
     }
   ],

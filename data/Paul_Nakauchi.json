@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Knots Landing (1990)",
+          "body": "${link_0} (1990)",
           "extra": "(1990)",
           "extra_text": "(1990)",
-          "links": [],
+          "links": [
+            {
+              "body": "Knots Landing",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0078638",
+                "page": "http://www.imdb.com/find?q=tt0078638"
+              }
+            }
+          ],
           "text": "Knots Landing (1990)",
-          "value": "Knots Landing",
+          "value": "${link_0}",
           "value_text": "Knots Landing"
         }
       ]
@@ -41,48 +54,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1478697",
+                "page": "http://www.imdb.com/find?q=nm1478697"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Paul_Nakauchi",
+                "page": "http://en.wikipedia.org/wiki/Paul_Nakauchi"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Paul-Nakauchi/105497899484506",
+                "page": "https://www.facebook.com/pages/Paul-Nakauchi/105497899484506"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Pinterest",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Pinterest",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.pinterest.com/paulnakauchi/pins/",
+                "page": "http://www.pinterest.com/paulnakauchi/pins/"
+              }
+            }
+          ],
           "text": "Pinterest",
-          "value": "Pinterest",
+          "value": "${link_0}",
           "value_text": "Pinterest"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/PaulNakauchi1",
+                "page": "https://twitter.com/PaulNakauchi1"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -90,18 +153,410 @@
   ],
   "paragraphs": [
     {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Zuko Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "207. \"Zuko Alone\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "The Legend of Korra credits",
+        "Chou the Elder"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "The Legend of Korra credits",
+        "Acupuncturist"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103359",
+            "page": "http://www.imdb.com/find?q=tt0103359"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Brave and the Bold"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ER",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108757",
+            "page": "http://www.imdb.com/find?q=tt0108757"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ER"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: Deep Space Nine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106145",
+            "page": "http://www.imdb.com/find?q=tt0106145"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: Deep Space Nine"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Alpha and Omega",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213012",
+            "page": "http://www.imdb.com/find?q=tt1213012"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Alpha and Omega (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Chronicles of Hollow Earth: The Next Race",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0790719",
+            "page": "http://www.imdb.com/find?q=tt0790719"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Chronicles of Hollow Earth: The Next Race (2009)"
+    },
+    {
+      "body": "${link_0} (2007; video)",
+      "links": [
+        {
+          "body": "Doctor Strange",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0910865",
+            "page": "http://www.imdb.com/find?q=tt0910865"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Doctor Strange (2007; video)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "The Great Raid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0326905",
+            "page": "http://www.imdb.com/find?q=tt0326905"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Great Raid (2005)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Nomad: The Warrior",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0374089",
+            "page": "http://www.imdb.com/find?q=tt0374089"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Nomad: The Warrior (2005)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Call of Duty: World at War",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1323508",
+            "page": "http://www.imdb.com/find?q=tt1323508"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Call of Duty: World at War (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Diablo III: Reaper of Souls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3561828",
+            "page": "http://www.imdb.com/find?q=tt3561828"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Diablo III: Reaper of Souls (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lost Planet\u00b2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1535602",
+            "page": "http://www.imdb.com/find?q=tt1535602"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lost Planet\u00b2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "No More Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1139610",
+            "page": "http://www.imdb.com/find?q=tt1139610"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "No More Heroes (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Pirates of the Caribbean: At World's End",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1043740",
+            "page": "http://www.imdb.com/find?q=tt1043740"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Pirates of the Caribbean: At World's End (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837564",
+            "page": "http://www.imdb.com/find?q=tt0837564"
+          }
+        }
+      ],
+      "section": [
+        "Paul Nakauchi",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man 3 (video game)"
+    },
+    {
       "body": "Nakauchi is the son of two American internment camp survivors.",
       "links": [],
+      "section": [
+        "Paul Nakauchi",
+        "Biographical information"
+      ],
       "text": "Nakauchi is the son of two American internment camp survivors."
     },
     {
       "body": "He guest starred in Knots Landing, Star Trek: Deep Space Nine (in the episode \"The Homecoming\"), Batman: The Animated Series, and ER and lent his voice to the video games Call of Duty: World at War, Syphon Filter: The Omega Strain, Tomb Raider: Legend, and Lost Planet 2. He also played Sgt. Shigeno in the motion picture The Great Raid.",
       "links": [],
+      "section": [
+        "Paul Nakauchi",
+        "Biographical information"
+      ],
       "text": "He guest starred in Knots Landing, Star Trek: Deep Space Nine (in the episode \"The Homecoming\"), Batman: The Animated Series, and ER and lent his voice to the video games Call of Duty: World at War, Syphon Filter: The Omega Strain, Tomb Raider: Legend, and Lost Planet 2. He also played Sgt. Shigeno in the motion picture The Great Raid."
     },
     {
       "body": "Nakauchi has also appeared in the Broadway musicals Chu Chem (1989) and The King and I (1996 \u2013 1998). He later starred in the Broadway Asia production of The King and I as King Phra Meha Mongkut.",
       "links": [],
+      "section": [
+        "Paul Nakauchi",
+        "Biographical information"
+      ],
       "text": "Nakauchi has also appeared in the Broadway musicals Chu Chem (1989) and The King and I (1996 \u2013 1998). He later starred in the Broadway Asia production of The King and I as King Phra Meha Mongkut."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Ryan's Hope (1979)",
+          "body": "${link_0} (1979)",
           "extra": "(1979)",
           "extra_text": "(1979)",
-          "links": [],
+          "links": [
+            {
+              "body": "Ryan's Hope",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0072559",
+                "page": "http://www.imdb.com/find?q=tt0072559"
+              }
+            }
+          ],
           "text": "Ryan's Hope (1979)",
-          "value": "Ryan's Hope",
+          "value": "${link_0}",
           "value_text": "Ryan's Hope"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0000579",
+                "page": "http://www.imdb.com/find?q=nm0000579"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Ron_Perlman",
+                "page": "http://en.wikipedia.org/wiki/Ron_Perlman"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Ron-Perlman-Official/432852163526760",
+                "page": "https://www.facebook.com/pages/Ron-Perlman-Official/432852163526760"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.perlmanpages.com/",
+                "page": "http://www.perlmanpages.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/perlmutations",
+                "page": "https://twitter.com/perlmutations"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,24 +181,568 @@
   ],
   "paragraphs": [
     {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar and the Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_and_the_Fire_Lord",
+            "page": "The_Avatar_and_the_Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Avatar: The Last Airbender credits",
+        "Sozin"
+      ],
+      "text": "306. \"The Avatar and the Fire Lord\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar and the Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_and_the_Fire_Lord",
+            "page": "The_Avatar_and_the_Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "306. \"The Avatar and the Fire Lord\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "1000 Ways to Die",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1105711",
+            "page": "http://www.imdb.com/find?q=tt1105711"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "1000 Ways to Die"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Beauty and the Beast",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092319",
+            "page": "http://www.imdb.com/find?q=tt0092319"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Beauty and the Beast"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Chowder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1140100",
+            "page": "http://www.imdb.com/find?q=tt1140100"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Chowder"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Danny Phantom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0366005",
+            "page": "http://www.imdb.com/find?q=tt0366005"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Danny Phantom"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sons of Anarchy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1124373",
+            "page": "http://www.imdb.com/find?q=tt1124373"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sons of Anarchy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Teen Titans",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0343314",
+            "page": "http://www.imdb.com/find?q=tt0343314"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teen Titans"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Magnificent Seven",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0129695",
+            "page": "http://www.imdb.com/find?q=tt0129695"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Magnificent Seven"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Pacific Rim",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1663662",
+            "page": "http://www.imdb.com/find?q=tt1663662"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pacific Rim (2013)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Tangled",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398286",
+            "page": "http://www.imdb.com/find?q=tt0398286"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tangled (2010)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "The Legend of Secret Pass",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0765465",
+            "page": "http://www.imdb.com/find?q=tt0765465"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Legend of Secret Pass (2010)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "I Sell the Dead",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0902290",
+            "page": "http://www.imdb.com/find?q=tt0902290"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I Sell the Dead (2008)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "How to Go Out on a Date in Queens",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0270417",
+            "page": "http://www.imdb.com/find?q=tt0270417"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "How to Go Out on a Date in Queens (2006)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Hellboy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0167190",
+            "page": "http://www.imdb.com/find?q=tt0167190"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hellboy (2004)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Titan A.E.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120913",
+            "page": "http://www.imdb.com/find?q=tt0120913"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Titan A.E. (2000)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Alien: Resurrection",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118583",
+            "page": "http://www.imdb.com/find?q=tt0118583"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Alien: Resurrection (1997)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fallout 2: A Post-Nuclear Role-Playing Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0183066",
+            "page": "http://www.imdb.com/find?q=tt0183066"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fallout 2: A Post-Nuclear Role-Playing Game (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fallout 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1073664",
+            "page": "http://www.imdb.com/find?q=tt1073664"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fallout 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Halo 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0357718",
+            "page": "http://www.imdb.com/find?q=tt0357718"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Halo 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Teen Titans",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0823190",
+            "page": "http://www.imdb.com/find?q=tt0823190"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Teen Titans (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Incredible Hulk: Ultimate Destruction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0457386",
+            "page": "http://www.imdb.com/find?q=tt0457386"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Incredible Hulk: Ultimate Destruction (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "True Crime: Streets of LA",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0378918",
+            "page": "http://www.imdb.com/find?q=tt0378918"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "True Crime: Streets of LA (video game)"
+    },
+    {
       "body": "Perlman was born in Washington Heights, New York, to a municipal employee named Dorothy and a jazz drummer who also worked as a repairman. In a 1988 interview, Perlman stated, \"It was not a bad childhood but ... I had a perception of myself that was, I was terribly overweight as a young kid, and it was sort of a low self-image.\" Perlman continued to say that this experience is one thing that attracts him to \"playing these sorts of deformed people who are very endearing\".",
       "links": [],
+      "section": [
+        "Ron Perlman",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Perlman was born in Washington Heights, New York, to a municipal employee named Dorothy and a jazz drummer who also worked as a repairman. In a 1988 interview, Perlman stated, \"It was not a bad childhood but ... I had a perception of myself that was, I was terribly overweight as a young kid, and it was sort of a low self-image.\" Perlman continued to say that this experience is one thing that attracts him to \"playing these sorts of deformed people who are very endearing\"."
     },
     {
       "body": "He attended George Washington High School and later Lehman College in New York City in 1971. He has said that he and his father were \"very close\" and that it was his father, after seeing Perlman in a college production of Guys and Dolls, who told Perlman, \"You have to do this. You understand this? You gotta do this.\" Perlman says, \"So, he gave me permission to be an actor ... wow.\" Perlman attended the University of Minnesota, where he graduated with a master's degree in theater arts in 1973.",
       "links": [],
+      "section": [
+        "Ron Perlman",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "He attended George Washington High School and later Lehman College in New York City in 1971. He has said that he and his father were \"very close\" and that it was his father, after seeing Perlman in a college production of Guys and Dolls, who told Perlman, \"You have to do this. You understand this? You gotta do this.\" Perlman says, \"So, he gave me permission to be an actor ... wow.\" Perlman attended the University of Minnesota, where he graduated with a master's degree in theater arts in 1973."
     },
     {
       "body": "On Valentine's Day of 1981, he married Opal Perlman, and the couple have since had two children: a daughter, Blake Amanda, born 1984, and a son, Brandon Avery, born 1990. Perlman has volunteered as an actor with the Young Storytellers Program.",
       "links": [],
+      "section": [
+        "Ron Perlman",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "On Valentine's Day of 1981, he married Opal Perlman, and the couple have since had two children: a daughter, Blake Amanda, born 1984, and a son, Brandon Avery, born 1990. Perlman has volunteered as an actor with the Young Storytellers Program."
     },
     {
       "body": "He is known for playing roles which require make-up, some to the point where his entire body is covered or his face requires full prosthetics. Some examples include his first film role in Quest for Fire where he played a Neanderthal, The Name of the Rose where he played a disfigured hunchback, Beauty and The Beast, where he played Vincent, a man with the face of a half-man half-lion-like beast, The Island of Dr. Moreau where he plays a half man/half animal, and the Hellboy films where he plays a demon. He even gave his Beauty and The Beast co-star Armin Shimerman advice when Shimerman was going to be in full-facial prosthetics as Quark for Star Trek: Deep Space Nine. He is also well known for his role as the narrator in the Fallout game series.",
       "links": [],
+      "section": [
+        "Ron Perlman",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He is known for playing roles which require make-up, some to the point where his entire body is covered or his face requires full prosthetics. Some examples include his first film role in Quest for Fire where he played a Neanderthal, The Name of the Rose where he played a disfigured hunchback, Beauty and The Beast, where he played Vincent, a man with the face of a half-man half-lion-like beast, The Island of Dr. Moreau where he plays a half man/half animal, and the Hellboy films where he plays a demon. He even gave his Beauty and The Beast co-star Armin Shimerman advice when Shimerman was going to be in full-facial prosthetics as Quark for Star Trek: Deep Space Nine. He is also well known for his role as the narrator in the Fallout game series."
+    },
+    {
+      "body": "2009: Won a Chainsaw Award for Hellboy II: The Golden Army (Best Actor)",
+      "links": [],
+      "section": [
+        "Ron Perlman",
+        "Awards"
+      ],
+      "text": "2009: Won a Chainsaw Award for Hellboy II: The Golden Army (Best Actor)"
+    },
+    {
+      "body": "1989: Won a Golden Globe Award for Beauty and the Beast (Best Performance by an Actor in a TV-Series - Drama)",
+      "links": [],
+      "section": [
+        "Ron Perlman",
+        "Awards"
+      ],
+      "text": "1989: Won a Golden Globe Award for Beauty and the Beast (Best Performance by an Actor in a TV-Series - Drama)"
+    },
+    {
+      "body": "1989: Won a Q Award for Beauty and the Beast (Best Actor in a Quality Drama Series)",
+      "links": [],
+      "section": [
+        "Ron Perlman",
+        "Awards"
+      ],
+      "text": "1989: Won a Q Award for Beauty and the Beast (Best Actor in a Quality Drama Series)"
+    },
+    {
+      "body": "1988: Won a Golden Apple Award (Male Discovery of the Year)",
+      "links": [],
+      "section": [
+        "Ron Perlman",
+        "Awards"
+      ],
+      "text": "1988: Won a Golden Apple Award (Male Discovery of the Year)"
+    },
+    {
+      "body": "1988: Won a Q Award for Beauty and the Beast (Best Actor in a Quality Drama Series)",
+      "links": [],
+      "section": [
+        "Ron Perlman",
+        "Awards"
+      ],
+      "text": "1988: Won a Q Award for Beauty and the Beast (Best Actor in a Quality Drama Series)"
+    },
+    {
+      "body": "Both of his credits in \"${link_0}\" misspell his name as \"Ron Pearlman\".",
+      "links": [
+        {
+          "body": "The Avatar and the Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_and_the_Fire_Lord",
+            "page": "The_Avatar_and_the_Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "Ron Perlman",
+        "Trivia"
+      ],
+      "text": "Both of his credits in \"The Avatar and the Fire Lord\" misspell his name as \"Ron Pearlman\"."
     }
   ],
   "source": {

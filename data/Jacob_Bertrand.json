@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Mitch Albom's For One More Day (2007; TV movie)",
+          "body": "${link_0} (2007; TV movie)",
           "extra": "(2007; TV movie)",
           "extra_text": "(2007; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Mitch Albom's For One More Day",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1023504",
+                "page": "http://www.imdb.com/find?q=tt1023504"
+              }
+            }
+          ],
           "text": "Mitch Albom's For One More Day (2007; TV movie)",
-          "value": "Mitch Albom's For One More Day",
+          "value": "${link_0}",
           "value_text": "Mitch Albom's For One More Day"
         }
       ]
@@ -41,45 +54,346 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm3161916",
+                "page": "http://www.imdb.com/find?q=nm3161916"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/realJacobBertrand",
+                "page": "https://www.facebook.com/realJacobBertrand"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/jb_mixmatch#",
+                "page": "http://instagram.com/jb_mixmatch"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/JacobBSwagger",
+                "page": "https://twitter.com/JacobBSwagger"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Skeletons in the Closet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
+            "page": "Skeletons_in_the_Closet"
+          }
+        }
+      ],
+      "section": [
+        "Jacob Bertrand",
+        "The Legend of Korra credits",
+        "Noatak"
+      ],
+      "text": "111. \"Skeletons in the Closet\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bubble Guppies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0965404",
+            "page": "http://www.imdb.com/find?q=tt0965404"
+          }
+        }
+      ],
+      "section": [
+        "Jacob Bertrand",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bubble Guppies"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Community",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1439629",
+            "page": "http://www.imdb.com/find?q=tt1439629"
+          }
+        }
+      ],
+      "section": [
+        "Jacob Bertrand",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Community"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Homeschooled",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1844348",
+            "page": "http://www.imdb.com/find?q=tt1844348"
+          }
+        }
+      ],
+      "section": [
+        "Jacob Bertrand",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Homeschooled"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Parks and Recreation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1266020",
+            "page": "http://www.imdb.com/find?q=tt1266020"
+          }
+        }
+      ],
+      "section": [
+        "Jacob Bertrand",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Parks and Recreation"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Cape",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1593823",
+            "page": "http://www.imdb.com/find?q=tt1593823"
+          }
+        }
+      ],
+      "section": [
+        "Jacob Bertrand",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Cape"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Middle.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1442464",
+            "page": "http://www.imdb.com/find?q=tt1442464"
+          }
+        }
+      ],
+      "section": [
+        "Jacob Bertrand",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Middle."
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Sunset Stories",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1695991",
+            "page": "http://www.imdb.com/find?q=tt1695991"
+          }
+        }
+      ],
+      "section": [
+        "Jacob Bertrand",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sunset Stories (2012)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Judy Moody and the Not Bummer Summer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1547230",
+            "page": "http://www.imdb.com/find?q=tt1547230"
+          }
+        }
+      ],
+      "section": [
+        "Jacob Bertrand",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Judy Moody and the Not Bummer Summer (2011)"
+    },
+    {
+      "body": "${link_0} (2011; short)",
+      "links": [
+        {
+          "body": "The Lepidoctor",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2095795",
+            "page": "http://www.imdb.com/find?q=tt2095795"
+          }
+        }
+      ],
+      "section": [
+        "Jacob Bertrand",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Lepidoctor (2011; short)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "The Burying Beetle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1734540",
+            "page": "http://www.imdb.com/find?q=tt1734540"
+          }
+        }
+      ],
+      "section": [
+        "Jacob Bertrand",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Burying Beetle (2010; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Duress",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1308109",
+            "page": "http://www.imdb.com/find?q=tt1308109"
+          }
+        }
+      ],
+      "section": [
+        "Jacob Bertrand",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Duress (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "House",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837796",
+            "page": "http://www.imdb.com/find?q=tt0837796"
+          }
+        }
+      ],
+      "section": [
+        "Jacob Bertrand",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "House (2008)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Jacob_Bertrand",
     "file": "avatar.wikia.com/wiki/Jacob_Bertrand.html",

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Running Time (1997 - production assistant)",
+          "body": "${link_0} (1997 - production assistant)",
           "extra": "(1997 - production assistant)",
           "extra_text": "(1997 - production assistant)",
-          "links": [],
+          "links": [
+            {
+              "body": "Running Time",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0120042",
+                "page": "http://www.imdb.com/find?q=tt0120042"
+              }
+            }
+          ],
           "text": "Running Time (1997 - production assistant)",
-          "value": "Running Time",
+          "value": "${link_0}",
           "value_text": "Running Time"
         }
       ]
@@ -41,18 +54,238 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1348661",
+                "page": "http://www.imdb.com/find?q=nm1348661"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "215. \"${link_0}\" (${link_1})",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        },
+        {
+          "body": "The Tale of Toph and Katara",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se#The_Tale_of_Toph_and_Katara",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Joann Estoesta",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\" (The Tale of Toph and Katara)"
+    },
+    {
+      "body": "${link_0} (production coordinator)",
+      "links": [
+        {
+          "body": "Fillmore!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0337761",
+            "page": "http://www.imdb.com/find?q=tt0337761"
+          }
+        }
+      ],
+      "section": [
+        "Joann Estoesta",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fillmore! (production coordinator)"
+    },
+    {
+      "body": "${link_0} (production coordinator)",
+      "links": [
+        {
+          "body": "House of Mouse",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0272388",
+            "page": "http://www.imdb.com/find?q=tt0272388"
+          }
+        }
+      ],
+      "section": [
+        "Joann Estoesta",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "House of Mouse (production coordinator)"
+    },
+    {
+      "body": "${link_0} (production manager)",
+      "links": [
+        {
+          "body": "Kung Fu Panda: Legends of Awesomeness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545214",
+            "page": "http://www.imdb.com/find?q=tt1545214"
+          }
+        }
+      ],
+      "section": [
+        "Joann Estoesta",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kung Fu Panda: Legends of Awesomeness (production manager)"
+    },
+    {
+      "body": "${link_0} (senior production coordinator)",
+      "links": [
+        {
+          "body": "The Penguins of Madagascar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0892700",
+            "page": "http://www.imdb.com/find?q=tt0892700"
+          }
+        }
+      ],
+      "section": [
+        "Joann Estoesta",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Penguins of Madagascar (senior production coordinator)"
+    },
+    {
+      "body": "${link_0} (2004 - production coordinator)",
+      "links": [
+        {
+          "body": "Clifford's Really Big Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398872",
+            "page": "http://www.imdb.com/find?q=tt0398872"
+          }
+        }
+      ],
+      "section": [
+        "Joann Estoesta",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Clifford's Really Big Movie (2004 - production coordinator)"
+    },
+    {
+      "body": "${link_0} (2003; video - production coordinator)",
+      "links": [
+        {
+          "body": "Atlantis: Milo's Return",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0344864",
+            "page": "http://www.imdb.com/find?q=tt0344864"
+          }
+        }
+      ],
+      "section": [
+        "Joann Estoesta",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Atlantis: Milo's Return (2003; video - production coordinator)"
+    },
+    {
+      "body": "${link_0} (2001; video - production coordinator)",
+      "links": [
+        {
+          "body": "Mickey's House of Villains",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0329374",
+            "page": "http://www.imdb.com/find?q=tt0329374"
+          }
+        }
+      ],
+      "section": [
+        "Joann Estoesta",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mickey's House of Villains (2001; video - production coordinator)"
+    },
+    {
+      "body": "${link_0} (2001; video - production coordinator)",
+      "links": [
+        {
+          "body": "Mickey's Magical Christmas: Snowed in at the House of Mouse",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0300195",
+            "page": "http://www.imdb.com/find?q=tt0300195"
+          }
+        }
+      ],
+      "section": [
+        "Joann Estoesta",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mickey's Magical Christmas: Snowed in at the House of Mouse (2001; video - production coordinator)"
+    },
+    {
+      "body": "${link_0} (1997 - production coordinator)",
+      "links": [
+        {
+          "body": "Running Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120042",
+            "page": "http://www.imdb.com/find?q=tt0120042"
+          }
+        }
+      ],
+      "section": [
+        "Joann Estoesta",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Running Time (1997 - production coordinator)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Joann_Estoesta",
     "file": "avatar.wikia.com/wiki/Joann_Estoesta.html",

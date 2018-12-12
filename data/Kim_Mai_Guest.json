@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Where the Night Begins (1991; English version)",
+          "body": "${link_0} (1991; English version)",
           "extra": "(1991; English version)",
           "extra_text": "(1991; English version)",
-          "links": [],
+          "links": [
+            {
+              "body": "Where the Night Begins",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0155681",
+                "page": "http://www.imdb.com/find?q=tt0155681"
+              }
+            }
+          ],
           "text": "Where the Night Begins (1991; English version)",
-          "value": "Where the Night Begins",
+          "value": "${link_0}",
           "value_text": "Where the Night Begins"
         }
       ]
@@ -69,45 +82,552 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0346410",
+                "page": "http://www.imdb.com/find?q=nm0346410"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Kim_Mai_Guest",
+                "page": "http://en.wikipedia.org/wiki/Kim_Mai_Guest"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Kim-Mai-Guest/312439782188649",
+                "page": "https://www.facebook.com/pages/Kim-Mai-Guest/312439782188649"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.kimmai.com/",
+                "page": "http://www.kimmai.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Cave of Two Lovers",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Cave_of_Two_Lovers",
+            "page": "The_Cave_of_Two_Lovers"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Avatar: The Last Airbender credits",
+        "Song"
+      ],
+      "text": "202. \"The Cave of Two Lovers\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Serpent's Pass",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Serpent%27s_Pass",
+            "page": "The_Serpent%27s_Pass"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Avatar: The Last Airbender credits",
+        "Ying"
+      ],
+      "text": "212. \"The Serpent's Pass\""
+    },
+    {
+      "body": "213. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Drill",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Drill",
+            "page": "The_Drill"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Avatar: The Last Airbender credits",
+        "Ying"
+      ],
+      "text": "213. \"The Drill\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Brave and the Bold"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0760437",
+            "page": "http://www.imdb.com/find?q=tt0760437"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312109",
+            "page": "http://www.imdb.com/find?q=tt0312109"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Danger Rangers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0923157",
+            "page": "http://www.imdb.com/find?q=tt0923157"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Danger Rangers"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Geneshaft",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0390708",
+            "page": "http://www.imdb.com/find?q=tt0390708"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Geneshaft"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ghost in the Shell: Stand Alone Complex",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0346314",
+            "page": "http://www.imdb.com/find?q=tt0346314"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ghost in the Shell: Stand Alone Complex"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "The Legend of Secret Pass",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0765465",
+            "page": "http://www.imdb.com/find?q=tt0765465"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Legend of Secret Pass (2010)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "TMNT",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0453556",
+            "page": "http://www.imdb.com/find?q=tt0453556"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "TMNT (2007)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Mirror, Mirror IV: Reflection",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0236502",
+            "page": "http://www.imdb.com/find?q=tt0236502"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mirror, Mirror IV: Reflection (2000)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dragon Age: Origins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1541718",
+            "page": "http://www.imdb.com/find?q=tt1541718"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dragon Age: Origins (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Halo Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0879404",
+            "page": "http://www.imdb.com/find?q=tt0879404"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Halo Wars (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lord of the Rings: Battle for Middle Earth II - Rise of the Witch King",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1058040",
+            "page": "http://www.imdb.com/find?q=tt1058040"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lord of the Rings: Battle for Middle Earth II - Rise of the Witch King (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel: Ultimate Alliance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0814207",
+            "page": "http://www.imdb.com/find?q=tt0814207"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel: Ultimate Alliance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0180825",
+            "page": "http://www.imdb.com/find?q=tt0180825"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid 4: Guns of the Patriots",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0180825",
+            "page": "http://www.imdb.com/find?q=tt0180825"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid 4: Guns of the Patriots (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837564",
+            "page": "http://www.imdb.com/find?q=tt0837564"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Super Smash Bros. Brawl",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0928380",
+            "page": "http://www.imdb.com/find?q=tt0928380"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Super Smash Bros. Brawl (video game)"
+    },
+    {
+      "body": "Through her career as a voice-over artist, Guest has worked with ${link_0} twenty-four times, ${link_1} twelve times, and ${link_2} nine times.",
+      "links": [
+        {
+          "body": "Jennifer Hale",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jennifer_Hale",
+            "page": "Jennifer_Hale"
+          }
+        },
+        {
+          "body": "Paul Eiding",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Paul_Eiding",
+            "page": "Paul_Eiding"
+          }
+        },
+        {
+          "body": "Robin Atkin Downes",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Robin_Atkin_Downes",
+            "page": "Robin_Atkin_Downes"
+          }
+        }
+      ],
+      "section": [
+        "Kim Mai Guest",
+        "Trivia"
+      ],
+      "text": "Through her career as a voice-over artist, Guest has worked with Jennifer Hale twenty-four times, Paul Eiding twelve times, and Robin Atkin Downes nine times."
+    },
+    {
+      "body": "She is one of the few cast members of Metal Gear Solid that actually played the game; she progressed as far as Revolver Ocelot before giving up.",
+      "links": [],
+      "section": [
+        "Kim Mai Guest",
+        "Trivia"
+      ],
+      "text": "She is one of the few cast members of Metal Gear Solid that actually played the game; she progressed as far as Revolver Ocelot before giving up."
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Kim_Mai_Guest",
     "file": "avatar.wikia.com/wiki/Kim_Mai_Guest.html",

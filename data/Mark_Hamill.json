@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Headmaster (1970)",
+          "body": "${link_0} (1970)",
           "extra": "(1970)",
           "extra_text": "(1970)",
-          "links": [],
+          "links": [
+            {
+              "body": "Headmaster",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0065299",
+                "page": "http://www.imdb.com/find?q=tt0065299"
+              }
+            }
+          ],
           "text": "Headmaster (1970)",
-          "value": "Headmaster",
+          "value": "${link_0}",
           "value_text": "Headmaster"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0000434",
+                "page": "http://www.imdb.com/find?q=nm0000434"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Mark_Hamill",
+                "page": "http://en.wikipedia.org/wiki/Mark_Hamill"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Mark-Hamill/11169633347",
+                "page": "https://www.facebook.com/pages/Mark-Hamill/11169633347"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/HamillHimself",
+                "page": "https://twitter.com/HamillHimself"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,28 +162,1113 @@
   ],
   "paragraphs": [
     {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Ozai"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Ozai"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Zuko Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Ozai"
+      ],
+      "text": "207. \"Zuko Alone\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Awakening",
+            "page": "The_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Ozai"
+      ],
+      "text": "301. \"The Awakening\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Nightmares and Daydreams",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Nightmares_and_Daydreams",
+            "page": "Nightmares_and_Daydreams"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Ozai"
+      ],
+      "text": "309. \"Nightmares and Daydreams\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Ozai"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "318. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 1: The Phoenix King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_1__The_Phoenix_King",
+            "page": "Sozin%27s_Comet%2c_Part_1__The_Phoenix_King"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Ozai"
+      ],
+      "text": "318. \"Sozin's Comet, Part 1: The Phoenix King\""
+    },
+    {
+      "body": "319. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 2: The Old Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_2__The_Old_Masters",
+            "page": "Sozin%27s_Comet%2c_Part_2__The_Old_Masters"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Ozai"
+      ],
+      "text": "319. \"Sozin's Comet, Part 2: The Old Masters\""
+    },
+    {
+      "body": "320. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 3: Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_3__Into_the_Inferno",
+            "page": "Sozin%27s_Comet%2c_Part_3__Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Ozai"
+      ],
+      "text": "320. \"Sozin's Comet, Part 3: Into the Inferno\""
+    },
+    {
+      "body": "321. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 4: Avatar Aang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
+            "page": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Ozai"
+      ],
+      "text": "321. \"Sozin's Comet, Part 4: Avatar Aang\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Baboon spirit"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Awakening",
+            "page": "The_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "301. \"The Awakening\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103359",
+            "page": "http://www.imdb.com/find?q=tt0103359"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312109",
+            "page": "http://www.imdb.com/find?q=tt0312109"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dragons: Riders of Berk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2325846",
+            "page": "http://www.imdb.com/find?q=tt2325846"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dragons: Riders of Berk"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Generator Rex",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1636691",
+            "page": "http://www.imdb.com/find?q=tt1636691"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Generator Rex"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jay and Silent Bob Strike Back",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0261392",
+            "page": "http://www.imdb.com/find?q=tt0261392"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jay and Silent Bob Strike Back"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Justice League",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275137",
+            "page": "http://www.imdb.com/find?q=tt0275137"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Justice League"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Metalocalypse",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0839188",
+            "page": "http://www.imdb.com/find?q=tt0839188"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Metalocalypse"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Motorcity",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2392143",
+            "page": "http://www.imdb.com/find?q=tt2392143"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Motorcity"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Regular Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1710308",
+            "page": "http://www.imdb.com/find?q=tt1710308"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Regular Show"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Robot Chicken",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0437745",
+            "page": "http://www.imdb.com/find?q=tt0437745"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Robot Chicken"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Super Robot Monkey Team Hyperforce Go!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0423746",
+            "page": "http://www.imdb.com/find?q=tt0423746"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Super Robot Monkey Team Hyperforce Go!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The New Woody Woodpecker Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0281474",
+            "page": "http://www.imdb.com/find?q=tt0281474"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The New Woody Woodpecker Show"
+    },
+    {
+      "body": "${link_0}\u00a0(2015)",
+      "links": [
+        {
+          "body": "Star Wars Episode VII: The Force Awakens",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2488496",
+            "page": "http://www.imdb.com/find?q=tt2488496"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Wars Episode VII: The Force Awakens\u00a0(2015)"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Virtually Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2102509",
+            "page": "http://www.imdb.com/find?q=tt2102509"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Virtually Heroes (2013)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Quantum Quest: A Cassini Space Odyssey",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312305",
+            "page": "http://www.imdb.com/find?q=tt0312305"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Quantum Quest: A Cassini Space Odyssey (2010)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Battle for Terra",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0858486",
+            "page": "http://www.imdb.com/find?q=tt0858486"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Battle for Terra (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Robotech: The Shadow Chronicles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0443771",
+            "page": "http://www.imdb.com/find?q=tt0443771"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Robotech: The Shadow Chronicles (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Thru the Moebius Strip",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0267024",
+            "page": "http://www.imdb.com/find?q=tt0267024"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Thru the Moebius Strip (2005)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Reeseville",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0327594",
+            "page": "http://www.imdb.com/find?q=tt0327594"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Reeseville (2003)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Earth Day",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0266497",
+            "page": "http://www.imdb.com/find?q=tt0266497"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Earth Day (2001)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "Castle in the Sky",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092067",
+            "page": "http://www.imdb.com/find?q=tt0092067"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Castle in the Sky (1986)"
+    },
+    {
+      "body": "${link_0} (1983)",
+      "links": [
+        {
+          "body": "Star Wars Episode VI: Return of the Jedi",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086190",
+            "page": "http://www.imdb.com/find?q=tt0086190"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Wars Episode VI: Return of the Jedi (1983)"
+    },
+    {
+      "body": "${link_0} (1980)",
+      "links": [
+        {
+          "body": "Star Wars Episode V: The Empire Strikes Back",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0327594",
+            "page": "http://www.imdb.com/find?q=tt0327594"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Wars Episode V: The Empire Strikes Back (1980)"
+    },
+    {
+      "body": "${link_0} (1977)",
+      "links": [
+        {
+          "body": "Star Wars Episode IV: A New Hope",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312305",
+            "page": "http://www.imdb.com/find?q=tt0312305"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Wars Episode IV: A New Hope (1977)"
+    },
+    {
+      "body": "${link_0} (casting director)",
+      "links": [
+        {
+          "body": "Aero-Troopers: The Nemeclous Crusade",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0382521",
+            "page": "http://www.imdb.com/find?q=tt0382521"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Aero-Troopers: The Nemeclous Crusade (casting director)"
+    },
+    {
+      "body": "${link_0} (video - soundtrack)",
+      "links": [
+        {
+          "body": "Balto: Wolf Quest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0281634",
+            "page": "http://www.imdb.com/find?q=tt0281634"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Balto: Wolf Quest (video - soundtrack)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Batman: Arkham Asylum",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1282022",
+            "page": "http://www.imdb.com/find?q=tt1282022"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Batman: Arkham Asylum (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Batman: Arkham City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1568322",
+            "page": "http://www.imdb.com/find?q=tt1568322"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Batman: Arkham City (video game)"
+    },
+    {
+      "body": "${link_0} (video - director)",
+      "links": [
+        {
+          "body": "Comic Book: The Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0361462",
+            "page": "http://www.imdb.com/find?q=tt0361462"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Comic Book: The Movie (video - director)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Darksiders",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1585560",
+            "page": "http://www.imdb.com/find?q=tt1585560"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Darksiders (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "DC Universe Online",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1327585",
+            "page": "http://www.imdb.com/find?q=tt1327585"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "DC Universe Online (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "FusionFall",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1363369",
+            "page": "http://www.imdb.com/find?q=tt1363369"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "FusionFall (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts: Birth by Sleep",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1390843",
+            "page": "http://www.imdb.com/find?q=tt1390843"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts: Birth by Sleep (video game)"
+    },
+    {
+      "body": "${link_0} (video - soundtrack)",
+      "links": [
+        {
+          "body": "Tigger & Pooh and a Musical Too",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1415904",
+            "page": "http://www.imdb.com/find?q=tt1415904"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tigger & Pooh and a Musical Too (video - soundtrack)"
+    },
+    {
+      "body": "${link_0} (producer)",
+      "links": [
+        {
+          "body": "The Wrong Coast",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397848",
+            "page": "http://www.imdb.com/find?q=tt0397848"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Wrong Coast (producer)"
+    },
+    {
+      "body": "${link_0} (producer)",
+      "links": [
+        {
+          "body": "Watchers Reborn",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0129568",
+            "page": "http://www.imdb.com/find?q=tt0129568"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Watchers Reborn (producer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "X2 - Wolverine's Revenge",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0354226",
+            "page": "http://www.imdb.com/find?q=tt0354226"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "X2 - Wolverine's Revenge (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Yakuza",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0823193",
+            "page": "http://www.imdb.com/find?q=tt0823193"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Yakuza (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Zevo-3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1747905",
+            "page": "http://www.imdb.com/find?q=tt1747905"
+          }
+        }
+      ],
+      "section": [
+        "Mark Hamill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Zevo-3 (video game)"
+    },
+    {
       "body": "Hamill was raised in Oakland, California, the son of Virginia Suzanne (n\u00e9e Johnson) and William Thomas Hamill, who was a captain in the U.S. Navy. He was one of seven children, two brothers, Will and Patrick, and four sisters, Terry, Jan, Jeanie, and Kim. As a child, his father's career meant numerous relocations, and he graduated from Nile C. Kinnick High School in Japan. He majored in drama at Los Angeles City College.",
       "links": [],
+      "section": [
+        "Mark Hamill",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Hamill was raised in Oakland, California, the son of Virginia Suzanne (n\u00e9e Johnson) and William Thomas Hamill, who was a captain in the U.S. Navy. He was one of seven children, two brothers, Will and Patrick, and four sisters, Terry, Jan, Jeanie, and Kim. As a child, his father's career meant numerous relocations, and he graduated from Nile C. Kinnick High School in Japan. He majored in drama at Los Angeles City College."
     },
     {
       "body": "In 1978, he married dental hygienist Marilou York. They have three children together: Nathan, Griffin, and Chelsea. During the 1972 presidential race, Mark Hamill campaigned for candidate George McGovern. During the 2008 Democratic primary, Hamill spoke on behalf of Barack Obama.",
       "links": [],
+      "section": [
+        "Mark Hamill",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "In 1978, he married dental hygienist Marilou York. They have three children together: Nathan, Griffin, and Chelsea. During the 1972 presidential race, Mark Hamill campaigned for candidate George McGovern. During the 2008 Democratic primary, Hamill spoke on behalf of Barack Obama."
     },
     {
       "body": "After the success of Star Wars, Hamill found that audiences identified him very closely with the role of Luke Skywalker. He attempted to avoid typecasting by appearing in Corvette Summer and the World War II film The Big Red One. As the 1980s wore on, Hamill did little film work outside of Star Wars. Instead, he acted on Broadway, starring in Amadeus, The Elephant Man, for which he received a Drama Desk Award nomination, and other stage plays, for which he received positive reviews.",
       "links": [],
+      "section": [
+        "Mark Hamill",
+        "Biographical information",
+        "Career"
+      ],
       "text": "After the success of Star Wars, Hamill found that audiences identified him very closely with the role of Luke Skywalker. He attempted to avoid typecasting by appearing in Corvette Summer and the World War II film The Big Red One. As the 1980s wore on, Hamill did little film work outside of Star Wars. Instead, he acted on Broadway, starring in Amadeus, The Elephant Man, for which he received a Drama Desk Award nomination, and other stage plays, for which he received positive reviews."
     },
     {
       "body": "Hamill played the villainous Hawkins in the Swedish action movie Hamilton in 1998. Some of his other film credits include The Night the Lights Went Out in Georgia, Britannia Hospital, Slipstream, The Guyver, and the 1995 remake of Village of the Damned. In 1990, he played an escaped mental patient who terrorizes Michael Dudikoff and his wife in Midnight Ride. He also narrated The Sci-Fi Files, a four-part documentary about the influence of science fiction upon present society. In 2001, Hamill starred in the feature film Thank You, Good Night alongside Christian Campbell, J.P. Pitoc, and Sally Kirkland.",
       "links": [],
+      "section": [
+        "Mark Hamill",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Hamill played the villainous Hawkins in the Swedish action movie Hamilton in 1998. Some of his other film credits include The Night the Lights Went Out in Georgia, Britannia Hospital, Slipstream, The Guyver, and the 1995 remake of Village of the Damned. In 1990, he played an escaped mental patient who terrorizes Michael Dudikoff and his wife in Midnight Ride. He also narrated The Sci-Fi Files, a four-part documentary about the influence of science fiction upon present society. In 2001, Hamill starred in the feature film Thank You, Good Night alongside Christian Campbell, J.P. Pitoc, and Sally Kirkland."
     },
     {
       "body": "Mark Hamill has gained a reputation as a prolific voice actor, beginning with his acclaimed role as the Joker in Batman: The Animated Series (1992\u20131995), as well as most of the other spin-off series, video games and films. Hamill had initially played a guest voice-role as corrupt businessman Ferris Boyle in the episode \"Heart of Ice\" and was delighted when offered the role of the Joker, one of his favorite characters. The most prominent feature of his portrayal that has garnered such acclaim is his dynamic use of laughter to express the Joker's mood. Hamill referred to the Joker's laugh as being like a musical instrument and would practice laughing maniacally while driving to recording sessions, commenting that no one found this behavior strange in Los Angeles. Regarding his role as Fire Lord Ozai in Avatar: The Last Airbender, Hamill has said that he thought the script was so good that the show was sure to be cancelled, as the show seemed \"a little too deep, a little too intelligent for the kind of cartoon [he] was used to\". He was glad though that it found an audience and that parents would watch it with their kids.",
       "links": [],
+      "section": [
+        "Mark Hamill",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Mark Hamill has gained a reputation as a prolific voice actor, beginning with his acclaimed role as the Joker in Batman: The Animated Series (1992\u20131995), as well as most of the other spin-off series, video games and films. Hamill had initially played a guest voice-role as corrupt businessman Ferris Boyle in the episode \"Heart of Ice\" and was delighted when offered the role of the Joker, one of his favorite characters. The most prominent feature of his portrayal that has garnered such acclaim is his dynamic use of laughter to express the Joker's mood. Hamill referred to the Joker's laugh as being like a musical instrument and would practice laughing maniacally while driving to recording sessions, commenting that no one found this behavior strange in Los Angeles. Regarding his role as Fire Lord Ozai in Avatar: The Last Airbender, Hamill has said that he thought the script was so good that the show was sure to be cancelled, as the show seemed \"a little too deep, a little too intelligent for the kind of cartoon [he] was used to\". He was glad though that it found an audience and that parents would watch it with their kids."
     },
     {
@@ -140,12 +1278,90 @@
           "body": "Dark Horse Comics",
           "key": "${link_0}",
           "target": {
-            "href": "Dark_Horse_Comics",
+            "external": false,
+            "href": "/wiki/Dark_Horse_Comics",
             "page": "Dark_Horse_Comics"
           }
         }
       ],
+      "section": [
+        "Mark Hamill",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Hamill is the co-writer of The Black Pearl, a comic book miniseries published by Dark Horse Comics. He wrote an introduction to the Trade Paperback Batman: Riddler Two-Face which reprints various stories involving The Riddler and Two-Face to tie in with Batman Forever. He has also written several stories for Simpsons Comics, including Catastrophe in Substitute Springfields!, which parodies DC's Crisis on Infinite Earths and also references several other classic comics."
+    },
+    {
+      "body": "2012: Won a BAFTA Games Award for Batman: Arkham City (Performer)",
+      "links": [],
+      "section": [
+        "Mark Hamill",
+        "Awards"
+      ],
+      "text": "2012: Won a BAFTA Games Award for Batman: Arkham City (Performer)"
+    },
+    {
+      "body": "2010: Won an Interactive Achievement Award for Batman: Arkham Asylum (Outstanding Achievement in Character Performance)",
+      "links": [],
+      "section": [
+        "Mark Hamill",
+        "Awards"
+      ],
+      "text": "2010: Won an Interactive Achievement Award for Batman: Arkham Asylum (Outstanding Achievement in Character Performance)"
+    },
+    {
+      "body": "2005: Won a DVDX Award for Comic Book: The Movie (Best Live-Action DVD Premiere Movie)",
+      "links": [],
+      "section": [
+        "Mark Hamill",
+        "Awards"
+      ],
+      "text": "2005: Won a DVDX Award for Comic Book: The Movie (Best Live-Action DVD Premiere Movie)"
+    },
+    {
+      "body": "2001: Won a Video Premiere Award for Batman Beyond: Return of the Joker (Best Animated Character Performance)",
+      "links": [],
+      "section": [
+        "Mark Hamill",
+        "Awards"
+      ],
+      "text": "2001: Won a Video Premiere Award for Batman Beyond: Return of the Joker (Best Animated Character Performance)"
+    },
+    {
+      "body": "1984: Won a Saturn Award for Star Wars: Episode IV - Return of the Jedi (Best Actor)",
+      "links": [],
+      "section": [
+        "Mark Hamill",
+        "Awards"
+      ],
+      "text": "1984: Won a Saturn Award for Star Wars: Episode IV - Return of the Jedi (Best Actor)"
+    },
+    {
+      "body": "1981: Won a Saturn Award for Star Wars: Episode V - The Empire Strikes Back (Best Actor)",
+      "links": [],
+      "section": [
+        "Mark Hamill",
+        "Awards"
+      ],
+      "text": "1981: Won a Saturn Award for Star Wars: Episode V - The Empire Strikes Back (Best Actor)"
+    },
+    {
+      "body": "1978: Won a ShoWest Award (Male Star of Tomorrow)",
+      "links": [],
+      "section": [
+        "Mark Hamill",
+        "Awards"
+      ],
+      "text": "1978: Won a ShoWest Award (Male Star of Tomorrow)"
+    },
+    {
+      "body": "Reprints of Joseph Campbell's The Hero with a Thousand Faces, which influenced Lucas as he was developing the Star Wars films, issued after the release of Star Wars in 1977 used the image of Hamill as Luke Skywalker on the cover.",
+      "links": [],
+      "section": [
+        "Mark Hamill",
+        "Trivia"
+      ],
+      "text": "Reprints of Joseph Campbell's The Hero with a Thousand Faces, which influenced Lucas as he was developing the Star Wars films, issued after the release of Star Wars in 1977 used the image of Hamill as Luke Skywalker on the cover."
     }
   ],
   "source": {

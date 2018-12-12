@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Marshall Chronicles (1990)",
+          "body": "${link_0} (1990)",
           "extra": "(1990)",
           "extra_text": "(1990)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Marshall Chronicles",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0098857",
+                "page": "http://www.imdb.com/find?q=tt0098857"
+              }
+            }
+          ],
           "text": "The Marshall Chronicles (1990)",
-          "value": "The Marshall Chronicles",
+          "value": "${link_0}",
           "value_text": "The Marshall Chronicles"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0861944",
+                "page": "http://www.imdb.com/find?q=nm0861944"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Zachary_Throne",
+                "page": "http://en.wikipedia.org/wiki/Zachary_Throne"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,16 +124,621 @@
   ],
   "paragraphs": [
     {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Zuko Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "207. \"Zuko Alone\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "218. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_King",
+            "page": "The_Earth_King"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "218. \"The Earth King\""
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Beach",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Beach",
+            "page": "The_Beach"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "305. \"The Beach\""
+    },
+    {
+      "body": "314. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_1",
+            "page": "The_Boiling_Rock%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "314. \"The Boiling Rock, Part 1\""
+    },
+    {
+      "body": "315. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "315. \"The Boiling Rock, Part 2\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Beverly Hills, 90210",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098749",
+            "page": "http://www.imdb.com/find?q=tt0098749"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Beverly Hills, 90210"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "California Dreams",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103380",
+            "page": "http://www.imdb.com/find?q=tt0103380"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "California Dreams"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ER",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108757",
+            "page": "http://www.imdb.com/find?q=tt0108757"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ER"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "SpongeBob SquarePants",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0206512",
+            "page": "http://www.imdb.com/find?q=tt0206512"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "SpongeBob SquarePants"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Batman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398417",
+            "page": "http://www.imdb.com/find?q=tt0398417"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Batman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Heights",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103439",
+            "page": "http://www.imdb.com/find?q=tt0103439"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Heights"
+    },
+    {
+      "body": "${link_0} (2012; short)",
+      "links": [
+        {
+          "body": "Ambition Takes Wing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1528257",
+            "page": "http://www.imdb.com/find?q=tt1528257"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ambition Takes Wing (2012; short)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Forgiving Winona",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2248797",
+            "page": "http://www.imdb.com/find?q=tt2248797"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Forgiving Winona (2012)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "The Traveler",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1533084",
+            "page": "http://www.imdb.com/find?q=tt1533084"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Traveler (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Thaw",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1235448",
+            "page": "http://www.imdb.com/find?q=tt1235448"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Thaw (2009)"
+    },
+    {
+      "body": "${link_0} (2007; short)",
+      "links": [
+        {
+          "body": "Everyday Joe",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1126498",
+            "page": "http://www.imdb.com/find?q=tt1126498"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Everyday Joe (2007; short)"
+    },
+    {
+      "body": "${link_0} (2002; short)",
+      "links": [
+        {
+          "body": "64 Disks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0352126",
+            "page": "http://www.imdb.com/find?q=tt0352126"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "64 Disks (2002; short)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Soulmates",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120172",
+            "page": "http://www.imdb.com/find?q=tt0120172"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Soulmates (1997)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Suspicious Agenda",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111325",
+            "page": "http://www.imdb.com/find?q=tt0111325"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Suspicious Agenda (1996)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Deceptions II: Edge of Deception",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112838",
+            "page": "http://www.imdb.com/find?q=tt0112838"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Deceptions II: Edge of Deception (1995)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "A Very Brady Sequel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118073",
+            "page": "http://www.imdb.com/find?q=tt0118073"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "A Very Brady Sequel (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Beverly Hills, 90210",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098749",
+            "page": "http://www.imdb.com/find?q=tt0098749"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Beverly Hills, 90210 (writer)"
+    },
+    {
+      "body": "${link_0} (documentary - soundtrack musician)",
+      "links": [
+        {
+          "body": "Bush Family Fortunes: The Best Democracy Money Can Buy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0435612",
+            "page": "http://www.imdb.com/find?q=tt0435612"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Bush Family Fortunes: The Best Democracy Money Can Buy (documentary - soundtrack musician)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Flushed Away",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0876112",
+            "page": "http://www.imdb.com/find?q=tt0876112"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Flushed Away (video game)"
+    },
+    {
+      "body": "${link_0} (TV movie - soundtrack musician)",
+      "links": [
+        {
+          "body": "Lackawanna Blues",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0407936",
+            "page": "http://www.imdb.com/find?q=tt0407936"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lackawanna Blues (TV movie - soundtrack musician)"
+    },
+    {
+      "body": "${link_0} (soundtrack composer and performer)",
+      "links": [
+        {
+          "body": "On the Road in America",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0954760",
+            "page": "http://www.imdb.com/find?q=tt0954760"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "On the Road in America (soundtrack composer and performer)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "The Brady Bunch Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112572",
+            "page": "http://www.imdb.com/find?q=tt0112572"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Brady Bunch Movie (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "The Heights",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103439",
+            "page": "http://www.imdb.com/find?q=tt0103439"
+          }
+        }
+      ],
+      "section": [
+        "Zach Throne",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Heights (soundtrack performer)"
+    },
+    {
       "body": "Throne is a self-taught musician who plays guitar, bass, drums, and piano. He is the son of ${link_0} and the brother of Joshua Throne. He earned a gold record in 1992 for his work on the soundtrack to the television series The Heights, famous for the song \"How Do You Talk To An Angel\". He resides in Las Vegas, Nevada, and is the lead singer and lead guitar player for the Sin City Sinners, a group that also features former Faster Pussycat guitarist and co-founder Brent Muscat. In 2014, Throne joined the new wave group Bow Wow Wow as their touring lead guitar player.",
       "links": [
         {
           "body": "Malachi Throne",
           "key": "${link_0}",
           "target": {
-            "href": "Malachi_Throne",
+            "external": false,
+            "href": "/wiki/Malachi_Throne",
             "page": "Malachi_Throne"
           }
         }
+      ],
+      "section": [
+        "Zach Throne",
+        "Biographical information"
       ],
       "text": "Throne is a self-taught musician who plays guitar, bass, drums, and piano. He is the son of Malachi Throne and the brother of Joshua Throne. He earned a gold record in 1992 for his work on the soundtrack to the television series The Heights, famous for the song \"How Do You Talk To An Angel\". He resides in Las Vegas, Nevada, and is the lead singer and lead guitar player for the Sin City Sinners, a group that also features former Faster Pussycat guitarist and co-founder Brent Muscat. In 2014, Throne joined the new wave group Bow Wow Wow as their touring lead guitar player."
     }

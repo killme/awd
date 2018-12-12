@@ -3,35 +3,40 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Equipment",
       "target": {
-        "href": "Category_Equipment",
+        "external": false,
+        "href": "/wiki/Category_Equipment",
         "page": "Category_Equipment"
       }
     },
     {
       "body": "Military",
       "target": {
-        "href": "Category_Military",
+        "external": false,
+        "href": "/wiki/Category_Military",
         "page": "Category_Military"
       }
     },
     {
       "body": "Objects",
       "target": {
-        "href": "Category_Objects",
+        "external": false,
+        "href": "/wiki/Category_Objects",
         "page": "Category_Objects"
       }
     },
     {
       "body": "Water Tribes",
       "target": {
-        "href": "Category_Water_Tribes",
+        "external": false,
+        "href": "/wiki/Category_Water_Tribes",
         "page": "Category_Water_Tribes"
       }
     }
@@ -39,43 +44,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "${link_0} ${link_1} wore wolf armor as protection during the ${link_2}.",
-      "links": [
-        {
-          "body": "Southern Water Tribe",
-          "key": "${link_0}",
-          "target": {
-            "href": "Southern_Water_Tribe",
-            "page": "Southern_Water_Tribe"
-          }
-        },
-        {
-          "body": "warriors",
-          "key": "${link_1}",
-          "target": {
-            "href": "Military_of_the_Water_Tribe",
-            "page": "Military_of_the_Water_Tribe"
-          }
-        },
-        {
-          "body": "invasion of the Fire Nation",
-          "key": "${link_2}",
-          "target": {
-            "href": "Invasion_of_the_Fire_Nation",
-            "page": "Invasion_of_the_Fire_Nation"
-          }
-        }
-      ],
-      "text": "Southern Water Tribe warriors wore wolf armor as protection during the invasion of the Fire Nation."
-    },
-    {
       "body": "Water Tribe wolf armor is protective battle gear worn by the ${link_0} of the ${link_1}. Although the design of the armor varies slightly between individuals of different ranks, it is largely uniform, providing an aesthetic sense of unity during combat. In addition to providing protection, the design of the armor is meant to incite fear in enemy; the helmet in particular allows the charging warriors to resemble a pack of ${link_2}.",
       "links": [
         {
           "body": "warriors",
           "key": "${link_0}",
           "target": {
-            "href": "Military_of_the_Water_Tribe",
+            "external": false,
+            "href": "/wiki/Military_of_the_Water_Tribe",
             "page": "Military_of_the_Water_Tribe"
           }
         },
@@ -83,7 +59,8 @@
           "body": "Southern Water Tribe",
           "key": "${link_1}",
           "target": {
-            "href": "Southern_Water_Tribe",
+            "external": false,
+            "href": "/wiki/Southern_Water_Tribe",
             "page": "Southern_Water_Tribe"
           }
         },
@@ -91,42 +68,16 @@
           "body": "wolves",
           "key": "${link_2}",
           "target": {
-            "href": "Wolf",
+            "external": false,
+            "href": "/wiki/Wolf",
             "page": "Wolf"
           }
         }
       ],
-      "text": "Water Tribe wolf armor is protective battle gear worn by the warriors of the Southern Water Tribe. Although the design of the armor varies slightly between individuals of different ranks, it is largely uniform, providing an aesthetic sense of unity during combat. In addition to providing protection, the design of the armor is meant to incite fear in enemy; the helmet in particular allows the charging warriors to resemble a pack of wolves."
-    },
-    {
-      "body": "${link_0} stole the ${link_1} of the ${link_2}'s battle helmet.",
-      "links": [
-        {
-          "body": "Rafa",
-          "key": "${link_0}",
-          "target": {
-            "href": "Rafa_and_Misu",
-            "page": "Rafa_and_Misu"
-          }
-        },
-        {
-          "body": "Chief",
-          "key": "${link_1}",
-          "target": {
-            "href": "Tribal_chief",
-            "page": "Tribal_chief"
-          }
-        },
-        {
-          "body": "Northern Water Tribe",
-          "key": "${link_2}",
-          "target": {
-            "href": "Northern_Water_Tribe",
-            "page": "Northern_Water_Tribe"
-          }
-        }
+      "section": [
+        "Water Tribe wolf armor"
       ],
-      "text": "Rafa stole the Chief of the Northern Water Tribe's battle helmet."
+      "text": "Water Tribe wolf armor is protective battle gear worn by the warriors of the Southern Water Tribe. Although the design of the armor varies slightly between individuals of different ranks, it is largely uniform, providing an aesthetic sense of unity during combat. In addition to providing protection, the design of the armor is meant to incite fear in enemy; the helmet in particular allows the charging warriors to resemble a pack of wolves."
     },
     {
       "body": "Before losing his face to ${link_0}, ${link_1} often stole from the most powerful tribesmen in the ${link_2}, including the ${link_3}, from whom he stole a wolf helmet.",
@@ -135,7 +86,8 @@
           "body": "Koh",
           "key": "${link_0}",
           "target": {
-            "href": "Koh",
+            "external": false,
+            "href": "/wiki/Koh",
             "page": "Koh"
           }
         },
@@ -143,7 +95,8 @@
           "body": "Rafa",
           "key": "${link_1}",
           "target": {
-            "href": "Rafa_and_Misu",
+            "external": false,
+            "href": "/wiki/Rafa_and_Misu",
             "page": "Rafa_and_Misu"
           }
         },
@@ -151,7 +104,8 @@
           "body": "Northern Water Tribe",
           "key": "${link_2}",
           "target": {
-            "href": "Northern_Water_Tribe",
+            "external": false,
+            "href": "/wiki/Northern_Water_Tribe",
             "page": "Northern_Water_Tribe"
           }
         },
@@ -159,10 +113,15 @@
           "body": "tribal chief",
           "key": "${link_3}",
           "target": {
-            "href": "Tribal_chief",
+            "external": false,
+            "href": "/wiki/Tribal_chief",
             "page": "Tribal_chief"
           }
         }
+      ],
+      "section": [
+        "Water Tribe wolf armor",
+        "History"
       ],
       "text": "Before losing his face to Koh, Rafa often stole from the most powerful tribesmen in the Northern Water Tribe, including the tribal chief, from whom he stole a wolf helmet."
     },
@@ -173,7 +132,8 @@
           "body": "Day of Black Sun",
           "key": "${link_0}",
           "target": {
-            "href": "Day_of_Black_Sun",
+            "external": false,
+            "href": "/wiki/Day_of_Black_Sun",
             "page": "Day_of_Black_Sun"
           }
         },
@@ -181,7 +141,8 @@
           "body": "AG",
           "key": "${link_1}",
           "target": {
-            "href": "History_of_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/History_of_the_World_of_Avatar",
             "page": "History_of_the_World_of_Avatar"
           }
         },
@@ -189,7 +150,8 @@
           "body": "Hakoda",
           "key": "${link_2}",
           "target": {
-            "href": "Hakoda",
+            "external": false,
+            "href": "/wiki/Hakoda",
             "page": "Hakoda"
           }
         },
@@ -197,7 +159,8 @@
           "body": "Sokka",
           "key": "${link_3}",
           "target": {
-            "href": "Sokka",
+            "external": false,
+            "href": "/wiki/Sokka",
             "page": "Sokka"
           }
         },
@@ -205,7 +168,8 @@
           "body": "Bato",
           "key": "${link_4}",
           "target": {
-            "href": "Bato",
+            "external": false,
+            "href": "/wiki/Bato",
             "page": "Bato"
           }
         },
@@ -213,10 +177,15 @@
           "body": "invasion of the Fire Nation",
           "key": "${link_5}",
           "target": {
-            "href": "Invasion_of_the_Fire_Nation",
+            "external": false,
+            "href": "/wiki/Invasion_of_the_Fire_Nation",
             "page": "Invasion_of_the_Fire_Nation"
           }
         }
+      ],
+      "section": [
+        "Water Tribe wolf armor",
+        "History"
       ],
       "text": "During the Day of Black Sun in the summer of 100 AG,\u00a0the Southern Water Tribe warriors, including Hakoda, Sokka, and Bato, donned wolf armor during the invasion of the Fire Nation."
     },
@@ -227,7 +196,8 @@
           "body": "Team Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Team_Avatar",
+            "external": false,
+            "href": "/wiki/Team_Avatar",
             "page": "Team_Avatar"
           }
         },
@@ -235,7 +205,8 @@
           "body": "Ember Island",
           "key": "${link_1}",
           "target": {
-            "href": "Ember_Island",
+            "external": false,
+            "href": "/wiki/Ember_Island",
             "page": "Ember_Island"
           }
         },
@@ -243,7 +214,8 @@
           "body": "Fire Lord",
           "key": "${link_2}",
           "target": {
-            "href": "Fire_Lord",
+            "external": false,
+            "href": "/wiki/Fire_Lord",
             "page": "Fire_Lord"
           }
         },
@@ -251,10 +223,15 @@
           "body": "Ozai",
           "key": "${link_3}",
           "target": {
-            "href": "Ozai",
+            "external": false,
+            "href": "/wiki/Ozai",
             "page": "Ozai"
           }
         }
+      ],
+      "section": [
+        "Water Tribe wolf armor",
+        "History"
       ],
       "text": "Sokka wore the wolf armor once again while running tactical drills alongside the other members of Team Avatar while they were in Ember Island, in preparation for an upcoming confrontation with Fire Lord Ozai."
     },
@@ -265,7 +242,8 @@
           "body": "Sozin's Comet",
           "key": "${link_0}",
           "target": {
-            "href": "Sozin%27s_Comet",
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet",
             "page": "Sozin%27s_Comet"
           }
         },
@@ -273,7 +251,8 @@
           "body": "Fire Nation",
           "key": "${link_1}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         },
@@ -281,7 +260,8 @@
           "body": "airship fleet",
           "key": "${link_2}",
           "target": {
-            "href": "Ozai%27s_airship_base",
+            "external": false,
+            "href": "/wiki/Ozai%27s_airship_base",
             "page": "Ozai%27s_airship_base"
           }
         },
@@ -289,7 +269,8 @@
           "body": "Toph Beifong",
           "key": "${link_3}",
           "target": {
-            "href": "Toph_Beifong",
+            "external": false,
+            "href": "/wiki/Toph_Beifong",
             "page": "Toph_Beifong"
           }
         },
@@ -297,7 +278,8 @@
           "body": "Suki",
           "key": "${link_4}",
           "target": {
-            "href": "Suki",
+            "external": false,
+            "href": "/wiki/Suki",
             "page": "Suki"
           }
         },
@@ -305,7 +287,8 @@
           "body": "Earth Kingdom",
           "key": "${link_5}",
           "target": {
-            "href": "Earth_Kingdom",
+            "external": false,
+            "href": "/wiki/Earth_Kingdom",
             "page": "Earth_Kingdom"
           }
         },
@@ -313,10 +296,15 @@
           "body": "firebending",
           "key": "${link_6}",
           "target": {
-            "href": "Firebending",
+            "external": false,
+            "href": "/wiki/Firebending",
             "page": "Firebending"
           }
         }
+      ],
+      "section": [
+        "Water Tribe wolf armor",
+        "History"
       ],
       "text": "Upon the arrival of Sozin's Comet, Sokka wore the wolf armor when he set course to destroy the Fire Nation's airship fleet alongside Toph Beifong and Suki, in order to prevent Ozai from burning down the Earth Kingdom with the use of comet-enhanced firebending."
     },
@@ -327,7 +315,8 @@
           "body": "Southern Reconstruction Project",
           "key": "${link_0}",
           "target": {
-            "href": "Southern_Reconstruction_Project",
+            "external": false,
+            "href": "/wiki/Southern_Reconstruction_Project",
             "page": "Southern_Reconstruction_Project"
           }
         },
@@ -335,7 +324,8 @@
           "body": "Katara",
           "key": "${link_1}",
           "target": {
-            "href": "Katara",
+            "external": false,
+            "href": "/wiki/Katara",
             "page": "Katara"
           }
         },
@@ -343,7 +333,8 @@
           "body": "snow leopard caribou",
           "key": "${link_2}",
           "target": {
-            "href": "Snow_leopard_caribou",
+            "external": false,
+            "href": "/wiki/Snow_leopard_caribou",
             "page": "Snow_leopard_caribou"
           }
         },
@@ -351,35 +342,70 @@
           "body": "South Pole",
           "key": "${link_3}",
           "target": {
-            "href": "South_Pole",
+            "external": false,
+            "href": "/wiki/South_Pole",
             "page": "South_Pole"
           }
         }
       ],
-      "text": "In 102 AG, several warriors belonging to the group resisting the Southern Reconstruction Project donned the wolf armor and unsuccessfully attempted to prevent Katara and Sokka from leaving the hideaway. Two of these warriors mounted snow leopard caribou to pursue the siblings through the South Pole but were eventually bucked off their mounts after Sokka distracted the creatures with food."
-    },
-    {
-      "body": "Several features, including the distinct emblem on his chest that depicts three lunar phases, are specific to ${link_0}'s armor.",
-      "links": [
-        {
-          "body": "Hakoda",
-          "key": "${link_0}",
-          "target": {
-            "href": "Hakoda",
-            "page": "Hakoda"
-          }
-        }
+      "section": [
+        "Water Tribe wolf armor",
+        "History"
       ],
-      "text": "Several features, including the distinct emblem on his chest that depicts three lunar phases, are specific to Hakoda's armor."
+      "text": "In 102 AG, several warriors belonging to the group resisting the Southern Reconstruction Project donned the wolf armor and unsuccessfully attempted to prevent Katara and Sokka from leaving the hideaway. Two of these warriors mounted snow leopard caribou to pursue the siblings through the South Pole but were eventually bucked off their mounts after Sokka distracted the creatures with food."
     },
     {
       "body": "Water Tribe wolf armor is designed to incorporate multiple components and images that are central to Water Tribe culture:",
       "links": [],
+      "section": [
+        "Water Tribe wolf armor",
+        "Design"
+      ],
       "text": "Water Tribe wolf armor is designed to incorporate multiple components and images that are central to Water Tribe culture:"
+    },
+    {
+      "body": "Animal fur is used extensively as trimming for several components that make up the armor, including the helmet, chest plate, and the loincloth.",
+      "links": [],
+      "section": [
+        "Water Tribe wolf armor",
+        "Design"
+      ],
+      "text": "Animal fur is used extensively as trimming for several components that make up the armor, including the helmet, chest plate, and the loincloth."
+    },
+    {
+      "body": "Lunar motifs are woven into the fabric covering the shoulders as well as across the chest. The motif on Hakoda's chest plate bears a more complex emblem, depicting a crest with three lunar phases compared to the singular waning crescent on the chest plates of other warriors.",
+      "links": [],
+      "section": [
+        "Water Tribe wolf armor",
+        "Design"
+      ],
+      "text": "Lunar motifs are woven into the fabric covering the shoulders as well as across the chest. The motif on Hakoda's chest plate bears a more complex emblem, depicting a crest with three lunar phases compared to the singular waning crescent on the chest plates of other warriors."
+    },
+    {
+      "body": "The helmet is shaped like the head of a wolf, a creature held in respect by the Water Tribes. This helmet is typically light gray with animal pelt attached to the base, though Hakoda's helmet was navy blue with a fox tail attached to the top.\n This considerably more elaborate design is also present in the battle helmet used by the Chief of the Northern Water Tribe, although the pelt attached to the top comes from a different animal.",
+      "links": [],
+      "section": [
+        "Water Tribe wolf armor",
+        "Design"
+      ],
+      "text": "The helmet is shaped like the head of a wolf, a creature held in respect by the Water Tribes. This helmet is typically light gray with animal pelt attached to the base, though Hakoda's helmet was navy blue with a fox tail attached to the top.\n This considerably more elaborate design is also present in the battle helmet used by the Chief of the Northern Water Tribe, although the pelt attached to the top comes from a different animal."
+    },
+    {
+      "body": "This considerably more elaborate design is also present in the battle helmet used by the Chief of the Northern Water Tribe, although the pelt attached to the top comes from a different animal.",
+      "links": [],
+      "section": [
+        "Water Tribe wolf armor",
+        "Design"
+      ],
+      "text": "This considerably more elaborate design is also present in the battle helmet used by the Chief of the Northern Water Tribe, although the pelt attached to the top comes from a different animal."
     },
     {
       "body": "The armor is almost entirely navy blue in coloration, apart from the white trimming and several metal plates used to provide additional protection. Metal plates are used as shoulder guards, as well as support for the forearms and the feet. The warriors also have large, metal shields strapped to their left arms, which are reinforced by bone and also marked with a lunar crest.",
       "links": [],
+      "section": [
+        "Water Tribe wolf armor",
+        "Design"
+      ],
       "text": "The armor is almost entirely navy blue in coloration, apart from the white trimming and several metal plates used to provide additional protection. Metal plates are used as shoulder guards, as well as support for the forearms and the feet. The warriors also have large, metal shields strapped to their left arms, which are reinforced by bone and also marked with a lunar crest."
     },
     {
@@ -389,7 +415,8 @@
           "body": "weaponry",
           "key": "${link_0}",
           "target": {
-            "href": "Weaponry_in_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Weaponry_in_the_World_of_Avatar",
             "page": "Weaponry_in_the_World_of_Avatar"
           }
         },
@@ -397,12 +424,140 @@
           "body": "sword",
           "key": "${link_1}",
           "target": {
-            "href": "Sokka%27s_sword",
+            "external": false,
+            "href": "/wiki/Sokka%27s_sword",
             "page": "Sokka%27s_sword"
           }
         }
       ],
+      "section": [
+        "Water Tribe wolf armor",
+        "Design"
+      ],
       "text": "The armor is also designed to accommodate weaponry specific to each warrior. In Sokka's case, a scabbard is attached to the back as sheathing for his sword, which can tilt accordingly to accommodate the length of his blade. Hakoda, on the other hand, has a leather pouch clipped to his back through a series of pins, from which he draws a bone club."
+    },
+    {
+      "body": "The lunar crest on Hakoda's armor resembles the Neopagan symbol for the ${link_0}, which correlates the three stages of a woman's life to the three phases of the moon.",
+      "links": [
+        {
+          "body": "Triple Goddess",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Triple_Goddess_(Neopaganism)",
+            "page": "http://en.wikipedia.org/wiki/Triple_Goddess_(Neopaganism)"
+          }
+        }
+      ],
+      "section": [
+        "Water Tribe wolf armor",
+        "Trivia"
+      ],
+      "text": "The lunar crest on Hakoda's armor resembles the Neopagan symbol for the Triple Goddess, which correlates the three stages of a woman's life to the three phases of the moon."
+    },
+    {
+      "body": "The extensive use of pelt in the armor's design bears similarities to battle gear used by Roman ${link_0} soldiers, which also used wolf skin pelts draped over the head and chest.",
+      "links": [
+        {
+          "body": "Vexillarius",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Vexillarius",
+            "page": "http://en.wikipedia.org/wiki/Vexillarius"
+          }
+        }
+      ],
+      "section": [
+        "Water Tribe wolf armor",
+        "Trivia"
+      ],
+      "text": "The extensive use of pelt in the armor's design bears similarities to battle gear used by Roman Vexillarius soldiers, which also used wolf skin pelts draped over the head and chest."
+    },
+    {
+      "body": "The design for both the Water Tribe wolf armor and ${link_0} came from unused toy sketch submissions that ${link_1} drew for the consumer products department.",
+      "links": [
+        {
+          "body": "Appa's armor",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_armor",
+            "page": "Appa%27s_armor"
+          }
+        },
+        {
+          "body": "Bryan Konietzko",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bryan_Konietzko",
+            "page": "Bryan_Konietzko"
+          }
+        }
+      ],
+      "section": [
+        "Water Tribe wolf armor",
+        "Trivia"
+      ],
+      "text": "The design for both the Water Tribe wolf armor and Appa's armor came from unused toy sketch submissions that Bryan Konietzko drew for the consumer products department."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Appa's armor",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_armor",
+            "page": "Appa%27s_armor"
+          }
+        }
+      ],
+      "section": [
+        "Water Tribe wolf armor",
+        "See also"
+      ],
+      "text": "Appa's armor"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Military of the Water Tribe",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Military_of_the_Water_Tribe",
+            "page": "Military_of_the_Water_Tribe"
+          }
+        }
+      ],
+      "section": [
+        "Water Tribe wolf armor",
+        "See also"
+      ],
+      "text": "Military of the Water Tribe"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Royal armor",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Royal_armor",
+            "page": "Royal_armor"
+          }
+        }
+      ],
+      "section": [
+        "Water Tribe wolf armor",
+        "See also"
+      ],
+      "text": "Royal armor"
     }
   ],
   "source": {

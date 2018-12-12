@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Grand Theft Auto: Vice City Stories (2006; video game)",
+          "body": "${link_0} (2006; video game)",
           "extra": "(2006; video game)",
           "extra_text": "(2006; video game)",
-          "links": [],
+          "links": [
+            {
+              "body": "Grand Theft Auto: Vice City Stories",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0815168",
+                "page": "http://www.imdb.com/find?q=tt0815168"
+              }
+            }
+          ],
           "text": "Grand Theft Auto: Vice City Stories (2006; video game)",
-          "value": "Grand Theft Auto: Vice City Stories",
+          "value": "${link_0}",
           "value_text": "Grand Theft Auto: Vice City Stories"
         }
       ]
@@ -41,12 +54,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2444270",
+                "page": "http://www.imdb.com/find?q=nm2444270"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -54,8 +77,232 @@
   ],
   "paragraphs": [
     {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Zuko Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Jen Cohn",
+        "Avatar: The Last Airbender credits",
+        "Ursa"
+      ],
+      "text": "207. \"Zuko Alone\""
+    },
+    {
+      "body": "218. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_King",
+            "page": "The_Earth_King"
+          }
+        }
+      ],
+      "section": [
+        "Jen Cohn",
+        "Avatar: The Last Airbender credits",
+        "Ursa"
+      ],
+      "text": "218. \"The Earth King\""
+    },
+    {
+      "body": "320. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 3: Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_3__Into_the_Inferno",
+            "page": "Sozin%27s_Comet%2c_Part_3__Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Jen Cohn",
+        "Avatar: The Last Airbender credits",
+        "Ursa"
+      ],
+      "text": "320. \"Sozin's Comet, Part 3: Into the Inferno\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Assy McGee",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0795065",
+            "page": "http://www.imdb.com/find?q=tt0795065"
+          }
+        }
+      ],
+      "section": [
+        "Jen Cohn",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Assy McGee"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "WordGirl",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1128052",
+            "page": "http://www.imdb.com/find?q=tt1128052"
+          }
+        }
+      ],
+      "section": [
+        "Jen Cohn",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "WordGirl"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "The Wrestler",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1125849",
+            "page": "http://www.imdb.com/find?q=tt1125849"
+          }
+        }
+      ],
+      "section": [
+        "Jen Cohn",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wrestler (2008)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "The Onion Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0392878",
+            "page": "http://www.imdb.com/find?q=tt0392878"
+          }
+        }
+      ],
+      "section": [
+        "Jen Cohn",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Onion Movie (2008)"
+    },
+    {
+      "body": "${link_0} (executive producer)",
+      "links": [
+        {
+          "body": "Big Fan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1228953",
+            "page": "http://www.imdb.com/find?q=tt1228953"
+          }
+        }
+      ],
+      "section": [
+        "Jen Cohn",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Big Fan (executive producer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Grand Theft Auto: Vice City Stories",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0815168",
+            "page": "http://www.imdb.com/find?q=tt0815168"
+          }
+        }
+      ],
+      "section": [
+        "Jen Cohn",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Grand Theft Auto: Vice City Stories (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Grand Theft Auto IV: The Ballad of Gay Tony",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1450324",
+            "page": "http://www.imdb.com/find?q=tt1450324"
+          }
+        }
+      ],
+      "section": [
+        "Jen Cohn",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Grand Theft Auto IV: The Ballad of Gay Tony (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Red Dead Redemption",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1479962",
+            "page": "http://www.imdb.com/find?q=tt1479962"
+          }
+        }
+      ],
+      "section": [
+        "Jen Cohn",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Red Dead Redemption (video game)"
+    },
+    {
       "body": "Cohn has been married to film director Robert Siegel since 2004, and she gave birth to a son, Mickey Sender Siegel, on June 4, 2008.",
       "links": [],
+      "section": [
+        "Jen Cohn",
+        "Biographical information"
+      ],
       "text": "Cohn has been married to film director Robert Siegel since 2004, and she gave birth to a son, Mickey Sender Siegel, on June 4, 2008."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,21 +30,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://fredericstewart.blogspot.com/",
+                "page": "http://fredericstewart.blogspot.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://fredericstewart.tumblr.com/",
+                "page": "http://fredericstewart.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         }
       ]
@@ -55,7 +78,8 @@
           "body": "Avatar: The Last Airbender",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         },
@@ -63,12 +87,26 @@
           "body": "The Legend of Korra\u2014The Art of the Animated Series, Book One: Air",
           "key": "${link_1}",
           "target": {
-            "href": "The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_One__Air",
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_One__Air",
             "page": "The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_One__Air"
           }
         }
       ],
+      "section": [
+        "Fred Stewart",
+        "Biographical information"
+      ],
       "text": "Stewart was hired to work on the series as a background painter right after graduating college. Unlike fellow background painter Emily Tetri, who was a big fan of the Avatar series, he did not know the franchise until he got the background test for Korra. He rented the season one box set of Avatar: The Last Airbender, ended up watching all three books in less than a week, and has been a fan since. He also painted the background for The Legend of Korra\u2014The Art of the Animated Series, Book One: Air."
+    },
+    {
+      "body": "2014: Won an Annie Award for The Legend of Korra (Production Design in an Animated TV/Broadcast Production)",
+      "links": [],
+      "section": [
+        "Fred Stewart",
+        "Awards"
+      ],
+      "text": "2014: Won an Annie Award for The Legend of Korra (Production Design in an Animated TV/Broadcast Production)"
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Hawaii Five-O (1968)",
+          "body": "${link_0} (1968)",
           "extra": "(1968)",
           "extra_text": "(1968)",
-          "links": [],
+          "links": [
+            {
+              "body": "Hawaii Five-O",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0062568",
+                "page": "http://www.imdb.com/find?q=tt0062568"
+              }
+            }
+          ],
           "text": "Hawaii Five-O (1968)",
-          "value": "Hawaii Five-O",
+          "value": "${link_0}",
           "value_text": "Hawaii Five-O"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0453641",
+                "page": "http://www.imdb.com/find?q=nm0453641"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Randall_Duk_Kim",
+                "page": "http://en.wikipedia.org/wiki/Randall_Duk_Kim"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Randall-Duk-Kim/113196242027999",
+                "page": "https://www.facebook.com/pages/Randall-Duk-Kim/113196242027999"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.randalldukkim.com/",
+                "page": "http://www.randalldukkim.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -95,8 +148,332 @@
   ],
   "paragraphs": [
     {
-      "body": "Kim has spent most of his career in theater. He was a co-founder of the American Players Theatre in Spring Green, Wisconsin, and became one of the first Asian-American actors to play a leading role in an American production of a Shakespeare play when he played the title role in The New York Public Theater's 1974 production of Pericles, Prince of Tyre.",
+      "body": "Pericles, Prince of Tyre (1974, New York Public Theater) - Pericles",
       "links": [],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Theater"
+      ],
+      "text": "Pericles, Prince of Tyre (1974, New York Public Theater) - Pericles"
+    },
+    {
+      "body": "Hamlet (1978-79, Guthrie Theater) - Hamlet",
+      "links": [],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Theater"
+      ],
+      "text": "Hamlet (1978-79, Guthrie Theater) - Hamlet"
+    },
+    {
+      "body": "The King and I (1996 Broadway revival) - The Kralahome",
+      "links": [],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Theater"
+      ],
+      "text": "The King and I (1996 Broadway revival) - The Kralahome"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "100 Centre Street",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0260596",
+            "page": "http://www.imdb.com/find?q=tt0260596"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "100 Centre Street"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cashmere Mafia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0938567",
+            "page": "http://www.imdb.com/find?q=tt0938567"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Cashmere Mafia"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Fringe",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1119644",
+            "page": "http://www.imdb.com/find?q=tt1119644"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fringe"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kung Fu Panda: Legends of Awesomeness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545214",
+            "page": "http://www.imdb.com/find?q=tt1545214"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kung Fu Panda: Legends of Awesomeness"
+    },
+    {
+      "body": "${link_0} (TV short)",
+      "links": [
+        {
+          "body": "MTV: Reloaded",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0809516",
+            "page": "http://www.imdb.com/find?q=tt0809516"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "MTV: Reloaded (TV short)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Nourish the Beast",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0349898",
+            "page": "http://www.imdb.com/find?q=tt0349898"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Nourish the Beast (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Thief",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0454753",
+            "page": "http://www.imdb.com/find?q=tt0454753"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Thief"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Lost Empire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0198779",
+            "page": "http://www.imdb.com/find?q=tt0198779"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Lost Empire (TV movie)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Kung Fu Panda",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0441773",
+            "page": "http://www.imdb.com/find?q=tt0441773"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kung Fu Panda (2008)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Memoirs of a Geisha",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397535",
+            "page": "http://www.imdb.com/find?q=tt0397535"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Memoirs of a Geisha (2005)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "The Matrix Reloaded",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0234215",
+            "page": "http://www.imdb.com/find?q=tt0234215"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Matrix Reloaded (2003)"
+    },
+    {
+      "body": "${link_0} (1998, uncredited)",
+      "links": [
+        {
+          "body": "The Thin Red Line",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120863",
+            "page": "http://www.imdb.com/find?q=tt0120863"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Thin Red Line (1998, uncredited)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Enter the Matrix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0277828",
+            "page": "http://www.imdb.com/find?q=tt0277828"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Enter the Matrix (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Red Ninja: End of Honor",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462712",
+            "page": "http://www.imdb.com/find?q=tt0462712"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Red Ninja: End of Honor (video game)"
+    },
+    {
+      "body": "Kim has spent most of his career in theater. He was a co-founder of the American Players Theatre in Spring Green, Wisconsin, and became one of the first Asian-American actors to play a leading role in an American production of a Shakespeare play when he played the title role in The New York Public Theater's 1974 production of ${link_0}.",
+      "links": [
+        {
+          "body": "Pericles, Prince of Tyre",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Pericles,_Prince_of_Tyre",
+            "page": "http://en.wikipedia.org/wiki/Pericles,_Prince_of_Tyre"
+          }
+        }
+      ],
+      "section": [
+        "Randall Duk Kim",
+        "Biographical information"
+      ],
       "text": "Kim has spent most of his career in theater. He was a co-founder of the American Players Theatre in Spring Green, Wisconsin, and became one of the first Asian-American actors to play a leading role in an American production of a Shakespeare play when he played the title role in The New York Public Theater's 1974 production of Pericles, Prince of Tyre."
     }
   ],

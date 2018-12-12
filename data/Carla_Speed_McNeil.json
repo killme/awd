@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,39 +44,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Carla_Speed_McNeil",
+                "page": "http://en.wikipedia.org/wiki/Carla_Speed_McNeil"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Comic Book Database",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Comic Book Database",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://comicbookdb.com/creator.php?ID=2069",
+                "page": "http://comicbookdb.com/creator.php?ID=2069"
+              }
+            }
+          ],
           "text": "Comic Book Database",
-          "value": "Comic Book Database",
+          "value": "${link_0}",
           "value_text": "Comic Book Database"
         },
         {
-          "body": "Grand Comics Database",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Grand Comics Database",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.comics.org/credit/name/Carla Speed McNeil/sort/chrono/",
+                "page": "http://www.comics.org/credit/name/Carla Speed McNeil/sort/chrono/"
+              }
+            }
+          ],
           "text": "Grand Comics Database",
-          "value": "Grand Comics Database",
+          "value": "${link_0}",
           "value_text": "Grand Comics Database"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.lightspeedpress.com/",
+                "page": "http://www.lightspeedpress.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -81,14 +124,162 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #40. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sisters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sisters",
+            "page": "Sisters"
+          }
+        }
+      ],
+      "section": [
+        "Carla Speed McNeil",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #40. \"Sisters\""
+    },
+    {
+      "body": "${link_0} (webcomic)",
+      "links": [
+        {
+          "body": "Finder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Finder_(comics)",
+            "page": "http://en.wikipedia.org/wiki/Finder_(comics)"
+          }
+        }
+      ],
+      "section": [
+        "Carla Speed McNeil",
+        "Selected other credits"
+      ],
+      "text": "Finder (webcomic)"
+    },
+    {
+      "body": "${link_0} (graphic novel)",
+      "links": [
+        {
+          "body": "Queen & Country",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Queen_%26_Country",
+            "page": "http://en.wikipedia.org/wiki/Queen_%26_Country"
+          }
+        }
+      ],
+      "section": [
+        "Carla Speed McNeil",
+        "Selected other credits"
+      ],
+      "text": "Queen & Country (graphic novel)"
+    },
+    {
+      "body": "Smut Peddler (graphic novel)",
+      "links": [],
+      "section": [
+        "Carla Speed McNeil",
+        "Selected other credits"
+      ],
+      "text": "Smut Peddler (graphic novel)"
+    },
+    {
+      "body": "${link_0} (graphic novel)",
+      "links": [
+        {
+          "body": "The Merchant of Death",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/The_Merchant_of_Death",
+            "page": "http://en.wikipedia.org/wiki/The_Merchant_of_Death"
+          }
+        }
+      ],
+      "section": [
+        "Carla Speed McNeil",
+        "Selected other credits"
+      ],
+      "text": "The Merchant of Death (graphic novel)"
+    },
+    {
       "body": "McNeil was born in Hammond, Louisiana. She made her foray into comic publishing with Finder in 1996, which was later made available as a webcomic in 2005.",
       "links": [],
+      "section": [
+        "Carla Speed McNeil",
+        "Biographical information"
+      ],
       "text": "McNeil was born in Hammond, Louisiana. She made her foray into comic publishing with Finder in 1996, which was later made available as a webcomic in 2005."
     },
     {
       "body": "McNeil has written and illustrated comics for anthologies including Dignifying Science and Smut Peddler. She also worked as an illustrator on the Oni Press series Queen & Country in 2003 and provided a two-page guest-illustrator spot for Transmetropolitan: Filth of the City. She is editor-in-chief and print manager of Saucy Goose Press, which produces Smut Peddler and other related projects. Her adaptation of D. J. MacHale's first Pendragon book, The Merchant of Death, was released on May 20, 2008.",
       "links": [],
+      "section": [
+        "Carla Speed McNeil",
+        "Biographical information"
+      ],
       "text": "McNeil has written and illustrated comics for anthologies including Dignifying Science and Smut Peddler. She also worked as an illustrator on the Oni Press series Queen & Country in 2003 and provided a two-page guest-illustrator spot for Transmetropolitan: Filth of the City. She is editor-in-chief and print manager of Saucy Goose Press, which produces Smut Peddler and other related projects. Her adaptation of D. J. MacHale's first Pendragon book, The Merchant of Death, was released on May 20, 2008."
+    },
+    {
+      "body": "2011: Won the Los Angeles Times Book Prize (Graphic Novel) for Finder: Voice",
+      "links": [],
+      "section": [
+        "Carla Speed McNeil",
+        "Awards"
+      ],
+      "text": "2011: Won the Los Angeles Times Book Prize (Graphic Novel) for Finder: Voice"
+    },
+    {
+      "body": "2009: Won the Eisner Award for Best Webcomic for Finder",
+      "links": [],
+      "section": [
+        "Carla Speed McNeil",
+        "Awards"
+      ],
+      "text": "2009: Won the Eisner Award for Best Webcomic for Finder"
+    },
+    {
+      "body": "2005: Won the Ignatz Award for Outstanding Series for Finder",
+      "links": [],
+      "section": [
+        "Carla Speed McNeil",
+        "Awards"
+      ],
+      "text": "2005: Won the Ignatz Award for Outstanding Series for Finder"
+    },
+    {
+      "body": "2004: Won the Ignatz Award for Outstanding Series for Finder",
+      "links": [],
+      "section": [
+        "Carla Speed McNeil",
+        "Awards"
+      ],
+      "text": "2004: Won the Ignatz Award for Outstanding Series for Finder"
+    },
+    {
+      "body": "1998: Won the Ignatz Award for Promising New Talent",
+      "links": [],
+      "section": [
+        "Carla Speed McNeil",
+        "Awards"
+      ],
+      "text": "1998: Won the Ignatz Award for Promising New Talent"
+    },
+    {
+      "body": "1997: Won the Lulu Awards' Kimberly Yale Award for Best New Talent for Finder and Shanda the Panda",
+      "links": [],
+      "section": [
+        "Carla Speed McNeil",
+        "Awards"
+      ],
+      "text": "1997: Won the Lulu Awards' Kimberly Yale Award for Best New Talent for Finder and Shanda the Panda"
     }
   ],
   "source": {

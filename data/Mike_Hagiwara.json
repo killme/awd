@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Vietnam, Texas (1990)",
+          "body": "${link_0} (1990)",
           "extra": "(1990)",
           "extra_text": "(1990)",
-          "links": [],
+          "links": [
+            {
+              "body": "Vietnam, Texas",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0100871",
+                "page": "http://www.imdb.com/find?q=tt0100871"
+              }
+            }
+          ],
           "text": "Vietnam, Texas (1990)",
-          "value": "Vietnam, Texas",
+          "value": "${link_0}",
           "value_text": "Vietnam, Texas"
         }
       ]
@@ -55,18 +68,378 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2672015",
+                "page": "http://www.imdb.com/find?q=nm2672015"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Winter Solstice, Part 1: The Spirit World",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Winter_Solstice%2c_Part_1__The_Spirit_World",
+            "page": "Winter_Solstice%2c_Part_1__The_Spirit_World"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Avatar: The Last Airbender credits",
+        "Senlin Village leader"
+      ],
+      "text": "107. \"Winter Solstice, Part 1: The Spirit World\""
+    },
+    {
+      "body": "108. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Winter Solstice, Part 2: Avatar Roku",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Winter_Solstice%2c_Part_2__Avatar_Roku",
+            "page": "Winter_Solstice%2c_Part_2__Avatar_Roku"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Avatar: The Last Airbender credits",
+        "Senlin Village leader"
+      ],
+      "text": "108. \"Winter Solstice, Part 2: Avatar Roku\""
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Redrum",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0815230",
+            "page": "http://www.imdb.com/find?q=tt0815230"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Redrum (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Redline",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0780595",
+            "page": "http://www.imdb.com/find?q=tt0780595"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Redline (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Only the Brave",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0410403",
+            "page": "http://www.imdb.com/find?q=tt0410403"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Only the Brave (2006)"
+    },
+    {
+      "body": "${link_0} (2004; video)",
+      "links": [
+        {
+          "body": "Prehysteria! 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110885",
+            "page": "http://www.imdb.com/find?q=tt0110885"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Prehysteria! 2 (2004; video)"
+    },
+    {
+      "body": "${link_0} (2003; short)",
+      "links": [
+        {
+          "body": "Day of Independence",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0327949",
+            "page": "http://www.imdb.com/find?q=tt0327949"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Day of Independence (2003; short)"
+    },
+    {
+      "body": "${link_0} (2002; video)",
+      "links": [
+        {
+          "body": "Would I Lie to You?",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0295697",
+            "page": "http://www.imdb.com/find?q=tt0295697"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Would I Lie to You? (2002; video)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Jimmy Neutron: Boy Genius",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0268397",
+            "page": "http://www.imdb.com/find?q=tt0268397"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Jimmy Neutron: Boy Genius (2001)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Blast from the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0124298",
+            "page": "http://www.imdb.com/find?q=tt0124298"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Blast from the Past (1999)"
+    },
+    {
+      "body": "${link_0} (1996; video)",
+      "links": [
+        {
+          "body": "Josh Kirby... Time Warrior: Chapter 5, Journey to the Magic Cacern",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0113488",
+            "page": "http://www.imdb.com/find?q=tt0113488"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Josh Kirby... Time Warrior: Chapter 5, Journey to the Magic Cacern (1996; video)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "New Nightmare",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111686",
+            "page": "http://www.imdb.com/find?q=tt0111686"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "New Nightmare (1994)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Vietnam, Texas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0100871",
+            "page": "http://www.imdb.com/find?q=tt0100871"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Vietnam, Texas (1990)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Jumper",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1143900",
+            "page": "http://www.imdb.com/find?q=tt1143900"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Jumper (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel: Ultimate Alliance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0814207",
+            "page": "http://www.imdb.com/find?q=tt0814207"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel: Ultimate Alliance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tomb Raider VII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0483822",
+            "page": "http://www.imdb.com/find?q=tt0483822"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tomb Raider VII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Uncharted: Drake's Fortune",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1000777",
+            "page": "http://www.imdb.com/find?q=tt1000777"
+          }
+        }
+      ],
+      "section": [
+        "Mike Hagiwara",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Uncharted: Drake's Fortune (video game)"
+    },
+    {
+      "body": "2011: Won the East West Player's Founders Award",
+      "links": [],
+      "section": [
+        "Mike Hagiwara",
+        "Awards"
+      ],
+      "text": "2011: Won the East West Player's Founders Award"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Mike_Hagiwara",
     "file": "avatar.wikia.com/wiki/Mike_Hagiwara.html",

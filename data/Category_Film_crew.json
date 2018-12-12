@@ -3,14 +3,16 @@
     {
       "body": "Films",
       "target": {
-        "href": "Category_Films",
+        "external": false,
+        "href": "/wiki/Category_Films",
         "page": "Category_Films"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -24,17 +26,54 @@
           "body": "The Last Airbender",
           "key": "${link_0}",
           "target": {
-            "href": "Film_The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender",
             "page": "Film_The_Last_Airbender"
           }
         }
       ],
+      "section": [
+        "Category:Film crew"
+      ],
       "text": "This category contains all  pages for production crew on The Last Airbender."
     },
     {
-      "body": "All items (2)",
-      "links": [],
-      "text": "All items (2)"
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Category:Film actors",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Category_Film_actors",
+            "page": "Category_Film_actors"
+          }
+        }
+      ],
+      "section": [
+        "Category:Film crew",
+        "F"
+      ],
+      "text": "Category:Film actors"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Category:Film staff",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Category_Film_staff",
+            "page": "Category_Film_staff"
+          }
+        }
+      ],
+      "section": [
+        "Category:Film crew",
+        "F"
+      ],
+      "text": "Category:Film staff"
     }
   ],
   "source": {

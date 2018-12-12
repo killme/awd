@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Air (2004; short)",
+          "body": "${link_0} (2004; short)",
           "extra": "(2004; short)",
           "extra_text": "(2004; short)",
-          "links": [],
+          "links": [
+            {
+              "body": "Air",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0426875",
+                "page": "http://www.imdb.com/find?q=tt0426875"
+              }
+            }
+          ],
           "text": "Air (2004; short)",
-          "value": "Air",
+          "value": "${link_0}",
           "value_text": "Air"
         }
       ]
@@ -41,27 +54,228 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1740957",
+                "page": "http://www.imdb.com/find?q=nm1740957"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.theechrishill.com/home",
+                "page": "http://www.theechrishill.com/home"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Breath of Fresh Air",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Breath_of_Fresh_Air",
+            "page": "A_Breath_of_Fresh_Air"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hill",
+        "The Legend of Korra credits",
+        "Fruithog"
+      ],
+      "text": "301. \"A Breath of Fresh Air\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Breath of Fresh Air",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Breath_of_Fresh_Air",
+            "page": "A_Breath_of_Fresh_Air"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hill",
+        "The Legend of Korra credits",
+        "Reporter #2"
+      ],
+      "text": "301. \"A Breath of Fresh Air\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Breath of Fresh Air",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Breath_of_Fresh_Air",
+            "page": "A_Breath_of_Fresh_Air"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hill",
+        "The Legend of Korra credits",
+        "Shopkeeper"
+      ],
+      "text": "301. \"A Breath of Fresh Air\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Oh the Humanity!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3762368",
+            "page": "http://www.imdb.com/find?q=tt3762368"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hill",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Oh the Humanity!"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "The Dark Knight Rises",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1345836",
+            "page": "http://www.imdb.com/find?q=tt1345836"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Dark Knight Rises (2012)"
+    },
+    {
+      "body": "${link_0} (2007; short)",
+      "links": [
+        {
+          "body": "The Big Production",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1148164",
+            "page": "http://www.imdb.com/find?q=tt1148164"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Big Production (2007; short)"
+    },
+    {
+      "body": "${link_0} (2004; short)",
+      "links": [
+        {
+          "body": "Elder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428486",
+            "page": "http://www.imdb.com/find?q=tt0428486"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Elder (2004; short)"
+    },
+    {
+      "body": "${link_0} (2004; short)",
+      "links": [
+        {
+          "body": "Jack the Snipper",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428695",
+            "page": "http://www.imdb.com/find?q=tt0428695"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hill",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Jack the Snipper (2004; short)"
+    },
+    {
+      "body": "${link_0} (casting director, producer, and writer)",
+      "links": [
+        {
+          "body": "Oh the Humanity!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3762368",
+            "page": "http://www.imdb.com/find?q=tt3762368"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Oh the Humanity! (casting director, producer, and writer)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Chris_Hill",
     "file": "avatar.wikia.com/wiki/Chris_Hill.html",

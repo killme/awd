@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Earth Kingdom",
       "target": {
-        "href": "Category_Earth_Kingdom",
+        "external": false,
+        "href": "/wiki/Category_Earth_Kingdom",
         "page": "Category_Earth_Kingdom"
       }
     },
     {
       "body": "Objects",
       "target": {
-        "href": "Category_Objects",
+        "external": false,
+        "href": "/wiki/Category_Objects",
         "page": "Category_Objects"
       }
     }
@@ -25,38 +28,20 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "The constellations on the star chart aided in ${link_0}'s navigation of the ${link_1}.",
-      "links": [
-        {
-          "body": "Team Avatar",
-          "key": "${link_0}",
-          "target": {
-            "href": "Team_Avatar",
-            "page": "Team_Avatar"
-          }
-        },
-        {
-          "body": "Si Wong Desert",
-          "key": "${link_1}",
-          "target": {
-            "href": "Si_Wong_Desert",
-            "page": "Si_Wong_Desert"
-          }
-        }
-      ],
-      "text": "The constellations on the star chart aided in Team Avatar's navigation of the Si Wong Desert."
-    },
-    {
       "body": "The star chart was a map of stars and constellations found within ${link_0}.",
       "links": [
         {
           "body": "Wan Shi Tong's Library",
           "key": "${link_0}",
           "target": {
-            "href": "Wan_Shi_Tong%27s_Library",
+            "external": false,
+            "href": "/wiki/Wan_Shi_Tong%27s_Library",
             "page": "Wan_Shi_Tong%27s_Library"
           }
         }
+      ],
+      "section": [
+        "Star chart"
       ],
       "text": "The star chart was a map of stars and constellations found within Wan Shi Tong's Library."
     },
@@ -67,7 +52,8 @@
           "body": "Team Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Team_Avatar",
+            "external": false,
+            "href": "/wiki/Team_Avatar",
             "page": "Team_Avatar"
           }
         },
@@ -75,7 +61,8 @@
           "body": "Wan Shi Tong",
           "key": "${link_1}",
           "target": {
-            "href": "Wan_Shi_Tong",
+            "external": false,
+            "href": "/wiki/Wan_Shi_Tong",
             "page": "Wan_Shi_Tong"
           }
         },
@@ -83,10 +70,15 @@
           "body": "AG",
           "key": "${link_2}",
           "target": {
-            "href": "History_of_the_World_of_Avatar#Dates",
+            "external": false,
+            "href": "/wiki/History_of_the_World_of_Avatar#Dates",
             "page": "History_of_the_World_of_Avatar"
           }
         }
+      ],
+      "section": [
+        "Star chart",
+        "History"
       ],
       "text": "During Team Avatar's exploration of Wan Shi Tong's Library in 100 AG, Sokka pocketed many books and scrolls he found interesting or potentially useful, including a map and the star chart."
     },
@@ -97,7 +89,8 @@
           "body": "Appa",
           "key": "${link_0}",
           "target": {
-            "href": "Appa",
+            "external": false,
+            "href": "/wiki/Appa",
             "page": "Appa"
           }
         },
@@ -105,7 +98,8 @@
           "body": "Si Wong Desert",
           "key": "${link_1}",
           "target": {
-            "href": "Si_Wong_Desert",
+            "external": false,
+            "href": "/wiki/Si_Wong_Desert",
             "page": "Si_Wong_Desert"
           }
         },
@@ -113,12 +107,74 @@
           "body": "Katara",
           "key": "${link_2}",
           "target": {
-            "href": "Katara",
+            "external": false,
+            "href": "/wiki/Katara",
             "page": "Katara"
           }
         }
       ],
+      "section": [
+        "Star chart",
+        "History"
+      ],
       "text": "After escaping from the library and losing Appa, the scroll proved useful in guiding the group through the Si Wong Desert at night. As the desert had no known landmarks nearby, Katara used the star chart to navigate them through the barren landscape."
+    },
+    {
+      "body": "The constellations shown on the star chart closely resemble the northern constellations of Earth, with the equivalent of Earth's North Star centered on the chart, presumably allowing those who use it to find true north when in the Northern Hemisphere of the ${link_0}.",
+      "links": [
+        {
+          "body": "Avatar World",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Earth",
+            "page": "Earth"
+          }
+        }
+      ],
+      "section": [
+        "Star chart",
+        "Trivia"
+      ],
+      "text": "The constellations shown on the star chart closely resemble the northern constellations of Earth, with the equivalent of Earth's North Star centered on the chart, presumably allowing those who use it to find true north when in the Northern Hemisphere of the Avatar World."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Astronomy in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Astronomy_in_the_World_of_Avatar",
+            "page": "Astronomy_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Star chart",
+        "See also"
+      ],
+      "text": "Astronomy in the World of Avatar"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Writing in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Writing_in_the_World_of_Avatar",
+            "page": "Writing_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Star chart",
+        "See also"
+      ],
+      "text": "Writing in the World of Avatar"
     }
   ],
   "source": {

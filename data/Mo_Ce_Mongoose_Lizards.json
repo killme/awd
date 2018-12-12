@@ -3,42 +3,48 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Groups",
       "target": {
-        "href": "Category_Groups",
+        "external": false,
+        "href": "/wiki/Category_Groups",
         "page": "Category_Groups"
       }
     },
     {
       "body": "Legend of Korra",
       "target": {
-        "href": "Category_Legend_of_Korra",
+        "external": false,
+        "href": "/wiki/Category_Legend_of_Korra",
         "page": "Category_Legend_of_Korra"
       }
     },
     {
       "body": "Minor groups",
       "target": {
-        "href": "Category_Minor_groups",
+        "external": false,
+        "href": "/wiki/Category_Minor_groups",
         "page": "Category_Minor_groups"
       }
     },
     {
       "body": "Pro-bending",
       "target": {
-        "href": "Category_Pro-bending",
+        "external": false,
+        "href": "/wiki/Category_Pro-bending",
         "page": "Category_Pro-bending"
       }
     },
     {
       "body": "Republic City",
       "target": {
-        "href": "Category_Republic_City",
+        "external": false,
+        "href": "/wiki/Category_Republic_City",
         "page": "Category_Republic_City"
       }
     }
@@ -56,7 +62,8 @@
               "body": "Republic City",
               "key": "${link_0}",
               "target": {
-                "href": "Republic_City",
+                "external": false,
+                "href": "/wiki/Republic_City",
                 "page": "Republic_City"
               }
             }
@@ -79,7 +86,8 @@
               "body": "Pro-bending",
               "key": "${link_0}",
               "target": {
-                "href": "Pro-bending",
+                "external": false,
+                "href": "/wiki/Pro-bending",
                 "page": "Pro-bending"
               }
             }
@@ -102,7 +110,8 @@
               "body": "Pro-bending Tournament",
               "key": "${link_0}",
               "target": {
-                "href": "Pro-bending#Pro-bending_Tournament",
+                "external": false,
+                "href": "/wiki/Pro-bending#Pro-bending_Tournament",
                 "page": "Pro-bending"
               }
             }
@@ -125,7 +134,8 @@
               "body": "The Spirit of Competition",
               "key": "${link_0}",
               "target": {
-                "href": "The_Spirit_of_Competition",
+                "external": false,
+                "href": "/wiki/The_Spirit_of_Competition",
                 "page": "The_Spirit_of_Competition"
               }
             }
@@ -145,7 +155,8 @@
           "body": "pro-bending",
           "key": "${link_0}",
           "target": {
-            "href": "Pro-bending",
+            "external": false,
+            "href": "/wiki/Pro-bending",
             "page": "Pro-bending"
           }
         },
@@ -153,7 +164,8 @@
           "body": "Championship Tournament",
           "key": "${link_1}",
           "target": {
-            "href": "Pro-bending#Pro-bending_Tournament",
+            "external": false,
+            "href": "/wiki/Pro-bending#Pro-bending_Tournament",
             "page": "Pro-bending"
           }
         },
@@ -161,34 +173,16 @@
           "body": "AG",
           "key": "${link_2}",
           "target": {
-            "href": "History_of_the_World_of_Avatar#Dates",
+            "external": false,
+            "href": "/wiki/History_of_the_World_of_Avatar#Dates",
             "page": "History_of_the_World_of_Avatar"
           }
         }
       ],
-      "text": "The Mo Ce Mongoose Lizards are a pro-bending team that entered the Championship Tournament in 170 AG."
-    },
-    {
-      "body": "The team's wounded ${link_0} after their lost match against the ${link_1}.",
-      "links": [
-        {
-          "body": "waterbender",
-          "key": "${link_0}",
-          "target": {
-            "href": "Waterbending",
-            "page": "Waterbending"
-          }
-        },
-        {
-          "body": "White Falls Wolfbats",
-          "key": "${link_1}",
-          "target": {
-            "href": "White_Falls_Wolfbats",
-            "page": "White_Falls_Wolfbats"
-          }
-        }
+      "section": [
+        "Mo Ce Mongoose Lizards"
       ],
-      "text": "The team's wounded waterbender after their lost match against the White Falls Wolfbats."
+      "text": "The Mo Ce Mongoose Lizards are a pro-bending team that entered the Championship Tournament in 170 AG."
     },
     {
       "body": "The Mo Ce Mongoose Lizards advanced to the semifinals of the Pro-bending Championship Tournament, where they faced the ${link_0}. The entire team was defeated in a brutal first round knockout, marking the shortest match of the tournament. Two of the members were carried out on stretchers, the ${link_1} of the team bearing a hole in his visor.",
@@ -197,7 +191,8 @@
           "body": "White Falls Wolfbats",
           "key": "${link_0}",
           "target": {
-            "href": "White_Falls_Wolfbats",
+            "external": false,
+            "href": "/wiki/White_Falls_Wolfbats",
             "page": "White_Falls_Wolfbats"
           }
         },
@@ -205,10 +200,15 @@
           "body": "waterbender",
           "key": "${link_1}",
           "target": {
-            "href": "Waterbending",
+            "external": false,
+            "href": "/wiki/Waterbending",
             "page": "Waterbending"
           }
         }
+      ],
+      "section": [
+        "Mo Ce Mongoose Lizards",
+        "History"
       ],
       "text": "The Mo Ce Mongoose Lizards advanced to the semifinals of the Pro-bending Championship Tournament, where they faced the White Falls Wolfbats. The entire team was defeated in a brutal first round knockout, marking the shortest match of the tournament. Two of the members were carried out on stretchers, the waterbender of the team bearing a hole in his visor."
     }

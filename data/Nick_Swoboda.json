@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -35,7 +38,8 @@
               "body": "Avatar: The Last Airbender",
               "key": "${link_0}",
               "target": {
-                "href": "Avatar__The_Last_Airbender",
+                "external": false,
+                "href": "/wiki/Avatar__The_Last_Airbender",
                 "page": "Avatar__The_Last_Airbender"
               }
             }
@@ -50,18 +54,89 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2866078",
+                "page": "http://www.imdb.com/find?q=nm2866078"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "Nick Swoboda",
+        "Avatar: The Last Airbender credits",
+        "The Duke"
+      ],
+      "text": "310. \"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Nick Swoboda",
+        "Avatar: The Last Airbender credits",
+        "The Duke"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Western Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Western_Air_Temple",
+            "page": "The_Western_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Nick Swoboda",
+        "Avatar: The Last Airbender credits",
+        "The Duke"
+      ],
+      "text": "312. \"The Western Air Temple\""
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Nick_Swoboda",
     "file": "avatar.wikia.com/wiki/Nick_Swoboda.html",

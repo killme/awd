@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "A Father's Homecoming (1988; TV movie)",
+          "body": "${link_0} (1988; TV movie)",
           "extra": "(1988; TV movie)",
           "extra_text": "(1988; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "A Father's Homecoming",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0095142",
+                "page": "http://www.imdb.com/find?q=tt0095142"
+              }
+            }
+          ],
           "text": "A Father's Homecoming (1988; TV movie)",
-          "value": "A Father's Homecoming",
+          "value": "${link_0}",
           "value_text": "A Father's Homecoming"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0354937",
+                "page": "http://www.imdb.com/find?q=nm0354937"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jennifer_Hale",
+                "page": "http://en.wikipedia.org/wiki/Jennifer_Hale"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.jenniferhale.com/",
+                "page": "http://www.jenniferhale.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/jhaletweets",
+                "page": "https://twitter.com/jhaletweets"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,13 +162,883 @@
   ],
   "paragraphs": [
     {
+      "body": "115. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bato of the Water Tribe",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bato_of_the_Water_Tribe",
+            "page": "Bato_of_the_Water_Tribe"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Avatar: The Last Airbender credits",
+        "June"
+      ],
+      "text": "115. \"Bato of the Water Tribe\""
+    },
+    {
+      "body": "319. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 2: The Old Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_2__The_Old_Masters",
+            "page": "Sozin%27s_Comet%2c_Part_2__The_Old_Masters"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Avatar: The Last Airbender credits",
+        "June"
+      ],
+      "text": "319. \"Sozin's Comet, Part 2: The Old Masters\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Avatar: The Last Airbender credits",
+        "Kyoshi"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "319. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 2: The Old Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_2__The_Old_Masters",
+            "page": "Sozin%27s_Comet%2c_Part_2__The_Old_Masters"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Avatar: The Last Airbender credits",
+        "Kyoshi"
+      ],
+      "text": "319. \"Sozin's Comet, Part 2: The Old Masters\""
+    },
+    {
+      "body": "115. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bato of the Water Tribe",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bato_of_the_Water_Tribe",
+            "page": "Bato_of_the_Water_Tribe"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "115. \"Bato of the Water Tribe\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "The Legend of Korra credits",
+        "Kyoshi"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Brave and the Bold"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Camp Lazlo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0419315",
+            "page": "http://www.imdb.com/find?q=tt0419315"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Camp Lazlo"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312109",
+            "page": "http://www.imdb.com/find?q=tt0312109"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Generator Rex",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1636691",
+            "page": "http://www.imdb.com/find?q=tt1636691"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Generator Rex"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sofia the First",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2136138",
+            "page": "http://www.imdb.com/find?q=tt2136138"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sofia the First"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Grim Adventures of Billy & Mandy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292800",
+            "page": "http://www.imdb.com/find?q=tt0292800"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Grim Adventures of Billy & Mandy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Totally Spies!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0283226",
+            "page": "http://www.imdb.com/find?q=tt0283226"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Totally Spies!"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Totally spies! Le film",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1042916",
+            "page": "http://www.imdb.com/find?q=tt1042916"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Totally spies! Le film (2009)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "TMNT",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0453556",
+            "page": "http://www.imdb.com/find?q=tt0453556"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "TMNT (2007)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Gekij\u00f4-ban Naruto: Daigekitotsu! Maboroshi no chitei iseki dattebayo!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0791188",
+            "page": "http://www.imdb.com/find?q=tt0791188"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Gekij\u00f4-ban Naruto: Daigekitotsu! Maboroshi no chitei iseki dattebayo! (2005)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "The Powerpuff Girls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0289408",
+            "page": "http://www.imdb.com/find?q=tt0289408"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Powerpuff Girls (2002)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Unbreakable",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0217869",
+            "page": "http://www.imdb.com/find?q=tt0217869"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Unbreakable (2000)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Gold Diggers: The Secret of Bear Mountain",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0113188",
+            "page": "http://www.imdb.com/find?q=tt0113188"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Gold Diggers: The Secret of Bear Mountain (1995)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Age of Empire III",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0488937",
+            "page": "http://www.imdb.com/find?q=tt0488937"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Age of Empire III (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "BioShock Infinite",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1712064",
+            "page": "http://www.imdb.com/find?q=tt1712064"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "BioShock Infinite (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Bulletstorm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1830522",
+            "page": "http://www.imdb.com/find?q=tt1830522"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Bulletstorm (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Clash of the Titans",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1589998",
+            "page": "http://www.imdb.com/find?q=tt1589998"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Clash of the Titans (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Gears of War 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1638317",
+            "page": "http://www.imdb.com/find?q=tt1638317"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Gears of War 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "God of War: Ghost of Sparta",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1756534",
+            "page": "http://www.imdb.com/find?q=tt1756534"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "God of War: Ghost of Sparta (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Halo 4",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2006120",
+            "page": "http://www.imdb.com/find?q=tt2006120"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Halo 4 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Justice League Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0823153",
+            "page": "http://www.imdb.com/find?q=tt0823153"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Justice League Heroes (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts: Birth by Sleep",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1390843",
+            "page": "http://www.imdb.com/find?q=tt1390843"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts: Birth by Sleep (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel vs. Capcom 3: Fate of Two Worlds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1764479",
+            "page": "http://www.imdb.com/find?q=tt1764479"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel vs. Capcom 3: Fate of Two Worlds (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Mass Effect",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1073668",
+            "page": "http://www.imdb.com/find?q=tt1073668"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mass Effect (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Mass Effect 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1540125",
+            "page": "http://www.imdb.com/find?q=tt1540125"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mass Effect 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Mass Effect 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1839558",
+            "page": "http://www.imdb.com/find?q=tt1839558"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mass Effect 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0180825",
+            "page": "http://www.imdb.com/find?q=tt0180825"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid 2: Sons of Liberty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0249008",
+            "page": "http://www.imdb.com/find?q=tt0249008"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid 2: Sons of Liberty (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid: Twin Snake",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0365499",
+            "page": "http://www.imdb.com/find?q=tt0365499"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid: Twin Snake (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid 4: Guns of the Patriots",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462423",
+            "page": "http://www.imdb.com/find?q=tt0462423"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid 4: Guns of the Patriots (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metroid Prime",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0319854",
+            "page": "http://www.imdb.com/find?q=tt0319854"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metroid Prime (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metroid Prime 2: Echoes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0430354",
+            "page": "http://www.imdb.com/find?q=tt0430354"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metroid Prime 2: Echoes (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metroid Prime 3: Corruption",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0944840",
+            "page": "http://www.imdb.com/find?q=tt0944840"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metroid Prime 3: Corruption (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Overwatch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4332152",
+            "page": "http://www.imdb.com/find?q=tt4332152"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Overwatch (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Quest for Glory IV: Shadows of Darkness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0210246",
+            "page": "http://www.imdb.com/find?q=tt0210246"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Quest for Glory IV: Shadows of Darkness (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man: Shattered Dimensions",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1629701",
+            "page": "http://www.imdb.com/find?q=tt1629701"
+          }
+        }
+      ],
+      "section": [
+        "Jennifer Hale",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man: Shattered Dimensions (video game)"
+    },
+    {
       "body": "Hale grew up in the United States, attending the Alabama School of Fine Arts in Birmingham, Alabama. While in high school, Hale began working as a production assistant, and after graduating, she worked as an actress, commuting between Birmingham and Atlanta. She got her first big break in the 1988 TV movie A Father's Homecoming.",
       "links": [],
+      "section": [
+        "Jennifer Hale",
+        "Biographical information",
+        "Biography"
+      ],
       "text": "Hale grew up in the United States, attending the Alabama School of Fine Arts in Birmingham, Alabama. While in high school, Hale began working as a production assistant, and after graduating, she worked as an actress, commuting between Birmingham and Atlanta. She got her first big break in the 1988 TV movie A Father's Homecoming."
     },
     {
       "body": "Hale later moved to Hollywood and has worked as a voice actor in a number of mediums, including video games, animation, and movies, since 1993. She has also been a guest on several well-known TV shows, including Charmed, ER, and Just Shoot Me!, where she was sometimes credited as Carren Learning. Hale voiced Cinderella and Princess Aurora in Disney's House of Mouse and later voiced Bastila Shan for the popular video games Star Wars: Knights of the Old Republic and Star Wars: Knights of the Old Republic II \u2014 The Sith Lords; she has also voiced various characters on Star Wars: The Clone Wars. Hale lent her voice to Naomi Hunter and various other characters in the Metal Gear Solid series of video games, as well as the female version of Commander Shepard in the Mass Effect series.",
       "links": [],
+      "section": [
+        "Jennifer Hale",
+        "Biographical information",
+        "Biography"
+      ],
       "text": "Hale later moved to Hollywood and has worked as a voice actor in a number of mediums, including video games, animation, and movies, since 1993. She has also been a guest on several well-known TV shows, including Charmed, ER, and Just Shoot Me!, where she was sometimes credited as Carren Learning. Hale voiced Cinderella and Princess Aurora in Disney's House of Mouse and later voiced Bastila Shan for the popular video games Star Wars: Knights of the Old Republic and Star Wars: Knights of the Old Republic II \u2014 The Sith Lords; she has also voiced various characters on Star Wars: The Clone Wars. Hale lent her voice to Naomi Hunter and various other characters in the Metal Gear Solid series of video games, as well as the female version of Commander Shepard in the Mass Effect series."
     }
   ],

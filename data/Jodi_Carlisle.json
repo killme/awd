@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Pac-Man (1982)",
+          "body": "${link_0} (1982)",
           "extra": "(1982)",
           "extra_text": "(1982)",
-          "links": [],
+          "links": [
+            {
+              "body": "Pac-Man",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0083461",
+                "page": "http://www.imdb.com/find?q=tt0083461"
+              }
+            }
+          ],
           "text": "Pac-Man (1982)",
-          "value": "Pac-Man",
+          "value": "${link_0}",
           "value_text": "Pac-Man"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0137627",
+                "page": "http://www.imdb.com/find?q=nm0137627"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jodi_Carlisle",
+                "page": "http://en.wikipedia.org/wiki/Jodi_Carlisle"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/Jodi-Carlisle/103721633000287",
+                "page": "http://www.facebook.com/pages/Jodi-Carlisle/103721633000287"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -86,13 +129,301 @@
   ],
   "paragraphs": [
     {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Avatar: The Last Airbender credits",
+        "Herbalist"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "115. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bato of the Water Tribe",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bato_of_the_Water_Tribe",
+            "page": "Bato_of_the_Water_Tribe"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Avatar: The Last Airbender credits",
+        "Herbalist"
+      ],
+      "text": "115. \"Bato of the Water Tribe\""
+    },
+    {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Darkwing Duck",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101076",
+            "page": "http://www.imdb.com/find?q=tt0101076"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Darkwing Duck"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Desperate Housewives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0410975",
+            "page": "http://www.imdb.com/find?q=tt0410975"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Desperate Housewives"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Greetings from Tucson",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0313090",
+            "page": "http://www.imdb.com/find?q=tt0313090"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Greetings from Tucson"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Malcolm in the Middle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0212671",
+            "page": "http://www.imdb.com/find?q=tt0212671"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Malcolm in the Middle"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Wild Thornberrys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0167743",
+            "page": "http://www.imdb.com/find?q=tt0167743"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Wild Thornberrys"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wild West C.O.W.-Boys of Moo Mesa",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0190210",
+            "page": "http://www.imdb.com/find?q=tt0190210"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wild West C.O.W.-Boys of Moo Mesa"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Protecting the King",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0780530",
+            "page": "http://www.imdb.com/find?q=tt0780530"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Protecting the King (2007)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Rugrats Go Wild",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0337711",
+            "page": "http://www.imdb.com/find?q=tt0337711"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rugrats Go Wild (2003)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "The Wild Thornberrys Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0282120",
+            "page": "http://www.imdb.com/find?q=tt0282120"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wild Thornberrys Movie (2002)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "Speechless",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111256",
+            "page": "http://www.imdb.com/find?q=tt0111256"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Speechless (1994)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Goosebumps: Attack of the Mutant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0219709",
+            "page": "http://www.imdb.com/find?q=tt0219709"
+          }
+        }
+      ],
+      "section": [
+        "Jodi Carlisle",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Goosebumps: Attack of the Mutant (video game)"
+    },
+    {
       "body": "Carlisle has been doing voice work for a number of years, beginning on the cartoon series Pac Man in 1982. She was also the voice of Wendy Richter and The Fabulous Moohlah on the Rock 'N' Wrestling cartoon and has guest starred on the TV shows Malcolm in the Middle, Night Court, and Mad About You. She also provided the voice of Marianne Thornberry on the Nickelodeon animated TV series The Wild Thornberrys.",
       "links": [],
+      "section": [
+        "Jodi Carlisle",
+        "Biographical information"
+      ],
       "text": "Carlisle has been doing voice work for a number of years, beginning on the cartoon series Pac Man in 1982. She was also the voice of Wendy Richter and The Fabulous Moohlah on the Rock 'N' Wrestling cartoon and has guest starred on the TV shows Malcolm in the Middle, Night Court, and Mad About You. She also provided the voice of Marianne Thornberry on the Nickelodeon animated TV series The Wild Thornberrys."
     },
     {
       "body": "Prior to her acting and voice work, Carlisle was a contestant on the game show The Joker's Wild and later appeared on Tic Tac Dough.",
       "links": [],
+      "section": [
+        "Jodi Carlisle",
+        "Biographical information"
+      ],
       "text": "Prior to her acting and voice work, Carlisle was a contestant on the game show The Joker's Wild and later appeared on Tic Tac Dough."
     }
   ],

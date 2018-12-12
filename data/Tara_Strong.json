@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Campbells (1986)",
+          "body": "${link_0} (1986)",
           "extra": "(1986)",
           "extra_text": "(1986)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Campbells",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0094429",
+                "page": "http://www.imdb.com/find?q=tt0094429"
+              }
+            }
+          ],
           "text": "The Campbells (1986)",
-          "value": "The Campbells",
+          "value": "${link_0}",
           "value_text": "The Campbells"
         }
       ]
@@ -69,66 +82,136 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0152839",
+                "page": "http://www.imdb.com/find?q=nm0152839"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Tara_Strong",
+                "page": "http://en.wikipedia.org/wiki/Tara_Strong"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/tara.strong.514",
+                "page": "https://www.facebook.com/tara.strong.514"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/103808326075957278450/posts",
+                "page": "https://plus.google.com/103808326075957278450/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/tarastrong514#",
+                "page": "http://instagram.com/tarastrong514"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.tarastrong.com/",
+                "page": "http://www.tarastrong.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/tarastrong",
+                "page": "https://twitter.com/tarastrong"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -136,13 +219,703 @@
   ],
   "paragraphs": [
     {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Avatar: The Last Airbender credits",
+        "Tom-Tom"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Avatar: The Last Airbender credits",
+        "Actress Azula"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0760437",
+            "page": "http://www.imdb.com/find?q=tt0760437"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Family Guy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0182576",
+            "page": "http://www.imdb.com/find?q=tt0182576"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Family Guy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "My Little Pony: Friendship Is Magic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1751105",
+            "page": "http://www.imdb.com/find?q=tt1751105"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "My Little Pony: Friendship Is Magic"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sym-Bionic Titan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1709198",
+            "page": "http://www.imdb.com/find?q=tt1709198"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sym-Bionic Titan"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Teen Titans",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0343314",
+            "page": "http://www.imdb.com/find?q=tt0343314"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teen Titans"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Fairly OddParents",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235918",
+            "page": "http://www.imdb.com/find?q=tt0235918"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Fairly OddParents"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Penguins of Madagascar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0892700",
+            "page": "http://www.imdb.com/find?q=tt0892700"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Penguins of Madagascar"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Super Hero Squad Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1388589",
+            "page": "http://www.imdb.com/find?q=tt1388589"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Super Hero Squad Show"
+    },
+    {
+      "body": "${link_0} (2014; video)",
+      "links": [
+        {
+          "body": "Batman: Assault on Arkham",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3139086",
+            "page": "http://www.imdb.com/find?q=tt3139086"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Batman: Assault on Arkham (2014; video)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Dino Mom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1321862",
+            "page": "http://www.imdb.com/find?q=tt1321862"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dino Mom (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Bolt",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397892",
+            "page": "http://www.imdb.com/find?q=tt0397892"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bolt (2009)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "TMNT",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0453556",
+            "page": "http://www.imdb.com/find?q=tt0453556"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "TMNT (2007)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Dinotopia: Quest for the Ruby Sunstone",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0372238",
+            "page": "http://www.imdb.com/find?q=tt0372238"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dinotopia: Quest for the Ruby Sunstone (2005)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Hoodwinked!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0443536",
+            "page": "http://www.imdb.com/find?q=tt0443536"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hoodwinked! (2005)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Kaena: The Prophecy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0297753",
+            "page": "http://www.imdb.com/find?q=tt0297753"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kaena: The Prophecy (2003)"
+    },
+    {
+      "body": "${link_0} (documentary - executive producer)",
+      "links": [
+        {
+          "body": "Bronies: The Extremely Unexpected Adult Fans of My Little Pony",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2446192",
+            "page": "http://www.imdb.com/find?q=tt2446192"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Bronies: The Extremely Unexpected Adult Fans of My Little Pony (documentary - executive producer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Cars Race-O-Rama",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1671453",
+            "page": "http://www.imdb.com/find?q=tt1671453"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Cars Race-O-Rama (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crash: Mind Over Mutant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1282033",
+            "page": "http://www.imdb.com/find?q=tt1282033"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crash: Mind Over Mutant (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "FusionFall",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1363369",
+            "page": "http://www.imdb.com/find?q=tt1363369"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "FusionFall (video game)"
+    },
+    {
+      "body": "${link_0} (additional vocals)",
+      "links": [
+        {
+          "body": "Jakers! The Adventures of Piggley Winks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0381772",
+            "page": "http://www.imdb.com/find?q=tt0381772"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Jakers! The Adventures of Piggley Winks (additional vocals)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kid Icarus: Uprising",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1852820",
+            "page": "http://www.imdb.com/find?q=tt1852820"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kid Icarus: Uprising (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts II: Final Mix+",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1018736",
+            "page": "http://www.imdb.com/find?q=tt1018736"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts II: Final Mix+ (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel vs. Capcom 3: Fate of Two Worlds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1764479",
+            "page": "http://www.imdb.com/find?q=tt1764479"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel vs. Capcom 3: Fate of Two Worlds (video game)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "My Little Pony: Friendship is Magic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1751105",
+            "page": "http://www.imdb.com/find?q=tt1751105"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "My Little Pony: Friendship is Magic (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "Napoleon Dynamite",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1743880",
+            "page": "http://www.imdb.com/find?q=tt1743880"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Napoleon Dynamite (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Nicktoons: Attack of the Toybots",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1074205",
+            "page": "http://www.imdb.com/find?q=tt1074205"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Nicktoons: Attack of the Toybots (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ratchet & Clank Future: Tools of Destruction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1018825",
+            "page": "http://www.imdb.com/find?q=tt1018825"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ratchet & Clank Future: Tools of Destruction (video game)"
+    },
+    {
+      "body": "${link_0} (video - soundtrack performer)",
+      "links": [
+        {
+          "body": "Tigger & Pooh and a Musical Too",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1415904",
+            "page": "http://www.imdb.com/find?q=tt1415904"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tigger & Pooh and a Musical Too (video - soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "The Fairly OddParents",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235918",
+            "page": "http://www.imdb.com/find?q=tt0235918"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Fairly OddParents (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "The Powerpuff Girls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0175058",
+            "page": "http://www.imdb.com/find?q=tt0175058"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Powerpuff Girls (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (voice casting)",
+      "links": [
+        {
+          "body": "Wow! Wow! Wubbbzy!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0762067",
+            "page": "http://www.imdb.com/find?q=tt0762067"
+          }
+        }
+      ],
+      "section": [
+        "Tara Strong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Wow! Wow! Wubbbzy! (voice casting)"
+    },
+    {
       "body": "Tara Lyn Charendoff was born and raised in Toronto, Ontario, to Jewish-Canadian parents Syd (1935\u2013present) and Lucy Charendoff (1936\u20132004), who ran a convenience, toy, and candy store called The Wiz. Strong's acting career began when she volunteered to be a soloist in a school production at age four. Soon, she began acting in the Yiddish Theater; though she did not know Yiddish, she memorized her lines phonetically. During this time, she also performed at the Toronto Jewish Theater, where she acted in A Night of Stars, and was featured in an audiotape for \"Lay Down Your Arms\" with the Habonim Youth Choir. With the choir, she sang the lyrics in both English and Hebrew, a feat she repeated on February 10, 2005, at the Beverly Hilton Hotel during the March of the Living dinner in honor of Governor of California Arnold Schwarzenegger.",
       "links": [],
+      "section": [
+        "Tara Strong",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Tara Lyn Charendoff was born and raised in Toronto, Ontario, to Jewish-Canadian parents Syd (1935\u2013present) and Lucy Charendoff (1936\u20132004), who ran a convenience, toy, and candy store called The Wiz. Strong's acting career began when she volunteered to be a soloist in a school production at age four. Soon, she began acting in the Yiddish Theater; though she did not know Yiddish, she memorized her lines phonetically. During this time, she also performed at the Toronto Jewish Theater, where she acted in A Night of Stars, and was featured in an audiotape for \"Lay Down Your Arms\" with the Habonim Youth Choir. With the choir, she sang the lyrics in both English and Hebrew, a feat she repeated on February 10, 2005, at the Beverly Hilton Hotel during the March of the Living dinner in honor of Governor of California Arnold Schwarzenegger."
     },
     {
       "body": "At age thirteen, Strong was accepted into a performing arts school, where she landed her first professional role, Gracie, in the Limelight Theater's production of The Music Man. That same year, she booked a guest starring role in Mr. T's T. and T. Afterward, she landed the title role in Hello Kitty's Furry Tale Theater and starred in the short-lived CBC Television sitcom Mosquito Lake before moving to Los Angeles in the aftermath of the 1994 Northridge earthquake.",
       "links": [],
+      "section": [
+        "Tara Strong",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "At age thirteen, Strong was accepted into a performing arts school, where she landed her first professional role, Gracie, in the Limelight Theater's production of The Music Man. That same year, she booked a guest starring role in Mr. T's T. and T. Afterward, she landed the title role in Hello Kitty's Furry Tale Theater and starred in the short-lived CBC Television sitcom Mosquito Lake before moving to Los Angeles in the aftermath of the 1994 Northridge earthquake."
     },
     {
@@ -152,12 +925,36 @@
           "body": "Craig Strong",
           "key": "${link_0}",
           "target": {
-            "href": "Craig_Strong",
+            "external": false,
+            "href": "/wiki/Craig_Strong",
             "page": "Craig_Strong"
           }
         }
       ],
+      "section": [
+        "Tara Strong",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Strong met American actor Craig Strong in early 1999 at a party hosted by Sharon Stone's sister, Marla. They married on May 14, 2000. They have two sons, Sammy James Strong, born February 5, 2002, and Aden Joshua Strong, born August 25, 2004. The family resides in Toluca Lake, California, with their two dogs, Abbey and Baci. She and her husband are the founders of VoiceStarz, Inc., an Internet-based company which teaches people how to get into the voice-over business."
+    },
+    {
+      "body": "2013: Won an AOF/WAB Award for Police Guys (Outstanding Cast Performance)",
+      "links": [],
+      "section": [
+        "Tara Strong",
+        "Awards"
+      ],
+      "text": "2013: Won an AOF/WAB Award for Police Guys (Outstanding Cast Performance)"
+    },
+    {
+      "body": "2004: Won an Interactive Achievement Award for Fainaru Fantaj\u00ee X-2 (Outstanding Achievement in Character Performance - Female)",
+      "links": [],
+      "section": [
+        "Tara Strong",
+        "Awards"
+      ],
+      "text": "2004: Won an Interactive Achievement Award for Fainaru Fantaj\u00ee X-2 (Outstanding Achievement in Character Performance - Female)"
     }
   ],
   "source": {

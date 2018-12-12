@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "My Wife and Kids (2001)",
+          "body": "${link_0} (2001)",
           "extra": "(2001)",
           "extra_text": "(2001)",
-          "links": [],
+          "links": [
+            {
+              "body": "My Wife and Kids",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0273855",
+                "page": "http://www.imdb.com/find?q=tt0273855"
+              }
+            }
+          ],
           "text": "My Wife and Kids (2001)",
-          "value": "My Wife and Kids",
+          "value": "${link_0}",
           "value_text": "My Wife and Kids"
         }
       ]
@@ -41,18 +54,269 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1023767",
+                "page": "http://www.imdb.com/find?q=nm1023767"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "Michael Dow",
+        "Avatar: The Last Airbender credits",
+        "Haru"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "Michael Dow",
+        "Avatar: The Last Airbender credits",
+        "Haru"
+      ],
+      "text": "310. \"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Michael Dow",
+        "Avatar: The Last Airbender credits",
+        "Haru"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Western Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Western_Air_Temple",
+            "page": "The_Western_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Michael Dow",
+        "Avatar: The Last Airbender credits",
+        "Haru"
+      ],
+      "text": "312. \"The Western Air Temple\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "Michael Dow",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Boston Public",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247081",
+            "page": "http://www.imdb.com/find?q=tt0247081"
+          }
+        }
+      ],
+      "section": [
+        "Michael Dow",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Boston Public"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Eve",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0367379",
+            "page": "http://www.imdb.com/find?q=tt0367379"
+          }
+        }
+      ],
+      "section": [
+        "Michael Dow",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Eve"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ned's Declassified School Survival Guide",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0405576",
+            "page": "http://www.imdb.com/find?q=tt0405576"
+          }
+        }
+      ],
+      "section": [
+        "Michael Dow",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ned's Declassified School Survival Guide"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Unfabulous",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0416435",
+            "page": "http://www.imdb.com/find?q=tt0416435"
+          }
+        }
+      ],
+      "section": [
+        "Michael Dow",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Unfabulous"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wanda at Large",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0353113",
+            "page": "http://www.imdb.com/find?q=tt0353113"
+          }
+        }
+      ],
+      "section": [
+        "Michael Dow",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wanda at Large"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "New Suit",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0290249",
+            "page": "http://www.imdb.com/find?q=tt0290249"
+          }
+        }
+      ],
+      "section": [
+        "Michael Dow",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "New Suit (2002)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_(video_game)",
+            "page": "Avatar__The_Last_Airbender_(video_game)"
+          }
+        }
+      ],
+      "section": [
+        "Michael Dow",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Last Airbender (video game)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Michael_Dow",
     "file": "avatar.wikia.com/wiki/Michael_Dow.html",

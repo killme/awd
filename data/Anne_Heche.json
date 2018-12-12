@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Another World (1988)",
+          "body": "${link_0} (1988)",
           "extra": "(1988)",
           "extra_text": "(1988)",
-          "links": [],
+          "links": [
+            {
+              "body": "Another World",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0057731",
+                "page": "http://www.imdb.com/find?q=tt0057731"
+              }
+            }
+          ],
           "text": "Another World (1988)",
-          "value": "Another World",
+          "value": "${link_0}",
           "value_text": "Another World"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0000162",
+                "page": "http://www.imdb.com/find?q=nm0000162"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Anne_Heche",
+                "page": "http://en.wikipedia.org/wiki/Anne_Heche"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/annehechefan",
+                "page": "https://www.facebook.com/annehechefan"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/105376360255931845272/posts",
+                "page": "https://plus.google.com/105376360255931845272/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/anneheche",
+                "page": "http://instagram.com/anneheche"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         }
       ]
@@ -118,38 +181,813 @@
   ],
   "paragraphs": [
     {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Metal Clan",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Metal_Clan",
+            "page": "The_Metal_Clan"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "305. \"The Metal Clan\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Terror Within",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Terror_Within",
+            "page": "The_Terror_Within"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "308. \"The Terror Within\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ultimatum",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ultimatum",
+            "page": "The_Ultimatum"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "311. \"The Ultimatum\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enter the Void",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enter_the_Void",
+            "page": "Enter_the_Void"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "312. \"Enter the Void\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "403. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Coronation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Coronation",
+            "page": "The_Coronation"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "403. \"The Coronation\""
+    },
+    {
+      "body": "405. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enemy at the Gates",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enemy_at_the_Gates",
+            "page": "Enemy_at_the_Gates"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "405. \"Enemy at the Gates\""
+    },
+    {
+      "body": "406. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Battle of Zaofu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Battle_of_Zaofu",
+            "page": "The_Battle_of_Zaofu"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "406. \"The Battle of Zaofu\""
+    },
+    {
+      "body": "410. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Operation Beifong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Operation_Beifong",
+            "page": "Operation_Beifong"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "410. \"Operation Beifong\""
+    },
+    {
+      "body": "411. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Kuvira's Gambit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kuvira%27s_Gambit",
+            "page": "Kuvira%27s_Gambit"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "411. \"Kuvira's Gambit\""
+    },
+    {
+      "body": "412. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Day of the Colossus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Day_of_the_Colossus",
+            "page": "Day_of_the_Colossus"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "412. \"Day of the Colossus\""
+    },
+    {
+      "body": "413. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Last Stand",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Last_Stand",
+            "page": "The_Last_Stand"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "The Legend of Korra credits",
+        "Su Beifong"
+      ],
+      "text": "413. \"The Last Stand\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ally McBeal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118254",
+            "page": "http://www.imdb.com/find?q=tt0118254"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ally McBeal"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Another World",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0057731",
+            "page": "http://www.imdb.com/find?q=tt0057731"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Another World"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Blackout",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1865640",
+            "page": "http://www.imdb.com/find?q=tt1865640"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Blackout"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ellen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108761",
+            "page": "http://www.imdb.com/find?q=tt0108761"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ellen"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Everwood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0318883",
+            "page": "http://www.imdb.com/find?q=tt0318883"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Everwood"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Fatal Desire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0497353",
+            "page": "http://www.imdb.com/find?q=tt0497353"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fatal Desire (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Girl Fight",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1956502",
+            "page": "http://www.imdb.com/find?q=tt1956502"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Girl Fight (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Higglytown Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0406419",
+            "page": "http://www.imdb.com/find?q=tt0406419"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Higglytown Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hung",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1229413",
+            "page": "http://www.imdb.com/find?q=tt1229413"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hung"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Men in Trees",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0805664",
+            "page": "http://www.imdb.com/find?q=tt0805664"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Men in Trees"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "O Pioneers!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105038",
+            "page": "http://www.imdb.com/find?q=tt0105038"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "O Pioneers! (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Save Me",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2245117",
+            "page": "http://www.imdb.com/find?q=tt2245117"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Save Me"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Michael J. Fox Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2338232",
+            "page": "http://www.imdb.com/find?q=tt2338232"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Michael J. Fox Show"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Young Indiana Jones Chronicles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103586",
+            "page": "http://www.imdb.com/find?q=tt0103586"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Young Indiana Jones Chronicles"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "True",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0896988",
+            "page": "http://www.imdb.com/find?q=tt0896988"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "True (TV movie)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "What Love Is",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0439876",
+            "page": "http://www.imdb.com/find?q=tt0439876"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "What Love Is (2007)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Six Days Seven Nights",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120828",
+            "page": "http://www.imdb.com/find?q=tt0120828"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Six Days Seven Nights (1998)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "I Know What You Did Last Summer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119345",
+            "page": "http://www.imdb.com/find?q=tt0119345"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I Know What You Did Last Summer (1997)"
+    },
+    {
+      "body": "${link_0} (producer)",
+      "links": [
+        {
+          "body": "Bad Judge",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2769470",
+            "page": "http://www.imdb.com/find?q=tt2769470"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Bad Judge (producer)"
+    },
+    {
+      "body": "${link_0} (TV movie - director and writer)",
+      "links": [
+        {
+          "body": "If These Walls Could Talk 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0206036",
+            "page": "http://www.imdb.com/find?q=tt0206036"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "If These Walls Could Talk 2 (TV movie - director and writer)"
+    },
+    {
+      "body": "${link_0} (TV movie - director and segment writer)",
+      "links": [
+        {
+          "body": "On the Edge",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0253425",
+            "page": "http://www.imdb.com/find?q=tt0253425"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "On the Edge (TV movie - director and segment writer)"
+    },
+    {
+      "body": "${link_0} (director)",
+      "links": [
+        {
+          "body": "Reaching Normal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0210939",
+            "page": "http://www.imdb.com/find?q=tt0210939"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Reaching Normal (director)"
+    },
+    {
+      "body": "${link_0} (producer)",
+      "links": [
+        {
+          "body": "Save Me",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2245117",
+            "page": "http://www.imdb.com/find?q=tt2245117"
+          }
+        }
+      ],
+      "section": [
+        "Anne Heche",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Save Me (producer)"
+    },
+    {
       "body": "Anne Heche was born the youngest of five children of Nancy, n\u00e9e Prickett, and Donald Joseph Heche. Heche's family moved a total of eleven times during her childhood, and at one point they lived in an Amish community. The family settled in Ocean City, New Jersey, when Heche was twelve years old. Due to desperate finances, Anne went to work at a dinner theater in Swainton. Heche's father died of AIDS in March 1983, when she was thirteen, and she lost her brother in a car accident three months later.",
       "links": [],
+      "section": [
+        "Anne Heche",
+        "Biographical information",
+        "Early life"
+      ],
       "text": "Anne Heche was born the youngest of five children of Nancy, n\u00e9e Prickett, and Donald Joseph Heche. Heche's family moved a total of eleven times during her childhood, and at one point they lived in an Amish community. The family settled in Ocean City, New Jersey, when Heche was twelve years old. Due to desperate finances, Anne went to work at a dinner theater in Swainton. Heche's father died of AIDS in March 1983, when she was thirteen, and she lost her brother in a car accident three months later."
     },
     {
       "body": "Outside of a short relationship with Ellen DeGeneres, Heche has been involved romantically with men. In 2001, she married Coleman \"Coley\" Laffoon, a cameraman whom she had met the previous year on DeGeneres' stand-up comedy tour. They have a son, Homer, born on March 2, 2002. Laffoon filed for divorce on February 2, 2007, after five and a half years of marriage, and Heche lost the ensuing custody battle with him for their son. Heche reportedly left her husband for Men in Trees co-star James Tupper. The couple moved in together in August 2007. Their son, Atlas Heche Tupper, was born on March 7, 2009.",
       "links": [],
+      "section": [
+        "Anne Heche",
+        "Biographical information",
+        "Early life"
+      ],
       "text": "Outside of a short relationship with Ellen DeGeneres, Heche has been involved romantically with men. In 2001, she married Coleman \"Coley\" Laffoon, a cameraman whom she had met the previous year on DeGeneres' stand-up comedy tour. They have a son, Homer, born on March 2, 2002. Laffoon filed for divorce on February 2, 2007, after five and a half years of marriage, and Heche lost the ensuing custody battle with him for their son. Heche reportedly left her husband for Men in Trees co-star James Tupper. The couple moved in together in August 2007. Their son, Atlas Heche Tupper, was born on March 7, 2009."
     },
     {
       "body": "In 1985, when Heche was sixteen, an agent spotted her in a school play and secured her an audition for the daytime soap opera As the World Turns. Heche flew to New York City, auditioned, and was offered a job, but her mother insisted she finish high school first. Shortly before her high school graduation in 1987, Heche was offered a dual role on the daytime soap opera Another World, which she accepted; thus, she moved away from home despite her mother's disapproval.",
       "links": [],
+      "section": [
+        "Anne Heche",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 1985, when Heche was sixteen, an agent spotted her in a school play and secured her an audition for the daytime soap opera As the World Turns. Heche flew to New York City, auditioned, and was offered a job, but her mother insisted she finish high school first. Shortly before her high school graduation in 1987, Heche was offered a dual role on the daytime soap opera Another World, which she accepted; thus, she moved away from home despite her mother's disapproval."
     },
     {
       "body": "Heche began appearing in film in 1993, debuting in the Disney adaptation of The Adventures of Huckleberry Finn. In 1996, she appeared in the independent film Walking and Talking, gaining positive notice from film critic Alison Macor of the Austin Chronicle, who wrote in her review that Heche \"is destined for larger film roles\". For her performance as Johnny Depp's wife in the 1997 crime drama Donnie Brasco, critic Janet Maslin of the New York Times wrote, \"Anne Heche does well with what could have been the thankless role.\"",
       "links": [],
+      "section": [
+        "Anne Heche",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Heche began appearing in film in 1993, debuting in the Disney adaptation of The Adventures of Huckleberry Finn. In 1996, she appeared in the independent film Walking and Talking, gaining positive notice from film critic Alison Macor of the Austin Chronicle, who wrote in her review that Heche \"is destined for larger film roles\". For her performance as Johnny Depp's wife in the 1997 crime drama Donnie Brasco, critic Janet Maslin of the New York Times wrote, \"Anne Heche does well with what could have been the thankless role.\""
     },
     {
       "body": "Heche's first high-profile role came in the 1998 romantic adventure Six Days Seven Nights; however, it was soon revealed that she was in a relationship with Ellen DeGeneres. Although Heche did land a second starring role shortly thereafter as Vince Vaughn's love interest in the acclaimed drama Return to Paradise, the romance with DeGeneres destroyed her prospects as a leading lady. Heche said she was told she would never get a job; though she has not stopped working, she has since fallen under the Hollywood radar.",
       "links": [],
+      "section": [
+        "Anne Heche",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Heche's first high-profile role came in the 1998 romantic adventure Six Days Seven Nights; however, it was soon revealed that she was in a relationship with Ellen DeGeneres. Although Heche did land a second starring role shortly thereafter as Vince Vaughn's love interest in the acclaimed drama Return to Paradise, the romance with DeGeneres destroyed her prospects as a leading lady. Heche said she was told she would never get a job; though she has not stopped working, she has since fallen under the Hollywood radar."
     },
     {
       "body": "Despite this negative stigma, Heche has still been cast in significant roles, such as the well-received independent film Birth. In 2005, she had a recurring role in Nip/Tuck. Heche also created and starred in her own series, Men in Trees and was later cast in the HBO series Hung.",
       "links": [],
+      "section": [
+        "Anne Heche",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Despite this negative stigma, Heche has still been cast in significant roles, such as the well-received independent film Birth. In 2005, she had a recurring role in Nip/Tuck. Heche also created and starred in her own series, Men in Trees and was later cast in the HBO series Hung."
     },
     {
       "body": "In March 2014, the USA Network announced Heche had been cast in its upcoming action adventure drama series Dig. She will portray the head of the FBI office in Jerusalem whose agents uncover a two-thousand-year-old conspiracy while investigating an archaeologist's murder. The six-episode series is expected to premiere in late 2014.",
       "links": [],
+      "section": [
+        "Anne Heche",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In March 2014, the USA Network announced Heche had been cast in its upcoming action adventure drama series Dig. She will portray the head of the FBI office in Jerusalem whose agents uncover a two-thousand-year-old conspiracy while investigating an archaeologist's murder. The six-episode series is expected to premiere in late 2014."
     }
   ],

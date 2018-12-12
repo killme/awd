@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Kraft Theatre (1956)",
+          "body": "${link_0} (1956)",
           "extra": "(1956)",
           "extra_text": "(1956)",
-          "links": [],
+          "links": [
+            {
+              "body": "Kraft Theatre",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0039123",
+                "page": "http://www.imdb.com/find?q=tt0039123"
+              }
+            }
+          ],
           "text": "Kraft Theatre (1956)",
-          "value": "Kraft Theatre",
+          "value": "${link_0}",
           "value_text": "Kraft Theatre"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0832007",
+                "page": "http://www.imdb.com/find?q=nm0832007"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Leonard_Stone",
+                "page": "http://en.wikipedia.org/wiki/Leonard_Stone"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/Leonard-Stone/105591436141317",
+                "page": "http://www.facebook.com/pages/Leonard-Stone/105591436141317"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -100,23 +143,319 @@
   ],
   "paragraphs": [
     {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Avatar: The Last Airbender credits",
+        "Canyon guide"
+      ],
+      "text": "111. \"The Great Divide\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "111. \"The Great Divide\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Alice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0073955",
+            "page": "http://www.imdb.com/find?q=tt0073955"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Alice"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Barney Miller",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0072472",
+            "page": "http://www.imdb.com/find?q=tt0072472"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Barney Miller"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Falcon Crest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0081858",
+            "page": "http://www.imdb.com/find?q=tt0081858"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Falcon Crest"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gunsmoke",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0047736",
+            "page": "http://www.imdb.com/find?q=tt0047736"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gunsmoke"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "L.A. Law",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090466",
+            "page": "http://www.imdb.com/find?q=tt0090466"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "L.A. Law"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Quincy M.E.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0074042",
+            "page": "http://www.imdb.com/find?q=tt0074042"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Quincy M.E."
+    },
+    {
+      "body": "${link_0} (1981)",
+      "links": [
+        {
+          "body": "American Pop",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0082009",
+            "page": "http://www.imdb.com/find?q=tt0082009"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "American Pop (1981)"
+    },
+    {
+      "body": "${link_0} (1980)",
+      "links": [
+        {
+          "body": "Hardly Working",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0082501",
+            "page": "http://www.imdb.com/find?q=tt0082501"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hardly Working (1980)"
+    },
+    {
+      "body": "${link_0} (1974)",
+      "links": [
+        {
+          "body": "The Man from Independence",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0163086",
+            "page": "http://www.imdb.com/find?q=tt0163086"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Man from Independence (1974)"
+    },
+    {
+      "body": "${link_0} (1974)",
+      "links": [
+        {
+          "body": "Mame",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0071803",
+            "page": "http://www.imdb.com/find?q=tt0071803"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mame (1974)"
+    },
+    {
+      "body": "${link_0} (1973)",
+      "links": [
+        {
+          "body": "Soylent Green",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0070723",
+            "page": "http://www.imdb.com/find?q=tt0070723"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Soylent Green (1973)"
+    },
+    {
+      "body": "${link_0} (1971)",
+      "links": [
+        {
+          "body": "Willy Wonka & the Chocolate Factory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0067992",
+            "page": "http://www.imdb.com/find?q=tt0067992"
+          }
+        }
+      ],
+      "section": [
+        "Leonard Stone",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Willy Wonka & the Chocolate Factory (1971)"
+    },
+    {
       "body": "In 1961 and 1962, Stone was twice cast in different roles on ABC's The Real McCoys in the episodes \"Money from Heaven\" and \"You Can't Beat the Army\". Between 1962 and 1966, Stone made four guest appearances on CBS' Perry Mason. In his 1962 role he played murderer Jerel Leland in \"The Case of the Hateful Hero\". He played popular and memorable characters on The Outer Limits, Sanford and Son, Lost in Space, and M*A*S*H. He appeared twice on ABC's The Donna Reed Show as Mr. Trestle in the 1961 episode \"The Good Guys and the Bad Guys\" and in 1965 as Harlan Carmody Jr. in \"Joe College\".",
       "links": [],
+      "section": [
+        "Leonard Stone",
+        "Biographical information"
+      ],
       "text": "In 1961 and 1962, Stone was twice cast in different roles on ABC's The Real McCoys in the episodes \"Money from Heaven\" and \"You Can't Beat the Army\". Between 1962 and 1966, Stone made four guest appearances on CBS' Perry Mason. In his 1962 role he played murderer Jerel Leland in \"The Case of the Hateful Hero\". He played popular and memorable characters on The Outer Limits, Sanford and Son, Lost in Space, and M*A*S*H. He appeared twice on ABC's The Donna Reed Show as Mr. Trestle in the 1961 episode \"The Good Guys and the Bad Guys\" and in 1965 as Harlan Carmody Jr. in \"Joe College\"."
     },
     {
       "body": "In 1966, he had a supporting role as Morton on the short-lived CBS sitcom The Jean Arthur Show, starring Jean Arthur and Ron Harper. Between 1988 and 1994 he appeared in twelve episodes of the NBC legal drama L.A. Law as Judge Paul Hanson. On September 22, 2000, Stone appeared as an ordinary, non-celebrity contestant on the popular game show Wheel of Fortune. He placed second, winning $4,250 in cash and a trip to Bermuda valued at $5,310.",
       "links": [],
+      "section": [
+        "Leonard Stone",
+        "Biographical information"
+      ],
       "text": "In 1966, he had a supporting role as Morton on the short-lived CBS sitcom The Jean Arthur Show, starring Jean Arthur and Ron Harper. Between 1988 and 1994 he appeared in twelve episodes of the NBC legal drama L.A. Law as Judge Paul Hanson. On September 22, 2000, Stone appeared as an ordinary, non-celebrity contestant on the popular game show Wheel of Fortune. He placed second, winning $4,250 in cash and a trip to Bermuda valued at $5,310."
     },
     {
       "body": "One of his earlier notables came in 1971 when he played Sam Beauregarde, the father of golden ticket winner Violet Beauregarde, in Willy Wonka and the Chocolate Factory.",
       "links": [],
+      "section": [
+        "Leonard Stone",
+        "Biographical information"
+      ],
       "text": "One of his earlier notables came in 1971 when he played Sam Beauregarde, the father of golden ticket winner Violet Beauregarde, in Willy Wonka and the Chocolate Factory."
     },
     {
       "body": "Stone's final role came in 2006 at the age of eighty-three, when he played a minor character in the TV movie Surrender, Dorothy.",
       "links": [],
+      "section": [
+        "Leonard Stone",
+        "Biographical information"
+      ],
       "text": "Stone's final role came in 2006 at the age of eighty-three, when he played a minor character in the TV movie Surrender, Dorothy."
     }
   ],

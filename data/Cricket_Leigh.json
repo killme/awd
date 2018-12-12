@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Mama Medea (1996)",
+          "body": "${link_0} (1996)",
           "extra": "(1996)",
           "extra_text": "(1996)",
-          "links": [],
+          "links": [
+            {
+              "body": "Mama Medea",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt2062584",
+                "page": "http://www.imdb.com/find?q=tt2062584"
+              }
+            }
+          ],
           "text": "Mama Medea (1996)",
-          "value": "Mama Medea",
+          "value": "${link_0}",
           "value_text": "Mama Medea"
         }
       ]
@@ -55,48 +68,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1185516",
+                "page": "http://www.imdb.com/find?q=nm1185516"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Cricket_Leigh",
+                "page": "http://en.wikipedia.org/wiki/Cricket_Leigh"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/cricket.leigh",
+                "page": "https://www.facebook.com/cricket.leigh"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/113491617611952809020/posts",
+                "page": "https://plus.google.com/113491617611952809020/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.cricketleigh.com/",
+                "page": "http://www.cricketleigh.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -104,8 +167,432 @@
   ],
   "paragraphs": [
     {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Avatar: The Last Airbender credits",
+        "Mai"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Chase",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Chase",
+            "page": "The_Chase"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Avatar: The Last Airbender credits",
+        "Mai"
+      ],
+      "text": "208. \"The Chase\""
+    },
+    {
+      "body": "213. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Drill",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Drill",
+            "page": "The_Drill"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Avatar: The Last Airbender credits",
+        "Mai"
+      ],
+      "text": "213. \"The Drill\""
+    },
+    {
+      "body": "216. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Avatar: The Last Airbender credits",
+        "Mai"
+      ],
+      "text": "216. \"Appa's Lost Days\""
+    },
+    {
+      "body": "219. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guru",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guru",
+            "page": "The_Guru"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Avatar: The Last Airbender credits",
+        "Mai"
+      ],
+      "text": "219. \"The Guru\""
+    },
+    {
+      "body": "220. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Crossroads of Destiny",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Crossroads_of_Destiny",
+            "page": "The_Crossroads_of_Destiny"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Avatar: The Last Airbender credits",
+        "Mai"
+      ],
+      "text": "220. \"The Crossroads of Destiny\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Awakening",
+            "page": "The_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Avatar: The Last Airbender credits",
+        "Mai"
+      ],
+      "text": "301. \"The Awakening\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Avatar: The Last Airbender credits",
+        "Mai"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Beach",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Beach",
+            "page": "The_Beach"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Avatar: The Last Airbender credits",
+        "Mai"
+      ],
+      "text": "305. \"The Beach\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Nightmares and Daydreams",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Nightmares_and_Daydreams",
+            "page": "Nightmares_and_Daydreams"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Avatar: The Last Airbender credits",
+        "Mai"
+      ],
+      "text": "309. \"Nightmares and Daydreams\""
+    },
+    {
+      "body": "315. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Avatar: The Last Airbender credits",
+        "Mai"
+      ],
+      "text": "315. \"The Boiling Rock, Part 2\""
+    },
+    {
+      "body": "321. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 4: Avatar Aang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
+            "page": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Avatar: The Last Airbender credits",
+        "Mai"
+      ],
+      "text": "321. \"Sozin's Comet, Part 4: Avatar Aang\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Zuko Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "207. \"Zuko Alone\""
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Fixing Rhonda",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0961052",
+            "page": "http://www.imdb.com/find?q=tt0961052"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fixing Rhonda (2008)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Boys & Girls Guide to Getting Down",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0464907",
+            "page": "http://www.imdb.com/find?q=tt0464907"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Boys & Girls Guide to Getting Down (2006)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender - Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1459460",
+            "page": "http://www.imdb.com/find?q=tt1459460"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Last Airbender - Into the Inferno (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Cars Mater-National",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1278169",
+            "page": "http://www.imdb.com/find?q=tt1278169"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Cars Mater-National (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lost Planet: Colonies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1469889",
+            "page": "http://www.imdb.com/find?q=tt1469889"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lost Planet: Colonies (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lost Planet: Extreme Condition",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0877346",
+            "page": "http://www.imdb.com/find?q=tt0877346"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lost Planet: Extreme Condition (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Red Faction Guerrilla",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1333108",
+            "page": "http://www.imdb.com/find?q=tt1333108"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Red Faction Guerrilla (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "White Knight Chronicles: International Edition",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1500750",
+            "page": "http://www.imdb.com/find?q=tt1500750"
+          }
+        }
+      ],
+      "section": [
+        "Cricket Leigh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "White Knight Chronicles: International Edition (video game)"
+    },
+    {
       "body": "Leigh wrote and played all eight characters in Constantly Distracted in 2005. She also played Alma on Pop Tarts in 1999, voiced Tangier in Red Faction 2 in 2002, and played Mala in Terra a year later. She played Bernice in The Boys & Girls Guide to Getting Down in 2006, and, in 2007, provided the voice of Basil in Capcom's third-person action game Lost Planet: Extreme Condition.",
       "links": [],
+      "section": [
+        "Cricket Leigh",
+        "Biographical information"
+      ],
       "text": "Leigh wrote and played all eight characters in Constantly Distracted in 2005. She also played Alma on Pop Tarts in 1999, voiced Tangier in Red Faction 2 in 2002, and played Mala in Terra a year later. She played Bernice in The Boys & Girls Guide to Getting Down in 2006, and, in 2007, provided the voice of Basil in Capcom's third-person action game Lost Planet: Extreme Condition."
     }
   ],

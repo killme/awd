@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Batman: Mystery of the Batwoman (2003; video)",
+          "body": "${link_0} (2003; video)",
           "extra": "(2003; video)",
           "extra_text": "(2003; video)",
-          "links": [],
+          "links": [
+            {
+              "body": "Batman: Mystery of the Batwoman",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0346578",
+                "page": "http://www.imdb.com/find?q=tt0346578"
+              }
+            }
+          ],
           "text": "Batman: Mystery of the Batwoman (2003; video)",
-          "value": "Batman: Mystery of the Batwoman",
+          "value": "${link_0}",
           "value_text": "Batman: Mystery of the Batwoman"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm3259753",
+                "page": "http://www.imdb.com/find?q=nm3259753"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Kim_Sang-jin",
+                "page": "http://en.wikipedia.org/wiki/Kim_Sang-jin"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,9 +124,782 @@
   ],
   "paragraphs": [
     {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The King of Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_King_of_Omashu",
+            "page": "The_King_of_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Animation director"
+      ],
+      "text": "105. \"The King of Omashu\""
+    },
+    {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Animation director"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Animation director"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Animation director"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Chase",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Chase",
+            "page": "The_Chase"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Animation director"
+      ],
+      "text": "208. \"The Chase\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Animation director"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "219. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guru",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guru",
+            "page": "The_Guru"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Animation director"
+      ],
+      "text": "219. \"The Guru\""
+    },
+    {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The King of Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_King_of_Omashu",
+            "page": "The_King_of_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Key animator"
+      ],
+      "text": "105. \"The King of Omashu\""
+    },
+    {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising director overseas"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising director overseas"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising director overseas"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Timing director"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "115. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bato of the Water Tribe",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bato_of_the_Water_Tribe",
+            "page": "Bato_of_the_Water_Tribe"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Timing director"
+      ],
+      "text": "115. \"Bato of the Water Tribe\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Chase",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Chase",
+            "page": "The_Chase"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "208. \"The Chase\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "217. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lake Laogai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai_(episode)",
+            "page": "Lake_Laogai_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "217. \"Lake Laogai\""
+    },
+    {
+      "body": "219. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guru",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guru",
+            "page": "The_Guru"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "219. \"The Guru\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Awakening",
+            "page": "The_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "301. \"The Awakening\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Painted Lady",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Painted_Lady",
+            "page": "The_Painted_Lady"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "303. \"The Painted Lady\""
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Beach",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Beach",
+            "page": "The_Beach"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "305. \"The Beach\""
+    },
+    {
+      "body": "307. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Runaway",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Runaway",
+            "page": "The_Runaway"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "307. \"The Runaway\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Nightmares and Daydreams",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Nightmares_and_Daydreams",
+            "page": "Nightmares_and_Daydreams"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "309. \"Nightmares and Daydreams\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Firebending Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Firebending_Masters",
+            "page": "The_Firebending_Masters"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "313. \"The Firebending Masters\""
+    },
+    {
+      "body": "315. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "315. \"The Boiling Rock, Part 2\""
+    },
+    {
+      "body": "316. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Raiders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Raiders",
+            "page": "The_Southern_Raiders"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "316. \"The Southern Raiders\""
+    },
+    {
+      "body": "319. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 2: The Old Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_2__The_Old_Masters",
+            "page": "Sozin%27s_Comet%2c_Part_2__The_Old_Masters"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Supervising animation director"
+      ],
+      "text": "319. \"Sozin's Comet, Part 2: The Old Masters\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Puppetmaster",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Puppetmaster",
+            "page": "The_Puppetmaster"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "308. \"The Puppetmaster\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Nightmares and Daydreams",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Nightmares_and_Daydreams",
+            "page": "Nightmares_and_Daydreams"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "309. \"Nightmares and Daydreams\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Firebending Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Firebending_Masters",
+            "page": "The_Firebending_Masters"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "313. \"The Firebending Masters\""
+    },
+    {
+      "body": "315. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "315. \"The Boiling Rock, Part 2\""
+    },
+    {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Voice in the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Voice_in_the_Night",
+            "page": "The_Voice_in_the_Night"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "104. \"The Voice in the Night\""
+    },
+    {
+      "body": "${link_0} (2011; video - sequence director)",
+      "links": [
+        {
+          "body": "Dead Space: Aftermath",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1711366",
+            "page": "http://www.imdb.com/find?q=tt1711366"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dead Space: Aftermath (2011; video - sequence director)"
+    },
+    {
+      "body": "${link_0} (2010; video - animation director)",
+      "links": [
+        {
+          "body": "Dante's Inferno: An Animated Epic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1401113",
+            "page": "http://www.imdb.com/find?q=tt1401113"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dante's Inferno: An Animated Epic (2010; video - animation director)"
+    },
+    {
+      "body": "${link_0} (2009; video - animation and supervising director)",
+      "links": [
+        {
+          "body": "Wonder Woman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1186373",
+            "page": "http://www.imdb.com/find?q=tt1186373"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Wonder Woman (2009; video - animation and supervising director)"
+    },
+    {
+      "body": "${link_0} (2003; video - layout artist)",
+      "links": [
+        {
+          "body": "Batman: Mystery of the Batwoman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0346578",
+            "page": "http://www.imdb.com/find?q=tt0346578"
+          }
+        }
+      ],
+      "section": [
+        "Kim Sang-Jin",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Batman: Mystery of the Batwoman (2003; video - layout artist)"
+    },
+    {
       "body": "Kim attended Hanyang University in South Korea, where he earned his Bachelor of Arts in Drama.",
       "links": [],
+      "section": [
+        "Kim Sang-Jin",
+        "Biographical information"
+      ],
       "text": "Kim attended Hanyang University in South Korea, where he earned his Bachelor of Arts in Drama."
+    },
+    {
+      "body": "2007: Won a Primetime Emmy Award for Avatar: The Last Airbender (Outstanding Individual Achievement in Animation)",
+      "links": [],
+      "section": [
+        "Kim Sang-Jin",
+        "Awards"
+      ],
+      "text": "2007: Won a Primetime Emmy Award for Avatar: The Last Airbender (Outstanding Individual Achievement in Animation)"
     }
   ],
   "source": {

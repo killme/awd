@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Koko wa Greenwood (1991; English version)",
+          "body": "${link_0} (1991; English version)",
           "extra": "(1991; English version)",
           "extra_text": "(1991; English version)",
-          "links": [],
+          "links": [
+            {
+              "body": "Koko wa Greenwood",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0102230",
+                "page": "http://www.imdb.com/find?q=tt0102230"
+              }
+            }
+          ],
           "text": "Koko wa Greenwood (1991; English version)",
-          "value": "Koko wa Greenwood",
+          "value": "${link_0}",
           "value_text": "Koko wa Greenwood"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm01315809",
+                "page": "http://www.imdb.com/find?q=nm01315809"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Stephanie_Sheh",
+                "page": "http://en.wikipedia.org/wiki/Stephanie_Sheh"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Stephanie-Sheh/10078228204",
+                "page": "https://www.facebook.com/pages/Stephanie-Sheh/10078228204"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.stephaniesheh.com/",
+                "page": "http://www.stephaniesheh.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/stephaniesheh",
+                "page": "https://twitter.com/stephaniesheh"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,14 +181,1002 @@
   ],
   "paragraphs": [
     {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_1",
+            "page": "Civil_Wars%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Zhu Li"
+      ],
+      "text": "203. \"Civil Wars, Part 1\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_2",
+            "page": "Civil_Wars%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Zhu Li"
+      ],
+      "text": "204. \"Civil Wars, Part 2\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Zhu Li"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Night of a Thousand Stars",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Night_of_a_Thousand_Stars",
+            "page": "Night_of_a_Thousand_Stars"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Zhu Li"
+      ],
+      "text": "211. \"Night of a Thousand Stars\""
+    },
+    {
+      "body": "403. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Coronation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Coronation",
+            "page": "The_Coronation"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Zhu Li"
+      ],
+      "text": "403. \"The Coronation\""
+    },
+    {
+      "body": "405. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enemy at the Gates",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enemy_at_the_Gates",
+            "page": "Enemy_at_the_Gates"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Zhu Li"
+      ],
+      "text": "405. \"Enemy at the Gates\""
+    },
+    {
+      "body": "406. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Battle of Zaofu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Battle_of_Zaofu",
+            "page": "The_Battle_of_Zaofu"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Zhu Li"
+      ],
+      "text": "406. \"The Battle of Zaofu\""
+    },
+    {
+      "body": "410. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Operation Beifong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Operation_Beifong",
+            "page": "Operation_Beifong"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Zhu Li"
+      ],
+      "text": "410. \"Operation Beifong\""
+    },
+    {
+      "body": "411. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Kuvira's Gambit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kuvira%27s_Gambit",
+            "page": "Kuvira%27s_Gambit"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Zhu Li"
+      ],
+      "text": "411. \"Kuvira's Gambit\""
+    },
+    {
+      "body": "412. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Day of the Colossus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Day_of_the_Colossus",
+            "page": "Day_of_the_Colossus"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Zhu Li"
+      ],
+      "text": "412. \"Day of the Colossus\""
+    },
+    {
+      "body": "413. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Last Stand",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Last_Stand",
+            "page": "The_Last_Stand"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Zhu Li"
+      ],
+      "text": "413. \"The Last Stand\""
+    },
+    {
+      "body": "403. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Coronation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Coronation",
+            "page": "The_Coronation"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Girl"
+      ],
+      "text": "403. \"The Coronation\""
+    },
+    {
+      "body": "403. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Coronation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Coronation",
+            "page": "The_Coronation"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Kid"
+      ],
+      "text": "403. \"The Coronation\""
+    },
+    {
+      "body": "413. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Last Stand",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Last_Stand",
+            "page": "The_Last_Stand"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "The Legend of Korra credits",
+        "Rohan"
+      ],
+      "text": "413. \"The Last Stand\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "A Little Snow Fairy Sugar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108850",
+            "page": "http://www.imdb.com/find?q=tt0108850"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "A Little Snow Fairy Sugar"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bleach",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0434665",
+            "page": "http://www.imdb.com/find?q=tt0434665"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bleach"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Digimon Data Squad",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1138300",
+            "page": "http://www.imdb.com/find?q=tt1138300"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Digimon Data Squad"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Friends: Dolphin Cruise",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2969712",
+            "page": "http://www.imdb.com/find?q=tt2969712"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Friends: Dolphin Cruise (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie; English version)",
+      "links": [
+        {
+          "body": "Ghost Talker's Daydream",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0896540",
+            "page": "http://www.imdb.com/find?q=tt0896540"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ghost Talker's Daydream (TV movie; English version)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Koi Kaze",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108850",
+            "page": "http://www.imdb.com/find?q=tt0108850"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Koi Kaze"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lucky Star",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1086236",
+            "page": "http://www.imdb.com/find?q=tt1086236"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lucky Star"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "M\u00c4R: M\u00e4rchen Awakens Romance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0841963",
+            "page": "http://www.imdb.com/find?q=tt0841963"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "M\u00c4R: M\u00e4rchen Awakens Romance"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Marmalade Boy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108850",
+            "page": "http://www.imdb.com/find?q=tt0108850"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Marmalade Boy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Monster",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0434706",
+            "page": "http://www.imdb.com/find?q=tt0434706"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Monster"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Naruto",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0409591",
+            "page": "http://www.imdb.com/find?q=tt0409591"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Naruto"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Never Better",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1230559",
+            "page": "http://www.imdb.com/find?q=tt1230559"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Never Better (TV movie)"
+    },
+    {
+      "body": "${link_0} (Viz Media dub)",
+      "links": [
+        {
+          "body": "Sailor Moon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103369",
+            "page": "http://www.imdb.com/find?q=tt0103369"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sailor Moon (Viz Media dub)"
+    },
+    {
+      "body": "${link_0} (Viz Media dub)",
+      "links": [
+        {
+          "body": "Sailor Moon Crystal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3124992",
+            "page": "http://www.imdb.com/find?q=tt3124992"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sailor Moon Crystal (Viz Media dub)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Secret Millionaires Club",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2111011",
+            "page": "http://www.imdb.com/find?q=tt2111011"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Secret Millionaires Club"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "X-Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2070571",
+            "page": "http://www.imdb.com/find?q=tt2070571"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "X-Men"
+    },
+    {
+      "body": "${link_0} (2012; English version)",
+      "links": [
+        {
+          "body": "Ernest & Celestine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1816518",
+            "page": "http://www.imdb.com/find?q=tt1816518"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ernest & Celestine (2012; English version)"
+    },
+    {
+      "body": "${link_0} (2006; English version)",
+      "links": [
+        {
+          "body": "Mushi-shi: The Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0862946",
+            "page": "http://www.imdb.com/find?q=tt0862946"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mushi-shi: The Movie (2006; English version)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Oldboy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364569",
+            "page": "http://www.imdb.com/find?q=tt0364569"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Oldboy (2003)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "The Yellow Sign",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0370081",
+            "page": "http://www.imdb.com/find?q=tt0370081"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Yellow Sign (2001)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Detatoko Princess",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2498430",
+            "page": "http://www.imdb.com/find?q=tt2498430"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Detatoko Princess (1997)"
+    },
+    {
+      "body": "${link_0} (1991; video)",
+      "links": [
+        {
+          "body": "Here Is Greenwood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0102230",
+            "page": "http://www.imdb.com/find?q=tt0102230"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Here Is Greenwood (1991; video)"
+    },
+    {
+      "body": "${link_0} (English version - casting director)",
+      "links": [
+        {
+          "body": "A Cat in Paris",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1673702",
+            "page": "http://www.imdb.com/find?q=tt1673702"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "A Cat in Paris (English version - casting director)"
+    },
+    {
+      "body": "${link_0} (video game; English version)",
+      "links": [
+        {
+          "body": "Aion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1621638",
+            "page": "http://www.imdb.com/find?q=tt1621638"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Aion (video game; English version)"
+    },
+    {
+      "body": "${link_0} (producer)",
+      "links": [
+        {
+          "body": "FLCL",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0279077",
+            "page": "http://www.imdb.com/find?q=tt0279077"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "FLCL (producer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Might ad Magic VII: For Blood and Honor",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0387415",
+            "page": "http://www.imdb.com/find?q=tt0387415"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Might ad Magic VII: For Blood and Honor (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Mother Myth",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3455582",
+            "page": "http://www.imdb.com/find?q=tt3455582"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mother Myth (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Naruto: Uzumaki Chronicles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1014679",
+            "page": "http://www.imdb.com/find?q=tt1014679"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Naruto: Uzumaki Chronicles (video game)"
+    },
+    {
+      "body": "${link_0} (voice director and writer)",
+      "links": [
+        {
+          "body": "Paradise Kiss",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0498443",
+            "page": "http://www.imdb.com/find?q=tt0498443"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Paradise Kiss (voice director and writer)"
+    },
+    {
+      "body": "${link_0} (video game - voice director)",
+      "links": [
+        {
+          "body": "Resident Evil: The Dark Side Chronicles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1538367",
+            "page": "http://www.imdb.com/find?q=tt1538367"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Resident Evil: The Dark Side Chronicles (video game - voice director)"
+    },
+    {
+      "body": "${link_0} (sound engineer)",
+      "links": [
+        {
+          "body": "Robotomy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1747438",
+            "page": "http://www.imdb.com/find?q=tt1747438"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Robotomy (sound engineer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Soulcalibur V",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2084092",
+            "page": "http://www.imdb.com/find?q=tt2084092"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Soulcalibur V (video game)"
+    },
+    {
+      "body": "${link_0} (sound engineer)",
+      "links": [
+        {
+          "body": "SuperNorma",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1101003",
+            "page": "http://www.imdb.com/find?q=tt1101003"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "SuperNorma (sound engineer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "WarioWare Gold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt8598494",
+            "page": "http://www.imdb.com/find?q=tt8598494"
+          }
+        }
+      ],
+      "section": [
+        "Stephanie Sheh",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "WarioWare Gold (video game)"
+    },
+    {
       "body": "Sheh is fluent in English and Mandarin Chinese and can also speak some Taiwanese. She has also studied Japanese and Spanish. Her last name stands for \"stone\" in Chinese.",
       "links": [],
+      "section": [
+        "Stephanie Sheh",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Sheh is fluent in English and Mandarin Chinese and can also speak some Taiwanese. She has also studied Japanese and Spanish. Her last name stands for \"stone\" in Chinese."
     },
     {
       "body": "As \"Jennifer Sekiguchi\", she has been honored with a nomination for \"Best Voice Actress in an Anime Comedy\" by the American Anime Awards for her voice-over work as Kirie Kojima in Girls Bravo, and Guu in Har\u00e9+Guu / Har\u00e9+Guu Deluxe.",
       "links": [],
+      "section": [
+        "Stephanie Sheh",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "As \"Jennifer Sekiguchi\", she has been honored with a nomination for \"Best Voice Actress in an Anime Comedy\" by the American Anime Awards for her voice-over work as Kirie Kojima in Girls Bravo, and Guu in Har\u00e9+Guu / Har\u00e9+Guu Deluxe."
+    },
+    {
+      "body": "The reason Sheh goes under so many names is because, in the beginning of her voice acting career, she had an \"identity crisis\". She was afraid of being obsessed into trying to be a celebrity and thought that she should work on being an actor, rather than having fans and being popular.",
+      "links": [],
+      "section": [
+        "Stephanie Sheh",
+        "Trivia"
+      ],
+      "text": "The reason Sheh goes under so many names is because, in the beginning of her voice acting career, she had an \"identity crisis\". She was afraid of being obsessed into trying to be a celebrity and thought that she should work on being an actor, rather than having fans and being popular."
+    },
+    {
+      "body": "Her hobbies are swimming, exercising, karaoke, photography, and dancing.",
+      "links": [],
+      "section": [
+        "Stephanie Sheh",
+        "Trivia"
+      ],
+      "text": "Her hobbies are swimming, exercising, karaoke, photography, and dancing."
     }
   ],
   "source": {

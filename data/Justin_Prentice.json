@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Store Front (2008; video short)",
+          "body": "${link_0} (2008; video short)",
           "extra": "(2008; video short)",
           "extra_text": "(2008; video short)",
-          "links": [],
+          "links": [
+            {
+              "body": "Store Front",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1517510",
+                "page": "http://www.imdb.com/find?q=tt1517510"
+              }
+            }
+          ],
           "text": "Store Front (2008; video short)",
-          "value": "Store Front",
+          "value": "${link_0}",
           "value_text": "Store Front"
         }
       ]
@@ -41,27 +54,348 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm3624428",
+                "page": "http://www.imdb.com/find?q=nm3624428"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/JustinPrentice",
+                "page": "https://twitter.com/JustinPrentice"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "The Legend of Korra credits",
+        "Jaya"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "The Legend of Korra credits",
+        "Jaya"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Criminal Minds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0452046",
+            "page": "http://www.imdb.com/find?q=tt0452046"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Criminal Minds"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "iCarly",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0972534",
+            "page": "http://www.imdb.com/find?q=tt0972534"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "iCarly"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Malibu Country",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2215291",
+            "page": "http://www.imdb.com/find?q=tt2215291"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Malibu Country"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Marvin Marvin",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2453016",
+            "page": "http://www.imdb.com/find?q=tt2453016"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Marvin Marvin"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Melissa & Joey",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1597420",
+            "page": "http://www.imdb.com/find?q=tt1597420"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Melissa & Joey"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Suburgatory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1741256",
+            "page": "http://www.imdb.com/find?q=tt1741256"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Suburgatory"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Middle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1442464",
+            "page": "http://www.imdb.com/find?q=tt1442464"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Middle"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Victorious",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1604099",
+            "page": "http://www.imdb.com/find?q=tt1604099"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Victorious"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Winx Club: Enchantix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2033921",
+            "page": "http://www.imdb.com/find?q=tt2033921"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Winx Club: Enchantix"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "13 Reasons Why",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1837492",
+            "page": "http://www.imdb.com/find?q=tt1837492"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "13 Reasons Why"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Me Again",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1814790",
+            "page": "http://www.imdb.com/find?q=tt1814790"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Me Again (2012)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Terri",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1687281",
+            "page": "http://www.imdb.com/find?q=tt1687281"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Terri (2011)"
+    },
+    {
+      "body": "${link_0} (2008; short)",
+      "links": [
+        {
+          "body": "Store Front",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1517510",
+            "page": "http://www.imdb.com/find?q=tt1517510"
+          }
+        }
+      ],
+      "section": [
+        "Justin Prentice",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Store Front (2008; short)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Justin_Prentice",
     "file": "avatar.wikia.com/wiki/Justin_Prentice.html",

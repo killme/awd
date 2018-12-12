@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -34,12 +38,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Pink Panther and Sons (1984 - casting director)",
+          "body": "${link_0} (1984 - casting director)",
           "extra": "(1984 - casting director)",
           "extra_text": "(1984 - casting director)",
-          "links": [],
+          "links": [
+            {
+              "body": "Pink Panther and Sons",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0420438",
+                "page": "http://www.imdb.com/find?q=tt0420438"
+              }
+            }
+          ],
           "text": "Pink Panther and Sons (1984 - casting director)",
-          "value": "Pink Panther and Sons",
+          "value": "${link_0}",
           "value_text": "Pink Panther and Sons"
         }
       ]
@@ -48,21 +62,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0738849",
+                "page": "http://www.imdb.com/find?q=nm0738849"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Andrea_Romano",
+                "page": "http://en.wikipedia.org/wiki/Andrea_Romano"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -70,34 +104,432 @@
   ],
   "paragraphs": [
     {
+      "body": "218. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_King",
+            "page": "The_Earth_King"
+          }
+        }
+      ],
+      "section": [
+        "Andrea Romano",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "218. \"The Earth King\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Andrea Romano",
+        "The Legend of Korra credits",
+        "Innkeeper"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Animaniacs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105941",
+            "page": "http://www.imdb.com/find?q=tt0105941"
+          }
+        }
+      ],
+      "section": [
+        "Andrea Romano",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Animaniacs"
+    },
+    {
+      "body": "${link_0} (2011; video)",
+      "links": [
+        {
+          "body": "Green Lantern: Emerald Knights",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1683043",
+            "page": "http://www.imdb.com/find?q=tt1683043"
+          }
+        }
+      ],
+      "section": [
+        "Andrea Romano",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Green Lantern: Emerald Knights (2011; video)"
+    },
+    {
+      "body": "${link_0} (2010; video)",
+      "links": [
+        {
+          "body": "Superman/Batman: Apocalypse",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1673430",
+            "page": "http://www.imdb.com/find?q=tt1673430"
+          }
+        }
+      ],
+      "section": [
+        "Andrea Romano",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Superman/Batman: Apocalypse (2010; video)"
+    },
+    {
+      "body": "${link_0} (2009; video)",
+      "links": [
+        {
+          "body": "Wonder Woman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1186373",
+            "page": "http://www.imdb.com/find?q=tt1186373"
+          }
+        }
+      ],
+      "section": [
+        "Andrea Romano",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Wonder Woman (2009; video)"
+    },
+    {
+      "body": "${link_0} (2008; video)",
+      "links": [
+        {
+          "body": "Batman: Gotham Knight",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1117563",
+            "page": "http://www.imdb.com/find?q=tt1117563"
+          }
+        }
+      ],
+      "section": [
+        "Andrea Romano",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Batman: Gotham Knight (2008; video)"
+    },
+    {
+      "body": "${link_0} (2003; video)",
+      "links": [
+        {
+          "body": "Batman: Mystery of the Batwoman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0346578",
+            "page": "http://www.imdb.com/find?q=tt0346578"
+          }
+        }
+      ],
+      "section": [
+        "Andrea Romano",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Batman: Mystery of the Batwoman (2003; video)"
+    },
+    {
+      "body": "${link_0} (2000; video)",
+      "links": [
+        {
+          "body": "Batman Beyond: Return of the Joker",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0233298",
+            "page": "http://www.imdb.com/find?q=tt0233298"
+          }
+        }
+      ],
+      "section": [
+        "Andrea Romano",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Batman Beyond: Return of the Joker (2000; video)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold - The Videogame",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1613073",
+            "page": "http://www.imdb.com/find?q=tt1613073"
+          }
+        }
+      ],
+      "section": [
+        "Andrea Romano",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Batman: The Brave and the Bold - The Videogame (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Floigan Bros.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0414990",
+            "page": "http://www.imdb.com/find?q=tt0414990"
+          }
+        }
+      ],
+      "section": [
+        "Andrea Romano",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Floigan Bros. (video game)"
+    },
+    {
+      "body": "${link_0} (casting director)",
+      "links": [
+        {
+          "body": "Justice League",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275137",
+            "page": "http://www.imdb.com/find?q=tt0275137"
+          }
+        }
+      ],
+      "section": [
+        "Andrea Romano",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Justice League (casting director)"
+    },
+    {
+      "body": "${link_0} (voice director)",
+      "links": [
+        {
+          "body": "Teen Titans",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0343314",
+            "page": "http://www.imdb.com/find?q=tt0343314"
+          }
+        }
+      ],
+      "section": [
+        "Andrea Romano",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Teen Titans (voice director)"
+    },
+    {
       "body": "Romano grew up in Long Island, New York. She pursued undergraduate education at State University of New York at Fredonia, graduating in 1977, before attending Rutgers University, from which she chose to not graduate. At this time, she began auditioning for plays in Manhattan. While keeping a steady job during the day, Romano would perform in plays at night, often auditioning on her lunch break.",
       "links": [],
+      "section": [
+        "Andrea Romano",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Romano grew up in Long Island, New York. She pursued undergraduate education at State University of New York at Fredonia, graduating in 1977, before attending Rutgers University, from which she chose to not graduate. At this time, she began auditioning for plays in Manhattan. While keeping a steady job during the day, Romano would perform in plays at night, often auditioning on her lunch break."
     },
     {
       "body": "In 1979, Romano moved to San Diego, where it was difficult for her to find theater work. After working in a couple of plays, she was offered a temporary position at Abrams-Rubaloff, a talent agency in Los Angeles. Within months, due to the temporary position lasting longer than expected, Romano was franchised as an agent.",
       "links": [],
+      "section": [
+        "Andrea Romano",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "In 1979, Romano moved to San Diego, where it was difficult for her to find theater work. After working in a couple of plays, she was offered a temporary position at Abrams-Rubaloff, a talent agency in Los Angeles. Within months, due to the temporary position lasting longer than expected, Romano was franchised as an agent."
     },
     {
       "body": "After leaving Abrams-Rubaloff, Romano joined Special Artists, a smaller agency, and began their voice-over department. While at Special Artists, she would also direct the potential client auditions. It was during her time at Special Artists that Romano began attending some of her clients' recording sessions at Hanna\u2013Barbera. After a short time at Special Artists, she was asked to audition at Hanna\u2013Barbera for the position of casting director.",
       "links": [],
+      "section": [
+        "Andrea Romano",
+        "Biographical information",
+        "Career"
+      ],
       "text": "After leaving Abrams-Rubaloff, Romano joined Special Artists, a smaller agency, and began their voice-over department. While at Special Artists, she would also direct the potential client auditions. It was during her time at Special Artists that Romano began attending some of her clients' recording sessions at Hanna\u2013Barbera. After a short time at Special Artists, she was asked to audition at Hanna\u2013Barbera for the position of casting director."
     },
     {
       "body": "Romano joined Hanna\u2013Barbera in 1984. While at Hanna\u2013Barbera, a position which lasted more than five years, Romano worked on such programs as The Smurfs, The New Adventures of Jonny Quest, and the 1987 reboot of The Jetsons, among others. She also worked on Jetsons: The Movie, though she had her name removed from the credits when an executive decision resulted in Janet Waldo being replaced.",
       "links": [],
+      "section": [
+        "Andrea Romano",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Romano joined Hanna\u2013Barbera in 1984. While at Hanna\u2013Barbera, a position which lasted more than five years, Romano worked on such programs as The Smurfs, The New Adventures of Jonny Quest, and the 1987 reboot of The Jetsons, among others. She also worked on Jetsons: The Movie, though she had her name removed from the credits when an executive decision resulted in Janet Waldo being replaced."
     },
     {
       "body": "Romano was approached by Disney, which was developing DuckTales at the time, to audition for the position of voice director of the series. Disney was auditioning five directors but chose to stop the audition process after Romano. Romano directed sixty-five episodes of DuckTales.",
       "links": [],
+      "section": [
+        "Andrea Romano",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Romano was approached by Disney, which was developing DuckTales at the time, to audition for the position of voice director of the series. Disney was auditioning five directors but chose to stop the audition process after Romano. Romano directed sixty-five episodes of DuckTales."
     },
     {
       "body": "Since 2000, Romano has served as casting and voice director for a number of series, including: Justice League, Teen Titans, The Batman, SpongeBob SquarePants, Ben 10: Alien Force, and Batman: The Brave and the Bold.",
       "links": [],
+      "section": [
+        "Andrea Romano",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Since 2000, Romano has served as casting and voice director for a number of series, including: Justice League, Teen Titans, The Batman, SpongeBob SquarePants, Ben 10: Alien Force, and Batman: The Brave and the Bold."
+    },
+    {
+      "body": "2009: Won a Daytime Emmy Award for El Tigre: The Adventures of Manny Rivera (Outstanding Directing in an Animated Program)",
+      "links": [],
+      "section": [
+        "Andrea Romano",
+        "Awards"
+      ],
+      "text": "2009: Won a Daytime Emmy Award for El Tigre: The Adventures of Manny Rivera (Outstanding Directing in an Animated Program)"
+    },
+    {
+      "body": "2001: Won a Daytime Emmy Award for Batman Beyond (Outstanding Special Class Animated Program)",
+      "links": [],
+      "section": [
+        "Andrea Romano",
+        "Awards"
+      ],
+      "text": "2001: Won a Daytime Emmy Award for Batman Beyond (Outstanding Special Class Animated Program)"
+    },
+    {
+      "body": "2000: Won a Daytime Emmy Award for Superman (Outstanding Children's Animated Program)",
+      "links": [],
+      "section": [
+        "Andrea Romano",
+        "Awards"
+      ],
+      "text": "2000: Won a Daytime Emmy Award for Superman (Outstanding Children's Animated Program)"
+    },
+    {
+      "body": "2000: Won a Daytime Emmy Award for The Sylvester & Tweety Mysteries (Outstanding Special Class Animated Program)",
+      "links": [],
+      "section": [
+        "Andrea Romano",
+        "Awards"
+      ],
+      "text": "2000: Won a Daytime Emmy Award for The Sylvester & Tweety Mysteries (Outstanding Special Class Animated Program)"
+    },
+    {
+      "body": "2000: Won a Daytime Emmy Award for Batman Beyond (Outstanding Special Class Animated Program)",
+      "links": [],
+      "section": [
+        "Andrea Romano",
+        "Awards"
+      ],
+      "text": "2000: Won a Daytime Emmy Award for Batman Beyond (Outstanding Special Class Animated Program)"
+    },
+    {
+      "body": "1999: Won a Daytime Emmy Award for Pinky and the Brain (Outstanding Special Class Animated Program)",
+      "links": [],
+      "section": [
+        "Andrea Romano",
+        "Awards"
+      ],
+      "text": "1999: Won a Daytime Emmy Award for Pinky and the Brain (Outstanding Special Class Animated Program)"
+    },
+    {
+      "body": "1998: Won a Daytime Emmy Award for The New Batman Adventures (Outstanding Special Class Animated Program)",
+      "links": [],
+      "section": [
+        "Andrea Romano",
+        "Awards"
+      ],
+      "text": "1998: Won a Daytime Emmy Award for The New Batman Adventures (Outstanding Special Class Animated Program)"
+    },
+    {
+      "body": "1997: Won a Daytime Emmy Award for Animainacs (Outstanding Children's Animated Program)",
+      "links": [],
+      "section": [
+        "Andrea Romano",
+        "Awards"
+      ],
+      "text": "1997: Won a Daytime Emmy Award for Animainacs (Outstanding Children's Animated Program)"
+    },
+    {
+      "body": "1996: Won a Daytime Emmy Award for Animaniacs (Outstanding Achievement in Animation)",
+      "links": [],
+      "section": [
+        "Andrea Romano",
+        "Awards"
+      ],
+      "text": "1996: Won a Daytime Emmy Award for Animaniacs (Outstanding Achievement in Animation)"
+    },
+    {
+      "body": "Romano is \"renowned for considering 250-300 actors for lead roles\", according to UGO network.",
+      "links": [],
+      "section": [
+        "Andrea Romano",
+        "Trivia"
+      ],
+      "text": "Romano is \"renowned for considering 250-300 actors for lead roles\", according to UGO network."
+    },
+    {
+      "body": "She does not like to replace actors and that is why she values actors who are not celebrities, because, as she has said; \"replacing a celebrity ... that's really uncomfortable.\"",
+      "links": [],
+      "section": [
+        "Andrea Romano",
+        "Trivia"
+      ],
+      "text": "She does not like to replace actors and that is why she values actors who are not celebrities, because, as she has said; \"replacing a celebrity ... that's really uncomfortable.\""
+    },
+    {
+      "body": "Romano has joked that fans can sometimes tell what she has been watching on television or in the movies by who she casts.",
+      "links": [],
+      "section": [
+        "Andrea Romano",
+        "Trivia"
+      ],
+      "text": "Romano has joked that fans can sometimes tell what she has been watching on television or in the movies by who she casts."
     }
   ],
   "source": {

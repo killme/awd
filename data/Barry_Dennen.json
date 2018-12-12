@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Batman (1968)",
+          "body": "${link_0} (1968)",
           "extra": "(1968)",
           "extra_text": "(1968)",
-          "links": [],
+          "links": [
+            {
+              "body": "Batman",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0059968",
+                "page": "http://www.imdb.com/find?q=tt0059968"
+              }
+            }
+          ],
           "text": "Batman (1968)",
-          "value": "Batman",
+          "value": "${link_0}",
           "value_text": "Batman"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0219336",
+                "page": "http://www.imdb.com/find?q=nm0219336"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Barry_Dennen",
+                "page": "http://en.wikipedia.org/wiki/Barry_Dennen"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.barrydennen.com/index.htm",
+                "page": "http://www.barrydennen.com/index.htm"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -100,33 +143,503 @@
   ],
   "paragraphs": [
     {
+      "body": "213. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Drill",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Drill",
+            "page": "The_Drill"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Avatar: The Last Airbender credits",
+        "Sung"
+      ],
+      "text": "213. \"The Drill\""
+    },
+    {
+      "body": "218. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_King",
+            "page": "The_Earth_King"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "218. \"The Earth King\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "DuckTales",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092345",
+            "page": "http://www.imdb.com/find?q=tt0092345"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "DuckTales"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hill Street Blues",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0081873",
+            "page": "http://www.imdb.com/find?q=tt0081873"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hill Street Blues"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Murder, She Wrote",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086765",
+            "page": "http://www.imdb.com/find?q=tt0086765"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Murder, She Wrote"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Murphy Brown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094514",
+            "page": "http://www.imdb.com/find?q=tt0094514"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Murphy Brown"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Grim Adventures of Billy & Mandy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292800",
+            "page": "http://www.imdb.com/find?q=tt0292800"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Grim Adventures of Billy & Mandy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Pirates of Dark Water",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101169",
+            "page": "http://www.imdb.com/find?q=tt0101169"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Pirates of Dark Water"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Titanic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120338",
+            "page": "http://www.imdb.com/find?q=tt0120338"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Titanic (1997)"
+    },
+    {
+      "body": "${link_0} (1982)",
+      "links": [
+        {
+          "body": "Trading Places",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0083791",
+            "page": "http://www.imdb.com/find?q=tt0083791"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Trading Places (1982)"
+    },
+    {
+      "body": "${link_0} (1980)",
+      "links": [
+        {
+          "body": "The Shining",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0081505",
+            "page": "http://www.imdb.com/find?q=tt0081505"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Shining (1980)"
+    },
+    {
+      "body": "${link_0} (1977)",
+      "links": [
+        {
+          "body": "The Kentucky Fried Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0076257",
+            "page": "http://www.imdb.com/find?q=tt0076257"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Kentucky Fried Movie (1977)"
+    },
+    {
+      "body": "${link_0} (1973)",
+      "links": [
+        {
+          "body": "Jesus Christ Superstar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0070239",
+            "page": "http://www.imdb.com/find?q=tt0070239"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Jesus Christ Superstar (1973)"
+    },
+    {
+      "body": "${link_0} (1972)",
+      "links": [
+        {
+          "body": "Fiddler on the Roof",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0067093",
+            "page": "http://www.imdb.com/find?q=tt0067093"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fiddler on the Roof (1972)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Arcanum: Of Steamworks and Magick Obscura",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0289851",
+            "page": "http://www.imdb.com/find?q=tt0289851"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Arcanum: Of Steamworks and Magick Obscura (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dragon Age: Origins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1541718",
+            "page": "http://www.imdb.com/find?q=tt1541718"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dragon Age: Origins (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fantastic Four",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0476458",
+            "page": "http://www.imdb.com/find?q=tt0476458"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fantastic Four (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lightning Returns: Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2960890",
+            "page": "http://www.imdb.com/find?q=tt2960890"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lightning Returns: Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lionheart",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0373095",
+            "page": "http://www.imdb.com/find?q=tt0373095"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lionheart (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid 2: Sons of Liberty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0249008",
+            "page": "http://www.imdb.com/find?q=tt0249008"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid 2: Sons of Liberty (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Trek: Hidden Evil",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0216237",
+            "page": "http://www.imdb.com/find?q=tt0216237"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Trek: Hidden Evil (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Wing Commander IV: The Price of Freedom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0114950",
+            "page": "http://www.imdb.com/find?q=tt0114950"
+          }
+        }
+      ],
+      "section": [
+        "Barry Dennen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Wing Commander IV: The Price of Freedom (video game)"
+    },
+    {
       "body": "Dennen was born in Chicago, Illinois. He was in a relationship with Barbra Streisand from 1960 to 1963, which included their living together for a year, during which time he helped her develop the nightclub act that began her successful career as a singer and actress.",
       "links": [],
+      "section": [
+        "Barry Dennen",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Dennen was born in Chicago, Illinois. He was in a relationship with Barbra Streisand from 1960 to 1963, which included their living together for a year, during which time he helped her develop the nightclub act that began her successful career as a singer and actress."
     },
     {
       "body": "He lived in London for fifteen years and in 1968 landed the starring role of the master of ceremonies in the London version of Cabaret. In 1970, he played Pontius Pilate on the album of Jesus Christ Superstar, and he played the same role in the 1971 Broadway production. In the same year, he played Mendel in Norman Jewison's film Fiddler on the Roof. According to Dennen's website, he suggested to Jewison that he direct a film of Jesus Christ Superstar; Jewison agreed, and Dennen played Pilate again in 1973.",
       "links": [],
+      "section": [
+        "Barry Dennen",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "He lived in London for fifteen years and in 1968 landed the starring role of the master of ceremonies in the London version of Cabaret. In 1970, he played Pontius Pilate on the album of Jesus Christ Superstar, and he played the same role in the 1971 Broadway production. In the same year, he played Mendel in Norman Jewison's film Fiddler on the Roof. According to Dennen's website, he suggested to Jewison that he direct a film of Jesus Christ Superstar; Jewison agreed, and Dennen played Pilate again in 1973."
     },
     {
       "body": "He was the voice actor who portrayed the Chamberlain SkekSil in The Dark Crystal. He has also done voice work on such cartoons as DuckTales, Batman: The Animated Series, The Pirates of Dark Water, and Animaniacs.",
       "links": [],
+      "section": [
+        "Barry Dennen",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He was the voice actor who portrayed the Chamberlain SkekSil in The Dark Crystal. He has also done voice work on such cartoons as DuckTales, Batman: The Animated Series, The Pirates of Dark Water, and Animaniacs."
     },
     {
       "body": "Since that time, Dennen has had a variety of small parts on American television shows and films, including Batman, Superman III, The Kentucky Fried Movie, The Shining, Galtar and the Golden Lance, Tales from the Darkside, and Titanic. He played auto dealer Irwin Lapsey in Shock Treatment, the sequel to The Rocky Horror Picture Show. He has also done voices for many video games, including Fatman in Metal Gear Solid 2, Police Chief Bogen in Grim Fandango, Mimir in the video game Too Human, Dean Domino in the Fallout: New Vegas expansion, Dead Money, and the Dark One in The Mark of Kri.",
       "links": [],
+      "section": [
+        "Barry Dennen",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Since that time, Dennen has had a variety of small parts on American television shows and films, including Batman, Superman III, The Kentucky Fried Movie, The Shining, Galtar and the Golden Lance, Tales from the Darkside, and Titanic. He played auto dealer Irwin Lapsey in Shock Treatment, the sequel to The Rocky Horror Picture Show. He has also done voices for many video games, including Fatman in Metal Gear Solid 2, Police Chief Bogen in Grim Fandango, Mimir in the video game Too Human, Dean Domino in the Fallout: New Vegas expansion, Dead Money, and the Dark One in The Mark of Kri."
     },
     {
       "body": "He wrote the screenplay for a 1985 episode of Amazing Stories titled \"The Secret Cinema\" and co-wrote a 1993 episode of The Comic Strip Presents... titled \"Demonella\". His 1997 autobiographical book, My Life With Barbra: A Love Story, deals with his relationship with Streisand and his gradual realization that he was a homosexual.",
       "links": [],
+      "section": [
+        "Barry Dennen",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He wrote the screenplay for a 1985 episode of Amazing Stories titled \"The Secret Cinema\" and co-wrote a 1993 episode of The Comic Strip Presents... titled \"Demonella\". His 1997 autobiographical book, My Life With Barbra: A Love Story, deals with his relationship with Streisand and his gradual realization that he was a homosexual."
     },
     {
       "body": "In June 2017, Dennen suffered a fall in his Burbank, California home, resulting in a brain injury that required hospice care. He never fully recovered and died on September 26 later that year.",
       "links": [],
+      "section": [
+        "Barry Dennen",
+        "Biographical information",
+        "Death"
+      ],
       "text": "In June 2017, Dennen suffered a fall in his Burbank, California home, resulting in a brain injury that required hospice care. He never fully recovered and died on September 26 later that year."
     }
   ],

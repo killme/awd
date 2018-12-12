@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -34,12 +38,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Legend of Korra (2012)",
+          "body": "${link_0} (2012)",
           "extra": "(2012)",
           "extra_text": "(2012)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Legend of Korra",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1695360",
+                "page": "http://www.imdb.com/find?q=tt1695360"
+              }
+            }
+          ],
           "text": "The Legend of Korra (2012)",
-          "value": "The Legend of Korra",
+          "value": "${link_0}",
           "value_text": "The Legend of Korra"
         }
       ]
@@ -48,30 +62,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm4968665",
+                "page": "http://www.imdb.com/find?q=nm4968665"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/sgantka",
+                "page": "http://www.facebook.com/sgantka"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "LinkedIn",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "LinkedIn",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.linkedin.com/pub/sean-gantka/1b/732/385",
+                "page": "http://www.linkedin.com/pub/sean-gantka/1b/732/385"
+              }
+            }
+          ],
           "text": "LinkedIn",
-          "value": "LinkedIn",
+          "value": "${link_0}",
           "value_text": "LinkedIn"
         }
       ]
@@ -79,8 +123,72 @@
   ],
   "paragraphs": [
     {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Leaf in the Wind",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Leaf_in_the_Wind",
+            "page": "A_Leaf_in_the_Wind"
+          }
+        }
+      ],
+      "section": [
+        "Sean Gantka",
+        "The Legend of Korra credits",
+        "Hasook"
+      ],
+      "text": "102. \"A Leaf in the Wind\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebel Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
+            "page": "Rebel_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Sean Gantka",
+        "The Legend of Korra credits",
+        "Greenhorn"
+      ],
+      "text": "201. \"Rebel Spirit\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebel Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
+            "page": "Rebel_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Sean Gantka",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "201. \"Rebel Spirit\""
+    },
+    {
       "body": "Gantka was educated at California State University, Fullerton.",
       "links": [],
+      "section": [
+        "Sean Gantka",
+        "Biographical information"
+      ],
       "text": "Gantka was educated at California State University, Fullerton."
     }
   ],

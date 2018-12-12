@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Cuisine",
       "target": {
-        "href": "Category_Cuisine",
+        "external": false,
+        "href": "/wiki/Category_Cuisine",
         "page": "Category_Cuisine"
       }
     },
     {
       "body": "Earth Kingdom",
       "target": {
-        "href": "Category_Earth_Kingdom",
+        "external": false,
+        "href": "/wiki/Category_Earth_Kingdom",
         "page": "Category_Earth_Kingdom"
       }
     },
     {
       "body": "Foods",
       "target": {
-        "href": "Category_Foods",
+        "external": false,
+        "href": "/wiki/Category_Foods",
         "page": "Category_Foods"
       }
     }
@@ -32,35 +36,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "This egg custard tart was smuggled through the ${link_0} by the ${link_1} tribe.",
-      "links": [
-        {
-          "body": "Great Divide",
-          "key": "${link_0}",
-          "target": {
-            "href": "Great_Divide",
-            "page": "Great_Divide"
-          }
-        },
-        {
-          "body": "Zhang",
-          "key": "${link_1}",
-          "target": {
-            "href": "Zhang",
-            "page": "Zhang"
-          }
-        }
-      ],
-      "text": "This egg custard tart was smuggled through the Great Divide by the Zhang tribe."
-    },
-    {
       "body": "The egg custard tart is a ${link_0} widely coveted by ${link_1} ${link_2}, and it was also popular among the Air Nomads. As the name implies, the tart is a baked pastry filled with egg custard.",
       "links": [
         {
           "body": "dessert",
           "key": "${link_0}",
           "target": {
-            "href": "Cuisine_in_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Cuisine_in_the_World_of_Avatar",
             "page": "Cuisine_in_the_World_of_Avatar"
           }
         },
@@ -68,7 +51,8 @@
           "body": "Earth Kingdom",
           "key": "${link_1}",
           "target": {
-            "href": "Earth_Kingdom",
+            "external": false,
+            "href": "/wiki/Earth_Kingdom",
             "page": "Earth_Kingdom"
           }
         },
@@ -76,10 +60,14 @@
           "body": "citizens",
           "key": "${link_2}",
           "target": {
-            "href": "Society_in_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Society_in_the_World_of_Avatar",
             "page": "Society_in_the_World_of_Avatar"
           }
         }
+      ],
+      "section": [
+        "Egg custard tart"
       ],
       "text": "The egg custard tart is a dessert widely coveted by Earth Kingdom citizens, and it was also popular among the Air Nomads. As the name implies, the tart is a baked pastry filled with egg custard."
     },
@@ -90,7 +78,8 @@
           "body": "Great Divide",
           "key": "${link_0}",
           "target": {
-            "href": "Great_Divide",
+            "external": false,
+            "href": "/wiki/Great_Divide",
             "page": "Great_Divide"
           }
         },
@@ -98,7 +87,8 @@
           "body": "Zhangs",
           "key": "${link_1}",
           "target": {
-            "href": "Zhang",
+            "external": false,
+            "href": "/wiki/Zhang",
             "page": "Zhang"
           }
         },
@@ -106,7 +96,8 @@
           "body": "Gan Jins",
           "key": "${link_2}",
           "target": {
-            "href": "Gan_Jin",
+            "external": false,
+            "href": "/wiki/Gan_Jin",
             "page": "Gan_Jin"
           }
         },
@@ -114,7 +105,8 @@
           "body": "Aang",
           "key": "${link_3}",
           "target": {
-            "href": "Aang",
+            "external": false,
+            "href": "/wiki/Aang",
             "page": "Aang"
           }
         },
@@ -122,17 +114,83 @@
           "body": "canyon guide",
           "key": "${link_4}",
           "target": {
-            "href": "Canyon_guide",
+            "external": false,
+            "href": "/wiki/Canyon_guide",
             "page": "Canyon_guide"
           }
         }
       ],
+      "section": [
+        "Egg custard tart",
+        "History"
+      ],
       "text": "While traversing the Great Divide together with the Zhangs and the Gan Jins, Aang discovered both tribes had smuggled food in defiance of the canyon guide's warnings. His outrage at this discovery dissipated, however, when he noticed that the Zhang tribe had brought at least one egg custard tart with them, the glimpse reminding him of how hungry he was. After successfully escaping the canyon, he asked where that custard tart was, stating he was \"starving\"."
     },
     {
-      "body": "The egg tart is a real-life dish that was introduced into China in the 20th century. An adaptation of the Portuguese pastel de nata, in which a round crust is filled with egg custard and baked, it came into mainland China via the colony of Macau.",
-      "links": [],
+      "body": "The egg tart is a real-life dish that was introduced into China in the 20th century. An adaptation of the Portuguese ${link_0}, in which a round crust is filled with egg custard and baked, it came into mainland China via the colony of Macau.",
+      "links": [
+        {
+          "body": "pastel de nata",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Pastel_de_nata",
+            "page": "http://en.wikipedia.org/wiki/Pastel_de_nata"
+          }
+        }
+      ],
+      "section": [
+        "Egg custard tart",
+        "Connection"
+      ],
       "text": "The egg tart is a real-life dish that was introduced into China in the 20th century. An adaptation of the Portuguese pastel de nata, in which a round crust is filled with egg custard and baked, it came into mainland China via the colony of Macau."
+    },
+    {
+      "body": "The egg custard tart was Aang's favorite food.",
+      "links": [],
+      "section": [
+        "Egg custard tart",
+        "Trivia"
+      ],
+      "text": "The egg custard tart was Aang's favorite food."
+    },
+    {
+      "body": "The egg custard tart featured in \"${link_0}\" was four weeks old.",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        }
+      ],
+      "section": [
+        "Egg custard tart",
+        "Trivia"
+      ],
+      "text": "The egg custard tart featured in \"The Great Divide\" was four weeks old."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cuisine in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Cuisine_in_the_World_of_Avatar",
+            "page": "Cuisine_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Egg custard tart",
+        "See also"
+      ],
+      "text": "Cuisine in the World of Avatar"
     }
   ],
   "source": {

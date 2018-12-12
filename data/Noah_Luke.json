@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Monsters, Inc. (2001)",
+          "body": "${link_0} (2001)",
           "extra": "(2001)",
           "extra_text": "(2001)",
-          "links": [],
+          "links": [
+            {
+              "body": "Monsters, Inc.",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0198781",
+                "page": "http://www.imdb.com/find?q=tt0198781"
+              }
+            }
+          ],
           "text": "Monsters, Inc. (2001)",
-          "value": "Monsters, Inc.",
+          "value": "${link_0}",
           "value_text": "Monsters, Inc."
         }
       ]
@@ -41,12 +54,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1130985",
+                "page": "http://www.imdb.com/find?q=nm1130985"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -54,9 +77,164 @@
   ],
   "paragraphs": [
     {
-      "body": "This page lacks visual representations and needs one or more relevant images.",
-      "links": [],
-      "text": "This page lacks visual representations and needs one or more relevant images."
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "Noah Luke",
+        "Avatar: The Last Airbender credits",
+        "Shoji"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "Noah Luke",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Everybody Hates Chris",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460637",
+            "page": "http://www.imdb.com/find?q=tt0460637"
+          }
+        }
+      ],
+      "section": [
+        "Noah Luke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Everybody Hates Chris"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "George Lopez",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0310460",
+            "page": "http://www.imdb.com/find?q=tt0310460"
+          }
+        }
+      ],
+      "section": [
+        "Noah Luke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "George Lopez"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "House of Mouse",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0272388",
+            "page": "http://www.imdb.com/find?q=tt0272388"
+          }
+        }
+      ],
+      "section": [
+        "Noah Luke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "House of Mouse"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "All Souls Day: Dia de los Muertos",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428212",
+            "page": "http://www.imdb.com/find?q=tt0428212"
+          }
+        }
+      ],
+      "section": [
+        "Noah Luke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "All Souls Day: Dia de los Muertos (2005)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Seabiscuit",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0329575",
+            "page": "http://www.imdb.com/find?q=tt0329575"
+          }
+        }
+      ],
+      "section": [
+        "Noah Luke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Seabiscuit (2003)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Finding Nemo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0266543",
+            "page": "http://www.imdb.com/find?q=tt0266543"
+          }
+        }
+      ],
+      "section": [
+        "Noah Luke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Finding Nemo (2003)"
     }
   ],
   "source": {

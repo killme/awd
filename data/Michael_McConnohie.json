@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Lupin the Third: The Secret of Mamo (1978; English version)",
+          "body": "${link_0} (1978; English version)",
           "extra": "(1978; English version)",
           "extra_text": "(1978; English version)",
-          "links": [],
+          "links": [
+            {
+              "body": "Lupin the Third: The Secret of Mamo",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0078187",
+                "page": "http://www.imdb.com/find?q=tt0078187"
+              }
+            }
+          ],
           "text": "Lupin the Third: The Secret of Mamo (1978; English version)",
-          "value": "Lupin the Third: The Secret of Mamo",
+          "value": "${link_0}",
           "value_text": "Lupin the Third: The Secret of Mamo"
         }
       ]
@@ -69,12 +82,49 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb Wikipedia Facebook Official website",
+          "body": "${link_0} ${link_1} ${link_2} ${link_3}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0566332",
+                "page": "http://www.imdb.com/find?q=nm0566332"
+              }
+            },
+            {
+              "body": "Wikipedia",
+              "key": "${link_1}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Michael_Mcconnohie",
+                "page": "http://en.wikipedia.org/wiki/Michael_Mcconnohie"
+              }
+            },
+            {
+              "body": "Facebook",
+              "key": "${link_2}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/michael.mcconnohie.5",
+                "page": "https://www.facebook.com/michael.mcconnohie.5"
+              }
+            },
+            {
+              "body": "Official website",
+              "key": "${link_3}",
+              "target": {
+                "external": true,
+                "href": "http://www.http://www.michaelmcconnohie.com/",
+                "page": "http://www.http://www.michaelmcconnohie.com/"
+              }
+            }
+          ],
           "text": "IMDb Wikipedia Facebook Official website",
-          "value": "IMDb Wikipedia Facebook Official website",
+          "value": "${link_0} ${link_1} ${link_2} ${link_3}",
           "value_text": "IMDb Wikipedia Facebook Official website"
         }
       ]
@@ -82,8 +132,412 @@
   ],
   "paragraphs": [
     {
+      "body": "116. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Deserter",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Deserter",
+            "page": "The_Deserter"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "116. \"The Deserter\""
+    },
+    {
+      "body": "${link_0} (English version)",
+      "links": [
+        {
+          "body": "Bleach",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0434665",
+            "page": "http://www.imdb.com/find?q=tt0434665"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bleach (English version)"
+    },
+    {
+      "body": "${link_0} (English version)",
+      "links": [
+        {
+          "body": "Bobobo-bo Bo-bobo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0450373",
+            "page": "http://www.imdb.com/find?q=tt0450373"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bobobo-bo Bo-bobo (English version)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ghost in the Shell: Stand Alone Complex",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0346314",
+            "page": "http://www.imdb.com/find?q=tt0346314"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ghost in the Shell: Stand Alone Complex"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "M\u00c4R: M\u00e4rchen Awakens Romance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0841963",
+            "page": "http://www.imdb.com/find?q=tt0841963"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "M\u00c4R: M\u00e4rchen Awakens Romance"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Masked Rider",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0144296",
+            "page": "http://www.imdb.com/find?q=tt0144296"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Masked Rider"
+    },
+    {
+      "body": "${link_0} (English version)",
+      "links": [
+        {
+          "body": "Tenchi Muy\u00f4! GXP",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112028",
+            "page": "http://www.imdb.com/find?q=tt0112028"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Tenchi Muy\u00f4! GXP (English version)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Resident Evil: Damnation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1753496",
+            "page": "http://www.imdb.com/find?q=tt1753496"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Resident Evil: Damnation (2012)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Biohazard: Degeneration",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1174954",
+            "page": "http://www.imdb.com/find?q=tt1174954"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Biohazard: Degeneration (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Trail of the Screaming Forehead",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0486665",
+            "page": "http://www.imdb.com/find?q=tt0486665"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Trail of the Screaming Forehead (2007)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "The Bike Squad",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0327498",
+            "page": "http://www.imdb.com/find?q=tt0327498"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Bike Squad (2005)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Frog-g-g!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0308281",
+            "page": "http://www.imdb.com/find?q=tt0308281"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Frog-g-g! (2004)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Appleseed",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0401233",
+            "page": "http://www.imdb.com/find?q=tt0401233"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Appleseed (2004)"
+    },
+    {
+      "body": "${link_0} (2003; English version)",
+      "links": [
+        {
+          "body": "C\u00e1mara oscura",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0407707",
+            "page": "http://www.imdb.com/find?q=tt0407707"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "C\u00e1mara oscura (2003; English version)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Disgaea 2: Cursed Memories",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1071784",
+            "page": "http://www.imdb.com/find?q=tt1071784"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Disgaea 2: Cursed Memories (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Grandia III",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0470125",
+            "page": "http://www.imdb.com/find?q=tt0470125"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Grandia III (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Jericho",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1135590",
+            "page": "http://www.imdb.com/find?q=tt1135590"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Jericho (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Red Faction Guerrilla",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1333108",
+            "page": "http://www.imdb.com/find?q=tt1333108"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Red Faction Guerrilla (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Supreme Commander",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0489287",
+            "page": "http://www.imdb.com/find?q=tt0489287"
+          }
+        }
+      ],
+      "section": [
+        "Michael McConnohie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Supreme Commander (video game)"
+    },
+    {
       "body": "McConnohie is the president of the Nevada-based Voxworks voice-acting corporation. Easily recognized by his deep, booming voice, he is generally known for playing more charismatic characters. He has appeared in over 170 English language dubs.",
       "links": [],
+      "section": [
+        "Michael McConnohie",
+        "Biographical information"
+      ],
       "text": "McConnohie is the president of the Nevada-based Voxworks voice-acting corporation. Easily recognized by his deep, booming voice, he is generally known for playing more charismatic characters. He has appeared in over 170 English language dubs."
     }
   ],

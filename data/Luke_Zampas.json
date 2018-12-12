@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Avatar: The Last Airbender (2005)",
+          "body": "${link_0} (2005)",
           "extra": "(2005)",
           "extra_text": "(2005)",
-          "links": [],
+          "links": [
+            {
+              "body": "Avatar: The Last Airbender",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0417299",
+                "page": "http://www.imdb.com/find?q=tt0417299"
+              }
+            }
+          ],
           "text": "Avatar: The Last Airbender (2005)",
-          "value": "Avatar: The Last Airbender",
+          "value": "${link_0}",
           "value_text": "Avatar: The Last Airbender"
         }
       ]
@@ -41,12 +54,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2037393",
+                "page": "http://www.imdb.com/find?q=nm2037393"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -54,9 +77,64 @@
   ],
   "paragraphs": [
     {
-      "body": "This page lacks visual representations and needs one or more relevant images.",
-      "links": [],
-      "text": "This page lacks visual representations and needs one or more relevant images."
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boy in the Iceberg",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boy_in_the_Iceberg",
+            "page": "The_Boy_in_the_Iceberg"
+          }
+        }
+      ],
+      "section": [
+        "Luke Zampas",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "101. \"The Boy in the Iceberg\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_Returns",
+            "page": "The_Avatar_Returns"
+          }
+        }
+      ],
+      "section": [
+        "Luke Zampas",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "102. \"The Avatar Returns\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CSI: NY",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0395843",
+            "page": "http://www.imdb.com/find?q=tt0395843"
+          }
+        }
+      ],
+      "section": [
+        "Luke Zampas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CSI: NY"
     }
   ],
   "source": {

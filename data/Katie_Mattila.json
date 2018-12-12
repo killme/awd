@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -34,12 +38,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Seitsem\u00e4n (2001)",
+          "body": "${link_0} (2001)",
           "extra": "(2001)",
           "extra_text": "(2001)",
-          "links": [],
+          "links": [
+            {
+              "body": "Seitsem\u00e4n",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0273386",
+                "page": "http://www.imdb.com/find?q=tt0273386"
+              }
+            }
+          ],
           "text": "Seitsem\u00e4n (2001)",
-          "value": "Seitsem\u00e4n",
+          "value": "${link_0}",
           "value_text": "Seitsem\u00e4n"
         }
       ]
@@ -48,18 +62,418 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1394301",
+                "page": "http://www.imdb.com/find?q=nm1394301"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Avatar Extras writer"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Winter Solstice, Part 1: The Spirit World",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Winter_Solstice%2c_Part_1__The_Spirit_World",
+            "page": "Winter_Solstice%2c_Part_1__The_Spirit_World"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Avatar Extras writer"
+      ],
+      "text": "107. \"Winter Solstice, Part 1: The Spirit World\""
+    },
+    {
+      "body": "108. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Winter Solstice, Part 2: Avatar Roku",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Winter_Solstice%2c_Part_2__Avatar_Roku",
+            "page": "Winter_Solstice%2c_Part_2__Avatar_Roku"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Avatar Extras writer"
+      ],
+      "text": "108. \"Winter Solstice, Part 2: Avatar Roku\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Scroll",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Scroll",
+            "page": "The_Waterbending_Scroll"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Avatar Extras writer"
+      ],
+      "text": "109. \"The Waterbending Scroll\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Avatar Extras writer"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Avatar Extras writer"
+      ],
+      "text": "111. \"The Great Divide\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Avatar Extras writer"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Avatar Extras writer"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "114. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Fortuneteller",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Fortuneteller",
+            "page": "The_Fortuneteller"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Avatar Extras writer"
+      ],
+      "text": "114. \"The Fortuneteller\""
+    },
+    {
+      "body": "117. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Northern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Northern_Air_Temple",
+            "page": "The_Northern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Avatar Extras writer"
+      ],
+      "text": "117. \"The Northern Air Temple\""
+    },
+    {
+      "body": "215. \"${link_0}\" (${link_1})",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        },
+        {
+          "body": "The Tale of Zuko",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se#The_Tale_of_Zuko",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\" (The Tale of Zuko)"
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Beach",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Beach",
+            "page": "The_Beach"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "305. \"The Beach\""
+    },
+    {
+      "body": "Iss. #13. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Going Home Again",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Going_Home_Again",
+            "page": "Going_Home_Again"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #13. \"Going Home Again\""
+    },
+    {
+      "body": "Iss. #16. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Night Animals",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Night_Animals",
+            "page": "Night_Animals"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #16. \"Night Animals\""
+    },
+    {
+      "body": "Iss. #25. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Game Time",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Game_Time",
+            "page": "Game_Time"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #25. \"Game Time\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "404. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Calling",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Calling",
+            "page": "The_Calling"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "404. \"The Calling\""
+    },
+    {
+      "body": "408. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Remembrances",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Remembrances",
+            "page": "Remembrances"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "408. \"Remembrances\""
+    },
+    {
+      "body": "${link_0} (script coordinator)",
+      "links": [
+        {
+          "body": "Kung Fu Panda: Legends of Awesomeness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545214",
+            "page": "http://www.imdb.com/find?q=tt1545214"
+          }
+        }
+      ],
+      "section": [
+        "Katie Mattila",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kung Fu Panda: Legends of Awesomeness (script coordinator)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Katie_Mattila",
     "file": "avatar.wikia.com/wiki/Katie_Mattila.html",

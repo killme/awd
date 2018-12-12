@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film staff",
       "target": {
-        "href": "Category_Film_staff",
+        "external": false,
+        "href": "/wiki/Category_Film_staff",
         "page": "Category_Film_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Targets (1968 - actor)",
+          "body": "${link_0} (1968 - actor)",
           "extra": "(1968 - actor)",
           "extra_text": "(1968 - actor)",
-          "links": [],
+          "links": [
+            {
+              "body": "Targets",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0063671",
+                "page": "http://www.imdb.com/find?q=tt0063671"
+              }
+            }
+          ],
           "text": "Targets (1968 - actor)",
-          "value": "Targets",
+          "value": "${link_0}",
           "value_text": "Targets"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0550881",
+                "page": "http://www.imdb.com/find?q=nm0550881"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Frank_Marshall_(film_producer)",
+                "page": "http://en.wikipedia.org/wiki/Frank_Marshall_(film_producer)"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/LeDoctor",
+                "page": "https://twitter.com/LeDoctor"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -100,19 +143,575 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0} (production executive)",
+      "links": [
+        {
+          "body": "Amazing Stories",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0088478",
+            "page": "http://www.imdb.com/find?q=tt0088478"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Amazing Stories (production executive)"
+    },
+    {
+      "body": "${link_0} (production executive)",
+      "links": [
+        {
+          "body": "Fievel's American Tails",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0221172",
+            "page": "http://www.imdb.com/find?q=tt0221172"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fievel's American Tails (production executive)"
+    },
+    {
+      "body": "${link_0} (director)",
+      "links": [
+        {
+          "body": "Johnny Bago",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106040",
+            "page": "http://www.imdb.com/find?q=tt0106040"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Johnny Bago (director)"
+    },
+    {
+      "body": "${link_0} (TV movie - executive producer)",
+      "links": [
+        {
+          "body": "The Ordained",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2706482",
+            "page": "http://www.imdb.com/find?q=tt2706482"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Ordained (TV movie - executive producer)"
+    },
+    {
+      "body": "${link_0} (TV movie - executive producer)",
+      "links": [
+        {
+          "body": "The Special Relationship",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1117646",
+            "page": "http://www.imdb.com/find?q=tt1117646"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Special Relationship (TV movie - executive producer)"
+    },
+    {
+      "body": "${link_0} (production executive)",
+      "links": [
+        {
+          "body": "Tiny Toon Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098929",
+            "page": "http://www.imdb.com/find?q=tt0098929"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Tiny Toon Adventures (production executive)"
+    },
+    {
+      "body": "${link_0} (2013; documentary - producer)",
+      "links": [
+        {
+          "body": "The Armstrong Lie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1638364",
+            "page": "http://www.imdb.com/find?q=tt1638364"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Armstrong Lie (2013; documentary - producer)"
+    },
+    {
+      "body": "${link_0} (2010 - actor)",
+      "links": [
+        {
+          "body": "The Secret World of Arietty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1568921",
+            "page": "http://www.imdb.com/find?q=tt1568921"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Secret World of Arietty (2010 - actor)"
+    },
+    {
+      "body": "${link_0} (2009 - producer)",
+      "links": [
+        {
+          "body": "Crossing Over",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0924129",
+            "page": "http://www.imdb.com/find?q=tt0924129"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Crossing Over (2009 - producer)"
+    },
+    {
+      "body": "${link_0} (2006 - director)",
+      "links": [
+        {
+          "body": "Eight Below",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397313",
+            "page": "http://www.imdb.com/find?q=tt0397313"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Eight Below (2006 - director)"
+    },
+    {
+      "body": "${link_0} (2003 - second unit director)",
+      "links": [
+        {
+          "body": "Seabiscuit",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0329575",
+            "page": "http://www.imdb.com/find?q=tt0329575"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Seabiscuit (2003 - second unit director)"
+    },
+    {
+      "body": "${link_0} (1995 - director)",
+      "links": [
+        {
+          "body": "Congo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112715",
+            "page": "http://www.imdb.com/find?q=tt0112715"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Congo (1995 - director)"
+    },
+    {
+      "body": "${link_0} (1993; documentary - executive producer)",
+      "links": [
+        {
+          "body": "Alive: 20 years later",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0206544",
+            "page": "http://www.imdb.com/find?q=tt0206544"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Alive: 20 years later (1993; documentary - executive producer)"
+    },
+    {
+      "body": "${link_0} (1993 - director)",
+      "links": [
+        {
+          "body": "Alive",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106246",
+            "page": "http://www.imdb.com/find?q=tt0106246"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Alive (1993 - director)"
+    },
+    {
+      "body": "${link_0} (1991 - executive producer)",
+      "links": [
+        {
+          "body": "Cape Fear",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101540",
+            "page": "http://www.imdb.com/find?q=tt0101540"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cape Fear (1991 - executive producer)"
+    },
+    {
+      "body": "${link_0} (1990 - director)",
+      "links": [
+        {
+          "body": "Arachnophobia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0099052",
+            "page": "http://www.imdb.com/find?q=tt0099052"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Arachnophobia (1990 - director)"
+    },
+    {
+      "body": "${link_0} (1989 - second unit director, Montana unit)",
+      "links": [
+        {
+          "body": "Always",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096794",
+            "page": "http://www.imdb.com/find?q=tt0096794"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Always (1989 - second unit director, Montana unit)"
+    },
+    {
+      "body": "${link_0} (1988 - second unit director, UK)",
+      "links": [
+        {
+          "body": "Who Framed Roger Rabbit",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096438",
+            "page": "http://www.imdb.com/find?q=tt0096438"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Who Framed Roger Rabbit (1988 - second unit director, UK)"
+    },
+    {
+      "body": "${link_0} (1987 - executive producer)",
+      "links": [
+        {
+          "body": "*batteries not included",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092494",
+            "page": "http://www.imdb.com/find?q=tt0092494"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "*batteries not included (1987 - executive producer)"
+    },
+    {
+      "body": "${link_0} (1985 - executive producer)",
+      "links": [
+        {
+          "body": "The Goonies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0089218",
+            "page": "http://www.imdb.com/find?q=tt0089218"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Goonies (1985 - executive producer)"
+    },
+    {
+      "body": "${link_0} (1981 - actor and second unit director)",
+      "links": [
+        {
+          "body": "Raiders of the Lost Ark",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0082971",
+            "page": "http://www.imdb.com/find?q=tt0082971"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Raiders of the Lost Ark (1981 - actor and second unit director)"
+    },
+    {
+      "body": "${link_0} (1972 - line producer)",
+      "links": [
+        {
+          "body": "The Other Side of the Wind",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0069049",
+            "page": "http://www.imdb.com/find?q=tt0069049"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Other Side of the Wind (1972 - line producer)"
+    },
+    {
+      "body": "${link_0} (1971 - actor)",
+      "links": [
+        {
+          "body": "The Last Picture Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0067328",
+            "page": "http://www.imdb.com/find?q=tt0067328"
+          }
+        }
+      ],
+      "section": [
+        "Frank Marshall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Last Picture Show (1971 - actor)"
+    },
+    {
       "body": "Marshall was born in Glendale to composer Jack Marshall. The first few years of his life was spent in Van Nuys, California, before moving to Newport Beach, where he attended Newport Harbor High School.",
       "links": [],
+      "section": [
+        "Frank Marshall",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Marshall was born in Glendale to composer Jack Marshall. The first few years of his life was spent in Van Nuys, California, before moving to Newport Beach, where he attended Newport Harbor High School."
     },
     {
       "body": "An athletic person, Marshall is also a former VP member of the Board of Directors and member of the Executive Committee of the United States Olympic Committee (USOC). Marshall was awarded the Olympic Shield in 2005 and inducted into the U.S. Olympic Hall of Fame class of 2008 for his years of service to the USOC.",
       "links": [],
+      "section": [
+        "Frank Marshall",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "An athletic person, Marshall is also a former VP member of the Board of Directors and member of the Executive Committee of the United States Olympic Committee (USOC). Marshall was awarded the Olympic Shield in 2005 and inducted into the U.S. Olympic Hall of Fame class of 2008 for his years of service to the USOC."
     },
     {
       "body": "He married Kathleen Kennedy in 1987 and has had two children with her.",
       "links": [],
+      "section": [
+        "Frank Marshall",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "He married Kathleen Kennedy in 1987 and has had two children with her."
+    },
+    {
+      "body": "2012: Won a Christopher Award for War Horse (Feature Films)",
+      "links": [],
+      "section": [
+        "Frank Marshall",
+        "Awards"
+      ],
+      "text": "2012: Won a Christopher Award for War Horse (Feature Films)"
+    },
+    {
+      "body": "2009: Won an AFI Award for The Curious Case of Benjamin Button (Movie of the Year)",
+      "links": [],
+      "section": [
+        "Frank Marshall",
+        "Awards"
+      ],
+      "text": "2009: Won an AFI Award for The Curious Case of Benjamin Button (Movie of the Year)"
+    },
+    {
+      "body": "2009: Won a Visual Effects Society Lifetime Achievement Award",
+      "links": [],
+      "section": [
+        "Frank Marshall",
+        "Awards"
+      ],
+      "text": "2009: Won a Visual Effects Society Lifetime Achievement Award"
+    },
+    {
+      "body": "2008: Won a PGA Lifetime Achievement Award (Motion Pictures)",
+      "links": [],
+      "section": [
+        "Frank Marshall",
+        "Awards"
+      ],
+      "text": "2008: Won a PGA Lifetime Achievement Award (Motion Pictures)"
+    },
+    {
+      "body": "1993: Won an Academy of Science Fiction, Fantasy & Horror Films George Pal Memorial Award",
+      "links": [],
+      "section": [
+        "Frank Marshall",
+        "Awards"
+      ],
+      "text": "1993: Won an Academy of Science Fiction, Fantasy & Horror Films George Pal Memorial Award"
+    },
+    {
+      "body": "1990: Won a Wise Owl Award for Dad (Television and Theatrical Film Fiction)",
+      "links": [],
+      "section": [
+        "Frank Marshall",
+        "Awards"
+      ],
+      "text": "1990: Won a Wise Owl Award for Dad (Television and Theatrical Film Fiction)"
+    },
+    {
+      "body": "1989: Won a David Award for Who Framed Roger Rabbit (Best Foreign Producer (Migliore Produttore Straniero))",
+      "links": [],
+      "section": [
+        "Frank Marshall",
+        "Awards"
+      ],
+      "text": "1989: Won a David Award for Who Framed Roger Rabbit (Best Foreign Producer (Migliore Produttore Straniero))"
+    },
+    {
+      "body": "1987: Won a Christopher Award for Empire of the Sun (Best Picture)",
+      "links": [],
+      "section": [
+        "Frank Marshall",
+        "Awards"
+      ],
+      "text": "1987: Won a Christopher Award for Empire of the Sun (Best Picture)"
+    },
+    {
+      "body": "1982: Won a ShoWest Award (Producer of the Year)",
+      "links": [],
+      "section": [
+        "Frank Marshall",
+        "Awards"
+      ],
+      "text": "1982: Won a ShoWest Award (Producer of the Year)"
     }
   ],
   "source": {

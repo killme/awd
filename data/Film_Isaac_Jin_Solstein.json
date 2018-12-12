@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Last Airbender (2010)",
+          "body": "${link_0} (2010)",
           "extra": "(2010)",
           "extra_text": "(2010)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Last Airbender",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0938283",
+                "page": "http://www.imdb.com/find?q=tt0938283"
+              }
+            }
+          ],
           "text": "The Last Airbender (2010)",
-          "value": "The Last Airbender",
+          "value": "${link_0}",
           "value_text": "The Last Airbender"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm3389267",
+                "page": "http://www.imdb.com/find?q=nm3389267"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/jinisdad",
+                "page": "http://www.youtube.com/user/jinisdad"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
@@ -77,18 +110,121 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Royal Pains",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1319735",
+            "page": "http://www.imdb.com/find?q=tt1319735"
+          }
+        }
+      ],
+      "section": [
+        "Isaac Jin Solstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Royal Pains"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Carrie Diaries",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2056366",
+            "page": "http://www.imdb.com/find?q=tt2056366"
+          }
+        }
+      ],
+      "section": [
+        "Isaac Jin Solstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Carrie Diaries"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Altered Minds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2124959",
+            "page": "http://www.imdb.com/find?q=tt2124959"
+          }
+        }
+      ],
+      "section": [
+        "Isaac Jin Solstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Altered Minds (2013)"
+    },
+    {
       "body": "Solstein, the son of Eric Solstein and Hee Jeon Choi, currently resides in Bethel, New York.",
       "links": [],
+      "section": [
+        "Isaac Jin Solstein",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Solstein, the son of Eric Solstein and Hee Jeon Choi, currently resides in Bethel, New York."
     },
     {
       "body": "Solstein is the 2008 US National Karate champion, having studied karate since he was four. He started with Tang Soo Do at Hong's Karate School in Monticello, before moving on to Soo Bahk Do under Master Joe Poppo in Liberty, New York. He also spent several years at the Homestead School in Glen Spey, New York.",
       "links": [],
+      "section": [
+        "Isaac Jin Solstein",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Solstein is the 2008 US National Karate champion, having studied karate since he was four. He started with Tang Soo Do at Hong's Karate School in Monticello, before moving on to Soo Bahk Do under Master Joe Poppo in Liberty, New York. He also spent several years at the Homestead School in Glen Spey, New York."
     },
     {
-      "body": "While The Last Airbender was Isaac's first role in a feature film, he does have previous acting experience in theater, having held roles as Tam in Miss Saigon and Prince Chulalongkorn in The King and I.",
-      "links": [],
+      "body": "While The Last Airbender was Isaac's first role in a feature film, he does have previous acting experience in theater, having held roles as Tam in ${link_0} and ${link_1} in ${link_2}.",
+      "links": [
+        {
+          "body": "Miss Saigon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Miss_Saigon",
+            "page": "http://en.wikipedia.org/wiki/Miss_Saigon"
+          }
+        },
+        {
+          "body": "Prince Chulalongkorn",
+          "key": "${link_1}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Chulalongkorn",
+            "page": "http://en.wikipedia.org/wiki/Chulalongkorn"
+          }
+        },
+        {
+          "body": "The King and I",
+          "key": "${link_2}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/The_King_and_I",
+            "page": "http://en.wikipedia.org/wiki/The_King_and_I"
+          }
+        }
+      ],
+      "section": [
+        "Isaac Jin Solstein",
+        "Biographical information",
+        "Career"
+      ],
       "text": "While The Last Airbender was Isaac's first role in a feature film, he does have previous acting experience in theater, having held roles as Tam in Miss Saigon and Prince Chulalongkorn in The King and I."
     }
   ],

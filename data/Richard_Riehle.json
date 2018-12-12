@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Joyride (1977)",
+          "body": "${link_0} (1977)",
           "extra": "(1977)",
           "extra_text": "(1977)",
-          "links": [],
+          "links": [
+            {
+              "body": "Joyride",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0076239",
+                "page": "http://www.imdb.com/find?q=tt0076239"
+              }
+            }
+          ],
           "text": "Joyride (1977)",
-          "value": "Joyride",
+          "value": "${link_0}",
           "value_text": "Joyride"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0726223",
+                "page": "http://www.imdb.com/find?q=nm0726223"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Richard_Riehle",
+                "page": "http://en.wikipedia.org/wiki/Richard_Riehle"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Richard-Riehle/108118462550351",
+                "page": "https://www.facebook.com/pages/Richard-Riehle/108118462550351"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -86,19 +129,603 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ally McBeal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118254",
+            "page": "http://www.imdb.com/find?q=tt0118254"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ally McBeal"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Big Stan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0490086",
+            "page": "http://www.imdb.com/find?q=tt0490086"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Big Stan"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Boston Legal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0402711",
+            "page": "http://www.imdb.com/find?q=tt0402711"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Boston Legal"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Buffy the Vampire Slayer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118276",
+            "page": "http://www.imdb.com/find?q=tt0118276"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Buffy the Vampire Slayer"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Chicago Hope",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108724",
+            "page": "http://www.imdb.com/find?q=tt0108724"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Chicago Hope"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Diagnosis Murder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105986",
+            "page": "http://www.imdb.com/find?q=tt0105986"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Diagnosis Murder"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ER",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108757",
+            "page": "http://www.imdb.com/find?q=tt0108757"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ER"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ferris Bueller",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098795",
+            "page": "http://www.imdb.com/find?q=tt0098795"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ferris Bueller"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Grounded for Life",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0255734",
+            "page": "http://www.imdb.com/find?q=tt0255734"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Grounded for Life"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "L. A. Law",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090466",
+            "page": "http://www.imdb.com/find?q=tt0090466"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "L. A. Law"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Married to the Kellys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0365983",
+            "page": "http://www.imdb.com/find?q=tt0365983"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Married to the Kellys"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Murder, She Wrote",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086765",
+            "page": "http://www.imdb.com/find?q=tt0086765"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Murder, She Wrote"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Poor Paul",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1342019",
+            "page": "http://www.imdb.com/find?q=tt1342019"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Poor Paul"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Quantum Leap",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096684",
+            "page": "http://www.imdb.com/find?q=tt0096684"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Quantum Leap"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Roseanne",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094540",
+            "page": "http://www.imdb.com/find?q=tt0094540"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Roseanne"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sabrina the Teenage Witch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115341",
+            "page": "http://www.imdb.com/find?q=tt0115341"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sabrina the Teenage Witch"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: Enterprise",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0244365",
+            "page": "http://www.imdb.com/find?q=tt0244365"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: Enterprise"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: The Next Generation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092455",
+            "page": "http://www.imdb.com/find?q=tt0092455"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: The Next Generation"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: Voyager",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112178",
+            "page": "http://www.imdb.com/find?q=tt0112178"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: Voyager"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The West Wing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200276",
+            "page": "http://www.imdb.com/find?q=tt0200276"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The West Wing"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Young and the Restless",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0069658",
+            "page": "http://www.imdb.com/find?q=tt0069658"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Young and the Restless"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Babycakes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3627720",
+            "page": "http://www.imdb.com/find?q=tt3627720"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Babycakes (2014)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "The Search for Santa Paws",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1544572",
+            "page": "http://www.imdb.com/find?q=tt1544572"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Search for Santa Paws (2010)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Neo Ned",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364556",
+            "page": "http://www.imdb.com/find?q=tt0364556"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Neo Ned (2005)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Au Pair",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0185895",
+            "page": "http://www.imdb.com/find?q=tt0185895"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Au Pair (1999)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Office Space",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0151804",
+            "page": "http://www.imdb.com/find?q=tt0151804"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Office Space (1999)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "Free Willy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106965",
+            "page": "http://www.imdb.com/find?q=tt0106965"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Free Willy (1993)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "Glory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0097441",
+            "page": "http://www.imdb.com/find?q=tt0097441"
+          }
+        }
+      ],
+      "section": [
+        "Richard Riehle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Glory (1989)"
+    },
+    {
       "body": "Riehle was born in Menomonee Falls, Wisconsin, the son of Mary Margaret (n\u00e9e Walsh), a nurse, and Herbert John Riehle (1921\u201361), an assistant postmaster. He attended the University of Notre Dame.",
       "links": [],
+      "section": [
+        "Richard Riehle",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Riehle was born in Menomonee Falls, Wisconsin, the son of Mary Margaret (n\u00e9e Walsh), a nurse, and Herbert John Riehle (1921\u201361), an assistant postmaster. He attended the University of Notre Dame."
     },
     {
       "body": "At Notre Dame, Riehle became involved with the University Theatre, appearing in productions such as Luther, Romeo and Juliet, and How to Succeed in Business Without Really Trying, and also taking on the role as stage manager during productions. After spending time at the Academy of Dramatic Art in Rochester, Michigan, he moved on to Broadway and debuted in 1986 in the production of Execution of Justice. In 1999, Riehle had a major film role as drunken, corrupt, ex-cop Pat McGloin in the acclaimed revival of The Iceman Cometh. He has also worked with the Adams-Jefferson Project of Carleton College, participating in the a series of recordings of the correspondence between the two United States presidents.",
       "links": [],
+      "section": [
+        "Richard Riehle",
+        "Biographical information",
+        "Career"
+      ],
       "text": "At Notre Dame, Riehle became involved with the University Theatre, appearing in productions such as Luther, Romeo and Juliet, and How to Succeed in Business Without Really Trying, and also taking on the role as stage manager during productions. After spending time at the Academy of Dramatic Art in Rochester, Michigan, he moved on to Broadway and debuted in 1986 in the production of Execution of Justice. In 1999, Riehle had a major film role as drunken, corrupt, ex-cop Pat McGloin in the acclaimed revival of The Iceman Cometh. He has also worked with the Adams-Jefferson Project of Carleton College, participating in the a series of recordings of the correspondence between the two United States presidents."
     },
     {
       "body": "Riehle has maintained his involvement in theater workshops and encouraging the dramatic arts under the auspices of the Mark Taper Forum and A.S.K. However, since his scene-stealing cameo as the Quartermaster in 1989's Glory, with his trademark bushy mustache and heavyset frame, he has acquitted himself as one of the best and busiest character players on television and in movies.",
       "links": [],
+      "section": [
+        "Richard Riehle",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Riehle has maintained his involvement in theater workshops and encouraging the dramatic arts under the auspices of the Mark Taper Forum and A.S.K. However, since his scene-stealing cameo as the Quartermaster in 1989's Glory, with his trademark bushy mustache and heavyset frame, he has acquitted himself as one of the best and busiest character players on television and in movies."
+    },
+    {
+      "body": "Riehle was considered for the role of Cliff Clavin on the television series Cheers.",
+      "links": [],
+      "section": [
+        "Richard Riehle",
+        "Trivia"
+      ],
+      "text": "Riehle was considered for the role of Cliff Clavin on the television series Cheers."
     }
   ],
   "source": {

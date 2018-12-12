@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Ed (2000)",
+          "body": "${link_0} (2000)",
           "extra": "(2000)",
           "extra_text": "(2000)",
-          "links": [],
+          "links": [
+            {
+              "body": "Ed",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0247091",
+                "page": "http://www.imdb.com/find?q=tt0247091"
+              }
+            }
+          ],
           "text": "Ed (2000)",
-          "value": "Ed",
+          "value": "${link_0}",
           "value_text": "Ed"
         }
       ]
@@ -41,21 +54,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1863572",
+                "page": "http://www.imdb.com/find?q=nm1863572"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Matthew_Hubbard",
+                "page": "http://en.wikipedia.org/wiki/Matthew_Hubbard"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -63,9 +96,159 @@
   ],
   "paragraphs": [
     {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Hubbard",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "${link_0} (actor, producer, and writer)",
+      "links": [
+        {
+          "body": "30 Rock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0496424",
+            "page": "http://www.imdb.com/find?q=tt0496424"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Hubbard",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "30 Rock (actor, producer, and writer)"
+    },
+    {
+      "body": "${link_0} (story editor, teleplay, and writer)",
+      "links": [
+        {
+          "body": "Joey",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0375355",
+            "page": "http://www.imdb.com/find?q=tt0375355"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Hubbard",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Joey (story editor, teleplay, and writer)"
+    },
+    {
+      "body": "${link_0} (consulting producer and writer)",
+      "links": [
+        {
+          "body": "Parks and Recreation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1266020",
+            "page": "http://www.imdb.com/find?q=tt1266020"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Hubbard",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Parks and Recreation (consulting producer and writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "The Stones",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0369169",
+            "page": "http://www.imdb.com/find?q=tt0369169"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Hubbard",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Stones (writer)"
+    },
+    {
       "body": "Matthew Hubbard graduated from Beverly High School in Beverly, Massachusetts, in the class of 1996, where he excelled in the English Department. He later went on to attend Harvard University where he was an editor for The Harvard Lampoon. He has worked as a writer on the NBC comedy series 30 Rock. He was nominated for the Writers Guild of America Award for Best Comedic Series at the February 2009 ceremony for his work on the third season of 30 Rock.",
       "links": [],
+      "section": [
+        "Matthew Hubbard",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Matthew Hubbard graduated from Beverly High School in Beverly, Massachusetts, in the class of 1996, where he excelled in the English Department. He later went on to attend Harvard University where he was an editor for The Harvard Lampoon. He has worked as a writer on the NBC comedy series 30 Rock. He was nominated for the Writers Guild of America Award for Best Comedic Series at the February 2009 ceremony for his work on the third season of 30 Rock."
+    },
+    {
+      "body": "2010: Won a WGA Award for 30 Rock (Comedy Series)",
+      "links": [],
+      "section": [
+        "Matthew Hubbard",
+        "Awards"
+      ],
+      "text": "2010: Won a WGA Award for 30 Rock (Comedy Series)"
+    },
+    {
+      "body": "2009: Won a WGA Award for 30 Rock (Comedy Series)",
+      "links": [],
+      "section": [
+        "Matthew Hubbard",
+        "Awards"
+      ],
+      "text": "2009: Won a WGA Award for 30 Rock (Comedy Series)"
+    },
+    {
+      "body": "2009: Won a Primetime Emmy Award for 30 Rock (Outstanding Comedy Series)",
+      "links": [],
+      "section": [
+        "Matthew Hubbard",
+        "Awards"
+      ],
+      "text": "2009: Won a Primetime Emmy Award for 30 Rock (Outstanding Comedy Series)"
+    },
+    {
+      "body": "2009: Won a Primetime Emmy Award for 30 Rock (Outstanding Writing for a Comedy Series)",
+      "links": [],
+      "section": [
+        "Matthew Hubbard",
+        "Awards"
+      ],
+      "text": "2009: Won a Primetime Emmy Award for 30 Rock (Outstanding Writing for a Comedy Series)"
+    },
+    {
+      "body": "2008: Won a WGA Award for 30 Rock (Comedy Series)",
+      "links": [],
+      "section": [
+        "Matthew Hubbard",
+        "Awards"
+      ],
+      "text": "2008: Won a WGA Award for 30 Rock (Comedy Series)"
     }
   ],
   "source": {

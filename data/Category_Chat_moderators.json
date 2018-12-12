@@ -3,7 +3,8 @@
     {
       "body": "Community",
       "target": {
-        "href": "Category_Community",
+        "external": false,
+        "href": "/wiki/Category_Community",
         "page": "Category_Community"
       }
     }
@@ -17,7 +18,8 @@
           "body": "chat moderator",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar_Wiki_Chat_moderators",
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_Chat_moderators",
             "page": "Avatar_Wiki_Chat_moderators"
           }
         },
@@ -25,17 +27,54 @@
           "body": "Avatar Wiki",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar_Wiki_About",
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_About",
             "page": "Avatar_Wiki_About"
           }
         }
       ],
+      "section": [
+        "Category:Chat moderators"
+      ],
       "text": "These users have chat moderator rights on Avatar Wiki, a useful tool for moderating the site's chat."
     },
     {
-      "body": "All items (2)",
-      "links": [],
-      "text": "All items (2)"
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "User:AvatarAang7",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:AvatarAang7",
+            "page": "User:AvatarAang7"
+          }
+        }
+      ],
+      "section": [
+        "Category:Chat moderators",
+        "A"
+      ],
+      "text": "User:AvatarAang7"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "User:DrachenRitter42",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:DrachenRitter42",
+            "page": "User:DrachenRitter42"
+          }
+        }
+      ],
+      "section": [
+        "Category:Chat moderators",
+        "D"
+      ],
+      "text": "User:DrachenRitter42"
     }
   ],
   "source": {

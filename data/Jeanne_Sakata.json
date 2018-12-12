@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Tales of Meeting and Parting (1985; short)",
+          "body": "${link_0} (1985; short)",
           "extra": "(1985; short)",
           "extra_text": "(1985; short)",
-          "links": [],
+          "links": [
+            {
+              "body": "Tales of Meeting and Parting",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0088223",
+                "page": "http://www.imdb.com/find?q=tt0088223"
+              }
+            }
+          ],
           "text": "Tales of Meeting and Parting (1985; short)",
-          "value": "Tales of Meeting and Parting",
+          "value": "${link_0}",
           "value_text": "Tales of Meeting and Parting"
         }
       ]
@@ -41,57 +54,117 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0757140",
+                "page": "http://www.imdb.com/find?q=nm0757140"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jeanne_Sakata",
+                "page": "http://en.wikipedia.org/wiki/Jeanne_Sakata"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/people/Jeanne-Sakata/1052298758",
+                "page": "http://www.facebook.com/people/Jeanne-Sakata/1052298758"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/111699892909464323819/posts",
+                "page": "https://plus.google.com/111699892909464323819/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.jeannesakata.com/category/latest-news/",
+                "page": "http://www.jeannesakata.com/category/latest-news/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/JeanneSakata",
+                "page": "https://twitter.com/JeanneSakata"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -99,13 +172,381 @@
   ],
   "paragraphs": [
     {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Avatar: The Last Airbender credits",
+        "Kwan"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Desperate Housewives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0410975",
+            "page": "http://www.imdb.com/find?q=tt0410975"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Desperate Housewives"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ER",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108757",
+            "page": "http://www.imdb.com/find?q=tt0108757"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ER"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Family Law",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200337",
+            "page": "http://www.imdb.com/find?q=tt0200337"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Family Law"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Knots Landing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0078638",
+            "page": "http://www.imdb.com/find?q=tt0078638"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Knots Landing"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Line of Fire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0361200",
+            "page": "http://www.imdb.com/find?q=tt0361200"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Line of Fire"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Port Charles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118435",
+            "page": "http://www.imdb.com/find?q=tt0118435"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Port Charles"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Providence",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0177991",
+            "page": "http://www.imdb.com/find?q=tt0177991"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Providence"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Threat Matrix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364888",
+            "page": "http://www.imdb.com/find?q=tt0364888"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Threat Matrix"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "Bottom Feeders",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1399249",
+            "page": "http://www.imdb.com/find?q=tt1399249"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bottom Feeders (2009; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Why Am I Doing This?",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1125413",
+            "page": "http://www.imdb.com/find?q=tt1125413"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Why Am I Doing This? (2009)"
+    },
+    {
+      "body": "${link_0} (2006; short)",
+      "links": [
+        {
+          "body": "Fast Money",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0801828",
+            "page": "http://www.imdb.com/find?q=tt0801828"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fast Money (2006; short)"
+    },
+    {
+      "body": "${link_0} (2006; short)",
+      "links": [
+        {
+          "body": "Guy Night Out",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1560636",
+            "page": "http://www.imdb.com/find?q=tt1560636"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Guy Night Out (2006; short)"
+    },
+    {
+      "body": "${link_0} (2006; short)",
+      "links": [
+        {
+          "body": "Swimming in Air",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0933768",
+            "page": "http://www.imdb.com/find?q=tt0933768"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Swimming in Air (2006; short)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "American Fusion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0448989",
+            "page": "http://www.imdb.com/find?q=tt0448989"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "American Fusion (2005)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "xXx: State of the Union",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0329774",
+            "page": "http://www.imdb.com/find?q=tt0329774"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "xXx: State of the Union (2005)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "The Sweetest Thing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0253867",
+            "page": "http://www.imdb.com/find?q=tt0253867"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Sweetest Thing (2002)"
+    },
+    {
+      "body": "${link_0} (1992)",
+      "links": [
+        {
+          "body": "Poison Ivy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105156",
+            "page": "http://www.imdb.com/find?q=tt0105156"
+          }
+        }
+      ],
+      "section": [
+        "Jeanne Sakata",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Poison Ivy (1992)"
+    },
+    {
       "body": "Sakata's first appearance on the big screen was in the 1992 erotic thriller Poison Ivy. In 2005 she appeared in a minor role as a field reporter in xXx: State of the Union.",
       "links": [],
+      "section": [
+        "Jeanne Sakata",
+        "Biographical information"
+      ],
       "text": "Sakata's first appearance on the big screen was in the 1992 erotic thriller Poison Ivy. In 2005 she appeared in a minor role as a field reporter in xXx: State of the Union."
     },
     {
       "body": "Sakata has performed in many stage productions, working often with East West Players (EWP) in Los Angeles. In 2002 she won the Ovation Award for Lead Actress in a Play for her performance in Chay Yew's Red at EWP. In 2007, her first play, Dawn's Light: The Journey of Gordon Hirabayshi, premiered at EWP.",
       "links": [],
+      "section": [
+        "Jeanne Sakata",
+        "Biographical information"
+      ],
       "text": "Sakata has performed in many stage productions, working often with East West Players (EWP) in Los Angeles. In 2002 she won the Ovation Award for Lead Actress in a Play for her performance in Chay Yew's Red at EWP. In 2007, her first play, Dawn's Light: The Journey of Gordon Hirabayshi, premiered at EWP."
     }
   ],

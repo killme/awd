@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Rimshots (1976; TV movie)",
+          "body": "${link_0} (1976; TV movie)",
           "extra": "(1976; TV movie)",
           "extra_text": "(1976; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Rimshots",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0218552",
+                "page": "http://www.imdb.com/find?q=tt0218552"
+              }
+            }
+          ],
           "text": "The Rimshots (1976; TV movie)",
-          "value": "The Rimshots",
+          "value": "${link_0}",
           "value_text": "The Rimshots"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0858686",
+                "page": "http://www.imdb.com/find?q=nm0858686"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Dave_Thomas_(actor)",
+                "page": "http://en.wikipedia.org/wiki/Dave_Thomas_(actor)"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,19 +124,381 @@
   ],
   "paragraphs": [
     {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "The Legend of Korra credits",
+        "Additional voice"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Arrested Development",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0367279",
+            "page": "http://www.imdb.com/find?q=tt0367279"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Arrested Development"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Grace Under Fire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106017",
+            "page": "http://www.imdb.com/find?q=tt0106017"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Grace Under Fire"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Justice League",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275137",
+            "page": "http://www.imdb.com/find?q=tt0275137"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Justice League"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "King of the Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118375",
+            "page": "http://www.imdb.com/find?q=tt0118375"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "King of the Hill"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mission Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0197148",
+            "page": "http://www.imdb.com/find?q=tt0197148"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mission Hill"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Legend of Tarzan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0283754",
+            "page": "http://www.imdb.com/find?q=tt0283754"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Legend of Tarzan"
+    },
+    {
+      "body": "${link_0} (2010; video documentary)",
+      "links": [
+        {
+          "body": "Take 22: Behind the Scenes of Sequestered",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1608211",
+            "page": "http://www.imdb.com/find?q=tt1608211"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Take 22: Behind the Scenes of Sequestered (2010; video documentary)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Santa's Slay",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0393685",
+            "page": "http://www.imdb.com/find?q=tt0393685"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Santa's Slay (2005)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Love on the Side",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0384037",
+            "page": "http://www.imdb.com/find?q=tt0384037"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Love on the Side (2004)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Brother Bear",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0328880",
+            "page": "http://www.imdb.com/find?q=tt0328880"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Brother Bear (2003)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Fancy Dancing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0293005",
+            "page": "http://www.imdb.com/find?q=tt0293005"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fancy Dancing (2002)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Rat Race",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0250687",
+            "page": "http://www.imdb.com/find?q=tt0250687"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rat Race (2001)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Pippi Longstocking",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119899",
+            "page": "http://www.imdb.com/find?q=tt0119899"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pippi Longstocking (1997)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Incredible Hulk: Ultimate Destruction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0457386",
+            "page": "http://www.imdb.com/find?q=tt0457386"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Incredible Hulk: Ultimate Destruction (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Tuttles: Madcap Misadventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1111835",
+            "page": "http://www.imdb.com/find?q=tt1111835"
+          }
+        }
+      ],
+      "section": [
+        "Dave Thomas",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Tuttles: Madcap Misadventures (video game)"
+    },
+    {
       "body": "Thomas is the eldest son of John and Moreen Thomas and the older brother of Canadian singer-songwriter Ian Thomas. Thomas is married to Kim Thomas and they have four children: two sons, Johnathan and Harrison, and two daughters, Emily and Charlie.",
       "links": [],
+      "section": [
+        "Dave Thomas",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Thomas is the eldest son of John and Moreen Thomas and the older brother of Canadian singer-songwriter Ian Thomas. Thomas is married to Kim Thomas and they have four children: two sons, Johnathan and Harrison, and two daughters, Emily and Charlie."
     },
     {
       "body": "After starting his career as a copywriter at ad agency McCann Erickson in 1974 Thomas became the head writer of the Coca-Cola account in Canada within a year. After watching a Second City stage show in Toronto, and while suffering from self-proclaimed \"boredom\" in his advertising work, he auditioned for the Second City troupe and was chosen as a performer. Starting in 1993, he co-starred in ABC's Grace Under Fire with Brett Butler and Tom Poston and continued with the show for five seasons.",
       "links": [],
+      "section": [
+        "Dave Thomas",
+        "Biographical information",
+        "Career"
+      ],
       "text": "After starting his career as a copywriter at ad agency McCann Erickson in 1974 Thomas became the head writer of the Coca-Cola account in Canada within a year. After watching a Second City stage show in Toronto, and while suffering from self-proclaimed \"boredom\" in his advertising work, he auditioned for the Second City troupe and was chosen as a performer. Starting in 1993, he co-starred in ABC's Grace Under Fire with Brett Butler and Tom Poston and continued with the show for five seasons."
     },
     {
       "body": "As of 2004, Thomas was on the official Advisory Committee for the Comedy program at Humber College, the only such diploma program in the world. Also in that year, Thomas and Rick Moranis reprised the voices of the McKenzie Brothers in Disney's animated feature Brother Bear. In his long career doing animation work, Thomas has provided voices for Animaniacs, Duckman, CatDog, The Adventures of Tarzan, Justice League of America, The Simpsons, and Family Guy.",
       "links": [],
+      "section": [
+        "Dave Thomas",
+        "Biographical information",
+        "Career"
+      ],
       "text": "As of 2004, Thomas was on the official Advisory Committee for the Comedy program at Humber College, the only such diploma program in the world. Also in that year, Thomas and Rick Moranis reprised the voices of the McKenzie Brothers in Disney's animated feature Brother Bear. In his long career doing animation work, Thomas has provided voices for Animaniacs, Duckman, CatDog, The Adventures of Tarzan, Justice League of America, The Simpsons, and Family Guy."
+    },
+    {
+      "body": "2003: Won a Chicago International Children's Film Festival Adult's Jury Award for Stand Tall, Molly Lou Melon (Animated Television Production)",
+      "links": [],
+      "section": [
+        "Dave Thomas",
+        "Awards"
+      ],
+      "text": "2003: Won a Chicago International Children's Film Festival Adult's Jury Award for Stand Tall, Molly Lou Melon (Animated Television Production)"
+    },
+    {
+      "body": "1995: Won an Earle Grey Award",
+      "links": [],
+      "section": [
+        "Dave Thomas",
+        "Awards"
+      ],
+      "text": "1995: Won an Earle Grey Award"
+    },
+    {
+      "body": "1982: Won a Primetime Emmy Award for SCTV Network 90 (Outstanding Writing in a Variety or Music Program)",
+      "links": [],
+      "section": [
+        "Dave Thomas",
+        "Awards"
+      ],
+      "text": "1982: Won a Primetime Emmy Award for SCTV Network 90 (Outstanding Writing in a Variety or Music Program)"
     }
   ],
   "source": {

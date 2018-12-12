@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "She's Gotta Have It (1986)",
+          "body": "${link_0} (1986)",
           "extra": "(1986)",
           "extra_text": "(1986)",
-          "links": [],
+          "links": [
+            {
+              "body": "She's Gotta Have It",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0091939",
+                "page": "http://www.imdb.com/find?q=tt0091939"
+              }
+            }
+          ],
           "text": "She's Gotta Have It (1986)",
-          "value": "She's Gotta Have It",
+          "value": "${link_0}",
           "value_text": "She's Gotta Have It"
         }
       ]
@@ -55,48 +68,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0217529",
+                "page": "http://www.imdb.com/find?q=nm0217529"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Erik_Dellums",
+                "page": "http://en.wikipedia.org/wiki/Erik_Dellums"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/people/Erik-Todd-Dellums/645943230",
+                "page": "http://www.facebook.com/people/Erik-Todd-Dellums/645943230"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/110281388259873367654/posts",
+                "page": "https://plus.google.com/110281388259873367654/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.twitter.com/ETDellums",
+                "page": "https://www.twitter.com/ETDellums"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -104,18 +167,633 @@
   ],
   "paragraphs": [
     {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Avatar: The Last Airbender credits",
+        "Koh"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "A Man Called Hawk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096646",
+            "page": "http://www.imdb.com/find?q=tt0096646"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "A Man Called Hawk"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Boycott",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0255851",
+            "page": "http://www.imdb.com/find?q=tt0255851"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Boycott (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV documentary - narrator)",
+      "links": [
+        {
+          "body": "Headline Attacks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1487102",
+            "page": "http://www.imdb.com/find?q=tt1487102"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Headline Attacks (TV documentary - narrator)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Homicide: Life on the Street",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106028",
+            "page": "http://www.imdb.com/find?q=tt0106028"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Homicide: Life on the Street"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "JAG",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112022",
+            "page": "http://www.imdb.com/find?q=tt0112022"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "JAG"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jonny Zero",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0412158",
+            "page": "http://www.imdb.com/find?q=tt0412158"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jonny Zero"
+    },
+    {
+      "body": "${link_0} (TV movie - self/narrator)",
+      "links": [
+        {
+          "body": "More Headline Attacks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1476697",
+            "page": "http://www.imdb.com/find?q=tt1476697"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "More Headline Attacks (TV movie - self/narrator)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "New York Undercover",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108876",
+            "page": "http://www.imdb.com/find?q=tt0108876"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "New York Undercover"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "NYPD Blue",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106079",
+            "page": "http://www.imdb.com/find?q=tt0106079"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "NYPD Blue"
+    },
+    {
+      "body": "${link_0} (TV movie - self)",
+      "links": [
+        {
+          "body": "Take 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0785058",
+            "page": "http://www.imdb.com/find?q=tt0785058"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Take 3 (TV movie - self)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Color of Friendship",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0213565",
+            "page": "http://www.imdb.com/find?q=tt0213565"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Color of Friendship (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Wire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0306414",
+            "page": "http://www.imdb.com/find?q=tt0306414"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Wire"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Walker, Texas Ranger",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106168",
+            "page": "http://www.imdb.com/find?q=tt0106168"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Walker, Texas Ranger"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "The New N Word",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1773078",
+            "page": "http://www.imdb.com/find?q=tt1773078"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The New N Word (2010; short)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Patsy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1103248",
+            "page": "http://www.imdb.com/find?q=tt1103248"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Patsy (2008)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Bellclair Times",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0437094",
+            "page": "http://www.imdb.com/find?q=tt0437094"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bellclair Times (2005)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Camp D.O.A.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0391842",
+            "page": "http://www.imdb.com/find?q=tt0391842"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Camp D.O.A. (2005)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "BlackMale",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0132885",
+            "page": "http://www.imdb.com/find?q=tt0132885"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "BlackMale (2000)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Doctor Dolittle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118998",
+            "page": "http://www.imdb.com/find?q=tt0118998"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Doctor Dolittle (1998)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Joe Joe Angel & the Dead Guy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0179253",
+            "page": "http://www.imdb.com/find?q=tt0179253"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Joe Joe Angel & the Dead Guy (1997)"
+    },
+    {
+      "body": "${link_0} (1991; short)",
+      "links": [
+        {
+          "body": "Peritheosis",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0282837",
+            "page": "http://www.imdb.com/find?q=tt0282837"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Peritheosis (1991; short)"
+    },
+    {
+      "body": "${link_0} (1991)",
+      "links": [
+        {
+          "body": "The Doors",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101761",
+            "page": "http://www.imdb.com/find?q=tt0101761"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Doors (1991)"
+    },
+    {
+      "body": "${link_0} (1989 - uncredited)",
+      "links": [
+        {
+          "body": "Do the Right Thing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0097216",
+            "page": "http://www.imdb.com/find?q=tt0097216"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Do the Right Thing (1989 - uncredited)"
+    },
+    {
+      "body": "${link_0} (1988)",
+      "links": [
+        {
+          "body": "School Daze",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096054",
+            "page": "http://www.imdb.com/find?q=tt0096054"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "School Daze (1988)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "She's Gotta Have It",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0091939",
+            "page": "http://www.imdb.com/find?q=tt0091939"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "She's Gotta Have It (1986)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "Good to Go",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0091138",
+            "page": "http://www.imdb.com/find?q=tt0091138"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Good to Go (1986)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fallout 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1073664",
+            "page": "http://www.imdb.com/find?q=tt1073664"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fallout 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Elder Scrolls V: Skyrim",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1814884",
+            "page": "http://www.imdb.com/find?q=tt1814884"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Elder Scrolls V: Skyrim (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: The Old Republic: Knights of the Fallen Empire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt5131140",
+            "page": "http://www.imdb.com/find?q=tt5131140"
+          }
+        }
+      ],
+      "section": [
+        "Erik Todd Dellums",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: The Old Republic: Knights of the Fallen Empire (video game)"
+    },
+    {
       "body": "Dellums was born in the San Francisco Bay Area and moved to Washington, D.C., in his teens. He graduated from Brown University in 1986. He is the son of Leola Roscoe, a lawyer, and Ron Dellums, a former U.S. representative for California. His sister, Piper Dellums, is an author.",
       "links": [],
+      "section": [
+        "Erik Todd Dellums",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Dellums was born in the San Francisco Bay Area and moved to Washington, D.C., in his teens. He graduated from Brown University in 1986. He is the son of Leola Roscoe, a lawyer, and Ron Dellums, a former U.S. representative for California. His sister, Piper Dellums, is an author."
     },
     {
       "body": "Early in his career, Dellums had minor appearances in several Spike Lee films, such as She's Gotta Have It and Do the Right Thing. He was portrayed as a child by Travis Kyle Davis in the Disney Channel Original Movie The Color of Friendship, which was based on what happened when his family hosted a foreign exchange student from South Africa during the Apartheid era. He also had a cameo in this movie playing one of Congressman Dellums' aides.",
       "links": [],
+      "section": [
+        "Erik Todd Dellums",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Early in his career, Dellums had minor appearances in several Spike Lee films, such as She's Gotta Have It and Do the Right Thing. He was portrayed as a child by Travis Kyle Davis in the Disney Channel Original Movie The Color of Friendship, which was based on what happened when his family hosted a foreign exchange student from South Africa during the Apartheid era. He also had a cameo in this movie playing one of Congressman Dellums' aides."
     },
     {
       "body": "Dellums has had parts in television police dramas such as New York Undercover, Homicide: Life on the Street, and The Wire. He was featured on Homicide in a multi-season recurring role as fictional drug kingpin Luther Mahoney, and played a medical examiner on six episodes of The Wire. He also provided the narration for Key Constitutional Concepts, a documentary produced in 2006 by the Annenberg Foundation.",
       "links": [],
+      "section": [
+        "Erik Todd Dellums",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Dellums has had parts in television police dramas such as New York Undercover, Homicide: Life on the Street, and The Wire. He was featured on Homicide in a multi-season recurring role as fictional drug kingpin Luther Mahoney, and played a medical examiner on six episodes of The Wire. He also provided the narration for Key Constitutional Concepts, a documentary produced in 2006 by the Annenberg Foundation."
     }
   ],

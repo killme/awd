@@ -3,35 +3,40 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Characters",
       "target": {
-        "href": "Category_Characters",
+        "external": false,
+        "href": "/wiki/Category_Characters",
         "page": "Category_Characters"
       }
     },
     {
       "body": "Earth Kingdom characters",
       "target": {
-        "href": "Category_Earth_Kingdom_characters",
+        "external": false,
+        "href": "/wiki/Category_Earth_Kingdom_characters",
         "page": "Category_Earth_Kingdom_characters"
       }
     },
     {
       "body": "Minor characters",
       "target": {
-        "href": "Category_Minor_characters",
+        "external": false,
+        "href": "/wiki/Category_Minor_characters",
         "page": "Category_Minor_characters"
       }
     },
     {
       "body": "Video game characters",
       "target": {
-        "href": "Category_Video_game_characters",
+        "external": false,
+        "href": "/wiki/Category_Video_game_characters",
         "page": "Category_Video_game_characters"
       }
     }
@@ -49,7 +54,8 @@
               "body": "Earth Kingdom",
               "key": "${link_0}",
               "target": {
-                "href": "Earth_Kingdom",
+                "external": false,
+                "href": "/wiki/Earth_Kingdom",
                 "page": "Earth_Kingdom"
               }
             }
@@ -100,7 +106,8 @@
               "body": "Bumi's advisor",
               "key": "${link_0}",
               "target": {
-                "href": "Bumi%27s_advisor",
+                "external": false,
+                "href": "/wiki/Bumi%27s_advisor",
                 "page": "Bumi%27s_advisor"
               }
             },
@@ -108,7 +115,8 @@
               "body": "Yuan",
               "key": "${link_1}",
               "target": {
-                "href": "Yuan",
+                "external": false,
+                "href": "/wiki/Yuan",
                 "page": "Yuan"
               }
             },
@@ -116,7 +124,8 @@
               "body": "Hiryu",
               "key": "${link_2}",
               "target": {
-                "href": "Hiryu",
+                "external": false,
+                "href": "/wiki/Hiryu",
                 "page": "Hiryu"
               }
             },
@@ -124,7 +133,8 @@
               "body": "Fire Nation",
               "key": "${link_3}",
               "target": {
-                "href": "Fire_Nation",
+                "external": false,
+                "href": "/wiki/Fire_Nation",
                 "page": "Fire_Nation"
               }
             }
@@ -147,7 +157,8 @@
               "body": "Aang",
               "key": "${link_0}",
               "target": {
-                "href": "Aang_(games)",
+                "external": false,
+                "href": "/wiki/Aang_(games)",
                 "page": "Aang_(games)"
               }
             },
@@ -155,7 +166,8 @@
               "body": "Katara",
               "key": "${link_1}",
               "target": {
-                "href": "Katara_(games)",
+                "external": false,
+                "href": "/wiki/Katara_(games)",
                 "page": "Katara_(games)"
               }
             },
@@ -163,7 +175,8 @@
               "body": "Sokka",
               "key": "${link_2}",
               "target": {
-                "href": "Sokka_(games)",
+                "external": false,
+                "href": "/wiki/Sokka_(games)",
                 "page": "Sokka_(games)"
               }
             },
@@ -171,7 +184,8 @@
               "body": "Momo",
               "key": "${link_3}",
               "target": {
-                "href": "Momo",
+                "external": false,
+                "href": "/wiki/Momo",
                 "page": "Momo"
               }
             },
@@ -179,7 +193,8 @@
               "body": "Haru",
               "key": "${link_4}",
               "target": {
-                "href": "Haru_(games)",
+                "external": false,
+                "href": "/wiki/Haru_(games)",
                 "page": "Haru_(games)"
               }
             },
@@ -187,7 +202,8 @@
               "body": "jailer",
               "key": "${link_5}",
               "target": {
-                "href": "Jailer",
+                "external": false,
+                "href": "/wiki/Jailer",
                 "page": "Jailer"
               }
             }
@@ -238,7 +254,8 @@
               "body": "Avatar: The Last Airbender (video game)",
               "key": "${link_0}",
               "target": {
-                "href": "Avatar__The_Last_Airbender_(video_game)",
+                "external": false,
+                "href": "/wiki/Avatar__The_Last_Airbender_(video_game)",
                 "page": "Avatar__The_Last_Airbender_(video_game)"
               }
             }
@@ -253,12 +270,22 @@
       "key": "Voiced by",
       "value": [
         {
-          "body": "Gwendoline Yeo",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Gwendoline Yeo",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1290102",
+                "page": "http://www.imdb.com/find?q=nm1290102"
+              }
+            }
+          ],
           "text": "Gwendoline Yeo",
-          "value": "Gwendoline Yeo",
+          "value": "${link_0}",
           "value_text": "Gwendoline Yeo"
         }
       ]
@@ -266,22 +293,11 @@
   ],
   "paragraphs": [
     {
-      "body": "The following information is not considered to be part of ${link_0}.",
-      "links": [
-        {
-          "body": "the main continuity",
-          "key": "${link_0}",
-          "target": {
-            "href": "Avatar_Wiki_Continuity",
-            "page": "Avatar_Wiki_Continuity"
-          }
-        }
-      ],
-      "text": "The following information is not considered to be part of the main continuity."
-    },
-    {
       "body": "Lian, also referred to as \"The Maker\", was a highly skilled mechanist responsible for the creation of havoc-wreaking machines.",
       "links": [],
+      "section": [
+        "Lian"
+      ],
       "text": "Lian, also referred to as \"The Maker\", was a highly skilled mechanist responsible for the creation of havoc-wreaking machines."
     },
     {
@@ -291,7 +307,8 @@
           "body": "Fire Nation",
           "key": "${link_0}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         },
@@ -299,7 +316,8 @@
           "body": "Hundred Year War",
           "key": "${link_1}",
           "target": {
-            "href": "Hundred_Year_War",
+            "external": false,
+            "href": "/wiki/Hundred_Year_War",
             "page": "Hundred_Year_War"
           }
         },
@@ -307,7 +325,8 @@
           "body": "Aang",
           "key": "${link_2}",
           "target": {
-            "href": "Aang_(games)",
+            "external": false,
+            "href": "/wiki/Aang_(games)",
             "page": "Aang_(games)"
           }
         },
@@ -315,7 +334,8 @@
           "body": "elements",
           "key": "${link_3}",
           "target": {
-            "href": "Bending_arts",
+            "external": false,
+            "href": "/wiki/Bending_arts",
             "page": "Bending_arts"
           }
         },
@@ -323,10 +343,14 @@
           "body": "Fire Lord",
           "key": "${link_4}",
           "target": {
-            "href": "Fire_Lord",
+            "external": false,
+            "href": "/wiki/Fire_Lord",
             "page": "Fire_Lord"
           }
         }
+      ],
+      "section": [
+        "Lian"
       ],
       "text": "With the Fire Nation about to win the Hundred Year War, and having no confidence in Aang's ability to master all the elements in time, she believed the only way to defeat the Fire Lord was through the machines she built. Since she also had no appreciation for the bending arts, she concocted a plan to destroy and replace all the benders in the world with her creations, preventing any future war."
     },
@@ -337,7 +361,8 @@
           "body": "Sokka",
           "key": "${link_0}",
           "target": {
-            "href": "Sokka_(games)",
+            "external": false,
+            "href": "/wiki/Sokka_(games)",
             "page": "Sokka_(games)"
           }
         },
@@ -345,7 +370,8 @@
           "body": "Katara",
           "key": "${link_1}",
           "target": {
-            "href": "Katara_(games)",
+            "external": false,
+            "href": "/wiki/Katara_(games)",
             "page": "Katara_(games)"
           }
         },
@@ -353,7 +379,8 @@
           "body": "jail guard",
           "key": "${link_2}",
           "target": {
-            "href": "Jailer",
+            "external": false,
+            "href": "/wiki/Jailer",
             "page": "Jailer"
           }
         },
@@ -361,7 +388,8 @@
           "body": "airbender",
           "key": "${link_3}",
           "target": {
-            "href": "Airbending",
+            "external": false,
+            "href": "/wiki/Airbending",
             "page": "Airbending"
           }
         },
@@ -369,10 +397,15 @@
           "body": "earthbender",
           "key": "${link_4}",
           "target": {
-            "href": "Earthbending",
+            "external": false,
+            "href": "/wiki/Earthbending",
             "page": "Earthbending"
           }
         }
+      ],
+      "section": [
+        "Lian",
+        "History"
       ],
       "text": "At some point in her life, Lian was captured and locked away in prison by the Fire Nation, who forced her to construct machines for them. She was found, locked in her cell, by Aang, Sokka, and Katara, who engaged the jail guard imprisoning her. She noticed during the battle that Aang was an airbender, which gave her an idea. Using the chaos of the skirmish as cover, Lian escaped her confinement, only leaving a map to an old earthbender training camp behind for the trio to find."
     },
@@ -383,10 +416,15 @@
           "body": "Haru",
           "key": "${link_0}",
           "target": {
-            "href": "Haru_(games)",
+            "external": false,
+            "href": "/wiki/Haru_(games)",
             "page": "Haru_(games)"
           }
         }
+      ],
+      "section": [
+        "Lian",
+        "History"
       ],
       "text": "Lian retreated to an island where she occupied herself with building machines. When she was eventually found again by the group, now joined by Haru, she admitted that she was not a prisoner of the Fire Nation and built the machines for herself. Lian offered them a\u00a0chance to work\u00a0with her to end the war, but Aang\u00a0turned her down, stating that he could never be a part of something that hurt innocent people. She unleashed her prototype dreadnought machine on the group, which bought her enough time to escape."
     },
@@ -397,7 +435,8 @@
           "body": "air temple",
           "key": "${link_0}",
           "target": {
-            "href": "Air_temple",
+            "external": false,
+            "href": "/wiki/Air_temple",
             "page": "Air_temple"
           }
         },
@@ -405,10 +444,15 @@
           "body": "Avatar",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar",
+            "external": false,
+            "href": "/wiki/Avatar",
             "page": "Avatar"
           }
         }
+      ],
+      "section": [
+        "Lian",
+        "History"
       ],
       "text": "Ending up at an air temple, Lian programmed several machines to destroy the Avatar statues inside the temple's sanctuary while other creations of her were tasked with capturing Aang and his friends. Although Aang managed to escape, the machine brought his friends before Lian, who decided to imprison them in different areas of a fortress."
     },
@@ -419,7 +463,8 @@
           "body": "Ultimation",
           "key": "${link_0}",
           "target": {
-            "href": "Ultimation",
+            "external": false,
+            "href": "/wiki/Ultimation",
             "page": "Ultimation"
           }
         },
@@ -427,7 +472,8 @@
           "body": "Yuan",
           "key": "${link_1}",
           "target": {
-            "href": "Yuan",
+            "external": false,
+            "href": "/wiki/Yuan",
             "page": "Yuan"
           }
         },
@@ -435,7 +481,8 @@
           "body": "Hiryu",
           "key": "${link_2}",
           "target": {
-            "href": "Hiryu",
+            "external": false,
+            "href": "/wiki/Hiryu",
             "page": "Hiryu"
           }
         },
@@ -443,7 +490,8 @@
           "body": "North Pole",
           "key": "${link_3}",
           "target": {
-            "href": "North_Pole",
+            "external": false,
+            "href": "/wiki/North_Pole",
             "page": "North_Pole"
           }
         },
@@ -451,12 +499,144 @@
           "body": "Avatar Sate",
           "key": "${link_4}",
           "target": {
-            "href": "Avatar#Avatar_State",
+            "external": false,
+            "href": "/wiki/Avatar#Avatar_State",
             "page": "Avatar"
           }
         }
       ],
+      "section": [
+        "Lian",
+        "History"
+      ],
       "text": "The group managed to escape, however, defeating all of Lian's machines and\u00a0the Dreadnought in the process. Lian retreated to a large room, where she had her Ultimation, a large, weaponized machine that could \"bend\" all four elements, stand at the ready. Confronted by the group, she revealed that she was making the machines to eliminate benders, holding them responsible for the war, and that her latest creation, the Ultimation, was powered by three benders: Haru's friend, Yuan; a Fire Nation soldier; and Hiryu, a waterbender from the North Pole. She had threatened to kill them along with the other\u00a0benders if they did not agree to\u00a0help her.\u00a0She made Aang the same offer again, telling him that they could end the war together and that she could help him become a fully-realized Avatar. Enraged when he once again declined her offer, she declared her machine to be a better Avatar than he would ever be, and that she did not need a mindless bender like him. During the ensuing battle, Lian and Team Avatar traded blows, both managing to get in a few hits. When Lian succeeded in hurting Katara, she inadvertently triggered the Avatar Sate, which Aang used to defeat Ultimation; the machine toppled over."
+    },
+    {
+      "body": "Lian's ultimate fate was not the same in every version of the game. In the Xbox, PS2, NGC, and Wii versions, she is last seen after her \"mechanical avatar\" is beaten, bracing herself to block any debris that may fall her way. In the PSP and DS versions, Lian collapsed in disbelief at the defeat of her ultimate creation, and Yuan vowed that he and Lian would atone for their actions. The GBA version gave no indication of what happened to Lian and she was not present in the PC game.",
+      "links": [],
+      "section": [
+        "Lian",
+        "Trivia"
+      ],
+      "text": "Lian's ultimate fate was not the same in every version of the game. In the Xbox, PS2, NGC, and Wii versions, she is last seen after her \"mechanical avatar\" is beaten, bracing herself to block any debris that may fall her way. In the PSP and DS versions, Lian collapsed in disbelief at the defeat of her ultimate creation, and Yuan vowed that he and Lian would atone for their actions. The GBA version gave no indication of what happened to Lian and she was not present in the PC game."
+    },
+    {
+      "body": "She had what was called bender envy: She envied the capabilities of the benders, and thus made machines since she believed that bending was nothing more than \"magic\".",
+      "links": [],
+      "section": [
+        "Lian",
+        "Trivia"
+      ],
+      "text": "She had what was called bender envy: She envied the capabilities of the benders, and thus made machines since she believed that bending was nothing more than \"magic\"."
+    },
+    {
+      "body": "The \"bender envy\" displayed by Lian bears similarities to the ${link_0} of the Equalists in ${link_1}.\n One of the ${link_2}, ${link_3}, created machines for similar purposes as Lian's.\n The seal present on all of Lian's inventions bears similarities to the one on ${link_4}'s shoulder band and on other things made by ${link_5}.\n Also, Amon's greater speech is somewhat similar to Lian's, stating that bending was the source of every war in mankind, and once they were removed from society, there will be no war.",
+      "links": [
+        {
+          "body": "Anti-bending Revolution",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Anti-bending_Revolution",
+            "page": "Anti-bending_Revolution"
+          }
+        },
+        {
+          "body": "The Legend of Korra",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra",
+            "page": "The_Legend_of_Korra"
+          }
+        },
+        {
+          "body": "Equalists",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Equalists",
+            "page": "Equalists"
+          }
+        },
+        {
+          "body": "Hiroshi Sato",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Hiroshi_Sato",
+            "page": "Hiroshi_Sato"
+          }
+        },
+        {
+          "body": "Asami",
+          "key": "${link_4}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Asami_Sato",
+            "page": "Asami_Sato"
+          }
+        },
+        {
+          "body": "Future Industries",
+          "key": "${link_5}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Future_Industries",
+            "page": "Future_Industries"
+          }
+        }
+      ],
+      "section": [
+        "Lian",
+        "Trivia"
+      ],
+      "text": "The \"bender envy\" displayed by Lian bears similarities to the Anti-bending Revolution of the Equalists in The Legend of Korra.\n One of the Equalists, Hiroshi Sato, created machines for similar purposes as Lian's.\n The seal present on all of Lian's inventions bears similarities to the one on Asami's shoulder band and on other things made by Future Industries.\n Also, Amon's greater speech is somewhat similar to Lian's, stating that bending was the source of every war in mankind, and once they were removed from society, there will be no war."
+    },
+    {
+      "body": "One of the ${link_2}, ${link_3}, created machines for similar purposes as Lian's.",
+      "links": [],
+      "section": [
+        "Lian",
+        "Trivia"
+      ],
+      "text": "One of the ${link_2}, ${link_3}, created machines for similar purposes as Lian's."
+    },
+    {
+      "body": "The seal present on all of Lian's inventions bears similarities to the one on ${link_4}'s shoulder band and on other things made by ${link_5}.",
+      "links": [],
+      "section": [
+        "Lian",
+        "Trivia"
+      ],
+      "text": "The seal present on all of Lian's inventions bears similarities to the one on ${link_4}'s shoulder band and on other things made by ${link_5}."
+    },
+    {
+      "body": "Also, Amon's greater speech is somewhat similar to Lian's, stating that bending was the source of every war in mankind, and once they were removed from society, there will be no war.",
+      "links": [],
+      "section": [
+        "Lian",
+        "Trivia"
+      ],
+      "text": "Also, Amon's greater speech is somewhat similar to Lian's, stating that bending was the source of every war in mankind, and once they were removed from society, there will be no war."
+    },
+    {
+      "body": "Lian can be translated as\u00a0\u8fde, meaning to connect or join.",
+      "links": [],
+      "section": [
+        "Lian",
+        "Trivia"
+      ],
+      "text": "Lian can be translated as\u00a0\u8fde, meaning to connect or join."
+    },
+    {
+      "body": "All of Lian's machines are based on the four bending elements: The Soaker correlates to water, The Inferno correlates to fire, and The Tempest correlates to air.",
+      "links": [],
+      "section": [
+        "Lian",
+        "Trivia"
+      ],
+      "text": "All of Lian's machines are based on the four bending elements: The Soaker correlates to water, The Inferno correlates to fire, and The Tempest correlates to air."
     }
   ],
   "source": {

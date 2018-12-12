@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Crysis (2007; video game)",
+          "body": "${link_0} (2007; video game)",
           "extra": "(2007; video game)",
           "extra_text": "(2007; video game)",
-          "links": [],
+          "links": [
+            {
+              "body": "Crysis",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0954921",
+                "page": "http://www.imdb.com/find?q=tt0954921"
+              }
+            }
+          ],
           "text": "Crysis (2007; video game)",
-          "value": "Crysis",
+          "value": "${link_0}",
           "value_text": "Crysis"
         }
       ]
@@ -69,66 +82,136 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm3081796",
+                "page": "http://www.imdb.com/find?q=nm3081796"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Steven_Yeun",
+                "page": "http://en.wikipedia.org/wiki/Steven_Yeun"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Steven-Yeun/211963272174199",
+                "page": "https://www.facebook.com/pages/Steven-Yeun/211963272174199"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/109515600966300851229/posts",
+                "page": "https://plus.google.com/109515600966300851229/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/steveyeun#",
+                "page": "http://instagram.com/steveyeun"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://steveyeun.tumblr.com/",
+                "page": "http://steveyeun.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/steveyeun",
+                "page": "https://twitter.com/steveyeun"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -136,23 +219,439 @@
   ],
   "paragraphs": [
     {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "The Legend of Korra credits",
+        "Wan"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "The Legend of Korra credits",
+        "Wan"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Light in the Dark",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Light_in_the_Dark",
+            "page": "Light_in_the_Dark"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "The Legend of Korra credits",
+        "Wan"
+      ],
+      "text": "214. \"Light in the Dark\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Harder Than It Looks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2390684",
+            "page": "http://www.imdb.com/find?q=tt2390684"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Harder Than It Looks"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order: LA",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1657081",
+            "page": "http://www.imdb.com/find?q=tt1657081"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order: LA"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lemons the Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2201775",
+            "page": "http://www.imdb.com/find?q=tt2201775"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lemons the Show"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "NTSF:SD:SUV",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1783495",
+            "page": "http://www.imdb.com/find?q=tt1783495"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "NTSF:SD:SUV"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Big Bang Theory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0898266",
+            "page": "http://www.imdb.com/find?q=tt0898266"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Big Bang Theory"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Soup",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0421460",
+            "page": "http://www.imdb.com/find?q=tt0421460"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Soup"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Walking Dead",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1520211",
+            "page": "http://www.imdb.com/find?q=tt1520211"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Walking Dead"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Walking Dead Zombie Audition in LA",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2280326",
+            "page": "http://www.imdb.com/find?q=tt2280326"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Walking Dead Zombie Audition in LA (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Warehouse 13",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1132290",
+            "page": "http://www.imdb.com/find?q=tt1132290"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Warehouse 13"
+    },
+    {
+      "body": "${link_0} (2013; short)",
+      "links": [
+        {
+          "body": "Crash Site",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3195678",
+            "page": "http://www.imdb.com/find?q=tt3195678"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Crash Site (2013; short)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "A Moment of Youth",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1926214",
+            "page": "http://www.imdb.com/find?q=tt1926214"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Moment of Youth (2011)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "Blowout Sale",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1663974",
+            "page": "http://www.imdb.com/find?q=tt1663974"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Blowout Sale (2010; short)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "Carpe Millenium",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1524108",
+            "page": "http://www.imdb.com/find?q=tt1524108"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Carpe Millenium (2010; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "My Name is Jerry",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0889146",
+            "page": "http://www.imdb.com/find?q=tt0889146"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "My Name is Jerry (2009)"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "The Kari Files",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1391696",
+            "page": "http://www.imdb.com/find?q=tt1391696"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Kari Files (2009; short)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crysis",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0954921",
+            "page": "http://www.imdb.com/find?q=tt0954921"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crysis (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crysis Warhead",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1305015",
+            "page": "http://www.imdb.com/find?q=tt1305015"
+          }
+        }
+      ],
+      "section": [
+        "Steven Yeun",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crysis Warhead (video game)"
+    },
+    {
       "body": "The son of Je and June Yeun, Steven Yeun was born in South Korea and raised in Troy, Michigan. His parents owned two beauty supply stores in Detroit.",
       "links": [],
+      "section": [
+        "Steven Yeun",
+        "Biographical information"
+      ],
       "text": "The son of Je and June Yeun, Steven Yeun was born in South Korea and raised in Troy, Michigan. His parents owned two beauty supply stores in Detroit."
     },
     {
       "body": "Yeun received a bachelor's degree in psychology from Kalamazoo College in 2005. His interest in acting and improv came during his freshman year at Kalamazoo, when he watched the college's improv group, Monkapult. He auditioned for Monkapult and was initially rejected before successfully joining the group during his sophomore year.",
       "links": [],
+      "section": [
+        "Steven Yeun",
+        "Biographical information"
+      ],
       "text": "Yeun received a bachelor's degree in psychology from Kalamazoo College in 2005. His interest in acting and improv came during his freshman year at Kalamazoo, when he watched the college's improv group, Monkapult. He auditioned for Monkapult and was initially rejected before successfully joining the group during his sophomore year."
     },
     {
       "body": "Yeun revealed to his parents that he planned to pursue an improv career in Chicago, instead of enrolling in law school or medical school. According to Yeun, his parents were unhappy but supported his decision and gave him two years to pursue acting. He moved to Chicago in 2005, living in the city's Lincoln Square with his brother. Shortly after graduation, he joined Stir Friday Night, a sketch comedy group composed of Asian-American members.",
       "links": [],
+      "section": [
+        "Steven Yeun",
+        "Biographical information"
+      ],
       "text": "Yeun revealed to his parents that he planned to pursue an improv career in Chicago, instead of enrolling in law school or medical school. According to Yeun, his parents were unhappy but supported his decision and gave him two years to pursue acting. He moved to Chicago in 2005, living in the city's Lincoln Square with his brother. Shortly after graduation, he joined Stir Friday Night, a sketch comedy group composed of Asian-American members."
     },
     {
       "body": "Yeun joined The Second City in Chicago before moving to Los Angeles in October 2009.",
       "links": [],
+      "section": [
+        "Steven Yeun",
+        "Biographical information"
+      ],
       "text": "Yeun joined The Second City in Chicago before moving to Los Angeles in October 2009."
     }
   ],

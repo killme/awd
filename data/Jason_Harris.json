@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Iria: Zeiram the Animation (1993; video)",
+          "body": "${link_0} (1993; video)",
           "extra": "(1993; video)",
           "extra_text": "(1993; video)",
-          "links": [],
+          "links": [
+            {
+              "body": "Iria: Zeiram the Animation",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0107228",
+                "page": "http://www.imdb.com/find?q=tt0107228"
+              }
+            }
+          ],
           "text": "Iria: Zeiram the Animation (1993; video)",
-          "value": "Iria: Zeiram the Animation",
+          "value": "${link_0}",
           "value_text": "Iria: Zeiram the Animation"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0364814",
+                "page": "http://www.imdb.com/find?q=nm0364814"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jason_Harris_Katz",
+                "page": "http://en.wikipedia.org/wiki/Jason_Harris_Katz"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/jason_harris",
+                "page": "https://twitter.com/jason_harris"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -100,8 +143,693 @@
   ],
   "paragraphs": [
     {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Leaf in the Wind",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Leaf_in_the_Wind",
+            "page": "A_Leaf_in_the_Wind"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "The Legend of Korra credits",
+        "Ring announcer"
+      ],
+      "text": "102. \"A Leaf in the Wind\""
+    },
+    {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Spirit of Competition",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Spirit_of_Competition",
+            "page": "The_Spirit_of_Competition"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "The Legend of Korra credits",
+        "Ring announcer"
+      ],
+      "text": "105. \"The Spirit of Competition\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "And the Winner Is...",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/And_the_Winner_Is..",
+            "page": "And_the_Winner_Is.."
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "The Legend of Korra credits",
+        "Ring announcer"
+      ],
+      "text": "106. \"And the Winner Is...\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "The Legend of Korra credits",
+        "Assistant director"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "The Legend of Korra credits",
+        "Evil Unalaq"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Night of a Thousand Stars",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Night_of_a_Thousand_Stars",
+            "page": "Night_of_a_Thousand_Stars"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "The Legend of Korra credits",
+        "Evil Unalaq"
+      ],
+      "text": "211. \"Night of a Thousand Stars\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Night of a Thousand Stars",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Night_of_a_Thousand_Stars",
+            "page": "Night_of_a_Thousand_Stars"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "The Legend of Korra credits",
+        "Automatons"
+      ],
+      "text": "211. \"Night of a Thousand Stars\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Night of a Thousand Stars",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Night_of_a_Thousand_Stars",
+            "page": "Night_of_a_Thousand_Stars"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "The Legend of Korra credits",
+        "Movie president"
+      ],
+      "text": "211. \"Night of a Thousand Stars\""
+    },
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Aftermath",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Aftermath",
+            "page": "The_Aftermath"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "107. \"The Aftermath\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312109",
+            "page": "http://www.imdb.com/find?q=tt0312109"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door: Operation Z.E.R.O.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837113",
+            "page": "http://www.imdb.com/find?q=tt0837113"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door: Operation Z.E.R.O. (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Damages",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0914387",
+            "page": "http://www.imdb.com/find?q=tt0914387"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Damages"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Jasper Goes to Bishop",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1596571",
+            "page": "http://www.imdb.com/find?q=tt1596571"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jasper Goes to Bishop (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Team Umizoomi",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2127185",
+            "page": "http://www.imdb.com/find?q=tt2127185"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Team Umizoomi"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Nanny Interviews",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2127185",
+            "page": "http://www.imdb.com/find?q=tt2127185"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Nanny Interviews"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Henry & Me",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1460798",
+            "page": "http://www.imdb.com/find?q=tt1460798"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Henry & Me (2014)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Foodfight!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0249516",
+            "page": "http://www.imdb.com/find?q=tt0249516"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Foodfight! (2012)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Quantum Quest: A Cassini Space Odyssey",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312305",
+            "page": "http://www.imdb.com/find?q=tt0312305"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Quantum Quest: A Cassini Space Odyssey (2010)"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "Sinkhole",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1451417",
+            "page": "http://www.imdb.com/find?q=tt1451417"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sinkhole (2009; short)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Everyone's Hero",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0430779",
+            "page": "http://www.imdb.com/find?q=tt0430779"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Everyone's Hero (2006)"
+    },
+    {
+      "body": "${link_0} (2004; short)",
+      "links": [
+        {
+          "body": "The Wedding Video",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1560735",
+            "page": "http://www.imdb.com/find?q=tt1560735"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wedding Video (2004; short)"
+    },
+    {
+      "body": "${link_0} (2002; English version)",
+      "links": [
+        {
+          "body": "The Cat Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0347618",
+            "page": "http://www.imdb.com/find?q=tt0347618"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Cat Returns (2002; English version)"
+    },
+    {
+      "body": "${link_0} (1996; video)",
+      "links": [
+        {
+          "body": "My My Mai",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0295622",
+            "page": "http://www.imdb.com/find?q=tt0295622"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "My My Mai (1996; video)"
+    },
+    {
+      "body": "${link_0} (ADR loop director)",
+      "links": [
+        {
+          "body": "Bachelorette",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1920849",
+            "page": "http://www.imdb.com/find?q=tt1920849"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Bachelorette (ADR loop director)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Despicable Me",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1822208",
+            "page": "http://www.imdb.com/find?q=tt1822208"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Despicable Me (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Destroy All Humans! 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802977",
+            "page": "http://www.imdb.com/find?q=tt0802977"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Destroy All Humans! 2 (video game)"
+    },
+    {
+      "body": "${link_0} (ADR loop director)",
+      "links": [
+        {
+          "body": "Ice Age: Continental Drift",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1667889",
+            "page": "http://www.imdb.com/find?q=tt1667889"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ice Age: Continental Drift (ADR loop director)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Jak and Daxter: The Precursor Legacy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0308426",
+            "page": "http://www.imdb.com/find?q=tt0308426"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Jak and Daxter: The Precursor Legacy (video game)"
+    },
+    {
+      "body": "${link_0} (ADR loop director and ADR voice casting)",
+      "links": [
+        {
+          "body": "Non-stop",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2024469",
+            "page": "http://www.imdb.com/find?q=tt2024469"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Non-stop (ADR loop director and ADR voice casting)"
+    },
+    {
+      "body": "${link_0} (ADR loop director and ADR voice casting)",
+      "links": [
+        {
+          "body": "Only Lovers Left Alive",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1714915",
+            "page": "http://www.imdb.com/find?q=tt1714915"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Only Lovers Left Alive (ADR loop director and ADR voice casting)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Old Republic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1320395",
+            "page": "http://www.imdb.com/find?q=tt1320395"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: The Old Republic"
+    },
+    {
+      "body": "${link_0} (ADR voice casting)",
+      "links": [
+        {
+          "body": "The Red Road",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2505072",
+            "page": "http://www.imdb.com/find?q=tt2505072"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Red Road (ADR voice casting)"
+    },
+    {
+      "body": "${link_0} (voice casting)",
+      "links": [
+        {
+          "body": "Top Cat: The Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1821680",
+            "page": "http://www.imdb.com/find?q=tt1821680"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Top Cat: The Movie (voice casting)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Turok",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1129443",
+            "page": "http://www.imdb.com/find?q=tt1129443"
+          }
+        }
+      ],
+      "section": [
+        "Jason Harris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Turok (video game)"
+    },
+    {
       "body": "In 2003, Harris married actress Peter Pamela Rose.",
       "links": [],
+      "section": [
+        "Jason Harris",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "In 2003, Harris married actress Peter Pamela Rose."
     },
     {
@@ -111,10 +839,16 @@
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
+      ],
+      "section": [
+        "Jason Harris",
+        "Biographical information",
+        "Career"
       ],
       "text": "Harris was the host of the short-lived Double Dare 2000 on Nickelodeon and was also a host of Nickelodeon's Big Help on the Road in the late 1990s. In 2002, Harris voiced Bill Dickey in the failed Adult Swim pilot Welcome to Eltingville. He also did several minor voices in the video game Destroy All Humans! 2. He has recently appeared on Codename: Kids Next Door and in a commercial for Olive Garden."
     }

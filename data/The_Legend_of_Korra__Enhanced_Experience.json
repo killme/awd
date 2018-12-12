@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Books",
       "target": {
-        "href": "Category_Books",
+        "external": false,
+        "href": "/wiki/Category_Books",
         "page": "Category_Books"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -25,58 +28,138 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "The cover art for the book features the main characters from ${link_0}.",
+      "body": "The Legend of Korra: Enhanced Experience (${link_0}) is an interactive e-book based on the animated series ${link_1} that features exclusive production content from the ${link_2} as well as new material from the ${link_3}. The book also contains concept art, design works, and hidden content.",
       "links": [
         {
-          "body": "The Legend of Korra",
+          "body": "ISBN 978-1-61263-394-7",
           "key": "${link_0}",
           "target": {
-            "href": "The_Legend_of_Korra",
-            "page": "The_Legend_of_Korra"
+            "external": false,
+            "href": "/wiki/Special:BookSources/9781612633947",
+            "page": "Special:BookSources/9781612633947"
           }
-        }
-      ],
-      "text": "The cover art for the book features the main characters from The Legend of Korra."
-    },
-    {
-      "body": "The Legend of Korra: Enhanced Experience (ISBN 978-1-61263-394-7) is an interactive e-book based on the animated series ${link_0} that features exclusive production content from the ${link_1} as well as new material from the ${link_2}. The book also contains concept art, design works, and hidden content.",
-      "links": [
+        },
         {
           "body": "The Legend of Korra",
-          "key": "${link_0}",
+          "key": "${link_1}",
           "target": {
-            "href": "The_Legend_of_Korra",
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra",
             "page": "The_Legend_of_Korra"
           }
         },
         {
           "body": "first book",
-          "key": "${link_1}",
+          "key": "${link_2}",
           "target": {
-            "href": "Book_One__Air",
+            "external": false,
+            "href": "/wiki/Book_One__Air",
             "page": "Book_One__Air"
           }
         },
         {
           "body": "second book",
-          "key": "${link_2}",
+          "key": "${link_3}",
           "target": {
-            "href": "Book_Two__Spirits",
+            "external": false,
+            "href": "/wiki/Book_Two__Spirits",
             "page": "Book_Two__Spirits"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience"
       ],
       "text": "The Legend of Korra: Enhanced Experience (ISBN 978-1-61263-394-7) is an interactive e-book based on the animated series The Legend of Korra that features exclusive production content from the first book as well as new material from the second book. The book also contains concept art, design works, and hidden content."
     },
     {
       "body": "The book was made available for free download on July 2, 2013. It consists of 85 pages, split into eight chapters of the aforementioned material, most of which had never been revealed to the public before. An iPad is required to view the content through the iBooks application, as the e-book was made specifically for digital reading.",
       "links": [],
+      "section": [
+        "The Legend of Korra: Enhanced Experience"
+      ],
       "text": "The book was made available for free download on July 2, 2013. It consists of 85 pages, split into eight chapters of the aforementioned material, most of which had never been revealed to the public before. An iPad is required to view the content through the iBooks application, as the e-book was made specifically for digital reading."
     },
     {
       "body": "The book contains eight chapters:",
       "links": [],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents"
+      ],
       "text": "The book contains eight chapters:"
+    },
+    {
+      "body": "Backstory (pages one and two)",
+      "links": [],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents"
+      ],
+      "text": "Backstory (pages one and two)"
+    },
+    {
+      "body": "Chapter guide (pages three through 39)",
+      "links": [],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents"
+      ],
+      "text": "Chapter guide (pages three through 39)"
+    },
+    {
+      "body": "Characters (pages 40 through 52)",
+      "links": [],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents"
+      ],
+      "text": "Characters (pages 40 through 52)"
+    },
+    {
+      "body": "Locations (pages 53 through 57)",
+      "links": [],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents"
+      ],
+      "text": "Locations (pages 53 through 57)"
+    },
+    {
+      "body": "Storyboards (pages 58 through 70)",
+      "links": [],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents"
+      ],
+      "text": "Storyboards (pages 58 through 70)"
+    },
+    {
+      "body": "Book Two first look (pages 71 through 79)",
+      "links": [],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents"
+      ],
+      "text": "Book Two first look (pages 71 through 79)"
+    },
+    {
+      "body": "Fan guide to Korra (pages 80 through 83)",
+      "links": [],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents"
+      ],
+      "text": "Fan guide to Korra (pages 80 through 83)"
+    },
+    {
+      "body": "Credits and acknowledgements (pages 84 and 85)",
+      "links": [],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents"
+      ],
+      "text": "Credits and acknowledgements (pages 84 and 85)"
     },
     {
       "body": "The book also includes a short clip of the ${link_0} from the second series.",
@@ -85,10 +168,15 @@
           "body": "opening sequence",
           "key": "${link_0}",
           "target": {
-            "href": "Opening_sequence#The_Legend_of_Korra",
+            "external": false,
+            "href": "/wiki/Opening_sequence#The_Legend_of_Korra",
             "page": "Opening_sequence"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents"
       ],
       "text": "The book also includes a short clip of the opening sequence from the second series."
     },
@@ -99,7 +187,8 @@
           "body": "Hundred Year War",
           "key": "${link_0}",
           "target": {
-            "href": "Hundred_Year_War",
+            "external": false,
+            "href": "/wiki/Hundred_Year_War",
             "page": "Hundred_Year_War"
           }
         },
@@ -107,7 +196,8 @@
           "body": "Avatar",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar",
+            "external": false,
+            "href": "/wiki/Avatar",
             "page": "Avatar"
           }
         },
@@ -115,7 +205,8 @@
           "body": "Aang",
           "key": "${link_2}",
           "target": {
-            "href": "Aang",
+            "external": false,
+            "href": "/wiki/Aang",
             "page": "Aang"
           }
         },
@@ -123,7 +214,8 @@
           "body": "Fire Lord",
           "key": "${link_3}",
           "target": {
-            "href": "Fire_Lord",
+            "external": false,
+            "href": "/wiki/Fire_Lord",
             "page": "Fire_Lord"
           }
         },
@@ -131,7 +223,8 @@
           "body": "Zuko",
           "key": "${link_4}",
           "target": {
-            "href": "Zuko",
+            "external": false,
+            "href": "/wiki/Zuko",
             "page": "Zuko"
           }
         },
@@ -139,7 +232,8 @@
           "body": "four nations",
           "key": "${link_5}",
           "target": {
-            "href": "Four_nations",
+            "external": false,
+            "href": "/wiki/Four_nations",
             "page": "Four_nations"
           }
         },
@@ -147,7 +241,8 @@
           "body": "United Republic of Nations",
           "key": "${link_6}",
           "target": {
-            "href": "United_Republic_of_Nations",
+            "external": false,
+            "href": "/wiki/United_Republic_of_Nations",
             "page": "United_Republic_of_Nations"
           }
         },
@@ -155,7 +250,8 @@
           "body": "Fire Nation colonies",
           "key": "${link_7}",
           "target": {
-            "href": "Fire_Nation_colonies",
+            "external": false,
+            "href": "/wiki/Fire_Nation_colonies",
             "page": "Fire_Nation_colonies"
           }
         },
@@ -163,10 +259,16 @@
           "body": "Republic City",
           "key": "${link_8}",
           "target": {
-            "href": "Republic_City",
+            "external": false,
+            "href": "/wiki/Republic_City",
             "page": "Republic_City"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents",
+        "Chapter One: Backstory"
       ],
       "text": "The backstory is a short excerpt that describes the changes that occurred in the Avatar World following the end of the Hundred Year War. Avatar Aang and Fire Lord Zuko worked together to restore peace and balance among the four nations by forming the United Republic of Nations, a fifth nation created from the Fire Nation colonies where benders and nonbenders from all walks of life could live together harmoniously. The capital, Republic City, is a site of exponential technological advancement."
     },
@@ -177,7 +279,8 @@
           "body": "Katara",
           "key": "${link_0}",
           "target": {
-            "href": "Katara",
+            "external": false,
+            "href": "/wiki/Katara",
             "page": "Katara"
           }
         },
@@ -185,7 +288,8 @@
           "body": "Kya",
           "key": "${link_1}",
           "target": {
-            "href": "Kya",
+            "external": false,
+            "href": "/wiki/Kya",
             "page": "Kya"
           }
         },
@@ -193,7 +297,8 @@
           "body": "Bumi",
           "key": "${link_2}",
           "target": {
-            "href": "Bumi",
+            "external": false,
+            "href": "/wiki/Bumi",
             "page": "Bumi"
           }
         },
@@ -201,7 +306,8 @@
           "body": "Tenzin",
           "key": "${link_3}",
           "target": {
-            "href": "Tenzin",
+            "external": false,
+            "href": "/wiki/Tenzin",
             "page": "Tenzin"
           }
         },
@@ -209,7 +315,8 @@
           "body": "airbending",
           "key": "${link_4}",
           "target": {
-            "href": "Airbending",
+            "external": false,
+            "href": "/wiki/Airbending",
             "page": "Airbending"
           }
         },
@@ -217,7 +324,8 @@
           "body": "Air Nomads",
           "key": "${link_5}",
           "target": {
-            "href": "Air_Nomads",
+            "external": false,
+            "href": "/wiki/Air_Nomads",
             "page": "Air_Nomads"
           }
         },
@@ -225,7 +333,8 @@
           "body": "Air Temple Island",
           "key": "${link_6}",
           "target": {
-            "href": "Air_Temple_Island",
+            "external": false,
+            "href": "/wiki/Air_Temple_Island",
             "page": "Air_Temple_Island"
           }
         },
@@ -233,10 +342,16 @@
           "body": "Air Acolytes",
           "key": "${link_7}",
           "target": {
-            "href": "Air_Acolytes",
+            "external": false,
+            "href": "/wiki/Air_Acolytes",
             "page": "Air_Acolytes"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents",
+        "Chapter One: Backstory"
       ],
       "text": "It is also revealed that Aang and Katara married and eventually had three children: Kya, Bumi, and Tenzin. Aang trained Tenzin in the art of airbending and passed down to him the teachings of the Air Nomads. The two restored the four air temples and established Air Temple Island in Republic City, where the nonbending Air Acolytes settled and lived according to Air Nomad culture."
     },
@@ -247,7 +362,8 @@
           "body": "Order of the White Lotus",
           "key": "${link_0}",
           "target": {
-            "href": "Order_of_the_White_Lotus",
+            "external": false,
+            "href": "/wiki/Order_of_the_White_Lotus",
             "page": "Order_of_the_White_Lotus"
           }
         },
@@ -255,7 +371,8 @@
           "body": "Southern Water Tribe",
           "key": "${link_1}",
           "target": {
-            "href": "Southern_Water_Tribe",
+            "external": false,
+            "href": "/wiki/Southern_Water_Tribe",
             "page": "Southern_Water_Tribe"
           }
         },
@@ -263,31 +380,28 @@
           "body": "Korra",
           "key": "${link_2}",
           "target": {
-            "href": "Korra",
+            "external": false,
+            "href": "/wiki/Korra",
             "page": "Korra"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents",
+        "Chapter One: Backstory"
       ],
       "text": "To safeguard his next incarnation, Aang enlisted the help of the Order of the White Lotus. He died at the age of 66, and was reincarnated into the Southern Water Tribe as Korra."
     },
     {
       "body": "The chapter guide features a brief synopsis for each episode of the first book, along with initial frame sketches and final screen captures for particular scenes. Each episode also provides a preliminary animatic, a sequence created from a series of still images edited together and displayed with initial dialogue and music. An external link to purchase each episode on iTunes is also located on the bottom left corner of each page.",
       "links": [],
-      "text": "The chapter guide features a brief synopsis for each episode of the first book, along with initial frame sketches and final screen captures for particular scenes. Each episode also provides a preliminary animatic, a sequence created from a series of still images edited together and displayed with initial dialogue and music. An external link to purchase each episode on iTunes is also located on the bottom left corner of each page."
-    },
-    {
-      "body": "This is the early concept art for ${link_0}.",
-      "links": [
-        {
-          "body": "Lin Beifong",
-          "key": "${link_0}",
-          "target": {
-            "href": "Lin_Beifong",
-            "page": "Lin_Beifong"
-          }
-        }
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents",
+        "Chapter Two: Chapter guide"
       ],
-      "text": "This is the early concept art for Lin Beifong."
+      "text": "The chapter guide features a brief synopsis for each episode of the first book, along with initial frame sketches and final screen captures for particular scenes. Each episode also provides a preliminary animatic, a sequence created from a series of still images edited together and displayed with initial dialogue and music. An external link to purchase each episode on iTunes is also located on the bottom left corner of each page."
     },
     {
       "body": "This chapter includes a brief bio for the main characters featured in the first book, including the members of ${link_0}, Tenzin, Katara, ${link_1}, and ${link_2}. Several pieces of concept art are also included for viewing. The end of the chapter features minor characters including ${link_3} ${link_4}, ${link_5} ${link_6}, ${link_7}, ${link_8}, and Tenzin's three children. An external link to purchase ${link_9} is also located in each page.",
@@ -296,7 +410,8 @@
           "body": "Team Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Team_Avatar_(Korra)",
+            "external": false,
+            "href": "/wiki/Team_Avatar_(Korra)",
             "page": "Team_Avatar_(Korra)"
           }
         },
@@ -304,7 +419,8 @@
           "body": "Lin Beifong",
           "key": "${link_1}",
           "target": {
-            "href": "Lin_Beifong",
+            "external": false,
+            "href": "/wiki/Lin_Beifong",
             "page": "Lin_Beifong"
           }
         },
@@ -312,7 +428,8 @@
           "body": "Amon",
           "key": "${link_2}",
           "target": {
-            "href": "Amon",
+            "external": false,
+            "href": "/wiki/Amon",
             "page": "Amon"
           }
         },
@@ -320,7 +437,8 @@
           "body": "Councilman",
           "key": "${link_3}",
           "target": {
-            "href": "United_Republic_Council",
+            "external": false,
+            "href": "/wiki/United_Republic_Council",
             "page": "United_Republic_Council"
           }
         },
@@ -328,7 +446,8 @@
           "body": "Tarrlok",
           "key": "${link_4}",
           "target": {
-            "href": "Tarrlok",
+            "external": false,
+            "href": "/wiki/Tarrlok",
             "page": "Tarrlok"
           }
         },
@@ -336,7 +455,8 @@
           "body": "General",
           "key": "${link_5}",
           "target": {
-            "href": "Military_ranks_in_the_World_of_Avatar#General_3",
+            "external": false,
+            "href": "/wiki/Military_ranks_in_the_World_of_Avatar#General_3",
             "page": "Military_ranks_in_the_World_of_Avatar"
           }
         },
@@ -344,7 +464,8 @@
           "body": "Iroh",
           "key": "${link_6}",
           "target": {
-            "href": "Iroh_(United_Forces_general)",
+            "external": false,
+            "href": "/wiki/Iroh_(United_Forces_general)",
             "page": "Iroh_(United_Forces_general)"
           }
         },
@@ -352,7 +473,8 @@
           "body": "Pema",
           "key": "${link_7}",
           "target": {
-            "href": "Pema",
+            "external": false,
+            "href": "/wiki/Pema",
             "page": "Pema"
           }
         },
@@ -360,7 +482,8 @@
           "body": "Hiroshi Sato",
           "key": "${link_8}",
           "target": {
-            "href": "Hiroshi_Sato",
+            "external": false,
+            "href": "/wiki/Hiroshi_Sato",
             "page": "Hiroshi_Sato"
           }
         },
@@ -368,10 +491,16 @@
           "body": "The Legend of Korra\u2014The Art of the Animated Series, Book One: Air",
           "key": "${link_9}",
           "target": {
-            "href": "The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_One__Air",
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_One__Air",
             "page": "The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_One__Air"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents",
+        "Chapter Three: Characters"
       ],
       "text": "This chapter includes a brief bio for the main characters featured in the first book, including the members of Team Avatar, Tenzin, Katara, Lin Beifong, and Amon. Several pieces of concept art are also included for viewing. The end of the chapter features minor characters including Councilman Tarrlok, General Iroh, Pema, Hiroshi Sato, and Tenzin's three children. An external link to purchase The Legend of Korra\u2014The Art of the Animated Series, Book One: Air is also located in each page."
     },
@@ -382,7 +511,8 @@
           "body": "Harmony Restoration Movement",
           "key": "${link_0}",
           "target": {
-            "href": "Harmony_Restoration_Movement",
+            "external": false,
+            "href": "/wiki/Harmony_Restoration_Movement",
             "page": "Harmony_Restoration_Movement"
           }
         },
@@ -390,7 +520,8 @@
           "body": "pro-bending",
           "key": "${link_1}",
           "target": {
-            "href": "Pro-bending",
+            "external": false,
+            "href": "/wiki/Pro-bending",
             "page": "Pro-bending"
           }
         },
@@ -398,31 +529,28 @@
           "body": "Aang Memorial Island",
           "key": "${link_2}",
           "target": {
-            "href": "Aang_Memorial_Island",
+            "external": false,
+            "href": "/wiki/Aang_Memorial_Island",
             "page": "Aang_Memorial_Island"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents",
+        "Chapter Four: Locations"
       ],
       "text": "This chapter focuses on the emergence of the United Republic of Nations following the Harmony Restoration Movement. It provides both conceptual and finalized panoramic shots of Republic City. A section also focuses on the origins of pro-bending in Republic City, and a complete copy of the rule book along with a complete list of competing pro-bending teams is accessible from the side. Concept art and final screen captures of other notable landmarks in Republic City are also provided, including Air Temple Island and Aang Memorial Island."
     },
     {
       "body": "This chapter is similar to the chapter guide in that it features panels from early development, along with a single scene storyboard sequence for each episode. The final cut of each scene is superimposed onto the bottom right corner of the storyboard sequence so that a comparison between development and post-production can be easily made.",
       "links": [],
-      "text": "This chapter is similar to the chapter guide in that it features panels from early development, along with a single scene storyboard sequence for each episode. The final cut of each scene is superimposed onto the bottom right corner of the storyboard sequence so that a comparison between development and post-production can be easily made."
-    },
-    {
-      "body": "This is concept art for young ${link_0}.",
-      "links": [
-        {
-          "body": "Unalaq",
-          "key": "${link_0}",
-          "target": {
-            "href": "Unalaq",
-            "page": "Unalaq"
-          }
-        }
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents",
+        "Chapter Five: Storyboards"
       ],
-      "text": "This is concept art for young Unalaq."
+      "text": "This chapter is similar to the chapter guide in that it features panels from early development, along with a single scene storyboard sequence for each episode. The final cut of each scene is superimposed onto the bottom right corner of the storyboard sequence so that a comparison between development and post-production can be easily made."
     },
     {
       "body": "This chapter features new exclusive content from the second book, including character bios, animatics, and the title card for the first episode, \"${link_0}\". An animatic on page 73 shows Bolin leading the new ${link_1} to defeat in a pro-bending match, Mako pursuing a pair of criminals as part of Republic City's police force, Asami attempting to reinvigorate ${link_2}, and Korra using the Avatar State to win an air scooter race against Tenzin's children.",
@@ -431,7 +559,8 @@
           "body": "Rebel Spirit",
           "key": "${link_0}",
           "target": {
-            "href": "Rebel_Spirit",
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
             "page": "Rebel_Spirit"
           }
         },
@@ -439,7 +568,8 @@
           "body": "Fire Ferrets",
           "key": "${link_1}",
           "target": {
-            "href": "Future_Industries_Fire_Ferrets",
+            "external": false,
+            "href": "/wiki/Future_Industries_Fire_Ferrets",
             "page": "Future_Industries_Fire_Ferrets"
           }
         },
@@ -447,10 +577,16 @@
           "body": "Future Industries",
           "key": "${link_2}",
           "target": {
-            "href": "Future_Industries",
+            "external": false,
+            "href": "/wiki/Future_Industries",
             "page": "Future_Industries"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents",
+        "Chapter Six: Book Two first look"
       ],
       "text": "This chapter features new exclusive content from the second book, including character bios, animatics, and the title card for the first episode, \"Rebel Spirit\". An animatic on page 73 shows Bolin leading the new Fire Ferrets to defeat in a pro-bending match, Mako pursuing a pair of criminals as part of Republic City's police force, Asami attempting to reinvigorate Future Industries, and Korra using the Avatar State to win an air scooter race against Tenzin's children."
     },
@@ -461,7 +597,8 @@
           "body": "Tonraq",
           "key": "${link_0}",
           "target": {
-            "href": "Tonraq",
+            "external": false,
+            "href": "/wiki/Tonraq",
             "page": "Tonraq"
           }
         },
@@ -469,7 +606,8 @@
           "body": "Desna and Eska",
           "key": "${link_1}",
           "target": {
-            "href": "Desna_and_Eska",
+            "external": false,
+            "href": "/wiki/Desna_and_Eska",
             "page": "Desna_and_Eska"
           }
         },
@@ -477,7 +615,8 @@
           "body": "Chief",
           "key": "${link_2}",
           "target": {
-            "href": "Tribal_chief",
+            "external": false,
+            "href": "/wiki/Tribal_chief",
             "page": "Tribal_chief"
           }
         },
@@ -485,7 +624,8 @@
           "body": "Unalaq",
           "key": "${link_3}",
           "target": {
-            "href": "Unalaq",
+            "external": false,
+            "href": "/wiki/Unalaq",
             "page": "Unalaq"
           }
         },
@@ -493,7 +633,8 @@
           "body": "Varrick",
           "key": "${link_4}",
           "target": {
-            "href": "Iknik_Blackstone_Varrick",
+            "external": false,
+            "href": "/wiki/Iknik_Blackstone_Varrick",
             "page": "Iknik_Blackstone_Varrick"
           }
         },
@@ -501,16 +642,27 @@
           "body": "dark spirit",
           "key": "${link_5}",
           "target": {
-            "href": "Dark_spirits",
+            "external": false,
+            "href": "/wiki/Dark_spirits",
             "page": "Dark_spirits"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents",
+        "Chapter Six: Book Two first look"
       ],
       "text": "A character section also reveals more information about Korra's father, Tonraq, and introduces new characters from the second book, including Korra's cousins Desna and Eska, Chief Unalaq, Varrick, and a dark spirit, a supernatural entity that serves as an antagonist in the second book."
     },
     {
       "body": "This chapter provides external links to various social media, including Korra Nation on tumblr and the official series page on Facebook. Links are also provided for The Legend of Korra iTunes page, where episodes of the first book and the art book are available for purchase.",
       "links": [],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents",
+        "Chapter Seven: Fan guide to Korra"
+      ],
       "text": "This chapter provides external links to various social media, including Korra Nation on tumblr and the official series page on Facebook. Links are also provided for The Legend of Korra iTunes page, where episodes of the first book and the art book are available for purchase."
     },
     {
@@ -520,7 +672,8 @@
           "body": "Bryan Konietzko",
           "key": "${link_0}",
           "target": {
-            "href": "Bryan_Konietzko",
+            "external": false,
+            "href": "/wiki/Bryan_Konietzko",
             "page": "Bryan_Konietzko"
           }
         },
@@ -528,7 +681,8 @@
           "body": "Michael Dante DiMartino",
           "key": "${link_1}",
           "target": {
-            "href": "Michael_Dante_DiMartino",
+            "external": false,
+            "href": "/wiki/Michael_Dante_DiMartino",
             "page": "Michael_Dante_DiMartino"
           }
         },
@@ -536,7 +690,8 @@
           "body": "Joaquim Dos Santos",
           "key": "${link_2}",
           "target": {
-            "href": "Joaquim_Dos_Santos",
+            "external": false,
+            "href": "/wiki/Joaquim_Dos_Santos",
             "page": "Joaquim_Dos_Santos"
           }
         },
@@ -544,12 +699,252 @@
           "body": "Ki Hyun Ryu",
           "key": "${link_3}",
           "target": {
-            "href": "Ki_Hyun_Ryu",
+            "external": false,
+            "href": "/wiki/Ki_Hyun_Ryu",
             "page": "Ki_Hyun_Ryu"
           }
         }
       ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Contents",
+        "Chapter Eight: Credits and acknowledgements"
+      ],
       "text": "This chapter recognizes the contributions of series founders Bryan Konietzko and Michael Dante DiMartino, along with illustrators Joaquim Dos Santos and Ki Hyun Ryu, who designed and provided a large majority of the production content featured in the book."
+    },
+    {
+      "body": "On page 51, clicking either ${link_0}'s, ${link_1}'s, or ${link_2}'s image will reveal a hidden video clip from \"${link_3}\" of the three children aiding Lin Beifong in battling ${link_4} at Air Temple Island.",
+      "links": [
+        {
+          "body": "Jinora",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jinora",
+            "page": "Jinora"
+          }
+        },
+        {
+          "body": "Ikki",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ikki",
+            "page": "Ikki"
+          }
+        },
+        {
+          "body": "Meelo",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Meelo",
+            "page": "Meelo"
+          }
+        },
+        {
+          "body": "Turning the Tides",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        },
+        {
+          "body": "Equalists",
+          "key": "${link_4}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Equalists",
+            "page": "Equalists"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Hidden content"
+      ],
+      "text": "On page 51, clicking either Jinora's, Ikki's, or Meelo's image will reveal a hidden video clip from \"Turning the Tides\" of the three children aiding Lin Beifong in battling Equalists at Air Temple Island."
+    },
+    {
+      "body": "On page 59, clicking Meelo's image will reveal a hidden video clip from \"Turning The Tides\" of Lin holding Meelo prior to Tenzin's departure for ${link_0}.",
+      "links": [
+        {
+          "body": "City Hall",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/City_Hall",
+            "page": "City_Hall"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Hidden content"
+      ],
+      "text": "On page 59, clicking Meelo's image will reveal a hidden video clip from \"Turning The Tides\" of Lin holding Meelo prior to Tenzin's departure for City Hall."
+    },
+    {
+      "body": "On page 63, clicking Bolin's image will reveal a hidden video clip from \"${link_0}\" of Bolin battling the ${link_1} during the quarterfinals of the ${link_2}.",
+      "links": [
+        {
+          "body": "The Spirit of Competition",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Spirit_of_Competition",
+            "page": "The_Spirit_of_Competition"
+          }
+        },
+        {
+          "body": "Black Quarry Boar-q-pines",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Black_Quarry_Boar-q-pines",
+            "page": "Black_Quarry_Boar-q-pines"
+          }
+        },
+        {
+          "body": "Pro-bending Tournament",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Pro-bending#Pro-bending_Tournament",
+            "page": "Pro-bending"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Hidden content"
+      ],
+      "text": "On page 63, clicking Bolin's image will reveal a hidden video clip from \"The Spirit of Competition\" of Bolin battling the Black Quarry Boar-q-pines during the quarterfinals of the Pro-bending Tournament."
+    },
+    {
+      "body": "On page 79, clicking the dark spirit will reveal a hidden animatic from \"Rebel Spirit\" of Korra's first encounter with a dark spirit.",
+      "links": [],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "Hidden content"
+      ],
+      "text": "On page 79, clicking the dark spirit will reveal a hidden animatic from \"Rebel Spirit\" of Korra's first encounter with a dark spirit."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender\u2014The Art of the Animated Series",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender%e2%80%94The_Art_of_the_Animated_Series",
+            "page": "Avatar__The_Last_Airbender%e2%80%94The_Art_of_the_Animated_Series"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "See also"
+      ],
+      "text": "Avatar: The Last Airbender\u2014The Art of the Animated Series"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "List of Avatar books",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar_books",
+            "page": "List_of_Avatar_books"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "See also"
+      ],
+      "text": "List of Avatar books"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Legend of Korra\u2014The Art of the Animated Series, Book One: Air",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_One__Air",
+            "page": "The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_One__Air"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "See also"
+      ],
+      "text": "The Legend of Korra\u2014The Art of the Animated Series, Book One: Air"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Legend of Korra\u2014The Art of the Animated Series, Book Two: Spirits",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_Two__Spirits",
+            "page": "The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_Two__Spirits"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "See also"
+      ],
+      "text": "The Legend of Korra\u2014The Art of the Animated Series, Book Two: Spirits"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Legend of Korra\u2014The Art of the Animated Series, Book Three: Change",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_Three__Change",
+            "page": "The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_Three__Change"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "See also"
+      ],
+      "text": "The Legend of Korra\u2014The Art of the Animated Series, Book Three: Change"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Legend of Korra\u2014The Art of the Animated Series, Book Four: Balance",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_Four__Balance",
+            "page": "The_Legend_of_Korra%e2%80%94The_Art_of_the_Animated_Series%2c_Book_Four__Balance"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra: Enhanced Experience",
+        "See also"
+      ],
+      "text": "The Legend of Korra\u2014The Art of the Animated Series, Book Four: Balance"
     }
   ],
   "source": {

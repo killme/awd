@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -34,12 +38,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Everything Put Together (2000)",
+          "body": "${link_0} (2000)",
           "extra": "(2000)",
           "extra_text": "(2000)",
-          "links": [],
+          "links": [
+            {
+              "body": "Everything Put Together",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0228277",
+                "page": "http://www.imdb.com/find?q=tt0228277"
+              }
+            }
+          ],
           "text": "Everything Put Together (2000)",
-          "value": "Everything Put Together",
+          "value": "${link_0}",
           "value_text": "Everything Put Together"
         }
       ]
@@ -48,18 +62,477 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2352830",
+                "page": "http://www.imdb.com/find?q=nm2352830"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Puppetmaster",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Puppetmaster",
+            "page": "The_Puppetmaster"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "308. \"The Puppetmaster\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Nightmares and Daydreams",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Nightmares_and_Daydreams",
+            "page": "Nightmares_and_Daydreams"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "309. \"Nightmares and Daydreams\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Western Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Western_Air_Temple",
+            "page": "The_Western_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "312. \"The Western Air Temple\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Firebending Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Firebending_Masters",
+            "page": "The_Firebending_Masters"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "313. \"The Firebending Masters\""
+    },
+    {
+      "body": "314. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_1",
+            "page": "The_Boiling_Rock%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "314. \"The Boiling Rock, Part 1\""
+    },
+    {
+      "body": "316. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Raiders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Raiders",
+            "page": "The_Southern_Raiders"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "316. \"The Southern Raiders\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "318. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 1: The Phoenix King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_1__The_Phoenix_King",
+            "page": "Sozin%27s_Comet%2c_Part_1__The_Phoenix_King"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "318. \"Sozin's Comet, Part 1: The Phoenix King\""
+    },
+    {
+      "body": "319. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 2: The Old Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_2__The_Old_Masters",
+            "page": "Sozin%27s_Comet%2c_Part_2__The_Old_Masters"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "319. \"Sozin's Comet, Part 2: The Old Masters\""
+    },
+    {
+      "body": "320. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 3: Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_3__Into_the_Inferno",
+            "page": "Sozin%27s_Comet%2c_Part_3__Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "320. \"Sozin's Comet, Part 3: Into the Inferno\""
+    },
+    {
+      "body": "321. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 4: Avatar Aang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
+            "page": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "321. \"Sozin's Comet, Part 4: Avatar Aang\""
+    },
+    {
+      "body": "314. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_1",
+            "page": "The_Boiling_Rock%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "314. \"The Boiling Rock, Part 1\""
+    },
+    {
+      "body": "Iss. #13. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Going Home Again",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Going_Home_Again",
+            "page": "Going_Home_Again"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #13. \"Going Home Again\""
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Voltron: Legendary Defender",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt5580664",
+            "page": "http://www.imdb.com/find?q=tt5580664"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Voltron: Legendary Defender (writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Bucket and Skinner's Epic Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1888795",
+            "page": "http://www.imdb.com/find?q=tt1888795"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bucket and Skinner's Epic Adventures (writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Phineas and Ferb",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0852863",
+            "page": "http://www.imdb.com/find?q=tt0852863"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Phineas and Ferb (writer)"
+    },
+    {
+      "body": "${link_0} (staff writer)",
+      "links": [
+        {
+          "body": "Hank",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1441142",
+            "page": "http://www.imdb.com/find?q=tt1441142"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hank (staff writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Ni Hao, Kai-Lan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0934701",
+            "page": "http://www.imdb.com/find?q=tt0934701"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ni Hao, Kai-Lan (writer)"
+    },
+    {
+      "body": "${link_0} (2003 - production assistant)",
+      "links": [
+        {
+          "body": "Paris",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0313459",
+            "page": "http://www.imdb.com/find?q=tt0313459"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Paris (2003 - production assistant)"
+    },
+    {
+      "body": "${link_0} (2000 - production assistant)",
+      "links": [
+        {
+          "body": "Everything Put Together",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0228277",
+            "page": "http://www.imdb.com/find?q=tt0228277"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Everything Put Together (2000 - production assistant)"
+    },
+    {
+      "body": "The characters ${link_0} and ${link_1} were named after May Chan.",
+      "links": [
+        {
+          "body": "Chan",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Chan",
+            "page": "Chan"
+          }
+        },
+        {
+          "body": "Admiral Chan",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Chan_(Fire_Nation_admiral)",
+            "page": "Chan_(Fire_Nation_admiral)"
+          }
+        }
+      ],
+      "section": [
+        "May Chan",
+        "Trivia"
+      ],
+      "text": "The characters Chan and Admiral Chan were named after May Chan."
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/May_Chan",
     "file": "avatar.wikia.com/wiki/May_Chan.html",

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Legend of Korra (2012)",
+          "body": "${link_0} (2012)",
           "extra": "(2012)",
           "extra_text": "(2012)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Legend of Korra",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1695360",
+                "page": "http://www.imdb.com/find?q=tt1695360"
+              }
+            }
+          ],
           "text": "The Legend of Korra (2012)",
-          "value": "The Legend of Korra",
+          "value": "${link_0}",
           "value_text": "The Legend of Korra"
         }
       ]
@@ -41,24 +54,28 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm4960791",
+                "page": "http://www.imdb.com/find?q=nm4960791"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [
-    {
-      "body": "This page lacks visual representations and needs one or more relevant images.",
-      "links": [],
-      "text": "This page lacks visual representations and needs one or more relevant images."
-    }
-  ],
+  "paragraphs": [],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Logan_Wells",
     "file": "avatar.wikia.com/wiki/Logan_Wells.html",

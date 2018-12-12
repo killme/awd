@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Gen\u00b9\u00b3 (2000; video - character designer)",
+          "body": "${link_0} (2000; video - character designer)",
           "extra": "(2000; video - character designer)",
           "extra_text": "(2000; video - character designer)",
-          "links": [],
+          "links": [
+            {
+              "body": "Gen\u00b9\u00b3",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0119185",
+                "page": "http://www.imdb.com/find?q=tt0119185"
+              }
+            }
+          ],
           "text": "Gen\u00b9\u00b3 (2000; video - character designer)",
-          "value": "Gen\u00b9\u00b3",
+          "value": "${link_0}",
           "value_text": "Gen\u00b9\u00b3"
         }
       ]
@@ -41,12 +54,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1438629",
+                "page": "http://www.imdb.com/find?q=nm1438629"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -54,9 +77,144 @@
   ],
   "paragraphs": [
     {
-      "body": "This page lacks visual representations and needs one or more relevant images.",
-      "links": [],
-      "text": "This page lacks visual representations and needs one or more relevant images."
+      "body": "Iss. #20. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Combustion Man on a Train",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Combustion_Man_on_a_Train",
+            "page": "Combustion_Man_on_a_Train"
+          }
+        }
+      ],
+      "section": [
+        "Tom McWeeney",
+        "Avatar: The Last Airbender works",
+        "Comic artist"
+      ],
+      "text": "Iss. #20. \"Combustion Man on a Train\""
+    },
+    {
+      "body": "Iss. #24. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Dragon Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dragon_Days",
+            "page": "Dragon_Days"
+          }
+        }
+      ],
+      "section": [
+        "Tom McWeeney",
+        "Avatar: The Last Airbender works",
+        "Comic artist"
+      ],
+      "text": "Iss. #24. \"Dragon Days\""
+    },
+    {
+      "body": "${link_0} (inker and penciller)",
+      "links": [
+        {
+          "body": "Tom Strong Book 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.dccomics.com/graphic-novels/tom-strong-book-2",
+            "page": "http://www.dccomics.com/graphic-novels/tom-strong-book-2"
+          }
+        }
+      ],
+      "section": [
+        "Tom McWeeney",
+        "Selected other credits",
+        "Comics"
+      ],
+      "text": "Tom Strong Book 2 (inker and penciller)"
+    },
+    {
+      "body": "${link_0} (inker)",
+      "links": [
+        {
+          "body": "WILDCATS: Street Smart",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.dccomics.com/graphic-novels/wildcats-street-smart",
+            "page": "http://www.dccomics.com/graphic-novels/wildcats-street-smart"
+          }
+        }
+      ],
+      "section": [
+        "Tom McWeeney",
+        "Selected other credits",
+        "Comics"
+      ],
+      "text": "WILDCATS: Street Smart (inker)"
+    },
+    {
+      "body": "${link_0} (finisher)",
+      "links": [
+        {
+          "body": "Divine Right Vol. 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.dccomics.com/graphic-novels/divine-right-vol-2",
+            "page": "http://www.dccomics.com/graphic-novels/divine-right-vol-2"
+          }
+        }
+      ],
+      "section": [
+        "Tom McWeeney",
+        "Selected other credits",
+        "Comics"
+      ],
+      "text": "Divine Right Vol. 2 (finisher)"
+    },
+    {
+      "body": "${link_0} (2006; documentary - art contributor)",
+      "links": [
+        {
+          "body": "Adventures Into Digital Comics",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0377332",
+            "page": "http://www.imdb.com/find?q=tt0377332"
+          }
+        }
+      ],
+      "section": [
+        "Tom McWeeney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Adventures Into Digital Comics (2006; documentary - art contributor)"
+    },
+    {
+      "body": "${link_0} (2000; video - character designer)",
+      "links": [
+        {
+          "body": "Gen\u00b9\u00b3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119185",
+            "page": "http://www.imdb.com/find?q=tt0119185"
+          }
+        }
+      ],
+      "section": [
+        "Tom McWeeney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Gen\u00b9\u00b3 (2000; video - character designer)"
     }
   ],
   "source": {

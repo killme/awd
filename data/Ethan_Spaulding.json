@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Simpsons (1995)",
+          "body": "${link_0} (1995)",
           "extra": "(1995)",
           "extra_text": "(1995)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Simpsons",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0096697",
+                "page": "http://www.imdb.com/find?q=tt0096697"
+              }
+            }
+          ],
           "text": "The Simpsons (1995)",
-          "value": "The Simpsons",
+          "value": "${link_0}",
           "value_text": "The Simpsons"
         }
       ]
@@ -41,21 +54,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2320725",
+                "page": "http://www.imdb.com/find?q=nm2320725"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Ethan_Spaulding",
+                "page": "http://en.wikipedia.org/wiki/Ethan_Spaulding"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -63,8 +96,433 @@
   ],
   "paragraphs": [
     {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "209. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bitter Work",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bitter_Work",
+            "page": "Bitter_Work"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "209. \"Bitter Work\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Serpent's Pass",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Serpent%27s_Pass",
+            "page": "The_Serpent%27s_Pass"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "212. \"The Serpent's Pass\""
+    },
+    {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "218. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_King",
+            "page": "The_Earth_King"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "218. \"The Earth King\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Painted Lady",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Painted_Lady",
+            "page": "The_Painted_Lady"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "303. \"The Painted Lady\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar and the Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_and_the_Fire_Lord",
+            "page": "The_Avatar_and_the_Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "306. \"The Avatar and the Fire Lord\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Nightmares and Daydreams",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Nightmares_and_Daydreams",
+            "page": "Nightmares_and_Daydreams"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "309. \"Nightmares and Daydreams\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Western Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Western_Air_Temple",
+            "page": "The_Western_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "312. \"The Western Air Temple\""
+    },
+    {
+      "body": "315. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "315. \"The Boiling Rock, Part 2\""
+    },
+    {
+      "body": "318. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 1: The Phoenix King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_1__The_Phoenix_King",
+            "page": "Sozin%27s_Comet%2c_Part_1__The_Phoenix_King"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "318. \"Sozin's Comet, Part 1: The Phoenix King\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Light in the Dark",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Light_in_the_Dark",
+            "page": "Light_in_the_Dark"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "214. \"Light in the Dark\""
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Brave and the Bold (storyboard artist)"
+    },
+    {
+      "body": "${link_0} (character layout artist and storyboard revisionist)",
+      "links": [
+        {
+          "body": "The Simpsons",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096697",
+            "page": "http://www.imdb.com/find?q=tt0096697"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Simpsons (character layout artist and storyboard revisionist)"
+    },
+    {
+      "body": "${link_0} (producer and executive producer)",
+      "links": [
+        {
+          "body": "Thundercats",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1666278",
+            "page": "http://www.imdb.com/find?q=tt1666278"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Thundercats (producer and executive producer)"
+    },
+    {
+      "body": "${link_0} (2011; video - director)",
+      "links": [
+        {
+          "body": "Scooby-Doo! Legend of the Phantosaur",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1777608",
+            "page": "http://www.imdb.com/find?q=tt1777608"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Scooby-Doo! Legend of the Phantosaur (2011; video - director)"
+    },
+    {
+      "body": "${link_0} (2010; video - director)",
+      "links": [
+        {
+          "body": "Scooby-Doo! Camp Scare",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1731767",
+            "page": "http://www.imdb.com/find?q=tt1731767"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Scooby-Doo! Camp Scare (2010; video - director)"
+    },
+    {
+      "body": "${link_0} (2009 - storyboard artist)",
+      "links": [
+        {
+          "body": "Wonder Woman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1186373",
+            "page": "http://www.imdb.com/find?q=tt1186373"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Wonder Woman (2009 - storyboard artist)"
+    },
+    {
+      "body": "${link_0} (2009; video - storyboard artist)",
+      "links": [
+        {
+          "body": "Green Lantern: First Flight",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1384590",
+            "page": "http://www.imdb.com/find?q=tt1384590"
+          }
+        }
+      ],
+      "section": [
+        "Ethan Spaulding",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Green Lantern: First Flight (2009; video - storyboard artist)"
+    },
+    {
       "body": "Spaulding began his career as a layout artist on nineteen episodes of The Simpsons and later served as a producer on the 2011 TV series Thundercats.",
       "links": [],
+      "section": [
+        "Ethan Spaulding",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Spaulding began his career as a layout artist on nineteen episodes of The Simpsons and later served as a producer on the 2011 TV series Thundercats."
     }
   ],

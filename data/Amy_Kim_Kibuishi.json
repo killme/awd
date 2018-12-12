@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -55,39 +58,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Amy_Kim_Ganter",
+                "page": "http://en.wikipedia.org/wiki/Amy_Kim_Ganter"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official blog",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official blog",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://felaxx.blogspot.com/",
+                "page": "http://felaxx.blogspot.com/"
+              }
+            }
+          ],
           "text": "Official blog",
-          "value": "Official blog",
+          "value": "${link_0}",
           "value_text": "Official blog"
         },
         {
-          "body": "Official website (inactive)",
+          "body": "${link_0} (inactive)",
           "extra": "(inactive)",
           "extra_text": "(inactive)",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://felaxx.com/",
+                "page": "http://felaxx.com/"
+              }
+            }
+          ],
           "text": "Official website (inactive)",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://felaxx.tumblr.com/",
+                "page": "http://felaxx.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         }
       ]
@@ -95,14 +138,103 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #13. \"${link_0}\" (credited as \"Amy Kim Ganter\")",
+      "links": [
+        {
+          "body": "Going Home Again",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Going_Home_Again",
+            "page": "Going_Home_Again"
+          }
+        }
+      ],
+      "section": [
+        "Amy Kim Kibuishi",
+        "Avatar: The Last Airbender credit",
+        "Comic artist"
+      ],
+      "text": "Iss. #13. \"Going Home Again\" (credited as \"Amy Kim Ganter\")"
+    },
+    {
+      "body": "Deep Trouble (graphic novel - adapter)",
+      "links": [],
+      "section": [
+        "Amy Kim Kibuishi",
+        "Selected other credits",
+        "Comic works"
+      ],
+      "text": "Deep Trouble (graphic novel - adapter)"
+    },
+    {
+      "body": "Flight",
+      "links": [],
+      "section": [
+        "Amy Kim Kibuishi",
+        "Selected other credits",
+        "Comic works"
+      ],
+      "text": "Flight"
+    },
+    {
+      "body": "${link_0} (author)",
+      "links": [
+        {
+          "body": "Sorcerers and Secretaries",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Sorcerers_and_Secretaries",
+            "page": "http://en.wikipedia.org/wiki/Sorcerers_and_Secretaries"
+          }
+        }
+      ],
+      "section": [
+        "Amy Kim Kibuishi",
+        "Selected other credits",
+        "Comic works"
+      ],
+      "text": "Sorcerers and Secretaries (author)"
+    },
+    {
       "body": "Kibuishi, at the time known as Amy Kim Ganter, graduated from the School of Visual Arts in 2002 with a Cartooning BFA. She has since won numerous awards, one of which opened her career to the opportunity of further development for her graphic novel series.",
       "links": [],
+      "section": [
+        "Amy Kim Kibuishi",
+        "Biographical information",
+        "Early life and career"
+      ],
       "text": "Kibuishi, at the time known as Amy Kim Ganter, graduated from the School of Visual Arts in 2002 with a Cartooning BFA. She has since won numerous awards, one of which opened her career to the opportunity of further development for her graphic novel series."
     },
     {
       "body": "Kibuishi married Kazu Kibuishi, editor of the Flight series of anthologies, in April 2007 and lives in the Los Angeles, California area.",
       "links": [],
+      "section": [
+        "Amy Kim Kibuishi",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Kibuishi married Kazu Kibuishi, editor of the Flight series of anthologies, in April 2007 and lives in the Los Angeles, California area."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Interview by Silver Bullet Comics at the Wayback Machine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://web.archive.org/web/20080612190939/http://www.silverbulletcomics.com/news/story.php?a=707",
+            "page": "http://web.archive.org/web/20080612190939/http://www.silverbulletcomics.com/news/story.php?a=707"
+          }
+        }
+      ],
+      "section": [
+        "Amy Kim Kibuishi",
+        "External links"
+      ],
+      "text": "Interview by Silver Bullet Comics at the Wayback Machine"
     }
   ],
   "source": {

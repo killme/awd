@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Port Charles (1997)",
+          "body": "${link_0} (1997)",
           "extra": "(1997)",
           "extra_text": "(1997)",
-          "links": [],
+          "links": [
+            {
+              "body": "Port Charles",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0118435",
+                "page": "http://www.imdb.com/find?q=tt0118435"
+              }
+            }
+          ],
           "text": "Port Charles (1997)",
-          "value": "Port Charles",
+          "value": "${link_0}",
           "value_text": "Port Charles"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0636046",
+                "page": "http://www.imdb.com/find?q=nm0636046"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Nolan_North",
+                "page": "http://en.wikipedia.org/wiki/Nolan_North"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Nolan-North/161746167250621",
+                "page": "https://www.facebook.com/pages/Nolan-North/161746167250621"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/105770444343947652975/posts",
+                "page": "https://plus.google.com/105770444343947652975/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/nolan_north",
+                "page": "https://twitter.com/nolan_north"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,24 +181,629 @@
   ],
   "paragraphs": [
     {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_1",
+            "page": "Civil_Wars%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "The Legend of Korra credits",
+        "Rebel leader"
+      ],
+      "text": "203. \"Civil Wars, Part 1\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_2",
+            "page": "Civil_Wars%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "The Legend of Korra credits",
+        "Rebel leader"
+      ],
+      "text": "204. \"Civil Wars, Part 2\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_1",
+            "page": "Civil_Wars%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "203. \"Civil Wars, Part 1\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dragons: Riders of Berk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2325846",
+            "page": "http://www.imdb.com/find?q=tt2325846"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dragons: Riders of Berk"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mad",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1718438",
+            "page": "http://www.imdb.com/find?q=tt1718438"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mad"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Modern Family",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1442437",
+            "page": "http://www.imdb.com/find?q=tt1442437"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Modern Family"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Avengers: Earth's Mightiest Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1626038",
+            "page": "http://www.imdb.com/find?q=tt1626038"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Avengers: Earth's Mightiest Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Grim Adventures of Billy & Mandy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292800",
+            "page": "http://www.imdb.com/find?q=tt0292800"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Grim Adventures of Billy & Mandy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Young Justice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1641384",
+            "page": "http://www.imdb.com/find?q=tt1641384"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Young Justice"
+    },
+    {
+      "body": "${link_0} (2012; video)",
+      "links": [
+        {
+          "body": "Superman vs. The Elite",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2224455",
+            "page": "http://www.imdb.com/find?q=tt2224455"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Superman vs. The Elite (2012; video)"
+    },
+    {
+      "body": "${link_0} (2008; video)",
+      "links": [
+        {
+          "body": "Unstable Fables: Tortoise vs. Hare",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1086798",
+            "page": "http://www.imdb.com/find?q=tt1086798"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Unstable Fables: Tortoise vs. Hare (2008; video)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Last Stand",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0486611",
+            "page": "http://www.imdb.com/find?q=tt0486611"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Last Stand (2006)"
+    },
+    {
+      "body": "${link_0} (2000; short)",
+      "links": [
+        {
+          "body": "Broken",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0225223",
+            "page": "http://www.imdb.com/find?q=tt0225223"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Broken (2000; short)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Assassin's Creed",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0932936",
+            "page": "http://www.imdb.com/find?q=tt0932936"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Assassin's Creed (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Assassin's Creed II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1201133",
+            "page": "http://www.imdb.com/find?q=tt1201133"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Assassin's Creed II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Assassin's Creed III",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2175563",
+            "page": "http://www.imdb.com/find?q=tt2175563"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Assassin's Creed III (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Assassin's Creed: Brotherhood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1699759",
+            "page": "http://www.imdb.com/find?q=tt1699759"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Assassin's Creed: Brotherhood (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Assassin's Creed: Relevlations",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1928116",
+            "page": "http://www.imdb.com/find?q=tt1928116"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Assassin's Creed: Relevlations (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Call of Duty: Black Ops II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2387409",
+            "page": "http://www.imdb.com/find?q=tt2387409"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Call of Duty: Black Ops II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Deadpool",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2269724",
+            "page": "http://www.imdb.com/find?q=tt2269724"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Deadpool (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2967308",
+            "page": "http://www.imdb.com/find?q=tt2967308"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel Heroes (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Portal 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1648163",
+            "page": "http://www.imdb.com/find?q=tt1648163"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Portal 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Team Fortress 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1210335",
+            "page": "http://www.imdb.com/find?q=tt1210335"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Team Fortress 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Uncharted 2: Among Thieves",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1349460",
+            "page": "http://www.imdb.com/find?q=tt1349460"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Uncharted 2: Among Thieves (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Uncharted 3: Drake's Deception",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1800763",
+            "page": "http://www.imdb.com/find?q=tt1800763"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Uncharted 3: Drake's Deception (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Uncharted: Drake's Fortune",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1000777",
+            "page": "http://www.imdb.com/find?q=tt1000777"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Uncharted: Drake's Fortune (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Uncharted: Eye of Indra",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1846811",
+            "page": "http://www.imdb.com/find?q=tt1846811"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Uncharted: Eye of Indra (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Uncharted: Golden Abyss",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1998407",
+            "page": "http://www.imdb.com/find?q=tt1998407"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Uncharted: Golden Abyss (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Young Justice: Legacy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2420842",
+            "page": "http://www.imdb.com/find?q=tt2420842"
+          }
+        }
+      ],
+      "section": [
+        "Nolan North",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Young Justice: Legacy (video game)"
+    },
+    {
       "body": "North was born in New Haven, Connecticut, and majored in journalism at the University of North Carolina with a baseball scholarship. He worked as a reporter for almost a year in New Jersey before moving to New York City to pursue stand-up comedy and acting. He eventually relocated to Hollywood and was cast in the General Hospital spin-off series, Port Charles, playing Dr. Chris Ramsey during the show's run from 1997 to 2003. It was through working on the spinoff that he met his wife, actress Jill Murray; together they have two children. During the run of Port Charles, he worked on a few video games as a voice actor and began to focus on voice acting following the show's cancellation.",
       "links": [],
+      "section": [
+        "Nolan North",
+        "Biographical information"
+      ],
       "text": "North was born in New Haven, Connecticut, and majored in journalism at the University of North Carolina with a baseball scholarship. He worked as a reporter for almost a year in New Jersey before moving to New York City to pursue stand-up comedy and acting. He eventually relocated to Hollywood and was cast in the General Hospital spin-off series, Port Charles, playing Dr. Chris Ramsey during the show's run from 1997 to 2003. It was through working on the spinoff that he met his wife, actress Jill Murray; together they have two children. During the run of Port Charles, he worked on a few video games as a voice actor and began to focus on voice acting following the show's cancellation."
     },
     {
       "body": "One of his most notable roles came in 2007 when he voiced and provided motion capture for the character Nathan Drake in the video game Uncharted: Drake's Fortune, and he subsequently portrayed the character in the sequels, Uncharted 2: Among Thieves, released in 2009, and Uncharted 3: Drake's Deception, released in 2011. For his work in this role, North has been nominated twice for a Spike Video Game Award.",
       "links": [],
+      "section": [
+        "Nolan North",
+        "Biographical information"
+      ],
       "text": "One of his most notable roles came in 2007 when he voiced and provided motion capture for the character Nathan Drake in the video game Uncharted: Drake's Fortune, and he subsequently portrayed the character in the sequels, Uncharted 2: Among Thieves, released in 2009, and Uncharted 3: Drake's Deception, released in 2011. For his work in this role, North has been nominated twice for a Spike Video Game Award."
     },
     {
       "body": "North had a role in Star Trek Into Darkness, the sequel to the acclaimed live-action movie Star Trek. Director J. J. Abrams cited North's performance as Drake for the casting, he and his son being fans of the Uncharted series.",
       "links": [],
+      "section": [
+        "Nolan North",
+        "Biographical information"
+      ],
       "text": "North had a role in Star Trek Into Darkness, the sequel to the acclaimed live-action movie Star Trek. Director J. J. Abrams cited North's performance as Drake for the casting, he and his son being fans of the Uncharted series."
     },
     {
       "body": "North is well known in his animation roles, such as Cyclops in Wolverine and the X-Men, Snow Job in G.I. Joe: Renegades, Raphael in TMNT, both Superman and Superboy in Young Justice, and Smokescreen in\u00a0Transformers: Prime.",
       "links": [],
+      "section": [
+        "Nolan North",
+        "Biographical information"
+      ],
       "text": "North is well known in his animation roles, such as Cyclops in Wolverine and the X-Men, Snow Job in G.I. Joe: Renegades, Raphael in TMNT, both Superman and Superboy in Young Justice, and Smokescreen in\u00a0Transformers: Prime."
+    },
+    {
+      "body": "North has been described as \"the nearest thing the games industry has to a bona fide leading man\".",
+      "links": [],
+      "section": [
+        "Nolan North",
+        "Trivia"
+      ],
+      "text": "North has been described as \"the nearest thing the games industry has to a bona fide leading man\"."
     }
   ],
   "source": {

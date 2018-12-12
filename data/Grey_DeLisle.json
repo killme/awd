@@ -3,28 +3,32 @@
     {
       "body": "Protected",
       "target": {
-        "href": "Category_Protected",
+        "external": false,
+        "href": "/wiki/Category_Protected",
         "page": "Category_Protected"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -62,12 +66,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Rugrats (1991)",
+          "body": "${link_0} (1991)",
           "extra": "(1991)",
           "extra_text": "(1991)",
-          "links": [],
+          "links": [
+            {
+              "body": "Rugrats",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0101188",
+                "page": "http://www.imdb.com/find?q=tt0101188"
+              }
+            }
+          ],
           "text": "Rugrats (1991)",
-          "value": "Rugrats",
+          "value": "${link_0}",
           "value_text": "Rugrats"
         }
       ]
@@ -76,66 +90,136 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0217221",
+                "page": "http://www.imdb.com/find?q=nm0217221"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Grey_DeLisle",
+                "page": "http://en.wikipedia.org/wiki/Grey_DeLisle"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/GreyDelisleGriffin",
+                "page": "https://www.facebook.com/GreyDelisleGriffin"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/108987882393336685222/posts",
+                "page": "https://plus.google.com/108987882393336685222/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/greydelisle#",
+                "page": "http://instagram.com/greydelisle"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://greydelisle.tumblr.com/",
+                "page": "http://greydelisle.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/GreyDeLisle",
+                "page": "https://twitter.com/GreyDeLisle"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -143,24 +227,730 @@
   ],
   "paragraphs": [
     {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Avatar: The Last Airbender credits",
+        "Michi"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar and the Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_and_the_Fire_Lord",
+            "page": "The_Avatar_and_the_Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Avatar: The Last Airbender credits",
+        "Ta Min"
+      ],
+      "text": "306. \"The Avatar and the Fire Lord\""
+    },
+    {
+      "body": "316. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Raiders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Raiders",
+            "page": "The_Southern_Raiders"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Avatar: The Last Airbender credits",
+        "Kya"
+      ],
+      "text": "316. \"The Southern Raiders\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Avatar: The Last Airbender credits",
+        "Actress Katara"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "320. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 3: Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_3__Into_the_Inferno",
+            "page": "Sozin%27s_Comet%2c_Part_3__Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Avatar: The Last Airbender credits",
+        "Banished servant"
+      ],
+      "text": "320. \"Sozin's Comet, Part 3: Into the Inferno\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Zuko Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "207. \"Zuko Alone\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Chase",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Chase",
+            "page": "The_Chase"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "208. \"The Chase\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
+      "body": "213. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Darkness Falls",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Darkness_Falls",
+            "page": "Darkness_Falls"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Dark spider spirit"
+      ],
+      "text": "213. \"Darkness Falls\""
+    },
+    {
+      "body": "213. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Darkness Falls",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Darkness_Falls",
+            "page": "Darkness_Falls"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Spirit mushroom"
+      ],
+      "text": "213. \"Darkness Falls\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Kuon's wife"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Ming-Hua"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Ming-Hua"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Ming-Hua"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Terror Within",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Terror_Within",
+            "page": "The_Terror_Within"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Ming-Hua"
+      ],
+      "text": "308. \"The Terror Within\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Ming-Hua"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Ming-Hua"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ultimatum",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ultimatum",
+            "page": "The_Ultimatum"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Ming-Hua"
+      ],
+      "text": "311. \"The Ultimatum\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enter the Void",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enter_the_Void",
+            "page": "Enter_the_Void"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Ming-Hua"
+      ],
+      "text": "312. \"Enter the Void\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Ming-Hua"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Young Lin Beifong"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "The Legend of Korra credits",
+        "Intense woman"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "${link_0} (2015; English dub)",
+      "links": [
+        {
+          "body": "When Marnie Was There",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3398268",
+            "page": "http://www.imdb.com/find?q=tt3398268"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "When Marnie Was There (2015; English dub)"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "The Pirate Fairy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2483260",
+            "page": "http://www.imdb.com/find?q=tt2483260"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Pirate Fairy (2014)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Transformers: Revenge of the Fallen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1055369",
+            "page": "http://www.imdb.com/find?q=tt1055369"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Transformers: Revenge of the Fallen (2009)"
+    },
+    {
+      "body": "${link_0} (2008 - singing voice)",
+      "links": [
+        {
+          "body": "Bratz Girlz Really Rock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2882912",
+            "page": "http://www.imdb.com/find?q=tt2882912"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bratz Girlz Really Rock (2008 - singing voice)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Bolt",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397892",
+            "page": "http://www.imdb.com/find?q=tt0397892"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bolt (2008)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Beverly Hills Chihuahua",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1014775",
+            "page": "http://www.imdb.com/find?q=tt1014775"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Beverly Hills Chihuahua (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Winx Club: The Secret of the Lost Kingdom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1206585",
+            "page": "http://www.imdb.com/find?q=tt1206585"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Winx Club: The Secret of the Lost Kingdom (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "TMNT",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0453556",
+            "page": "http://www.imdb.com/find?q=tt0453556"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "TMNT (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Asterix and the Vikings",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0371552",
+            "page": "http://www.imdb.com/find?q=tt0371552"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Asterix and the Vikings (2006)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Clifford's Really Big Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398872",
+            "page": "http://www.imdb.com/find?q=tt0398872"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Clifford's Really Big Movie (2004)"
+    },
+    {
       "body": "DeLisle had a difficult childhood; her mother was addicted to drugs, and she was primarily raised by her grandmother, Eva Flores Ruth, a vocalist who performed with salsa legend Tito Puente.",
       "links": [],
+      "section": [
+        "Grey DeLisle",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "DeLisle had a difficult childhood; her mother was addicted to drugs, and she was primarily raised by her grandmother, Eva Flores Ruth, a vocalist who performed with salsa legend Tito Puente."
     },
     {
       "body": "DeLisle was heavily into goth bands like The Cure, but her mother, who had become a born-again Pentecostal, set a strict rule forbidding secular music. In her late teens, she started singing old gospel tunes and entered the world of stand-up comedy on the advice of a close friend. In her comedy routine, DeLisle imitated voices particularly well and was advised to take a shot at voice acting. Her first starring role came in 1994 in the original English version of Crayon Shin-Chan, as the voices of characters Cosmo and Uma.",
       "links": [],
+      "section": [
+        "Grey DeLisle",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "DeLisle was heavily into goth bands like The Cure, but her mother, who had become a born-again Pentecostal, set a strict rule forbidding secular music. In her late teens, she started singing old gospel tunes and entered the world of stand-up comedy on the advice of a close friend. In her comedy routine, DeLisle imitated voices particularly well and was advised to take a shot at voice acting. Her first starring role came in 1994 in the original English version of Crayon Shin-Chan, as the voices of characters Cosmo and Uma."
     },
     {
       "body": "In 2002, DeLisle married musician Murry Hammond, the bassist for the Old 97's, after a few months in a long-distance relationship. They were featured in an episode of The Learning Channel program A Wedding Story. Their first child, Jefferson Texas \"Tex\" Hammond, was born on January 31, 2007, in Los Angeles, California.",
       "links": [],
+      "section": [
+        "Grey DeLisle",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "In 2002, DeLisle married musician Murry Hammond, the bassist for the Old 97's, after a few months in a long-distance relationship. They were featured in an episode of The Learning Channel program A Wedding Story. Their first child, Jefferson Texas \"Tex\" Hammond, was born on January 31, 2007, in Los Angeles, California."
     },
     {
       "body": "Billed as a \"Superstar Voice Actress\" on the Anime News Network, DeLisle has played the leading role in many animated series. Harp Magazine has called Delisle \"golden-voiced\" and recognized her for her roles in Fairly Oddparents, What's New, Scooby-Doo?, and Clifford the Big Red Dog. In addition to her numerous English-speaking roles, she also speaks Japanese as the character Yumi on Hi Hi Puffy AmiYumi. DeLisle has had voice acting roles in many computer and video games, such as Escape from Monkey Island, Baldur's Gate 2, Tomb Raider: Anniversary, and several Star Wars games. She also voices the Dark Jedi, Asajj Ventress, in Star Wars: Clone Wars, Therese and Jeanette (Tourette) Voerman in the White Wolf RPG, PC game Vampire The Masquerade: Bloodlines, Samantha Manson in Danny Phantom, Frankie in Foster's Home for Imaginary Friends, and Frida Su\u00e1rez in El Tigre: The Adventures of Manny Rivera. DeLisle has released four music CDs, which include goth-inspired folk and Americana tunes, and a few gospel-style songs.",
       "links": [],
+      "section": [
+        "Grey DeLisle",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Billed as a \"Superstar Voice Actress\" on the Anime News Network, DeLisle has played the leading role in many animated series. Harp Magazine has called Delisle \"golden-voiced\" and recognized her for her roles in Fairly Oddparents, What's New, Scooby-Doo?, and Clifford the Big Red Dog. In addition to her numerous English-speaking roles, she also speaks Japanese as the character Yumi on Hi Hi Puffy AmiYumi. DeLisle has had voice acting roles in many computer and video games, such as Escape from Monkey Island, Baldur's Gate 2, Tomb Raider: Anniversary, and several Star Wars games. She also voices the Dark Jedi, Asajj Ventress, in Star Wars: Clone Wars, Therese and Jeanette (Tourette) Voerman in the White Wolf RPG, PC game Vampire The Masquerade: Bloodlines, Samantha Manson in Danny Phantom, Frankie in Foster's Home for Imaginary Friends, and Frida Su\u00e1rez in El Tigre: The Adventures of Manny Rivera. DeLisle has released four music CDs, which include goth-inspired folk and Americana tunes, and a few gospel-style songs."
+    },
+    {
+      "body": "DeLisle occasionally refers to her former co-star ${link_0} as her brother, as the two portrayed ${link_1} and sister in Avatar: The Last Airbender.",
+      "links": [
+        {
+          "body": "Dante Basco",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dante_Basco",
+            "page": "Dante_Basco"
+          }
+        },
+        {
+          "body": "brother",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko",
+            "page": "Zuko"
+          }
+        }
+      ],
+      "section": [
+        "Grey DeLisle",
+        "Trivia"
+      ],
+      "text": "DeLisle occasionally refers to her former co-star Dante Basco as her brother, as the two portrayed brother and sister in Avatar: The Last Airbender."
+    },
+    {
+      "body": "DeLisle once stated in an interview that Azula is her favorite character of all those she has voiced.",
+      "links": [],
+      "section": [
+        "Grey DeLisle",
+        "Trivia"
+      ],
+      "text": "DeLisle once stated in an interview that Azula is her favorite character of all those she has voiced."
+    },
+    {
+      "body": "In the TV series Xiaolin Showdown, DeLisle voices main character Kimiko Tohomiko, who like Azula controls the Element of Fire.",
+      "links": [],
+      "section": [
+        "Grey DeLisle",
+        "Trivia"
+      ],
+      "text": "In the TV series Xiaolin Showdown, DeLisle voices main character Kimiko Tohomiko, who like Azula controls the Element of Fire."
     }
   ],
   "source": {

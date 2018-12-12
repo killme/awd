@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Dallas: The Early Years (1986)",
+          "body": "${link_0} (1986)",
           "extra": "(1986)",
           "extra_text": "(1986)",
-          "links": [],
+          "links": [
+            {
+              "body": "Dallas: The Early Years",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0090898",
+                "page": "http://www.imdb.com/find?q=tt0090898"
+              }
+            }
+          ],
           "text": "Dallas: The Early Years (1986)",
-          "value": "Dallas: The Early Years",
+          "value": "${link_0}",
           "value_text": "Dallas: The Early Years"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0092877",
+                "page": "http://www.imdb.com/find?q=nm0092877"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Bill_Bolender",
+                "page": "http://en.wikipedia.org/wiki/Bill_Bolender"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.billbolender.com/",
+                "page": "http://www.billbolender.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -100,9 +143,333 @@
   ],
   "paragraphs": [
     {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Avatar: The Last Airbender credits",
+        "Sha-Mo"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Alias",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285333",
+            "page": "http://www.imdb.com/find?q=tt0285333"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Alias"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ER",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108757",
+            "page": "http://www.imdb.com/find?q=tt0108757"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ER"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "JAG",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112022",
+            "page": "http://www.imdb.com/find?q=tt0112022"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "JAG"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "NYPD Blue",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118275",
+            "page": "http://www.imdb.com/find?q=tt0118275"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "NYPD Blue"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: Deep Space Nine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106145",
+            "page": "http://www.imdb.com/find?q=tt0106145"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: Deep Space Nine"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Adventures of Brisco County Jr.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105932",
+            "page": "http://www.imdb.com/find?q=tt0105932"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Adventures of Brisco County Jr."
+    },
+    {
+      "body": "${link_0} (2006; short)",
+      "links": [
+        {
+          "body": "Intelligence",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0796822",
+            "page": "http://www.imdb.com/find?q=tt0796822"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Intelligence (2006; short)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Confessions of a Florist",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0208412",
+            "page": "http://www.imdb.com/find?q=tt0208412"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Confessions of a Florist (2003)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "The Commissioner",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120640",
+            "page": "http://www.imdb.com/find?q=tt0120640"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Commissioner (1998)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Dante's Peak",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118928",
+            "page": "http://www.imdb.com/find?q=tt0118928"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dante's Peak (1997)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Nixon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0113987",
+            "page": "http://www.imdb.com/find?q=tt0113987"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Nixon (1995)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "The Shawshank Redemption",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111161",
+            "page": "http://www.imdb.com/find?q=tt0111161"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Shawshank Redemption (1994)"
+    },
+    {
+      "body": "${link_0} (1991)",
+      "links": [
+        {
+          "body": "JFK",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0102138",
+            "page": "http://www.imdb.com/find?q=tt0102138"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "JFK (1991)"
+    },
+    {
       "body": "Bolender began his career with a small role in the 1986 television film Dallas: The Early Years. He has been a part of several TV movies since. He has also made guest appearances in shows such as Star Trek: Deep Space Nine, Walker, Texas Ranger, NYPD Blue, The Alias, The West Wing, and others. He starred in five episodes of JAG between 1995 and 1998 as Captain Skipper Ross. Since his appearances on Avatar: The Last Airbender, he has appeared in episodes of ER and Cold Case.",
       "links": [],
+      "section": [
+        "Bill Bolender",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Bolender began his career with a small role in the 1986 television film Dallas: The Early Years. He has been a part of several TV movies since. He has also made guest appearances in shows such as Star Trek: Deep Space Nine, Walker, Texas Ranger, NYPD Blue, The Alias, The West Wing, and others. He starred in five episodes of JAG between 1995 and 1998 as Captain Skipper Ross. Since his appearances on Avatar: The Last Airbender, he has appeared in episodes of ER and Cold Case."
+    },
+    {
+      "body": "Bolender acted alongside ${link_0} in the 1994 film The Shawshank Redemption.",
+      "links": [
+        {
+          "body": "Clancy Brown",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Clancy_Brown",
+            "page": "Clancy_Brown"
+          }
+        }
+      ],
+      "section": [
+        "Bill Bolender",
+        "Trivia"
+      ],
+      "text": "Bolender acted alongside Clancy Brown in the 1994 film The Shawshank Redemption."
     }
   ],
   "source": {

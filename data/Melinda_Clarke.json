@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Days of Our Lives (1989)",
+          "body": "${link_0} (1989)",
           "extra": "(1989)",
           "extra_text": "(1989)",
-          "links": [],
+          "links": [
+            {
+              "body": "Days of Our Lives",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0058796",
+                "page": "http://www.imdb.com/find?q=tt0058796"
+              }
+            }
+          ],
           "text": "Days of Our Lives (1989)",
-          "value": "Days of Our Lives",
+          "value": "${link_0}",
           "value_text": "Days of Our Lives"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0164918",
+                "page": "http://www.imdb.com/find?q=nm0164918"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Melinda_Clarke",
+                "page": "http://en.wikipedia.org/wiki/Melinda_Clarke"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.melinda-clarke.org/",
+                "page": "http://www.melinda-clarke.org/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.twitter.com/TheRealMsClarke",
+                "page": "https://www.twitter.com/TheRealMsClarke"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,24 +162,393 @@
   ],
   "paragraphs": [
     {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Avatar: The Last Airbender credits",
+        "Madame Macmu-Ling"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CSI: Crime Scene Investigation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247082",
+            "page": "http://www.imdb.com/find?q=tt0247082"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CSI: Crime Scene Investigation"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Heaven Help Us",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108801",
+            "page": "http://www.imdb.com/find?q=tt0108801"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Heaven Help Us"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Nikita",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1592154",
+            "page": "http://www.imdb.com/find?q=tt1592154"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Nikita"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Soldier of Fortune, Inc.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118469",
+            "page": "http://www.imdb.com/find?q=tt0118469"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Soldier of Fortune, Inc."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The District",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247087",
+            "page": "http://www.imdb.com/find?q=tt0247087"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The District"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The O.C.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0362359",
+            "page": "http://www.imdb.com/find?q=tt0362359"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The O.C."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Vampire Diaries",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1405406",
+            "page": "http://www.imdb.com/find?q=tt1405406"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Vampire Diaries"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Dynamite",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0330242",
+            "page": "http://www.imdb.com/find?q=tt0330242"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dynamite (2004)"
+    },
+    {
+      "body": "${link_0} (2003; short)",
+      "links": [
+        {
+          "body": "Matriculated",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0372765",
+            "page": "http://www.imdb.com/find?q=tt0372765"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Matriculated (2003; short)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Cold Sweat",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0387946",
+            "page": "http://www.imdb.com/find?q=tt0387946"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cold Sweat (2002)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": ".com for Murder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0278259",
+            "page": "http://www.imdb.com/find?q=tt0278259"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": ".com for Murder (2002)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Spawn",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120177",
+            "page": "http://www.imdb.com/find?q=tt0120177"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spawn (1997)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Critics and Other Freaks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118902",
+            "page": "http://www.imdb.com/find?q=tt0118902"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Critics and Other Freaks (1997)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Mulholland Falls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0117107",
+            "page": "http://www.imdb.com/find?q=tt0117107"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mulholland Falls (1996)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Nikita: Codebreaker",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2191724",
+            "page": "http://www.imdb.com/find?q=tt2191724"
+          }
+        }
+      ],
+      "section": [
+        "Melinda Clarke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Nikita: Codebreaker (video game)"
+    },
+    {
       "body": "Clarke was born Melinda Patrice Clarke in Dana Point, California, the daughter of Patricia Lewis, a ballet dancer, and John Clarke, an actor who was an original cast member of the daytime soap opera Days of Our Lives. She has a brother, Joshua, and a sister, Heidi, who died in 1994 of a malignant heart tumor. She has a daughter named Catherine Grace.",
       "links": [],
+      "section": [
+        "Melinda Clarke",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Clarke was born Melinda Patrice Clarke in Dana Point, California, the daughter of Patricia Lewis, a ballet dancer, and John Clarke, an actor who was an original cast member of the daytime soap opera Days of Our Lives. She has a brother, Joshua, and a sister, Heidi, who died in 1994 of a malignant heart tumor. She has a daughter named Catherine Grace."
     },
     {
       "body": "Clarke appeared on the daytime soap opera Days of Our Lives, where her father was a senior cast member, as Faith Brown and starred on Soldier of Fortune, Inc. for both of its seasons. She also guest starred on Xena: Warrior Princess as the Amazon chieftain Velasca, Firefly as the brothel madam Nandi, Charmed as the Siren, and has had five appearances on CSI, where she played the dominatrix, Lady Heather. She also appeared in the Seinfeld episode \"The Muffin Tops\", playing Jerry's girlfriend.",
       "links": [],
+      "section": [
+        "Melinda Clarke",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Clarke appeared on the daytime soap opera Days of Our Lives, where her father was a senior cast member, as Faith Brown and starred on Soldier of Fortune, Inc. for both of its seasons. She also guest starred on Xena: Warrior Princess as the Amazon chieftain Velasca, Firefly as the brothel madam Nandi, Charmed as the Siren, and has had five appearances on CSI, where she played the dominatrix, Lady Heather. She also appeared in the Seinfeld episode \"The Muffin Tops\", playing Jerry's girlfriend."
     },
     {
       "body": "She originally appeared on the Fox drama The O.C. as a guest star, and due to fan response was offered a contract for her role as Julie Cooper-Nichol, a cunning socialite who marries for money. Clarke accepted the role and became an integral part of the show's storylines. As well as starring on The O.C., she has appeared on HBO's hit series Entourage as a fictionalized version of herself, married to Malcolm McDowell's character, Terrance McQuewick. Clarke also appeared as the Devil's girlfriend in The CW's 2007 series Reaper. She also auditioned for the role of Number Six on SCI-FI's smash hit Battlestar Galactica but the role ultimately went to Tricia Helfer. In 2010, she appeared on the CW show The Vampire Diaries as Kelly Donovan.",
       "links": [],
+      "section": [
+        "Melinda Clarke",
+        "Biographical information",
+        "Career"
+      ],
       "text": "She originally appeared on the Fox drama The O.C. as a guest star, and due to fan response was offered a contract for her role as Julie Cooper-Nichol, a cunning socialite who marries for money. Clarke accepted the role and became an integral part of the show's storylines. As well as starring on The O.C., she has appeared on HBO's hit series Entourage as a fictionalized version of herself, married to Malcolm McDowell's character, Terrance McQuewick. Clarke also appeared as the Devil's girlfriend in The CW's 2007 series Reaper. She also auditioned for the role of Number Six on SCI-FI's smash hit Battlestar Galactica but the role ultimately went to Tricia Helfer. In 2010, she appeared on the CW show The Vampire Diaries as Kelly Donovan."
     },
     {
       "body": "Clarke has volunteered as an actress with the Young Storytellers Foundation. Other projects included a TV movie, She Drives Me Crazy, produced by former co-star Rowan. She appeared as a guest star on Chuck, another series created by The O.C.'s creator Josh Schwartz. She later played Amanda, a series regular role, on The CW's drama Nikita.",
       "links": [],
+      "section": [
+        "Melinda Clarke",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Clarke has volunteered as an actress with the Young Storytellers Foundation. Other projects included a TV movie, She Drives Me Crazy, produced by former co-star Rowan. She appeared as a guest star on Chuck, another series created by The O.C.'s creator Josh Schwartz. She later played Amanda, a series regular role, on The CW's drama Nikita."
+    },
+    {
+      "body": "1996: Won a Sitges-Catalonian International Film Festival Award for La lengua asesina (Best Actress)",
+      "links": [],
+      "section": [
+        "Melinda Clarke",
+        "Awards"
+      ],
+      "text": "1996: Won a Sitges-Catalonian International Film Festival Award for La lengua asesina (Best Actress)"
     }
   ],
   "source": {

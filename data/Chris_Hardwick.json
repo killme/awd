@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "thirtysomething (1991)",
+          "body": "${link_0} (1991)",
           "extra": "(1991)",
           "extra_text": "(1991)",
-          "links": [],
+          "links": [
+            {
+              "body": "thirtysomething",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0092492",
+                "page": "http://www.imdb.com/find?q=tt0092492"
+              }
+            }
+          ],
           "text": "thirtysomething (1991)",
-          "value": "thirtysomething",
+          "value": "${link_0}",
           "value_text": "thirtysomething"
         }
       ]
@@ -69,57 +82,117 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0362534",
+                "page": "http://www.imdb.com/find?q=nm0362534"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Chris_Hardwick",
+                "page": "http://en.wikipedia.org/wiki/Chris_Hardwick"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/iamchrishardwick",
+                "page": "https://www.facebook.com/iamchrishardwick"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/+ChrisHardwick/posts",
+                "page": "https://plus.google.com/+ChrisHardwick/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/nerdist#",
+                "page": "http://instagram.com/nerdist"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/nerdist",
+                "page": "https://twitter.com/nerdist"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -127,8 +200,433 @@
   ],
   "paragraphs": [
     {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Avatar: The Legend of Korra credits",
+        "Sokka"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "@midnight",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3279494",
+            "page": "http://www.imdb.com/find?q=tt3279494"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "@midnight"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Back at the Barnyard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0857277",
+            "page": "http://www.imdb.com/find?q=tt0857277"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Back at the Barnyard"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Guys Like Us",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0168335",
+            "page": "http://www.imdb.com/find?q=tt0168335"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Guys Like Us"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Married with Children",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092400",
+            "page": "http://www.imdb.com/find?q=tt0092400"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Married with Children"
+    },
+    {
+      "body": "${link_0} (TV short)",
+      "links": [
+        {
+          "body": "McBusters 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2016941",
+            "page": "http://www.imdb.com/find?q=tt2016941"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "McBusters 2 (TV short)"
+    },
+    {
+      "body": "${link_0} (TV short)",
+      "links": [
+        {
+          "body": "McBusters 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2049501",
+            "page": "http://www.imdb.com/find?q=tt2049501"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "McBusters 3 (TV short)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sanjay and Craig",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2869898",
+            "page": "http://www.imdb.com/find?q=tt2869898"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sanjay and Craig"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Batman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398417",
+            "page": "http://www.imdb.com/find?q=tt0398417"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Batman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The X's",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0443418",
+            "page": "http://www.imdb.com/find?q=tt0443418"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The X's"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Zeta Project",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0260662",
+            "page": "http://www.imdb.com/find?q=tt0260662"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Zeta Project"
+    },
+    {
+      "body": "${link_0} (2013; short)",
+      "links": [
+        {
+          "body": "Booker, Catch!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3367658",
+            "page": "http://www.imdb.com/find?q=tt3367658"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Booker, Catch! (2013; short)"
+    },
+    {
+      "body": "${link_0} (2012; short)",
+      "links": [
+        {
+          "body": "Clip Cup 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2266699",
+            "page": "http://www.imdb.com/find?q=tt2266699"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Clip Cup 3 (2012; short)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Extremely Loud & Incredibly Close",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0477302",
+            "page": "http://www.imdb.com/find?q=tt0477302"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Extremely Loud & Incredibly Close (2011)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Lego: The Adventures of Clutch Powers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1587414",
+            "page": "http://www.imdb.com/find?q=tt1587414"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lego: The Adventures of Clutch Powers (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Halloween II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1311067",
+            "page": "http://www.imdb.com/find?q=tt1311067"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Halloween II (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Mother of Invention",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1274589",
+            "page": "http://www.imdb.com/find?q=tt1274589"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Mother of Invention (2009)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "The Life Coach",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0449057",
+            "page": "http://www.imdb.com/find?q=tt0449057"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Life Coach (2005)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Terminator 3: Rise of the Machines",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0181852",
+            "page": "http://www.imdb.com/find?q=tt0181852"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Terminator 3: Rise of the Machines (2003)"
+    },
+    {
+      "body": "${link_0} (1998; short)",
+      "links": [
+        {
+          "body": "Win a Date",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0284652",
+            "page": "http://www.imdb.com/find?q=tt0284652"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Win a Date (1998; short)"
+    },
+    {
+      "body": "${link_0} (1992; short)",
+      "links": [
+        {
+          "body": "Performance Art: Starring Chainsaw Bob",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0142762",
+            "page": "http://www.imdb.com/find?q=tt0142762"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Performance Art: Starring Chainsaw Bob (1992; short)"
+    },
+    {
       "body": "Hardwick was born in Louisville, Kentucky, to former professional bowler Billy Hardwick and Sharon Hills, a real estate agent in Pasadena, California. He was named after American sportscaster Chris Schenkel and grew up in Tennessee, attending St. Benedict at Auburndale K-12 School and later attending Regis Jesuit High School in Colorado, followed by Loyola High School for his senior year.",
       "links": [],
+      "section": [
+        "Chris Hardwick",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Hardwick was born in Louisville, Kentucky, to former professional bowler Billy Hardwick and Sharon Hills, a real estate agent in Pasadena, California. He was named after American sportscaster Chris Schenkel and grew up in Tennessee, attending St. Benedict at Auburndale K-12 School and later attending Regis Jesuit High School in Colorado, followed by Loyola High School for his senior year."
     },
     {
@@ -138,32 +636,77 @@
           "body": "Wil Wheaton",
           "key": "${link_0}",
           "target": {
-            "href": "Wil_Wheaton",
+            "external": false,
+            "href": "/wiki/Wil_Wheaton",
             "page": "Wil_Wheaton"
           }
         }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Biographical information",
+        "Personal life"
       ],
       "text": "Hardwick studied philosophy at UCLA, where he was a member of the Chi Phi Fraternity during his freshman year. Hardwick was roommates with Wil Wheaton for some time."
     },
     {
       "body": "Hardwick was a DJ on influential Los Angeles radio station KROQ-FM during the mid-1990s. In the fall of 1998, he starred in the UPN comedy Guys Like Us; the show aired twelve episodes before it was cancelled in January 1999.",
       "links": [],
+      "section": [
+        "Chris Hardwick",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Hardwick was a DJ on influential Los Angeles radio station KROQ-FM during the mid-1990s. In the fall of 1998, he starred in the UPN comedy Guys Like Us; the show aired twelve episodes before it was cancelled in January 1999."
     },
     {
       "body": "He appeared in Rob Zombie's horror films House of 1000 Corpses and Halloween 2. He also made a small appearance in Terminator 3: Rise of the Machines. In 2010 he was featured in the film The Mother of Invention. Hardwick was in CSI: Crime Scene Investigation, Married... with Children, Boy Meets World, and Zoey 101. He was also a guest commentator on VH1's I Love the 90s series, which aired in 2005.",
       "links": [],
+      "section": [
+        "Chris Hardwick",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He appeared in Rob Zombie's horror films House of 1000 Corpses and Halloween 2. He also made a small appearance in Terminator 3: Rise of the Machines. In 2010 he was featured in the film The Mother of Invention. Hardwick was in CSI: Crime Scene Investigation, Married... with Children, Boy Meets World, and Zoey 101. He was also a guest commentator on VH1's I Love the 90s series, which aired in 2005."
     },
     {
       "body": "Hardwick voiced Alexander Hamilton in \"The Radio Adventures of Dr. Floyd and Otis\" in the Barnyard series. He also provided the voice for Green Arrow/Oliver Queen on The Batman and was the voice of Glowface in The X's. Hardwick also did voice work for The Minstrel Show from the rap group Little Brother and narrated the introduction video for the flash game George Plimpton's Video Falconry.",
       "links": [],
+      "section": [
+        "Chris Hardwick",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Hardwick voiced Alexander Hamilton in \"The Radio Adventures of Dr. Floyd and Otis\" in the Barnyard series. He also provided the voice for Green Arrow/Oliver Queen on The Batman and was the voice of Glowface in The X's. Hardwick also did voice work for The Minstrel Show from the rap group Little Brother and narrated the introduction video for the flash game George Plimpton's Video Falconry."
     },
     {
       "body": "In 2013, Hardwick was named the host of Comedy Central's panel show, @midnight.",
       "links": [],
+      "section": [
+        "Chris Hardwick",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 2013, Hardwick was named the host of Comedy Central's panel show, @midnight."
+    },
+    {
+      "body": "He was in a relationship with ${link_0} from 2004 until 2011.",
+      "links": [
+        {
+          "body": "Janet Varney",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Janet_Varney",
+            "page": "Janet_Varney"
+          }
+        }
+      ],
+      "section": [
+        "Chris Hardwick",
+        "Trivia"
+      ],
+      "text": "He was in a relationship with Janet Varney from 2004 until 2011."
     }
   ],
   "source": {

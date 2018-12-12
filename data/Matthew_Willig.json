@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Full Contact (1993)",
+          "body": "${link_0} (1993)",
           "extra": "(1993)",
           "extra_text": "(1993)",
-          "links": [],
+          "links": [
+            {
+              "body": "Full Contact",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0106979",
+                "page": "http://www.imdb.com/find?q=tt0106979"
+              }
+            }
+          ],
           "text": "Full Contact (1993)",
-          "value": "Full Contact",
+          "value": "${link_0}",
           "value_text": "Full Contact"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2200632",
+                "page": "http://www.imdb.com/find?q=nm2200632"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Matt_Willig",
+                "page": "http://en.wikipedia.org/wiki/Matt_Willig"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Matthew-Willig/93930722589",
+                "page": "https://www.facebook.com/pages/Matthew-Willig/93930722589"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/115603211005851225476/posts",
+                "page": "https://plus.google.com/115603211005851225476/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/MatthewWillig",
+                "page": "https://twitter.com/MatthewWillig"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,18 +181,393 @@
   ],
   "paragraphs": [
     {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "The Legend of Korra credits",
+        "Muscly man"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Brooklyn Nine-Nine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2467372",
+            "page": "http://www.imdb.com/find?q=tt2467372"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Brooklyn Nine-Nine"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dexter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0773262",
+            "page": "http://www.imdb.com/find?q=tt0773262"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dexter"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "iCarly",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0972534",
+            "page": "http://www.imdb.com/find?q=tt0972534"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "iCarly"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "NCIS",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364845",
+            "page": "http://www.imdb.com/find?q=tt0364845"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "NCIS"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Pair of Kings",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1571313",
+            "page": "http://www.imdb.com/find?q=tt1571313"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Pair of Kings"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Playing With Guns",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1640222",
+            "page": "http://www.imdb.com/find?q=tt1640222"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Playing With Guns (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The High Fructose Adventures of Annoying Orange",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2114184",
+            "page": "http://www.imdb.com/find?q=tt2114184"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The High Fructose Adventures of Annoying Orange"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Suite Life on Deck",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1181917",
+            "page": "http://www.imdb.com/find?q=tt1181917"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Suite Life on Deck"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "We're the Millers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1723121",
+            "page": "http://www.imdb.com/find?q=tt1723121"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "We're the Millers (2013)"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Bounty Killer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2369396",
+            "page": "http://www.imdb.com/find?q=tt2369396"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bounty Killer (2013)"
+    },
+    {
+      "body": "${link_0} (2012; short)",
+      "links": [
+        {
+          "body": "Buds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2352456",
+            "page": "http://www.imdb.com/find?q=tt2352456"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Buds (2012; short)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Abelar: Tales on an Ancient Empire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1136688",
+            "page": "http://www.imdb.com/find?q=tt1136688"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Abelar: Tales on an Ancient Empire (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Year One",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1045778",
+            "page": "http://www.imdb.com/find?q=tt1045778"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Year One (2009)"
+    },
+    {
+      "body": "${link_0} (2008; short)",
+      "links": [
+        {
+          "body": "A Girl and a Gun",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1358185",
+            "page": "http://www.imdb.com/find?q=tt1358185"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Girl and a Gun (2008; short)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Benchwarmers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0437863",
+            "page": "http://www.imdb.com/find?q=tt0437863"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Benchwarmers (2006)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man: Shattered Dreams",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1629701",
+            "page": "http://www.imdb.com/find?q=tt1629701"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man: Shattered Dreams (video game)"
+    },
+    {
+      "body": "${link_0} (self)",
+      "links": [
+        {
+          "body": "Super Bowl XXXVIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0399708",
+            "page": "http://www.imdb.com/find?q=tt0399708"
+          }
+        }
+      ],
+      "section": [
+        "Matthew Willig",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Super Bowl XXXVIII (self)"
+    },
+    {
       "body": "Willig played fourteen years for the Carolina Panthers, New York Jets, Atlanta Falcons, Green Bay Packers, St Louis Rams, and San Francisco 49ers. He won a Super Bowl ring while playing for the Rams and also made Super Bowl XXXVIII with the Panthers, but this time ended up on the losing side.",
       "links": [],
+      "section": [
+        "Matthew Willig",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Willig played fourteen years for the Carolina Panthers, New York Jets, Atlanta Falcons, Green Bay Packers, St Louis Rams, and San Francisco 49ers. He won a Super Bowl ring while playing for the Rams and also made Super Bowl XXXVIII with the Panthers, but this time ended up on the losing side."
     },
     {
       "body": "He had a small role in the 1993 Hong Kong action movie Full Contact, and also appeared in a season seven episode of Malcolm In the Middle as Crash, a recovering alcoholic. He appeared as a gang member named Little Chino on the Showtime series Dexter and appeared as a bodyguard named Yuri on the NBC series Chuck. In 2009, he had a supporting role as a brutish caveman tormenting Jack Black and Michael Cera in the motion picture Year One, and he portrayed the character Special Agent Simon Cade in season eight of NCIS until the first episode of season nine. In 2013, he appeared in the film A Resurrection and later that same year, he played Mike Drake in the critically acclaimed independent thriller The Employer.",
       "links": [],
+      "section": [
+        "Matthew Willig",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He had a small role in the 1993 Hong Kong action movie Full Contact, and also appeared in a season seven episode of Malcolm In the Middle as Crash, a recovering alcoholic. He appeared as a gang member named Little Chino on the Showtime series Dexter and appeared as a bodyguard named Yuri on the NBC series Chuck. In 2009, he had a supporting role as a brutish caveman tormenting Jack Black and Michael Cera in the motion picture Year One, and he portrayed the character Special Agent Simon Cade in season eight of NCIS until the first episode of season nine. In 2013, he appeared in the film A Resurrection and later that same year, he played Mike Drake in the critically acclaimed independent thriller The Employer."
     },
     {
       "body": "Willig has also acted in numerous national commercial campaigns, including a Capital One spot with David Spade, a Bud Light spot, and as an action hero in a Halls commercial.",
       "links": [],
+      "section": [
+        "Matthew Willig",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Willig has also acted in numerous national commercial campaigns, including a Capital One spot with David Spade, a Bud Light spot, and as an action hero in a Halls commercial."
     }
   ],

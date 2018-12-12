@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Say Goodnight, Gracie (1983; TV movie)",
+          "body": "${link_0} (1983; TV movie)",
           "extra": "(1983; TV movie)",
           "extra_text": "(1983; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Say Goodnight, Gracie",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0086246",
+                "page": "http://www.imdb.com/find?q=tt0086246"
+              }
+            }
+          ],
           "text": "Say Goodnight, Gracie (1983; TV movie)",
-          "value": "Say Goodnight, Gracie",
+          "value": "${link_0}",
           "value_text": "Say Goodnight, Gracie"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0347341",
+                "page": "http://www.imdb.com/find?q=nm0347341"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Francis_Guinan",
+                "page": "http://en.wikipedia.org/wiki/Francis_Guinan"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Francis-Guinan/113022048708588",
+                "page": "https://www.facebook.com/pages/Francis-Guinan/113022048708588"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -86,13 +129,361 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "3rd Rock from the Sun",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115082",
+            "page": "http://www.imdb.com/find?q=tt0115082"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "3rd Rock from the Sun"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Boss",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1833285",
+            "page": "http://www.imdb.com/find?q=tt1833285"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Boss"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Crime Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090410",
+            "page": "http://www.imdb.com/find?q=tt0090410"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Crime Story"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Eerie, Indiana",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101088",
+            "page": "http://www.imdb.com/find?q=tt0101088"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Eerie, Indiana"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098844",
+            "page": "http://www.imdb.com/find?q=tt0098844"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Murder, She Wrote",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086765",
+            "page": "http://www.imdb.com/find?q=tt0086765"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Murder, She Wrote"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: Voyager",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112178",
+            "page": "http://www.imdb.com/find?q=tt0112178"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: Voyager"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Beast",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1103968",
+            "page": "http://www.imdb.com/find?q=tt1103968"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Beast"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Practice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118437",
+            "page": "http://www.imdb.com/find?q=tt0118437"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Practice"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Constantine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0360486",
+            "page": "http://www.imdb.com/find?q=tt0360486"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Constantine (2005)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "The Storyteller",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0339736",
+            "page": "http://www.imdb.com/find?q=tt0339736"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Storyteller (2005)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Hannibal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0212985",
+            "page": "http://www.imdb.com/find?q=tt0212985"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hannibal (2001)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Guinevere",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0160338",
+            "page": "http://www.imdb.com/find?q=tt0160338"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Guinevere (1999)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Speed 2: Cruise Control",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120179",
+            "page": "http://www.imdb.com/find?q=tt0120179"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Speed 2: Cruise Control (1997)"
+    },
+    {
+      "body": "${link_0} (1992)",
+      "links": [
+        {
+          "body": "Shining Through",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105391",
+            "page": "http://www.imdb.com/find?q=tt0105391"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Shining Through (1992)"
+    },
+    {
+      "body": "${link_0} (1988)",
+      "links": [
+        {
+          "body": "Miles from Home",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0095640",
+            "page": "http://www.imdb.com/find?q=tt0095640"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Miles from Home (1988)"
+    },
+    {
+      "body": "${link_0} (1988)",
+      "links": [
+        {
+          "body": "The Serpent and the Rainbow",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096071",
+            "page": "http://www.imdb.com/find?q=tt0096071"
+          }
+        }
+      ],
+      "section": [
+        "Francis Guinan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Serpent and the Rainbow (1988)"
+    },
+    {
       "body": "Guinan has made guest appearances in many notable television series, including Grey's Anatomy, CSI: Miami, CSI: NY, Without a Trace, The Practice, Crossing Jordan, Star Trek: Enterprise, Star Trek: Voyager, Nash Bridges, Sliders, Murder, She Wrote, Frasier, and Mike & Molly.",
       "links": [],
+      "section": [
+        "Francis Guinan",
+        "Biography"
+      ],
       "text": "Guinan has made guest appearances in many notable television series, including Grey's Anatomy, CSI: Miami, CSI: NY, Without a Trace, The Practice, Crossing Jordan, Star Trek: Enterprise, Star Trek: Voyager, Nash Bridges, Sliders, Murder, She Wrote, Frasier, and Mike & Molly."
     },
     {
       "body": "He has been a member of the Steppenwolf Theatre Company ensemble since 1979. In December 2007, Guinan co-starred in the Tracy Letts' play August: Osage County which opened on Broadway to critical acclaim.",
       "links": [],
+      "section": [
+        "Francis Guinan",
+        "Biography"
+      ],
       "text": "He has been a member of the Steppenwolf Theatre Company ensemble since 1979. In December 2007, Guinan co-starred in the Tracy Letts' play August: Osage County which opened on Broadway to critical acclaim."
     }
   ],

@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Console games",
       "target": {
-        "href": "Category_Console_games",
+        "external": false,
+        "href": "/wiki/Category_Console_games",
         "page": "Category_Console_games"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Video games",
       "target": {
-        "href": "Category_Video_games",
+        "external": false,
+        "href": "/wiki/Category_Video_games",
         "page": "Category_Video_games"
       }
     }
@@ -42,7 +46,8 @@
               "body": "Nick Games",
               "key": "${link_0}",
               "target": {
-                "href": "Nickelodeon",
+                "external": false,
+                "href": "/wiki/Nickelodeon",
                 "page": "Nickelodeon"
               }
             }
@@ -135,21 +140,41 @@
       "key": "Rating(s)",
       "value": [
         {
-          "body": "ESRB: E10+",
+          "body": "${link_0}: E10+",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "ESRB",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board",
+                "page": "http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board"
+              }
+            }
+          ],
           "text": "ESRB: E10+",
-          "value": "ESRB: E10+",
+          "value": "${link_0}: E10+",
           "value_text": "ESRB: E10+"
         },
         {
-          "body": "PEGI: 7+",
+          "body": "${link_0}: 7+",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "PEGI",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Pan_European_Game_Information",
+                "page": "http://en.wikipedia.org/wiki/Pan_European_Game_Information"
+              }
+            }
+          ],
           "text": "PEGI: 7+",
-          "value": "PEGI: 7+",
+          "value": "${link_0}: 7+",
           "value_text": "PEGI: 7+"
         },
         {
@@ -221,7 +246,8 @@
               "body": "Avatar: The Last Airbender \u2013 The Burning Earth",
               "key": "${link_0}",
               "target": {
-                "href": "Avatar__The_Last_Airbender_%e2%80%93_The_Burning_Earth",
+                "external": false,
+                "href": "/wiki/Avatar__The_Last_Airbender_%e2%80%93_The_Burning_Earth",
                 "page": "Avatar__The_Last_Airbender_%e2%80%93_The_Burning_Earth"
               }
             }
@@ -244,7 +270,8 @@
               "body": "The Legend of Korra (video game)",
               "key": "${link_0}",
               "target": {
-                "href": "The_Legend_of_Korra_(video_game)",
+                "external": false,
+                "href": "/wiki/The_Legend_of_Korra_(video_game)",
                 "page": "The_Legend_of_Korra_(video_game)"
               }
             }
@@ -258,27 +285,14 @@
   ],
   "paragraphs": [
     {
-      "body": "The following information is not considered to be part of ${link_0}.",
-      "links": [
-        {
-          "body": "the main continuity",
-          "key": "${link_0}",
-          "target": {
-            "href": "Avatar_Wiki_Continuity",
-            "page": "Avatar_Wiki_Continuity"
-          }
-        }
-      ],
-      "text": "The following information is not considered to be part of the main continuity."
-    },
-    {
       "body": "Avatar: The Last Airbender \u2013 Into the Inferno, or Avatar: The Legend of Aang \u2013 Into the Inferno, as it is known in Europe, is a ${link_0} based on ${link_1} of ${link_2}. It was released on October 13, 2008 in the United States and on November 1, 2008 in the United Kingdom.",
       "links": [
         {
           "body": "video game",
           "key": "${link_0}",
           "target": {
-            "href": "List_of_Avatar_games#Console_games",
+            "external": false,
+            "href": "/wiki/List_of_Avatar_games#Console_games",
             "page": "List_of_Avatar_games"
           }
         },
@@ -286,7 +300,8 @@
           "body": "Book Three",
           "key": "${link_1}",
           "target": {
-            "href": "Book_Three__Fire",
+            "external": false,
+            "href": "/wiki/Book_Three__Fire",
             "page": "Book_Three__Fire"
           }
         },
@@ -294,10 +309,14 @@
           "body": "Avatar: The Last Airbender",
           "key": "${link_2}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno"
       ],
       "text": "Avatar: The Last Airbender \u2013 Into the Inferno, or Avatar: The Legend of Aang \u2013 Into the Inferno, as it is known in Europe, is a video game based on Book Three of Avatar: The Last Airbender. It was released on October 13, 2008 in the United States and on November 1, 2008 in the United Kingdom."
     },
@@ -308,7 +327,8 @@
           "body": "Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar",
+            "external": false,
+            "href": "/wiki/Avatar",
             "page": "Avatar"
           }
         },
@@ -316,7 +336,8 @@
           "body": "Aang",
           "key": "${link_1}",
           "target": {
-            "href": "Aang_(games)",
+            "external": false,
+            "href": "/wiki/Aang_(games)",
             "page": "Aang_(games)"
           }
         },
@@ -324,7 +345,8 @@
           "body": "Fire Nation",
           "key": "${link_2}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         },
@@ -332,7 +354,8 @@
           "body": "ship",
           "key": "${link_3}",
           "target": {
-            "href": "Fire_Nation_cruiser",
+            "external": false,
+            "href": "/wiki/Fire_Nation_cruiser",
             "page": "Fire_Nation_cruiser"
           }
         },
@@ -340,7 +363,8 @@
           "body": "his friends",
           "key": "${link_4}",
           "target": {
-            "href": "Team_Avatar",
+            "external": false,
+            "href": "/wiki/Team_Avatar",
             "page": "Team_Avatar"
           }
         },
@@ -348,7 +372,8 @@
           "body": "Ba Sing Se",
           "key": "${link_5}",
           "target": {
-            "href": "Ba_Sing_Se",
+            "external": false,
+            "href": "/wiki/Ba_Sing_Se",
             "page": "Ba_Sing_Se"
           }
         },
@@ -356,7 +381,8 @@
           "body": "firebending",
           "key": "${link_6}",
           "target": {
-            "href": "Firebending",
+            "external": false,
+            "href": "/wiki/Firebending",
             "page": "Firebending"
           }
         },
@@ -364,7 +390,8 @@
           "body": "invade the Fire Nation",
           "key": "${link_7}",
           "target": {
-            "href": "Invasion_of_the_Fire_Nation",
+            "external": false,
+            "href": "/wiki/Invasion_of_the_Fire_Nation",
             "page": "Invasion_of_the_Fire_Nation"
           }
         },
@@ -372,7 +399,8 @@
           "body": "solar eclipse",
           "key": "${link_8}",
           "target": {
-            "href": "Day_of_Black_Sun",
+            "external": false,
+            "href": "/wiki/Day_of_Black_Sun",
             "page": "Day_of_Black_Sun"
           }
         },
@@ -380,7 +408,8 @@
           "body": "Fire Nation Army factory",
           "key": "${link_9}",
           "target": {
-            "href": "Fire_Nation_Army_factory",
+            "external": false,
+            "href": "/wiki/Fire_Nation_Army_factory",
             "page": "Fire_Nation_Army_factory"
           }
         },
@@ -388,7 +417,8 @@
           "body": "Jang Hui",
           "key": "${link_10}",
           "target": {
-            "href": "Jang_Hui",
+            "external": false,
+            "href": "/wiki/Jang_Hui",
             "page": "Jang_Hui"
           }
         },
@@ -396,7 +426,8 @@
           "body": "Katara",
           "key": "${link_11}",
           "target": {
-            "href": "Katara_(games)",
+            "external": false,
+            "href": "/wiki/Katara_(games)",
             "page": "Katara_(games)"
           }
         },
@@ -404,7 +435,8 @@
           "body": "waterbending",
           "key": "${link_12}",
           "target": {
-            "href": "Waterbending",
+            "external": false,
+            "href": "/wiki/Waterbending",
             "page": "Waterbending"
           }
         },
@@ -412,10 +444,15 @@
           "body": "Mung",
           "key": "${link_13}",
           "target": {
-            "href": "Mung",
+            "external": false,
+            "href": "/wiki/Mung",
             "page": "Mung"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Plot"
       ],
       "text": "Avatar Aang awakens on a captured Fire Nation ship with his friends, recovered from the ordeal in Ba Sing Se. They hear the horn of an approaching ship and make their way to the back, where they fight off firebending soldiers. Aang finds out about the plan to invade the Fire Nation during a solar eclipse, which will render the firebenders powerless. They realize they are in need of supplies, so they venture into a Fire Nation town disguised as civilians. Afterward, they discover a Fire Nation Army factory is polluting and hurting the people of a village called Jang Hui. Aang and Katara use waterbending to destroy the factory and save the village. In doing this however, they catch the attention of General Mung, whom they must defeat."
     },
@@ -426,7 +463,8 @@
           "body": "Sokka",
           "key": "${link_0}",
           "target": {
-            "href": "Sokka_(games)",
+            "external": false,
+            "href": "/wiki/Sokka_(games)",
             "page": "Sokka_(games)"
           }
         },
@@ -434,7 +472,8 @@
           "body": "Toph",
           "key": "${link_1}",
           "target": {
-            "href": "Toph_Beifong_(games)",
+            "external": false,
+            "href": "/wiki/Toph_Beifong_(games)",
             "page": "Toph_Beifong_(games)"
           }
         },
@@ -442,7 +481,8 @@
           "body": "Fire Lord",
           "key": "${link_2}",
           "target": {
-            "href": "Fire_Lord",
+            "external": false,
+            "href": "/wiki/Fire_Lord",
             "page": "Fire_Lord"
           }
         },
@@ -450,7 +490,8 @@
           "body": "Ozai",
           "key": "${link_3}",
           "target": {
-            "href": "Ozai",
+            "external": false,
+            "href": "/wiki/Ozai",
             "page": "Ozai"
           }
         },
@@ -458,7 +499,8 @@
           "body": "Princess",
           "key": "${link_4}",
           "target": {
-            "href": "Heir_to_the_Fire_Lord",
+            "external": false,
+            "href": "/wiki/Heir_to_the_Fire_Lord",
             "page": "Heir_to_the_Fire_Lord"
           }
         },
@@ -466,7 +508,8 @@
           "body": "Azula",
           "key": "${link_5}",
           "target": {
-            "href": "Azula_(games)",
+            "external": false,
+            "href": "/wiki/Azula_(games)",
             "page": "Azula_(games)"
           }
         },
@@ -474,7 +517,8 @@
           "body": "Dai Li",
           "key": "${link_6}",
           "target": {
-            "href": "Dai_Li",
+            "external": false,
+            "href": "/wiki/Dai_Li",
             "page": "Dai_Li"
           }
         },
@@ -482,7 +526,8 @@
           "body": "Zuko",
           "key": "${link_7}",
           "target": {
-            "href": "Zuko_(games)",
+            "external": false,
+            "href": "/wiki/Zuko_(games)",
             "page": "Zuko_(games)"
           }
         },
@@ -490,7 +535,8 @@
           "body": "Boiling Rock",
           "key": "${link_8}",
           "target": {
-            "href": "Boiling_Rock",
+            "external": false,
+            "href": "/wiki/Boiling_Rock",
             "page": "Boiling_Rock"
           }
         },
@@ -498,7 +544,8 @@
           "body": "Hakoda",
           "key": "${link_9}",
           "target": {
-            "href": "Hakoda",
+            "external": false,
+            "href": "/wiki/Hakoda",
             "page": "Hakoda"
           }
         },
@@ -506,7 +553,8 @@
           "body": "Suki",
           "key": "${link_10}",
           "target": {
-            "href": "Suki",
+            "external": false,
+            "href": "/wiki/Suki",
             "page": "Suki"
           }
         },
@@ -514,7 +562,8 @@
           "body": "Ty Lee",
           "key": "${link_11}",
           "target": {
-            "href": "Ty_Lee",
+            "external": false,
+            "href": "/wiki/Ty_Lee",
             "page": "Ty_Lee"
           }
         },
@@ -522,7 +571,8 @@
           "body": "Mai",
           "key": "${link_12}",
           "target": {
-            "href": "Mai",
+            "external": false,
+            "href": "/wiki/Mai",
             "page": "Mai"
           }
         },
@@ -530,7 +580,8 @@
           "body": "Western Air Temple",
           "key": "${link_13}",
           "target": {
-            "href": "Western_Air_Temple",
+            "external": false,
+            "href": "/wiki/Western_Air_Temple",
             "page": "Western_Air_Temple"
           }
         },
@@ -538,7 +589,8 @@
           "body": "Combustion Man",
           "key": "${link_14}",
           "target": {
-            "href": "Combustion_Man",
+            "external": false,
+            "href": "/wiki/Combustion_Man",
             "page": "Combustion_Man"
           }
         },
@@ -546,10 +598,15 @@
           "body": "Roku",
           "key": "${link_15}",
           "target": {
-            "href": "Roku",
+            "external": false,
+            "href": "/wiki/Roku",
             "page": "Roku"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Plot"
       ],
       "text": "During the invasion, Sokka and Toph secure a tower so Aang and Toph can defeat Fire Lord Ozai. It turns out that Princess Azula tricked them into fighting the Dai Li instead. Prince Zuko joins the Avatar's group when the invasion plan fails and helps them escape. Later, Sokka and Zuko sneak into the Boiling Rock, a Fire Nation prison, to free Hakoda and Suki. Azula and Ty Lee try to stop them from escaping, but Mai intervenes, which gives them an opportunity. At the Western Air Temple, Toph and Sokka fight off Combustion Man, and Zuko and Aang find and solve the Chamber of the Elements to contact Avatar Roku."
     },
@@ -560,7 +617,8 @@
           "body": "Sozin's Comet",
           "key": "${link_0}",
           "target": {
-            "href": "Sozin%27s_Comet",
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet",
             "page": "Sozin%27s_Comet"
           }
         },
@@ -568,7 +626,8 @@
           "body": "Earth Kingdom",
           "key": "${link_1}",
           "target": {
-            "href": "Earth_Kingdom",
+            "external": false,
+            "href": "/wiki/Earth_Kingdom",
             "page": "Earth_Kingdom"
           }
         },
@@ -576,7 +635,8 @@
           "body": "Phoenix King",
           "key": "${link_2}",
           "target": {
-            "href": "Phoenix_King",
+            "external": false,
+            "href": "/wiki/Phoenix_King",
             "page": "Phoenix_King"
           }
         },
@@ -584,38 +644,25 @@
           "body": "Hundred Year War",
           "key": "${link_3}",
           "target": {
-            "href": "Hundred_Year_War",
+            "external": false,
+            "href": "/wiki/Hundred_Year_War",
             "page": "Hundred_Year_War"
           }
         }
       ],
-      "text": "Preparing to use the power of Sozin's Comet to destroy the Earth Kingdom, Azula is proclaimed the new Fire Lord while Ozai declares himself the Phoenix King. Zuko must fight and defeat Azula, with the help of Katara. Afterward, Aang and Katara must defeat Phoenix King Ozai to stop the Fire Nation and end the Hundred Year War permanently."
-    },
-    {
-      "body": "${link_0} ${link_1} an ice bridge.",
-      "links": [
-        {
-          "body": "Katara",
-          "key": "${link_0}",
-          "target": {
-            "href": "Katara_(games)",
-            "page": "Katara_(games)"
-          }
-        },
-        {
-          "body": "waterbends",
-          "key": "${link_1}",
-          "target": {
-            "href": "Waterbending",
-            "page": "Waterbending"
-          }
-        }
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Plot"
       ],
-      "text": "Katara waterbends an ice bridge."
+      "text": "Preparing to use the power of Sozin's Comet to destroy the Earth Kingdom, Azula is proclaimed the new Fire Lord while Ozai declares himself the Phoenix King. Zuko must fight and defeat Azula, with the help of Katara. Afterward, Aang and Katara must defeat Phoenix King Ozai to stop the Fire Nation and end the Hundred Year War permanently."
     },
     {
       "body": "Gameplay styles vary widely between the PlayStation 2, Wii, and Nintendo DS versions.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Gameplay"
+      ],
       "text": "Gameplay styles vary widely between the PlayStation 2, Wii, and Nintendo DS versions."
     },
     {
@@ -625,7 +672,8 @@
           "body": "Super Deformed Shorts",
           "key": "${link_0}",
           "target": {
-            "href": "Super_Deformed_Shorts",
+            "external": false,
+            "href": "/wiki/Super_Deformed_Shorts",
             "page": "Super_Deformed_Shorts"
           }
         },
@@ -633,7 +681,8 @@
           "body": "bloodbend",
           "key": "${link_1}",
           "target": {
-            "href": "Bloodbending",
+            "external": false,
+            "href": "/wiki/Bloodbending",
             "page": "Bloodbending"
           }
         },
@@ -641,34 +690,17 @@
           "body": "Sokka's boomerang",
           "key": "${link_2}",
           "target": {
-            "href": "Sokka%27s_weapons#Boomerang",
+            "external": false,
+            "href": "/wiki/Sokka%27s_weapons#Boomerang",
             "page": "Sokka%27s_weapons"
           }
         }
       ],
-      "text": "In the Nintendo DS version, the characters have very large heads, giving the game a cartoonish feel similar in design to the Super Deformed Shorts. Katara is able to make ice bridges and ice blocks, albeit only when the player is fighting Azula, as well as bloodbend. Sokka's boomerang is used to stun enemies, reach objects, or solve puzzles, following a path drawn by the player. Toph can move earth blocks and metal blocks or raise columns, and Aang can make mini-tornadoes and can also move earth blocks. One can also play as Zuko who can make a line of fire."
-    },
-    {
-      "body": "${link_0} and ${link_1} stand on top of a building next to some scaffolding.",
-      "links": [
-        {
-          "body": "Aang",
-          "key": "${link_0}",
-          "target": {
-            "href": "Aang_(games)",
-            "page": "Aang_(games)"
-          }
-        },
-        {
-          "body": "Sokka",
-          "key": "${link_1}",
-          "target": {
-            "href": "Sokka_(games)",
-            "page": "Sokka_(games)"
-          }
-        }
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Gameplay"
       ],
-      "text": "Aang and Sokka stand on top of a building next to some scaffolding."
+      "text": "In the Nintendo DS version, the characters have very large heads, giving the game a cartoonish feel similar in design to the Super Deformed Shorts. Katara is able to make ice bridges and ice blocks, albeit only when the player is fighting Azula, as well as bloodbend. Sokka's boomerang is used to stun enemies, reach objects, or solve puzzles, following a path drawn by the player. Toph can move earth blocks and metal blocks or raise columns, and Aang can make mini-tornadoes and can also move earth blocks. One can also play as Zuko who can make a line of fire."
     },
     {
       "body": "The Wii version has a new style of gameplay different from previous Avatar games. Aang can ${link_0} an \"air ball\" to break down obstacles and blow away objects by shaking the Wii Remote. Toph can slide earth out of rock walls to reach the top by sliding the Wii Remote backward. Katara can guide water by standing on a puddle of water pressing the \"A button\" and moving the Wii remote in the right direction to extinguish fires. The pointer can act as a star and the light of a flashlight.",
@@ -677,61 +709,116 @@
           "body": "airbend",
           "key": "${link_0}",
           "target": {
-            "href": "Airbending",
+            "external": false,
+            "href": "/wiki/Airbending",
             "page": "Airbending"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Gameplay"
       ],
       "text": "The Wii version has a new style of gameplay different from previous Avatar games. Aang can airbend an \"air ball\" to break down obstacles and blow away objects by shaking the Wii Remote. Toph can slide earth out of rock walls to reach the top by sliding the Wii Remote backward. Katara can guide water by standing on a puddle of water pressing the \"A button\" and moving the Wii remote in the right direction to extinguish fires. The pointer can act as a star and the light of a flashlight."
     },
     {
       "body": "Aang wakes on a Fire Navy ship. Katara greets him and states how she was glad he was okay. They find that the ship has been damaged by another attacking Fire Navy vessel and use their prowess in bending to navigate the ship to the deck. Aang and Katara repel several Fire Nation boarding parties. Once they make it to the main deck, Aang uses his earthbending to prime several catapults with boulders, destroying the opposing Fire Nation ship.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Game overview",
+        "The Awakening"
+      ],
       "text": "Aang wakes on a Fire Navy ship. Katara greets him and states how she was glad he was okay. They find that the ship has been damaged by another attacking Fire Navy vessel and use their prowess in bending to navigate the ship to the deck. Aang and Katara repel several Fire Nation boarding parties. Once they make it to the main deck, Aang uses his earthbending to prime several catapults with boulders, destroying the opposing Fire Nation ship."
     },
     {
       "body": "Aang, Katara, Sokka, and Toph arrive at a Fire Nation fishing village. The majority of the village is contaminated with disease and sickness due to a large Fire Nation arms factory built nearby polluting the river with waste. Aang and Katara infiltrate the factory and navigate it. They eventually disable the factory and escape. As a result, the waste from the factory is stopped and the village water source is purified.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Game overview",
+        "The Arms Factory"
+      ],
       "text": "Aang, Katara, Sokka, and Toph arrive at a Fire Nation fishing village. The majority of the village is contaminated with disease and sickness due to a large Fire Nation arms factory built nearby polluting the river with waste. Aang and Katara infiltrate the factory and navigate it. They eventually disable the factory and escape. As a result, the waste from the factory is stopped and the village water source is purified."
     },
     {
       "body": "In the morning, a delegation of Fire Nation soldiers attacks the village as punishment for the destruction of their factory. Aang and Katara defend the village from the soldiers and eventually face General Mung, leader of the soldiers. They achieve victory and Mung ends up floating in the river.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Game overview",
+        "Pier Fight"
+      ],
       "text": "In the morning, a delegation of Fire Nation soldiers attacks the village as punishment for the destruction of their factory. Aang and Katara defend the village from the soldiers and eventually face General Mung, leader of the soldiers. They achieve victory and Mung ends up floating in the river."
     },
     {
       "body": "The plan to invade the Fire Nation on the day of the solar eclipse is activated and the small ragtag army led by Aang, Katara, Sokka, Toph, and Hakoda are transported via submarine to the shores of the Fire Nation capital. Sokka and Toph strive to capture a Fire Nation tower in order to cause a distraction for Aang and Toph to infiltrate the Fire Nation underground bunker where Fire Lord Ozai is hiding.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Game overview",
+        "Day of Black Sun"
+      ],
       "text": "The plan to invade the Fire Nation on the day of the solar eclipse is activated and the small ragtag army led by Aang, Katara, Sokka, Toph, and Hakoda are transported via submarine to the shores of the Fire Nation capital. Sokka and Toph strive to capture a Fire Nation tower in order to cause a distraction for Aang and Toph to infiltrate the Fire Nation underground bunker where Fire Lord Ozai is hiding."
     },
     {
       "body": "Aang and Toph find Ozai's secret bunker but finds Azula there instead. Azula reveals two Dai Li agents and sends them against the Avatar and his earthbending master. Aang and Toph manage to subdue the Dai Li, but at that moment, the eclipse ends and Azula uses her renewed firebending to escape.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Game overview",
+        "Fire Lord in Hiding"
+      ],
       "text": "Aang and Toph find Ozai's secret bunker but finds Azula there instead. Azula reveals two Dai Li agents and sends them against the Avatar and his earthbending master. Aang and Toph manage to subdue the Dai Li, but at that moment, the eclipse ends and Azula uses her renewed firebending to escape."
     },
     {
       "body": "Zuko joins the party to teach Aang firebending. He confirms to Sokka that his father Hakoda has been imprisoned in the Fire Nation prison known as the Boiling Rock. Sokka and Zuko utilize a stolen Fire Nation war balloon to reach the prison. The war balloon is destroyed, but they manage to infiltrate the prison and rescue Hakoda as well as Suki. They steal a gondola to escape.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Game overview",
+        "The Boiling Rock"
+      ],
       "text": "Zuko joins the party to teach Aang firebending. He confirms to Sokka that his father Hakoda has been imprisoned in the Fire Nation prison known as the Boiling Rock. Sokka and Zuko utilize a stolen Fire Nation war balloon to reach the prison. The war balloon is destroyed, but they manage to infiltrate the prison and rescue Hakoda as well as Suki. They steal a gondola to escape."
     },
     {
       "body": "Sokka and Zuko face Azula, who is assisted by the chi blocking Ty Lee, on the gondola as they make their escape. Despite Azula's superior firebending and Ty Lee's agility and chi blocking, Sokka and Zuko defeat them and escape.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Game overview",
+        "Escape"
+      ],
       "text": "Sokka and Zuko face Azula, who is assisted by the chi blocking Ty Lee, on the gondola as they make their escape. Despite Azula's superior firebending and Ty Lee's agility and chi blocking, Sokka and Zuko defeat them and escape."
     },
     {
       "body": "After Team Avatar fled to the uninhabited Western Air Temple, Toph and Sokka battle Combustion Man in the ruins, ultimately defeating him by blocking his \"third eye\" from which he blasts beams of super heat.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Game overview",
+        "The Mercenary"
+      ],
       "text": "After Team Avatar fled to the uninhabited Western Air Temple, Toph and Sokka battle Combustion Man in the ruins, ultimately defeating him by blocking his \"third eye\" from which he blasts beams of super heat."
     },
     {
       "body": "Aang, accompanied by Zuko, explores the Western Air Temple for some time, fighting hordes of hog monkeys. They find the Chamber of Elements and solve it, triggering the arrival of Avatar Roku's spirit, who tells Aang that he is ready to fight the Fire Lord, though Aang refuses to take Ozai's life. The Fire Nation attacks and damages the temple with war balloons and airships. They escape on Appa.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Game overview",
+        "The Western Air Temple"
+      ],
       "text": "Aang, accompanied by Zuko, explores the Western Air Temple for some time, fighting hordes of hog monkeys. They find the Chamber of Elements and solve it, triggering the arrival of Avatar Roku's spirit, who tells Aang that he is ready to fight the Fire Lord, though Aang refuses to take Ozai's life. The Fire Nation attacks and damages the temple with war balloons and airships. They escape on Appa."
     },
     {
       "body": "Zuko and Katara board Azula's warship. Azula, who was been named Fire Lord in place of Ozai, who has become the Phoenix King, attacks them with Fire Nation soldiers and Royal Firebenders. After subduing her minions, the two face Azula and defeat her. She manages to blast lightning at Katara, but Zuko jumps in front of her and takes the blast.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Game overview",
+        "Rise of the Phoenix King"
+      ],
       "text": "Zuko and Katara board Azula's warship. Azula, who was been named Fire Lord in place of Ozai, who has become the Phoenix King, attacks them with Fire Nation soldiers and Royal Firebenders. After subduing her minions, the two face Azula and defeat her. She manages to blast lightning at Katara, but Zuko jumps in front of her and takes the blast."
     },
     {
@@ -741,52 +828,1372 @@
           "body": "Wulong Forest",
           "key": "${link_0}",
           "target": {
-            "href": "Wulong_Forest",
+            "external": false,
+            "href": "/wiki/Wulong_Forest",
             "page": "Wulong_Forest"
           }
         }
       ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Game overview",
+        "Into the Inferno"
+      ],
       "text": "In Wulong Forest in the Earth Kingdom, Phoenix King Ozai battles with Aang and Katara, preparing to use the power of Sozin's Comet to burn the Earth Kingdom. Using their bending, Aang and Katara defeat Ozai, and Aang takes away his bending powers. In his jail cell, Ozai rants that as the Phoenix King, he would destroy them all when one of the prisoners asks if he will have his dinner. Peace falls over the world, and Zuko is crowned Fire Lord."
+    },
+    {
+      "body": "Levels and Boss Fights - Players can experience both regular levels and levels devoted to fighting bosses.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "Levels and Boss Fights - Players can experience both regular levels and levels devoted to fighting bosses."
+    },
+    {
+      "body": "Special Combat Moves \u2013 The player can perform massive martial arts moves with their favorite characters from the series. With exciting new Wii functionality, master all four elements (water, earth, fire, air) using the Wii remote and Nunchuck.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "Special Combat Moves \u2013 The player can perform massive martial arts moves with their favorite characters from the series. With exciting new Wii functionality, master all four elements (water, earth, fire, air) using the Wii remote and Nunchuck."
+    },
+    {
+      "body": "All new flying levels \u2013 The player can fly on gliders and explore the never seen parts of the ${link_0} like never before. Levels are based on some of the actual episodes from Book Three:",
+      "links": [
+        {
+          "body": "Avatar World",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Earth",
+            "page": "Earth"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "All new flying levels \u2013 The player can fly on gliders and explore the never seen parts of the Avatar World like never before. Levels are based on some of the actual episodes from Book Three:"
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "The Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Awakening",
+            "page": "The_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "\"The Awakening\""
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "The Painted Lady",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Painted_Lady",
+            "page": "The_Painted_Lady"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "\"The Painted Lady\""
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "The Runaway",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Runaway",
+            "page": "The_Runaway"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "\"The Runaway\""
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "The Puppetmaster",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Puppetmaster",
+            "page": "The_Puppetmaster"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "\"The Puppetmaster\""
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "\"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "\"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "The Firebending Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Firebending_Masters",
+            "page": "The_Firebending_Masters"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "\"The Firebending Masters\""
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_1",
+            "page": "The_Boiling_Rock%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "\"The Boiling Rock, Part 1\""
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "\"The Boiling Rock, Part 2\""
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 1: The Phoenix King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_1__The_Phoenix_King",
+            "page": "Sozin%27s_Comet%2c_Part_1__The_Phoenix_King"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "\"Sozin's Comet, Part 1: The Phoenix King\""
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 3: Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_3__Into_the_Inferno",
+            "page": "Sozin%27s_Comet%2c_Part_3__Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "\"Sozin's Comet, Part 3: Into the Inferno\""
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 4: Avatar Aang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
+            "page": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Features"
+      ],
+      "text": "\"Sozin's Comet, Part 4: Avatar Aang\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Aang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Aang_(games)",
+            "page": "Aang_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Playable characters"
+      ],
+      "text": "Aang"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Katara",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Katara_(games)",
+            "page": "Katara_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Playable characters"
+      ],
+      "text": "Katara"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sokka",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sokka_(games)",
+            "page": "Sokka_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Playable characters"
+      ],
+      "text": "Sokka"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Toph",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Toph_Beifong_(games)",
+            "page": "Toph_Beifong_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Playable characters"
+      ],
+      "text": "Toph"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Zuko",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_(games)",
+            "page": "Zuko_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Playable characters"
+      ],
+      "text": "Zuko"
+    },
+    {
+      "body": "${link_0} (on the World Map)",
+      "links": [
+        {
+          "body": "Appa",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa",
+            "page": "Appa"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Playable characters"
+      ],
+      "text": "Appa (on the World Map)"
+    },
+    {
+      "body": "General ${link_0} - Pier Fight (Fought with Aang and Katara)",
+      "links": [
+        {
+          "body": "Mung",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Mung",
+            "page": "Mung"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Bosses"
+      ],
+      "text": "General Mung - Pier Fight (Fought with Aang and Katara)"
+    },
+    {
+      "body": "${link_0}'s ${link_1} agents - Fire Lord in Hiding (Fought with Aang and Toph)",
+      "links": [
+        {
+          "body": "Azula",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Azula_(games)",
+            "page": "Azula_(games)"
+          }
+        },
+        {
+          "body": "Dai Li",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dai_Li",
+            "page": "Dai_Li"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Bosses"
+      ],
+      "text": "Azula's Dai Li agents - Fire Lord in Hiding (Fought with Aang and Toph)"
+    },
+    {
+      "body": "${link_0} & Azula - Escape (Fought with Sokka and Zuko)",
+      "links": [
+        {
+          "body": "Ty Lee",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ty_Lee",
+            "page": "Ty_Lee"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Bosses"
+      ],
+      "text": "Ty Lee & Azula - Escape (Fought with Sokka and Zuko)"
+    },
+    {
+      "body": "${link_0} - The Mercenary (Fought with Sokka and Toph)",
+      "links": [
+        {
+          "body": "Combustion Man",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Combustion_Man",
+            "page": "Combustion_Man"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Bosses"
+      ],
+      "text": "Combustion Man - The Mercenary (Fought with Sokka and Toph)"
+    },
+    {
+      "body": "${link_0} Azula - Rise of The Phoenix King (Fought with Katara and Zuko)",
+      "links": [
+        {
+          "body": "Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Fire_Lord",
+            "page": "Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Bosses"
+      ],
+      "text": "Fire Lord Azula - Rise of The Phoenix King (Fought with Katara and Zuko)"
+    },
+    {
+      "body": "${link_0} ${link_1} - Into the Inferno (Fought with Aang and Katara)",
+      "links": [
+        {
+          "body": "Phoenix King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Phoenix_King",
+            "page": "Phoenix_King"
+          }
+        },
+        {
+          "body": "Ozai",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ozai",
+            "page": "Ozai"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Bosses"
+      ],
+      "text": "Phoenix King Ozai - Into the Inferno (Fought with Aang and Katara)"
     },
     {
       "body": "Levels are different according to the platform on which the player is playing it.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels"
+      ],
       "text": "Levels are different according to the platform on which the player is playing it."
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "The Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Awakening",
+            "page": "The_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for PS2 and Wii"
+      ],
+      "text": "\"The Awakening\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Arms Factory",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Fire_Nation_Army_factory",
+            "page": "Fire_Nation_Army_factory"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for PS2 and Wii"
+      ],
+      "text": "The Arms Factory"
+    },
+    {
+      "body": "Pier Fight",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for PS2 and Wii"
+      ],
+      "text": "Pier Fight"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Day of Black Sun",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Invasion_of_the_Fire_Nation",
+            "page": "Invasion_of_the_Fire_Nation"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for PS2 and Wii"
+      ],
+      "text": "Day of Black Sun"
+    },
+    {
+      "body": "Firelord in Hiding",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for PS2 and Wii"
+      ],
+      "text": "Firelord in Hiding"
+    },
+    {
+      "body": "The ${link_0}",
+      "links": [
+        {
+          "body": "Boiling Rock",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Boiling_Rock",
+            "page": "Boiling_Rock"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for PS2 and Wii"
+      ],
+      "text": "The Boiling Rock"
+    },
+    {
+      "body": "Escape",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for PS2 and Wii"
+      ],
+      "text": "Escape"
+    },
+    {
+      "body": "The ${link_0}",
+      "links": [
+        {
+          "body": "Mercenary",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Combustion_Man",
+            "page": "Combustion_Man"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for PS2 and Wii"
+      ],
+      "text": "The Mercenary"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Western Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Western_Air_Temple",
+            "page": "The_Western_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for PS2 and Wii"
+      ],
+      "text": "Western Air Temple"
+    },
+    {
+      "body": "Rise of The Phoenix King",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for PS2 and Wii"
+      ],
+      "text": "Rise of The Phoenix King"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_3__Into_the_Inferno",
+            "page": "Sozin%27s_Comet%2c_Part_3__Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for PS2 and Wii"
+      ],
+      "text": "Into the Inferno"
+    },
+    {
+      "body": "The Awakening",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for DS"
+      ],
+      "text": "The Awakening"
+    },
+    {
+      "body": "The Arms Factory",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for DS"
+      ],
+      "text": "The Arms Factory"
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "The Runaway",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Runaway",
+            "page": "The_Runaway"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for DS"
+      ],
+      "text": "\"The Runaway\""
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "The Puppetmaster",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Puppetmaster",
+            "page": "The_Puppetmaster"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for DS"
+      ],
+      "text": "\"The Puppetmaster\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Invasion_of_the_Fire_Nation",
+            "page": "Invasion_of_the_Fire_Nation"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for DS"
+      ],
+      "text": "The Invasion"
+    },
+    {
+      "body": "The Secret Bunker",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for DS"
+      ],
+      "text": "The Secret Bunker"
+    },
+    {
+      "body": "Combustion Man",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for DS"
+      ],
+      "text": "Combustion Man"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sun Warrior Ruins",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sun_Warriors%27_ancient_city",
+            "page": "Sun_Warriors%27_ancient_city"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for DS"
+      ],
+      "text": "Sun Warrior Ruins"
+    },
+    {
+      "body": "The Boiling Rock",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for DS"
+      ],
+      "text": "The Boiling Rock"
+    },
+    {
+      "body": "Airship Sabotage",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for DS"
+      ],
+      "text": "Airship Sabotage"
+    },
+    {
+      "body": "${link_0} ${link_1}",
+      "links": [
+        {
+          "body": "Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Fire_Lord",
+            "page": "Fire_Lord"
+          }
+        },
+        {
+          "body": "Azula",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Azula_(games)",
+            "page": "Azula_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for DS"
+      ],
+      "text": "Fire Lord Azula"
+    },
+    {
+      "body": "${link_0} ${link_1}",
+      "links": [
+        {
+          "body": "Phoenix King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Phoenix_King",
+            "page": "Phoenix_King"
+          }
+        },
+        {
+          "body": "Ozai",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ozai",
+            "page": "Ozai"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Levels",
+        "Levels for DS"
+      ],
+      "text": "Phoenix King Ozai"
     },
     {
       "body": "United States",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
       "text": "United States"
+    },
+    {
+      "body": "PS2: October 13, 2008 (released)",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
+      "text": "PS2: October 13, 2008 (released)"
+    },
+    {
+      "body": "DS: November 10, 2008 (released)",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
+      "text": "DS: November 10, 2008 (released)"
+    },
+    {
+      "body": "Wii: October 13, 2008 (released)",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
+      "text": "Wii: October 13, 2008 (released)"
     },
     {
       "body": "United Kingdom",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
       "text": "United Kingdom"
+    },
+    {
+      "body": "DS: November 7, 2008 (released)",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
+      "text": "DS: November 7, 2008 (released)"
+    },
+    {
+      "body": "PS2: October 31, 2008 (released)",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
+      "text": "PS2: October 31, 2008 (released)"
+    },
+    {
+      "body": "Wii: October 31, 2008 (released)",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
+      "text": "Wii: October 31, 2008 (released)"
     },
     {
       "body": "Australia",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
       "text": "Australia"
+    },
+    {
+      "body": "PS2: November 2, 2008 (released)",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
+      "text": "PS2: November 2, 2008 (released)"
+    },
+    {
+      "body": "DS\u00a0:November 6, 2008 (released)",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
+      "text": "DS\u00a0:November 6, 2008 (released)"
+    },
+    {
+      "body": "Wii: October 30, 2008 (released)",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
+      "text": "Wii: October 30, 2008 (released)"
     },
     {
       "body": "New Zealand",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
       "text": "New Zealand"
+    },
+    {
+      "body": "DS: November 7, 2008 (released)",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
+      "text": "DS: November 7, 2008 (released)"
+    },
+    {
+      "body": "PS2: October 31, 2008 (released)",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
+      "text": "PS2: October 31, 2008 (released)"
+    },
+    {
+      "body": "Wii: October 31, 2008 (released)",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
+      "text": "Wii: October 31, 2008 (released)"
     },
     {
       "body": "Japan: December 4, 2008 (confirmed)",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Release dates"
+      ],
       "text": "Japan: December 4, 2008 (confirmed)"
+    },
+    {
+      "body": "Max coins: 66639224",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Secret codes"
+      ],
+      "text": "Max coins: 66639224"
+    },
+    {
+      "body": "All concept art: 27858343",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Secret codes"
+      ],
+      "text": "All concept art: 27858343"
+    },
+    {
+      "body": "All chapters: 52993833",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Secret codes"
+      ],
+      "text": "All chapters: 52993833"
+    },
+    {
+      "body": "All new characters: 76345467",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Secret codes"
+      ],
+      "text": "All new characters: 76345467"
+    },
+    {
+      "body": "All shop items: 34737253",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Secret codes"
+      ],
+      "text": "All shop items: 34737253"
+    },
+    {
+      "body": "Elemental room solutions:\n Air: 1234\n Fire: 3124\n Earth: 3421\n Water: 4312",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Secret codes"
+      ],
+      "text": "Elemental room solutions:\n Air: 1234\n Fire: 3124\n Earth: 3421\n Water: 4312"
+    },
+    {
+      "body": "Air: 1234",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Secret codes"
+      ],
+      "text": "Air: 1234"
+    },
+    {
+      "body": "Fire: 3124",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Secret codes"
+      ],
+      "text": "Fire: 3124"
+    },
+    {
+      "body": "Earth: 3421",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Secret codes"
+      ],
+      "text": "Earth: 3421"
+    },
+    {
+      "body": "Water: 4312",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Secret codes"
+      ],
+      "text": "Water: 4312"
+    },
+    {
+      "body": "Go into the Avatar State: A A B (Note: Only works on the last level of the Wii version)",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Secret codes"
+      ],
+      "text": "Go into the Avatar State: A A B (Note: Only works on the last level of the Wii version)"
     },
     {
       "body": "The game received mixed reviews from critics, with much of the praise going to the animation and strong controls. IGN stated in their review it was a \"fun game\" that \"wasn't bad\", but added it was mainly best suited for fans of the show.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Critical reception"
+      ],
       "text": "The game received mixed reviews from critics, with much of the praise going to the animation and strong controls. IGN stated in their review it was a \"fun game\" that \"wasn't bad\", but added it was mainly best suited for fans of the show."
     },
     {
-      "body": "IGN",
+      "body": "In Rise of the Phoenix, when Zuko and Katara face Azula, Katara is wearing the outfit she wore during the invasion. However, in the cutscene, when Zuko jumps in front of Azula's lightning to save Katara, she is wearing her Fire Nation disguise.",
       "links": [],
-      "text": "IGN"
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Goofs"
+      ],
+      "text": "In Rise of the Phoenix, when Zuko and Katara face Azula, Katara is wearing the outfit she wore during the invasion. However, in the cutscene, when Zuko jumps in front of Azula's lightning to save Katara, she is wearing her Fire Nation disguise."
+    },
+    {
+      "body": "In the DS version of the level \"The Runaway\", the player is playing with Katara and Toph; however, the 'switch icon' shows them playing with Aang and Toph.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Goofs"
+      ],
+      "text": "In the DS version of the level \"The Runaway\", the player is playing with Katara and Toph; however, the 'switch icon' shows them playing with Aang and Toph."
+    },
+    {
+      "body": "Unlike its two predecessors, this game more closely follows the canon of the series, though there are some differences:\n In the game, Aang is joined by Katara in the final fight against Ozai, while he faced the firebender by himself in the series.\n In the game, after Aang defeats Ozai by taking his bending, Zuko meets up with the Avatar at Wulong Forest. This did not happen in the series.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Trivia"
+      ],
+      "text": "Unlike its two predecessors, this game more closely follows the canon of the series, though there are some differences:\n In the game, Aang is joined by Katara in the final fight against Ozai, while he faced the firebender by himself in the series.\n In the game, after Aang defeats Ozai by taking his bending, Zuko meets up with the Avatar at Wulong Forest. This did not happen in the series."
+    },
+    {
+      "body": "In the game, Aang is joined by Katara in the final fight against Ozai, while he faced the firebender by himself in the series.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Trivia"
+      ],
+      "text": "In the game, Aang is joined by Katara in the final fight against Ozai, while he faced the firebender by himself in the series."
+    },
+    {
+      "body": "In the game, after Aang defeats Ozai by taking his bending, Zuko meets up with the Avatar at Wulong Forest. This did not happen in the series.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Trivia"
+      ],
+      "text": "In the game, after Aang defeats Ozai by taking his bending, Zuko meets up with the Avatar at Wulong Forest. This did not happen in the series."
+    },
+    {
+      "body": "In The Boiling Rock level of the game, Sokka is wearing his Fire Nation disguise, while he wore his sleeveless Water Tribe outfit before donning a prison guard uniform as a disguise in the series.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Trivia"
+      ],
+      "text": "In The Boiling Rock level of the game, Sokka is wearing his Fire Nation disguise, while he wore his sleeveless Water Tribe outfit before donning a prison guard uniform as a disguise in the series."
+    },
+    {
+      "body": "This game also features a shop in which one can purchase music, pictures, character profiles, and videos.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Trivia"
+      ],
+      "text": "This game also features a shop in which one can purchase music, pictures, character profiles, and videos."
+    },
+    {
+      "body": "In the character bios displayed in the gallery on Ember Island, every member of Team Avatar, save for Aang, is wearing their Fire Nation disguise, even though Toph never wore hers in-game.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Trivia"
+      ],
+      "text": "In the character bios displayed in the gallery on Ember Island, every member of Team Avatar, save for Aang, is wearing their Fire Nation disguise, even though Toph never wore hers in-game."
+    },
+    {
+      "body": "This game is the only of the three games in which Katara does not do a prologue narration of any kind.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "Trivia"
+      ],
+      "text": "This game is the only of the three games in which Katara does not do a prologue narration of any kind."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "List of Avatar games",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar_games",
+            "page": "List_of_Avatar_games"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "See also"
+      ],
+      "text": "List of Avatar games"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wikipedia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender_-_Into_the_Inferno",
+            "page": "http://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender_-_Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "External links"
+      ],
+      "text": "Wikipedia"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gamer Info",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://gamer-info.com/game/avatar-the-last-airbender-into-the-inferno/",
+            "page": "http://gamer-info.com/game/avatar-the-last-airbender-into-the-inferno/"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "External links"
+      ],
+      "text": "Gamer Info"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gametrailers.com",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.gametrailers.com/game/6597",
+            "page": "http://www.gametrailers.com/game/6597"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "External links"
+      ],
+      "text": "Gametrailers.com"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "nwiizone",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.nwiizone.com/nintendo-wii/nwii/avatar-the-last-airbender-into-the-inferno",
+            "page": "http://www.nwiizone.com/nintendo-wii/nwii/avatar-the-last-airbender-into-the-inferno"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "External links"
+      ],
+      "text": "nwiizone"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "THQ",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.thq.com/games/gameinfo.php?id=1340",
+            "page": "http://www.thq.com/games/gameinfo.php?id=1340"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender \u2013 Into the Inferno",
+        "External links"
+      ],
+      "text": "THQ"
     }
   ],
   "source": {

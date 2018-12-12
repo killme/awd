@@ -3,14 +3,16 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Locations (film)",
       "target": {
-        "href": "Category_Locations_(film)",
+        "external": false,
+        "href": "/wiki/Category_Locations_(film)",
         "page": "Category_Locations_(film)"
       }
     }
@@ -18,18 +20,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "The Northern Water Tribe's people are entirely contained within one city located at the North Pole.",
-      "links": [],
-      "text": "The Northern Water Tribe's people are entirely contained within one city located at the North Pole."
-    },
-    {
       "body": "The Northern Water Tribe is the northern division of the ${link_0}, and the sister of the ${link_1}.",
       "links": [
         {
           "body": "Water Tribes",
           "key": "${link_0}",
           "target": {
-            "href": "Water_Tribe",
+            "external": false,
+            "href": "/wiki/Water_Tribe",
             "page": "Water_Tribe"
           }
         },
@@ -37,10 +35,14 @@
           "body": "Southern Water Tribe",
           "key": "${link_1}",
           "target": {
-            "href": "Film_Southern_Water_Tribe",
+            "external": false,
+            "href": "/wiki/Film_Southern_Water_Tribe",
             "page": "Film_Southern_Water_Tribe"
           }
         }
+      ],
+      "section": [
+        "Northern Water Tribe"
       ],
       "text": "The Northern Water Tribe is the northern division of the Water Tribes, and the sister of the Southern Water Tribe."
     },
@@ -51,7 +53,8 @@
           "body": "Fire Nation",
           "key": "${link_0}",
           "target": {
-            "href": "Film_Fire_Nation",
+            "external": false,
+            "href": "/wiki/Film_Fire_Nation",
             "page": "Film_Fire_Nation"
           }
         },
@@ -59,7 +62,8 @@
           "body": "Hundred Year War",
           "key": "${link_1}",
           "target": {
-            "href": "Hundred_Year_War",
+            "external": false,
+            "href": "/wiki/Hundred_Year_War",
             "page": "Hundred_Year_War"
           }
         },
@@ -67,21 +71,32 @@
           "body": "Siege of the North",
           "key": "${link_2}",
           "target": {
-            "href": "Siege_of_the_North",
+            "external": false,
+            "href": "/wiki/Siege_of_the_North",
             "page": "Siege_of_the_North"
           }
         }
+      ],
+      "section": [
+        "Northern Water Tribe"
       ],
       "text": "The city is the only surviving city of the Water Tribe. Built inside high walls of ice and in inhospitable tundra terrain, the Northern Water Tribe prospers in its isolation. No attack by the Fire Nation on the city during the Hundred Year War has ever succeeded, including the massive Siege of the North."
     },
     {
       "body": "Unlike its sister tribe, the Northern Water Tribe is largely populated and relatively prosperous.",
       "links": [],
+      "section": [
+        "Northern Water Tribe"
+      ],
       "text": "Unlike its sister tribe, the Northern Water Tribe is largely populated and relatively prosperous."
     },
     {
       "body": "This tribe was attacked many times during the war but always survived the attacks presumably because their raids were not as consistent as it was for their sister tribe.",
       "links": [],
+      "section": [
+        "Northern Water Tribe",
+        "History"
+      ],
       "text": "This tribe was attacked many times during the war but always survived the attacks presumably because their raids were not as consistent as it was for their sister tribe."
     },
     {
@@ -91,7 +106,8 @@
           "body": "Aang",
           "key": "${link_0}",
           "target": {
-            "href": "Film_Aang",
+            "external": false,
+            "href": "/wiki/Film_Aang",
             "page": "Film_Aang"
           }
         },
@@ -99,7 +115,8 @@
           "body": "Katara",
           "key": "${link_1}",
           "target": {
-            "href": "Film_Katara",
+            "external": false,
+            "href": "/wiki/Film_Katara",
             "page": "Film_Katara"
           }
         },
@@ -107,7 +124,8 @@
           "body": "Sokka",
           "key": "${link_2}",
           "target": {
-            "href": "Film_Sokka",
+            "external": false,
+            "href": "/wiki/Film_Sokka",
             "page": "Film_Sokka"
           }
         },
@@ -115,7 +133,8 @@
           "body": "waterbending",
           "key": "${link_3}",
           "target": {
-            "href": "Waterbending",
+            "external": false,
+            "href": "/wiki/Waterbending",
             "page": "Waterbending"
           }
         },
@@ -123,10 +142,15 @@
           "body": "Pakku",
           "key": "${link_4}",
           "target": {
-            "href": "Film_Pakku",
+            "external": false,
+            "href": "/wiki/Film_Pakku",
             "page": "Film_Pakku"
           }
         }
+      ],
+      "section": [
+        "Northern Water Tribe",
+        "History"
       ],
       "text": "In 99 AG, the tribe was visited by Avatar Aang, Katara and Sokka. During their stay, Aang and Katara were taught waterbending by Master Pakku."
     },
@@ -137,7 +161,8 @@
           "body": "Zhao",
           "key": "${link_0}",
           "target": {
-            "href": "Film_Zhao",
+            "external": false,
+            "href": "/wiki/Film_Zhao",
             "page": "Film_Zhao"
           }
         },
@@ -145,7 +170,8 @@
           "body": "Tui",
           "key": "${link_1}",
           "target": {
-            "href": "Tui",
+            "external": false,
+            "href": "/wiki/Tui",
             "page": "Tui"
           }
         },
@@ -153,7 +179,8 @@
           "body": "Yue",
           "key": "${link_2}",
           "target": {
-            "href": "Film_Yue",
+            "external": false,
+            "href": "/wiki/Film_Yue",
             "page": "Film_Yue"
           }
         },
@@ -161,10 +188,15 @@
           "body": "Avatar State",
           "key": "${link_3}",
           "target": {
-            "href": "Avatar#Avatar_State",
+            "external": false,
+            "href": "/wiki/Avatar#Avatar_State",
             "page": "Avatar"
           }
         }
+      ],
+      "section": [
+        "Northern Water Tribe",
+        "History"
       ],
       "text": "The tribe was soon attacked by a large armada of Fire Navy ships and a siege was initiated on the capital city. The tribe did their best to defend it and even started to win as nightfall arrived. However, Zhao later killed Tui, the moon spirit, which resulted in the waterbenders losing their bending abilities. Princess Yue, who held part of the power of the Moon Spirit, sacrificed her life to revive Tui. Aang subsequently used the Avatar State to cause a huge tsunami to wipe out the fleet."
     }

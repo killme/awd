@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "How I Got Into College (1989)",
+          "body": "${link_0} (1989)",
           "extra": "(1989)",
           "extra_text": "(1989)",
-          "links": [],
+          "links": [
+            {
+              "body": "How I Got Into College",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0097530",
+                "page": "http://www.imdb.com/find?q=tt0097530"
+              }
+            }
+          ],
           "text": "How I Got Into College (1989)",
-          "value": "How I Got Into College",
+          "value": "${link_0}",
           "value_text": "How I Got Into College"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0083024",
+                "page": "http://www.imdb.com/find?q=nm0083024"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Gregg_Binkley",
+                "page": "http://en.wikipedia.org/wiki/Gregg_Binkley"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -77,19 +110,402 @@
   ],
   "paragraphs": [
     {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "The Legend of Korra credits",
+        "Kong"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "A Whole New Ballgame",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112224",
+            "page": "http://www.imdb.com/find?q=tt0112224"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "A Whole New Ballgame"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Into the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292806",
+            "page": "http://www.imdb.com/find?q=tt0292806"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Into the Night"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Malcom in the Middle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0212671",
+            "page": "http://www.imdb.com/find?q=tt0212671"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Malcom in the Middle"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Murder, She Wrote",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086765",
+            "page": "http://www.imdb.com/find?q=tt0086765"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Murder, She Wrote"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "My Name Is Earl",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460091",
+            "page": "http://www.imdb.com/find?q=tt0460091"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "My Name Is Earl"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Raising Hope",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1615919",
+            "page": "http://www.imdb.com/find?q=tt1615919"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Raising Hope"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Revenge of the Nerds III: The Next Generation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105251",
+            "page": "http://www.imdb.com/find?q=tt0105251"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Revenge of the Nerds III: The Next Generation (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Yes, Dear",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247144",
+            "page": "http://www.imdb.com/find?q=tt0247144"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Yes, Dear"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "It's a Horrible Life",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1753963",
+            "page": "http://www.imdb.com/find?q=tt1753963"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "It's a Horrible Life (2010; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "State of Play",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0473705",
+            "page": "http://www.imdb.com/find?q=tt0473705"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "State of Play (2009)"
+    },
+    {
+      "body": "${link_0} (2007; short)",
+      "links": [
+        {
+          "body": "The Infamous Buddy Blade",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1139794",
+            "page": "http://www.imdb.com/find?q=tt1139794"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Infamous Buddy Blade (2007; short)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Hidden Secrets",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0805190",
+            "page": "http://www.imdb.com/find?q=tt0805190"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hidden Secrets (2006)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Galaxy Quest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0177789",
+            "page": "http://www.imdb.com/find?q=tt0177789"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Galaxy Quest (1999)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Dracula: Dead and Loving It",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112896",
+            "page": "http://www.imdb.com/find?q=tt0112896"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dracula: Dead and Loving It (1995)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "C.H.U.D. II - Bud the Chud",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0097001",
+            "page": "http://www.imdb.com/find?q=tt0097001"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "C.H.U.D. II - Bud the Chud (1989)"
+    },
+    {
+      "body": "${link_0} (short - director and writer)",
+      "links": [
+        {
+          "body": "It's a Horrible Life",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1753963",
+            "page": "http://www.imdb.com/find?q=tt1753963"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "It's a Horrible Life (short - director and writer)"
+    },
+    {
       "body": "Binkley grew up in Topeka, Kansas, and graduated from Washburn Rural High School.",
       "links": [],
+      "section": [
+        "Gregg Binkley",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Binkley grew up in Topeka, Kansas, and graduated from Washburn Rural High School."
     },
     {
       "body": "Binkley is best known for his roles as Kenny James on the NBC sitcom My Name Is Earl and as Dan, the Del Taco spokesperson. He has also had guest spots on Gilmore Girls, Malcolm in the Middle, Sabrina, the Teenage Witch, Yes, Dear, The Drew Carey Show, Full House, and Wizards of Waverly Place.",
       "links": [],
+      "section": [
+        "Gregg Binkley",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Binkley is best known for his roles as Kenny James on the NBC sitcom My Name Is Earl and as Dan, the Del Taco spokesperson. He has also had guest spots on Gilmore Girls, Malcolm in the Middle, Sabrina, the Teenage Witch, Yes, Dear, The Drew Carey Show, Full House, and Wizards of Waverly Place."
     },
     {
       "body": "Binkley once held a job making celebrity impersonation phone calls, posing as Don Knotts character Barney Fife. Binkley also did this impersonation in Behind the Camera: The Unauthorized Story of Three's Company.",
       "links": [],
+      "section": [
+        "Gregg Binkley",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Binkley once held a job making celebrity impersonation phone calls, posing as Don Knotts character Barney Fife. Binkley also did this impersonation in Behind the Camera: The Unauthorized Story of Three's Company."
+    },
+    {
+      "body": "2010: Won a Method Festival Award for Tic (Best Ensemble Cast)",
+      "links": [],
+      "section": [
+        "Gregg Binkley",
+        "Awards"
+      ],
+      "text": "2010: Won a Method Festival Award for Tic (Best Ensemble Cast)"
+    },
+    {
+      "body": "In the credits for \"${link_0}\", Binkley's name is misspelled \"Greg Binkley\".",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Gregg Binkley",
+        "Trivia"
+      ],
+      "text": "In the credits for \"Long Live the Queen\", Binkley's name is misspelled \"Greg Binkley\"."
     }
   ],
   "source": {

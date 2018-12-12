@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "True Blood (2010)",
+          "body": "${link_0} (2010)",
           "extra": "(2010)",
           "extra_text": "(2010)",
-          "links": [],
+          "links": [
+            {
+              "body": "True Blood",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0844441",
+                "page": "http://www.imdb.com/find?q=tt0844441"
+              }
+            }
+          ],
           "text": "True Blood (2010)",
-          "value": "True Blood",
+          "value": "${link_0}",
           "value_text": "True Blood"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1934618",
+                "page": "http://www.imdb.com/find?q=nm1934618"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Max_Charles",
+                "page": "http://en.wikipedia.org/wiki/Max_Charles"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -77,18 +110,250 @@
   ],
   "paragraphs": [
     {
+      "body": "402. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Korra Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Korra_Alone",
+            "page": "Korra_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Max Charles",
+        "The Legend of Korra credits",
+        "Skeptical spirit"
+      ],
+      "text": "402. \"Korra Alone\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Adventure Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1305826",
+            "page": "http://www.imdb.com/find?q=tt1305826"
+          }
+        }
+      ],
+      "section": [
+        "Max Charles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Adventure Time"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Community",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1439629",
+            "page": "http://www.imdb.com/find?q=tt1439629"
+          }
+        }
+      ],
+      "section": [
+        "Max Charles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Community"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hot in Cleveland",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1583607",
+            "page": "http://www.imdb.com/find?q=tt1583607"
+          }
+        }
+      ],
+      "section": [
+        "Max Charles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hot in Cleveland"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "November Christmas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1708658",
+            "page": "http://www.imdb.com/find?q=tt1708658"
+          }
+        }
+      ],
+      "section": [
+        "Max Charles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "November Christmas (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Raising Hope",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1615919",
+            "page": "http://www.imdb.com/find?q=tt1615919"
+          }
+        }
+      ],
+      "section": [
+        "Max Charles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Raising Hope"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Amazing Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0948470",
+            "page": "http://www.imdb.com/find?q=tt0948470"
+          }
+        }
+      ],
+      "section": [
+        "Max Charles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Amazing Spider-Man"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Neighbors",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2182229",
+            "page": "http://www.imdb.com/find?q=tt2182229"
+          }
+        }
+      ],
+      "section": [
+        "Max Charles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Neighbors"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "The Well",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2558318",
+            "page": "http://www.imdb.com/find?q=tt2558318"
+          }
+        }
+      ],
+      "section": [
+        "Max Charles",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Well (2014)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "The Three Stooges",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0383010",
+            "page": "http://www.imdb.com/find?q=tt0383010"
+          }
+        }
+      ],
+      "section": [
+        "Max Charles",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Three Stooges (2012)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Least Among Saints",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1937222",
+            "page": "http://www.imdb.com/find?q=tt1937222"
+          }
+        }
+      ],
+      "section": [
+        "Max Charles",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Least Among Saints (2012)"
+    },
+    {
       "body": "Charles has three brothers and received his first audition after a producer asked one of his brothers to audition for a role; Charles asked his mother if he could accompany his brother and was subsequently hired for his first acting role. He later appeared in a scene with his three brothers in The Three Stooges.",
       "links": [],
+      "section": [
+        "Max Charles",
+        "Biographical information"
+      ],
       "text": "Charles has three brothers and received his first audition after a producer asked one of his brothers to audition for a role; Charles asked his mother if he could accompany his brother and was subsequently hired for his first acting role. He later appeared in a scene with his three brothers in The Three Stooges."
     },
     {
       "body": "Charles' other film roles include November Christmas, Spooky Buddies, Least Among Saints, White Space, and a young Peter Parker in The Amazing Spider-Man. In 2014, Charles voiced Sherman in Mr. Peabody & Sherman.",
       "links": [],
+      "section": [
+        "Max Charles",
+        "Biographical information"
+      ],
       "text": "Charles' other film roles include November Christmas, Spooky Buddies, Least Among Saints, White Space, and a young Peter Parker in The Amazing Spider-Man. In 2014, Charles voiced Sherman in Mr. Peabody & Sherman."
     },
     {
       "body": "On television, Charles first appeared on the HBO series True Blood in 2010, and has also guest starred on Raising Hope, Community, Hot in Cleveland, the Disney Channel show Jessie, and the ABC comedy series The Neighbors.",
       "links": [],
+      "section": [
+        "Max Charles",
+        "Biographical information"
+      ],
       "text": "On television, Charles first appeared on the HBO series True Blood in 2010, and has also guest starred on Raising Hope, Community, Hot in Cleveland, the Disney Channel show Jessie, and the ABC comedy series The Neighbors."
     }
   ],

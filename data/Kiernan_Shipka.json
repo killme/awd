@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Monk (2006)",
+          "body": "${link_0} (2006)",
           "extra": "(2006)",
           "extra_text": "(2006)",
-          "links": [],
+          "links": [
+            {
+              "body": "Monk",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0312172",
+                "page": "http://www.imdb.com/find?q=tt0312172"
+              }
+            }
+          ],
           "text": "Monk (2006)",
-          "value": "Monk",
+          "value": "${link_0}",
           "value_text": "Monk"
         }
       ]
@@ -69,57 +82,117 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2215143",
+                "page": "http://www.imdb.com/find?q=nm2215143"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Kiernan_Shipka",
+                "page": "http://en.wikipedia.org/wiki/Kiernan_Shipka"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/kiernanshipka#",
+                "page": "http://instagram.com/kiernanshipka"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://kiernanshipka.com/",
+                "page": "http://kiernanshipka.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://itskiernanshipka.tumblr.com/",
+                "page": "http://itskiernanshipka.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/kiernanshipka",
+                "page": "https://twitter.com/kiernanshipka"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -127,23 +200,656 @@
   ],
   "paragraphs": [
     {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_1",
+            "page": "Civil_Wars%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "203. \"Civil Wars, Part 1\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cory in the House",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0805815",
+            "page": "http://www.imdb.com/find?q=tt0805815"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Cory in the House"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Don't Trust the B---- in Apartment 23",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1819509",
+            "page": "http://www.imdb.com/find?q=tt1819509"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Don't Trust the B---- in Apartment 23"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Flowers in the Attic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3074694",
+            "page": "http://www.imdb.com/find?q=tt3074694"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Flowers in the Attic (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0813715",
+            "page": "http://www.imdb.com/find?q=tt0813715"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jimmy Kimmel Live!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0320037",
+            "page": "http://www.imdb.com/find?q=tt0320037"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jimmy Kimmel Live!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mad Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0804503",
+            "page": "http://www.imdb.com/find?q=tt0804503"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mad Men"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "MADtv",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112056",
+            "page": "http://www.imdb.com/find?q=tt0112056"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "MADtv"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Monk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312172",
+            "page": "http://www.imdb.com/find?q=tt0312172"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Monk"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Smooch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1754513",
+            "page": "http://www.imdb.com/find?q=tt1754513"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Smooch (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sofia the First",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2136138",
+            "page": "http://www.imdb.com/find?q=tt2136138"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sofia the First"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Angriest Man in Suburbia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0757150",
+            "page": "http://www.imdb.com/find?q=tt0757150"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Angriest Man in Suburbia (TV movie)"
+    },
+    {
+      "body": "${link_0} (2015; English dub)",
+      "links": [
+        {
+          "body": "When Marnie Was There",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3398268",
+            "page": "http://www.imdb.com/find?q=tt3398268"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "When Marnie Was There (2015; English dub)"
+    },
+    {
+      "body": "${link_0} (2014; short)",
+      "links": [
+        {
+          "body": "The Edge of the Woods",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3268422",
+            "page": "http://www.imdb.com/find?q=tt3268422"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Edge of the Woods (2014; short)"
+    },
+    {
+      "body": "${link_0} (2013; short)",
+      "links": [
+        {
+          "body": "Child Star Psychologist 2 with Kiernan Shipka",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3250234",
+            "page": "http://www.imdb.com/find?q=tt3250234"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Child Star Psychologist 2 with Kiernan Shipka (2013; short)"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Very Good Girls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1931602",
+            "page": "http://www.imdb.com/find?q=tt1931602"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Very Good Girls (2013)"
+    },
+    {
+      "body": "${link_0} (2013; short)",
+      "links": [
+        {
+          "body": "We Rise Like Smoke",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3241212",
+            "page": "http://www.imdb.com/find?q=tt3241212"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "We Rise Like Smoke (2013; short)"
+    },
+    {
+      "body": "${link_0} (2012; short)",
+      "links": [
+        {
+          "body": "The Empty Room",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2392530",
+            "page": "http://www.imdb.com/find?q=tt2392530"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Empty Room (2012; short)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Cats & Dogs: The Revenge of Kitty Galore",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1287468",
+            "page": "http://www.imdb.com/find?q=tt1287468"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cats & Dogs: The Revenge of Kitty Galore (2010)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "The Ryan and Randi Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1774627",
+            "page": "http://www.imdb.com/find?q=tt1774627"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Ryan and Randi Show (2010; short)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "Squeaky Clean",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1553350",
+            "page": "http://www.imdb.com/find?q=tt1553350"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Squeaky Clean (2010; short)"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "A Rag Doll Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3270914",
+            "page": "http://www.imdb.com/find?q=tt3270914"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Rag Doll Story (2009; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "House Broken",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1054631",
+            "page": "http://www.imdb.com/find?q=tt1054631"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "House Broken (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Carriers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0806203",
+            "page": "http://www.imdb.com/find?q=tt0806203"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Carriers (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Land of the Lost",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0457400",
+            "page": "http://www.imdb.com/find?q=tt0457400"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Land of the Lost (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Lower Learning",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1129381",
+            "page": "http://www.imdb.com/find?q=tt1129381"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lower Learning (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Dimension",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0473351",
+            "page": "http://www.imdb.com/find?q=tt0473351"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dimension (2007)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "Sofia the First",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2136138",
+            "page": "http://www.imdb.com/find?q=tt2136138"
+          }
+        }
+      ],
+      "section": [
+        "Kiernan Shipka",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Sofia the First (soundtrack performer)"
+    },
+    {
       "body": "Shipka was born in Chicago, Illinois, to John Young Shipka, a real estate developer, and his wife, Erin Ann (n\u00e9e Brennan), a one-time queen of Chicago's St. Patrick's Day parade. The family relocated to Los Angeles when she was six to support her acting career. Kiernan got her black belt in taekwondo in June 2012.",
       "links": [],
+      "section": [
+        "Kiernan Shipka",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Shipka was born in Chicago, Illinois, to John Young Shipka, a real estate developer, and his wife, Erin Ann (n\u00e9e Brennan), a one-time queen of Chicago's St. Patrick's Day parade. The family relocated to Los Angeles when she was six to support her acting career. Kiernan got her black belt in taekwondo in June 2012."
     },
     {
       "body": "Shipka's hobbies include golf and cooking and she enjoys watching Barefoot Contessa and Good Eats on the Food Network. She has been taking ballroom dancing classes since age five and claims Grace Kelly as an inspiration.",
       "links": [],
+      "section": [
+        "Kiernan Shipka",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Shipka's hobbies include golf and cooking and she enjoys watching Barefoot Contessa and Good Eats on the Food Network. She has been taking ballroom dancing classes since age five and claims Grace Kelly as an inspiration."
     },
     {
       "body": "Shipka began doing commercial print modeling when she was a baby. She made her first appearance in Mad Men at age seven and was upgraded to be a series regular starting in season four, having previously been credited as a guest star. She later appeared as Cathy in the 2014 Lifetime movie Flowers in the Attic.",
       "links": [],
+      "section": [
+        "Kiernan Shipka",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Shipka began doing commercial print modeling when she was a baby. She made her first appearance in Mad Men at age seven and was upgraded to be a series regular starting in season four, having previously been credited as a guest star. She later appeared as Cathy in the 2014 Lifetime movie Flowers in the Attic."
+    },
+    {
+      "body": "2014: Ranked in Time Magazine's Top 25 Most Influential Teens of 2014.",
+      "links": [],
+      "section": [
+        "Kiernan Shipka",
+        "Awards"
+      ],
+      "text": "2014: Ranked in Time Magazine's Top 25 Most Influential Teens of 2014."
+    },
+    {
+      "body": "2013: Won a Young Artist Award for Mad Men (Best Performance in a Television Series - Recurring Young Actress)",
+      "links": [],
+      "section": [
+        "Kiernan Shipka",
+        "Awards"
+      ],
+      "text": "2013: Won a Young Artist Award for Mad Men (Best Performance in a Television Series - Recurring Young Actress)"
+    },
+    {
+      "body": "2013: Won a Women in Film Lucy Award for Mad Men",
+      "links": [],
+      "section": [
+        "Kiernan Shipka",
+        "Awards"
+      ],
+      "text": "2013: Won a Women in Film Lucy Award for Mad Men"
+    },
+    {
+      "body": "2012: Won a Young Hollywood Award (Scene Stealer Award)",
+      "links": [],
+      "section": [
+        "Kiernan Shipka",
+        "Awards"
+      ],
+      "text": "2012: Won a Young Hollywood Award (Scene Stealer Award)"
+    },
+    {
+      "body": "2010: Won a Screen Actors' Guild Award for Mad Men (Outstanding Performance by an Ensemble in a Drama Series)",
+      "links": [],
+      "section": [
+        "Kiernan Shipka",
+        "Awards"
+      ],
+      "text": "2010: Won a Screen Actors' Guild Award for Mad Men (Outstanding Performance by an Ensemble in a Drama Series)"
+    },
+    {
+      "body": "2009: Won a Screen Actors' Guild Award for Mad Men (Outstanding Performance by an Ensemble in a Drama Series)",
+      "links": [],
+      "section": [
+        "Kiernan Shipka",
+        "Awards"
+      ],
+      "text": "2009: Won a Screen Actors' Guild Award for Mad Men (Outstanding Performance by an Ensemble in a Drama Series)"
     },
     {
       "body": "",
       "links": [],
+      "section": [
+        "Kiernan Shipka",
+        "Awards"
+      ],
       "text": ""
     }
   ],

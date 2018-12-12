@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Mystic Pizza (1988)",
+          "body": "${link_0} (1988)",
           "extra": "(1988)",
           "extra_text": "(1988)",
-          "links": [],
+          "links": [
+            {
+              "body": "Mystic Pizza",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0095690",
+                "page": "http://www.imdb.com/find?q=tt0095690"
+              }
+            }
+          ],
           "text": "Mystic Pizza (1988)",
-          "value": "Mystic Pizza",
+          "value": "${link_0}",
           "value_text": "Mystic Pizza"
         }
       ]
@@ -41,36 +54,347 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0308556",
+                "page": "http://www.imdb.com/find?q=nm0308556"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.johngarry.com/",
+                "page": "http://www.johngarry.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/_JohnGarry",
+                "page": "https://twitter.com/_JohnGarry"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Zuko Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "207. \"Zuko Alone\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "2 Stupid Dogs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105928",
+            "page": "http://www.imdb.com/find?q=tt0105928"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "2 Stupid Dogs"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Extreme Ghostbusters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0121932",
+            "page": "http://www.imdb.com/find?q=tt0121932"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Extreme Ghostbusters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hey Arnold!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115200",
+            "page": "http://www.imdb.com/find?q=tt0115200"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hey Arnold!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Invader ZIM",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235923",
+            "page": "http://www.imdb.com/find?q=tt0235923"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Invader ZIM"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Superman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115378",
+            "page": "http://www.imdb.com/find?q=tt0115378"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Superman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Swamp Thing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098919",
+            "page": "http://www.imdb.com/find?q=tt0098919"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Swamp Thing"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Angry Beavers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0131664",
+            "page": "http://www.imdb.com/find?q=tt0131664"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Angry Beavers"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The New Batman Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118266",
+            "page": "http://www.imdb.com/find?q=tt0118266"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The New Batman Adventures"
+    },
+    {
+      "body": "${link_0} (1999; video)",
+      "links": [
+        {
+          "body": "An American Tail: The Mystery of the Night Monster",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0197230",
+            "page": "http://www.imdb.com/find?q=tt0197230"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "An American Tail: The Mystery of the Night Monster (1999; video)"
+    },
+    {
+      "body": "${link_0} (1997; video)",
+      "links": [
+        {
+          "body": "A Christmas Carol",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112668",
+            "page": "http://www.imdb.com/find?q=tt0112668"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Christmas Carol (1997; video)"
+    },
+    {
+      "body": "${link_0} (1988)",
+      "links": [
+        {
+          "body": "Mystic Pizza",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0095690",
+            "page": "http://www.imdb.com/find?q=tt0095690"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mystic Pizza (1988)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Goosebumps: Attack of the Mutant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0219709",
+            "page": "http://www.imdb.com/find?q=tt0219709"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Goosebumps: Attack of the Mutant (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: The Old Republic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1320395",
+            "page": "http://www.imdb.com/find?q=tt1320395"
+          }
+        }
+      ],
+      "section": [
+        "John Garry",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: The Old Republic (video game)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/John_Garry",
     "file": "avatar.wikia.com/wiki/John_Garry.html",

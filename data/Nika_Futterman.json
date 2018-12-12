@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Chicago Hope (1995)",
+          "body": "${link_0} (1995)",
           "extra": "(1995)",
           "extra_text": "(1995)",
-          "links": [],
+          "links": [
+            {
+              "body": "Chicago Hope",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0108724",
+                "page": "http://www.imdb.com/find?q=tt0108724"
+              }
+            }
+          ],
           "text": "Chicago Hope (1995)",
-          "value": "Chicago Hope",
+          "value": "${link_0}",
           "value_text": "Chicago Hope"
         }
       ]
@@ -55,48 +68,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0296546",
+                "page": "http://www.imdb.com/find?q=nm0296546"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Nika_Futterman",
+                "page": "http://en.wikipedia.org/wiki/Nika_Futterman"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Nika-Futterman/112372838774172?nr",
+                "page": "https://www.facebook.com/pages/Nika-Futterman/112372838774172?nr"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.nikafutterman.com/",
+                "page": "http://www.nikafutterman.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/nfutterman",
+                "page": "https://twitter.com/nfutterman"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -104,13 +167,701 @@
   ],
   "paragraphs": [
     {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Avatar: The Last Airbender credits",
+        "Smellerbee"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Serpent's Pass",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Serpent%27s_Pass",
+            "page": "The_Serpent%27s_Pass"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Avatar: The Last Airbender credits",
+        "Smellerbee"
+      ],
+      "text": "212. \"The Serpent's Pass\""
+    },
+    {
+      "body": "213. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Drill",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Drill",
+            "page": "The_Drill"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Avatar: The Last Airbender credits",
+        "Smellerbee"
+      ],
+      "text": "213. \"The Drill\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "City of Walls and Secrets",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/City_of_Walls_and_Secrets",
+            "page": "City_of_Walls_and_Secrets"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Avatar: The Last Airbender credits",
+        "Smellerbee"
+      ],
+      "text": "214. \"City of Walls and Secrets\""
+    },
+    {
+      "body": "217. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lake Laogai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai_(episode)",
+            "page": "Lake_Laogai_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Avatar: The Last Airbender credits",
+        "Smellerbee"
+      ],
+      "text": "217. \"Lake Laogai\""
+    },
+    {
+      "body": "217. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lake Laogai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai_(episode)",
+            "page": "Lake_Laogai_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "217. \"Lake Laogai\""
+    },
+    {
+      "body": "407. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Reunion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Reunion",
+            "page": "Reunion"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "The Legend of Korra credits",
+        "Ahnah"
+      ],
+      "text": "407. \"Reunion\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Fanboy and Chum-Chum",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1299440",
+            "page": "http://www.imdb.com/find?q=tt1299440"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fanboy and Chum-Chum"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "G.I. Joe: Renegades",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1705038",
+            "page": "http://www.imdb.com/find?q=tt1705038"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "G.I. Joe: Renegades"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Handy Manny",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0451460",
+            "page": "http://www.imdb.com/find?q=tt0451460"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Handy Manny"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hey Arnold!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115200",
+            "page": "http://www.imdb.com/find?q=tt0115200"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hey Arnold!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jakers! The Adventures of Piggley Winks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0381772",
+            "page": "http://www.imdb.com/find?q=tt0381772"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jakers! The Adventures of Piggley Winks"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "My Gym Partner's a Monkey",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0451461",
+            "page": "http://www.imdb.com/find?q=tt0451461"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "My Gym Partner's a Monkey"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "NFL Rush Zone: Season of the Guardians",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2553232",
+            "page": "http://www.imdb.com/find?q=tt2553232"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "NFL Rush Zone: Season of the Guardians"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sanjay and Craig",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2869898",
+            "page": "http://www.imdb.com/find?q=tt2869898"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sanjay and Craig"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sofia the First",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2136138",
+            "page": "http://www.imdb.com/find?q=tt2136138"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sofia the First"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Loud House",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4859164",
+            "page": "http://www.imdb.com/find?q=tt4859164"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Loud House"
+    },
+    {
+      "body": "${link_0} (2012; video)",
+      "links": [
+        {
+          "body": "Scooby Doo! Mask of the Blue Falcon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2586070",
+            "page": "http://www.imdb.com/find?q=tt2586070"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Scooby Doo! Mask of the Blue Falcon (2012; video)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Delgo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0361500",
+            "page": "http://www.imdb.com/find?q=tt0361500"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Delgo (2008)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Open Season",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0400717",
+            "page": "http://www.imdb.com/find?q=tt0400717"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Open Season (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Barnyard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0414853",
+            "page": "http://www.imdb.com/find?q=tt0414853"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Barnyard (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Ant Bully",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0429589",
+            "page": "http://www.imdb.com/find?q=tt0429589"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Ant Bully (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Wild",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0405469",
+            "page": "http://www.imdb.com/find?q=tt0405469"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wild (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Geppetto's Secret",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0399085",
+            "page": "http://www.imdb.com/find?q=tt0399085"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Geppetto's Secret (2005)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold - The Videogame",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1613073",
+            "page": "http://www.imdb.com/find?q=tt1613073"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Batman: The Brave and the Bold - The Videogame (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Br\u00fctal Legend",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1171225",
+            "page": "http://www.imdb.com/find?q=tt1171225"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Br\u00fctal Legend (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "inFamous 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0451118",
+            "page": "http://www.imdb.com/find?q=tt0451118"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "inFamous 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel: Ultimate Alliance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0814207",
+            "page": "http://www.imdb.com/find?q=tt0814207"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel: Ultimate Alliance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid 4: Guns of the Patriots",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0451118",
+            "page": "http://www.imdb.com/find?q=tt0451118"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid 4: Guns of the Patriots (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "StarCraft II: Heart of the Swarm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2288037",
+            "page": "http://www.imdb.com/find?q=tt2288037"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "StarCraft II: Heart of the Swarm (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837564",
+            "page": "http://www.imdb.com/find?q=tt0837564"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Matrix: Path of Neo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0451118",
+            "page": "http://www.imdb.com/find?q=tt0451118"
+          }
+        }
+      ],
+      "section": [
+        "Nika Futterman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Matrix: Path of Neo (video game)"
+    },
+    {
       "body": "Nika Futterman was born and raised in New York. She first attended Performing Arts High School, and later NYU's Tisch School for the Performing Arts. After graduating, she moved to San Francisco for the American Conservatory Theater.",
       "links": [],
+      "section": [
+        "Nika Futterman",
+        "Biographical information"
+      ],
       "text": "Nika Futterman was born and raised in New York. She first attended Performing Arts High School, and later NYU's Tisch School for the Performing Arts. After graduating, she moved to San Francisco for the American Conservatory Theater."
     },
     {
       "body": "In 1993, she moved to Los Angeles and appeared in Murphy Brown, Chicago Hope, and The Wyans Bros. She moved on to add her voice talents on hundreds of radio and television commercials, cartoons, and video games.",
       "links": [],
+      "section": [
+        "Nika Futterman",
+        "Biographical information"
+      ],
       "text": "In 1993, she moved to Los Angeles and appeared in Murphy Brown, Chicago Hope, and The Wyans Bros. She moved on to add her voice talents on hundreds of radio and television commercials, cartoons, and video games."
     }
   ],

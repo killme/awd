@@ -3,35 +3,40 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +46,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Head Trip (1999 - writer)",
+          "body": "${link_0} (1999 - writer)",
           "extra": "(1999 - writer)",
           "extra_text": "(1999 - writer)",
-          "links": [],
+          "links": [
+            {
+              "body": "Head Trip",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0256562",
+                "page": "http://www.imdb.com/find?q=tt0256562"
+              }
+            }
+          ],
           "text": "Head Trip (1999 - writer)",
-          "value": "Head Trip",
+          "value": "${link_0}",
           "value_text": "Head Trip"
         }
       ]
@@ -55,18 +70,789 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0373388",
+                "page": "http://www.imdb.com/find?q=nm0373388"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "116. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Deserter",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Deserter",
+            "page": "The_Deserter"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "116. \"The Deserter\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Swamp",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Swamp",
+            "page": "The_Swamp"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "204. \"The Swamp\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "City of Walls and Secrets",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/City_of_Walls_and_Secrets",
+            "page": "City_of_Walls_and_Secrets"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "214. \"City of Walls and Secrets\""
+    },
+    {
+      "body": "217. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lake Laogai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai_(episode)",
+            "page": "Lake_Laogai_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "217. \"Lake Laogai\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sokka's Master",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sokka%27s_Master",
+            "page": "Sokka%27s_Master"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "304. \"Sokka's Master\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Puppetmaster",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Puppetmaster",
+            "page": "The_Puppetmaster"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "308. \"The Puppetmaster\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Western Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Western_Air_Temple",
+            "page": "The_Western_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "312. \"The Western Air Temple\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "Iss. #2. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Water War",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Water_War",
+            "page": "Water_War"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #2. \"Water War\""
+    },
+    {
+      "body": "Iss. #14. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Bridge",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Bridge",
+            "page": "The_Bridge"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #14. \"The Bridge\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebel Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
+            "page": "Rebel_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "201. \"Rebel Spirit\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Peacekeepers",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Peacekeepers",
+            "page": "Peacekeepers"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "205. \"Peacekeepers\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "210. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A New Spiritual Age",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_New_Spiritual_Age",
+            "page": "A_New_Spiritual_Age"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "210. \"A New Spiritual Age\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Harmonic Convergence",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Harmonic_Convergence_(episode)",
+            "page": "Harmonic_Convergence_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "212. \"Harmonic Convergence\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Breath of Fresh Air",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Breath_of_Fresh_Air",
+            "page": "A_Breath_of_Fresh_Air"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "301. \"A Breath of Fresh Air\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "307. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Original Airbenders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Original_Airbenders",
+            "page": "Original_Airbenders"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "307. \"Original Airbenders\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "403. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Coronation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Coronation",
+            "page": "The_Coronation"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "403. \"The Coronation\""
+    },
+    {
+      "body": "408. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Remembrances",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Remembrances",
+            "page": "Remembrances"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "408. \"Remembrances\""
+    },
+    {
+      "body": "410. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Operation Beifong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Operation_Beifong",
+            "page": "Operation_Beifong"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "410. \"Operation Beifong\""
+    },
+    {
+      "body": "412. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Day of the Colossus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Day_of_the_Colossus",
+            "page": "Day_of_the_Colossus"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "412. \"Day of the Colossus\""
+    },
+    {
+      "body": "${link_0} (web series)",
+      "links": [
+        {
+          "body": "Republic City Hustle",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Republic_City_Hustle",
+            "page": "Republic_City_Hustle"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "Republic City Hustle (web series)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Legend of Korra",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra_(video_game)",
+            "page": "The_Legend_of_Korra_(video_game)"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Writer"
+      ],
+      "text": "The Legend of Korra (video game)"
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Roh-Tan"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Night of a Thousand Stars",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Night_of_a_Thousand_Stars",
+            "page": "Night_of_a_Thousand_Stars"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "The Legend of Korra credits",
+        "Roh-Tan"
+      ],
+      "text": "211. \"Night of a Thousand Stars\""
+    },
+    {
+      "body": "${link_0} (head writer)",
+      "links": [
+        {
+          "body": "Voltron: Legendary Defender",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt5580664",
+            "page": "http://www.imdb.com/find?q=tt5580664"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Voltron: Legendary Defender (head writer)"
+    },
+    {
+      "body": "${link_0} (executive producer and writer)",
+      "links": [
+        {
+          "body": "Big Box",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2064734",
+            "page": "http://www.imdb.com/find?q=tt2064734"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Big Box (executive producer and writer)"
+    },
+    {
+      "body": "${link_0} (executive producer and writer)",
+      "links": [
+        {
+          "body": "Bob & Doug",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1430652",
+            "page": "http://www.imdb.com/find?q=tt1430652"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bob & Doug (executive producer and writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Head Trip",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0256562",
+            "page": "http://www.imdb.com/find?q=tt0256562"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Head Trip (writer)"
+    },
+    {
+      "body": "${link_0} (actor, executive producer, and writer)",
+      "links": [
+        {
+          "body": "Popzilla",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1494137",
+            "page": "http://www.imdb.com/find?q=tt1494137"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Popzilla (actor, executive producer, and writer)"
+    },
+    {
+      "body": "${link_0} (segment producer and writer)",
+      "links": [
+        {
+          "body": "Weakest Link",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0281521",
+            "page": "http://www.imdb.com/find?q=tt0281521"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Weakest Link (segment producer and writer)"
+    },
+    {
+      "body": "${link_0} (2009; short - writer)",
+      "links": [
+        {
+          "body": "Slotcar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2064931",
+            "page": "http://www.imdb.com/find?q=tt2064931"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Slotcar (2009; short - writer)"
+    },
+    {
+      "body": "${link_0} (2004 - creative consultant)",
+      "links": [
+        {
+          "body": "Whitecoats",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0367232",
+            "page": "http://www.imdb.com/find?q=tt0367232"
+          }
+        }
+      ],
+      "section": [
+        "Tim Hedrick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Whitecoats (2004 - creative consultant)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Tim_Hedrick",
     "file": "avatar.wikia.com/wiki/Tim_Hedrick.html",

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "American Desi (2001)",
+          "body": "${link_0} (2001)",
           "extra": "(2001)",
           "extra_text": "(2001)",
-          "links": [],
+          "links": [
+            {
+              "body": "American Desi",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0203289",
+                "page": "http://www.imdb.com/find?q=tt0203289"
+              }
+            }
+          ],
           "text": "American Desi (2001)",
-          "value": "American Desi",
+          "value": "${link_0}",
           "value_text": "American Desi"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0539503",
+                "page": "http://www.imdb.com/find?q=nm0539503"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.sunilmalhotra.com/Home",
+                "page": "http://www.sunilmalhotra.com/Home"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -77,8 +110,773 @@
   ],
   "paragraphs": [
     {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "The Legend of Korra credits",
+        "White Lotus guard #2"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "401. \"${link_0}\"",
+      "links": [
+        {
+          "body": "After All These Years",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/After_All_These_Years",
+            "page": "After_All_These_Years"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "The Legend of Korra credits",
+        "Prince Wu"
+      ],
+      "text": "401. \"After All These Years\""
+    },
+    {
+      "body": "403. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Coronation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Coronation",
+            "page": "The_Coronation"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "The Legend of Korra credits",
+        "Prince Wu"
+      ],
+      "text": "403. \"The Coronation\""
+    },
+    {
+      "body": "407. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Reunion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Reunion",
+            "page": "Reunion"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "The Legend of Korra credits",
+        "Prince Wu"
+      ],
+      "text": "407. \"Reunion\""
+    },
+    {
+      "body": "408. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Remembrances",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Remembrances",
+            "page": "Remembrances"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "The Legend of Korra credits",
+        "Prince Wu"
+      ],
+      "text": "408. \"Remembrances\""
+    },
+    {
+      "body": "409. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beyond the Wilds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beyond_the_Wilds",
+            "page": "Beyond_the_Wilds"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "The Legend of Korra credits",
+        "Prince Wu"
+      ],
+      "text": "409. \"Beyond the Wilds\""
+    },
+    {
+      "body": "410. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Operation Beifong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Operation_Beifong",
+            "page": "Operation_Beifong"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "The Legend of Korra credits",
+        "Prince Wu"
+      ],
+      "text": "410. \"Operation Beifong\""
+    },
+    {
+      "body": "411. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Kuvira's Gambit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kuvira%27s_Gambit",
+            "page": "Kuvira%27s_Gambit"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "The Legend of Korra credits",
+        "Prince Wu"
+      ],
+      "text": "411. \"Kuvira's Gambit\""
+    },
+    {
+      "body": "412. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Day of the Colossus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Day_of_the_Colossus",
+            "page": "Day_of_the_Colossus"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "The Legend of Korra credits",
+        "Prince Wu"
+      ],
+      "text": "412. \"Day of the Colossus\""
+    },
+    {
+      "body": "413. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Last Stand",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Last_Stand",
+            "page": "The_Last_Stand"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "The Legend of Korra credits",
+        "Prince Wu"
+      ],
+      "text": "413. \"The Last Stand\""
+    },
+    {
+      "body": "411. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Kuvira's Gambit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kuvira%27s_Gambit",
+            "page": "Kuvira%27s_Gambit"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "The Legend of Korra credits",
+        "Guard"
+      ],
+      "text": "411. \"Kuvira's Gambit\""
+    },
+    {
+      "body": "413. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Last Stand",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Last_Stand",
+            "page": "The_Last_Stand"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "The Legend of Korra credits",
+        "Mecha-suit #1"
+      ],
+      "text": "413. \"The Last Stand\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Century City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0377153",
+            "page": "http://www.imdb.com/find?q=tt0377153"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Century City"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Conviction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0889590",
+            "page": "http://www.imdb.com/find?q=tt0889590"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Conviction (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Fish Hooks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1725902",
+            "page": "http://www.imdb.com/find?q=tt1725902"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fish Hooks"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Half & Half",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0320024",
+            "page": "http://www.imdb.com/find?q=tt0320024"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Half & Half"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "House M.D.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0412142",
+            "page": "http://www.imdb.com/find?q=tt0412142"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "House M.D."
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Johnny Bravo Goes to Bollywood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2244937",
+            "page": "http://www.imdb.com/find?q=tt2244937"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Johnny Bravo Goes to Bollywood (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kick Buttowski: Suburban Daredevil",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1600757",
+            "page": "http://www.imdb.com/find?q=tt1600757"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kick Buttowski: Suburban Daredevil"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The \u00bd Hour News Hour",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0887788",
+            "page": "http://www.imdb.com/find?q=tt0887788"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The \u00bd Hour News Hour"
+    },
+    {
+      "body": "${link_0} (2011; video)",
+      "links": [
+        {
+          "body": "Green Lantern: Emerald Knights",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1683043",
+            "page": "http://www.imdb.com/find?q=tt1683043"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Green Lantern: Emerald Knights (2011; video)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Happy Feet Two",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1402488",
+            "page": "http://www.imdb.com/find?q=tt1402488"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Happy Feet Two (2011)"
+    },
+    {
+      "body": "${link_0} (2011; short)",
+      "links": [
+        {
+          "body": "The King's Speech Parody LOL",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3643858",
+            "page": "http://www.imdb.com/find?q=tt3643858"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The King's Speech Parody LOL (2011; short)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Fair Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0977855",
+            "page": "http://www.imdb.com/find?q=tt0977855"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fair Game (2010)"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "Indian Gangster",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1536018",
+            "page": "http://www.imdb.com/find?q=tt1536018"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Indian Gangster (2009; short)"
+    },
+    {
+      "body": "${link_0} (2007; video short)",
+      "links": [
+        {
+          "body": "Truth Be Told",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1510887",
+            "page": "http://www.imdb.com/find?q=tt1510887"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Truth Be Told (2007; video short)"
+    },
+    {
+      "body": "${link_0} (2005; short)",
+      "links": [
+        {
+          "body": "Call Center",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0454591",
+            "page": "http://www.imdb.com/find?q=tt0454591"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Call Center (2005; short)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Indian Cowboy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0254784",
+            "page": "http://www.imdb.com/find?q=tt0254784"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Indian Cowboy (2004)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Where's the Party Yaar?",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0306228",
+            "page": "http://www.imdb.com/find?q=tt0306228"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Where's the Party Yaar? (2003)"
+    },
+    {
+      "body": "${link_0} (short - producer and writer)",
+      "links": [
+        {
+          "body": "Call Center",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0454591",
+            "page": "http://www.imdb.com/find?q=tt0454591"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Call Center (short - producer and writer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Diablo III: Reaper of Souls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3561828",
+            "page": "http://www.imdb.com/find?q=tt3561828"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Diablo III: Reaper of Souls (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Halo: Reach",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1723639",
+            "page": "http://www.imdb.com/find?q=tt1723639"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Halo: Reach (video game)"
+    },
+    {
+      "body": "${link_0} (short - editor)",
+      "links": [
+        {
+          "body": "Indian Gangster",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1536018",
+            "page": "http://www.imdb.com/find?q=tt1536018"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Indian Gangster (short - editor)"
+    },
+    {
+      "body": "${link_0} (TV documentary - assistant editor)",
+      "links": [
+        {
+          "body": "Look, Up in the Sky! The Amazing Story of Superman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0499516",
+            "page": "http://www.imdb.com/find?q=tt0499516"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Look, Up in the Sky! The Amazing Story of Superman (TV documentary - assistant editor)"
+    },
+    {
+      "body": "${link_0} (video game; English version)",
+      "links": [
+        {
+          "body": "Makkusu an\u0101k\u012b",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2121789",
+            "page": "http://www.imdb.com/find?q=tt2121789"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Makkusu an\u0101k\u012b (video game; English version)"
+    },
+    {
+      "body": "${link_0} (TV documentary - assistant editor)",
+      "links": [
+        {
+          "body": "Star Wars: The Legacy Revealed",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1039988",
+            "page": "http://www.imdb.com/find?q=tt1039988"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: The Legacy Revealed (TV documentary - assistant editor)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "X-Men: Destiny",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1740829",
+            "page": "http://www.imdb.com/find?q=tt1740829"
+          }
+        }
+      ],
+      "section": [
+        "Sunil Malhotra",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "X-Men: Destiny (video game)"
+    },
+    {
       "body": "Malhotra graduated from Indiana University, Bloomington, Cum Laude, majoring in Theatre & Drama and Telecommunications. He has directed and acted in stage productions in New York, Chicago, and Indiana, some of which he wrote himself. Malhotra currently lives in Los Angeles and contributes his time to the community organization South Asian Network, as well as serving as a mentor to students at the University of Southern California, through its Asian Pacific American Student Services program.",
       "links": [],
+      "section": [
+        "Sunil Malhotra",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Malhotra graduated from Indiana University, Bloomington, Cum Laude, majoring in Theatre & Drama and Telecommunications. He has directed and acted in stage productions in New York, Chicago, and Indiana, some of which he wrote himself. Malhotra currently lives in Los Angeles and contributes his time to the community organization South Asian Network, as well as serving as a mentor to students at the University of Southern California, through its Asian Pacific American Student Services program."
     }
   ],

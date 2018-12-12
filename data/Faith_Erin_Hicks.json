@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,39 +44,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Faith_Erin_Hicks",
+                "page": "http://en.wikipedia.org/wiki/Faith_Erin_Hicks"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.faitherinhicks.com/index.php",
+                "page": "http://www.faitherinhicks.com/index.php"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://faitherinhicks.tumblr.com/",
+                "page": "http://faitherinhicks.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/faitherinhicks",
+                "page": "https://twitter.com/faitherinhicks"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -81,18 +124,209 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #37. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Shells",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Shells",
+            "page": "Shells"
+          }
+        }
+      ],
+      "section": [
+        "Faith Erin Hicks",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #37. \"Shells\""
+    },
+    {
+      "body": "${link_0} trilogy",
+      "links": [
+        {
+          "body": "Imbalance",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imbalance",
+            "page": "Imbalance"
+          }
+        }
+      ],
+      "section": [
+        "Faith Erin Hicks",
+        "Avatar: The Last Airbender credits",
+        "Graphic novel writer"
+      ],
+      "text": "Imbalance trilogy"
+    },
+    {
+      "body": "Brain Camp (graphic novel)",
+      "links": [],
+      "section": [
+        "Faith Erin Hicks",
+        "Selected other credits"
+      ],
+      "text": "Brain Camp (graphic novel)"
+    },
+    {
+      "body": "${link_0} (webcomic)",
+      "links": [
+        {
+          "body": "Demonology 101",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Demonology_101",
+            "page": "http://en.wikipedia.org/wiki/Demonology_101"
+          }
+        }
+      ],
+      "section": [
+        "Faith Erin Hicks",
+        "Selected other credits"
+      ],
+      "text": "Demonology 101 (webcomic)"
+    },
+    {
+      "body": "Friends with Boys (graphic novel)",
+      "links": [],
+      "section": [
+        "Faith Erin Hicks",
+        "Selected other credits"
+      ],
+      "text": "Friends with Boys (graphic novel)"
+    },
+    {
+      "body": "${link_0} (webcomic)",
+      "links": [
+        {
+          "body": "Ice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Ice_(webcomic)",
+            "page": "http://en.wikipedia.org/wiki/Ice_(webcomic)"
+          }
+        }
+      ],
+      "section": [
+        "Faith Erin Hicks",
+        "Selected other credits"
+      ],
+      "text": "Ice (webcomic)"
+    },
+    {
+      "body": "Into the Woods (Bigfoot Boy) (graphic novel)",
+      "links": [],
+      "section": [
+        "Faith Erin Hicks",
+        "Selected other credits"
+      ],
+      "text": "Into the Woods (Bigfoot Boy) (graphic novel)"
+    },
+    {
+      "body": "Nothing Can Possibly Go Wrong (graphic novel)",
+      "links": [],
+      "section": [
+        "Faith Erin Hicks",
+        "Selected other credits"
+      ],
+      "text": "Nothing Can Possibly Go Wrong (graphic novel)"
+    },
+    {
+      "body": "The Adventures of Superhero Girl (graphic novel)",
+      "links": [],
+      "section": [
+        "Faith Erin Hicks",
+        "Selected other credits"
+      ],
+      "text": "The Adventures of Superhero Girl (graphic novel)"
+    },
+    {
+      "body": "${link_0} (four-part graphic novel)",
+      "links": [
+        {
+          "body": "The Last of Us: American Dreams",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/The_Last_of_Us:_American_Dreams",
+            "page": "http://en.wikipedia.org/wiki/The_Last_of_Us:_American_Dreams"
+          }
+        }
+      ],
+      "section": [
+        "Faith Erin Hicks",
+        "Selected other credits"
+      ],
+      "text": "The Last of Us: American Dreams (four-part graphic novel)"
+    },
+    {
+      "body": "The Nameless City (graphic novel trilogy)",
+      "links": [],
+      "section": [
+        "Faith Erin Hicks",
+        "Selected other credits"
+      ],
+      "text": "The Nameless City (graphic novel trilogy)"
+    },
+    {
+      "body": "The War at Ellsmere (graphic novel)",
+      "links": [],
+      "section": [
+        "Faith Erin Hicks",
+        "Selected other credits"
+      ],
+      "text": "The War at Ellsmere (graphic novel)"
+    },
+    {
+      "body": "${link_0} (graphic novel)",
+      "links": [
+        {
+          "body": "Zombies Calling",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Zombies_Calling",
+            "page": "http://en.wikipedia.org/wiki/Zombies_Calling"
+          }
+        }
+      ],
+      "section": [
+        "Faith Erin Hicks",
+        "Selected other credits"
+      ],
+      "text": "Zombies Calling (graphic novel)"
+    },
+    {
       "body": "After studying animation at Sheridan College, Hicks came to prominence with her long-running webcomic Demonology 101.",
       "links": [],
+      "section": [
+        "Faith Erin Hicks",
+        "Biographical information"
+      ],
       "text": "After studying animation at Sheridan College, Hicks came to prominence with her long-running webcomic Demonology 101."
     },
     {
       "body": "Since the beginning of Demonology 101, Hicks has completed a spinoff of the D101 character Sachs, entitled A Distant Faith. She also began work on a zombie-movie inspired comic called Zombies Calling, as well as the dystopian comic Ice.",
       "links": [],
+      "section": [
+        "Faith Erin Hicks",
+        "Biographical information"
+      ],
       "text": "Since the beginning of Demonology 101, Hicks has completed a spinoff of the D101 character Sachs, entitled A Distant Faith. She also began work on a zombie-movie inspired comic called Zombies Calling, as well as the dystopian comic Ice."
     },
     {
       "body": "As part of her day job, she has also contributed backgrounds to the George of the Jungle animated series and created Jenny's Brothers, a comic strip in the Halifax Chronicle-Herald. She is also drawing her original comic series, The Adventures of Superhero Girl, which is run weekly in Halifax's local free paper, The Coast, as well as on her own website. Faith's most recently finished full-length graphic novel is Friends With Boys, which was published in February 2012 from First Second.",
       "links": [],
+      "section": [
+        "Faith Erin Hicks",
+        "Biographical information"
+      ],
       "text": "As part of her day job, she has also contributed backgrounds to the George of the Jungle animated series and created Jenny's Brothers, a comic strip in the Halifax Chronicle-Herald. She is also drawing her original comic series, The Adventures of Superhero Girl, which is run weekly in Halifax's local free paper, The Coast, as well as on her own website. Faith's most recently finished full-length graphic novel is Friends With Boys, which was published in February 2012 from First Second."
     }
   ],

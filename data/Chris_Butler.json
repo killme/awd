@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "ER (2000)",
+          "body": "${link_0} (2000)",
           "extra": "(2000)",
           "extra_text": "(2000)",
-          "links": [],
+          "links": [
+            {
+              "body": "ER",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0108757",
+                "page": "http://www.imdb.com/find?q=tt0108757"
+              }
+            }
+          ],
           "text": "ER (2000)",
-          "value": "ER",
+          "value": "${link_0}",
           "value_text": "ER"
         }
       ]
@@ -41,12 +54,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1504115",
+                "page": "http://www.imdb.com/find?q=nm1504115"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -54,8 +77,253 @@
   ],
   "paragraphs": [
     {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sokka's Master",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sokka%27s_Master",
+            "page": "Sokka%27s_Master"
+          }
+        }
+      ],
+      "section": [
+        "Chris Butler",
+        "Avatar: The Last Airbender credits",
+        "Fat"
+      ],
+      "text": "304. \"Sokka's Master\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "24",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285331",
+            "page": "http://www.imdb.com/find?q=tt0285331"
+          }
+        }
+      ],
+      "section": [
+        "Chris Butler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "24"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Close to Home",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460631",
+            "page": "http://www.imdb.com/find?q=tt0460631"
+          }
+        }
+      ],
+      "section": [
+        "Chris Butler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Close to Home"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Rizzoli & Isles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1551632",
+            "page": "http://www.imdb.com/find?q=tt1551632"
+          }
+        }
+      ],
+      "section": [
+        "Chris Butler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Rizzoli & Isles"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Smith",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0805667",
+            "page": "http://www.imdb.com/find?q=tt0805667"
+          }
+        }
+      ],
+      "section": [
+        "Chris Butler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Smith"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Good Wife",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1442462",
+            "page": "http://www.imdb.com/find?q=tt1442462"
+          }
+        }
+      ],
+      "section": [
+        "Chris Butler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Good Wife"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Two Guys, a Girl and a Pizza Place",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0137330",
+            "page": "http://www.imdb.com/find?q=tt0137330"
+          }
+        }
+      ],
+      "section": [
+        "Chris Butler",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Two Guys, a Girl and a Pizza Place"
+    },
+    {
+      "body": "${link_0} (2011; TV movie)",
+      "links": [
+        {
+          "body": "Hound Dogs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1830636",
+            "page": "http://www.imdb.com/find?q=tt1830636"
+          }
+        }
+      ],
+      "section": [
+        "Chris Butler",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hound Dogs (2011; TV movie)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "The Haymaker",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1620998",
+            "page": "http://www.imdb.com/find?q=tt1620998"
+          }
+        }
+      ],
+      "section": [
+        "Chris Butler",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Haymaker (2010; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Stephanie's Image",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0487958",
+            "page": "http://www.imdb.com/find?q=tt0487958"
+          }
+        }
+      ],
+      "section": [
+        "Chris Butler",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stephanie's Image (2009)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Rescue Dawn",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462504",
+            "page": "http://www.imdb.com/find?q=tt0462504"
+          }
+        }
+      ],
+      "section": [
+        "Chris Butler",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rescue Dawn (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Little Death",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0454941",
+            "page": "http://www.imdb.com/find?q=tt0454941"
+          }
+        }
+      ],
+      "section": [
+        "Chris Butler",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Little Death (2006)"
+    },
+    {
       "body": "Butler's career began in 2000 when he starred in an episode of the NBC medical drama ER. Over the past eleven years, he has served as one-time characters in shows such as Without A Trace, NUMB3RS, The Closer, 24, and Criminal Minds. He performed in a made-for-TV movie, Hound Dogs, in 2011.",
       "links": [],
+      "section": [
+        "Chris Butler",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Butler's career began in 2000 when he starred in an episode of the NBC medical drama ER. Over the past eleven years, he has served as one-time characters in shows such as Without A Trace, NUMB3RS, The Closer, 24, and Criminal Minds. He performed in a made-for-TV movie, Hound Dogs, in 2011."
     }
   ],

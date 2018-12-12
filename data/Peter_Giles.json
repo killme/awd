@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Dear Diary (1996; short)",
+          "body": "${link_0} (1996; short)",
           "extra": "(1996; short)",
           "extra_text": "(1996; short)",
-          "links": [],
+          "links": [
+            {
+              "body": "Dear Diary",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0116058",
+                "page": "http://www.imdb.com/find?q=tt0116058"
+              }
+            }
+          ],
           "text": "Dear Diary (1996; short)",
-          "value": "Dear Diary",
+          "value": "${link_0}",
           "value_text": "Dear Diary"
         }
       ]
@@ -55,27 +68,728 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0318487",
+                "page": "http://www.imdb.com/find?q=nm0318487"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/kidlightnin71",
+                "page": "https://twitter.com/kidlightnin71"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "The Legend of Korra credits",
+        "Ghazan"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "The Legend of Korra credits",
+        "Ghazan"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "The Legend of Korra credits",
+        "Ghazan"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "The Legend of Korra credits",
+        "Ghazan"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Terror Within",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Terror_Within",
+            "page": "The_Terror_Within"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "The Legend of Korra credits",
+        "Ghazan"
+      ],
+      "text": "308. \"The Terror Within\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "The Legend of Korra credits",
+        "Ghazan"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "The Legend of Korra credits",
+        "Ghazan"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ultimatum",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ultimatum",
+            "page": "The_Ultimatum"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "The Legend of Korra credits",
+        "Ghazan"
+      ],
+      "text": "311. \"The Ultimatum\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enter the Void",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enter_the_Void",
+            "page": "Enter_the_Void"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "The Legend of Korra credits",
+        "Ghazan"
+      ],
+      "text": "312. \"Enter the Void\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "The Legend of Korra credits",
+        "Ghazan"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cold Case",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0368479",
+            "page": "http://www.imdb.com/find?q=tt0368479"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Cold Case"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CSI: NY",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0395843",
+            "page": "http://www.imdb.com/find?q=tt0395843"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CSI: NY"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kroll Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1981538",
+            "page": "http://www.imdb.com/find?q=tt1981538"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kroll Show"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098844",
+            "page": "http://www.imdb.com/find?q=tt0098844"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "One Life to Live",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0062595",
+            "page": "http://www.imdb.com/find?q=tt0062595"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "One Life to Live"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Rear Window",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0166322",
+            "page": "http://www.imdb.com/find?q=tt0166322"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Rear Window (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Audrey Hepburn Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0163887",
+            "page": "http://www.imdb.com/find?q=tt0163887"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Audrey Hepburn Story (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Life & Times of Tim",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0950701",
+            "page": "http://www.imdb.com/find?q=tt0950701"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Life & Times of Tim"
+    },
+    {
+      "body": "${link_0} (2014; short)",
+      "links": [
+        {
+          "body": "Cruising Electric",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3465312",
+            "page": "http://www.imdb.com/find?q=tt3465312"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cruising Electric (2014; short)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "The Realm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1657458",
+            "page": "http://www.imdb.com/find?q=tt1657458"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Realm (2010)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Yes Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1068680",
+            "page": "http://www.imdb.com/find?q=tt1068680"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Yes Man (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "On Broadway",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0796339",
+            "page": "http://www.imdb.com/find?q=tt0796339"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "On Broadway (2007)"
+    },
+    {
+      "body": "${link_0} (2005; short)",
+      "links": [
+        {
+          "body": "Queer Eye for the Homeless Guy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0478778",
+            "page": "http://www.imdb.com/find?q=tt0478778"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Queer Eye for the Homeless Guy (2005; short)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Undermind",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0277585",
+            "page": "http://www.imdb.com/find?q=tt0277585"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Undermind (2003)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "The Next Big Thing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0245317",
+            "page": "http://www.imdb.com/find?q=tt0245317"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Next Big Thing (2001)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Let It Snow",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0212517",
+            "page": "http://www.imdb.com/find?q=tt0212517"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Let It Snow (1999)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1517155",
+            "page": "http://www.imdb.com/find?q=tt1517155"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Game (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Command & Conquer 3: Kane's Wrath",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1114713",
+            "page": "http://www.imdb.com/find?q=tt1114713"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Command & Conquer 3: Kane's Wrath (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Command & Conquer 3: Tiberium Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0848263",
+            "page": "http://www.imdb.com/find?q=tt0848263"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Command & Conquer 3: Tiberium Wars (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dead to Rights: Retribution",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1661824",
+            "page": "http://www.imdb.com/find?q=tt1661824"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dead to Rights: Retribution (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Guild Wars: Factions",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1448499",
+            "page": "http://www.imdb.com/find?q=tt1448499"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Guild Wars: Factions (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Hunted: The Demon's Forge",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1985114",
+            "page": "http://www.imdb.com/find?q=tt1985114"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Hunted: The Demon's Forge (video game)"
+    },
+    {
+      "body": "${link_0} (video game - character model)",
+      "links": [
+        {
+          "body": "Max Payne 2: The Fall of Max Payne",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0366758",
+            "page": "http://www.imdb.com/find?q=tt0366758"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Max Payne 2: The Fall of Max Payne (video game - character model)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Medal of Honor: Airborne",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1085850",
+            "page": "http://www.imdb.com/find?q=tt1085850"
+          }
+        }
+      ],
+      "section": [
+        "Peter Giles",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Medal of Honor: Airborne (video game)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Peter_Giles",
     "file": "avatar.wikia.com/wiki/Peter_Giles.html",

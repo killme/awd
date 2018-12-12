@@ -3,42 +3,48 @@
     {
       "body": "Protected",
       "target": {
-        "href": "Category_Protected",
+        "external": false,
+        "href": "/wiki/Category_Protected",
         "page": "Category_Protected"
       }
     },
     {
       "body": "Featured articles",
       "target": {
-        "href": "Category_Featured_articles",
+        "external": false,
+        "href": "/wiki/Category_Featured_articles",
         "page": "Category_Featured_articles"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Index",
       "target": {
-        "href": "Category_Index",
+        "external": false,
+        "href": "/wiki/Category_Index",
         "page": "Category_Index"
       }
     },
     {
       "body": "Legend of Korra",
       "target": {
-        "href": "Category_Legend_of_Korra",
+        "external": false,
+        "href": "/wiki/Category_Legend_of_Korra",
         "page": "Category_Legend_of_Korra"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -106,7 +112,8 @@
               "body": "Michael Dante DiMartino",
               "key": "${link_0}",
               "target": {
-                "href": "Michael_Dante_DiMartino",
+                "external": false,
+                "href": "/wiki/Michael_Dante_DiMartino",
                 "page": "Michael_Dante_DiMartino"
               }
             }
@@ -124,7 +131,8 @@
               "body": "Bryan Konietzko",
               "key": "${link_0}",
               "target": {
-                "href": "Bryan_Konietzko",
+                "external": false,
+                "href": "/wiki/Bryan_Konietzko",
                 "page": "Bryan_Konietzko"
               }
             }
@@ -170,7 +178,8 @@
               "body": "Jeremy Zuckerman",
               "key": "${link_0}",
               "target": {
-                "href": "Jeremy_Zuckerman",
+                "external": false,
+                "href": "/wiki/Jeremy_Zuckerman",
                 "page": "Jeremy_Zuckerman"
               }
             }
@@ -188,7 +197,8 @@
               "body": "Benjamin Wynn",
               "key": "${link_0}",
               "target": {
-                "href": "Benjamin_Wynn",
+                "external": false,
+                "href": "/wiki/Benjamin_Wynn",
                 "page": "Benjamin_Wynn"
               }
             }
@@ -231,12 +241,22 @@
       "key": "Rated",
       "value": [
         {
-          "body": "TV-Y7-FV",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "TV-Y7-FV",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/TV_Parental_Guidelines#TV-Y7",
+                "page": "http://en.wikipedia.org/wiki/TV_Parental_Guidelines"
+              }
+            }
+          ],
           "text": "TV-Y7-FV",
-          "value": "TV-Y7-FV",
+          "value": "${link_0}",
           "value_text": "TV-Y7-FV"
         }
       ]
@@ -253,7 +273,8 @@
               "body": "Nickelodeon",
               "key": "${link_0}",
               "target": {
-                "href": "Nickelodeon",
+                "external": false,
+                "href": "/wiki/Nickelodeon",
                 "page": "Nickelodeon"
               }
             }
@@ -304,7 +325,8 @@
               "body": "Avatar: The Last Airbender",
               "key": "${link_0}",
               "target": {
-                "href": "Avatar__The_Last_Airbender",
+                "external": false,
+                "href": "/wiki/Avatar__The_Last_Airbender",
                 "page": "Avatar__The_Last_Airbender"
               }
             }
@@ -322,7 +344,8 @@
               "body": "Republic City Hustle",
               "key": "${link_0}",
               "target": {
-                "href": "Republic_City_Hustle",
+                "external": false,
+                "href": "/wiki/Republic_City_Hustle",
                 "page": "Republic_City_Hustle"
               }
             }
@@ -336,13 +359,14 @@
   ],
   "paragraphs": [
     {
-      "body": "The Legend of Korra is an animated American television series set in the ${link_0} as a sequel series to ${link_1}. The premiere episode aired on ${link_2} on April 14, 2012. However, the first two episodes were released online on March 24\u201325, 2012 and were available in high-definition for free on iTunes. The series ran for fifty-two episodes, completing its run on December 19, 2014.",
+      "body": "The Legend of Korra is an animated American television series set in the ${link_0} as a sequel series to ${link_1}. The premiere episode aired on ${link_2} on April 14, 2012. However, the first two episodes were released online on March 24\u201325, 2012 and were available in ${link_3} for free on ${link_4}. The series ran for fifty-two episodes, completing its run on December 19, 2014.",
       "links": [
         {
           "body": "Avatar universe",
           "key": "${link_0}",
           "target": {
-            "href": "Earth",
+            "external": false,
+            "href": "/wiki/Earth",
             "page": "Earth"
           }
         },
@@ -350,7 +374,8 @@
           "body": "Avatar: The Last Airbender",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         },
@@ -358,10 +383,32 @@
           "body": "Nickelodeon",
           "key": "${link_2}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
+        },
+        {
+          "body": "high-definition",
+          "key": "${link_3}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/High-definition_television",
+            "page": "http://en.wikipedia.org/wiki/High-definition_television"
+          }
+        },
+        {
+          "body": "iTunes",
+          "key": "${link_4}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/iTunes",
+            "page": "http://en.wikipedia.org/wiki/iTunes"
+          }
         }
+      ],
+      "section": [
+        "The Legend of Korra"
       ],
       "text": "The Legend of Korra is an animated American television series set in the Avatar universe as a sequel series to Avatar: The Last Airbender. The premiere episode aired on Nickelodeon on April 14, 2012. However, the first two episodes were released online on March 24\u201325, 2012 and were available in high-definition for free on iTunes. The series ran for fifty-two episodes, completing its run on December 19, 2014."
     },
@@ -372,7 +419,8 @@
           "body": "Korra",
           "key": "${link_0}",
           "target": {
-            "href": "Korra",
+            "external": false,
+            "href": "/wiki/Korra",
             "page": "Korra"
           }
         },
@@ -380,7 +428,8 @@
           "body": "Avatar",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar",
+            "external": false,
+            "href": "/wiki/Avatar",
             "page": "Avatar"
           }
         },
@@ -388,7 +437,8 @@
           "body": "Aang",
           "key": "${link_2}",
           "target": {
-            "href": "Aang",
+            "external": false,
+            "href": "/wiki/Aang",
             "page": "Aang"
           }
         },
@@ -396,10 +446,14 @@
           "body": "Southern Water Tribe",
           "key": "${link_3}",
           "target": {
-            "href": "Southern_Water_Tribe",
+            "external": false,
+            "href": "/wiki/Southern_Water_Tribe",
             "page": "Southern_Water_Tribe"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra"
       ],
       "text": "The series picks up seventy years after the end of the Avatar: The Last Airbender story arc with brand new characters and settings. The protagonist of the new series, Korra, the Avatar after Aang, is a hot-headed and rebellious young woman from the Southern Water Tribe who is \"ready to take on the world\". The series follows Korra as she faces the difficult challenges, duties, and responsibilities that come with being the Avatar."
     },
@@ -410,7 +464,8 @@
           "body": "Hundred Year War",
           "key": "${link_0}",
           "target": {
-            "href": "Hundred_Year_War",
+            "external": false,
+            "href": "/wiki/Hundred_Year_War",
             "page": "Hundred_Year_War"
           }
         },
@@ -418,7 +473,8 @@
           "body": "Fire Lord",
           "key": "${link_1}",
           "target": {
-            "href": "Fire_Lord",
+            "external": false,
+            "href": "/wiki/Fire_Lord",
             "page": "Fire_Lord"
           }
         },
@@ -426,7 +482,8 @@
           "body": "Zuko",
           "key": "${link_2}",
           "target": {
-            "href": "Zuko",
+            "external": false,
+            "href": "/wiki/Zuko",
             "page": "Zuko"
           }
         },
@@ -434,7 +491,8 @@
           "body": "four nations",
           "key": "${link_3}",
           "target": {
-            "href": "Four_nations",
+            "external": false,
+            "href": "/wiki/Four_nations",
             "page": "Four_nations"
           }
         },
@@ -442,7 +500,8 @@
           "body": "United Republic of Nations",
           "key": "${link_4}",
           "target": {
-            "href": "United_Republic_of_Nations",
+            "external": false,
+            "href": "/wiki/United_Republic_of_Nations",
             "page": "United_Republic_of_Nations"
           }
         },
@@ -450,7 +509,8 @@
           "body": "Republic City",
           "key": "${link_5}",
           "target": {
-            "href": "Republic_City",
+            "external": false,
+            "href": "/wiki/Republic_City",
             "page": "Republic_City"
           }
         },
@@ -458,7 +518,8 @@
           "body": "Tenzin",
           "key": "${link_6}",
           "target": {
-            "href": "Tenzin",
+            "external": false,
+            "href": "/wiki/Tenzin",
             "page": "Tenzin"
           }
         },
@@ -466,7 +527,8 @@
           "body": "Toph Beifong",
           "key": "${link_7}",
           "target": {
-            "href": "Toph_Beifong",
+            "external": false,
+            "href": "/wiki/Toph_Beifong",
             "page": "Toph_Beifong"
           }
         },
@@ -474,7 +536,8 @@
           "body": "metalbending",
           "key": "${link_8}",
           "target": {
-            "href": "Metalbending",
+            "external": false,
+            "href": "/wiki/Metalbending",
             "page": "Metalbending"
           }
         },
@@ -482,10 +545,16 @@
           "body": "AG",
           "key": "${link_9}",
           "target": {
-            "href": "History_of_the_World_of_Avatar#Post_war_.28100_AG_.E2.80.94_171_AG.29",
+            "external": false,
+            "href": "/wiki/History_of_the_World_of_Avatar#Post_war_.28100_AG_.E2.80.94_171_AG.29",
             "page": "History_of_the_World_of_Avatar"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Plot overview",
+        "Book One: Air"
       ],
       "text": "After the conclusion of the Hundred Year War, Avatar Aang and Fire Lord\u00a0Zuko\u00a0had brought people from the four nations together and founded the United Republic of Nations, with its capital being Republic City, a large \"metropolis powered by steampunk-type technology\" such as cars and motorcycles. Aang and Katara had three children, the youngest of which was Tenzin, the only airbender of the three siblings. Meanwhile, Toph Beifong had traveled extensively to teach metalbending to other earthbenders. After Aang's death in 153 AG, he was reincarnated as a Southern Water Tribe girl named Korra."
     },
@@ -496,7 +565,8 @@
           "body": "airbending training",
           "key": "${link_0}",
           "target": {
-            "href": "Airbending_training",
+            "external": false,
+            "href": "/wiki/Airbending_training",
             "page": "Airbending_training"
           }
         },
@@ -504,7 +574,8 @@
           "body": "waterbending",
           "key": "${link_1}",
           "target": {
-            "href": "Waterbending",
+            "external": false,
+            "href": "/wiki/Waterbending",
             "page": "Waterbending"
           }
         },
@@ -512,7 +583,8 @@
           "body": "earthbending",
           "key": "${link_2}",
           "target": {
-            "href": "Earthbending",
+            "external": false,
+            "href": "/wiki/Earthbending",
             "page": "Earthbending"
           }
         },
@@ -520,7 +592,8 @@
           "body": "firebending",
           "key": "${link_3}",
           "target": {
-            "href": "Firebending",
+            "external": false,
+            "href": "/wiki/Firebending",
             "page": "Firebending"
           }
         },
@@ -528,7 +601,8 @@
           "body": "airbending",
           "key": "${link_4}",
           "target": {
-            "href": "Airbending",
+            "external": false,
+            "href": "/wiki/Airbending",
             "page": "Airbending"
           }
         },
@@ -536,7 +610,8 @@
           "body": "Pema",
           "key": "${link_5}",
           "target": {
-            "href": "Pema",
+            "external": false,
+            "href": "/wiki/Pema",
             "page": "Pema"
           }
         },
@@ -544,7 +619,8 @@
           "body": "Jinora",
           "key": "${link_6}",
           "target": {
-            "href": "Jinora",
+            "external": false,
+            "href": "/wiki/Jinora",
             "page": "Jinora"
           }
         },
@@ -552,7 +628,8 @@
           "body": "Ikki",
           "key": "${link_7}",
           "target": {
-            "href": "Ikki",
+            "external": false,
+            "href": "/wiki/Ikki",
             "page": "Ikki"
           }
         },
@@ -560,7 +637,8 @@
           "body": "Meelo",
           "key": "${link_8}",
           "target": {
-            "href": "Meelo",
+            "external": false,
+            "href": "/wiki/Meelo",
             "page": "Meelo"
           }
         },
@@ -568,7 +646,8 @@
           "body": "Turning the Tides",
           "key": "${link_9}",
           "target": {
-            "href": "Turning_the_Tides",
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
             "page": "Turning_the_Tides"
           }
         },
@@ -576,34 +655,18 @@
           "body": "Rohan",
           "key": "${link_10}",
           "target": {
-            "href": "Rohan",
+            "external": false,
+            "href": "/wiki/Rohan",
             "page": "Rohan"
           }
         }
       ],
-      "text": "At the present time, seventy years after the end of the Hundred Year War, Korra, a rebellious, seventeen-year-old girl, is set to complete her airbending training and fulfill her role as the Avatar. She has already mastered waterbending, earthbending, and firebending by this point. At the beginning of the series, Korra travels to Republic City and starts her airbending training with Tenzin. Tenzin himself is married to Pema. He has two daughters, Jinora, a \"bookworm\", and Ikki, a \"motor-mouth\", while Meelo, his first son, was his only son until the tenth episode, \"Turning the Tides\", when Pema gave birth to another boy named Rohan."
-    },
-    {
-      "body": "${link_0} was the main setting for ${link_1}.",
-      "links": [
-        {
-          "body": "Republic City",
-          "key": "${link_0}",
-          "target": {
-            "href": "Republic_City",
-            "page": "Republic_City"
-          }
-        },
-        {
-          "body": "Book One: Air",
-          "key": "${link_1}",
-          "target": {
-            "href": "Book_One__Air",
-            "page": "Book_One__Air"
-          }
-        }
+      "section": [
+        "The Legend of Korra",
+        "Plot overview",
+        "Book One: Air"
       ],
-      "text": "Republic City was the main setting for Book One: Air."
+      "text": "At the present time, seventy years after the end of the Hundred Year War, Korra, a rebellious, seventeen-year-old girl, is set to complete her airbending training and fulfill her role as the Avatar. She has already mastered waterbending, earthbending, and firebending by this point. At the beginning of the series, Korra travels to Republic City and starts her airbending training with Tenzin. Tenzin himself is married to Pema. He has two daughters, Jinora, a \"bookworm\", and Ikki, a \"motor-mouth\", while Meelo, his first son, was his only son until the tenth episode, \"Turning the Tides\", when Pema gave birth to another boy named Rohan."
     },
     {
       "body": "However, Republic City is not what Korra imagined it to be. Anti-benders called \"${link_0}\", who oppose the arts of ${link_1}, utilize techniques such as ${link_2} to further their goals of revolution, led by ${link_3}. Korra must fight rampant crime and the ${link_4}, assisted by two brothers, ${link_5}, a firebender, and ${link_6}, an earthbender. She is also joined by her animal companion, ${link_7}, and the ${link_8} Force, who are led by Toph's daughter, ${link_9}.",
@@ -612,7 +675,8 @@
           "body": "Equalists",
           "key": "${link_0}",
           "target": {
-            "href": "Equalists",
+            "external": false,
+            "href": "/wiki/Equalists",
             "page": "Equalists"
           }
         },
@@ -620,7 +684,8 @@
           "body": "bending",
           "key": "${link_1}",
           "target": {
-            "href": "Bending_arts",
+            "external": false,
+            "href": "/wiki/Bending_arts",
             "page": "Bending_arts"
           }
         },
@@ -628,7 +693,8 @@
           "body": "chi blocking",
           "key": "${link_2}",
           "target": {
-            "href": "Chi_blocking",
+            "external": false,
+            "href": "/wiki/Chi_blocking",
             "page": "Chi_blocking"
           }
         },
@@ -636,7 +702,8 @@
           "body": "Amon",
           "key": "${link_3}",
           "target": {
-            "href": "Amon",
+            "external": false,
+            "href": "/wiki/Amon",
             "page": "Amon"
           }
         },
@@ -644,7 +711,8 @@
           "body": "Anti-bending Revolution",
           "key": "${link_4}",
           "target": {
-            "href": "Anti-bending_Revolution",
+            "external": false,
+            "href": "/wiki/Anti-bending_Revolution",
             "page": "Anti-bending_Revolution"
           }
         },
@@ -652,7 +720,8 @@
           "body": "Mako",
           "key": "${link_5}",
           "target": {
-            "href": "Mako",
+            "external": false,
+            "href": "/wiki/Mako",
             "page": "Mako"
           }
         },
@@ -660,7 +729,8 @@
           "body": "Bolin",
           "key": "${link_6}",
           "target": {
-            "href": "Bolin",
+            "external": false,
+            "href": "/wiki/Bolin",
             "page": "Bolin"
           }
         },
@@ -668,7 +738,8 @@
           "body": "Naga",
           "key": "${link_7}",
           "target": {
-            "href": "Naga",
+            "external": false,
+            "href": "/wiki/Naga",
             "page": "Naga"
           }
         },
@@ -676,7 +747,8 @@
           "body": "Republic City Police",
           "key": "${link_8}",
           "target": {
-            "href": "Republic_City_Police",
+            "external": false,
+            "href": "/wiki/Republic_City_Police",
             "page": "Republic_City_Police"
           }
         },
@@ -684,10 +756,16 @@
           "body": "Lin Beifong",
           "key": "${link_9}",
           "target": {
-            "href": "Lin_Beifong",
+            "external": false,
+            "href": "/wiki/Lin_Beifong",
             "page": "Lin_Beifong"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Plot overview",
+        "Book One: Air"
       ],
       "text": "However, Republic City is not what Korra imagined it to be. Anti-benders called \"Equalists\", who oppose the arts of bending, utilize techniques such as chi blocking to further their goals of revolution, led by Amon. Korra must fight rampant crime and the Anti-bending Revolution, assisted by two brothers, Mako, a firebender, and Bolin, an earthbender. She is also joined by her animal companion, Naga, and the Republic City Police Force, who are led by Toph's daughter, Lin Beifong."
     },
@@ -698,10 +776,16 @@
           "body": "realm of spirits",
           "key": "${link_0}",
           "target": {
-            "href": "Spirit_World",
+            "external": false,
+            "href": "/wiki/Spirit_World",
             "page": "Spirit_World"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Plot overview",
+        "Book Two: Spirits"
       ],
       "text": "Six months after the events of the Anti-bending Revolution, Korra, having learned to bend all four elements and achieved status as a Fully Realized Avatar, must once again become the student when she delves into the realm of spirits under her paternal uncle's teachings and tutelage. Now learning the depths of her spiritual connections, Korra soon discovers that light cannot exist without the dark, and in a never ending cycle of creation and destruction, only she has the ability to maintain balance in the world."
     },
@@ -712,7 +796,8 @@
           "body": "Harmonic Convergence",
           "key": "${link_0}",
           "target": {
-            "href": "Harmonic_Convergence",
+            "external": false,
+            "href": "/wiki/Harmonic_Convergence",
             "page": "Harmonic_Convergence"
           }
         },
@@ -720,7 +805,8 @@
           "body": "Earth Kingdom",
           "key": "${link_1}",
           "target": {
-            "href": "Earth_Kingdom",
+            "external": false,
+            "href": "/wiki/Earth_Kingdom",
             "page": "Earth_Kingdom"
           }
         },
@@ -728,7 +814,8 @@
           "body": "Air Nation",
           "key": "${link_2}",
           "target": {
-            "href": "Air_Nomads#Rebirth_of_a_nation",
+            "external": false,
+            "href": "/wiki/Air_Nomads#Rebirth_of_a_nation",
             "page": "Air_Nomads"
           }
         },
@@ -736,7 +823,8 @@
           "body": "Zaheer",
           "key": "${link_3}",
           "target": {
-            "href": "Zaheer",
+            "external": false,
+            "href": "/wiki/Zaheer",
             "page": "Zaheer"
           }
         },
@@ -744,7 +832,8 @@
           "body": "Red Lotus",
           "key": "${link_4}",
           "target": {
-            "href": "Red_Lotus",
+            "external": false,
+            "href": "/wiki/Red_Lotus",
             "page": "Red_Lotus"
           }
         },
@@ -752,10 +841,16 @@
           "body": "prisons",
           "key": "${link_5}",
           "target": {
-            "href": "White_Lotus_prisons",
+            "external": false,
+            "href": "/wiki/White_Lotus_prisons",
             "page": "White_Lotus_prisons"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Plot overview",
+        "Book Three: Change"
       ],
       "text": "With a shift in the world's energy due to Harmonic Convergence, the ability to airbend has resurfaced in some nonbenders, prompting Korra and her allies to scour the Earth Kingdom in search for these new benders to offer training and guidance. However, while the Air Nation is slowly being rebuilt, Zaheer and his fellow Red Lotus accomplices escape their respective prisons and set out to bring all the nations down and succumb the world into anarchy. Their belief that disorder is the natural order poses a lethal threat to Korra and she must fight to save not only the balance of the nations in the world, but also herself and the Avatar Cycle."
     },
@@ -766,7 +861,8 @@
           "body": "insurrection of the Red Lotus",
           "key": "${link_0}",
           "target": {
-            "href": "Insurrection_of_the_Red_Lotus",
+            "external": false,
+            "href": "/wiki/Insurrection_of_the_Red_Lotus",
             "page": "Insurrection_of_the_Red_Lotus"
           }
         },
@@ -774,7 +870,8 @@
           "body": "Zaofu",
           "key": "${link_1}",
           "target": {
-            "href": "Zaofu",
+            "external": false,
+            "href": "/wiki/Zaofu",
             "page": "Zaofu"
           }
         },
@@ -782,7 +879,8 @@
           "body": "Kuvira",
           "key": "${link_2}",
           "target": {
-            "href": "Kuvira",
+            "external": false,
+            "href": "/wiki/Kuvira",
             "page": "Kuvira"
           }
         },
@@ -790,7 +888,8 @@
           "body": "Baatar Jr.",
           "key": "${link_3}",
           "target": {
-            "href": "Baatar_Jr",
+            "external": false,
+            "href": "/wiki/Baatar_Jr",
             "page": "Baatar_Jr"
           }
         },
@@ -798,7 +897,8 @@
           "body": "Wu",
           "key": "${link_4}",
           "target": {
-            "href": "Wu",
+            "external": false,
+            "href": "/wiki/Wu",
             "page": "Wu"
           }
         },
@@ -806,72 +906,1214 @@
           "body": "mercury",
           "key": "${link_5}",
           "target": {
-            "href": "Mercury",
+            "external": false,
+            "href": "/wiki/Mercury",
             "page": "Mercury"
           }
         }
       ],
+      "section": [
+        "The Legend of Korra",
+        "Plot overview",
+        "Book Four: Balance"
+      ],
       "text": "Following the insurrection of the Red Lotus, Korra left to the Southern Water Tribe to recuperate and Team Avatar moved on with their lives. Three years later, in 174 AG, the former captain of Zaofu's guard, Kuvira, has been traveling the Earth Kingdom with Bolin, Varrick, and her fianc\u00e9e, Baatar Jr., on a quest to reunite the nation after it fell into disarray following Queen Hou-Ting's death. When she was supposed to relinquish control to the newly crowned Earth King Wu, she denounced his authority and appointed herself the ruler of the Earth Empire. Meanwhile, Korra managed to heal physically, though she is still facing an emotional block caused by residual traces of mercury. With troubles coming to the Earth Kingdom, Team Avatar divided, and the Avatar's whereabouts unknown, the search for balance begins anew."
     },
     {
-      "body": "The main members of ${link_0} - ${link_1}, ${link_2}, ${link_3}, and ${link_4} - mark their alliance.",
+      "body": "${link_0} (${link_1}) is the Avatar immediately succeeding Aang and the main protagonist of the series. She is a talented bender, eager to learn. Hotheaded and rebellious, Korra relishes her role as \"The Chosen One\". She also has a ${link_2} named ${link_3} as her animal companion.",
       "links": [
         {
-          "body": "Team Avatar",
+          "body": "Korra",
           "key": "${link_0}",
           "target": {
-            "href": "Team_Avatar_(Korra)",
-            "page": "Team_Avatar_(Korra)"
-          }
-        },
-        {
-          "body": "Korra",
-          "key": "${link_1}",
-          "target": {
-            "href": "Korra",
+            "external": false,
+            "href": "/wiki/Korra",
             "page": "Korra"
           }
         },
         {
-          "body": "Mako",
+          "body": "Janet Varney",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Janet_Varney",
+            "page": "Janet_Varney"
+          }
+        },
+        {
+          "body": "polar bear dog",
           "key": "${link_2}",
           "target": {
-            "href": "Mako",
+            "external": false,
+            "href": "/wiki/Polar_bear_dog",
+            "page": "Polar_bear_dog"
+          }
+        },
+        {
+          "body": "Naga",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Naga",
+            "page": "Naga"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Main characters"
+      ],
+      "text": "Korra (Janet Varney) is the Avatar immediately succeeding Aang and the main protagonist of the series. She is a talented bender, eager to learn. Hotheaded and rebellious, Korra relishes her role as \"The Chosen One\". She also has a polar bear dog named Naga as her animal companion."
+    },
+    {
+      "body": "${link_0} (${link_1}) is a firebender who grew up on the streets of Republic City with his younger brother Bolin, who introduces him to Korra. Tall, lean, and handsome, he was a skilled participant in ${link_2} and the former captain of the ${link_3}, before becoming a police officer.",
+      "links": [
+        {
+          "body": "Mako",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Mako",
             "page": "Mako"
           }
         },
         {
-          "body": "Bolin",
+          "body": "David Faustino",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/David_Faustino",
+            "page": "David_Faustino"
+          }
+        },
+        {
+          "body": "pro-bending",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Pro-bending",
+            "page": "Pro-bending"
+          }
+        },
+        {
+          "body": "Fire Ferrets",
           "key": "${link_3}",
           "target": {
-            "href": "Bolin",
+            "external": false,
+            "href": "/wiki/Future_Industries_Fire_Ferrets",
+            "page": "Future_Industries_Fire_Ferrets"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Main characters"
+      ],
+      "text": "Mako (David Faustino) is a firebender who grew up on the streets of Republic City with his younger brother Bolin, who introduces him to Korra. Tall, lean, and handsome, he was a skilled participant in pro-bending and the former captain of the Fire Ferrets, before becoming a police officer."
+    },
+    {
+      "body": "${link_0} (${link_1}) is an earthbender who, along with his brother Mako, becomes friends with Korra. He shares a deep bond with his brother and keeps a ${link_2} named ${link_3}. Bolin is enthusiastic and optimistic and, as a pro-bender, enjoys all the attention he receives from his female fans. His charismatic ways land him a gig as an actor.",
+      "links": [
+        {
+          "body": "Bolin",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bolin",
             "page": "Bolin"
           }
         },
         {
-          "body": "Asami",
-          "key": "${link_4}",
+          "body": "P. J. Byrne",
+          "key": "${link_1}",
           "target": {
-            "href": "Asami_Sato",
-            "page": "Asami_Sato"
+            "external": false,
+            "href": "/wiki/P._J",
+            "page": "P._J"
+          }
+        },
+        {
+          "body": "fire ferret",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Fire_ferret",
+            "page": "Fire_ferret"
+          }
+        },
+        {
+          "body": "Pabu",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Pabu",
+            "page": "Pabu"
           }
         }
       ],
-      "text": "The main members of Team Avatar - Korra, Mako, Bolin, and Asami - mark their alliance."
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Main characters"
+      ],
+      "text": "Bolin (P. J. Byrne) is an earthbender who, along with his brother Mako, becomes friends with Korra. He shares a deep bond with his brother and keeps a fire ferret named Pabu. Bolin is enthusiastic and optimistic and, as a pro-bender, enjoys all the attention he receives from his female fans. His charismatic ways land him a gig as an actor."
     },
     {
-      "body": "${link_0} breaks the tradition of having a male role lead in an action series.",
+      "body": "${link_0} (${link_1}) is the daughter of Hiroshi Sato. Asami has lived a life of luxury, but despite her fancy clothes and polite manners, she has a tough side. She is an expert driver and has had extensive self-defense training. Asami is a \"big fan\" of pro-bending, and after her father's incarceration, she takes over his company.",
       "links": [
         {
-          "body": "Korra",
+          "body": "Asami Sato",
           "key": "${link_0}",
           "target": {
-            "href": "Korra",
-            "page": "Korra"
+            "external": false,
+            "href": "/wiki/Asami_Sato",
+            "page": "Asami_Sato"
+          }
+        },
+        {
+          "body": "Seychelle Gabriel",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Seychelle_Gabriel",
+            "page": "Seychelle_Gabriel"
           }
         }
       ],
-      "text": "Korra breaks the tradition of having a male role lead in an action series."
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Main characters"
+      ],
+      "text": "Asami Sato (Seychelle Gabriel) is the daughter of Hiroshi Sato. Asami has lived a life of luxury, but despite her fancy clothes and polite manners, she has a tough side. She is an expert driver and has had extensive self-defense training. Asami is a \"big fan\" of pro-bending, and after her father's incarceration, she takes over his company."
+    },
+    {
+      "body": "${link_0} (${link_1}) is the youngest son of Aang and Katara and an airbending master. A calm and serious man, he carries a great burden to protect not only Korra, but also Republic City. Tenzin resides on ${link_2} with his wife, ${link_3}, and his four children, ${link_4}, ${link_5}, ${link_6}, and ${link_7}.",
+      "links": [
+        {
+          "body": "Tenzin",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Tenzin",
+            "page": "Tenzin"
+          }
+        },
+        {
+          "body": "J. K. Simmons",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/J._K",
+            "page": "J._K"
+          }
+        },
+        {
+          "body": "Air Temple Island",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Air_Temple_Island",
+            "page": "Air_Temple_Island"
+          }
+        },
+        {
+          "body": "Pema",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Pema",
+            "page": "Pema"
+          }
+        },
+        {
+          "body": "Jinora",
+          "key": "${link_4}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jinora",
+            "page": "Jinora"
+          }
+        },
+        {
+          "body": "Ikki",
+          "key": "${link_5}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ikki",
+            "page": "Ikki"
+          }
+        },
+        {
+          "body": "Meelo",
+          "key": "${link_6}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Meelo",
+            "page": "Meelo"
+          }
+        },
+        {
+          "body": "Rohan",
+          "key": "${link_7}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rohan",
+            "page": "Rohan"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Main characters"
+      ],
+      "text": "Tenzin (J. K. Simmons) is the youngest son of Aang and Katara and an airbending master. A calm and serious man, he carries a great burden to protect not only Korra, but also Republic City. Tenzin resides on Air Temple Island with his wife, Pema, and his four children, Jinora, Ikki, Meelo, and Rohan."
+    },
+    {
+      "body": "${link_0} (${link_1}) leads the Metalbending Police Force of Republic City and is the daughter of Toph Beifong. She is tough and uncompromising, believing that the only way to maintain peace and stability in the city is through the use of military might.",
+      "links": [
+        {
+          "body": "Lin Beifong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lin_Beifong",
+            "page": "Lin_Beifong"
+          }
+        },
+        {
+          "body": "Mindy Sterling",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Mindy_Sterling",
+            "page": "Mindy_Sterling"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Main characters"
+      ],
+      "text": "Lin Beifong (Mindy Sterling) leads the Metalbending Police Force of Republic City and is the daughter of Toph Beifong. She is tough and uncompromising, believing that the only way to maintain peace and stability in the city is through the use of military might."
+    },
+    {
+      "body": "${link_0} (${link_1}) is the main antagonist of the first book of the series. He is the charismatic and mysterious leader of the Equalists, whose ultimate goal is to create equality through an anti-bending revolution. He wears a mask to conceal his face. A nimble and stealthy fighter, Amon is fearless in facing his opponents, regardless of their bending skills, and also forms a great danger for the benders, being able to take their bending away.",
+      "links": [
+        {
+          "body": "Amon",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Amon",
+            "page": "Amon"
+          }
+        },
+        {
+          "body": "Steve Blum",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Steve_Blum",
+            "page": "Steve_Blum"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book One characters"
+      ],
+      "text": "Amon (Steve Blum) is the main antagonist of the first book of the series. He is the charismatic and mysterious leader of the Equalists, whose ultimate goal is to create equality through an anti-bending revolution. He wears a mask to conceal his face. A nimble and stealthy fighter, Amon is fearless in facing his opponents, regardless of their bending skills, and also forms a great danger for the benders, being able to take their bending away."
+    },
+    {
+      "body": "The ${link_0} (${link_1}) is Amon's second-in-command. He is an intense, disciplined fighter who augments his amazing skills with two electrified kali sticks.",
+      "links": [
+        {
+          "body": "Lieutenant",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lieutenant",
+            "page": "Lieutenant"
+          }
+        },
+        {
+          "body": "Lance Henriksen",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lance_Henriksen",
+            "page": "Lance_Henriksen"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book One characters"
+      ],
+      "text": "The Lieutenant (Lance Henriksen) is Amon's second-in-command. He is an intense, disciplined fighter who augments his amazing skills with two electrified kali sticks."
+    },
+    {
+      "body": "${link_0} (${link_1}) is a barrel-chested businessman with a big personality. His family lineage extends back to the first Fire Nation colonists. Hiroshi is a wealthy industrialist, producing ${link_2} from his ${link_3} factories. He is later revealed to be working with the Equalists by manufacturing the technology they use to fight, as revenge against all benders for the murder of his wife, ${link_4}.",
+      "links": [
+        {
+          "body": "Hiroshi Sato",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Hiroshi_Sato",
+            "page": "Hiroshi_Sato"
+          }
+        },
+        {
+          "body": "Daniel Dae Kim",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Daniel_Dae_Kim",
+            "page": "Daniel_Dae_Kim"
+          }
+        },
+        {
+          "body": "Satomobiles",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Satomobile",
+            "page": "Satomobile"
+          }
+        },
+        {
+          "body": "Future Industries",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Future_Industries",
+            "page": "Future_Industries"
+          }
+        },
+        {
+          "body": "Yasuko",
+          "key": "${link_4}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Yasuko",
+            "page": "Yasuko"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book One characters"
+      ],
+      "text": "Hiroshi Sato (Daniel Dae Kim) is a barrel-chested businessman with a big personality. His family lineage extends back to the first Fire Nation colonists. Hiroshi is a wealthy industrialist, producing Satomobiles from his Future Industries factories. He is later revealed to be working with the Equalists by manufacturing the technology they use to fight, as revenge against all benders for the murder of his wife, Yasuko."
+    },
+    {
+      "body": "${link_0} (${link_1}) is the secondary antagonist of the first book of the series. He is the representative for the Northern Water Tribe on the ${link_2} and also serves as its chairman. Tarrlok seeks to fight the Anti-bending Revolution with violence rather than peaceful negotiation and is willing to go to extreme lengths to win the conflict against the Equalists, even if it means fanning the flames of aggression and risking the lives of innocent people.",
+      "links": [
+        {
+          "body": "Tarrlok",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Tarrlok",
+            "page": "Tarrlok"
+          }
+        },
+        {
+          "body": "Dee Bradley Baker",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dee_Bradley_Baker",
+            "page": "Dee_Bradley_Baker"
+          }
+        },
+        {
+          "body": "United Republic Council",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/United_Republic_Council",
+            "page": "United_Republic_Council"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book One characters"
+      ],
+      "text": "Tarrlok (Dee Bradley Baker) is the secondary antagonist of the first book of the series. He is the representative for the Northern Water Tribe on the United Republic Council and also serves as its chairman. Tarrlok seeks to fight the Anti-bending Revolution with violence rather than peaceful negotiation and is willing to go to extreme lengths to win the conflict against the Equalists, even if it means fanning the flames of aggression and risking the lives of innocent people."
+    },
+    {
+      "body": "${link_0} (${link_1}) is Korra's respected warrior father. He was once in line to inherit the chiefdom of the Northern Water Tribe, but left to settle in the South Pole. Despite being an excellent waterbender, he lacks the spiritual connection to his people.",
+      "links": [
+        {
+          "body": "Tonraq",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Tonraq",
+            "page": "Tonraq"
+          }
+        },
+        {
+          "body": "James Remar",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/James_Remar",
+            "page": "James_Remar"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Two characters"
+      ],
+      "text": "Tonraq (James Remar) is Korra's respected warrior father. He was once in line to inherit the chiefdom of the Northern Water Tribe, but left to settle in the South Pole. Despite being an excellent waterbender, he lacks the spiritual connection to his people."
+    },
+    {
+      "body": "${link_0} (${link_1}) is the main antagonist of the second book of the series. He is Korra's paternal uncle and current chief of both the Northern and Southern Water Tribes. As a particularly spiritual man, he possesses an extremely strong connection with the Spirit World. He is a firm believer in the old ways of the Water Tribe and a true fundamentalist as far as honoring the spirits is concerned.",
+      "links": [
+        {
+          "body": "Unalaq",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Unalaq",
+            "page": "Unalaq"
+          }
+        },
+        {
+          "body": "Adrian LaTourelle",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Adrian_LaTourelle",
+            "page": "Adrian_LaTourelle"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Two characters"
+      ],
+      "text": "Unalaq (Adrian LaTourelle) is the main antagonist of the second book of the series. He is Korra's paternal uncle and current chief of both the Northern and Southern Water Tribes. As a particularly spiritual man, he possesses an extremely strong connection with the Spirit World. He is a firm believer in the old ways of the Water Tribe and a true fundamentalist as far as honoring the spirits is concerned."
+    },
+    {
+      "body": "${link_0} (${link_1} and ${link_2}) are Chief Unalaq's twin children and Korra's cousins. They rarely show emotion and find most people, places, and things very boring. Both are incredible waterbenders and are able to perform amazing feats in tandem. Eska is also the ${link_3} of the Northern Water Tribe.",
+      "links": [
+        {
+          "body": "Desna and Eska",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Desna_and_Eska",
+            "page": "Desna_and_Eska"
+          }
+        },
+        {
+          "body": "Aaron Himelstein",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Aaron_Himelstein",
+            "page": "Aaron_Himelstein"
+          }
+        },
+        {
+          "body": "Aubrey Plaza",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Aubrey_Plaza",
+            "page": "Aubrey_Plaza"
+          }
+        },
+        {
+          "body": "princess",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Tribal_Princess",
+            "page": "Tribal_Princess"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Two characters"
+      ],
+      "text": "Desna and Eska (Aaron Himelstein and Aubrey Plaza) are Chief Unalaq's twin children and Korra's cousins. They rarely show emotion and find most people, places, and things very boring. Both are incredible waterbenders and are able to perform amazing feats in tandem. Eska is also the princess of the Northern Water Tribe."
+    },
+    {
+      "body": "${link_0} (${link_1}) is Tenzin's older brother and the former commander of the ${link_2} Second Division. Described as being wild by ${link_3}, he is a brave man and great strategist, despite having tendencies of childishness that are often directed at his little brother.",
+      "links": [
+        {
+          "body": "Bumi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bumi",
+            "page": "Bumi"
+          }
+        },
+        {
+          "body": "Richard Riehle",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Richard_Riehle",
+            "page": "Richard_Riehle"
+          }
+        },
+        {
+          "body": "United Forces",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/United_Forces",
+            "page": "United_Forces"
+          }
+        },
+        {
+          "body": "General Iroh",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Iroh_(United_Forces_general)",
+            "page": "Iroh_(United_Forces_general)"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Two characters"
+      ],
+      "text": "Bumi (Richard Riehle) is Tenzin's older brother and the former commander of the United Forces Second Division. Described as being wild by General Iroh, he is a brave man and great strategist, despite having tendencies of childishness that are often directed at his little brother."
+    },
+    {
+      "body": "${link_0} (${link_1}) is Tenzin's older sister and the second of ${link_2} and ${link_3}'s three children. She is a great waterbender like her mother, and a proficient healer. Although she keeps a clear head in times of distress, she becomes wild and unpredictable around her brothers.",
+      "links": [
+        {
+          "body": "Kya",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kya",
+            "page": "Kya"
+          }
+        },
+        {
+          "body": "Lisa Edelstein",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lisa_Edelstein",
+            "page": "Lisa_Edelstein"
+          }
+        },
+        {
+          "body": "Aang",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Aang",
+            "page": "Aang"
+          }
+        },
+        {
+          "body": "Katara",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Katara",
+            "page": "Katara"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Two characters"
+      ],
+      "text": "Kya (Lisa Edelstein) is Tenzin's older sister and the second of Aang and Katara's three children. She is a great waterbender like her mother, and a proficient healer. Although she keeps a clear head in times of distress, she becomes wild and unpredictable around her brothers."
+    },
+    {
+      "body": "${link_0} (${link_1}) is the secondary antagonist of the second book of the series. He is an eccentric captain of industry from the Southern Water Tribe, who would go to great lengths to increase his wealth. He spends most of his time traveling around the world on his ${link_2}.",
+      "links": [
+        {
+          "body": "Varrick",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Iknik_Blackstone_Varrick",
+            "page": "Iknik_Blackstone_Varrick"
+          }
+        },
+        {
+          "body": "John Michael Higgins",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/John_Michael_Higgins",
+            "page": "John_Michael_Higgins"
+          }
+        },
+        {
+          "body": "yacht",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Varrick%27s_yacht",
+            "page": "Varrick%27s_yacht"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Two characters"
+      ],
+      "text": "Varrick (John Michael Higgins) is the secondary antagonist of the second book of the series. He is an eccentric captain of industry from the Southern Water Tribe, who would go to great lengths to increase his wealth. He spends most of his time traveling around the world on his yacht."
+    },
+    {
+      "body": "${link_0} (${link_1}) is Varrick's calm and loyal assistant. She almost never leaves her boss's side, fulfilling his every command without question.",
+      "links": [
+        {
+          "body": "Zhu Li",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zhu_Li_Moon",
+            "page": "Zhu_Li_Moon"
+          }
+        },
+        {
+          "body": "Stephanie Sheh",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Stephanie_Sheh",
+            "page": "Stephanie_Sheh"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Two characters"
+      ],
+      "text": "Zhu Li (Stephanie Sheh) is Varrick's calm and loyal assistant. She almost never leaves her boss's side, fulfilling his every command without question."
+    },
+    {
+      "body": "${link_0} ${link_1} (${link_2}) is the first democratically-chosen president of the United Republic of Nations. He was elected following the events of Book One: Air as a result of the dissolution of the United Republic Council.",
+      "links": [
+        {
+          "body": "President",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/President",
+            "page": "President"
+          }
+        },
+        {
+          "body": "Raiko",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Raiko",
+            "page": "Raiko"
+          }
+        },
+        {
+          "body": "Spencer Garrett",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Spencer_Garrett",
+            "page": "Spencer_Garrett"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Two characters"
+      ],
+      "text": "President Raiko (Spencer Garrett) is the first democratically-chosen president of the United Republic of Nations. He was elected following the events of Book One: Air as a result of the dissolution of the United Republic Council."
+    },
+    {
+      "body": "${link_0} (${link_1}) is the main antagonist of the third book of the series. He is a fugitive who gained airbending due to Harmonic Convergence and, along with his three comrades,\u00a0seeks to end the ${link_2} and the Avatar herself.",
+      "links": [
+        {
+          "body": "Zaheer",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zaheer",
+            "page": "Zaheer"
+          }
+        },
+        {
+          "body": "Henry Rollins",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Henry_Rollins",
+            "page": "Henry_Rollins"
+          }
+        },
+        {
+          "body": "Order of the White Lotus",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Order_of_the_White_Lotus",
+            "page": "Order_of_the_White_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Three characters"
+      ],
+      "text": "Zaheer (Henry Rollins) is the main antagonist of the third book of the series. He is a fugitive who gained airbending due to Harmonic Convergence and, along with his three comrades,\u00a0seeks to end the Order of the White Lotus and the Avatar herself."
+    },
+    {
+      "body": "${link_0} (${link_1}) is an earthbending criminal and ally of Zaheer. He is able to phase-change earth and ${link_2}.",
+      "links": [
+        {
+          "body": "Ghazan",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ghazan",
+            "page": "Ghazan"
+          }
+        },
+        {
+          "body": "Peter Giles",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Peter_Giles",
+            "page": "Peter_Giles"
+          }
+        },
+        {
+          "body": "bend it into lava",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lavabending",
+            "page": "Lavabending"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Three characters"
+      ],
+      "text": "Ghazan (Peter Giles) is an earthbending criminal and ally of Zaheer. He is able to phase-change earth and bend it into lava."
+    },
+    {
+      "body": "${link_0} (${link_1}) is an armless waterbender who uses water as a substitute for her missing limbs. She is also a criminal and part of Zaheer's group.",
+      "links": [
+        {
+          "body": "Ming-Hua",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ming-Hua",
+            "page": "Ming-Hua"
+          }
+        },
+        {
+          "body": "Grey DeLisle",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Grey_DeLisle",
+            "page": "Grey_DeLisle"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Three characters"
+      ],
+      "text": "Ming-Hua (Grey DeLisle) is an armless waterbender who uses water as a substitute for her missing limbs. She is also a criminal and part of Zaheer's group."
+    },
+    {
+      "body": "${link_0} (${link_1}) is also a criminal and a firebender who can create explosions with her mind. She is Zaheer's girlfriend.",
+      "links": [
+        {
+          "body": "P'Li",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/P%27Li",
+            "page": "P%27Li"
+          }
+        },
+        {
+          "body": "Kristy Wu",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kristy_Wu",
+            "page": "Kristy_Wu"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Three characters"
+      ],
+      "text": "P'Li (Kristy Wu) is also a criminal and a firebender who can create explosions with her mind. She is Zaheer's girlfriend."
+    },
+    {
+      "body": "${link_0} (${link_1}) is the secondary antagonist of the third book of the series. She is the tyrannical ${link_2} of the Earth Kingdom who will do anything and everything in her power to attain what she wants, whether it is extorting money from her subjects or manipulating others into doing her work for her.",
+      "links": [
+        {
+          "body": "Hou-Ting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Hou-Ting",
+            "page": "Hou-Ting"
+          }
+        },
+        {
+          "body": "Jayne Taini",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jayne_Taini",
+            "page": "Jayne_Taini"
+          }
+        },
+        {
+          "body": "Queen",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Earth_monarch",
+            "page": "Earth_monarch"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Three characters"
+      ],
+      "text": "Hou-Ting (Jayne Taini) is the secondary antagonist of the third book of the series. She is the tyrannical Queen of the Earth Kingdom who will do anything and everything in her power to attain what she wants, whether it is extorting money from her subjects or manipulating others into doing her work for her."
+    },
+    {
+      "body": "${link_0} (${link_1}) is an orphan from the Earth Kingdom who acquired airbending abilities as a result of Harmonic Convergence. He has joined Team Avatar in their search for new airbenders. He later begins a romantic relationship with ${link_2}.",
+      "links": [
+        {
+          "body": "Kai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kai",
+            "page": "Kai"
+          }
+        },
+        {
+          "body": "Skyler Brigmann",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skyler_Brigmann",
+            "page": "Skyler_Brigmann"
+          }
+        },
+        {
+          "body": "Jinora",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jinora",
+            "page": "Jinora"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Three characters"
+      ],
+      "text": "Kai (Skyler Brigmann) is an orphan from the Earth Kingdom who acquired airbending abilities as a result of Harmonic Convergence. He has joined Team Avatar in their search for new airbenders. He later begins a romantic relationship with Jinora."
+    },
+    {
+      "body": "${link_0} (${link_1}) is the co-founder of Republic City and a former member of the original ${link_2}. He is currently leading attempts, alongside the various leaders of the different nations and the Order of the White Lotus, to recapture Zaheer, P'Li, Ming-Hua, and Ghazan before they can capture the Avatar for their own sinister intentions.",
+      "links": [
+        {
+          "body": "Zuko",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko",
+            "page": "Zuko"
+          }
+        },
+        {
+          "body": "Bruce Davison",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bruce_Davison",
+            "page": "Bruce_Davison"
+          }
+        },
+        {
+          "body": "Team Avatar",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Team_Avatar",
+            "page": "Team_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Three characters"
+      ],
+      "text": "Zuko (Bruce Davison) is the co-founder of Republic City and a former member of the original Team Avatar. He is currently leading attempts, alongside the various leaders of the different nations and the Order of the White Lotus, to recapture Zaheer, P'Li, Ming-Hua, and Ghazan before they can capture the Avatar for their own sinister intentions."
+    },
+    {
+      "body": "${link_0} (${link_1}) is the daughter of ${link_2} and the creator of the metal city, ${link_3}. Though she has a somewhat troubled past and a strained relationship with her older half-sister Lin, Suyin is happily married with five children.",
+      "links": [
+        {
+          "body": "Suyin Beifong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Suyin_Beifong",
+            "page": "Suyin_Beifong"
+          }
+        },
+        {
+          "body": "Anne Heche",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Anne_Heche",
+            "page": "Anne_Heche"
+          }
+        },
+        {
+          "body": "Toph Beifong",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Toph_Beifong",
+            "page": "Toph_Beifong"
+          }
+        },
+        {
+          "body": "Zaofu",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zaofu",
+            "page": "Zaofu"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Three characters"
+      ],
+      "text": "Suyin Beifong (Anne Heche) is the daughter of Toph Beifong and the creator of the metal city, Zaofu. Though she has a somewhat troubled past and a strained relationship with her older half-sister Lin, Suyin is happily married with five children."
+    },
+    {
+      "body": "${link_0} (${link_1}) is Suyin Beifong's only daughter. She acquired airbending abilities following the events of Harmonic Convergence and started to train, along with other newfound airbenders, under the tutelage of Tenzin. She has a romantic relationship with Bolin.",
+      "links": [
+        {
+          "body": "Opal Beifong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Opal_Beifong",
+            "page": "Opal_Beifong"
+          }
+        },
+        {
+          "body": "Alyson Stoner",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Alyson_Stoner",
+            "page": "Alyson_Stoner"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Three characters"
+      ],
+      "text": "Opal Beifong (Alyson Stoner) is Suyin Beifong's only daughter. She acquired airbending abilities following the events of Harmonic Convergence and started to train, along with other newfound airbenders, under the tutelage of Tenzin. She has a romantic relationship with Bolin."
+    },
+    {
+      "body": "${link_0} (${link_1}) is the main antagonist of the fourth and final book of the series. Introduced as a minor character in Book Three, she is a metalbender and was the captain of Zaofu's city guard before being appointed Interim President of the Earth Kingdom, forming her own army to reunite and stabilize the nation after the death of Earth Queen Hou-Ting. She would usurp the monarchy and declare the Earth Empire in its place.",
+      "links": [
+        {
+          "body": "Kuvira",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kuvira",
+            "page": "Kuvira"
+          }
+        },
+        {
+          "body": "Zelda Williams",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zelda_Williams",
+            "page": "Zelda_Williams"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Four characters"
+      ],
+      "text": "Kuvira (Zelda Williams) is the main antagonist of the fourth and final book of the series. Introduced as a minor character in Book Three, she is a metalbender and was the captain of Zaofu's city guard before being appointed Interim President of the Earth Kingdom, forming her own army to reunite and stabilize the nation after the death of Earth Queen Hou-Ting. She would usurp the monarchy and declare the Earth Empire in its place."
+    },
+    {
+      "body": "${link_0} (${link_1}) is Suyin's eldest son and the fianc\u00e9e of Kuvira. He is an inventor who uses his ideas to help aid Kuvira and her cause.",
+      "links": [
+        {
+          "body": "Baatar Jr.",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Baatar_Jr",
+            "page": "Baatar_Jr"
+          }
+        },
+        {
+          "body": "Todd Haberkorn",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Todd_Haberkorn",
+            "page": "Todd_Haberkorn"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Four characters"
+      ],
+      "text": "Baatar Jr. (Todd Haberkorn) is Suyin's eldest son and the fianc\u00e9e of Kuvira. He is an inventor who uses his ideas to help aid Kuvira and her cause."
+    },
+    {
+      "body": "${link_0} (${link_1}) is a great-nephew of Earth Queen Hou-Ting and her successor to the throne. He has been living in Republic City due to the ${link_2}, awaiting his opportunity to return safely and take the throne.",
+      "links": [
+        {
+          "body": "Wu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Wu",
+            "page": "Wu"
+          }
+        },
+        {
+          "body": "Sunil Malhotra",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sunil_Malhotra",
+            "page": "Sunil_Malhotra"
+          }
+        },
+        {
+          "body": "anarchy in the Earth Kingdom",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Anarchy_in_the_Earth_Kingdom",
+            "page": "Anarchy_in_the_Earth_Kingdom"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Four characters"
+      ],
+      "text": "Wu (Sunil Malhotra) is a great-nephew of Earth Queen Hou-Ting and her successor to the throne. He has been living in Republic City due to the anarchy in the Earth Kingdom, awaiting his opportunity to return safely and take the throne."
+    },
+    {
+      "body": "${link_0} (${link_1}) is the former Chief of Police of Republic City and the creator of metalbending. She is also a former member of the original Team Avatar and the mother of Lin and Suyin. After her early retirement from the police force, she set off to travel the world in search for enlightenment and settled down in the ${link_2}.",
+      "links": [
+        {
+          "body": "Toph Beifong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Toph_Beifong",
+            "page": "Toph_Beifong"
+          }
+        },
+        {
+          "body": "Philece Sampler",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Philece_Sampler",
+            "page": "Philece_Sampler"
+          }
+        },
+        {
+          "body": "Foggy Swamp",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Foggy_Swamp",
+            "page": "Foggy_Swamp"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Characters",
+        "Book Four characters"
+      ],
+      "text": "Toph Beifong (Philece Sampler) is the former Chief of Police of Republic City and the creator of metalbending. She is also a former member of the original Team Avatar and the mother of Lin and Suyin. After her early retirement from the police force, she set off to travel the world in search for enlightenment and settled down in the Foggy Swamp."
     },
     {
       "body": "Although the creators of the show had planned an ${link_0}, the success of Avatar: The Last Airbender caused Nickelodeon to ask for more episodes. The creators came up with an idea of the next Avatar, this time a girl named Korra. They decided upon a female Avatar due to the large audience of females from the original show and the adoration of the headstrong female characters by the female fan base, and felt it was time to have a big action franchise with a female in the lead instead of the traditional male role.",
@@ -880,10 +2122,16 @@
           "body": "ending to the show",
           "key": "${link_0}",
           "target": {
-            "href": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
             "page": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Development"
       ],
       "text": "Although the creators of the show had planned an ending to the show, the success of Avatar: The Last Airbender caused Nickelodeon to ask for more episodes. The creators came up with an idea of the next Avatar, this time a girl named Korra. They decided upon a female Avatar due to the large audience of females from the original show and the adoration of the headstrong female characters by the female fan base, and felt it was time to have a big action franchise with a female in the lead instead of the traditional male role."
     },
@@ -894,78 +2142,107 @@
           "body": "The Last Airbender",
           "key": "${link_0}",
           "target": {
-            "href": "Film_The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender",
             "page": "Film_The_Last_Airbender"
           }
         }
       ],
-      "text": "From April 2010, Nickelodeon began hiring staff for the production for the project. A title for the new mini-series, Avatar: Legend of Korra, was trademarked by Nickelodeon in May 2010 and leaked by the media shortly afterward; more information was revealed in late June 2010, just prior to the release of the feature film The Last Airbender. The new show was officially announced at the San Diego Comic-Con on July 22, 2010. It is darker and more mature than the original show; however, the creators are not attempting to target a new audience, intending to balance mature themes with a sense of fun and adventure. At that time, it was also announced that the series would run for twelve episodes."
-    },
-    {
-      "body": "The series is set in ${link_0} as ${link_1}, but in all-new locations.",
-      "links": [
-        {
-          "body": "the same world",
-          "key": "${link_0}",
-          "target": {
-            "href": "Earth",
-            "page": "Earth"
-          }
-        },
-        {
-          "body": "the original series",
-          "key": "${link_1}",
-          "target": {
-            "href": "Avatar__The_Last_Airbender",
-            "page": "Avatar__The_Last_Airbender"
-          }
-        }
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Development"
       ],
-      "text": "The series is set in the same world as the original series, but in all-new locations."
+      "text": "From April 2010, Nickelodeon began hiring staff for the production for the project. A title for the new mini-series, Avatar: Legend of Korra, was trademarked by Nickelodeon in May 2010 and leaked by the media shortly afterward; more information was revealed in late June 2010, just prior to the release of the feature film The Last Airbender. The new show was officially announced at the San Diego Comic-Con on July 22, 2010. It is darker and more mature than the original show; however, the creators are not attempting to target a new audience, intending to balance mature themes with a sense of fun and adventure. At that time, it was also announced that the series would run for twelve episodes."
     },
     {
       "body": "Also reported in July 2010 was that the mini-series was to take place in an all-new setting in a familiar, but changed world. DiMartino and Konietzko stated in an interview that the World of Avatar would be \"definitely changed, and evolved, and advanced, but we're very conscious of keeping the same feeling. Not totally different, but it's definitely generations later\". Republic City is intended to be the only major location to avoid repeating the around-the-world adventures seen in the original series.",
       "links": [],
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Development"
+      ],
       "text": "Also reported in July 2010 was that the mini-series was to take place in an all-new setting in a familiar, but changed world. DiMartino and Konietzko stated in an interview that the World of Avatar would be \"definitely changed, and evolved, and advanced, but we're very conscious of keeping the same feeling. Not totally different, but it's definitely generations later\". Republic City is intended to be the only major location to avoid repeating the around-the-world adventures seen in the original series."
     },
     {
       "body": "A change in the working title of the show to The Legend of Korra was unveiled in March 2011, along with an announcement that the premiere would be delayed until 2012. On March 7, 2011, part of the voice cast for the series was revealed, and on the next day, an interview with the creators was published announcing that the series had been extended by fourteen episodes, to make a total of 26 episodes for the series. Konietzko stated, \"We're really happy with that number. It allows us to focus much more closely on each episode and get a lot more craft into it.\"",
       "links": [],
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Development"
+      ],
       "text": "A change in the working title of the show to The Legend of Korra was unveiled in March 2011, along with an announcement that the premiere would be delayed until 2012. On March 7, 2011, part of the voice cast for the series was revealed, and on the next day, an interview with the creators was published announcing that the series had been extended by fourteen episodes, to make a total of 26 episodes for the series. Konietzko stated, \"We're really happy with that number. It allows us to focus much more closely on each episode and get a lot more craft into it.\""
     },
     {
       "body": "Animation on the first \"season\" of twelve episodes was underway as of March 2011, with initial development and voice recording for these episodes already completed. In the interview published in March 2011, DiMartino stated, \"We've written all the episodes. Episodes have shipped to the overseas animations studios and they're animating away as we speak ... All the vocal cast has been picked and recorded and all the scripts have been recorded.\" The next fourteen episodes are currently under development, while the first book, development having been completed, began to air in April 2012.",
       "links": [],
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Development"
+      ],
       "text": "Animation on the first \"season\" of twelve episodes was underway as of March 2011, with initial development and voice recording for these episodes already completed. In the interview published in March 2011, DiMartino stated, \"We've written all the episodes. Episodes have shipped to the overseas animations studios and they're animating away as we speak ... All the vocal cast has been picked and recorded and all the scripts have been recorded.\" The next fourteen episodes are currently under development, while the first book, development having been completed, began to air in April 2012."
     },
     {
       "body": "In June 2012, the creators stated that Book Two's writing was complete and it was in the process of being animated and storyboarded. According to the creators, half of the season will take place in Republic City and the other half will take place in various locations around the world.",
       "links": [],
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Development"
+      ],
       "text": "In June 2012, the creators stated that Book Two's writing was complete and it was in the process of being animated and storyboarded. According to the creators, half of the season will take place in Republic City and the other half will take place in various locations around the world."
     },
     {
       "body": "DiMartino also stated in June 2012 that plots were being conceived for possible future seasons, saying, \"We have story ideas for past book two. So we will see if and when those stories come to light.\" However, Konietzko also mentioned in the same interview that it was not up to them to greenlight new seasons.",
       "links": [],
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Development"
+      ],
       "text": "DiMartino also stated in June 2012 that plots were being conceived for possible future seasons, saying, \"We have story ideas for past book two. So we will see if and when those stories come to light.\" However, Konietzko also mentioned in the same interview that it was not up to them to greenlight new seasons."
     },
     {
       "body": "After averaging 3.8 million viewers for Season One, Book One, The Legend of Korra received an order for 26 more episodes in July 2012, bringing the total number of planned episodes to 52. Bryan Konietzko later confirmed that Book Two would have 14 episodes, followed by Books Three and Four, each one with 13 episodes.",
       "links": [],
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Development"
+      ],
       "text": "After averaging 3.8 million viewers for Season One, Book One, The Legend of Korra received an order for 26 more episodes in July 2012, bringing the total number of planned episodes to 52. Bryan Konietzko later confirmed that Book Two would have 14 episodes, followed by Books Three and Four, each one with 13 episodes."
     },
     {
       "body": "In October 2012, Seychelle Gabriel confirmed that Book Three's preliminary script was complete.",
       "links": [],
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Development"
+      ],
       "text": "In October 2012, Seychelle Gabriel confirmed that Book Three's preliminary script was complete."
     },
     {
       "body": "At San Diego Comic-Con 2013, it was announced that Book Two would debut in September 2013. On August 15, 2013, a sneak preview confirmed that the book would debut on September 13 of that year.",
       "links": [],
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Development"
+      ],
       "text": "At San Diego Comic-Con 2013, it was announced that Book Two would debut in September 2013. On August 15, 2013, a sneak preview confirmed that the book would debut on September 13 of that year."
     },
     {
       "body": "As of October 2013, voice work was being carried out for the third and fourth books, the actors having to alternate between the story lines of both seasons. Production for the second book officially ended on November 12, 2013, marking the end of production for the first season.",
       "links": [],
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Development"
+      ],
       "text": "As of October 2013, voice work was being carried out for the third and fourth books, the actors having to alternate between the story lines of both seasons. Production for the second book officially ended on November 12, 2013, marking the end of production for the first season."
     },
     {
@@ -975,34 +2252,18 @@
           "body": "Remembrances",
           "key": "${link_0}",
           "target": {
-            "href": "Remembrances",
+            "external": false,
+            "href": "/wiki/Remembrances",
             "page": "Remembrances"
           }
         }
       ],
-      "text": "During the production of Book Four, the show's budget was cut by the near equivalent of a full episode. To avoid having to fire crew members several weeks early, the creators opted to make the book's eighth episode, \"Remembrances\", a flashback episode with a minimum amount of new content."
-    },
-    {
-      "body": "${link_0} returned to voice ${link_1}'s animal companion.",
-      "links": [
-        {
-          "body": "Dee Bradley Baker",
-          "key": "${link_0}",
-          "target": {
-            "href": "Dee_Bradley_Baker",
-            "page": "Dee_Bradley_Baker"
-          }
-        },
-        {
-          "body": "Korra",
-          "key": "${link_1}",
-          "target": {
-            "href": "Korra",
-            "page": "Korra"
-          }
-        }
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Development"
       ],
-      "text": "Dee Bradley Baker returned to voice Korra's animal companion."
+      "text": "During the production of Book Four, the show's budget was cut by the near equivalent of a full episode. To avoid having to fire crew members several weeks early, the creators opted to make the book's eighth episode, \"Remembrances\", a flashback episode with a minimum amount of new content."
     },
     {
       "body": "In the initial announcement of Legend of Korra in July 2010, there was no mention of the voice casting for the show. For the next seven months, such information was only disseminated by some members of the cast themselves. In an interview in August 2010, ${link_0}, the voice of ${link_1} and ${link_2} on Avatar: The Last Airbender, confirmed that he would be returning to voice another creature and a character, and that his daughters auditioned for a flashback scene to play five-year old Korra, and one of them received the part. The creature that he voices is Korra's animal guide; the human role has since been stated to be a \"complex\" recurring character. ${link_3} returned to voice a character. He confirmed via Twitter that his role has something to do with Zuko, and stated that one of the new episodes is entitled \"${link_4}\". Rob Paulsen and ${link_5} are also stated to be involved in voice work. Following these earlier developments, the identities of most of the main cast were revealed on March 7, 2011.",
@@ -1011,7 +2272,8 @@
           "body": "Dee Bradley Baker",
           "key": "${link_0}",
           "target": {
-            "href": "Dee_Bradley_Baker",
+            "external": false,
+            "href": "/wiki/Dee_Bradley_Baker",
             "page": "Dee_Bradley_Baker"
           }
         },
@@ -1019,7 +2281,8 @@
           "body": "Momo",
           "key": "${link_1}",
           "target": {
-            "href": "Momo",
+            "external": false,
+            "href": "/wiki/Momo",
             "page": "Momo"
           }
         },
@@ -1027,7 +2290,8 @@
           "body": "Appa",
           "key": "${link_2}",
           "target": {
-            "href": "Appa",
+            "external": false,
+            "href": "/wiki/Appa",
             "page": "Appa"
           }
         },
@@ -1035,7 +2299,8 @@
           "body": "Dante Basco",
           "key": "${link_3}",
           "target": {
-            "href": "Dante_Basco",
+            "external": false,
+            "href": "/wiki/Dante_Basco",
             "page": "Dante_Basco"
           }
         },
@@ -1043,7 +2308,8 @@
           "body": "Skeletons in the Closet",
           "key": "${link_4}",
           "target": {
-            "href": "Skeletons_in_the_Closet",
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
             "page": "Skeletons_in_the_Closet"
           }
         },
@@ -1051,10 +2317,16 @@
           "body": "Richard Epcar",
           "key": "${link_5}",
           "target": {
-            "href": "Richard_Epcar",
+            "external": false,
+            "href": "/wiki/Richard_Epcar",
             "page": "Richard_Epcar"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Casting"
       ],
       "text": "In the initial announcement of Legend of Korra in July 2010, there was no mention of the voice casting for the show. For the next seven months, such information was only disseminated by some members of the cast themselves. In an interview in August 2010, Dee Bradley Baker, the voice of Momo and Appa on Avatar: The Last Airbender, confirmed that he would be returning to voice another creature and a character, and that his daughters auditioned for a flashback scene to play five-year old Korra, and one of them received the part. The creature that he voices is Korra's animal guide; the human role has since been stated to be a \"complex\" recurring character. Dante Basco returned to voice a character. He confirmed via Twitter that his role has something to do with Zuko, and stated that one of the new episodes is entitled \"Skeletons in the Closet\". Rob Paulsen and Richard Epcar are also stated to be involved in voice work. Following these earlier developments, the identities of most of the main cast were revealed on March 7, 2011."
     },
@@ -1065,7 +2337,8 @@
           "body": "Jeremy Zuckerman",
           "key": "${link_0}",
           "target": {
-            "href": "Jeremy_Zuckerman",
+            "external": false,
+            "href": "/wiki/Jeremy_Zuckerman",
             "page": "Jeremy_Zuckerman"
           }
         },
@@ -1073,17 +2346,18 @@
           "body": "the Track Team",
           "key": "${link_1}",
           "target": {
-            "href": "The_Track_Team",
+            "external": false,
+            "href": "/wiki/The_Track_Team",
             "page": "The_Track_Team"
           }
         }
       ],
+      "section": [
+        "The Legend of Korra",
+        "Production",
+        "Music"
+      ],
       "text": "Jeremy Zuckerman of the Track Team said that he would \"absolutely\" return to compose the music for the show during a panel at Comic-Con 2010. The Track Team stated that the music for Legend of Korra will consist of \"the Roaring '20s with an Asian twist\". They described it as \"1920s New Orleans jazz but if it were invented in China\" at the 2011 Comic-Con. By March 3, 2012, the music had been recorded for the first six episodes and music for the seventh was in the works."
-    },
-    {
-      "body": "Copies of this promotional poster were distributed at the 2011 San Diego Comic-Con.",
-      "links": [],
-      "text": "Copies of this promotional poster were distributed at the 2011 San Diego Comic-Con."
     },
     {
       "body": "After the original announcement in July 2010 yielded only one promotional image, that of Korra overlooking what was tentatively named \"Republic City\", there was high demand for additional promotional material. After almost eight months of little official information, a piece of concept art showing the face of the main character was revealed for the first time on March 6, 2011. However, the demand for promotional material was more fully answered with a ${link_0} on July 23, 2011, at the San Diego Comic-Con. The panel featured a minute-long trailer containing vistas of the updated ${link_1} and scenes of Korra in combat; artwork was also shown and a variety of plot details were revealed.",
@@ -1092,7 +2366,8 @@
           "body": "Legend of Korra panel",
           "key": "${link_0}",
           "target": {
-            "href": "Transcript_San_Diego_Comic-Con_2011",
+            "external": false,
+            "href": "/wiki/Transcript_San_Diego_Comic-Con_2011",
             "page": "Transcript_San_Diego_Comic-Con_2011"
           }
         },
@@ -1100,174 +2375,366 @@
           "body": "World of Avatar",
           "key": "${link_1}",
           "target": {
-            "href": "Earth",
+            "external": false,
+            "href": "/wiki/Earth",
             "page": "Earth"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Marketing"
       ],
       "text": "After the original announcement in July 2010 yielded only one promotional image, that of Korra overlooking what was tentatively named \"Republic City\", there was high demand for additional promotional material. After almost eight months of little official information, a piece of concept art showing the face of the main character was revealed for the first time on March 6, 2011. However, the demand for promotional material was more fully answered with a Legend of Korra panel on July 23, 2011, at the San Diego Comic-Con. The panel featured a minute-long trailer containing vistas of the updated World of Avatar and scenes of Korra in combat; artwork was also shown and a variety of plot details were revealed."
     },
     {
       "body": "In February 2012, Korra Nation was created as an online fan club and source of new information for The Legend of Korra-related material. Soliciting new users to the site through links and sharing updates sponsored by the site enable users to gain points. Users are entered into draws for prizes once they have gained a certain amount of points. It was through Korra Nation that updated character sketches and episode clips were released to the public. In an interview with the Track Team, it was disclosed that the fifth and sixth episodes will include pro-bending matches. The air date was also released via this promotional effort, and new material continues to be released on a regular basis several times a week. After garnering a certain number of likes and shares, the first two episodes were posted on Korra Nation during the weekend of March 24, 2012. The site continues to release promotional clips for future episodes. The site recently revealed that the online shop at Nickelodeon has released several The Legend of Korra products.",
       "links": [],
+      "section": [
+        "The Legend of Korra",
+        "Marketing",
+        "Korra Nation"
+      ],
       "text": "In February 2012, Korra Nation was created as an online fan club and source of new information for The Legend of Korra-related material. Soliciting new users to the site through links and sharing updates sponsored by the site enable users to gain points. Users are entered into draws for prizes once they have gained a certain amount of points. It was through Korra Nation that updated character sketches and episode clips were released to the public. In an interview with the Track Team, it was disclosed that the fifth and sixth episodes will include pro-bending matches. The air date was also released via this promotional effort, and new material continues to be released on a regular basis several times a week. After garnering a certain number of likes and shares, the first two episodes were posted on Korra Nation during the weekend of March 24, 2012. The site continues to release promotional clips for future episodes. The site recently revealed that the online shop at Nickelodeon has released several The Legend of Korra products."
     },
     {
       "body": "The Legend of Korra: Book One earned a commanding 4.3 million viewers per episode on average, placing it as the highest audience total for animated series in 2012.",
       "links": [],
+      "section": [
+        "The Legend of Korra",
+        "Response",
+        "Ratings"
+      ],
       "text": "The Legend of Korra: Book One earned a commanding 4.3 million viewers per episode on average, placing it as the highest audience total for animated series in 2012."
     },
     {
-      "body": "Awards",
-      "links": [],
-      "text": "Awards"
-    },
-    {
-      "body": "Outcome",
-      "links": [],
-      "text": "Outcome"
-    },
-    {
-      "body": "2013 Annie Awards:",
-      "links": [],
-      "text": "2013 Annie Awards:"
-    },
-    {
-      "body": "Best Animated Television Production for Children",
-      "links": [],
-      "text": "Best Animated Television Production for Children"
-    },
-    {
-      "body": "Nominated",
-      "links": [],
-      "text": "Nominated"
-    },
-    {
-      "body": "2013 Daytime Emmy Awards:",
-      "links": [],
-      "text": "2013 Daytime Emmy Awards:"
-    },
-    {
-      "body": "Outstanding Casting for an Animated Series",
-      "links": [],
-      "text": "Outstanding Casting for an Animated Series"
-    },
-    {
-      "body": "Won",
-      "links": [],
-      "text": "Won"
-    },
-    {
-      "body": "Outstanding Directing in an Animated Program",
-      "links": [],
-      "text": "Outstanding Directing in an Animated Program"
-    },
-    {
-      "body": "Nominated",
-      "links": [],
-      "text": "Nominated"
-    },
-    {
-      "body": "Outstanding Special Class Animated Program",
-      "links": [],
-      "text": "Outstanding Special Class Animated Program"
-    },
-    {
-      "body": "Nominated",
-      "links": [],
-      "text": "Nominated"
-    },
-    {
-      "body": "2013 Image Awards:",
-      "links": [],
-      "text": "2013 Image Awards:"
-    },
-    {
-      "body": "Outstanding Children's Program",
-      "links": [],
-      "text": "Outstanding Children's Program"
-    },
-    {
-      "body": "Nominated",
-      "links": [],
-      "text": "Nominated"
-    },
-    {
-      "body": "2013 Young Artist Awards",
-      "links": [],
-      "text": "2013 Young Artist Awards"
-    },
-    {
-      "body": "Best Performance in a Voice-Over Role - Television - Young Actress",
-      "links": [],
-      "text": "Best Performance in a Voice-Over Role - Television - Young Actress"
-    },
-    {
-      "body": "Nominated",
-      "links": [],
-      "text": "Nominated"
-    },
-    {
-      "body": "2014 IGN Awards",
-      "links": [],
-      "text": "2014 IGN Awards"
-    },
-    {
-      "body": "Best TV Animated Series",
-      "links": [],
-      "text": "Best TV Animated Series"
-    },
-    {
-      "body": "Won",
-      "links": [],
-      "text": "Won"
-    },
-    {
-      "body": "Won",
-      "links": [],
-      "text": "Won"
-    },
-    {
-      "body": "42nd Annie Awards",
-      "links": [],
-      "text": "42nd Annie Awards"
-    },
-    {
-      "body": "Storyboarding in an Animated Television Production (${link_0} for \"${link_1}\")",
+      "body": "The creators frequently used ${link_0} as a reference during the production of the series.",
       "links": [
         {
-          "body": "Joaquim Dos Santos",
+          "body": "Avatar Wiki",
           "key": "${link_0}",
           "target": {
-            "href": "Joaquim_Dos_Santos",
-            "page": "Joaquim_Dos_Santos"
-          }
-        },
-        {
-          "body": "Venom of the Red Lotus",
-          "key": "${link_1}",
-          "target": {
-            "href": "Venom_of_the_Red_Lotus",
-            "page": "Venom_of_the_Red_Lotus"
+            "external": false,
+            "href": "/wiki/Avatar_Wiki",
+            "page": "Avatar_Wiki"
           }
         }
       ],
-      "text": "Storyboarding in an Animated Television Production (Joaquim Dos Santos for \"Venom of the Red Lotus\")"
+      "section": [
+        "The Legend of Korra",
+        "Trivia"
+      ],
+      "text": "The creators frequently used Avatar Wiki as a reference during the production of the series."
     },
     {
-      "body": "Won",
-      "links": [],
-      "text": "Won"
+      "body": "It is the first ${link_0} show not on ${link_1} to portray a same-sex relationship.",
+      "links": [
+        {
+          "body": "Nickelodeon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Nickelodeon",
+            "page": "http://en.wikipedia.org/wiki/Nickelodeon"
+          }
+        },
+        {
+          "body": "Nick at Nite",
+          "key": "${link_1}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Nick_at_Nite",
+            "page": "http://en.wikipedia.org/wiki/Nick_at_Nite"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Trivia"
+      ],
+      "text": "It is the first Nickelodeon show not on Nick at Nite to portray a same-sex relationship."
     },
     {
-      "body": "Best Animated Television Production For Children's Audience",
+      "body": "Early fan interest in the series was extremely high. Before the first time Nickelodeon decided to rename the show, causing the renaming of this article, over 10,000 comments and 27,000 Facebook \"likes\" were associated with it. By the time the title was changed back, causing another rename of the article, an additional 10,000 comments were on the page.",
       "links": [],
-      "text": "Best Animated Television Production For Children's Audience"
+      "section": [
+        "The Legend of Korra",
+        "Trivia"
+      ],
+      "text": "Early fan interest in the series was extremely high. Before the first time Nickelodeon decided to rename the show, causing the renaming of this article, over 10,000 comments and 27,000 Facebook \"likes\" were associated with it. By the time the title was changed back, causing another rename of the article, an additional 10,000 comments were on the page."
     },
     {
-      "body": "Nominated",
+      "body": "The title of the new series has undergone some changes. Earliest mentions about a new series spoke of Avatar: Legend of Korra, however, due to an ${link_0} with James Cameron's Avatar trademark applications, it was changed to The Legend of Korra. Sources suggested that the title would be Avatar: Legend of Korra, but it was later confirmed that the title would be The Legend of Korra in the United States and Avatar: Legend of Korra for the international version.",
+      "links": [
+        {
+          "body": "issue",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User_blog:Hasdi/AVATAR_versus_THE_LAST_AIRBENDER",
+            "page": "User_blog:Hasdi/AVATAR_versus_THE_LAST_AIRBENDER"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Trivia"
+      ],
+      "text": "The title of the new series has undergone some changes. Earliest mentions about a new series spoke of Avatar: Legend of Korra, however, due to an issue with James Cameron's Avatar trademark applications, it was changed to The Legend of Korra. Sources suggested that the title would be Avatar: Legend of Korra, but it was later confirmed that the title would be The Legend of Korra in the United States and Avatar: Legend of Korra for the international version."
+    },
+    {
+      "body": "The Legend of Korra features two title cards in the first season, one of which is used only in the introduction of the first episode, \"${link_0}\". All other episodes feature a different title card and a shortened introduction, much like it was with Avatar: The Last Airbender, although the major part of the opening remained the same.",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Trivia"
+      ],
+      "text": "The Legend of Korra features two title cards in the first season, one of which is used only in the introduction of the first episode, \"Welcome to Republic City\". All other episodes feature a different title card and a shortened introduction, much like it was with Avatar: The Last Airbender, although the major part of the opening remained the same."
+    },
+    {
+      "body": "Nickelodeon initially suspended production because they did not like Korra being a female protagonist; however, after seeing the completed first episode, they changed their minds.",
       "links": [],
-      "text": "Nominated"
+      "section": [
+        "The Legend of Korra",
+        "Trivia"
+      ],
+      "text": "Nickelodeon initially suspended production because they did not like Korra being a female protagonist; however, after seeing the completed first episode, they changed their minds."
+    },
+    {
+      "body": "The main antagonist of each book demonstrated mastery over a ${link_0} of their respective bending ability: Amon was a ${link_1}, Unalaq could use ${link_2}, Zaheer unlocked the ancient ability of ${link_3}, and Kuvira was a metalbender.",
+      "links": [
+        {
+          "body": "subskill",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Specialized_bending_techniques",
+            "page": "Specialized_bending_techniques"
+          }
+        },
+        {
+          "body": "bloodbender",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bloodbending",
+            "page": "Bloodbending"
+          }
+        },
+        {
+          "body": "spiritbending",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Healing#Spiritbending",
+            "page": "Healing"
+          }
+        },
+        {
+          "body": "flight",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Specialized_bending_techniques#Flight",
+            "page": "Specialized_bending_techniques"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Trivia"
+      ],
+      "text": "The main antagonist of each book demonstrated mastery over a subskill of their respective bending ability: Amon was a bloodbender, Unalaq could use spiritbending, Zaheer unlocked the ancient ability of flight, and Kuvira was a metalbender."
+    },
+    {
+      "body": "${link_0}, a subsidiary of the more popularly known ${link_1}, has turned to its sister division Nickelodeon for film inspiration, and one option to hit the big screen is The Legend of Korra. The budget for each pending movie is to be kept around or below $100,000,000. Bryan Konietzko has since clarified that there is currently no development on any films based on The Legend of Korra.",
+      "links": [
+        {
+          "body": "Paramount Animation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Paramount_Animation",
+            "page": "http://en.wikipedia.org/wiki/Paramount_Animation"
+          }
+        },
+        {
+          "body": "Paramount Pictures",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Paramount_Pictures",
+            "page": "Film_Paramount_Pictures"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "Trivia"
+      ],
+      "text": "Paramount Animation, a subsidiary of the more popularly known Paramount Pictures, has turned to its sister division Nickelodeon for film inspiration, and one option to hit the big screen is The Legend of Korra. The budget for each pending movie is to be kept around or below $100,000,000. Bryan Konietzko has since clarified that there is currently no development on any films based on The Legend of Korra."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Latest The Legend of Korra news",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Blog:Avatar_News",
+            "page": "Blog:Avatar_News"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "See also"
+      ],
+      "text": "Latest The Legend of Korra news"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Transcript of Legend of Korra panel at San Diego Comic-Con 2011",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Transcript_San_Diego_Comic-Con_2011",
+            "page": "Transcript_San_Diego_Comic-Con_2011"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "See also"
+      ],
+      "text": "Transcript of Legend of Korra panel at San Diego Comic-Con 2011"
+    },
+    {
+      "body": "The ${link_0} bridging the seventy years between Avatar: The Last Airbender and The Legend of Korra",
+      "links": [
+        {
+          "body": "graphic novels",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar__The_Last_Airbender_comics#Graphic_novel_trilogies",
+            "page": "List_of_Avatar__The_Last_Airbender_comics"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "See also"
+      ],
+      "text": "The graphic novels bridging the seventy years between Avatar: The Last Airbender and The Legend of Korra"
+    },
+    {
+      "body": "The ${link_0} continuing the events of the series",
+      "links": [
+        {
+          "body": "graphic novels",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_The_Legend_of_Korra_comics#Graphic_novel_trilogies",
+            "page": "List_of_The_Legend_of_Korra_comics"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "See also"
+      ],
+      "text": "The graphic novels continuing the events of the series"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Official Nick.com website",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.nick.com/legend-of-korra/",
+            "page": "http://www.nick.com/legend-of-korra/"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "External links"
+      ],
+      "text": "Official Nick.com website"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Official Facebook page",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "https://www.facebook.com/legendofkorra",
+            "page": "https://www.facebook.com/legendofkorra"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "External links"
+      ],
+      "text": "Official Facebook page"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Korra Nation on Tumblr",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://korranation.tumblr.com/",
+            "page": "http://korranation.tumblr.com/"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "External links"
+      ],
+      "text": "Korra Nation on Tumblr"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Avatar The Last Airbender Online's Legend of Korra coverage",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://avatarthelastairbenderonline.com/avatar-the-legend-of-korra/",
+            "page": "http://avatarthelastairbenderonline.com/avatar-the-legend-of-korra/"
+          }
+        }
+      ],
+      "section": [
+        "The Legend of Korra",
+        "External links"
+      ],
+      "text": "Avatar The Last Airbender Online's Legend of Korra coverage"
     }
   ],
   "source": {

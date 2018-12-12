@@ -3,35 +3,40 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Fauna",
       "target": {
-        "href": "Category_Fauna",
+        "external": false,
+        "href": "/wiki/Category_Fauna",
         "page": "Category_Fauna"
       }
     },
     {
       "body": "Foods",
       "target": {
-        "href": "Category_Foods",
+        "external": false,
+        "href": "/wiki/Category_Foods",
         "page": "Category_Foods"
       }
     },
     {
       "body": "Hybridized creatures",
       "target": {
-        "href": "Category_Hybridized_creatures",
+        "external": false,
+        "href": "/wiki/Category_Hybridized_creatures",
         "page": "Category_Hybridized_creatures"
       }
     },
     {
       "body": "Water Tribes",
       "target": {
-        "href": "Category_Water_Tribes",
+        "external": false,
+        "href": "/wiki/Category_Water_Tribes",
         "page": "Category_Water_Tribes"
       }
     }
@@ -49,7 +54,8 @@
               "body": "South Pole",
               "key": "${link_0}",
               "target": {
-                "href": "South_Pole",
+                "external": false,
+                "href": "/wiki/South_Pole",
                 "page": "South_Pole"
               }
             }
@@ -86,7 +92,8 @@
               "body": "The Boy in the Iceberg",
               "key": "${link_0}",
               "target": {
-                "href": "The_Boy_in_the_Iceberg",
+                "external": false,
+                "href": "/wiki/The_Boy_in_the_Iceberg",
                 "page": "The_Boy_in_the_Iceberg"
               }
             }
@@ -106,7 +113,8 @@
           "body": "animal",
           "key": "${link_0}",
           "target": {
-            "href": "Fauna_in_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Fauna_in_the_World_of_Avatar",
             "page": "Fauna_in_the_World_of_Avatar"
           }
         },
@@ -114,7 +122,8 @@
           "body": "South Pole",
           "key": "${link_1}",
           "target": {
-            "href": "South_Pole",
+            "external": false,
+            "href": "/wiki/South_Pole",
             "page": "South_Pole"
           }
         },
@@ -122,10 +131,14 @@
           "body": "Aang",
           "key": "${link_2}",
           "target": {
-            "href": "Aang",
+            "external": false,
+            "href": "/wiki/Aang",
             "page": "Aang"
           }
         }
+      ],
+      "section": [
+        "Tiger seal"
       ],
       "text": "The tiger seal, also known as the zebra seal or the polar sea lion, is an animal that lives in the icy bays of the South Pole. When Aang was released from the iceberg, a beam of light shot up into the sky, waking several tiger seals who started to howl in unison."
     },
@@ -136,10 +149,15 @@
           "body": "cat",
           "key": "${link_0}",
           "target": {
-            "href": "Cat",
+            "external": false,
+            "href": "/wiki/Cat",
             "page": "Cat"
           }
         }
+      ],
+      "section": [
+        "Tiger seal",
+        "Anatomy"
       ],
       "text": "The tiger seal exhibits facial features that are predominantly feline, with a cat-like snout, ears, and whiskers. The rest of the creature resembles a seal, with flippers, a sleek body, and a tail. The adult tiger seal is gray with a pattern of lateral black stripes along its body and head."
     },
@@ -150,17 +168,91 @@
           "body": "otter penguin",
           "key": "${link_0}",
           "target": {
-            "href": "Otter_penguin",
+            "external": false,
+            "href": "/wiki/Otter_penguin",
             "page": "Otter_penguin"
           }
         }
+      ],
+      "section": [
+        "Tiger seal",
+        "Behavior"
       ],
       "text": "The tiger seal is an aquatic creature native to the South Pole region. The markings enable it to hide its number while in the water hunting for fish. Its main food source is the otter penguin. Tiger seals prefer to lie together in large masses and howl loudly when disturbed."
     },
     {
       "body": "The tiger seal resembles both the tiger and the seal aesthetically. The seal has large flippers as forelimbs and its body is streamlined, narrowing into a substantial tail. The creature is a play on the real-life leopard seal.",
       "links": [],
+      "section": [
+        "Tiger seal",
+        "Connection"
+      ],
       "text": "The tiger seal resembles both the tiger and the seal aesthetically. The seal has large flippers as forelimbs and its body is streamlined, narrowing into a substantial tail. The creature is a play on the real-life leopard seal."
+    },
+    {
+      "body": "In ${link_0}, ${link_1} and ${link_2} find ${link_3} frozen in an iceberg while following tiger seal tracks.",
+      "links": [
+        {
+          "body": "The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender",
+            "page": "Film_The_Last_Airbender"
+          }
+        },
+        {
+          "body": "Sokka",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Sokka",
+            "page": "Film_Sokka"
+          }
+        },
+        {
+          "body": "Katara",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Katara",
+            "page": "Film_Katara"
+          }
+        },
+        {
+          "body": "Aang",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Aang",
+            "page": "Film_Aang"
+          }
+        }
+      ],
+      "section": [
+        "Tiger seal",
+        "Trivia"
+      ],
+      "text": "In The Last Airbender, Sokka and Katara find Aang frozen in an iceberg while following tiger seal tracks."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Fauna in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Fauna_in_the_World_of_Avatar",
+            "page": "Fauna_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Tiger seal",
+        "See also"
+      ],
+      "text": "Fauna in the World of Avatar"
     }
   ],
   "source": {

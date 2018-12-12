@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Duck Man: Private Dick/Family Man (1997 - storyboard artist)",
+          "body": "${link_0} (1997 - storyboard artist)",
           "extra": "(1997 - storyboard artist)",
           "extra_text": "(1997 - storyboard artist)",
-          "links": [],
+          "links": [
+            {
+              "body": "Duck Man: Private Dick/Family Man",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0566966",
+                "page": "http://www.imdb.com/find?q=tt0566966"
+              }
+            }
+          ],
           "text": "Duck Man: Private Dick/Family Man (1997 - storyboard artist)",
-          "value": "Duck Man: Private Dick/Family Man",
+          "value": "${link_0}",
           "value_text": "Duck Man: Private Dick/Family Man"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1685611",
+                "page": "http://www.imdb.com/find?q=nm1685611"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "DeviantART",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "DeviantART",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://ibgraham.deviantart.com/",
+                "page": "http://ibgraham.deviantart.com/"
+              }
+            }
+          ],
           "text": "DeviantART",
-          "value": "DeviantART",
+          "value": "${link_0}",
           "value_text": "DeviantART"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/IB6raham/videos",
+                "page": "http://www.youtube.com/user/IB6raham/videos"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
@@ -86,16 +129,661 @@
   ],
   "paragraphs": [
     {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The King of Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_King_of_Omashu",
+            "page": "The_King_of_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "Avatar: The Last Airbender credits",
+        "Assistant director"
+      ],
+      "text": "105. \"The King of Omashu\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Scroll",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Scroll",
+            "page": "The_Waterbending_Scroll"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "Avatar: The Last Airbender credits",
+        "Assistant director"
+      ],
+      "text": "109. \"The Waterbending Scroll\""
+    },
+    {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "Avatar: The Last Airbender credits",
+        "Assistant director"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "220. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Crossroads of Destiny",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Crossroads_of_Destiny",
+            "page": "The_Crossroads_of_Destiny"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "Avatar: The Last Airbender credits",
+        "Additional storyboard artist"
+      ],
+      "text": "220. \"The Crossroads of Destiny\""
+    },
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Storyboard supervisor"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Leaf in the Wind",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Leaf_in_the_Wind",
+            "page": "A_Leaf_in_the_Wind"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Storyboard supervisor"
+      ],
+      "text": "102. \"A Leaf in the Wind\""
+    },
+    {
+      "body": "103. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Revelation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Revelation_(episode)",
+            "page": "The_Revelation_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Storyboard supervisor"
+      ],
+      "text": "103. \"The Revelation\""
+    },
+    {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Voice in the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Voice_in_the_Night",
+            "page": "The_Voice_in_the_Night"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Storyboard supervisor"
+      ],
+      "text": "104. \"The Voice in the Night\""
+    },
+    {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Spirit of Competition",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Spirit_of_Competition",
+            "page": "The_Spirit_of_Competition"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Storyboard supervisor"
+      ],
+      "text": "105. \"The Spirit of Competition\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "And the Winner Is...",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/And_the_Winner_Is..",
+            "page": "And_the_Winner_Is.."
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Storyboard supervisor"
+      ],
+      "text": "106. \"And the Winner Is...\""
+    },
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Aftermath",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Aftermath",
+            "page": "The_Aftermath"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Storyboard supervisor"
+      ],
+      "text": "107. \"The Aftermath\""
+    },
+    {
+      "body": "108. \"${link_0}\"",
+      "links": [
+        {
+          "body": "When Extremes Meet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/When_Extremes_Meet",
+            "page": "When_Extremes_Meet"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Storyboard supervisor"
+      ],
+      "text": "108. \"When Extremes Meet\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Storyboard supervisor"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebel Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
+            "page": "Rebel_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "201. \"Rebel Spirit\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Lights",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Lights",
+            "page": "The_Southern_Lights"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "202. \"The Southern Lights\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Lights",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Lights",
+            "page": "The_Southern_Lights"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Director"
+      ],
+      "text": "202. \"The Southern Lights\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Director"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Director"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "210. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A New Spiritual Age",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_New_Spiritual_Age",
+            "page": "A_New_Spiritual_Age"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Director"
+      ],
+      "text": "210. \"A New Spiritual Age\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Harmonic Convergence",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Harmonic_Convergence_(episode)",
+            "page": "Harmonic_Convergence_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Director"
+      ],
+      "text": "212. \"Harmonic Convergence\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Light in the Dark",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Light_in_the_Dark",
+            "page": "Light_in_the_Dark"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Director"
+      ],
+      "text": "214. \"Light in the Dark\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Director"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Director"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Director"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "402. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Korra Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Korra_Alone",
+            "page": "Korra_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Director"
+      ],
+      "text": "402. \"Korra Alone\""
+    },
+    {
+      "body": "405. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enemy at the Gates",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enemy_at_the_Gates",
+            "page": "Enemy_at_the_Gates"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Director"
+      ],
+      "text": "405. \"Enemy at the Gates\""
+    },
+    {
+      "body": "409. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beyond the Wilds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beyond_the_Wilds",
+            "page": "Beyond_the_Wilds"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Director"
+      ],
+      "text": "409. \"Beyond the Wilds\""
+    },
+    {
+      "body": "412. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Day of the Colossus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Day_of_the_Colossus",
+            "page": "Day_of_the_Colossus"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "The Legend of Korra credits",
+        "Director"
+      ],
+      "text": "412. \"Day of the Colossus\""
+    },
+    {
+      "body": "${link_0} (storyboard artist and storyboard revisionist)",
+      "links": [
+        {
+          "body": "Invader Zim",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235923",
+            "page": "http://www.imdb.com/find?q=tt0235923"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Invader Zim (storyboard artist and storyboard revisionist)"
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "SpongeBob SquarePants",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0206512",
+            "page": "http://www.imdb.com/find?q=tt0206512"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "SpongeBob SquarePants (storyboard artist)"
+    },
+    {
+      "body": "${link_0} (additional storyboard artist and storyboard supervisor)",
+      "links": [
+        {
+          "body": "The Mighty B!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0917551",
+            "page": "http://www.imdb.com/find?q=tt0917551"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Mighty B! (additional storyboard artist and storyboard supervisor)"
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "The Wild Thornberrys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0167743",
+            "page": "http://www.imdb.com/find?q=tt0167743"
+          }
+        }
+      ],
+      "section": [
+        "Ian Graham",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Wild Thornberrys (storyboard artist)"
+    },
+    {
       "body": "Ian Graham has worked in television for eleven years, most of his work being storyboarding, and eight of those eleven being with ${link_0}. He cites that his influence in his artwork is very varied, from FLCL to Ren and Stimpy. He enjoys playing video games and spending time with his family.",
       "links": [
         {
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
+      ],
+      "section": [
+        "Ian Graham",
+        "Biographical information"
       ],
       "text": "Ian Graham has worked in television for eleven years, most of his work being storyboarding, and eight of those eleven being with Nickelodeon. He cites that his influence in his artwork is very varied, from FLCL to Ren and Stimpy. He enjoys playing video games and spending time with his family."
     }

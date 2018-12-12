@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Partners in Crime (1984)",
+          "body": "${link_0} (1984)",
           "extra": "(1984)",
           "extra_text": "(1984)",
-          "links": [],
+          "links": [
+            {
+              "body": "Partners in Crime",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0086776",
+                "page": "http://www.imdb.com/find?q=tt0086776"
+              }
+            }
+          ],
           "text": "Partners in Crime (1984)",
-          "value": "Partners in Crime",
+          "value": "${link_0}",
           "value_text": "Partners in Crime"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0384032",
+                "page": "http://www.imdb.com/find?q=nm0384032"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Amy_Hill",
+                "page": "http://en.wikipedia.org/wiki/Amy_Hill"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Amy-Hill/112379198779582",
+                "page": "https://www.facebook.com/pages/Amy-Hill/112379198779582"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -100,18 +143,133 @@
   ],
   "paragraphs": [
     {
+      "body": "115. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bato of the Water Tribe",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bato_of_the_Water_Tribe",
+            "page": "Bato_of_the_Water_Tribe"
+          }
+        }
+      ],
+      "section": [
+        "Amy Hill",
+        "Avatar: The Last Airbender credits",
+        "Mother Superior"
+      ],
+      "text": "115. \"Bato of the Water Tribe\""
+    },
+    {
+      "body": "115. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bato of the Water Tribe",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bato_of_the_Water_Tribe",
+            "page": "Bato_of_the_Water_Tribe"
+          }
+        }
+      ],
+      "section": [
+        "Amy Hill",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "115. \"Bato of the Water Tribe\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Lights",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Lights",
+            "page": "The_Southern_Lights"
+          }
+        }
+      ],
+      "section": [
+        "Amy Hill",
+        "The Legend of Korra credits",
+        "Acolyte"
+      ],
+      "text": "202. \"The Southern Lights\""
+    },
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Amy Hill",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "${link_0} (award ceremony - self)",
+      "links": [
+        {
+          "body": "2006 Asian Excellence Awards",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0768096",
+            "page": "http://www.imdb.com/find?q=tt0768096"
+          }
+        }
+      ],
+      "section": [
+        "Amy Hill",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "2006 Asian Excellence Awards (award ceremony - self)"
+    },
+    {
       "body": "Amy Hill was born in Deadwood, South Dakota, to a Japanese mother and a Finnish-American father. She became an actress working with the famed Asian American Theater Company in San Francisco, California. Amy is also known in the theater world as a respected performer, having written and performed a number of one-woman shows, including the trilogy of Tokyo Bound, Reunion, and Beside Myself.",
       "links": [],
+      "section": [
+        "Amy Hill",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Amy Hill was born in Deadwood, South Dakota, to a Japanese mother and a Finnish-American father. She became an actress working with the famed Asian American Theater Company in San Francisco, California. Amy is also known in the theater world as a respected performer, having written and performed a number of one-woman shows, including the trilogy of Tokyo Bound, Reunion, and Beside Myself."
     },
     {
       "body": "Hill is best known for her roles as Mrs. DePaulo in That's So Raven, Mrs. Kwan in The Cat in the Hat, the Kylie Minogue-inspired singer, Penny Candy, from The Puzzle Place, and the voice of Jasmine Lee, also known as \"Ah-Mah\", on The Life and Times of Juniper Lee.",
       "links": [],
+      "section": [
+        "Amy Hill",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Hill is best known for her roles as Mrs. DePaulo in That's So Raven, Mrs. Kwan in The Cat in the Hat, the Kylie Minogue-inspired singer, Penny Candy, from The Puzzle Place, and the voice of Jasmine Lee, also known as \"Ah-Mah\", on The Life and Times of Juniper Lee."
     },
     {
       "body": "Hill was nominated for a regional Emmy in the Los Angeles Area as the writer/host of Get Real, an Asian American teen talkshow on KSCI. She was also listed as a potential nominee on the 2004 Golden Raspberry Awards nominating ballot. She was suggested in the Worst Supporting Actress category for her performance in Mike Myers' The Cat in the Hat, but failed to receive the nomination.",
       "links": [],
+      "section": [
+        "Amy Hill",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Hill was nominated for a regional Emmy in the Los Angeles Area as the writer/host of Get Real, an Asian American teen talkshow on KSCI. She was also listed as a potential nominee on the 2004 Golden Raspberry Awards nominating ballot. She was suggested in the Worst Supporting Actress category for her performance in Mike Myers' The Cat in the Hat, but failed to receive the nomination."
     }
   ],

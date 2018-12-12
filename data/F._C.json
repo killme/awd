@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,30 +44,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.fcyee.com/",
+                "page": "http://www.fcyee.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/yeebookauthor",
+                "page": "https://www.facebook.com/yeebookauthor"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/yeebookauthor",
+                "page": "https://twitter.com/yeebookauthor"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -72,9 +105,97 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0} Part One",
+      "links": [
+        {
+          "body": "The Rise of Kyoshi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Rise_of_Kyoshi",
+            "page": "The_Rise_of_Kyoshi"
+          }
+        }
+      ],
+      "section": [
+        "F. C. Yee",
+        "Avatar works"
+      ],
+      "text": "The Rise of Kyoshi Part One"
+    },
+    {
+      "body": "The Rise of Kyoshi Part Two",
+      "links": [],
+      "section": [
+        "F. C. Yee",
+        "Avatar works"
+      ],
+      "text": "The Rise of Kyoshi Part Two"
+    },
+    {
+      "body": "The Epic Crush of Genie Lo (2017)",
+      "links": [],
+      "section": [
+        "F. C. Yee",
+        "Selected other credits"
+      ],
+      "text": "The Epic Crush of Genie Lo (2017)"
+    },
+    {
+      "body": "The Iron Will of Genie Lo (2019)",
+      "links": [],
+      "section": [
+        "F. C. Yee",
+        "Selected other credits"
+      ],
+      "text": "The Iron Will of Genie Lo (2019)"
+    },
+    {
       "body": "Yee grew up in New Jersey and went to school in New England, but later moved. Outside of writing, he practices Capoeira and has a day job \"mostly involving spreadsheets.\"",
       "links": [],
+      "section": [
+        "F. C. Yee",
+        "Biographical information"
+      ],
       "text": "Yee grew up in New Jersey and went to school in New England, but later moved. Outside of writing, he practices Capoeira and has a day job \"mostly involving spreadsheets.\""
+    },
+    {
+      "body": "${link_0} was a huge inspiration on Yee's work, specifically with \"how action can tell a story\".",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
+            "page": "Avatar__The_Last_Airbender"
+          }
+        }
+      ],
+      "section": [
+        "F. C. Yee",
+        "Trivia"
+      ],
+      "text": "Avatar: The Last Airbender was a huge inspiration on Yee's work, specifically with \"how action can tell a story\"."
+    },
+    {
+      "body": "Yee is a fan of ${link_0}'s work.",
+      "links": [
+        {
+          "body": "Gene Luen Yang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Gene_Luen_Yang",
+            "page": "Gene_Luen_Yang"
+          }
+        }
+      ],
+      "section": [
+        "F. C. Yee",
+        "Trivia"
+      ],
+      "text": "Yee is a fan of Gene Luen Yang's work."
     }
   ],
   "source": {

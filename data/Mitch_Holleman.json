@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Sopranos (2000)",
+          "body": "${link_0} (2000)",
           "extra": "(2000)",
           "extra_text": "(2000)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Sopranos",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0141842",
+                "page": "http://www.imdb.com/find?q=tt0141842"
+              }
+            }
+          ],
           "text": "The Sopranos (2000)",
-          "value": "The Sopranos",
+          "value": "${link_0}",
           "value_text": "The Sopranos"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0390936",
+                "page": "http://www.imdb.com/find?q=nm0390936"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Mitch_Holleman",
+                "page": "http://en.wikipedia.org/wiki/Mitch_Holleman"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/Mitch-Holleman/109743782378390",
+                "page": "http://www.facebook.com/pages/Mitch-Holleman/109743782378390"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/MitchHolleman",
+                "page": "https://twitter.com/MitchHolleman"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,18 +148,213 @@
   ],
   "paragraphs": [
     {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Mitch Holleman",
+        "Avatar: The Last Airbender credits",
+        "The Duke"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Daddio",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0198099",
+            "page": "http://www.imdb.com/find?q=tt0198099"
+          }
+        }
+      ],
+      "section": [
+        "Mitch Holleman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Daddio"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Everybody Loves Raymond",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115167",
+            "page": "http://www.imdb.com/find?q=tt0115167"
+          }
+        }
+      ],
+      "section": [
+        "Mitch Holleman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Everybody Loves Raymond"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Reba",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0284722",
+            "page": "http://www.imdb.com/find?q=tt0284722"
+          }
+        }
+      ],
+      "section": [
+        "Mitch Holleman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Reba"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Shake It Up!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1661326",
+            "page": "http://www.imdb.com/find?q=tt1661326"
+          }
+        }
+      ],
+      "section": [
+        "Mitch Holleman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Shake It Up!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Sopranos",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0141842",
+            "page": "http://www.imdb.com/find?q=tt0141842"
+          }
+        }
+      ],
+      "section": [
+        "Mitch Holleman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Sopranos"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Hangover",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1119646",
+            "page": "http://www.imdb.com/find?q=tt1119646"
+          }
+        }
+      ],
+      "section": [
+        "Mitch Holleman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Hangover (2009)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Bubble Boy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0258470",
+            "page": "http://www.imdb.com/find?q=tt0258470"
+          }
+        }
+      ],
+      "section": [
+        "Mitch Holleman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bubble Boy (2001)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "The Animal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0255798",
+            "page": "http://www.imdb.com/find?q=tt0255798"
+          }
+        }
+      ],
+      "section": [
+        "Mitch Holleman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Animal (2001)"
+    },
+    {
       "body": "Born in Auburn, Alabama, Holleman began acting on television at the age of two. The family moved to Naples, Florida, and he was signed to a Miami-based talent agency. By four, he had done two commercials for Nickelodeon and Burger King.",
       "links": [],
+      "section": [
+        "Mitch Holleman",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Born in Auburn, Alabama, Holleman began acting on television at the age of two. The family moved to Naples, Florida, and he was signed to a Miami-based talent agency. By four, he had done two commercials for Nickelodeon and Burger King."
     },
     {
       "body": "At age four he took a trip to New York with his mother, which resulted in numerous commercials and a guest-starring role on The Sopranos. His big break came at age five when he landed a series regular role on Daddio. He has since guest-starred on Everybody Loves Raymond and appeared in the films The Animal alongside Rob Schneider, and Bubble Boy alongside Jake Gyllenhaal. He also periodically serves as an on air reporter for TV Guide Channel. By age nine, he had amassed several credits in television and movies.",
       "links": [],
+      "section": [
+        "Mitch Holleman",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "At age four he took a trip to New York with his mother, which resulted in numerous commercials and a guest-starring role on The Sopranos. His big break came at age five when he landed a series regular role on Daddio. He has since guest-starred on Everybody Loves Raymond and appeared in the films The Animal alongside Rob Schneider, and Bubble Boy alongside Jake Gyllenhaal. He also periodically serves as an on air reporter for TV Guide Channel. By age nine, he had amassed several credits in television and movies."
     },
     {
       "body": "In addition to acting, Holleman enjoys Tae Kwon Do, amusement parks, and surfing on his days off. He currently lives with his family in Los Angeles.",
       "links": [],
+      "section": [
+        "Mitch Holleman",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "In addition to acting, Holleman enjoys Tae Kwon Do, amusement parks, and surfing on his days off. He currently lives with his family in Los Angeles."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Films",
       "target": {
-        "href": "Category_Films",
+        "external": false,
+        "href": "/wiki/Category_Films",
         "page": "Category_Films"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -25,18 +28,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "M. Night Shyamalan Interview by Bryan Konietzko and Mike DiMartino",
-      "links": [],
-      "text": "M. Night Shyamalan Interview by Bryan Konietzko and Mike DiMartino"
-    },
-    {
-      "body": "After ${link_0} was attached to the film trilogy, he was \"interviewed\" by ${link_1} and ${link_2}.",
+      "body": "In the video \"interview\" of ${link_0} conducted by ${link_1} and ${link_2}, the film trilogy was planned to be 6+ hours long, which gave 2+ hours for the first movie (though the final running time is 103 minutes). Due to the short allotted running time, the film does not cover the entire first season of the original animated series, even though the film was titled \"Book One: Water\". With such a rich and complex story elements, rather than a \"comprehensive adaptation\" like ${link_3} and ${link_4}, ${link_5} from Avatar: The Last Airbender were selected and rewoven into its own story and direction, similar to a \"selective adaptation\" approach with a long series like ${link_6} and ${link_7}. However, some fans mistaken the film as poorly executed \"comprehensive adaptation\" and insisted on a direct comparison with its original animated series.",
       "links": [
         {
           "body": "M. Night Shyamalan",
           "key": "${link_0}",
           "target": {
-            "href": "Film_M",
+            "external": false,
+            "href": "/wiki/Film_M",
             "page": "Film_M"
           }
         },
@@ -44,37 +43,8 @@
           "body": "Bryan Konietzko",
           "key": "${link_1}",
           "target": {
-            "href": "Bryan_Konietzko",
-            "page": "Bryan_Konietzko"
-          }
-        },
-        {
-          "body": "Michael Dante DiMartino",
-          "key": "${link_2}",
-          "target": {
-            "href": "Michael_Dante_DiMartino",
-            "page": "Michael_Dante_DiMartino"
-          }
-        }
-      ],
-      "text": "After M. Night Shyamalan was attached to the film trilogy, he was \"interviewed\" by Bryan Konietzko and Michael Dante DiMartino."
-    },
-    {
-      "body": "In the video \"interview\" of ${link_0} conducted by ${link_1} and ${link_2}, the film trilogy was planned to be 6+ hours long, which gave 2+ hours for the first movie (though the final running time is 103 minutes). Due to the short allotted running time, the film does not cover the entire first season of the original animated series, even though the film was titled \"Book One: Water\". With such a rich and complex story elements, rather than a \"comprehensive adaptation\" like Harry Potter and Lord of the Rings, ${link_3} from Avatar: The Last Airbender were selected and rewoven into its own story and direction, similar to a \"selective adaptation\" approach with a long series like Spider-man and X-Men. However, some fans mistaken the film as poorly executed \"comprehensive adaptation\" and insisted on a direct comparison with its original animated series.",
-      "links": [
-        {
-          "body": "M. Night Shyamalan",
-          "key": "${link_0}",
-          "target": {
-            "href": "Film_M",
-            "page": "Film_M"
-          }
-        },
-        {
-          "body": "Bryan Konietzko",
-          "key": "${link_1}",
-          "target": {
-            "href": "Bryan_Konietzko",
+            "external": false,
+            "href": "/wiki/Bryan_Konietzko",
             "page": "Bryan_Konietzko"
           }
         },
@@ -82,18 +52,59 @@
           "body": "Mike DiMartino",
           "key": "${link_2}",
           "target": {
-            "href": "Michael_Dante_DiMartino",
+            "external": false,
+            "href": "/wiki/Michael_Dante_DiMartino",
             "page": "Michael_Dante_DiMartino"
           }
         },
         {
-          "body": "elements",
+          "body": "Harry Potter",
           "key": "${link_3}",
           "target": {
-            "href": "Film_Elements_from_Avatar__The_Last_Airbender",
+            "external": true,
+            "href": "http://harrypotter.wikia.com/wiki/Category:Films_(real-world)",
+            "page": "http://harrypotter.wikia.com/wiki/Category:Films_(real-world)"
+          }
+        },
+        {
+          "body": "Lord of the Rings",
+          "key": "${link_4}",
+          "target": {
+            "external": true,
+            "href": "http://lotr.wikia.com/wiki/Lord_of_the_Rings_film_trilogy",
+            "page": "http://lotr.wikia.com/wiki/Lord_of_the_Rings_film_trilogy"
+          }
+        },
+        {
+          "body": "elements",
+          "key": "${link_5}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Elements_from_Avatar__The_Last_Airbender",
             "page": "Film_Elements_from_Avatar__The_Last_Airbender"
           }
+        },
+        {
+          "body": "Spider-man",
+          "key": "${link_6}",
+          "target": {
+            "external": true,
+            "href": "http://marvel.wikia.com/wiki/Spider-Man_(2002_film)",
+            "page": "http://marvel.wikia.com/wiki/Spider-Man_(2002_film)"
+          }
+        },
+        {
+          "body": "X-Men",
+          "key": "${link_7}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/X-Men_(film_series)",
+            "page": "http://en.wikipedia.org/wiki/X-Men_(film_series)"
+          }
         }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender"
       ],
       "text": "In the video \"interview\" of M. Night Shyamalan conducted by Bryan Konietzko and Mike DiMartino, the film trilogy was planned to be 6+ hours long, which gave 2+ hours for the first movie (though the final running time is 103 minutes). Due to the short allotted running time, the film does not cover the entire first season of the original animated series, even though the film was titled \"Book One: Water\". With such a rich and complex story elements, rather than a \"comprehensive adaptation\" like Harry Potter and Lord of the Rings, elements from Avatar: The Last Airbender were selected and rewoven into its own story and direction, similar to a \"selective adaptation\" approach with a long series like Spider-man and X-Men. However, some fans mistaken the film as poorly executed \"comprehensive adaptation\" and insisted on a direct comparison with its original animated series."
     },
@@ -104,7 +115,8 @@
           "body": "Bryan Konietzko",
           "key": "${link_0}",
           "target": {
-            "href": "Bryan_Konietzko",
+            "external": false,
+            "href": "/wiki/Bryan_Konietzko",
             "page": "Bryan_Konietzko"
           }
         },
@@ -112,31 +124,24 @@
           "body": "Mike DiMartino",
           "key": "${link_1}",
           "target": {
-            "href": "Michael_Dante_DiMartino",
+            "external": false,
+            "href": "/wiki/Michael_Dante_DiMartino",
             "page": "Michael_Dante_DiMartino"
           }
         }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender"
       ],
       "text": "Shyamalan collaborated with Bryan Konietzko and Mike DiMartino to identify these essential elements and work out a plot for Shyamalan to write a screenplay with."
     },
     {
       "body": "The bending arts were reworked with Shyamalan new story parameter of firebenders requiring sources of fires, which \"evens the (playing) field\". Appa's arrow was removed, although as far as not needing wings to fly like Momo, Shyamalan said, \"Appa can just fly. It was too much to change the entire structure of that creature to make it appropriate to physics.\"",
       "links": [],
-      "text": "The bending arts were reworked with Shyamalan new story parameter of firebenders requiring sources of fires, which \"evens the (playing) field\". Appa's arrow was removed, although as far as not needing wings to fly like Momo, Shyamalan said, \"Appa can just fly. It was too much to change the entire structure of that creature to make it appropriate to physics.\""
-    },
-    {
-      "body": "The negative fan reactions for the upcoming movie were parodied in \"${link_0}\".",
-      "links": [
-        {
-          "body": "The Ember Island Players",
-          "key": "${link_0}",
-          "target": {
-            "href": "The_Ember_Island_Players",
-            "page": "The_Ember_Island_Players"
-          }
-        }
+      "section": [
+        "Adaptation of Avatar: The Last Airbender"
       ],
-      "text": "The negative fan reactions for the upcoming movie were parodied in \"The Ember Island Players\"."
+      "text": "The bending arts were reworked with Shyamalan new story parameter of firebenders requiring sources of fires, which \"evens the (playing) field\". Appa's arrow was removed, although as far as not needing wings to fly like Momo, Shyamalan said, \"Appa can just fly. It was too much to change the entire structure of that creature to make it appropriate to physics.\""
     },
     {
       "body": "Shyamalan was attached to the movie in January 8, 2007 before season three was completed (i.e. \"when I met Mike and Bryan, they hadn't finished season three\"). Since ${link_0} episode was aired in July 18 2008, the play in that episode was likely in reference of the upcoming movie, before its actual filming began in mid-March 2009. Very likely, the show creators anticipated the negative fan reactions of the film adaptation for ${link_1}, based on their own experience with film adaptations of favorite shows from their own past. However, they remained executive producers for the film and even took part in the BR/DVD documentaries for the movie. Since they have neither publicly praised nor condemned the movie, they may have taken the stance of not endorsing any particular view of the movie, and thus want fans of the original series to make up their own minds with M. Night Shyamalan's film adaptation.",
@@ -145,7 +150,8 @@
           "body": "The Ember Island Players",
           "key": "${link_0}",
           "target": {
-            "href": "The_Ember_Island_Players",
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
             "page": "The_Ember_Island_Players"
           }
         },
@@ -153,17 +159,16 @@
           "body": "Avatar: The Last Airbender",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         }
       ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender"
+      ],
       "text": "Shyamalan was attached to the movie in January 8, 2007 before season three was completed (i.e. \"when I met Mike and Bryan, they hadn't finished season three\"). Since The Ember Island Players episode was aired in July 18 2008, the play in that episode was likely in reference of the upcoming movie, before its actual filming began in mid-March 2009. Very likely, the show creators anticipated the negative fan reactions of the film adaptation for Avatar: The Last Airbender, based on their own experience with film adaptations of favorite shows from their own past. However, they remained executive producers for the film and even took part in the BR/DVD documentaries for the movie. Since they have neither publicly praised nor condemned the movie, they may have taken the stance of not endorsing any particular view of the movie, and thus want fans of the original series to make up their own minds with M. Night Shyamalan's film adaptation."
-    },
-    {
-      "body": "The film's map of the Avatar world was altered from that of the series.",
-      "links": [],
-      "text": "The film's map of the Avatar world was altered from that of the series."
     },
     {
       "body": "The film took many elements from ${link_0}. The main article has a list of elements taken from the original animated series that are otherwise omitted or changed, e.g. the ${link_1}. The inclusion in the movie may not follow the same order as the series \u2013 see the ${link_2} to see how these elements were incorporated into its own story and direction.",
@@ -172,7 +177,8 @@
           "body": "Avatar: The Last Airbender",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         },
@@ -180,7 +186,8 @@
           "body": "Avatar State",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar#Avatar_State",
+            "external": false,
+            "href": "/wiki/Avatar#Avatar_State",
             "page": "Avatar"
           }
         },
@@ -188,31 +195,146 @@
           "body": "synopsis",
           "key": "${link_2}",
           "target": {
-            "href": "Film_Synopsis_of_The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Film_Synopsis_of_The_Last_Airbender",
             "page": "Film_Synopsis_of_The_Last_Airbender"
           }
         }
       ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Elements from Avatar: The Last Airbender"
+      ],
       "text": "The film took many elements from Avatar: The Last Airbender. The main article has a list of elements taken from the original animated series that are otherwise omitted or changed, e.g. the Avatar State. The inclusion in the movie may not follow the same order as the series \u2013 see the synopsis to see how these elements were incorporated into its own story and direction."
     },
     {
-      "body": "Zuko's anti-hero status was done with less subtlety in the film, rather than revealed throughout the original animated series, which highlighted the moment this status was confirmed when Zuko turned against his father and joined Aang. Shyamalan may have established Zuko's anti-hero status more quickly due to the racebending controversy, with Zuko cast was with a dark-skinned minority actor, while the hero side (Aang, Sokka, and Katara) cast with light-skinned actors.",
-      "links": [],
+      "body": "Zuko's anti-hero status was done with less subtlety in the film, rather than ${link_0} throughout the original animated series, which highlighted the moment this status was confirmed when Zuko turned against his father and joined Aang. Shyamalan may have established Zuko's anti-hero status more quickly due to the racebending controversy, with Zuko cast was with a dark-skinned minority actor, while the hero side (Aang, Sokka, and Katara) cast with light-skinned actors.",
+      "links": [
+        {
+          "body": "revealed",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Exposition_(literary_technique)#Incluing_gradually",
+            "page": "http://en.wikipedia.org/wiki/Exposition_(literary_technique)"
+          }
+        }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Zuko's anti-hero status"
+      ],
       "text": "Zuko's anti-hero status was done with less subtlety in the film, rather than revealed throughout the original animated series, which highlighted the moment this status was confirmed when Zuko turned against his father and joined Aang. Shyamalan may have established Zuko's anti-hero status more quickly due to the racebending controversy, with Zuko cast was with a dark-skinned minority actor, while the hero side (Aang, Sokka, and Katara) cast with light-skinned actors."
     },
     {
-      "body": "A common storytelling technique to avoid confusing the anti-hero as \"another villian\" that rivals the real villain in the story, is to have a \"good\" character vouch for the anti-hero, e.g. Albus Dumbledore for Severus Snape in the Harry Potter series and Gwen Tennyson for the Kevin Levin in the Ben 10: Alien Force series. For the original animated series, it was Iroh and later ${link_0} as well.",
+      "body": "A common storytelling technique to avoid confusing the anti-hero as \"another villian\" that rivals the real villain in the story, is to have a \"good\" character vouch for the anti-hero, e.g. ${link_0} for ${link_1} in the ${link_2} series and ${link_3} for the ${link_4} in the ${link_5} series. For the original animated series, it was Iroh and later ${link_6} as well.",
       "links": [
         {
-          "body": "Toph",
+          "body": "Albus Dumbledore",
           "key": "${link_0}",
           "target": {
-            "href": "Toph_Beifong",
+            "external": true,
+            "href": "http://harrypotter.wikia.com/wiki/Albus_Dumbledore",
+            "page": "http://harrypotter.wikia.com/wiki/Albus_Dumbledore"
+          }
+        },
+        {
+          "body": "Severus Snape",
+          "key": "${link_1}",
+          "target": {
+            "external": true,
+            "href": "http://harrypotter.wikia.com/wiki/Severus_Snape",
+            "page": "http://harrypotter.wikia.com/wiki/Severus_Snape"
+          }
+        },
+        {
+          "body": "Harry Potter",
+          "key": "${link_2}",
+          "target": {
+            "external": true,
+            "href": "http://harrypotter.wikia.com/wiki/",
+            "page": "http://harrypotter.wikia.com/wiki/"
+          }
+        },
+        {
+          "body": "Gwen Tennyson",
+          "key": "${link_3}",
+          "target": {
+            "external": true,
+            "href": "http://ben10.fandom.com/wiki/Gwen_Tennyson",
+            "page": "http://ben10.fandom.com/wiki/Gwen_Tennyson"
+          }
+        },
+        {
+          "body": "Kevin Levin",
+          "key": "${link_4}",
+          "target": {
+            "external": true,
+            "href": "http://ben10.fandom.com/wiki/Kevin_Levin",
+            "page": "http://ben10.fandom.com/wiki/Kevin_Levin"
+          }
+        },
+        {
+          "body": "Ben 10: Alien Force",
+          "key": "${link_5}",
+          "target": {
+            "external": true,
+            "href": "http://ben10.fandom.com/wiki/Ben_10:_Alien_Force",
+            "page": "http://ben10.fandom.com/wiki/Ben_10:_Alien_Force"
+          }
+        },
+        {
+          "body": "Toph",
+          "key": "${link_6}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Toph_Beifong",
             "page": "Toph_Beifong"
           }
         }
       ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Zuko's anti-hero status"
+      ],
       "text": "A common storytelling technique to avoid confusing the anti-hero as \"another villian\" that rivals the real villain in the story, is to have a \"good\" character vouch for the anti-hero, e.g. Albus Dumbledore for Severus Snape in the Harry Potter series and Gwen Tennyson for the Kevin Levin in the Ben 10: Alien Force series. For the original animated series, it was Iroh and later Toph as well."
+    },
+    {
+      "body": "Iroh's Characterization. Rather than a carefree and comic-relief character, Iroh's character in the movie was modeled strictly as gentle, kind, wise, and a spiritual person. This makes him immediately likeable to both Aang and Princess Yue.",
+      "links": [],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Zuko's anti-hero status"
+      ],
+      "text": "Iroh's Characterization. Rather than a carefree and comic-relief character, Iroh's character in the movie was modeled strictly as gentle, kind, wise, and a spiritual person. This makes him immediately likeable to both Aang and Princess Yue."
+    },
+    {
+      "body": "Iroh's Avatar Test. Though brief a scene, established that Aang consider Iroh as a trustworthy and a good person, and understood that Iroh regretted having to detain Aang after he passed the test, i.e. \"If Iroh is a good guy, then maybe Zuko isn't so bad.\" In the original animated series, Aang did not had this first impression with Iroh - he only saw Zuko pass his staff to Iroh, which Iroh later passed to the nearest guard for his convenience.",
+      "links": [],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Zuko's anti-hero status"
+      ],
+      "text": "Iroh's Avatar Test. Though brief a scene, established that Aang consider Iroh as a trustworthy and a good person, and understood that Iroh regretted having to detain Aang after he passed the test, i.e. \"If Iroh is a good guy, then maybe Zuko isn't so bad.\" In the original animated series, Aang did not had this first impression with Iroh - he only saw Zuko pass his staff to Iroh, which Iroh later passed to the nearest guard for his convenience."
+    },
+    {
+      "body": "Zuko's Mother. This story element introduced in Book Two, enables the audience to see the other side of Zuko's mean and explosive personality. For the movie, Shyamalan brought it out earlier with Zuko's family picture (shown just before his combat training on his ship) and Zuko's monologue to Aang (while Aang was hand-bound in a storage room). Shyamalan also indicated in the ${link_0} that \"I want to know what happens to Zuko's mom\".",
+      "links": [
+        {
+          "body": "roundtable discussion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Transcript_Roundtable_discussion_with_M",
+            "page": "Transcript_Roundtable_discussion_with_M"
+          }
+        }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Zuko's anti-hero status"
+      ],
+      "text": "Zuko's Mother. This story element introduced in Book Two, enables the audience to see the other side of Zuko's mean and explosive personality. For the movie, Shyamalan brought it out earlier with Zuko's family picture (shown just before his combat training on his ship) and Zuko's monologue to Aang (while Aang was hand-bound in a storage room). Shyamalan also indicated in the roundtable discussion that \"I want to know what happens to Zuko's mom\"."
     },
     {
       "body": "Depending on how the show creators originated the names and terms, a few were given a different pronunciation, rather than an American pronunciation: ${link_0} (\u0251\u02d0\u014b), ${link_1} (S\u014dka), ${link_2} (\u026a\u02c8ro\u028a), ${link_3} (\u0251v\u0259t\u0251r), and ${link_4} (\u0905\u0917\u094d\u0928\u093f \u0915\u0940 \u0921\u0942\u090f\u0932). Shyamalan said the show creators were \"pretty supportive\" of the change, initiated after ${link_5} asked during a rehearsal, \"Why are we pronouncing Iroh like 'Eye-roh'?\"",
@@ -221,7 +343,8 @@
           "body": "Aang",
           "key": "${link_0}",
           "target": {
-            "href": "Aang",
+            "external": false,
+            "href": "/wiki/Aang",
             "page": "Aang"
           }
         },
@@ -229,7 +352,8 @@
           "body": "Sokka",
           "key": "${link_1}",
           "target": {
-            "href": "Sokka",
+            "external": false,
+            "href": "/wiki/Sokka",
             "page": "Sokka"
           }
         },
@@ -237,7 +361,8 @@
           "body": "Iroh",
           "key": "${link_2}",
           "target": {
-            "href": "Iroh",
+            "external": false,
+            "href": "/wiki/Iroh",
             "page": "Iroh"
           }
         },
@@ -245,7 +370,8 @@
           "body": "Avatar",
           "key": "${link_3}",
           "target": {
-            "href": "Avatar",
+            "external": false,
+            "href": "/wiki/Avatar",
             "page": "Avatar"
           }
         },
@@ -253,7 +379,8 @@
           "body": "Agni k\u012b Duel",
           "key": "${link_4}",
           "target": {
-            "href": "Agni_Kai",
+            "external": false,
+            "href": "/wiki/Agni_Kai",
             "page": "Agni_Kai"
           }
         },
@@ -261,34 +388,322 @@
           "body": "Shaun Toub",
           "key": "${link_5}",
           "target": {
-            "href": "Film_Shaun_Toub",
+            "external": false,
+            "href": "/wiki/Film_Shaun_Toub",
             "page": "Film_Shaun_Toub"
           }
         }
       ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Name pronunciation"
+      ],
       "text": "Depending on how the show creators originated the names and terms, a few were given a different pronunciation, rather than an American pronunciation: Aang (\u0251\u02d0\u014b), Sokka (S\u014dka), Iroh (\u026a\u02c8ro\u028a), Avatar (\u0251v\u0259t\u0251r), and Agni k\u012b Duel (\u0905\u0917\u094d\u0928\u093f \u0915\u0940 \u0921\u0942\u090f\u0932). Shyamalan said the show creators were \"pretty supportive\" of the change, initiated after Shaun Toub asked during a rehearsal, \"Why are we pronouncing Iroh like 'Eye-roh'?\""
     },
     {
-      "body": "${link_0} threw ${link_1} overboard; the boy was never heard from again.",
+      "body": "Chinese pronunciation. Aang was pronounced IPA:/\u0251\u02d0\u014b/ as it was adopted from a Chinese name \u00c1ng (\u6602). Chinese names with the acceptable pronunciation in the series were unchanged in the movie: ${link_0} (\u6708), Yin (\u9634) and Yang (\u9633). Other names that may be affected in the sequels include Long Feng (\u9f8d\u9cf3), Dai Li (\u4ee3\u7406) and Bei Fang (\u5317\u65b9).",
+      "links": [
+        {
+          "body": "Yue",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Yue",
+            "page": "Yue"
+          }
+        }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Name pronunciation"
+      ],
+      "text": "Chinese pronunciation. Aang was pronounced IPA:/\u0251\u02d0\u014b/ as it was adopted from a Chinese name \u00c1ng (\u6602). Chinese names with the acceptable pronunciation in the series were unchanged in the movie: Yue (\u6708), Yin (\u9634) and Yang (\u9633). Other names that may be affected in the sequels include Long Feng (\u9f8d\u9cf3), Dai Li (\u4ee3\u7406) and Bei Fang (\u5317\u65b9)."
+    },
+    {
+      "body": "English pronunciation. ${link_0} was also pronounced the same by Shyamalan during the roundtable discussion, likely because the creators intended her name to be a phonetic reference to English words \"Tough\" or \"Tuff\". Thus, the spellings of her name in the series, \u62d3\u8299 and \u6258\u592b, are just how to write \"Toph\" using Chinese characters (i.e. the opposite of \"Romanization\"). A possible English name that may be retained in the sequels is ${link_1}, a spelling variation to a girl's name, ${link_2}.",
+      "links": [
+        {
+          "body": "Toph",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Toph_Beifong",
+            "page": "Toph_Beifong"
+          }
+        },
+        {
+          "body": "Ty Lee",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ty_Lee",
+            "page": "Ty_Lee"
+          }
+        },
+        {
+          "body": "Tylie",
+          "key": "${link_2}",
+          "target": {
+            "external": true,
+            "href": "http://www.babynames.com/name/TYLIE",
+            "page": "http://www.babynames.com/name/TYLIE"
+          }
+        }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Name pronunciation"
+      ],
+      "text": "English pronunciation. Toph was also pronounced the same by Shyamalan during the roundtable discussion, likely because the creators intended her name to be a phonetic reference to English words \"Tough\" or \"Tuff\". Thus, the spellings of her name in the series, \u62d3\u8299 and \u6258\u592b, are just how to write \"Toph\" using Chinese characters (i.e. the opposite of \"Romanization\"). A possible English name that may be retained in the sequels is Ty Lee, a spelling variation to a girl's name, Tylie."
+    },
+    {
+      "body": "Japanese pronunciation. Sokka (\u5275\u4fa1) was pronounced as S\u014dka. Other Water Tribesmen with Japanese names already used the acceptable pronunciation in the series: ${link_0} (\u30d1\u30c3\u30af), ${link_1} (\u7bb1\u7530), ${link_2} (\u30d0\u30c8\u30fc) and ${link_3} (\u30cf\u30f3). Likewise, other unchanged names include ${link_4} (\u865b\u5b50) in the movie, and ${link_5} (\u597d\u304d), in the roundtable discussion.",
+      "links": [
+        {
+          "body": "Pakku",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Pakku",
+            "page": "Pakku"
+          }
+        },
+        {
+          "body": "Hakoda",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Hakoda",
+            "page": "Hakoda"
+          }
+        },
+        {
+          "body": "Bato",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bato",
+            "page": "Bato"
+          }
+        },
+        {
+          "body": "Hahn",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Hahn",
+            "page": "Hahn"
+          }
+        },
+        {
+          "body": "Kyoshi",
+          "key": "${link_4}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kyoshi",
+            "page": "Kyoshi"
+          }
+        },
+        {
+          "body": "Suki",
+          "key": "${link_5}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Suki",
+            "page": "Suki"
+          }
+        }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Name pronunciation"
+      ],
+      "text": "Japanese pronunciation. Sokka (\u5275\u4fa1) was pronounced as S\u014dka. Other Water Tribesmen with Japanese names already used the acceptable pronunciation in the series: Pakku (\u30d1\u30c3\u30af), Hakoda (\u7bb1\u7530), Bato (\u30d0\u30c8\u30fc) and Hahn (\u30cf\u30f3). Likewise, other unchanged names include Kyoshi (\u865b\u5b50) in the movie, and Suki (\u597d\u304d), in the roundtable discussion."
+    },
+    {
+      "body": "Hindi pronunciation. Agni Kai was either reworked as a Hindi word, Agni k\u012b Duel (\u0905\u0917\u094d\u0928\u093f \u0915\u0940 \u0921\u0942\u090f\u0932 - \"Duel of Fire\"), or pronounced the way it was meant to in Hindi, as a typical American speaker would pronounce \"Agni-Ki\" as \"Agni-Kai\" rather than \"Agni-Kee\". As for the term Avatar (\u0905\u0935\u0924\u093e\u0930), Shyamalan mentioned using the Hindi pronunciation in his interview with UGO back in March 2010 but in the final cut of the movie, it was pronounced either as IPA:/\u00e6v\u0259t\u0251r/ (the American pronunciation, as in the series) or IPA:/\u0251v\u0259t\u0251r/ (the British pronunciation), depending on the speaker. Katara, Sokka and Iroh used the British. ${link_0}, ${link_1}, and the ${link_2} used the American.",
+      "links": [
+        {
+          "body": "Kanna",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Kanna",
+            "page": "Film_Kanna"
+          }
+        },
+        {
+          "body": "Ozai",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Ozai",
+            "page": "Film_Ozai"
+          }
+        },
+        {
+          "body": "Dragon Spirit",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Dragon_Spirit",
+            "page": "Film_Dragon_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Name pronunciation"
+      ],
+      "text": "Hindi pronunciation. Agni Kai was either reworked as a Hindi word, Agni k\u012b Duel (\u0905\u0917\u094d\u0928\u093f \u0915\u0940 \u0921\u0942\u090f\u0932 - \"Duel of Fire\"), or pronounced the way it was meant to in Hindi, as a typical American speaker would pronounce \"Agni-Ki\" as \"Agni-Kai\" rather than \"Agni-Kee\". As for the term Avatar (\u0905\u0935\u0924\u093e\u0930), Shyamalan mentioned using the Hindi pronunciation in his interview with UGO back in March 2010 but in the final cut of the movie, it was pronounced either as IPA:/\u00e6v\u0259t\u0251r/ (the American pronunciation, as in the series) or IPA:/\u0251v\u0259t\u0251r/ (the British pronunciation), depending on the speaker. Katara, Sokka and Iroh used the British. Kanna, Ozai, and the Dragon Spirit used the American."
+    },
+    {
+      "body": "Malay/Indonesian pronunciation. ${link_0} (meaning \"Earth\") already used the proper pronunciation in the animated series so it was pronounced the same in the March 2010 Interview. Interestingly, some fans still use the English phonetic spelling \"Boomie\" to refer to him.",
+      "links": [
+        {
+          "body": "Bumi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bumi_(King_of_Omashu)",
+            "page": "Bumi_(King_of_Omashu)"
+          }
+        }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Name pronunciation"
+      ],
+      "text": "Malay/Indonesian pronunciation. Bumi (meaning \"Earth\") already used the proper pronunciation in the animated series so it was pronounced the same in the March 2010 Interview. Interestingly, some fans still use the English phonetic spelling \"Boomie\" to refer to him."
+    },
+    {
+      "body": "Middle-eastern pronunciation. Iroh was pronounced Ee-roh instead of Eye-roh. Shyamalan may have changed this to appeal to \"the world\" including the middle-eastern audience who generally dislike the 'incorrect' American pronunciation of Iran or Iraq. It may also serve to acknowledge the character being played by a middle-eastern man, as ${link_0} is an Iranian-borne Persian Jew.",
+      "links": [
+        {
+          "body": "Shaun Toub",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Shaun_Toub",
+            "page": "http://en.wikipedia.org/wiki/Shaun_Toub"
+          }
+        }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Name pronunciation"
+      ],
+      "text": "Middle-eastern pronunciation. Iroh was pronounced Ee-roh instead of Eye-roh. Shyamalan may have changed this to appeal to \"the world\" including the middle-eastern audience who generally dislike the 'incorrect' American pronunciation of Iran or Iraq. It may also serve to acknowledge the character being played by a middle-eastern man, as Shaun Toub is an Iranian-borne Persian Jew."
+    },
+    {
+      "body": "Spanish pronunciation. In Zuko's monologue to Aang, he pronounced his sister ${link_0} as IPA:/\u0251zul\u0251/ like in the series, as derived from a Spanish word for blue.",
+      "links": [
+        {
+          "body": "Azula",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Azula",
+            "page": "Film_Azula"
+          }
+        }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Name pronunciation"
+      ],
+      "text": "Spanish pronunciation. In Zuko's monologue to Aang, he pronounced his sister Azula as IPA:/\u0251zul\u0251/ like in the series, as derived from a Spanish word for blue."
+    },
+    {
+      "body": "Zhao's pronunciation. ${link_0} was pronounced IPA:/\u0292a\u028a/ as in the series, with the ${link_1} consonant ${link_2} that is more commonly use with non-Asian languages and names, e.g. a French name ${link_3} IPA:/\u0292\u0251k/. If so, Zhao may be an English phoentic spelling for another made-up name for the ${link_4} - any Asian names with the same romanized spelling for \"Zhao\" may simply be a coincidence. Otherwise, the creators may have wanted to retain the American pronunciation for the Asian name \u8d99. For Mandarin Chinese, \u8d99 is spelled as \"Zhao\" but pronounced as t\u0255\u00e0o. This may be confused with \"Chao\" (\u6f6e) by an American speaker, since both ${link_5} consonants ${link_6} and ${link_7} may sound similar to another affricate consonant ${link_8} as in \"Chocolate\". For Japanese, \u8d99 is also romanized as \"Zhao\", is pronounced as t\u0255\u014d, and is phonetically spelled as Ch\u014d.",
       "links": [
         {
           "body": "Zhao",
           "key": "${link_0}",
           "target": {
-            "href": "Zhao",
+            "external": false,
+            "href": "/wiki/Zhao",
             "page": "Zhao"
           }
         },
         {
-          "body": "Hahn",
+          "body": "fricative",
           "key": "${link_1}",
           "target": {
-            "href": "Hahn",
-            "page": "Hahn"
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Fricative_consonant",
+            "page": "http://en.wikipedia.org/wiki/Fricative_consonant"
+          }
+        },
+        {
+          "body": "\u0292",
+          "key": "${link_2}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Voiced_postalveolar_fricative",
+            "page": "http://en.wikipedia.org/wiki/Voiced_postalveolar_fricative"
+          }
+        },
+        {
+          "body": "Jacques",
+          "key": "${link_3}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Jacques",
+            "page": "http://en.wikipedia.org/wiki/Jacques"
+          }
+        },
+        {
+          "body": "Fire Nation",
+          "key": "${link_4}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Fire_Nation",
+            "page": "Fire_Nation"
+          }
+        },
+        {
+          "body": "affricate",
+          "key": "${link_5}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Affricate_consonant",
+            "page": "http://en.wikipedia.org/wiki/Affricate_consonant"
+          }
+        },
+        {
+          "body": "t\u0255",
+          "key": "${link_6}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_affricate",
+            "page": "http://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_affricate"
+          }
+        },
+        {
+          "body": "t\u0282",
+          "key": "${link_7}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Voiceless_retroflex_affricate",
+            "page": "http://en.wikipedia.org/wiki/Voiceless_retroflex_affricate"
+          }
+        },
+        {
+          "body": "t\u0283",
+          "key": "${link_8}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate",
+            "page": "http://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate"
           }
         }
       ],
-      "text": "Zhao threw Hahn overboard; the boy was never heard from again."
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Name pronunciation"
+      ],
+      "text": "Zhao's pronunciation. Zhao was pronounced IPA:/\u0292a\u028a/ as in the series, with the fricative consonant \u0292 that is more commonly use with non-Asian languages and names, e.g. a French name Jacques IPA:/\u0292\u0251k/. If so, Zhao may be an English phoentic spelling for another made-up name for the Fire Nation - any Asian names with the same romanized spelling for \"Zhao\" may simply be a coincidence. Otherwise, the creators may have wanted to retain the American pronunciation for the Asian name \u8d99. For Mandarin Chinese, \u8d99 is spelled as \"Zhao\" but pronounced as t\u0255\u00e0o. This may be confused with \"Chao\" (\u6f6e) by an American speaker, since both affricate consonants t\u0255 and t\u0282 may sound similar to another affricate consonant t\u0283 as in \"Chocolate\". For Japanese, \u8d99 is also romanized as \"Zhao\", is pronounced as t\u0255\u014d, and is phonetically spelled as Ch\u014d."
     },
     {
       "body": "The name pronunciation issues may have been raised before in the animated series. In particular, in the ${link_0} episodes, the character Hahn used the Japanese pronunciation of Sokka (\u5275\u4fa1) and Zhao (\u8d99), and may had deliberately mispronounced Ch\u014d as Choi (\u3061\u3087\u3044 meaning \"Little\" in Japanese). Sokka did not object to Hahn pronouncing his name as S\u014dka. However, when Hahn said \"We'll take out this Admiral Ch\u014d in no time\", Sokka yelled \"It's Admiral Zhao!!!\" Later, Hahn showed up on Zhao's ship wearing the Fire Nation uniform that Sokka had nitpicked earlier as outdated, yet Hahn still insisted as correct. He cried \"Admiral Choi, prepare to meet your fate\" and rushed to attack Zhao from behind with a spear; Zhao casually threw Hahn overboard with one hand and continued his interrupted conversation with Iroh. Hahn splashed into the icy waters, never to be heard from again.",
@@ -297,78 +712,143 @@
           "body": "Siege of the North",
           "key": "${link_0}",
           "target": {
-            "href": "Siege_of_the_North",
+            "external": false,
+            "href": "/wiki/Siege_of_the_North",
             "page": "Siege_of_the_North"
           }
         }
       ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Name pronunciation"
+      ],
       "text": "The name pronunciation issues may have been raised before in the animated series. In particular, in the Siege of the North episodes, the character Hahn used the Japanese pronunciation of Sokka (\u5275\u4fa1) and Zhao (\u8d99), and may had deliberately mispronounced Ch\u014d as Choi (\u3061\u3087\u3044 meaning \"Little\" in Japanese). Sokka did not object to Hahn pronouncing his name as S\u014dka. However, when Hahn said \"We'll take out this Admiral Ch\u014d in no time\", Sokka yelled \"It's Admiral Zhao!!!\" Later, Hahn showed up on Zhao's ship wearing the Fire Nation uniform that Sokka had nitpicked earlier as outdated, yet Hahn still insisted as correct. He cried \"Admiral Choi, prepare to meet your fate\" and rushed to attack Zhao from behind with a spear; Zhao casually threw Hahn overboard with one hand and continued his interrupted conversation with Iroh. Hahn splashed into the icy waters, never to be heard from again."
     },
     {
-      "body": "In a video interview captured on FlipCam, a young man asked M. Night Shyamalan at a junket why the \"${link_0}\" was replaced with a \"tidal wave\". Some of Shyamalan's answers:",
+      "body": "In a ${link_0} captured on ${link_1}, a young man asked M. Night Shyamalan at a junket why the \"${link_2}\" was replaced with a \"tidal wave\". Some of Shyamalan's answers:",
       "links": [
         {
-          "body": "water creature",
+          "body": "video interview",
           "key": "${link_0}",
           "target": {
-            "href": "La#Koizilla",
+            "external": false,
+            "href": "/wiki/#",
+            "page": ""
+          }
+        },
+        {
+          "body": "FlipCam",
+          "key": "${link_1}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Flip_Video",
+            "page": "http://en.wikipedia.org/wiki/Flip_Video"
+          }
+        },
+        {
+          "body": "water creature",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/La#Koizilla",
             "page": "La"
           }
         }
       ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Removal of Koizilla"
+      ],
       "text": "In a video interview captured on FlipCam, a young man asked M. Night Shyamalan at a junket why the \"water creature\" was replaced with a \"tidal wave\". Some of Shyamalan's answers:"
     },
     {
-      "body": "Princess Mononoke (\u3082\u306e\u306e\u3051\u59eb, Mononoke-hime) is a 1997 epic Japanese animated historical fantasy feature film written and directed by Hayao Miyazaki of Studio Ghibli. The design of ${link_0} closely resembles the Forest Spirit from that film in its gigantic \"Nightwalker\" form. In the ending of Princess Mononoke, Lady Eboshi wanted to kill the Forest Spirit for the humans to triumph over the \"gods\", which may be similar to what ${link_1} wanted to do with the ${link_2}. Ashitaka (i.e. Iroh) pleaded to her for peaceful coexistence between them and humanity but she severed the head of the Spirit anyway, while it was turning into the Nightwalker form. The head (i.e. Moon Spirit) was captured while the body turned into a blob form, (i.e. ${link_3}) killing everyone in his path while searching for his head. Ashitaka risked his life to return the head back to the body and end its the brutal rampage. The original story elements in the ${link_4} included the tragic story of Princess Yue's sacrifice to save her people and Zhao's willingness to die as a hero (rather live as a failure) to the ${link_5}; those were kept in the movie.",
+      "body": "${link_0} (\u3082\u306e\u306e\u3051\u59eb, Mononoke-hime) is a 1997 epic Japanese animated historical fantasy feature film written and directed by ${link_1} of ${link_2}. The design of ${link_3} closely resembles the Forest Spirit from that film in its gigantic \"Nightwalker\" form. In the ending of Princess Mononoke, Lady Eboshi wanted to kill the Forest Spirit for the humans to triumph over the \"gods\", which may be similar to what ${link_4} wanted to do with the ${link_5}. Ashitaka (i.e. Iroh) pleaded to her for peaceful coexistence between them and humanity but she severed the head of the Spirit anyway, while it was turning into the Nightwalker form. The head (i.e. Moon Spirit) was captured while the body turned into a blob form, (i.e. ${link_6}) killing everyone in his path while searching for his head. Ashitaka risked his life to return the head back to the body and end its the brutal rampage. The original story elements in the ${link_7} included the tragic story of Princess Yue's sacrifice to save her people and Zhao's willingness to die as a hero (rather live as a failure) to the ${link_8}; those were kept in the movie.",
       "links": [
         {
-          "body": "Koizilla",
+          "body": "Princess Mononoke",
           "key": "${link_0}",
           "target": {
-            "href": "La#Koizilla",
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Princess_Mononoke",
+            "page": "http://en.wikipedia.org/wiki/Princess_Mononoke"
+          }
+        },
+        {
+          "body": "Hayao Miyazaki",
+          "key": "${link_1}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Hayao_Miyazaki",
+            "page": "http://en.wikipedia.org/wiki/Hayao_Miyazaki"
+          }
+        },
+        {
+          "body": "Studio Ghibli",
+          "key": "${link_2}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Studio_Ghibli",
+            "page": "http://en.wikipedia.org/wiki/Studio_Ghibli"
+          }
+        },
+        {
+          "body": "Koizilla",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/La#Koizilla",
             "page": "La"
           }
         },
         {
           "body": "Zhao",
-          "key": "${link_1}",
+          "key": "${link_4}",
           "target": {
-            "href": "Zhao",
+            "external": false,
+            "href": "/wiki/Zhao",
             "page": "Zhao"
           }
         },
         {
           "body": "Moon Spirit",
-          "key": "${link_2}",
+          "key": "${link_5}",
           "target": {
-            "href": "Tui",
+            "external": false,
+            "href": "/wiki/Tui",
             "page": "Tui"
           }
         },
         {
           "body": "Ocean Spirit",
-          "key": "${link_3}",
+          "key": "${link_6}",
           "target": {
-            "href": "La",
+            "external": false,
+            "href": "/wiki/La",
             "page": "La"
           }
         },
         {
           "body": "Siege of the North",
-          "key": "${link_4}",
+          "key": "${link_7}",
           "target": {
-            "href": "Siege_of_the_North",
+            "external": false,
+            "href": "/wiki/Siege_of_the_North",
             "page": "Siege_of_the_North"
           }
         },
         {
           "body": "Fire Nation",
-          "key": "${link_5}",
+          "key": "${link_8}",
           "target": {
-            "href": "Film_Fire_Nation",
+            "external": false,
+            "href": "/wiki/Film_Fire_Nation",
             "page": "Film_Fire_Nation"
           }
         }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Removal of Koizilla"
       ],
       "text": "Princess Mononoke (\u3082\u306e\u306e\u3051\u59eb, Mononoke-hime) is a 1997 epic Japanese animated historical fantasy feature film written and directed by Hayao Miyazaki of Studio Ghibli. The design of Koizilla closely resembles the Forest Spirit from that film in its gigantic \"Nightwalker\" form. In the ending of Princess Mononoke, Lady Eboshi wanted to kill the Forest Spirit for the humans to triumph over the \"gods\", which may be similar to what Zhao wanted to do with the Moon Spirit. Ashitaka (i.e. Iroh) pleaded to her for peaceful coexistence between them and humanity but she severed the head of the Spirit anyway, while it was turning into the Nightwalker form. The head (i.e. Moon Spirit) was captured while the body turned into a blob form, (i.e. Ocean Spirit) killing everyone in his path while searching for his head. Ashitaka risked his life to return the head back to the body and end its the brutal rampage. The original story elements in the Siege of the North included the tragic story of Princess Yue's sacrifice to save her people and Zhao's willingness to die as a hero (rather live as a failure) to the Fire Nation; those were kept in the movie."
     },
@@ -379,7 +859,8 @@
           "body": "Winter Solstice, Part 1: The Spirit World",
           "key": "${link_0}",
           "target": {
-            "href": "Winter_Solstice%2c_Part_1__The_Spirit_World",
+            "external": false,
+            "href": "/wiki/Winter_Solstice%2c_Part_1__The_Spirit_World",
             "page": "Winter_Solstice%2c_Part_1__The_Spirit_World"
           }
         },
@@ -387,7 +868,8 @@
           "body": "Hei Bai",
           "key": "${link_1}",
           "target": {
-            "href": "Hei_Bai",
+            "external": false,
+            "href": "/wiki/Hei_Bai",
             "page": "Hei_Bai"
           }
         },
@@ -395,7 +877,8 @@
           "body": "Spirit World",
           "key": "${link_2}",
           "target": {
-            "href": "Spirit_World",
+            "external": false,
+            "href": "/wiki/Spirit_World",
             "page": "Spirit_World"
           }
         },
@@ -403,7 +886,8 @@
           "body": "winter solstice",
           "key": "${link_3}",
           "target": {
-            "href": "Winter_solstice",
+            "external": false,
+            "href": "/wiki/Winter_solstice",
             "page": "Winter_solstice"
           }
         },
@@ -411,7 +895,8 @@
           "body": "Katara",
           "key": "${link_4}",
           "target": {
-            "href": "Katara",
+            "external": false,
+            "href": "/wiki/Katara",
             "page": "Katara"
           }
         },
@@ -419,7 +904,8 @@
           "body": "prologue",
           "key": "${link_5}",
           "target": {
-            "href": "Film_The_Last_Airbender#Prologue",
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender#Prologue",
             "page": "Film_The_Last_Airbender"
           }
         },
@@ -427,10 +913,15 @@
           "body": "Kanna",
           "key": "${link_6}",
           "target": {
-            "href": "Kanna",
+            "external": false,
+            "href": "/wiki/Kanna",
             "page": "Kanna"
           }
         }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Removal of Koizilla"
       ],
       "text": "Other similar story elements from Princess Mononoke were also not used in Shyamalan's film adaptation. The episode \"Winter Solstice, Part 1: The Spirit World\" in particular, may been strongly influenced by the story relating to the forest destruction by humans, and its renewal with the planting of acorns: Hei Bai played the role similar to the Forest Spirit in its benevolent form but as a form of a panda, and its malevolent form as a large multi-armed monster instead of a ferocious \"Blob\". A key difference from Princess Mononoke was the inclusion of the Spirit World; in contrast from that episode, the Forest Spirit and the other supernatural creatures always reside in the \"human world\" rather than only during the winter solstice. The concept of the Spirit World that was first introduced in that episode, was included in the film adaptation by first mentioning it in Katara's narration of the prologue, and later given a brief overview with Kanna's exposition to Katara and Sokka in the igloo."
     },
@@ -441,7 +932,8 @@
           "body": "The Siege of the North, Part 2",
           "key": "${link_0}",
           "target": {
-            "href": "The_Siege_of_the_North%2c_Part_2",
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
             "page": "The_Siege_of_the_North%2c_Part_2"
           }
         },
@@ -449,7 +941,8 @@
           "body": "waterbending",
           "key": "${link_1}",
           "target": {
-            "href": "Waterbending",
+            "external": false,
+            "href": "/wiki/Waterbending",
             "page": "Waterbending"
           }
         },
@@ -457,7 +950,8 @@
           "body": "Sozin's Comet, Part 4: Avatar Aang",
           "key": "${link_2}",
           "target": {
-            "href": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
             "page": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang"
           }
         },
@@ -465,26 +959,27 @@
           "body": "Ozai",
           "key": "${link_3}",
           "target": {
-            "href": "Ozai",
+            "external": false,
+            "href": "/wiki/Ozai",
             "page": "Ozai"
           }
         }
       ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Removal of Koizilla"
+      ],
       "text": "As for the \"symbolic gesture\" in the movie, it should be noted that unlike in the episode \"The Siege of the North, Part 2\", Aang was fully aware and in control of his immense waterbending ability, i.e. his will was not overpowered by his past personalities and other entities with the Avatar State. Therefore, the movie finale is similar to the episode \"Sozin's Comet, Part 4: Avatar Aang\", in which Aang was in full control of the powers and abilities of a Fully Realized Avatar; he was able to choose not to kill Ozai, despite his past lives' insistence that it was the only way."
     },
     {
-      "body": "\"They are called many names: Yin and Yang, Push and Pull ...\" \u2013 Zhao",
-      "links": [],
-      "text": "\"They are called many names: Yin and Yang, Push and Pull ...\" \u2013 Zhao"
-    },
-    {
-      "body": "As with the animated series, the Ocean Spirit was incarnated in a form of a black koi fish, while the Moon Spirit in a form of a white koi fish. However, their genders, abilities, and names may have been switched in the film, as suggested when ${link_0} said to ${link_1}, \"They are called many names: Yin and Yang, Push and Pull ... may I introduce you to the mysterious Ocean and Moon Spirits\". This may be compared to what ${link_2} said to Aang in the episode \"${link_3}\": \"${link_4} and ${link_5}, your Moon and Ocean, have always circled each other in an eternal dance. They balance each other: push and pull, life and death, good and evil, Yin and Yang.\"",
+      "body": "As with the animated series, the Ocean Spirit was incarnated in a form of a black koi fish, while the Moon Spirit in a form of a white koi fish. However, their genders, abilities, and names may have been switched in the film, as suggested when ${link_0} said to ${link_1}, \"They are called many names: ${link_2}, Push and Pull ... may I introduce you to the mysterious Ocean and Moon Spirits\". This may be compared to what ${link_3} said to Aang in the episode \"${link_4}\": \"${link_5} and ${link_6}, your Moon and Ocean, have always circled each other in an eternal dance. They balance each other: push and pull, life and death, good and evil, Yin and Yang.\"",
       "links": [
         {
           "body": "Zhao",
           "key": "${link_0}",
           "target": {
-            "href": "Film_Zhao",
+            "external": false,
+            "href": "/wiki/Film_Zhao",
             "page": "Film_Zhao"
           }
         },
@@ -492,63 +987,146 @@
           "body": "Iroh",
           "key": "${link_1}",
           "target": {
-            "href": "Film_Iroh",
+            "external": false,
+            "href": "/wiki/Film_Iroh",
             "page": "Film_Iroh"
           }
         },
         {
-          "body": "Koh",
+          "body": "Yin and Yang",
           "key": "${link_2}",
           "target": {
-            "href": "Koh",
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Yin_and_yang",
+            "page": "http://en.wikipedia.org/wiki/Yin_and_yang"
+          }
+        },
+        {
+          "body": "Koh",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Koh",
             "page": "Koh"
           }
         },
         {
           "body": "The Siege of the North, Part 2",
-          "key": "${link_3}",
+          "key": "${link_4}",
           "target": {
-            "href": "The_Siege_of_the_North%2c_Part_2",
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
             "page": "The_Siege_of_the_North%2c_Part_2"
           }
         },
         {
           "body": "Tui",
-          "key": "${link_4}",
+          "key": "${link_5}",
           "target": {
-            "href": "Tui",
+            "external": false,
+            "href": "/wiki/Tui",
             "page": "Tui"
           }
         },
         {
           "body": "La",
-          "key": "${link_5}",
+          "key": "${link_6}",
           "target": {
-            "href": "La",
+            "external": false,
+            "href": "/wiki/La",
             "page": "La"
           }
         }
       ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Ocean and Moon Spirits"
+      ],
       "text": "As with the animated series, the Ocean Spirit was incarnated in a form of a black koi fish, while the Moon Spirit in a form of a white koi fish. However, their genders, abilities, and names may have been switched in the film, as suggested when Zhao said to Iroh, \"They are called many names: Yin and Yang, Push and Pull ... may I introduce you to the mysterious Ocean and Moon Spirits\". This may be compared to what Koh said to Aang in the episode \"The Siege of the North, Part 2\": \"Tui and La, your Moon and Ocean, have always circled each other in an eternal dance. They balance each other: push and pull, life and death, good and evil, Yin and Yang.\""
     },
     {
-      "body": "Instead of using Written Chinese as done in the original animated series, the writing in the movie is a made-up language influenced by Chinese calligraphy, similar in concept to developing the Klingon language. This emphasized the story taking place in an Asian-inspired \"alternate world\", rather than an \"Asian world\". While the Klingon writing systems are similar to the Latin system (e.g., 26 characters with one-to-one grapheme-phoneme correspondence, reading left-to-right, etc., etc.), this alien writing system has similar traits to the Chinese writing system (e.g., thousands of character glyphs, each with its own sound and meaning but combined to mean something else, reading not necessarily left-to-right, etc., etc.) In some cases, the writing is translated as English subtitles. The grammar and vocabulary for this alien language is yet to be published.",
-      "links": [],
-      "text": "Instead of using Written Chinese as done in the original animated series, the writing in the movie is a made-up language influenced by Chinese calligraphy, similar in concept to developing the Klingon language. This emphasized the story taking place in an Asian-inspired \"alternate world\", rather than an \"Asian world\". While the Klingon writing systems are similar to the Latin system (e.g., 26 characters with one-to-one grapheme-phoneme correspondence, reading left-to-right, etc., etc.), this alien writing system has similar traits to the Chinese writing system (e.g., thousands of character glyphs, each with its own sound and meaning but combined to mean something else, reading not necessarily left-to-right, etc., etc.) In some cases, the writing is translated as English subtitles. The grammar and vocabulary for this alien language is yet to be published."
-    },
-    {
-      "body": "${link_0} put up the \"Avatar has Returned\" poster.",
+      "body": "This aligned the Spirits with the real world convention of Yin and Yang, with Ocean Spirit as black Yin for female and Moon Spirit as white Yang for male. When Iroh noticed that ${link_0} was anointed by the Moon Spirit, Yue said to Iroh \"He gave me life when I was a child.\" In contrast with the animated series, the Moon Spirit was female.",
       "links": [
         {
-          "body": "Katara",
+          "body": "Yue",
           "key": "${link_0}",
           "target": {
-            "href": "Film_Katara",
-            "page": "Film_Katara"
+            "external": false,
+            "href": "/wiki/Film_Yue",
+            "page": "Film_Yue"
           }
         }
       ],
-      "text": "Katara put up the \"Avatar has Returned\" poster."
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Ocean and Moon Spirits"
+      ],
+      "text": "This aligned the Spirits with the real world convention of Yin and Yang, with Ocean Spirit as black Yin for female and Moon Spirit as white Yang for male. When Iroh noticed that Yue was anointed by the Moon Spirit, Yue said to Iroh \"He gave me life when I was a child.\" In contrast with the animated series, the Moon Spirit was female."
+    },
+    {
+      "body": "Their abilities can be associated with real world physics: our Ocean \"push\" the water to the shore with its ${link_0}, while our Moon \"pull\" the water with its gravitational pull. Hence, the waterbenders may use the Moon to lift the water into large tentacles and suspend it in mid-air like in \"zero-gravity\" manner. The mechanics of the gigantic tidal wave may be explained with Aang using the Ocean to push a large body of water against the fort walls and the Moon to pull it high toward the sky.",
+      "links": [
+        {
+          "body": "wave power",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Wave_power",
+            "page": "http://en.wikipedia.org/wiki/Wave_power"
+          }
+        }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Ocean and Moon Spirits"
+      ],
+      "text": "Their abilities can be associated with real world physics: our Ocean \"push\" the water to the shore with its wave power, while our Moon \"pull\" the water with its gravitational pull. Hence, the waterbenders may use the Moon to lift the water into large tentacles and suspend it in mid-air like in \"zero-gravity\" manner. The mechanics of the gigantic tidal wave may be explained with Aang using the Ocean to push a large body of water against the fort walls and the Moon to pull it high toward the sky."
+    },
+    {
+      "body": "Ocean Spirit had also been named Push (\u63a8) and Moon Spirit also named Pull (\u62c9). They were not explicitly named in Chinese for the film, possibly to prevent confusion with Tui for Moon Spirit and La for Ocean Spirit in the animated series.",
+      "links": [],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Ocean and Moon Spirits"
+      ],
+      "text": "Ocean Spirit had also been named Push (\u63a8) and Moon Spirit also named Pull (\u62c9). They were not explicitly named in Chinese for the film, possibly to prevent confusion with Tui for Moon Spirit and La for Ocean Spirit in the animated series."
+    },
+    {
+      "body": "Instead of using ${link_0} as done in the original animated series, the writing in the movie is a made-up language influenced by Chinese calligraphy, similar in concept to developing the ${link_1}. This emphasized the story taking place in an Asian-inspired \"alternate world\", rather than an \"Asian world\". While the ${link_2} are similar to the Latin system (e.g., 26 characters with one-to-one grapheme-phoneme correspondence, reading left-to-right, etc., etc.), this alien writing system has similar traits to the Chinese writing system (e.g., thousands of character glyphs, each with its own sound and meaning but combined to mean something else, reading not necessarily left-to-right, etc., etc.) In some cases, the writing is translated as English subtitles. The grammar and vocabulary for this alien language is yet to be published.",
+      "links": [
+        {
+          "body": "Written Chinese",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Written_Chinese",
+            "page": "http://en.wikipedia.org/wiki/Written_Chinese"
+          }
+        },
+        {
+          "body": "Klingon language",
+          "key": "${link_1}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Klingon_language",
+            "page": "http://en.wikipedia.org/wiki/Klingon_language"
+          }
+        },
+        {
+          "body": "Klingon writing systems",
+          "key": "${link_2}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Klingon_writing_systems",
+            "page": "http://en.wikipedia.org/wiki/Klingon_writing_systems"
+          }
+        }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Chinese-influenced made-up language"
+      ],
+      "text": "Instead of using Written Chinese as done in the original animated series, the writing in the movie is a made-up language influenced by Chinese calligraphy, similar in concept to developing the Klingon language. This emphasized the story taking place in an Asian-inspired \"alternate world\", rather than an \"Asian world\". While the Klingon writing systems are similar to the Latin system (e.g., 26 characters with one-to-one grapheme-phoneme correspondence, reading left-to-right, etc., etc.), this alien writing system has similar traits to the Chinese writing system (e.g., thousands of character glyphs, each with its own sound and meaning but combined to mean something else, reading not necessarily left-to-right, etc., etc.) In some cases, the writing is translated as English subtitles. The grammar and vocabulary for this alien language is yet to be published."
     },
     {
       "body": "This made-up language is not well received by many fans of original series, preferring actual written Chinese instead. Professor ${link_0}, who helped with Chinese calligraphy in the original series, was also unhappy with the direction the producers have taken.",
@@ -557,12 +1135,55 @@
           "body": "Siu-Leung Lee",
           "key": "${link_0}",
           "target": {
-            "href": "Siu-Leung_Lee",
+            "external": false,
+            "href": "/wiki/Siu-Leung_Lee",
             "page": "Siu-Leung_Lee"
           }
         }
       ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Chinese-influenced made-up language"
+      ],
       "text": "This made-up language is not well received by many fans of original series, preferring actual written Chinese instead. Professor Siu-Leung Lee, who helped with Chinese calligraphy in the original series, was also unhappy with the direction the producers have taken."
+    },
+    {
+      "body": "${link_0}  \u8d99 for Chinese traditional, \u8d75 for Chinese simplified",
+      "links": [
+        {
+          "body": "\u2191",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/#cite_ref-6",
+            "page": ""
+          }
+        }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Notes"
+      ],
+      "text": "\u2191  \u8d99 for Chinese traditional, \u8d75 for Chinese simplified"
+    },
+    {
+      "body": "${link_0} \u8d99 is spelled \"Zhao\" for Hanyu Pinyin romanisation but \"Chao\" for Wade-Giles",
+      "links": [
+        {
+          "body": "\u2191",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/#cite_ref-7",
+            "page": ""
+          }
+        }
+      ],
+      "section": [
+        "Adaptation of Avatar: The Last Airbender",
+        "Notes"
+      ],
+      "text": "\u2191 \u8d99 is spelled \"Zhao\" for Hanyu Pinyin romanisation but \"Chao\" for Wade-Giles"
     }
   ],
   "source": {

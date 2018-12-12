@@ -3,7 +3,8 @@
     {
       "body": "Article standards",
       "target": {
-        "href": "Category_Article_standards",
+        "external": false,
+        "href": "/wiki/Category_Article_standards",
         "page": "Category_Article_standards"
       }
     }
@@ -11,31 +12,77 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "This category consists of articles nominated by Template:BCnominated to become ${link_0}. It is present of the use of the ${link_1}.",
+      "body": "This category consists of articles nominated by ${link_0} to become ${link_1}. It is present of the use of the ${link_2}.",
       "links": [
         {
-          "body": "B-class articles",
+          "body": "Template:BCnominated",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar_Wiki_B-class_articles",
+            "external": false,
+            "href": "/wiki/Template:BCnominated",
+            "page": "Template:BCnominated"
+          }
+        },
+        {
+          "body": "B-class articles",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_B-class_articles",
             "page": "Avatar_Wiki_B-class_articles"
           }
         },
         {
           "body": "Standards Council",
-          "key": "${link_1}",
+          "key": "${link_2}",
           "target": {
-            "href": "Avatar_Wiki_Standards_Council",
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_Standards_Council",
             "page": "Avatar_Wiki_Standards_Council"
           }
         }
       ],
+      "section": [
+        "Category:B-class candidates"
+      ],
       "text": "This category consists of articles nominated by Template:BCnominated to become B-class articles. It is present of the use of the Standards Council."
     },
     {
-      "body": "All items (1)",
-      "links": [],
-      "text": "All items (1)"
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Tea",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Tea",
+            "page": "Tea"
+          }
+        }
+      ],
+      "section": [
+        "Category:B-class candidates"
+      ],
+      "text": "Tea"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Tea",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Tea",
+            "page": "Tea"
+          }
+        }
+      ],
+      "section": [
+        "Category:B-class candidates",
+        "T"
+      ],
+      "text": "Tea"
     }
   ],
   "source": {

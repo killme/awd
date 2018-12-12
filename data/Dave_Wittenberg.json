@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Lupin the 3rd (1977)",
+          "body": "${link_0} (1977)",
           "extra": "(1977)",
           "extra_text": "(1977)",
-          "links": [],
+          "links": [
+            {
+              "body": "Lupin the 3rd",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0159192",
+                "page": "http://www.imdb.com/find?q=tt0159192"
+              }
+            }
+          ],
           "text": "Lupin the 3rd (1977)",
-          "value": "Lupin the 3rd",
+          "value": "${link_0}",
           "value_text": "Lupin the 3rd"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1043186",
+                "page": "http://www.imdb.com/find?q=nm1043186"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Dave_Wittenberg",
+                "page": "http://en.wikipedia.org/wiki/Dave_Wittenberg"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.davewittenberg.com/",
+                "page": "http://www.davewittenberg.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -100,13 +143,403 @@
   ],
   "paragraphs": [
     {
+      "body": "114. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Fortuneteller",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Fortuneteller",
+            "page": "The_Fortuneteller"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "114. \"The Fortuneteller\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Blood+",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0482855",
+            "page": "http://www.imdb.com/find?q=tt0482855"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Blood+"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312109",
+            "page": "http://www.imdb.com/find?q=tt0312109"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "I Didn't Know I Was Pregnant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1239443",
+            "page": "http://www.imdb.com/find?q=tt1239443"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "I Didn't Know I Was Pregnant"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mystery ER",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0772560",
+            "page": "http://www.imdb.com/find?q=tt0772560"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mystery ER"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Naruto",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0409591",
+            "page": "http://www.imdb.com/find?q=tt0409591"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Naruto"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Spaceballs: The Animated Series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0870980",
+            "page": "http://www.imdb.com/find?q=tt0870980"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Spaceballs: The Animated Series"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Biohazard: Degeneration",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1174954",
+            "page": "http://www.imdb.com/find?q=tt1174954"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Biohazard: Degeneration (2008)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Dragon Hunters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0944834",
+            "page": "http://www.imdb.com/find?q=tt0944834"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dragon Hunters (2008)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Final Fantasy VII: Advent Children",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0385700",
+            "page": "http://www.imdb.com/find?q=tt0385700"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Final Fantasy VII: Advent Children (2005)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Gekij\u00f4-ban Naruto: Daikatsugeki! Yukihime ninp\u00f4ch\u00f4 dattebayo!!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0476680",
+            "page": "http://www.imdb.com/find?q=tt0476680"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Gekij\u00f4-ban Naruto: Daikatsugeki! Yukihime ninp\u00f4ch\u00f4 dattebayo!! (2004)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Alive",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0331834",
+            "page": "http://www.imdb.com/find?q=tt0331834"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Alive (2002)"
+    },
+    {
+      "body": "${link_0} (1991)",
+      "links": [
+        {
+          "body": "Mobile Suit Gundam F91",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0159568",
+            "page": "http://www.imdb.com/find?q=tt0159568"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mobile Suit Gundam F91 (1991)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Disgaea 2: Cursed Memories",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1071784",
+            "page": "http://www.imdb.com/find?q=tt1071784"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Disgaea 2: Cursed Memories (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Makai Kingdom: Chronicles of the Sacred Tome",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0488026",
+            "page": "http://www.imdb.com/find?q=tt0488026"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Makai Kingdom: Chronicles of the Sacred Tome (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Night at the Museum: Battle of the Smithsonian",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1425242",
+            "page": "http://www.imdb.com/find?q=tt1425242"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Night at the Museum: Battle of the Smithsonian (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Supreme Commander",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0489287",
+            "page": "http://www.imdb.com/find?q=tt0489287"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Supreme Commander (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Titan Quest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837135",
+            "page": "http://www.imdb.com/find?q=tt0837135"
+          }
+        }
+      ],
+      "section": [
+        "Dave Wittenberg",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Titan Quest (video game)"
+    },
+    {
       "body": "Wittenberg was primarily raised in Boston.",
       "links": [],
+      "section": [
+        "Dave Wittenberg",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Wittenberg was primarily raised in Boston."
     },
     {
       "body": "A prolific actor with more than one hundred titles to his credit, Wittenberg is also a writer whose work includes episodes of the Digimon television series. He also narrates documentaries and specials for the Travel Channel and the Food Network.",
       "links": [],
+      "section": [
+        "Dave Wittenberg",
+        "Biographical information",
+        "Career"
+      ],
       "text": "A prolific actor with more than one hundred titles to his credit, Wittenberg is also a writer whose work includes episodes of the Digimon television series. He also narrates documentaries and specials for the Travel Channel and the Food Network."
     }
   ],

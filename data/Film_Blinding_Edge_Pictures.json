@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Companies",
       "target": {
-        "href": "Category_Companies",
+        "external": false,
+        "href": "/wiki/Category_Companies",
         "page": "Category_Companies"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -25,18 +28,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "This is Blinding Edge Pictures' logo.",
-      "links": [],
-      "text": "This is Blinding Edge Pictures' logo."
-    },
-    {
       "body": "Blinding Edge Pictures is a film production company owned by ${link_0}. The company is based in Berwyn, Pennsylvania, on the Main Line. It has produced The Happening, Lady in the Water, The Village, Signs, Unbreakable, and ${link_1}.",
       "links": [
         {
           "body": "M. Night Shyamalan",
           "key": "${link_0}",
           "target": {
-            "href": "Film_M",
+            "external": false,
+            "href": "/wiki/Film_M",
             "page": "Film_M"
           }
         },
@@ -44,12 +43,54 @@
           "body": "The Last Airbender",
           "key": "${link_1}",
           "target": {
-            "href": "Film_The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender",
             "page": "Film_The_Last_Airbender"
           }
         }
       ],
+      "section": [
+        "Blinding Edge Pictures"
+      ],
       "text": "Blinding Edge Pictures is a film production company owned by M. Night Shyamalan. The company is based in Berwyn, Pennsylvania, on the Main Line. It has produced The Happening, Lady in the Water, The Village, Signs, Unbreakable, and The Last Airbender."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Kennedy/Marshall Company",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_The_Kennedy/Marshall_Company",
+            "page": "Film_The_Kennedy/Marshall_Company"
+          }
+        }
+      ],
+      "section": [
+        "Blinding Edge Pictures",
+        "See also"
+      ],
+      "text": "The Kennedy/Marshall Company"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wikipedia article",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Blinding_Edge_Pictures",
+            "page": "http://en.wikipedia.org/wiki/Blinding_Edge_Pictures"
+          }
+        }
+      ],
+      "section": [
+        "Blinding Edge Pictures",
+        "External link"
+      ],
+      "text": "Wikipedia article"
     }
   ],
   "source": {

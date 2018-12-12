@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Scooby-Doo and Scrappy-Doo (1979)",
+          "body": "${link_0} (1979)",
           "extra": "(1979)",
           "extra_text": "(1979)",
-          "links": [],
+          "links": [
+            {
+              "body": "Scooby-Doo and Scrappy-Doo",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0083475",
+                "page": "http://www.imdb.com/find?q=tt0083475"
+              }
+            }
+          ],
           "text": "Scooby-Doo and Scrappy-Doo (1979)",
-          "value": "Scooby-Doo and Scrappy-Doo",
+          "value": "${link_0}",
           "value_text": "Scooby-Doo and Scrappy-Doo"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0289710",
+                "page": "http://www.imdb.com/find?q=nm0289710"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Pat_Fraley",
+                "page": "http://en.wikipedia.org/wiki/Pat_Fraley"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.patfraley.com/",
+                "page": "http://www.patfraley.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/patrick.h.fraley",
+                "page": "https://www.facebook.com/patrick.h.fraley"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -109,19 +162,903 @@
   ],
   "paragraphs": [
     {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "The Legend of Korra credits",
+        "Gombo"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Alvin & the Chipmunks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0084972",
+            "page": "http://www.imdb.com/find?q=tt0084972"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Alvin & the Chipmunks"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman: The Animated Series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103359",
+            "page": "http://www.imdb.com/find?q=tt0103359"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Animated Series"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "BraveStarr",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0127471",
+            "page": "http://www.imdb.com/find?q=tt0127471"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "BraveStarr"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Darkwing Duck",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101076",
+            "page": "http://www.imdb.com/find?q=tt0101076"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Darkwing Duck"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "G.I. Joe",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086719",
+            "page": "http://www.imdb.com/find?q=tt0086719"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "G.I. Joe"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Goof Troop",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103428",
+            "page": "http://www.imdb.com/find?q=tt0103428"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Goof Troop"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Men in Black: The Series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0127385",
+            "page": "http://www.imdb.com/find?q=tt0127385"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Men in Black: The Series"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "New Kids on the Block",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0124956",
+            "page": "http://www.imdb.com/find?q=tt0124956"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "New Kids on the Block"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Pound Puppies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090503",
+            "page": "http://www.imdb.com/find?q=tt0090503"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Pound Puppies"
+    },
+    {
+      "body": "${link_0} (TV short)",
+      "links": [
+        {
+          "body": "Pryde of the X-Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098137",
+            "page": "http://www.imdb.com/find?q=tt0098137"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Pryde of the X-Men (TV short)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Rockin' with Judy Jetson",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0191405",
+            "page": "http://www.imdb.com/find?q=tt0191405"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Rockin' with Judy Jetson (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Scooby-Doo Goes Hollywood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0191423",
+            "page": "http://www.imdb.com/find?q=tt0191423"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Scooby-Doo Goes Hollywood (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "TaleSpin",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098924",
+            "page": "http://www.imdb.com/find?q=tt0098924"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "TaleSpin"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Teenage Mutant Ninja Turtles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0131613",
+            "page": "http://www.imdb.com/find?q=tt0131613"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Incredible Hulk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0083430",
+            "page": "http://www.imdb.com/find?q=tt0083430"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Incredible Hulk"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Littles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0320055",
+            "page": "http://www.imdb.com/find?q=tt0320055"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Littles"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Superhero Squad Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1388589",
+            "page": "http://www.imdb.com/find?q=tt1388589"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Superhero Squad Show"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "W.I.T.C.H.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0383718",
+            "page": "http://www.imdb.com/find?q=tt0383718"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "W.I.T.C.H."
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Tangled",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398286",
+            "page": "http://www.imdb.com/find?q=tt0398286"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tangled (2010)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "I Am Legend",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0480249",
+            "page": "http://www.imdb.com/find?q=tt0480249"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I Am Legend (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Ant Bully",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0429589",
+            "page": "http://www.imdb.com/find?q=tt0429589"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Ant Bully (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Chicken Little",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0371606",
+            "page": "http://www.imdb.com/find?q=tt0371606"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Chicken Little (2005)"
+    },
+    {
+      "body": "${link_0} (2003; video)",
+      "links": [
+        {
+          "body": "Charlotte's Web 2: Wilbur's Great Adventure",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0355315",
+            "page": "http://www.imdb.com/find?q=tt0355315"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Charlotte's Web 2: Wilbur's Great Adventure (2003; video)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Elysium",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356577",
+            "page": "http://www.imdb.com/find?q=tt0356577"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Elysium (2003)"
+    },
+    {
+      "body": "${link_0} (2002; short)",
+      "links": [
+        {
+          "body": "Hairy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1784460",
+            "page": "http://www.imdb.com/find?q=tt1784460"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hairy (2002; short)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "The High Crusade",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110024",
+            "page": "http://www.imdb.com/find?q=tt0110024"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The High Crusade (1994)"
+    },
+    {
+      "body": "${link_0} (1990; video)",
+      "links": [
+        {
+          "body": "Shadow Strikers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1910616",
+            "page": "http://www.imdb.com/find?q=tt1910616"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Shadow Strikers (1990; video)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "The Adventures of the American Rabbit",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0166948",
+            "page": "http://www.imdb.com/find?q=tt0166948"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Adventures of the American Rabbit (1986)"
+    },
+    {
+      "body": "${link_0} (1986; video)",
+      "links": [
+        {
+          "body": "Rainbow Brite: San Diego Zoo Adventure",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0266879",
+            "page": "http://www.imdb.com/find?q=tt0266879"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rainbow Brite: San Diego Zoo Adventure (1986; video)"
+    },
+    {
+      "body": "${link_0} (1985; video)",
+      "links": [
+        {
+          "body": "Bigfoot and the Muscle Machines",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0375603",
+            "page": "http://www.imdb.com/find?q=tt0375603"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bigfoot and the Muscle Machines (1985; video)"
+    },
+    {
+      "body": "${link_0} (1985; video)",
+      "links": [
+        {
+          "body": "Robotix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0122232",
+            "page": "http://www.imdb.com/find?q=tt0122232"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Robotix (1985; video)"
+    },
+    {
+      "body": "${link_0} (1985)",
+      "links": [
+        {
+          "body": "Here Comes the Littles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0089272",
+            "page": "http://www.imdb.com/find?q=tt0089272"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Here Comes the Littles (1985)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "102 Dalmatians: Puppies to the Rescue",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0272423",
+            "page": "http://www.imdb.com/find?q=tt0272423"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "102 Dalmatians: Puppies to the Rescue (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Carmen Sandiego's QuickThink Challenge",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0861764",
+            "page": "http://www.imdb.com/find?q=tt0861764"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Carmen Sandiego's QuickThink Challenge (video game)"
+    },
+    {
+      "body": "${link_0} (video game; English version)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game; English version)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Gothic 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0891492",
+            "page": "http://www.imdb.com/find?q=tt0891492"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Gothic 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Herc's Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0456973",
+            "page": "http://www.imdb.com/find?q=tt0456973"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Herc's Adventures (video game)"
+    },
+    {
+      "body": "${link_0} (ADR loop group)",
+      "links": [
+        {
+          "body": "The Lego Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1490017",
+            "page": "http://www.imdb.com/find?q=tt1490017"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Lego Movie (ADR loop group)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Knights of the Old Republic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356070",
+            "page": "http://www.imdb.com/find?q=tt0356070"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Knights of the Old Republic (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Terminator 3: Rise of the Machines",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364056",
+            "page": "http://www.imdb.com/find?q=tt0364056"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Terminator 3: Rise of the Machines (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Haunted Mansion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0399128",
+            "page": "http://www.imdb.com/find?q=tt0399128"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Haunted Mansion (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Toy Story Racer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0284572",
+            "page": "http://www.imdb.com/find?q=tt0284572"
+          }
+        }
+      ],
+      "section": [
+        "Pat Fraley",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Toy Story Racer (video game)"
+    },
+    {
       "body": "Fraley grew up in the Mormon faith but became a born again Christian later in life. He is married and has four sons. He lives in Hollywood, California, and is good friends with fellow actors Edward Asner and Brad Garrett. He holds an MFA degree in acting from Cornell University.",
       "links": [],
+      "section": [
+        "Pat Fraley",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Fraley grew up in the Mormon faith but became a born again Christian later in life. He is married and has four sons. He lives in Hollywood, California, and is good friends with fellow actors Edward Asner and Brad Garrett. He holds an MFA degree in acting from Cornell University."
     },
     {
       "body": "Fraley began working as a voice coach in 1974 and teaches across North America. His first role as voice actor himself was in 1979, in Hanna-Barbera's Scooby-Doo Goes Hollywood, where he supplied additional voices. He also substituted for Tim Allen in the early years as the voice of Buzz Lightyear in various video and computer games, merchandise, attractions, and the Disney On Ice Disneyland Adventure.",
       "links": [],
+      "section": [
+        "Pat Fraley",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Fraley began working as a voice coach in 1974 and teaches across North America. His first role as voice actor himself was in 1979, in Hanna-Barbera's Scooby-Doo Goes Hollywood, where he supplied additional voices. He also substituted for Tim Allen in the early years as the voice of Buzz Lightyear in various video and computer games, merchandise, attractions, and the Disney On Ice Disneyland Adventure."
     },
     {
       "body": "He has provided roles in Toy Story 2, Monsters, Inc., Chicken Little, Tangled, and Happy Feet Two, and performed ADR work for films such as The Muppets and Lincoln.",
       "links": [],
+      "section": [
+        "Pat Fraley",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He has provided roles in Toy Story 2, Monsters, Inc., Chicken Little, Tangled, and Happy Feet Two, and performed ADR work for films such as The Muppets and Lincoln."
+    },
+    {
+      "body": "1988: Won an Annie Award for Teenage Mutant Ninja Turtles (Voice Acting in a Television Production)",
+      "links": [],
+      "section": [
+        "Pat Fraley",
+        "Awards"
+      ],
+      "text": "1988: Won an Annie Award for Teenage Mutant Ninja Turtles (Voice Acting in a Television Production)"
     }
   ],
   "source": {

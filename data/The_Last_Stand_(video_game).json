@@ -3,35 +3,40 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Legend of Korra",
       "target": {
-        "href": "Category_Legend_of_Korra",
+        "external": false,
+        "href": "/wiki/Category_Legend_of_Korra",
         "page": "Category_Legend_of_Korra"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Video games",
       "target": {
-        "href": "Category_Video_games",
+        "external": false,
+        "href": "/wiki/Category_Video_games",
         "page": "Category_Video_games"
       }
     },
     {
       "body": "Online games",
       "target": {
-        "href": "Category_Online_games",
+        "external": false,
+        "href": "/wiki/Category_Online_games",
         "page": "Category_Online_games"
       }
     }
@@ -49,7 +54,8 @@
               "body": "Nickelodeon",
               "key": "${link_0}",
               "target": {
-                "href": "Nickelodeon",
+                "external": false,
+                "href": "/wiki/Nickelodeon",
                 "page": "Nickelodeon"
               }
             }
@@ -107,6 +113,9 @@
     {
       "body": "The Last Stand is an interactive online game hosted on Nick.com.",
       "links": [],
+      "section": [
+        "The Last Stand"
+      ],
       "text": "The Last Stand is an interactive online game hosted on Nick.com."
     },
     {
@@ -116,7 +125,8 @@
           "body": "Korra",
           "key": "${link_0}",
           "target": {
-            "href": "Korra",
+            "external": false,
+            "href": "/wiki/Korra",
             "page": "Korra"
           }
         },
@@ -124,7 +134,8 @@
           "body": "Amon",
           "key": "${link_1}",
           "target": {
-            "href": "Amon",
+            "external": false,
+            "href": "/wiki/Amon",
             "page": "Amon"
           }
         },
@@ -132,7 +143,8 @@
           "body": "Republic City",
           "key": "${link_2}",
           "target": {
-            "href": "Republic_City",
+            "external": false,
+            "href": "/wiki/Republic_City",
             "page": "Republic_City"
           }
         },
@@ -140,42 +152,80 @@
           "body": "Equalists",
           "key": "${link_3}",
           "target": {
-            "href": "Equalists",
+            "external": false,
+            "href": "/wiki/Equalists",
             "page": "Equalists"
           }
         }
       ],
+      "section": [
+        "The Last Stand",
+        "Objective"
+      ],
       "text": "Korra must chase a fast-footed Amon through Republic City in order to defeat him in this final face-off of the battle against the Equalists."
     },
     {
-      "body": "${link_0} tries to hit ${link_1} with a ${link_2} blast.",
-      "links": [
-        {
-          "body": "Korra",
-          "key": "${link_0}",
-          "target": {
-            "href": "Korra",
-            "page": "Korra"
-          }
-        },
-        {
-          "body": "Amon",
-          "key": "${link_1}",
-          "target": {
-            "href": "Amon",
-            "page": "Amon"
-          }
-        },
-        {
-          "body": "firebending",
-          "key": "${link_2}",
-          "target": {
-            "href": "Firebending",
-            "page": "Firebending"
-          }
-        }
+      "body": "Up arrow key \u2013 Jump",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Controls"
       ],
-      "text": "Korra tries to hit Amon with a firebending blast."
+      "text": "Up arrow key \u2013 Jump"
+    },
+    {
+      "body": "Down arrow key \u2013 Slide under Equalists",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Controls"
+      ],
+      "text": "Down arrow key \u2013 Slide under Equalists"
+    },
+    {
+      "body": "Left arrow key \u2013 Move leftward",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Controls"
+      ],
+      "text": "Left arrow key \u2013 Move leftward"
+    },
+    {
+      "body": "Right arrow key \u2013 Move rightward",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Controls"
+      ],
+      "text": "Right arrow key \u2013 Move rightward"
+    },
+    {
+      "body": "Space-bar\n Bend (while chasing Amon through the city)\n Slide under Equalists (while inside a facility)",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Controls"
+      ],
+      "text": "Space-bar\n Bend (while chasing Amon through the city)\n Slide under Equalists (while inside a facility)"
+    },
+    {
+      "body": "Bend (while chasing Amon through the city)",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Controls"
+      ],
+      "text": "Bend (while chasing Amon through the city)"
+    },
+    {
+      "body": "Slide under Equalists (while inside a facility)",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Controls"
+      ],
+      "text": "Slide under Equalists (while inside a facility)"
     },
     {
       "body": "Playing as Korra, the player must chase Amon and attack him with bending blasts. When Korra enacts a barrage of bending moves against Amon, an Equalist will swoop down several seconds after and throw ${link_0}, stopping Korra momentarily and allowing Amon to continue his escape.",
@@ -184,10 +234,16 @@
           "body": "smoke grenades",
           "key": "${link_0}",
           "target": {
-            "href": "Smoke_grenade",
+            "external": false,
+            "href": "/wiki/Smoke_grenade",
             "page": "Smoke_grenade"
           }
         }
+      ],
+      "section": [
+        "The Last Stand",
+        "Controls",
+        "Instructions"
       ],
       "text": "Playing as Korra, the player must chase Amon and attack him with bending blasts. When Korra enacts a barrage of bending moves against Amon, an Equalist will swoop down several seconds after and throw smoke grenades, stopping Korra momentarily and allowing Amon to continue his escape."
     },
@@ -198,10 +254,16 @@
           "body": "Equalist airship",
           "key": "${link_0}",
           "target": {
-            "href": "Equalist_airship",
+            "external": false,
+            "href": "/wiki/Equalist_airship",
             "page": "Equalist_airship"
           }
         }
+      ],
+      "section": [
+        "The Last Stand",
+        "Controls",
+        "Instructions"
       ],
       "text": "Each time Korra's attacks make contact with Amon, his health depletes. When Amon's health has been entirely depleted, he has lost. However, if Korra falls too far behind him, a message will notify the player that \"Amon is escaping!\" A few seconds later, if Korra has not advanced far enough to shorten the distance between her and her enemy, Amon will escape on an Equalist airship."
     },
@@ -212,7 +274,8 @@
           "body": "chi blockers",
           "key": "${link_0}",
           "target": {
-            "href": "Chi_blocking",
+            "external": false,
+            "href": "/wiki/Chi_blocking",
             "page": "Chi_blocking"
           }
         },
@@ -220,65 +283,136 @@
           "body": "electrified gloves",
           "key": "${link_1}",
           "target": {
-            "href": "Electrified_glove",
+            "external": false,
+            "href": "/wiki/Electrified_glove",
             "page": "Electrified_glove"
           }
         }
+      ],
+      "section": [
+        "The Last Stand",
+        "Controls",
+        "Instructions"
       ],
       "text": "After certain segments, the pursuit will switch to an Equalist stronghold where Korra must dodge chi blockers who possess electrified gloves. Depending on the chi blockers' positions, Korra must jump over or duck under the Equalists, lest she run into them and be hit by their weapons. The way of losing in one of these sequences is different from before; since Amon is always visible at the right side of the screen, he never achieves escape unless Korra is shocked three times. Korra, having three lives, will stop running after Amon upon being hit the previously mentioned number of times, thus inciting the end of the game. However, if Korra dodges enough of their attacks throughout the run through the stronghold and makes it to the end of the building, she will once again chase Amon through the outer city and attack him with her bending instead."
     },
     {
       "body": "This process of running through the city to find an Equalist facility repeats twice before the third segment, which features Amon reaching the airship, at which time Korra must defeat the Equalist leader.",
       "links": [],
+      "section": [
+        "The Last Stand",
+        "Controls",
+        "Instructions"
+      ],
       "text": "This process of running through the city to find an Equalist facility repeats twice before the third segment, which features Amon reaching the airship, at which time Korra must defeat the Equalist leader."
+    },
+    {
+      "body": "Coins: 150 points",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Scoring"
+      ],
+      "text": "Coins: 150 points"
+    },
+    {
+      "body": "Successful attack on Amon: 150 points",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Scoring"
+      ],
+      "text": "Successful attack on Amon: 150 points"
+    },
+    {
+      "body": "Chasing Amon through a facility: continuous one-point increase",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Scoring"
+      ],
+      "text": "Chasing Amon through a facility: continuous one-point increase"
+    },
+    {
+      "body": "Dodge chi blocker: 75 points",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Scoring"
+      ],
+      "text": "Dodge chi blocker: 75 points"
     },
     {
       "body": "Before badges were removed from games in 2013, users were able to collect the following:",
       "links": [],
+      "section": [
+        "The Last Stand",
+        "Badges"
+      ],
       "text": "Before badges were removed from games in 2013, users were able to collect the following:"
     },
     {
       "body": "",
       "links": [],
+      "section": [
+        "The Last Stand",
+        "Badges"
+      ],
       "text": ""
     },
     {
-      "body": "By entering the code \"Noatak\", ${link_0} can use ${link_1} and ${link_2} can use ${link_3}.",
-      "links": [
-        {
-          "body": "Amon",
-          "key": "${link_0}",
-          "target": {
-            "href": "Amon",
-            "page": "Amon"
-          }
-        },
-        {
-          "body": "bloodbending",
-          "key": "${link_1}",
-          "target": {
-            "href": "Bloodbending",
-            "page": "Bloodbending"
-          }
-        },
-        {
-          "body": "Korra",
-          "key": "${link_2}",
-          "target": {
-            "href": "Korra",
-            "page": "Korra"
-          }
-        },
-        {
-          "body": "airbending",
-          "key": "${link_3}",
-          "target": {
-            "href": "Airbending",
-            "page": "Airbending"
-          }
-        }
+      "body": "Bending Battle: Hit Amon two times with your bending abilities",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Badges"
       ],
-      "text": "By entering the code \"Noatak\", Amon can use bloodbending and Korra can use airbending."
+      "text": "Bending Battle: Hit Amon two times with your bending abilities"
+    },
+    {
+      "body": "The Collector: Collect ten tokens",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Badges"
+      ],
+      "text": "The Collector: Collect ten tokens"
+    },
+    {
+      "body": "Get Bent: Complete the chi blocker sequence",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Badges"
+      ],
+      "text": "Get Bent: Complete the chi blocker sequence"
+    },
+    {
+      "body": "Halfway There: Get Amon's health down to fifty percent",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Badges"
+      ],
+      "text": "Halfway There: Get Amon's health down to fifty percent"
+    },
+    {
+      "body": "Final Faceoff: Defeat Amon",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Badges"
+      ],
+      "text": "Final Faceoff: Defeat Amon"
+    },
+    {
+      "body": "The Last Stand: Defeat Amon with all three lives",
+      "links": [],
+      "section": [
+        "The Last Stand",
+        "Badges"
+      ],
+      "text": "The Last Stand: Defeat Amon with all three lives"
     },
     {
       "body": "The game's title screen features an option that allows the player to enter a code that unlocks a special feature in-game. This code is \"Noatak\", alluding to Amon's real name. With the code entered, Amon now ${link_0} Korra to stop her momentarily instead of having an Equalist swoop down and throw a smoke grenade. Also, Korra's bending moves now have a larger range. More notably, she is able to ${link_1} with the code entered, which lets her do a \"double jump\".",
@@ -287,7 +421,8 @@
           "body": "bloodbends",
           "key": "${link_0}",
           "target": {
-            "href": "Bloodbending",
+            "external": false,
+            "href": "/wiki/Bloodbending",
             "page": "Bloodbending"
           }
         },
@@ -295,12 +430,55 @@
           "body": "airbend",
           "key": "${link_1}",
           "target": {
-            "href": "Airbending",
+            "external": false,
+            "href": "/wiki/Airbending",
             "page": "Airbending"
           }
         }
       ],
+      "section": [
+        "The Last Stand",
+        "\"Noatak\""
+      ],
       "text": "The game's title screen features an option that allows the player to enter a code that unlocks a special feature in-game. This code is \"Noatak\", alluding to Amon's real name. With the code entered, Amon now bloodbends Korra to stop her momentarily instead of having an Equalist swoop down and throw a smoke grenade. Also, Korra's bending moves now have a larger range. More notably, she is able to airbend with the code entered, which lets her do a \"double jump\"."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "List of Avatar games",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar_games",
+            "page": "List_of_Avatar_games"
+          }
+        }
+      ],
+      "section": [
+        "The Last Stand",
+        "See also"
+      ],
+      "text": "List of Avatar games"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Play The Last Stand",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.nick.com/legend-of-korra/games/legend-of-korra-the-last-stand/",
+            "page": "http://www.nick.com/legend-of-korra/games/legend-of-korra-the-last-stand/"
+          }
+        }
+      ],
+      "section": [
+        "The Last Stand",
+        "External links"
+      ],
+      "text": "Play The Last Stand"
     }
   ],
   "source": {

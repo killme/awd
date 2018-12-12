@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -34,12 +38,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Avatar: The Last Airbender (2005)",
+          "body": "${link_0} (2005)",
           "extra": "(2005)",
           "extra_text": "(2005)",
-          "links": [],
+          "links": [
+            {
+              "body": "Avatar: The Last Airbender",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0417299",
+                "page": "http://www.imdb.com/find?q=tt0417299"
+              }
+            }
+          ],
           "text": "Avatar: The Last Airbender (2005)",
-          "value": "Avatar: The Last Airbender",
+          "value": "${link_0}",
           "value_text": "Avatar: The Last Airbender"
         }
       ]
@@ -48,18 +62,529 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2624720",
+                "page": "http://www.imdb.com/find?q=nm2624720"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Cave of Two Lovers",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Cave_of_Two_Lovers",
+            "page": "The_Cave_of_Two_Lovers"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "202. \"The Cave of Two Lovers\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Chase",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Chase",
+            "page": "The_Chase"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "208. \"The Chase\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Serpent's Pass",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Serpent%27s_Pass",
+            "page": "The_Serpent%27s_Pass"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "212. \"The Serpent's Pass\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Painted Lady",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Painted_Lady",
+            "page": "The_Painted_Lady"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "303. \"The Painted Lady\""
+    },
+    {
+      "body": "307. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Runaway",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Runaway",
+            "page": "The_Runaway"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "307. \"The Runaway\""
+    },
+    {
+      "body": "315. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "315. \"The Boiling Rock, Part 2\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "Iss. #1. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bee Calm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bee_Calm",
+            "page": "Bee_Calm"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #1. \"Bee Calm\""
+    },
+    {
+      "body": "Iss. #4. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Relics",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Relics",
+            "page": "Relics"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #4. \"Relics\""
+    },
+    {
+      "body": "Iss. #6. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sleepbending",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sleepbending",
+            "page": "Sleepbending"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #6. \"Sleepbending\""
+    },
+    {
+      "body": "Iss. #8. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sokka the Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sokka_the_Avatar",
+            "page": "Sokka_the_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #8. \"Sokka the Avatar\""
+    },
+    {
+      "body": "Iss. #12. \"${link_0}\"",
+      "links": [
+        {
+          "body": "It's Only Natural",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/It%27s_Only_Natural",
+            "page": "It%27s_Only_Natural"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #12. \"It's Only Natural\""
+    },
+    {
+      "body": "Iss. #14. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Bridge",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Bridge",
+            "page": "The_Bridge"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #14. \"The Bridge\""
+    },
+    {
+      "body": "Iss. #15. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Private Fire",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Private_Fire",
+            "page": "Private_Fire"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #15. \"Private Fire\""
+    },
+    {
+      "body": "Iss. #26. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bumi vs. Toph, Round One",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bumi_vs",
+            "page": "Bumi_vs"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #26. \"Bumi vs. Toph, Round One\""
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Voltron: Legendary Defender",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt5580664",
+            "page": "http://www.imdb.com/find?q=tt5580664"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Voltron: Legendary Defender (writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Green Lantern: The Animated Series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1724587",
+            "page": "http://www.imdb.com/find?q=tt1724587"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Green Lantern: The Animated Series (writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Johnny Test",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0454349",
+            "page": "http://www.imdb.com/find?q=tt0454349"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Johnny Test (writer)"
+    },
+    {
+      "body": "${link_0} (director and writer)",
+      "links": [
+        {
+          "body": "Kung Fu Panda: Legends of Awesomeness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545214",
+            "page": "http://www.imdb.com/find?q=tt1545214"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kung Fu Panda: Legends of Awesomeness (director and writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Most Shocking",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0944181",
+            "page": "http://www.imdb.com/find?q=tt0944181"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Most Shocking (writer)"
+    },
+    {
+      "body": "${link_0} (TV movie - writer)",
+      "links": [
+        {
+          "body": "Roflsaurus",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2705048",
+            "page": "http://www.imdb.com/find?q=tt2705048"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Roflsaurus (TV movie - writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "SheZow",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2070443",
+            "page": "http://www.imdb.com/find?q=tt2070443"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "SheZow (writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Teenage Mutant Ninja Turtles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1877889",
+            "page": "http://www.imdb.com/find?q=tt1877889"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teenage Mutant Ninja Turtles (writer)"
+    },
+    {
+      "body": "${link_0} (production assistant)",
+      "links": [
+        {
+          "body": "The Tony Rock Project",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1240537",
+            "page": "http://www.imdb.com/find?q=tt1240537"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Tony Rock Project (production assistant)"
+    },
+    {
+      "body": "${link_0} (video - writer)",
+      "links": [
+        {
+          "body": "The Jumpitz Celebrate Animals!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1335997",
+            "page": "http://www.imdb.com/find?q=tt1335997"
+          }
+        }
+      ],
+      "section": [
+        "Joshua Hamilton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Jumpitz Celebrate Animals! (video - writer)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Joshua_Hamilton",
     "file": "avatar.wikia.com/wiki/Joshua_Hamilton.html",

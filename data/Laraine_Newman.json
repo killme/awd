@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Lily Tomlin Special (1975; TV movie)",
+          "body": "${link_0} (1975; TV movie)",
           "extra": "(1975; TV movie)",
           "extra_text": "(1975; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Lily Tomlin Special",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0364479",
+                "page": "http://www.imdb.com/find?q=tt0364479"
+              }
+            }
+          ],
           "text": "The Lily Tomlin Special (1975; TV movie)",
-          "value": "The Lily Tomlin Special",
+          "value": "${link_0}",
           "value_text": "The Lily Tomlin Special"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0628170",
+                "page": "http://www.imdb.com/find?q=nm0628170"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Laraine_Newman",
+                "page": "http://en.wikipedia.org/wiki/Laraine_Newman"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Laraine-Newman/104110039626297",
+                "page": "https://www.facebook.com/pages/Laraine-Newman/104110039626297"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.larainenewman.com/Laraine_Newman/Hey",
+                "page": "http://www.larainenewman.com/Laraine_Newman/Hey"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -95,18 +148,433 @@
   ],
   "paragraphs": [
     {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Cave of Two Lovers",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Cave_of_Two_Lovers",
+            "page": "The_Cave_of_Two_Lovers"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Avatar: The Last Airbender credits",
+        "Lily"
+      ],
+      "text": "202. \"The Cave of Two Lovers\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "As Told by Ginger",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235911",
+            "page": "http://www.imdb.com/find?q=tt0235911"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "As Told by Ginger"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jungle Junction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1443631",
+            "page": "http://www.imdb.com/find?q=tt1443631"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jungle Junction"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Metalocalypse",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0839188",
+            "page": "http://www.imdb.com/find?q=tt0839188"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Metalocalypse"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Saturday Night Live",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0072562",
+            "page": "http://www.imdb.com/find?q=tt0072562"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Saturday Night Live"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Canned Film Festival",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0302080",
+            "page": "http://www.imdb.com/find?q=tt0302080"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Canned Film Festival"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Oblongs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0219446",
+            "page": "http://www.imdb.com/find?q=tt0219446"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Oblongs"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Girls Season 38",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3121836",
+            "page": "http://www.imdb.com/find?q=tt3121836"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Girls Season 38 (2013)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Tangled",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398286",
+            "page": "http://www.imdb.com/find?q=tt0398286"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tangled (2010)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Toy Story 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0435761",
+            "page": "http://www.imdb.com/find?q=tt0435761"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Toy Story 3 (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Cloudy with a Chance of Meatballs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0844471",
+            "page": "http://www.imdb.com/find?q=tt0844471"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cloudy with a Chance of Meatballs (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Haunted World of El Superbeasto",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0419724",
+            "page": "http://www.imdb.com/find?q=tt0419724"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Haunted World of El Superbeasto (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Up",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1049413",
+            "page": "http://www.imdb.com/find?q=tt1049413"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Up (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Ponyo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0876563",
+            "page": "http://www.imdb.com/find?q=tt0876563"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ponyo (2008)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Bee Movie Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1152817",
+            "page": "http://www.imdb.com/find?q=tt1152817"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Bee Movie Game (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Madagascar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0430327",
+            "page": "http://www.imdb.com/find?q=tt0430327"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Madagascar (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837564",
+            "page": "http://www.imdb.com/find?q=tt0837564"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Stupid Invaders",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0277350",
+            "page": "http://www.imdb.com/find?q=tt0277350"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Stupid Invaders (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Rise of the Argonauts",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1277732",
+            "page": "http://www.imdb.com/find?q=tt1277732"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Rise of the Argonauts (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "True Crime: New York City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462582",
+            "page": "http://www.imdb.com/find?q=tt0462582"
+          }
+        }
+      ],
+      "section": [
+        "Laraine Newman",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "True Crime: New York City (video game)"
+    },
+    {
       "body": "Newman is the youngest of four children and a twin; her sister Tracy Newman is an Emmy Award-winning television writer. She attended Beverly Hills High School in Beverly Hills, California, and married actor, writer, and director Chad Einbinder in 1991. They have two daughters together: Lena, born 1991, and Hannah, born 1995.",
       "links": [],
+      "section": [
+        "Laraine Newman",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Newman is the youngest of four children and a twin; her sister Tracy Newman is an Emmy Award-winning television writer. She attended Beverly Hills High School in Beverly Hills, California, and married actor, writer, and director Chad Einbinder in 1991. They have two daughters together: Lena, born 1991, and Hannah, born 1995."
     },
     {
       "body": "She began her comedy career as a founding member of The Groundlings and is best known for being an original cast member on NBC's Saturday Night Live, appearing on the show from its inception in 1975 through 1980. She originated the characters of Sheri The Valley Girl and Connie Conehead, among others.",
       "links": [],
+      "section": [
+        "Laraine Newman",
+        "Biographical information",
+        "Career"
+      ],
       "text": "She began her comedy career as a founding member of The Groundlings and is best known for being an original cast member on NBC's Saturday Night Live, appearing on the show from its inception in 1975 through 1980. She originated the characters of Sheri The Valley Girl and Connie Conehead, among others."
     },
     {
       "body": "Newman's post-SNL film career has been in supporting roles and as a voice artist in animated features. Newman also works as a writer and editor, contributing to the online magazine One For The Table and occasionally to the Huffington Post. She has also contributed articles for the Los Angeles Times Magazine, The Believer, and McSweeney's. She wrote the foreword to the book version of the UCB Production Worst Laid Plans.",
       "links": [],
+      "section": [
+        "Laraine Newman",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Newman's post-SNL film career has been in supporting roles and as a voice artist in animated features. Newman also works as a writer and editor, contributing to the online magazine One For The Table and occasionally to the Huffington Post. She has also contributed articles for the Los Angeles Times Magazine, The Believer, and McSweeney's. She wrote the foreword to the book version of the UCB Production Worst Laid Plans."
     }
   ],

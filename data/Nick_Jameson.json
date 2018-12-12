@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Golden Girls (1985)",
+          "body": "${link_0} (1985)",
           "extra": "(1985)",
           "extra_text": "(1985)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Golden Girls",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0088526",
+                "page": "http://www.imdb.com/find?q=tt0088526"
+              }
+            }
+          ],
           "text": "The Golden Girls (1985)",
-          "value": "The Golden Girls",
+          "value": "${link_0}",
           "value_text": "The Golden Girls"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0417068",
+                "page": "http://www.imdb.com/find?q=nm0417068"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Nick_Jameson",
+                "page": "http://en.wikipedia.org/wiki/Nick_Jameson"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Nick-Jameson/108217765873277",
+                "page": "https://www.facebook.com/pages/Nick-Jameson/108217765873277"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.nickjameson.com/nick jameson.com/Home",
+                "page": "http://www.nickjameson.com/nick jameson.com/Home"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -95,13 +148,543 @@
   ],
   "paragraphs": [
     {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Avatar: The Last Airbender credits",
+        "Shinu"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "318. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 1: The Phoenix King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_1__The_Phoenix_King",
+            "page": "Sozin%27s_Comet%2c_Part_1__The_Phoenix_King"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Avatar: The Last Airbender credits",
+        "Shinu"
+      ],
+      "text": "318. \"Sozin's Comet, Part 1: The Phoenix King\""
+    },
+    {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "24",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285331",
+            "page": "http://www.imdb.com/find?q=tt0285331"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "24"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mission Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0197148",
+            "page": "http://www.imdb.com/find?q=tt0197148"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mission Hill"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "My Life as a Teenage Robot",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0318233",
+            "page": "http://www.imdb.com/find?q=tt0318233"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "My Life as a Teenage Robot"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112175",
+            "page": "http://www.imdb.com/find?q=tt0112175"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Spider-Man"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0361243",
+            "page": "http://www.imdb.com/find?q=tt0361243"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Critic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108734",
+            "page": "http://www.imdb.com/find?q=tt0108734"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Critic"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Frozen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2294629",
+            "page": "http://www.imdb.com/find?q=tt2294629"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Frozen (2013)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Armored",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0913354",
+            "page": "http://www.imdb.com/find?q=tt0913354"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Armored (2009)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Beowulf",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0442933",
+            "page": "http://www.imdb.com/find?q=tt0442933"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Beowulf (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Blades of Glory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0445934",
+            "page": "http://www.imdb.com/find?q=tt0445934"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Blades of Glory (2007)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "EuroTrip",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356150",
+            "page": "http://www.imdb.com/find?q=tt0356150"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "EuroTrip (2004)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Clifford's Really Big Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398872",
+            "page": "http://www.imdb.com/find?q=tt0398872"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Clifford's Really Big Movie (2004)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Along Came Polly",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0343135",
+            "page": "http://www.imdb.com/find?q=tt0343135"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Along Came Polly (2004)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "A Goofy Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0113198",
+            "page": "http://www.imdb.com/find?q=tt0113198"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "A Goofy Movie (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "Beowulf",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0442933",
+            "page": "http://www.imdb.com/find?q=tt0442933"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Beowulf (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIV",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1737166",
+            "page": "http://www.imdb.com/find?q=tt1737166"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIV (video game)"
+    },
+    {
+      "body": "${link_0} (short - cinematographer, composer, director, editor, producer, and writer)",
+      "links": [
+        {
+          "body": "Fortune Inn",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0759914",
+            "page": "http://www.imdb.com/find?q=tt0759914"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fortune Inn (short - cinematographer, composer, director, editor, producer, and writer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Gothic 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0891492",
+            "page": "http://www.imdb.com/find?q=tt0891492"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Gothic 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Justice League Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0823153",
+            "page": "http://www.imdb.com/find?q=tt0823153"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Justice League Heroes (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lord of the Rings: Battle for Middle Earth II - Rise of the Witch King",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1058040",
+            "page": "http://www.imdb.com/find?q=tt1058040"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lord of the Rings: Battle for Middle Earth II - Rise of the Witch King (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Psychonauts",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0395252",
+            "page": "http://www.imdb.com/find?q=tt0395252"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Psychonauts (video game)"
+    },
+    {
+      "body": "${link_0} (short - composer)",
+      "links": [
+        {
+          "body": "Small Hand",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2537692",
+            "page": "http://www.imdb.com/find?q=tt2537692"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Small Hand (short - composer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ultimate Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0479196",
+            "page": "http://www.imdb.com/find?q=tt0479196"
+          }
+        }
+      ],
+      "section": [
+        "Nick Jameson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ultimate Spider-Man (video game)"
+    },
+    {
       "body": "Jameson, who has over 114 film credits, has appeared in the television series The Critic, 24, Lost, and, vocally, in Star Wars: Clone Wars as Palpatine. He has also performed in the radio adaption of Dark Empire and several other productions of Star Wars. He voiced Richard Fisk and Morbius in Spider-Man: The Animated Series, Max in the cult-classic video game Sam & Max Hit the Road, Lloyd in the video game Arc the Lad: Twilight of the Spirits, Colonel Skowronski in the video game Metal Gear Solid: Portable Ops, and Jim Dear in Lady and the Tramp II: Scamp's Adventure.",
       "links": [],
+      "section": [
+        "Nick Jameson",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Jameson, who has over 114 film credits, has appeared in the television series The Critic, 24, Lost, and, vocally, in Star Wars: Clone Wars as Palpatine. He has also performed in the radio adaption of Dark Empire and several other productions of Star Wars. He voiced Richard Fisk and Morbius in Spider-Man: The Animated Series, Max in the cult-classic video game Sam & Max Hit the Road, Lloyd in the video game Arc the Lad: Twilight of the Spirits, Colonel Skowronski in the video game Metal Gear Solid: Portable Ops, and Jim Dear in Lady and the Tramp II: Scamp's Adventure."
     },
     {
       "body": "Jameson has also had a relatively lengthy career in music. Early on, he was a member of The American Dream, a 1960s Philadelphia band whose debut album was Todd Rundgren's first production credit. More prominent success soon followed when he briefly became the unofficial fourth member of the British blues-rock band Foghat in the mid-1970s, producing several of their albums, including Fool for the City, which spawned the band's biggest hit, \"Slow Ride\". Jameson's bass-playing is prominently featured on this track as well as the rest of the album. He has also released a couple of solo albums, Already Free in 1977 and A Crowd of One in 1986, the latter of which featured an obscure single, \"Weatherman\", which peaked at #95 on the Hot 100. Another track from A Crowd of One, \"Love's Closing In\", was featured on the soundtrack of the 1986 film A Fine Mess.",
       "links": [],
+      "section": [
+        "Nick Jameson",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Jameson has also had a relatively lengthy career in music. Early on, he was a member of The American Dream, a 1960s Philadelphia band whose debut album was Todd Rundgren's first production credit. More prominent success soon followed when he briefly became the unofficial fourth member of the British blues-rock band Foghat in the mid-1970s, producing several of their albums, including Fool for the City, which spawned the band's biggest hit, \"Slow Ride\". Jameson's bass-playing is prominently featured on this track as well as the rest of the album. He has also released a couple of solo albums, Already Free in 1977 and A Crowd of One in 1986, the latter of which featured an obscure single, \"Weatherman\", which peaked at #95 on the Hot 100. Another track from A Crowd of One, \"Love's Closing In\", was featured on the soundtrack of the 1986 film A Fine Mess."
     }
   ],

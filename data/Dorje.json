@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Air Nomads",
       "target": {
-        "href": "Category_Air_Nomads",
+        "external": false,
+        "href": "/wiki/Category_Air_Nomads",
         "page": "Category_Air_Nomads"
       }
     },
     {
       "body": "Objects",
       "target": {
-        "href": "Category_Objects",
+        "external": false,
+        "href": "/wiki/Category_Objects",
         "page": "Category_Objects"
       }
     }
@@ -25,43 +28,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "${link_0} used a dorje to defeat ${link_1} ${link_2}.",
-      "links": [
-        {
-          "body": "Aang",
-          "key": "${link_0}",
-          "target": {
-            "href": "Aang",
-            "page": "Aang"
-          }
-        },
-        {
-          "body": "Admiral",
-          "key": "${link_1}",
-          "target": {
-            "href": "Military_ranks_in_the_World_of_Avatar#Admiral",
-            "page": "Military_ranks_in_the_World_of_Avatar"
-          }
-        },
-        {
-          "body": "Zhao",
-          "key": "${link_2}",
-          "target": {
-            "href": "Zhao",
-            "page": "Zhao"
-          }
-        }
-      ],
-      "text": "Aang used a dorje to defeat Admiral Zhao."
-    },
-    {
       "body": "The dorje is an ancient relic once used by the ${link_0} in numerous rituals prior to the outbreak of the ${link_1}.",
       "links": [
         {
           "body": "Air Nomads",
           "key": "${link_0}",
           "target": {
-            "href": "Air_Nomads",
+            "external": false,
+            "href": "/wiki/Air_Nomads",
             "page": "Air_Nomads"
           }
         },
@@ -69,10 +43,14 @@
           "body": "Hundred Year War",
           "key": "${link_1}",
           "target": {
-            "href": "Hundred_Year_War",
+            "external": false,
+            "href": "/wiki/Hundred_Year_War",
             "page": "Hundred_Year_War"
           }
         }
+      ],
+      "section": [
+        "Dorje"
       ],
       "text": "The dorje is an ancient relic once used by the Air Nomads in numerous rituals prior to the outbreak of the Hundred Year War."
     },
@@ -83,7 +61,8 @@
           "body": "Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar",
+            "external": false,
+            "href": "/wiki/Avatar",
             "page": "Avatar"
           }
         },
@@ -91,10 +70,15 @@
           "body": "Aang",
           "key": "${link_1}",
           "target": {
-            "href": "Aang",
+            "external": false,
+            "href": "/wiki/Aang",
             "page": "Aang"
           }
         }
+      ],
+      "section": [
+        "Dorje",
+        "History"
       ],
       "text": "Though they were used in rituals, Avatar Aang and his friends discovered that, if spun at high speeds, the dorje could gyrate out of control."
     },
@@ -105,7 +89,8 @@
           "body": "Air Nomad Genocide",
           "key": "${link_0}",
           "target": {
-            "href": "Air_Nomad_Genocide",
+            "external": false,
+            "href": "/wiki/Air_Nomad_Genocide",
             "page": "Air_Nomad_Genocide"
           }
         },
@@ -113,7 +98,8 @@
           "body": "Fire Lord",
           "key": "${link_1}",
           "target": {
-            "href": "Fire_Lord",
+            "external": false,
+            "href": "/wiki/Fire_Lord",
             "page": "Fire_Lord"
           }
         },
@@ -121,7 +107,8 @@
           "body": "Sozin",
           "key": "${link_2}",
           "target": {
-            "href": "Sozin",
+            "external": false,
+            "href": "/wiki/Sozin",
             "page": "Sozin"
           }
         },
@@ -129,10 +116,15 @@
           "body": "soldiers",
           "key": "${link_3}",
           "target": {
-            "href": "Military_of_the_Fire_Nation",
+            "external": false,
+            "href": "/wiki/Military_of_the_Fire_Nation",
             "page": "Military_of_the_Fire_Nation"
           }
         }
+      ],
+      "section": [
+        "Dorje",
+        "History"
       ],
       "text": "After the Air Nomad Genocide, the dorjes were employed for a more sinister purpose; Fire Lord Sozin gathered them along with various other relics in an attempt to lure Air Nomad survivors into caves, where they were subsequently executed by the Fire Lord's waiting soldiers. In doing so, Sozin eradicated the remaining Air Nomads, save for Aang."
     },
@@ -143,7 +135,8 @@
           "body": "Zhao",
           "key": "${link_0}",
           "target": {
-            "href": "Zhao",
+            "external": false,
+            "href": "/wiki/Zhao",
             "page": "Zhao"
           }
         },
@@ -151,10 +144,15 @@
           "body": "airbending",
           "key": "${link_1}",
           "target": {
-            "href": "Airbending",
+            "external": false,
+            "href": "/wiki/Airbending",
             "page": "Airbending"
           }
         }
+      ],
+      "section": [
+        "Dorje",
+        "History"
       ],
       "text": "Almost a century later, Zhao used the dorje to bait Aang into a similar cave, but the Avatar instead used the ancient relic to escape. He rode on it as he had done years before and, using his airbending, let the dorje spin out of control. The object knocked out Aang's captors, allowing him to escape."
     },
@@ -165,7 +163,8 @@
           "body": "Loban",
           "key": "${link_0}",
           "target": {
-            "href": "Loban",
+            "external": false,
+            "href": "/wiki/Loban",
             "page": "Loban"
           }
         },
@@ -173,17 +172,54 @@
           "body": "Spirits' Friendship Festival",
           "key": "${link_1}",
           "target": {
-            "href": "Spirits%27_Friendship_Festival",
+            "external": false,
+            "href": "/wiki/Spirits%27_Friendship_Festival",
             "page": "Spirits%27_Friendship_Festival"
           }
         }
+      ],
+      "section": [
+        "Dorje",
+        "History"
       ],
       "text": "After the conclusion of the Hundred Year War, the dorje was used for its original purpose once more, as two smaller dorjes were used by Loban in a parade during the Spirits' Friendship Festival."
     },
     {
       "body": "At each end of the dorje are two ball-shaped sections that are hollow and have a spike on top. In the middle is a metal band that is stood on by an Air Nomad user, where they would spin the object at high speeds.",
       "links": [],
+      "section": [
+        "Dorje",
+        "Description"
+      ],
       "text": "At each end of the dorje are two ball-shaped sections that are hollow and have a spike on top. In the middle is a metal band that is stood on by an Air Nomad user, where they would spin the object at high speeds."
+    },
+    {
+      "body": "In the real world, the ${link_0} is a ritual object and a small metal weapon. It symbolizes the firmness of spirit and spiritual power. The dorje also has the same symbolic nature of the diamond: it can cut anything but not be cut itself. The thunderbolt is also symbolized by the dorje as a show of irresistible force. However, the dorje of the ${link_1} is significantly bigger than its real world equivalent.",
+      "links": [
+        {
+          "body": "dorje",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Vajra",
+            "page": "http://en.wikipedia.org/wiki/Vajra"
+          }
+        },
+        {
+          "body": "Avatar World",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Earth",
+            "page": "Earth"
+          }
+        }
+      ],
+      "section": [
+        "Dorje",
+        "Trivia"
+      ],
+      "text": "In the real world, the dorje is a ritual object and a small metal weapon. It symbolizes the firmness of spirit and spiritual power. The dorje also has the same symbolic nature of the diamond: it can cut anything but not be cut itself. The thunderbolt is also symbolized by the dorje as a show of irresistible force. However, the dorje of the Avatar World is significantly bigger than its real world equivalent."
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film staff",
       "target": {
-        "href": "Category_Film_staff",
+        "external": false,
+        "href": "/wiki/Category_Film_staff",
         "page": "Category_Film_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Orange County (2002 - producer)",
+          "body": "${link_0} (2002 - producer)",
           "extra": "(2002 - producer)",
           "extra_text": "(2002 - producer)",
-          "links": [],
+          "links": [
+            {
+              "body": "Orange County",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0273923",
+                "page": "http://www.imdb.com/find?q=tt0273923"
+              }
+            }
+          ],
           "text": "Orange County (2002 - producer)",
-          "value": "Orange County",
+          "value": "${link_0}",
           "value_text": "Orange County"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0042992",
+                "page": "http://www.imdb.com/find?q=nm0042992"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Scott_Aversano",
+                "page": "http://en.wikipedia.org/wiki/Scott_Aversano"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -77,8 +110,126 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0} (2014 - producer)",
+      "links": [
+        {
+          "body": "That Awkward Moment",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1800246",
+            "page": "http://www.imdb.com/find?q=tt1800246"
+          }
+        }
+      ],
+      "section": [
+        "Scott Aversano",
+        "Selected other credits"
+      ],
+      "text": "That Awkward Moment (2014 - producer)"
+    },
+    {
+      "body": "${link_0} (2012 - executive producer)",
+      "links": [
+        {
+          "body": "Safe House",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1599348",
+            "page": "http://www.imdb.com/find?q=tt1599348"
+          }
+        }
+      ],
+      "section": [
+        "Scott Aversano",
+        "Selected other credits"
+      ],
+      "text": "Safe House (2012 - executive producer)"
+    },
+    {
+      "body": "${link_0} (2008 - executive producer)",
+      "links": [
+        {
+          "body": "Angus, Thongs, and Perfect Snogging",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0963743",
+            "page": "http://www.imdb.com/find?q=tt0963743"
+          }
+        }
+      ],
+      "section": [
+        "Scott Aversano",
+        "Selected other credits"
+      ],
+      "text": "Angus, Thongs, and Perfect Snogging (2008 - executive producer)"
+    },
+    {
+      "body": "${link_0} (2004 - co-producer)",
+      "links": [
+        {
+          "body": "Lemony Snicket's A Series of Unfortunate Events",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0339291",
+            "page": "http://www.imdb.com/find?q=tt0339291"
+          }
+        }
+      ],
+      "section": [
+        "Scott Aversano",
+        "Selected other credits"
+      ],
+      "text": "Lemony Snicket's A Series of Unfortunate Events (2004 - co-producer)"
+    },
+    {
+      "body": "${link_0} (2004 - executive producer)",
+      "links": [
+        {
+          "body": "The Manchurian Candidate",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0368008",
+            "page": "http://www.imdb.com/find?q=tt0368008"
+          }
+        }
+      ],
+      "section": [
+        "Scott Aversano",
+        "Selected other credits"
+      ],
+      "text": "The Manchurian Candidate (2004 - executive producer)"
+    },
+    {
+      "body": "${link_0} (2002 - co-producer)",
+      "links": [
+        {
+          "body": "Changing Lanes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0264472",
+            "page": "http://www.imdb.com/find?q=tt0264472"
+          }
+        }
+      ],
+      "section": [
+        "Scott Aversano",
+        "Selected other credits"
+      ],
+      "text": "Changing Lanes (2002 - co-producer)"
+    },
+    {
       "body": "Aversano was educated at The Lawrenceville School (Diploma 1987), Brown University (A.B. 1991) and The University of Michigan in Ann Arbor, where he earned an M.A. in English Literature in 1996. As a producer, his other film credits include Failure to Launch, Team America: World Police, Changing Lanes, Orange County, and Lemony Snicket's A Series of Unfortunate Events. In August 2006, Aversano was named President of MTV Films and Nick Movies.",
       "links": [],
+      "section": [
+        "Scott Aversano",
+        "Biographical information"
+      ],
       "text": "Aversano was educated at The Lawrenceville School (Diploma 1987), Brown University (A.B. 1991) and The University of Michigan in Ann Arbor, where he earned an M.A. in English Literature in 1996. As a producer, his other film credits include Failure to Launch, Team America: World Police, Changing Lanes, Orange County, and Lemony Snicket's A Series of Unfortunate Events. In August 2006, Aversano was named President of MTV Films and Nick Movies."
     }
   ],

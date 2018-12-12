@@ -3,7 +3,8 @@
     {
       "body": "Reviews",
       "target": {
-        "href": "Category_Reviews",
+        "external": false,
+        "href": "/wiki/Category_Reviews",
         "page": "Category_Reviews"
       }
     }
@@ -17,7 +18,8 @@
           "body": "The Promise",
           "key": "${link_0}",
           "target": {
-            "href": "The_Promise",
+            "external": false,
+            "href": "/wiki/The_Promise",
             "page": "The_Promise"
           }
         },
@@ -25,17 +27,35 @@
           "body": "Write your own!",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar_Wiki_Reviews",
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_Reviews",
             "page": "Avatar_Wiki_Reviews"
           }
         }
       ],
+      "section": [
+        "Category:Reviews of The Promise"
+      ],
       "text": "Reviews of \"The Promise\". Write your own!"
     },
     {
-      "body": "All items (1)",
-      "links": [],
-      "text": "All items (1)"
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "User blog:Samoth/My Review of 'The Promise' - The Library Edition",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User_blog:Samoth/My_Review_of_%27The_Promise%27_-_The_Library_Edition",
+            "page": "User_blog:Samoth/My_Review_of_%27The_Promise%27_-_The_Library_Edition"
+          }
+        }
+      ],
+      "section": [
+        "Category:Reviews of The Promise",
+        "S"
+      ],
+      "text": "User blog:Samoth/My Review of 'The Promise' - The Library Edition"
     }
   ],
   "source": {

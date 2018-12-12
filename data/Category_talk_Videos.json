@@ -3,8 +3,40 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "So, there are some unneeded videos here, what are we going to delete? Omnibender - Talk - Contributions 22:06, November 21, 2009 (UTC)",
-      "links": [],
+      "body": "So, there are some unneeded videos here, what are we going to delete? ${link_0} - ${link_1} - ${link_2} 22:06, November 21, 2009 (UTC)",
+      "links": [
+        {
+          "body": "Omnibender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Omnibender",
+            "page": "User:Omnibender"
+          }
+        },
+        {
+          "body": "Talk",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User_talk:Omnibender",
+            "page": "User_talk:Omnibender"
+          }
+        },
+        {
+          "body": "Contributions",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Special:Contributions/Omnibender",
+            "page": "Special:Contributions/Omnibender"
+          }
+        }
+      ],
+      "section": [
+        "Category talk:Videos",
+        "Deletion"
+      ],
       "text": "So, there are some unneeded videos here, what are we going to delete? Omnibender - Talk - Contributions 22:06, November 21, 2009 (UTC)"
     }
   ],

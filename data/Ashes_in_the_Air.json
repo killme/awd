@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Online games",
       "target": {
-        "href": "Category_Online_games",
+        "external": false,
+        "href": "/wiki/Category_Online_games",
         "page": "Category_Online_games"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Video games",
       "target": {
-        "href": "Category_Video_games",
+        "external": false,
+        "href": "/wiki/Category_Video_games",
         "page": "Category_Video_games"
       }
     }
@@ -42,7 +46,8 @@
               "body": "Nickelodeon",
               "key": "${link_0}",
               "target": {
-                "href": "Nickelodeon",
+                "external": false,
+                "href": "/wiki/Nickelodeon",
                 "page": "Nickelodeon"
               }
             }
@@ -100,6 +105,9 @@
     {
       "body": "Ashes in the Air is a single-player game hosted on Nick.com.",
       "links": [],
+      "section": [
+        "Ashes in the Air"
+      ],
       "text": "Ashes in the Air is a single-player game hosted on Nick.com."
     },
     {
@@ -109,7 +117,8 @@
           "body": "Zuko",
           "key": "${link_0}",
           "target": {
-            "href": "Zuko",
+            "external": false,
+            "href": "/wiki/Zuko",
             "page": "Zuko"
           }
         },
@@ -117,7 +126,8 @@
           "body": "Aang",
           "key": "${link_1}",
           "target": {
-            "href": "Aang",
+            "external": false,
+            "href": "/wiki/Aang",
             "page": "Aang"
           }
         },
@@ -125,38 +135,62 @@
           "body": "Katara",
           "key": "${link_2}",
           "target": {
-            "href": "Katara",
+            "external": false,
+            "href": "/wiki/Katara",
             "page": "Katara"
           }
         }
+      ],
+      "section": [
+        "Ashes in the Air",
+        "Objective"
       ],
       "text": "Zuko and his minions have set fire to a town. The player must help Aang and Katara extinguish the blaze before everything is reduced to ash."
     },
     {
-      "body": "${link_0} moves a fire into ${link_1}'s range.",
+      "body": "Arrow keys:\n Move Aang\n ${link_0} (only when next to a fire)",
       "links": [
         {
-          "body": "Aang",
+          "body": "Airbend",
           "key": "${link_0}",
           "target": {
-            "href": "Aang",
-            "page": "Aang"
-          }
-        },
-        {
-          "body": "Katara",
-          "key": "${link_1}",
-          "target": {
-            "href": "Katara",
-            "page": "Katara"
+            "external": false,
+            "href": "/wiki/Airbending",
+            "page": "Airbending"
           }
         }
       ],
-      "text": "Aang moves a fire into Katara's range."
+      "section": [
+        "Ashes in the Air",
+        "Controls"
+      ],
+      "text": "Arrow keys:\n Move Aang\n Airbend (only when next to a fire)"
+    },
+    {
+      "body": "Move Aang",
+      "links": [],
+      "section": [
+        "Ashes in the Air",
+        "Controls"
+      ],
+      "text": "Move Aang"
+    },
+    {
+      "body": "${link_0} (only when next to a fire)",
+      "links": [],
+      "section": [
+        "Ashes in the Air",
+        "Controls"
+      ],
+      "text": "${link_0} (only when next to a fire)"
     },
     {
       "body": "By playing as Aang, one can control the wind and blow the flames toward Katara, preferably with the smallest number of airbending moves as possible. While he may glide freely for however many steps he would like, Aang only has eight chances to airbend the flames or else the game ends.",
       "links": [],
+      "section": [
+        "Ashes in the Air",
+        "Instructions"
+      ],
       "text": "By playing as Aang, one can control the wind and blow the flames toward Katara, preferably with the smallest number of airbending moves as possible. While he may glide freely for however many steps he would like, Aang only has eight chances to airbend the flames or else the game ends."
     },
     {
@@ -166,22 +200,73 @@
           "body": "airbending",
           "key": "${link_0}",
           "target": {
-            "href": "Airbending",
+            "external": false,
+            "href": "/wiki/Airbending",
             "page": "Airbending"
           }
         }
+      ],
+      "section": [
+        "Ashes in the Air",
+        "Instructions"
       ],
       "text": "It is sometimes necessary to ignite flammable objects by guiding the flames toward them, but one must do so strategically, lest the fire burn out of the control. Merging fires together will save Aang some airbending moves. However, if four fire spots merge, it will result in a blazing inferno."
     },
     {
       "body": "Various puddles and barrels filled with water are scattered over the playing field and may aid the player in extinguishing the fires. Boulders also appear and obstruct the path to Katara, for the fires cannot travel through them, and, therefore, neither can Aang.",
       "links": [],
+      "section": [
+        "Ashes in the Air",
+        "Instructions"
+      ],
       "text": "Various puddles and barrels filled with water are scattered over the playing field and may aid the player in extinguishing the fires. Boulders also appear and obstruct the path to Katara, for the fires cannot travel through them, and, therefore, neither can Aang."
     },
     {
       "body": "Twenty \"districts\" need to be saved in order to complete the game. If Aang runs out of moves, the level may be reset. However, there is a set amount of resets, and each reset comes with a point penalty. One district extinguished adds to the player's available resets.",
       "links": [],
+      "section": [
+        "Ashes in the Air",
+        "Instructions"
+      ],
       "text": "Twenty \"districts\" need to be saved in order to complete the game. If Aang runs out of moves, the level may be reset. However, there is a set amount of resets, and each reset comes with a point penalty. One district extinguished adds to the player's available resets."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "List of Avatar games",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar_games",
+            "page": "List_of_Avatar_games"
+          }
+        }
+      ],
+      "section": [
+        "Ashes in the Air",
+        "See also"
+      ],
+      "text": "List of Avatar games"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Play Ashes in the Air",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.nick.com/avatar-the-last-airbender/games/avatar-the-last-airbender-ashes-in-the-air/",
+            "page": "http://www.nick.com/avatar-the-last-airbender/games/avatar-the-last-airbender-ashes-in-the-air/"
+          }
+        }
+      ],
+      "section": [
+        "Ashes in the Air",
+        "External links"
+      ],
+      "text": "Play Ashes in the Air"
     }
   ],
   "source": {

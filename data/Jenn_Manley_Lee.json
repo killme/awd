@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -27,21 +30,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.jennmanleylee.com/",
+                "page": "http://www.jennmanleylee.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/jemale",
+                "page": "https://twitter.com/jemale"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -49,23 +72,82 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #40. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sisters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sisters",
+            "page": "Sisters"
+          }
+        }
+      ],
+      "section": [
+        "Jenn Manley Lee",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #40. \"Sisters\""
+    },
+    {
+      "body": "${link_0} (online graphic novel)",
+      "links": [
+        {
+          "body": "Dicebox",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Dicebox",
+            "page": "http://en.wikipedia.org/wiki/Dicebox"
+          }
+        }
+      ],
+      "section": [
+        "Jenn Manley Lee",
+        "Selected other credits"
+      ],
+      "text": "Dicebox (online graphic novel)"
+    },
+    {
       "body": "Lee lives with her spouse, Kip Manley, and her daughter, Taran.",
       "links": [],
+      "section": [
+        "Jenn Manley Lee",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Lee lives with her spouse, Kip Manley, and her daughter, Taran."
     },
     {
       "body": "Lee has many years' experience in not only drawing and cartooning, but graphic design and producing both 2D and 3D projects. She has created, prepared, assisted, and overseen projects from educational comics to an arts magazine to production specification guidelines.",
       "links": [],
+      "section": [
+        "Jenn Manley Lee",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Lee has many years' experience in not only drawing and cartooning, but graphic design and producing both 2D and 3D projects. She has created, prepared, assisted, and overseen projects from educational comics to an arts magazine to production specification guidelines."
     },
     {
       "body": "She works for Ziba Design as a Senior Production Designer and has spent over fifteen years in the graphics and design field. She has also served as art director for an arts magazine and was a founding member of the Stumptown Comics Foundation.",
       "links": [],
+      "section": [
+        "Jenn Manley Lee",
+        "Biographical information",
+        "Career"
+      ],
       "text": "She works for Ziba Design as a Senior Production Designer and has spent over fifteen years in the graphics and design field. She has also served as art director for an arts magazine and was a founding member of the Stumptown Comics Foundation."
     },
     {
       "body": "She is also the writer and artist of Dicebox, a long-form comic that she has been posting online for about a decade.",
       "links": [],
+      "section": [
+        "Jenn Manley Lee",
+        "Biographical information",
+        "Career"
+      ],
       "text": "She is also the writer and artist of Dicebox, a long-form comic that she has been posting online for about a decade."
     }
   ],

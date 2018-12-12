@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The First Turn-On!! (1983)",
+          "body": "${link_0} (1983)",
           "extra": "(1983)",
           "extra_text": "(1983)",
-          "links": [],
+          "links": [
+            {
+              "body": "The First Turn-On!!",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0085547",
+                "page": "http://www.imdb.com/find?q=tt0085547"
+              }
+            }
+          ],
           "text": "The First Turn-On!! (1983)",
-          "value": "The First Turn-On!!",
+          "value": "${link_0}",
           "value_text": "The First Turn-On!!"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0925943",
+                "page": "http://www.imdb.com/find?q=nm0925943"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Mitchell_Whitfield",
+                "page": "http://en.wikipedia.org/wiki/Mitchell_Whitfield"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/m_whitfield",
+                "page": "https://twitter.com/m_whitfield"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -86,13 +129,501 @@
   ],
   "paragraphs": [
     {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "The Legend of Korra credits",
+        "Conductor"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "The Legend of Korra credits",
+        "Gun"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "The Legend of Korra credits",
+        "Gun"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "The Legend of Korra credits",
+        "Gun"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "403. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Coronation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Coronation",
+            "page": "The_Coronation"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "The Legend of Korra credits",
+        "Gun"
+      ],
+      "text": "403. \"The Coronation\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "The Legend of Korra credits",
+        "Waiter"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "The Legend of Korra credits",
+        "Royal guard #1"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "The Legend of Korra credits",
+        "Engineer"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Duckman: Private Dick/Family Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108755",
+            "page": "http://www.imdb.com/find?q=tt0108755"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Duckman: Private Dick/Family Man"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Friends",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108778",
+            "page": "http://www.imdb.com/find?q=tt0108778"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Friends"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Head Over Heels",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118335",
+            "page": "http://www.imdb.com/find?q=tt0118335"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Head Over Heels"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Minor Adjustments",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112072",
+            "page": "http://www.imdb.com/find?q=tt0112072"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Minor Adjustments"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Monsters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094512",
+            "page": "http://www.imdb.com/find?q=tt0094512"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Monsters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Winx Club: Beyond Believix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2653030",
+            "page": "http://www.imdb.com/find?q=tt2653030"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Winx Club: Beyond Believix"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "W.I.T.C.H.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0383718",
+            "page": "http://www.imdb.com/find?q=tt0383718"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "W.I.T.C.H."
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "TMNT",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0453556",
+            "page": "http://www.imdb.com/find?q=tt0453556"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "TMNT (2007)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Files on Cupid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0256757",
+            "page": "http://www.imdb.com/find?q=tt0256757"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Files on Cupid (2000)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Best Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118702",
+            "page": "http://www.imdb.com/find?q=tt0118702"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Best Men (1997)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Sgt. Bilko",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0117608",
+            "page": "http://www.imdb.com/find?q=tt0117608"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sgt. Bilko (1996)"
+    },
+    {
+      "body": "${link_0} (1993; short)",
+      "links": [
+        {
+          "body": "The Big Gig",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0208002",
+            "page": "http://www.imdb.com/find?q=tt0208002"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Big Gig (1993; short)"
+    },
+    {
+      "body": "${link_0} (1992)",
+      "links": [
+        {
+          "body": "My Cousin Vinny",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0104952",
+            "page": "http://www.imdb.com/find?q=tt0104952"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "My Cousin Vinny (1992)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Reversal of Fortune",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0100486",
+            "page": "http://www.imdb.com/find?q=tt0100486"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Reversal of Fortune (1990)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "24: The Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0454763",
+            "page": "http://www.imdb.com/find?q=tt0454763"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "24: The Game (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Teenage Mutant Ninja Turtles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1038098",
+            "page": "http://www.imdb.com/find?q=tt1038098"
+          }
+        }
+      ],
+      "section": [
+        "Mitchell Whitfield",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Teenage Mutant Ninja Turtles (video game)"
+    },
+    {
       "body": "Whitfield guest-starred in several episodes of Friends as Dr. Barry Farber, Rachel's orthodontist ex-fianc\u00e9 whom Rachel left at the altar on their wedding day. He has also appeared in Dharma & Greg; Murder, She Wrote; Diagnosis Murder; CSI: Crime Scene Investigation; and Curb Your Enthusiasm. In the 1992 film My Cousin Vinny, Whitfield starred as Stan Rothenstein, opposite Ralph Macchio. He also appeared in an episode of The Suite Life of Zack & Cody.",
       "links": [],
+      "section": [
+        "Mitchell Whitfield",
+        "Biographical information"
+      ],
       "text": "Whitfield guest-starred in several episodes of Friends as Dr. Barry Farber, Rachel's orthodontist ex-fianc\u00e9 whom Rachel left at the altar on their wedding day. He has also appeared in Dharma & Greg; Murder, She Wrote; Diagnosis Murder; CSI: Crime Scene Investigation; and Curb Your Enthusiasm. In the 1992 film My Cousin Vinny, Whitfield starred as Stan Rothenstein, opposite Ralph Macchio. He also appeared in an episode of The Suite Life of Zack & Cody."
     },
     {
       "body": "As a voice actor, Whitfield voiced Phobos on W.I.T.C.H. and Donatello in the first Teenage Mutant Ninja Turtles film.",
       "links": [],
+      "section": [
+        "Mitchell Whitfield",
+        "Biographical information"
+      ],
       "text": "As a voice actor, Whitfield voiced Phobos on W.I.T.C.H. and Donatello in the first Teenage Mutant Ninja Turtles film."
     }
   ],

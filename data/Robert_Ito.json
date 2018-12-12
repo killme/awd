@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "I Spy (1965)",
+          "body": "${link_0} (1965)",
           "extra": "(1965)",
           "extra_text": "(1965)",
-          "links": [],
+          "links": [
+            {
+              "body": "I Spy",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0058816",
+                "page": "http://www.imdb.com/find?q=tt0058816"
+              }
+            }
+          ],
           "text": "I Spy (1965)",
-          "value": "I Spy",
+          "value": "${link_0}",
           "value_text": "I Spy"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0411731",
+                "page": "http://www.imdb.com/find?q=nm0411731"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Robert_Ito",
+                "page": "http://en.wikipedia.org/wiki/Robert_Ito"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/Robert-Ito/105872652778041",
+                "page": "http://www.facebook.com/pages/Robert-Ito/105872652778041"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -86,8 +129,352 @@
   ],
   "paragraphs": [
     {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Firebending Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Firebending_Masters",
+            "page": "The_Firebending_Masters"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Avatar: The Last Airbender credits",
+        "Sun Warrior chief"
+      ],
+      "text": "313. \"The Firebending Masters\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Falcon Crest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0081858",
+            "page": "http://www.imdb.com/find?q=tt0081858"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Falcon Crest"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Iron Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115218",
+            "page": "http://www.imdb.com/find?q=tt0115218"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Iron Man"
+    },
+    {
+      "body": "${link_0} (TV miniseries)",
+      "links": [
+        {
+          "body": "Mater's Tall Tales",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1384816",
+            "page": "http://www.imdb.com/find?q=tt1384816"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mater's Tall Tales (TV miniseries)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Once a Thief",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118359",
+            "page": "http://www.imdb.com/find?q=tt0118359"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Once a Thief"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Quincy M.E.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0074042",
+            "page": "http://www.imdb.com/find?q=tt0074042"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Quincy M.E."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Rambo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0222619",
+            "page": "http://www.imdb.com/find?q=tt0222619"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Rambo"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Karate Kid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0137311",
+            "page": "http://www.imdb.com/find?q=tt0137311"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Karate Kid"
+    },
+    {
+      "body": "${link_0} (2002; short)",
+      "links": [
+        {
+          "body": "The Theater of Martin Lim",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0489855",
+            "page": "http://www.imdb.com/find?q=tt0489855"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Theater of Martin Lim (2002; short)"
+    },
+    {
+      "body": "${link_0} (1999; short)",
+      "links": [
+        {
+          "body": "Samurai Swing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0196070",
+            "page": "http://www.imdb.com/find?q=tt0196070"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Samurai Swing (1999; short)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "The Omega Code",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0203408",
+            "page": "http://www.imdb.com/find?q=tt0203408"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Omega Code (1999)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Hollow Point",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0113313",
+            "page": "http://www.imdb.com/find?q=tt0113313"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hollow Point (1996)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Crazy People",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0099316",
+            "page": "http://www.imdb.com/find?q=tt0099316"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Crazy People (1990)"
+    },
+    {
+      "body": "${link_0} (1990; video short)",
+      "links": [
+        {
+          "body": "Joseph and His Brothers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1227417",
+            "page": "http://www.imdb.com/find?q=tt1227417"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Joseph and His Brothers (1990; video short)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "The Vineyard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098600",
+            "page": "http://www.imdb.com/find?q=tt0098600"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Vineyard (1989)"
+    },
+    {
+      "body": "${link_0} (1985)",
+      "links": [
+        {
+          "body": "Pray for Death",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0089835",
+            "page": "http://www.imdb.com/find?q=tt0089835"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pray for Death (1985)"
+    },
+    {
+      "body": "${link_0} (1984)",
+      "links": [
+        {
+          "body": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086856",
+            "page": "http://www.imdb.com/find?q=tt0086856"
+          }
+        }
+      ],
+      "section": [
+        "Robert Ito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)"
+    },
+    {
       "body": "Ito, who is of Japanese descent, was a dancer with the National Ballet of Canada before turning to acting in the mid-1960s. With a long list of performing credits to his name, he is probably best known for his seven-year role as forensic lab technician Sam Fujiyama on the popular TV series Quincy, M.E., which aired from 1976-83 on NBC.",
       "links": [],
+      "section": [
+        "Robert Ito",
+        "Biographical information"
+      ],
       "text": "Ito, who is of Japanese descent, was a dancer with the National Ballet of Canada before turning to acting in the mid-1960s. With a long list of performing credits to his name, he is probably best known for his seven-year role as forensic lab technician Sam Fujiyama on the popular TV series Quincy, M.E., which aired from 1976-83 on NBC."
     }
   ],

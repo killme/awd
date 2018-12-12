@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,21 +44,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0685891",
+                "page": "http://www.imdb.com/find?q=nm0685891"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/frankiepitt",
+                "page": "https://twitter.com/frankiepitt"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -63,22 +86,142 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #10. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Divided We Fall",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Divided_We_Fall",
+            "page": "Divided_We_Fall"
+          }
+        }
+      ],
+      "section": [
+        "Frank Pittarese",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #10. \"Divided We Fall\""
+    },
+    {
+      "body": "Iss. #14. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Bridge",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Bridge",
+            "page": "The_Bridge"
+          }
+        }
+      ],
+      "section": [
+        "Frank Pittarese",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #14. \"The Bridge\""
+    },
+    {
       "body": "Aside from his contributions to the comics, Pittarese also wrote for other areas of ${link_0} publications having to do with Avatar, including:",
       "links": [
         {
           "body": "Nickelodeon Magazine",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon_Magazine",
+            "external": false,
+            "href": "/wiki/Nickelodeon_Magazine",
             "page": "Nickelodeon_Magazine"
           }
         }
       ],
+      "section": [
+        "Frank Pittarese",
+        "Avatar: The Last Airbender credits",
+        "Nickelodeon Magazine columnist"
+      ],
       "text": "Aside from his contributions to the comics, Pittarese also wrote for other areas of Nickelodeon Magazine publications having to do with Avatar, including:"
+    },
+    {
+      "body": "\"Nation Exploration\", a four-page article in ${link_0}",
+      "links": [
+        {
+          "body": "Nick Mag Presents: Avatar: The Last Airbender \u2014 \"Four Heroes Face the Fire!\"",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Nickelodeon_Comics_Club#Four_Heroes_Face_the_Fire.21",
+            "page": "Nickelodeon_Comics_Club"
+          }
+        }
+      ],
+      "section": [
+        "Frank Pittarese",
+        "Avatar: The Last Airbender credits",
+        "Nickelodeon Magazine columnist"
+      ],
+      "text": "\"Nation Exploration\", a four-page article in Nick Mag Presents: Avatar: The Last Airbender \u2014 \"Four Heroes Face the Fire!\""
+    },
+    {
+      "body": "\"What Kind of Bender Are You?\", a one-page article in the same issue as above",
+      "links": [],
+      "section": [
+        "Frank Pittarese",
+        "Avatar: The Last Airbender credits",
+        "Nickelodeon Magazine columnist"
+      ],
+      "text": "\"What Kind of Bender Are You?\", a one-page article in the same issue as above"
+    },
+    {
+      "body": "${link_0} (1999; video short - technical services)",
+      "links": [
+        {
+          "body": "The Storyteller",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0310178",
+            "page": "http://www.imdb.com/find?q=tt0310178"
+          }
+        }
+      ],
+      "section": [
+        "Frank Pittarese",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Storyteller (1999; video short - technical services)"
+    },
+    {
+      "body": "${link_0} (1997; short)",
+      "links": [
+        {
+          "body": "Meat",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0198739",
+            "page": "http://www.imdb.com/find?q=tt0198739"
+          }
+        }
+      ],
+      "section": [
+        "Frank Pittarese",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Meat (1997; short)"
     },
     {
       "body": "Pittarese has made a significant contribution to the American comic industry, having spearheaded projects for DC Entertainment and Nickelodeon Magazine since the late eighties.",
       "links": [],
+      "section": [
+        "Frank Pittarese",
+        "Biographical information"
+      ],
       "text": "Pittarese has made a significant contribution to the American comic industry, having spearheaded projects for DC Entertainment and Nickelodeon Magazine since the late eighties."
     }
   ],

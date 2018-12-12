@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Kraft Suspense Theatre (1964)",
+          "body": "${link_0} (1964)",
           "extra": "(1964)",
           "extra_text": "(1964)",
-          "links": [],
+          "links": [
+            {
+              "body": "Kraft Suspense Theatre",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0056768",
+                "page": "http://www.imdb.com/find?q=tt0056768"
+              }
+            }
+          ],
           "text": "Kraft Suspense Theatre (1964)",
-          "value": "Kraft Suspense Theatre",
+          "value": "${link_0}",
           "value_text": "Kraft Suspense Theatre"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0683986",
+                "page": "http://www.imdb.com/find?q=nm0683986"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Robert_Pine",
+                "page": "http://en.wikipedia.org/wiki/Robert_Pine"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.robertpine.com/",
+                "page": "http://www.robertpine.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -100,8 +143,420 @@
   ],
   "paragraphs": [
     {
-      "body": "Pine, born the son of a patent attorney, is married to actress Gwynne Gilford, who made a couple of appearances on CHiPs as the wife of his starring character, Sgt. Joe Getraer. They are the parents of actors Chris and Katie Pine.",
-      "links": [],
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Avatar: The Last Airbender credits",
+        "Fisherman"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Barnaby Jones",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0069557",
+            "page": "http://www.imdb.com/find?q=tt0069557"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Barnaby Jones"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Black Scorpion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0155425",
+            "page": "http://www.imdb.com/find?q=tt0155425"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Black Scorpion"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CHiPs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0075488",
+            "page": "http://www.imdb.com/find?q=tt0075488"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CHiPs"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gunsmoke",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0047736",
+            "page": "http://www.imdb.com/find?q=tt0047736"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gunsmoke"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Murder, She Wrote",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086765",
+            "page": "http://www.imdb.com/find?q=tt0086765"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Murder, She Wrote"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Bold and the Beautiful",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092325",
+            "page": "http://www.imdb.com/find?q=tt0092325"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Bold and the Beautiful"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Frozen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2294629",
+            "page": "http://www.imdb.com/find?q=tt2294629"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Frozen (2013)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Minkow",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1441922",
+            "page": "http://www.imdb.com/find?q=tt1441922"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Minkow (2011)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Reunited",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1679655",
+            "page": "http://www.imdb.com/find?q=tt1679655"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Reunited (2010)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Lakeview Terrace",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0947802",
+            "page": "http://www.imdb.com/find?q=tt0947802"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lakeview Terrace (2008)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Red Eye",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0421239",
+            "page": "http://www.imdb.com/find?q=tt0421239"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Red Eye (2005)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Confession",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0417550",
+            "page": "http://www.imdb.com/find?q=tt0417550"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Confession (2005)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Clipping Adam",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0372215",
+            "page": "http://www.imdb.com/find?q=tt0372215"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Clipping Adam (2004)"
+    },
+    {
+      "body": "${link_0} (1992; video short)",
+      "links": [
+        {
+          "body": "On the Way Home",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0385137",
+            "page": "http://www.imdb.com/find?q=tt0385137"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "On the Way Home (1992; video short)"
+    },
+    {
+      "body": "${link_0} (1977)",
+      "links": [
+        {
+          "body": "Empire of the Ants",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0075989",
+            "page": "http://www.imdb.com/find?q=tt0075989"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Empire of the Ants (1977)"
+    },
+    {
+      "body": "${link_0} (1967)",
+      "links": [
+        {
+          "body": "The Young Warriors",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0062516",
+            "page": "http://www.imdb.com/find?q=tt0062516"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Young Warriors (1967)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Bionic Commando",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1447946",
+            "page": "http://www.imdb.com/find?q=tt1447946"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Bionic Commando (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "SOCOM: U.S. Navy SEALs - Confrontation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1596778",
+            "page": "http://www.imdb.com/find?q=tt1596778"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "SOCOM: U.S. Navy SEALs - Confrontation (video game)"
+    },
+    {
+      "body": "Pine, born the son of a patent attorney, is married to actress ${link_0}, who made a couple of appearances on CHiPs as the wife of his starring character, Sgt. Joe Getraer. They are the parents of actors ${link_1} and ${link_2}.",
+      "links": [
+        {
+          "body": "Gwynne Gilford",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=nm0318522",
+            "page": "http://www.imdb.com/find?q=nm0318522"
+          }
+        },
+        {
+          "body": "Chris",
+          "key": "${link_1}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=nm1517976",
+            "page": "http://www.imdb.com/find?q=nm1517976"
+          }
+        },
+        {
+          "body": "Katie Pine",
+          "key": "${link_2}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=nm0683977",
+            "page": "http://www.imdb.com/find?q=nm0683977"
+          }
+        }
+      ],
+      "section": [
+        "Robert Pine",
+        "Biographical information"
+      ],
       "text": "Pine, born the son of a patent attorney, is married to actress Gwynne Gilford, who made a couple of appearances on CHiPs as the wife of his starring character, Sgt. Joe Getraer. They are the parents of actors Chris and Katie Pine."
     }
   ],

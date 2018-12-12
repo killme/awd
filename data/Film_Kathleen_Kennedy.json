@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film staff",
       "target": {
-        "href": "Category_Film_staff",
+        "external": false,
+        "href": "/wiki/Category_Film_staff",
         "page": "Category_Film_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "1941 (1979)",
+          "body": "${link_0} (1979)",
           "extra": "(1979)",
           "extra_text": "(1979)",
-          "links": [],
+          "links": [
+            {
+              "body": "1941",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0078723",
+                "page": "http://www.imdb.com/find?q=tt0078723"
+              }
+            }
+          ],
           "text": "1941 (1979)",
-          "value": "1941",
+          "value": "${link_0}",
           "value_text": "1941"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0005086",
+                "page": "http://www.imdb.com/find?q=nm0005086"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Kathleen_Kennedy_(film_producer)",
+                "page": "http://en.wikipedia.org/wiki/Kathleen_Kennedy_(film_producer)"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -83,7 +116,8 @@
           "body": "Avatar: The Last Airbender",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         },
@@ -91,32 +125,467 @@
           "body": "The Last Airbender",
           "key": "${link_1}",
           "target": {
-            "href": "Film_The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender",
             "page": "Film_The_Last_Airbender"
           }
         }
       ],
+      "section": [
+        "Kathleen Kennedy"
+      ],
       "text": "She was one of the producers of the film adaptation of Avatar: The Last Airbender, released as The Last Airbender."
+    },
+    {
+      "body": "${link_0} (production executive)",
+      "links": [
+        {
+          "body": "Amazing Stories",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0088478",
+            "page": "http://www.imdb.com/find?q=tt0088478"
+          }
+        }
+      ],
+      "section": [
+        "Kathleen Kennedy",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Amazing Stories (production executive)"
+    },
+    {
+      "body": "${link_0} (production executive)",
+      "links": [
+        {
+          "body": "Fievel's American Tails",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0221172",
+            "page": "http://www.imdb.com/find?q=tt0221172"
+          }
+        }
+      ],
+      "section": [
+        "Kathleen Kennedy",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fievel's American Tails (production executive)"
+    },
+    {
+      "body": "${link_0} (TV movie - executive producer)",
+      "links": [
+        {
+          "body": "Movies Rock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1046184",
+            "page": "http://www.imdb.com/find?q=tt1046184"
+          }
+        }
+      ],
+      "section": [
+        "Kathleen Kennedy",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Movies Rock (TV movie - executive producer)"
+    },
+    {
+      "body": "${link_0} (production executive)",
+      "links": [
+        {
+          "body": "Tiny Toon Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098929",
+            "page": "http://www.imdb.com/find?q=tt0098929"
+          }
+        }
+      ],
+      "section": [
+        "Kathleen Kennedy",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Tiny Toon Adventures (production executive)"
+    },
+    {
+      "body": "${link_0} (2012 - producer)",
+      "links": [
+        {
+          "body": "Lincoln",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0443272",
+            "page": "http://www.imdb.com/find?q=tt0443272"
+          }
+        }
+      ],
+      "section": [
+        "Kathleen Kennedy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lincoln (2012 - producer)"
+    },
+    {
+      "body": "${link_0} (2008; English version - producer)",
+      "links": [
+        {
+          "body": "Ponyo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0876563",
+            "page": "http://www.imdb.com/find?q=tt0876563"
+          }
+        }
+      ],
+      "section": [
+        "Kathleen Kennedy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ponyo (2008; English version - producer)"
+    },
+    {
+      "body": "${link_0} (1997 - executive producer)",
+      "links": [
+        {
+          "body": "The Lost World: Jurassic Park",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119567",
+            "page": "http://www.imdb.com/find?q=tt0119567"
+          }
+        }
+      ],
+      "section": [
+        "Kathleen Kennedy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Lost World: Jurassic Park (1997 - executive producer)"
+    },
+    {
+      "body": "${link_0} (1991 - executive producer)",
+      "links": [
+        {
+          "body": "Cape Fear",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101540",
+            "page": "http://www.imdb.com/find?q=tt0101540"
+          }
+        }
+      ],
+      "section": [
+        "Kathleen Kennedy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cape Fear (1991 - executive producer)"
+    },
+    {
+      "body": "${link_0} (1989 - executive producer)",
+      "links": [
+        {
+          "body": "Back to the Future Part II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096874",
+            "page": "http://www.imdb.com/find?q=tt0096874"
+          }
+        }
+      ],
+      "section": [
+        "Kathleen Kennedy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Back to the Future Part II (1989 - executive producer)"
+    },
+    {
+      "body": "${link_0} (1986 - executive producer)",
+      "links": [
+        {
+          "body": "An American Tail",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090633",
+            "page": "http://www.imdb.com/find?q=tt0090633"
+          }
+        }
+      ],
+      "section": [
+        "Kathleen Kennedy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "An American Tail (1986 - executive producer)"
+    },
+    {
+      "body": "${link_0} (1982 - associate producer)",
+      "links": [
+        {
+          "body": "Poltergeist",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0084516",
+            "page": "http://www.imdb.com/find?q=tt0084516"
+          }
+        }
+      ],
+      "section": [
+        "Kathleen Kennedy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Poltergeist (1982 - associate producer)"
+    },
+    {
+      "body": "${link_0} (1982 - producer)",
+      "links": [
+        {
+          "body": "E.T. the Extra-Terrestrial",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0083866",
+            "page": "http://www.imdb.com/find?q=tt0083866"
+          }
+        }
+      ],
+      "section": [
+        "Kathleen Kennedy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "E.T. the Extra-Terrestrial (1982 - producer)"
     },
     {
       "body": "During the production of 1941, while working for screenwriter John Milius, Kennedy came to the attention of Steven Spielberg. Spielberg hired Kennedy as his secretary, kept on despite her terrible keyboard skills because of her good production ideas. Kennedy went on to co-produce Spielberg's project of Tobe Hooper's Poltergeist and received her first full producer's credit on the box-office smash E.T. the Extra-Terrestrial. Following her work on the Indiana Jones films, especially Raiders of the Lost Ark, she rose to become one of Hollywood's leading producers.",
       "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Biographical information",
+        "Career"
+      ],
       "text": "During the production of 1941, while working for screenwriter John Milius, Kennedy came to the attention of Steven Spielberg. Spielberg hired Kennedy as his secretary, kept on despite her terrible keyboard skills because of her good production ideas. Kennedy went on to co-produce Spielberg's project of Tobe Hooper's Poltergeist and received her first full producer's credit on the box-office smash E.T. the Extra-Terrestrial. Following her work on the Indiana Jones films, especially Raiders of the Lost Ark, she rose to become one of Hollywood's leading producers."
     },
     {
       "body": "In 1981 she helped co-found and run the hugely successful production company Amblin Entertainment, taking over a large portion of the running of Amblin and serving as president until 1992, when she decided to form her own film company with Marshall. After 20 years, in May 2012, she stepped down, leaving Marshall as sole principal of Kennedy/Marshall. In June 2012, Kennedy was named co-chair of Lucasfilm Ltd. alongside George Lucas, whose role will eventually be assumed by Kennedy. With the sale of Lucasfilm to The Walt Disney Company, she was promoted to president.",
       "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 1981 she helped co-found and run the hugely successful production company Amblin Entertainment, taking over a large portion of the running of Amblin and serving as president until 1992, when she decided to form her own film company with Marshall. After 20 years, in May 2012, she stepped down, leaving Marshall as sole principal of Kennedy/Marshall. In June 2012, Kennedy was named co-chair of Lucasfilm Ltd. alongside George Lucas, whose role will eventually be assumed by Kennedy. With the sale of Lucasfilm to The Walt Disney Company, she was promoted to president."
     },
     {
       "body": "Kennedy is on the Board of Governors of the Academy of Motion Picture Arts and Sciences (Producers Branch). For the 2001\u20132 period, she was Co-President (with Tim Gibbons) of the Producers Guild of America.",
       "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Kennedy is on the Board of Governors of the Academy of Motion Picture Arts and Sciences (Producers Branch). For the 2001\u20132 period, she was Co-President (with Tim Gibbons) of the Producers Guild of America."
     },
     {
       "body": "Kennedy was born to Dione Marie \"Dede\", a one-time theater actress and Donald R. Kennedy, a judge and attorney. She graduated from Shasta High School in 1972 and later continued her education at San Diego State University, where she majored in telecommunications and film. In her final year, Kennedy got a job at a local TV station, going through various jobs including video editor and floor director. In 1987, she married fellow film producer Frank Marshall, with whom she has two children.",
       "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Kennedy was born to Dione Marie \"Dede\", a one-time theater actress and Donald R. Kennedy, a judge and attorney. She graduated from Shasta High School in 1972 and later continued her education at San Diego State University, where she majored in telecommunications and film. In her final year, Kennedy got a job at a local TV station, going through various jobs including video editor and floor director. In 1987, she married fellow film producer Frank Marshall, with whom she has two children."
+    },
+    {
+      "body": "2013: Won an AFI Award for Lincoln (Movie of the Year)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2013: Won an AFI Award for Lincoln (Movie of the Year)"
+    },
+    {
+      "body": "2013: Won a Christopher Award for Lincoln (Feature Films)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2013: Won a Christopher Award for Lincoln (Feature Films)"
+    },
+    {
+      "body": "2012: Won an AFI Award for War Horse (Movie of the Year)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2012: Won an AFI Award for War Horse (Movie of the Year)"
+    },
+    {
+      "body": "2012: Won a Christopher Award for War Horse (Feature Films)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2012: Won a Christopher Award for War Horse (Feature Films)"
+    },
+    {
+      "body": "2012: Won a PGA Award for The Adventures of Tintin (Outstanding Producer of Animated Theatrical Motion Pictures)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2012: Won a PGA Award for The Adventures of Tintin (Outstanding Producer of Animated Theatrical Motion Pictures)"
+    },
+    {
+      "body": "2009: Won an AFI Award for The Curious Case of Benjamin Button (Movie of the Year)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2009: Won an AFI Award for The Curious Case of Benjamin Button (Movie of the Year)"
+    },
+    {
+      "body": "2009: Won a Visual Effects Society Lifetime Achievement Award",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2009: Won a Visual Effects Society Lifetime Achievement Award"
+    },
+    {
+      "body": "2008: Won an AFI Award for Le Scaphandre et le Papillon (Movie of the Year)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2008: Won an AFI Award for Le Scaphandre et le Papillon (Movie of the Year)"
+    },
+    {
+      "body": "2008: Won a Christopher Award for Le Scaphandre et le Papillon (Feature Films)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2008: Won a Christopher Award for Le Scaphandre et le Papillon (Feature Films)"
+    },
+    {
+      "body": "2006: Won an AFI Award for Munich (Movie of the Year)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2006: Won an AFI Award for Munich (Movie of the Year)"
+    },
+    {
+      "body": "2008: Won a PGA Lifetime Achievement Award in Motion Pictures",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2008: Won a PGA Lifetime Achievement Award in Motion Pictures"
+    },
+    {
+      "body": "2003: Won an American Cinema Editors Golden Eddie Award (Filmmaker of the Year)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2003: Won an American Cinema Editors Golden Eddie Award (Filmmaker of the Year)"
+    },
+    {
+      "body": "2003: Won a National Board of Review Producer's Award",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2003: Won a National Board of Review Producer's Award"
+    },
+    {
+      "body": "2000: Inducted into the PGA Hall of Fame for E.T. the Extra-Terrestrial (Motion Pictures)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "2000: Inducted into the PGA Hall of Fame for E.T. the Extra-Terrestrial (Motion Pictures)"
+    },
+    {
+      "body": "1997: Won a George Pal Memorial Award",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "1997: Won a George Pal Memorial Award"
+    },
+    {
+      "body": "1996: Won a Society of Camera Operators Governor's Award",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "1996: Won a Society of Camera Operators Governor's Award"
+    },
+    {
+      "body": "1995: Won a Crystal Award (Women in Film)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "1995: Won a Crystal Award (Women in Film)"
+    },
+    {
+      "body": "1990: Won a Wise Owl Award for Dad (Television and Theatrical Film Fiction)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "1990: Won a Wise Owl Award for Dad (Television and Theatrical Film Fiction)"
+    },
+    {
+      "body": "1987: Won a Christopher Award for Empire of the Sun (Best Picture)",
+      "links": [],
+      "section": [
+        "Kathleen Kennedy",
+        "Awards"
+      ],
+      "text": "1987: Won a Christopher Award for Empire of the Sun (Best Picture)"
     }
   ],
   "source": {

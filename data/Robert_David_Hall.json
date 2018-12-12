@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Deal of the Century (1983)",
+          "body": "${link_0} (1983)",
           "extra": "(1983)",
           "extra_text": "(1983)",
-          "links": [],
+          "links": [
+            {
+              "body": "Deal of the Century",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0085412",
+                "page": "http://www.imdb.com/find?q=tt0085412"
+              }
+            }
+          ],
           "text": "Deal of the Century (1983)",
-          "value": "Deal of the Century",
+          "value": "${link_0}",
           "value_text": "Deal of the Century"
         }
       ]
@@ -55,48 +68,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0004371",
+                "page": "http://www.imdb.com/find?q=nm0004371"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Robert_David_Hall",
+                "page": "http://en.wikipedia.org/wiki/Robert_David_Hall"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Robert-David-Hall/104049309632305",
+                "page": "https://www.facebook.com/pages/Robert-David-Hall/104049309632305"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/111752660267799850618/posts",
+                "page": "https://plus.google.com/111752660267799850618/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/RobertDavidHal",
+                "page": "https://twitter.com/RobertDavidHal"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -104,19 +167,440 @@
   ],
   "paragraphs": [
     {
+      "body": "216. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "216. \"Appa's Lost Days\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10: Alien Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1192169",
+            "page": "http://www.imdb.com/find?q=tt1192169"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10: Alien Force"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CSI: Crime Scene Investigation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247082",
+            "page": "http://www.imdb.com/find?q=tt0247082"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CSI: Crime Scene Investigation"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Family Law",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200337",
+            "page": "http://www.imdb.com/find?q=tt0200337"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Family Law"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Batman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398417",
+            "page": "http://www.imdb.com/find?q=tt0398417"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Batman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Littles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0320055",
+            "page": "http://www.imdb.com/find?q=tt0320055"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Littles"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Practice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118437",
+            "page": "http://www.imdb.com/find?q=tt0118437"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Practice"
+    },
+    {
+      "body": "${link_0} (2008; short)",
+      "links": [
+        {
+          "body": "The Roymann Closure",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1341778",
+            "page": "http://www.imdb.com/find?q=tt1341778"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Roymann Closure (2008; short)"
+    },
+    {
+      "body": "${link_0} (2007; short)",
+      "links": [
+        {
+          "body": "Legs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1034040",
+            "page": "http://www.imdb.com/find?q=tt1034040"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Legs (2007; short)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "The Gene Generation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0438052",
+            "page": "http://www.imdb.com/find?q=tt0438052"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Gene Generation (2007)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "The Eavesdropper",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0345777",
+            "page": "http://www.imdb.com/find?q=tt0345777"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Eavesdropper (2004)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "My Father's House",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0408019",
+            "page": "http://www.imdb.com/find?q=tt0408019"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "My Father's House (2002)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "The Negotiator",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120768",
+            "page": "http://www.imdb.com/find?q=tt0120768"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Negotiator (1998)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Starship Troopers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120201",
+            "page": "http://www.imdb.com/find?q=tt0120201"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Starship Troopers (1997)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "Dream Lover",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0109665",
+            "page": "http://www.imdb.com/find?q=tt0109665"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dream Lover (1993)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "CSI: 3 Dimensions of Murder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0804454",
+            "page": "http://www.imdb.com/find?q=tt0804454"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "CSI: 3 Dimensions of Murder (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "CSI: Crime Scene Investigation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0361424",
+            "page": "http://www.imdb.com/find?q=tt0361424"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "CSI: Crime Scene Investigation (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "CSI: Crime Scene Investigation - Deadly Intent",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1510910",
+            "page": "http://www.imdb.com/find?q=tt1510910"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "CSI: Crime Scene Investigation - Deadly Intent (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "CSI: Fatal Conspiracy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1785322",
+            "page": "http://www.imdb.com/find?q=tt1785322"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "CSI: Fatal Conspiracy (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "ER: The Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0486106",
+            "page": "http://www.imdb.com/find?q=tt0486106"
+          }
+        }
+      ],
+      "section": [
+        "Robert David Hall",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "ER: The Game (video game)"
+    },
+    {
       "body": "Born in East Orange, New Jersey, Hall attended Tustin High School in California and went on to graduate from UCLA in 1971 with a degree in English Literature. He is a former professional musician and accomplished guitarist and is also proficient on piano and mandolin. For several years he was a high profile radio DJ in Los Angeles and has also done extensive voice work on television commercials and cartoons.",
       "links": [],
+      "section": [
+        "Robert David Hall",
+        "Biographical information"
+      ],
       "text": "Born in East Orange, New Jersey, Hall attended Tustin High School in California and went on to graduate from UCLA in 1971 with a degree in English Literature. He is a former professional musician and accomplished guitarist and is also proficient on piano and mandolin. For several years he was a high profile radio DJ in Los Angeles and has also done extensive voice work on television commercials and cartoons."
     },
     {
       "body": "In 1978, Hall had to have both of his legs amputated as a result of an accident in which an 18-wheeler truck crushed his car. The accident also caused the gasoline tank of the car to explode, causing burns over 65% of his body. He now comfortably uses prosthetic limbs, allowing for personal mobility. Several of his characters, including his CSI character, have openly shared this disability. He is a prominent advocate for disabled Americans.",
       "links": [],
+      "section": [
+        "Robert David Hall",
+        "Biographical information"
+      ],
       "text": "In 1978, Hall had to have both of his legs amputated as a result of an accident in which an 18-wheeler truck crushed his car. The accident also caused the gasoline tank of the car to explode, causing burns over 65% of his body. He now comfortably uses prosthetic limbs, allowing for personal mobility. Several of his characters, including his CSI character, have openly shared this disability. He is a prominent advocate for disabled Americans."
     },
     {
       "body": "Hall was married to Susan Petroni from 1969 until their divorce in 1974 and Connie Cole from 1979 until their divorce in 1987. His son, Andrew, was born of his second marriage. Hall married his third and current wife, Judy Sterns, in 1999.",
       "links": [],
+      "section": [
+        "Robert David Hall",
+        "Biographical information"
+      ],
       "text": "Hall was married to Susan Petroni from 1969 until their divorce in 1974 and Connie Cole from 1979 until their divorce in 1987. His son, Andrew, was born of his second marriage. Hall married his third and current wife, Judy Sterns, in 1999."
+    },
+    {
+      "body": "2005: Won a Screen Actors' Guild Award for CSI: Crime Scene Investigation (Outstanding Performance by an Ensemble in a Drama Series)",
+      "links": [],
+      "section": [
+        "Robert David Hall",
+        "Awards"
+      ],
+      "text": "2005: Won a Screen Actors' Guild Award for CSI: Crime Scene Investigation (Outstanding Performance by an Ensemble in a Drama Series)"
     }
   ],
   "source": {

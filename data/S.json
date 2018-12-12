@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Jem (1985)",
+          "body": "${link_0} (1985)",
           "extra": "(1985)",
           "extra_text": "(1985)",
-          "links": [],
+          "links": [
+            {
+              "body": "Jem",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0090461",
+                "page": "http://www.imdb.com/find?q=tt0090461"
+              }
+            }
+          ],
           "text": "Jem (1985)",
-          "value": "Jem",
+          "value": "${link_0}",
           "value_text": "Jem"
         }
       ]
@@ -69,27 +82,268 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0120180",
+                "page": "http://www.imdb.com/find?q=nm0120180"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/S._Scott_Bullock",
+                "page": "http://en.wikipedia.org/wiki/S._Scott_Bullock"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "S. Scott Bullock",
+        "The Legend of Korra credits",
+        "Two Toed Ping"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Attack of the Killer Tomatoes!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0080391",
+            "page": "http://www.imdb.com/find?q=tt0080391"
+          }
+        }
+      ],
+      "section": [
+        "S. Scott Bullock",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Attack of the Killer Tomatoes!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Danny Phantom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0366005",
+            "page": "http://www.imdb.com/find?q=tt0366005"
+          }
+        }
+      ],
+      "section": [
+        "S. Scott Bullock",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Danny Phantom"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Zazoo U",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0218797",
+            "page": "http://www.imdb.com/find?q=tt0218797"
+          }
+        }
+      ],
+      "section": [
+        "S. Scott Bullock",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Zazoo U"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Barnyard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0414853",
+            "page": "http://www.imdb.com/find?q=tt0414853"
+          }
+        }
+      ],
+      "section": [
+        "S. Scott Bullock",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Barnyard (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Ant Bully",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0429589",
+            "page": "http://www.imdb.com/find?q=tt0429589"
+          }
+        }
+      ],
+      "section": [
+        "S. Scott Bullock",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Ant Bully (2006)"
+    },
+    {
+      "body": "${link_0} (1991)",
+      "links": [
+        {
+          "body": "Life Stinks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0102303",
+            "page": "http://www.imdb.com/find?q=tt0102303"
+          }
+        }
+      ],
+      "section": [
+        "S. Scott Bullock",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Life Stinks (1991)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kid Icarus: Uprising",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1852820",
+            "page": "http://www.imdb.com/find?q=tt1852820"
+          }
+        }
+      ],
+      "section": [
+        "S. Scott Bullock",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kid Icarus: Uprising (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Nicktoons: Globs of Doom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1347360",
+            "page": "http://www.imdb.com/find?q=tt1347360"
+          }
+        }
+      ],
+      "section": [
+        "S. Scott Bullock",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Nicktoons: Globs of Doom (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Incredible Hulk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1221815",
+            "page": "http://www.imdb.com/find?q=tt1221815"
+          }
+        }
+      ],
+      "section": [
+        "S. Scott Bullock",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Incredible Hulk (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The SpongeBob SquarePants Movie Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0434356",
+            "page": "http://www.imdb.com/find?q=tt0434356"
+          }
+        }
+      ],
+      "section": [
+        "S. Scott Bullock",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The SpongeBob SquarePants Movie Game (video game)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/S._Scott_Bullock",
     "file": "avatar.wikia.com/wiki/S.html",

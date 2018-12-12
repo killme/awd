@@ -3,7 +3,8 @@
     {
       "body": "Community",
       "target": {
-        "href": "Category_Community",
+        "external": false,
+        "href": "/wiki/Category_Community",
         "page": "Category_Community"
       }
     }
@@ -17,7 +18,8 @@
           "body": "Bureaucrats",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar_Wiki_Bureaucrats",
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_Bureaucrats",
             "page": "Avatar_Wiki_Bureaucrats"
           }
         },
@@ -25,17 +27,54 @@
           "body": "Avatar Wiki",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar_Wiki_About",
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_About",
             "page": "Avatar_Wiki_About"
           }
         }
       ],
+      "section": [
+        "Category:Bureaucrats"
+      ],
       "text": "Bureaucrats of Avatar Wiki. Feel free to ask one for help."
     },
     {
-      "body": "All items (2)",
-      "links": [],
-      "text": "All items (2)"
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "User:Lady Lostris",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Lady_Lostris",
+            "page": "User:Lady_Lostris"
+          }
+        }
+      ],
+      "section": [
+        "Category:Bureaucrats",
+        "L"
+      ],
+      "text": "User:Lady Lostris"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "User:The 888th Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:The_888th_Avatar",
+            "page": "User:The_888th_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Category:Bureaucrats",
+        "T"
+      ],
+      "text": "User:The 888th Avatar"
     }
   ],
   "source": {

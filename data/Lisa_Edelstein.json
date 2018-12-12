@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "We Won't Go Back (1989; documentary)",
+          "body": "${link_0} (1989; documentary)",
           "extra": "(1989; documentary)",
           "extra_text": "(1989; documentary)",
-          "links": [],
+          "links": [
+            {
+              "body": "We Won't Go Back",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1961658",
+                "page": "http://www.imdb.com/find?q=tt1961658"
+              }
+            }
+          ],
           "text": "We Won't Go Back (1989; documentary)",
-          "value": "We Won't Go Back",
+          "value": "${link_0}",
           "value_text": "We Won't Go Back"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0249046",
+                "page": "http://www.imdb.com/find?q=nm0249046"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Lisa_Edelstein",
+                "page": "http://en.wikipedia.org/wiki/Lisa_Edelstein"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Lisa-Edelstein/109825122370519",
+                "page": "https://www.facebook.com/pages/Lisa-Edelstein/109825122370519"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.twitter.com/LisaEdelstein",
+                "page": "https://www.twitter.com/LisaEdelstein"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,14 +148,300 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Almost Perfect",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111877",
+            "page": "http://www.imdb.com/find?q=tt0111877"
+          }
+        }
+      ],
+      "section": [
+        "Lisa Edelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Almost Perfect"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "American Dad!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397306",
+            "page": "http://www.imdb.com/find?q=tt0397306"
+          }
+        }
+      ],
+      "section": [
+        "Lisa Edelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Dad!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Castle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1219024",
+            "page": "http://www.imdb.com/find?q=tt1219024"
+          }
+        }
+      ],
+      "section": [
+        "Lisa Edelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Castle"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Entertainment Tonight",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0081857",
+            "page": "http://www.imdb.com/find?q=tt0081857"
+          }
+        }
+      ],
+      "section": [
+        "Lisa Edelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Entertainment Tonight"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Felicity",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0134247",
+            "page": "http://www.imdb.com/find?q=tt0134247"
+          }
+        }
+      ],
+      "section": [
+        "Lisa Edelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Felicity"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "House, M.D.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0412142",
+            "page": "http://www.imdb.com/find?q=tt0412142"
+          }
+        }
+      ],
+      "section": [
+        "Lisa Edelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "House, M.D."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Leap of Faith",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0291628",
+            "page": "http://www.imdb.com/find?q=tt0291628"
+          }
+        }
+      ],
+      "section": [
+        "Lisa Edelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Leap of Faith"
+    },
+    {
+      "body": "${link_0} (2013; short)",
+      "links": [
+        {
+          "body": "Three Hours Between Planes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2874534",
+            "page": "http://www.imdb.com/find?q=tt2874534"
+          }
+        }
+      ],
+      "section": [
+        "Lisa Edelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Three Hours Between Planes (2013; short)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Grilled",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0409043",
+            "page": "http://www.imdb.com/find?q=tt0409043"
+          }
+        }
+      ],
+      "section": [
+        "Lisa Edelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Grilled (2006)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Daddy Day Care",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0317303",
+            "page": "http://www.imdb.com/find?q=tt0317303"
+          }
+        }
+      ],
+      "section": [
+        "Lisa Edelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Daddy Day Care (2003)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Keeping the Faith",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0171433",
+            "page": "http://www.imdb.com/find?q=tt0171433"
+          }
+        }
+      ],
+      "section": [
+        "Lisa Edelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Keeping the Faith (2000)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Susan's Plan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0145505",
+            "page": "http://www.imdb.com/find?q=tt0145505"
+          }
+        }
+      ],
+      "section": [
+        "Lisa Edelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Susan's Plan (1998)"
+    },
+    {
+      "body": "${link_0} (1991)",
+      "links": [
+        {
+          "body": "The Doors",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101761",
+            "page": "http://www.imdb.com/find?q=tt0101761"
+          }
+        }
+      ],
+      "section": [
+        "Lisa Edelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Doors (1991)"
+    },
+    {
       "body": "Edelstein began her professional acting career while studying theater at N.Y.U.'s Tisch School of the Arts. After performing in a wide range of productions on and off Broadway, she authored and performed the AIDS-related musical Positive Me at Ellen Stuart's La Mama, in Manhattan. It was one one of the earliest AIDS-related theater productions.",
       "links": [],
+      "section": [
+        "Lisa Edelstein",
+        "Biographical information"
+      ],
       "text": "Edelstein began her professional acting career while studying theater at N.Y.U.'s Tisch School of the Arts. After performing in a wide range of productions on and off Broadway, she authored and performed the AIDS-related musical Positive Me at Ellen Stuart's La Mama, in Manhattan. It was one one of the earliest AIDS-related theater productions."
     },
     {
       "body": "Edelstein gained her first television experience in 1990 as a host of the cable series Awake on the Wild Side and has since taken on a wide variety of roles, including a call-girl girlfriend on The West Wing, David Conrad's sister on Relativity, the transsexual boyfriend of James Le Gros in Ally McBeal, and an Orthodox Jewish woman in Family Law.",
       "links": [],
+      "section": [
+        "Lisa Edelstein",
+        "Biographical information"
+      ],
       "text": "Edelstein gained her first television experience in 1990 as a host of the cable series Awake on the Wild Side and has since taken on a wide variety of roles, including a call-girl girlfriend on The West Wing, David Conrad's sister on Relativity, the transsexual boyfriend of James Le Gros in Ally McBeal, and an Orthodox Jewish woman in Family Law."
+    },
+    {
+      "body": "2011: Won a People's Choice Award (Favorite TV Drama Actress)",
+      "links": [],
+      "section": [
+        "Lisa Edelstein",
+        "Awards"
+      ],
+      "text": "2011: Won a People's Choice Award (Favorite TV Drama Actress)"
+    },
+    {
+      "body": "2005: Won a Satellite Award for House, M.D. (Outstanding Actress in a Supporting Role in a Series, Mini-Series or Motion Picture Made for Television)",
+      "links": [],
+      "section": [
+        "Lisa Edelstein",
+        "Awards"
+      ],
+      "text": "2005: Won a Satellite Award for House, M.D. (Outstanding Actress in a Supporting Role in a Series, Mini-Series or Motion Picture Made for Television)"
     }
   ],
   "source": {

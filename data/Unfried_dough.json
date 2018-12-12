@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Cuisine",
       "target": {
-        "href": "Category_Cuisine",
+        "external": false,
+        "href": "/wiki/Category_Cuisine",
         "page": "Category_Cuisine"
       }
     },
     {
       "body": "Earth Kingdom",
       "target": {
-        "href": "Category_Earth_Kingdom",
+        "external": false,
+        "href": "/wiki/Category_Earth_Kingdom",
         "page": "Category_Earth_Kingdom"
       }
     },
     {
       "body": "Foods",
       "target": {
-        "href": "Category_Foods",
+        "external": false,
+        "href": "/wiki/Category_Foods",
         "page": "Category_Foods"
       }
     }
@@ -32,35 +36,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "Unfried dough is served on ${link_0} in ${link_1}.",
-      "links": [
-        {
-          "body": "Avatar Day",
-          "key": "${link_0}",
-          "target": {
-            "href": "Avatar_Day_festival",
-            "page": "Avatar_Day_festival"
-          }
-        },
-        {
-          "body": "Chin Village",
-          "key": "${link_1}",
-          "target": {
-            "href": "Chin_Village",
-            "page": "Chin_Village"
-          }
-        }
-      ],
-      "text": "Unfried dough is served on Avatar Day in Chin Village."
-    },
-    {
       "body": "Unfried dough is a local ${link_0} ${link_1} of ${link_2}. Human-shaped with an arrow pointing downward on its head, unfried dough is modeled in the likeness of ${link_3} ${link_4}, honoring how he saved the citizens of Chin Village from capture by the ${link_5}.",
       "links": [
         {
           "body": "Earth Kingdom",
           "key": "${link_0}",
           "target": {
-            "href": "Earth_Kingdom",
+            "external": false,
+            "href": "/wiki/Earth_Kingdom",
             "page": "Earth_Kingdom"
           }
         },
@@ -68,7 +51,8 @@
           "body": "dish",
           "key": "${link_1}",
           "target": {
-            "href": "Cuisine_in_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Cuisine_in_the_World_of_Avatar",
             "page": "Cuisine_in_the_World_of_Avatar"
           }
         },
@@ -76,7 +60,8 @@
           "body": "Chin Village",
           "key": "${link_2}",
           "target": {
-            "href": "Chin_Village",
+            "external": false,
+            "href": "/wiki/Chin_Village",
             "page": "Chin_Village"
           }
         },
@@ -84,7 +69,8 @@
           "body": "Avatar",
           "key": "${link_3}",
           "target": {
-            "href": "Avatar",
+            "external": false,
+            "href": "/wiki/Avatar",
             "page": "Avatar"
           }
         },
@@ -92,7 +78,8 @@
           "body": "Aang",
           "key": "${link_4}",
           "target": {
-            "href": "Aang",
+            "external": false,
+            "href": "/wiki/Aang",
             "page": "Aang"
           }
         },
@@ -100,10 +87,14 @@
           "body": "Fire Nation",
           "key": "${link_5}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         }
+      ],
+      "section": [
+        "Unfried dough"
       ],
       "text": "Unfried dough is a local Earth Kingdom dish of Chin Village. Human-shaped with an arrow pointing downward on its head, unfried dough is modeled in the likeness of Avatar Aang, honoring how he saved the citizens of Chin Village from capture by the Fire Nation."
     },
@@ -114,7 +105,8 @@
           "body": "Team Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Team_Avatar",
+            "external": false,
+            "href": "/wiki/Team_Avatar",
             "page": "Team_Avatar"
           }
         },
@@ -122,7 +114,8 @@
           "body": "Kyoshi",
           "key": "${link_1}",
           "target": {
-            "href": "Kyoshi",
+            "external": false,
+            "href": "/wiki/Kyoshi",
             "page": "Kyoshi"
           }
         },
@@ -130,7 +123,8 @@
           "body": "BG",
           "key": "${link_2}",
           "target": {
-            "href": "History_of_the_World_of_Avatar#Dates",
+            "external": false,
+            "href": "/wiki/History_of_the_World_of_Avatar#Dates",
             "page": "History_of_the_World_of_Avatar"
           }
         },
@@ -138,7 +132,8 @@
           "body": "Rough Rhinos",
           "key": "${link_3}",
           "target": {
-            "href": "Rough_Rhinos",
+            "external": false,
+            "href": "/wiki/Rough_Rhinos",
             "page": "Rough_Rhinos"
           }
         },
@@ -146,7 +141,8 @@
           "body": "Avatar Day",
           "key": "${link_4}",
           "target": {
-            "href": "Avatar_Day_festival",
+            "external": false,
+            "href": "/wiki/Avatar_Day_festival",
             "page": "Avatar_Day_festival"
           }
         },
@@ -154,12 +150,36 @@
           "body": "Chin",
           "key": "${link_5}",
           "target": {
-            "href": "Chin",
+            "external": false,
+            "href": "/wiki/Chin",
             "page": "Chin"
           }
         }
       ],
+      "section": [
+        "Unfried dough",
+        "History"
+      ],
       "text": "On Team Avatar's visit to Chin Village, the townspeople put Aang on trial for actions his past life, Kyoshi, had committed in 270 BG. However, when Aang saved the residents of the village from invasion by the Rough Rhinos, the townspeople exonerated him of all charges and rededicated Avatar Day, the day that previously marked how the Avatar had killed Chin the Conqueror, to the day honoring the Avatar who saved their lives. In commemoration of this occasion, unfried dough was prepared, alluding to how Aang was almost boiled in oil (fried) for Kyoshi's decision."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cuisine in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Cuisine_in_the_World_of_Avatar",
+            "page": "Cuisine_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Unfried dough",
+        "See also"
+      ],
+      "text": "Cuisine in the World of Avatar"
     }
   ],
   "source": {

@@ -3,35 +3,40 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Groups",
       "target": {
-        "href": "Category_Groups",
+        "external": false,
+        "href": "/wiki/Category_Groups",
         "page": "Category_Groups"
       }
     },
     {
       "body": "Minor groups",
       "target": {
-        "href": "Category_Minor_groups",
+        "external": false,
+        "href": "/wiki/Category_Minor_groups",
         "page": "Category_Minor_groups"
       }
     },
     {
       "body": "Organizations",
       "target": {
-        "href": "Category_Organizations",
+        "external": false,
+        "href": "/wiki/Category_Organizations",
         "page": "Category_Organizations"
       }
     },
     {
       "body": "Legend of Korra",
       "target": {
-        "href": "Category_Legend_of_Korra",
+        "external": false,
+        "href": "/wiki/Category_Legend_of_Korra",
         "page": "Category_Legend_of_Korra"
       }
     }
@@ -49,7 +54,8 @@
               "body": "Unalaq",
               "key": "${link_0}",
               "target": {
-                "href": "Unalaq",
+                "external": false,
+                "href": "/wiki/Unalaq",
                 "page": "Unalaq"
               }
             }
@@ -86,7 +92,8 @@
               "body": "Barbarian invasion",
               "key": "${link_0}",
               "target": {
-                "href": "Barbarian_invasion",
+                "external": false,
+                "href": "/wiki/Barbarian_invasion",
                 "page": "Barbarian_invasion"
               }
             }
@@ -123,7 +130,8 @@
               "body": "The Southern Lights",
               "key": "${link_0}",
               "target": {
-                "href": "The_Southern_Lights",
+                "external": false,
+                "href": "/wiki/The_Southern_Lights",
                 "page": "The_Southern_Lights"
               }
             }
@@ -143,7 +151,8 @@
           "body": "invaded",
           "key": "${link_0}",
           "target": {
-            "href": "Barbarian_invasion",
+            "external": false,
+            "href": "/wiki/Barbarian_invasion",
             "page": "Barbarian_invasion"
           }
         },
@@ -151,7 +160,8 @@
           "body": "Northern Water Tribe",
           "key": "${link_1}",
           "target": {
-            "href": "Northern_Water_Tribe",
+            "external": false,
+            "href": "/wiki/Northern_Water_Tribe",
             "page": "Northern_Water_Tribe"
           }
         },
@@ -159,7 +169,8 @@
           "body": "AG",
           "key": "${link_2}",
           "target": {
-            "href": "History_of_the_World_of_Avatar#Dates",
+            "external": false,
+            "href": "/wiki/History_of_the_World_of_Avatar#Dates",
             "page": "History_of_the_World_of_Avatar"
           }
         },
@@ -167,10 +178,14 @@
           "body": "Tonraq",
           "key": "${link_3}",
           "target": {
-            "href": "Tonraq",
+            "external": false,
+            "href": "/wiki/Tonraq",
             "page": "Tonraq"
           }
         }
+      ],
+      "section": [
+        "Barbarians"
       ],
       "text": "The barbarians were an organized fighting force of marauders that invaded the Northern Water Tribe in 151 AG. Although they proved to be a powerful threat, the barbarians were eventually thwarted by Tonraq and his soldiers."
     },
@@ -181,7 +196,8 @@
           "body": "Unalaq",
           "key": "${link_0}",
           "target": {
-            "href": "Unalaq",
+            "external": false,
+            "href": "/wiki/Unalaq",
             "page": "Unalaq"
           }
         },
@@ -189,7 +205,8 @@
           "body": "chiefdom",
           "key": "${link_1}",
           "target": {
-            "href": "Tribal_chief",
+            "external": false,
+            "href": "/wiki/Tribal_chief",
             "page": "Tribal_chief"
           }
         },
@@ -197,34 +214,17 @@
           "body": "North Pole",
           "key": "${link_2}",
           "target": {
-            "href": "North_Pole",
+            "external": false,
+            "href": "/wiki/North_Pole",
             "page": "North_Pole"
           }
         }
       ],
-      "text": "The barbarians were hired by Unalaq to attack the Northern Water Tribe in an attempt to draw Tonraq into a situation that would cost him the position of heir to the chiefdom. Unalaq informed them that in the event they needed a safe hideout, they could escape to the sacred spirit forest at the North Pole."
-    },
-    {
-      "body": "After their failed ${link_0}, the surviving barbarians were captured by the ${link_1}.",
-      "links": [
-        {
-          "body": "invasion",
-          "key": "${link_0}",
-          "target": {
-            "href": "Barbarian_invasion",
-            "page": "Barbarian_invasion"
-          }
-        },
-        {
-          "body": "Water Tribe military",
-          "key": "${link_1}",
-          "target": {
-            "href": "Military_of_the_Water_Tribe",
-            "page": "Military_of_the_Water_Tribe"
-          }
-        }
+      "section": [
+        "Barbarians",
+        "History"
       ],
-      "text": "After their failed invasion, the surviving barbarians were captured by the Water Tribe military."
+      "text": "The barbarians were hired by Unalaq to attack the Northern Water Tribe in an attempt to draw Tonraq into a situation that would cost him the position of heir to the chiefdom. Unalaq informed them that in the event they needed a safe hideout, they could escape to the sacred spirit forest at the North Pole."
     },
     {
       "body": "The barbarians raided the Northern Water Tribe in 151 AG while General Tonraq and his troops were absent. Despite having achieved slight success initially, the barbarians eventually found themselves overwhelmed when Tonraq commanded a counterattack with his troops. The remaining barbarians promptly retreated into the harsh tundra of the North Pole, but were pursued by Tonraq's men. Eventually, the raiders gathered at a sacred forest under the belief that they would not be attacked on sacred grounds, as Unalaq had told them. However, they had been betrayed, as Unalaq knew that his brother would attack them nonetheless. Tonraq commanded his men to attack with such ferocity that the entire forest was destroyed. All surviving barbarians were captured by the ${link_0}.",
@@ -233,12 +233,90 @@
           "body": "Water Tribe military",
           "key": "${link_0}",
           "target": {
-            "href": "Military_of_the_Water_Tribe",
+            "external": false,
+            "href": "/wiki/Military_of_the_Water_Tribe",
             "page": "Military_of_the_Water_Tribe"
           }
         }
       ],
+      "section": [
+        "Barbarians",
+        "History"
+      ],
       "text": "The barbarians raided the Northern Water Tribe in 151 AG while General Tonraq and his troops were absent. Despite having achieved slight success initially, the barbarians eventually found themselves overwhelmed when Tonraq commanded a counterattack with his troops. The remaining barbarians promptly retreated into the harsh tundra of the North Pole, but were pursued by Tonraq's men. Eventually, the raiders gathered at a sacred forest under the belief that they would not be attacked on sacred grounds, as Unalaq had told them. However, they had been betrayed, as Unalaq knew that his brother would attack them nonetheless. Tonraq commanded his men to attack with such ferocity that the entire forest was destroyed. All surviving barbarians were captured by the Water Tribe military."
+    },
+    {
+      "body": "The barbarians wore similar armor to those used by the ${link_0} ${link_1} in 100 AG.\n They also resemble the ${link_2} who, coincidentally, were also involved in an attempted ${link_3} of the Northern Water Tribe during the ${link_4}.",
+      "links": [
+        {
+          "body": "Fire Nation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Fire_Nation",
+            "page": "Fire_Nation"
+          }
+        },
+        {
+          "body": "military",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Military_of_the_Fire_Nation",
+            "page": "Military_of_the_Fire_Nation"
+          }
+        },
+        {
+          "body": "trebuchet operators",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Trebuchet_operators",
+            "page": "Trebuchet_operators"
+          }
+        },
+        {
+          "body": "invasion",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Siege_of_the_North",
+            "page": "Siege_of_the_North"
+          }
+        },
+        {
+          "body": "Hundred Year War",
+          "key": "${link_4}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Hundred_Year_War",
+            "page": "Hundred_Year_War"
+          }
+        }
+      ],
+      "section": [
+        "Barbarians",
+        "Trivia"
+      ],
+      "text": "The barbarians wore similar armor to those used by the Fire Nation military in 100 AG.\n They also resemble the trebuchet operators who, coincidentally, were also involved in an attempted invasion of the Northern Water Tribe during the Hundred Year War."
+    },
+    {
+      "body": "They also resemble the ${link_2} who, coincidentally, were also involved in an attempted ${link_3} of the Northern Water Tribe during the ${link_4}.",
+      "links": [],
+      "section": [
+        "Barbarians",
+        "Trivia"
+      ],
+      "text": "They also resemble the ${link_2} who, coincidentally, were also involved in an attempted ${link_3} of the Northern Water Tribe during the ${link_4}."
+    },
+    {
+      "body": "Apart from the Fire Nation military, the barbarians are the only known individuals to breach the extensive defenses of the Northern Water Tribe.",
+      "links": [],
+      "section": [
+        "Barbarians",
+        "Trivia"
+      ],
+      "text": "Apart from the Fire Nation military, the barbarians are the only known individuals to breach the extensive defenses of the Northern Water Tribe."
     }
   ],
   "source": {

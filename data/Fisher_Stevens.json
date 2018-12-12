@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "One Life to Live (1968)",
+          "body": "${link_0} (1968)",
           "extra": "(1968)",
           "extra_text": "(1968)",
-          "links": [],
+          "links": [
+            {
+              "body": "One Life to Live",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0062595",
+                "page": "http://www.imdb.com/find?q=tt0062595"
+              }
+            }
+          ],
           "text": "One Life to Live (1968)",
-          "value": "One Life to Live",
+          "value": "${link_0}",
           "value_text": "One Life to Live"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0001770",
+                "page": "http://www.imdb.com/find?q=nm0001770"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Fisher_Stevens",
+                "page": "http://en.wikipedia.org/wiki/Fisher_Stevens"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Fisher-Stevens/32951408190",
+                "page": "https://www.facebook.com/pages/Fisher-Stevens/32951408190"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -100,14 +143,831 @@
   ],
   "paragraphs": [
     {
+      "body": "103. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Revelation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Revelation_(episode)",
+            "page": "The_Revelation_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "The Legend of Korra credits",
+        "Shady Shin"
+      ],
+      "text": "103. \"The Revelation\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "The Legend of Korra credits",
+        "Shady Shin"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "${link_0} (web series)",
+      "links": [
+        {
+          "body": "Republic City Hustle",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Republic_City_Hustle",
+            "page": "Republic_City_Hustle"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "The Legend of Korra credits",
+        "Shady Shin"
+      ],
+      "text": "Republic City Hustle (web series)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CBS Schoolbreak Special",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0985040",
+            "page": "http://www.imdb.com/find?q=tt0985040"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CBS Schoolbreak Special"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Damages",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0914387",
+            "page": "http://www.imdb.com/find?q=tt0914387"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Damages"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Daria in 'Is It College Yet?'",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285627",
+            "page": "http://www.imdb.com/find?q=tt0285627"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Daria in 'Is It College Yet?' (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Early Edition",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115163",
+            "page": "http://www.imdb.com/find?q=tt0115163"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Early Edition"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Jenifer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0287503",
+            "page": "http://www.imdb.com/find?q=tt0287503"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jenifer (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Key West",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106045",
+            "page": "http://www.imdb.com/find?q=tt0106045"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Key West"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order: Criminal Intent",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275140",
+            "page": "http://www.imdb.com/find?q=tt0275140"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order: Criminal Intent"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lost",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0411008",
+            "page": "http://www.imdb.com/find?q=tt0411008"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lost"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ryan's Hope",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0072559",
+            "page": "http://www.imdb.com/find?q=tt0072559"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ryan's Hope"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Tall Tales & Legends",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0088622",
+            "page": "http://www.imdb.com/find?q=tt0088622"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Tall Tales & Legends"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Grean Teem",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1495974",
+            "page": "http://www.imdb.com/find?q=tt1495974"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Grean Teem (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Lives They Lived",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0464094",
+            "page": "http://www.imdb.com/find?q=tt0464094"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Lives They Lived (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Right to Remain Silent",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0117478",
+            "page": "http://www.imdb.com/find?q=tt0117478"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Right to Remain Silent (TV movie)"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "The Grand Budapest Hotel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2278388",
+            "page": "http://www.imdb.com/find?q=tt2278388"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Grand Budapest Hotel (2014)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "LOL",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1592873",
+            "page": "http://www.imdb.com/find?q=tt1592873"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "LOL (2012)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Rising Stars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1470910",
+            "page": "http://www.imdb.com/find?q=tt1470910"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rising Stars (2010)"
+    },
+    {
+      "body": "${link_0} (2007; short)",
+      "links": [
+        {
+          "body": "Red Angel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0997089",
+            "page": "http://www.imdb.com/find?q=tt0997089"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Red Angel (2007; short)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Undiscovered",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0434424",
+            "page": "http://www.imdb.com/find?q=tt0434424"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Undiscovered (2005)"
+    },
+    {
+      "body": "${link_0} (2004; short)",
+      "links": [
+        {
+          "body": "On the Couch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0416089",
+            "page": "http://www.imdb.com/find?q=tt0416089"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "On the Couch (2004; short)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "The Easy Six",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0362586",
+            "page": "http://www.imdb.com/find?q=tt0362586"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Easy Six (2003)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "The Pompatus of Love",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0117357",
+            "page": "http://www.imdb.com/find?q=tt0117357"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Pompatus of Love (1995)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "Super Mario Bros.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108255",
+            "page": "http://www.imdb.com/find?q=tt0108255"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Super Mario Bros. (1993)"
+    },
+    {
+      "body": "${link_0} (1992)",
+      "links": [
+        {
+          "body": "Hero",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0104412",
+            "page": "http://www.imdb.com/find?q=tt0104412"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hero (1992)"
+    },
+    {
+      "body": "${link_0} (1992; short)",
+      "links": [
+        {
+          "body": "Lift",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0104729",
+            "page": "http://www.imdb.com/find?q=tt0104729"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lift (1992; short)"
+    },
+    {
+      "body": "${link_0} (1981)",
+      "links": [
+        {
+          "body": "The Burning",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0082118",
+            "page": "http://www.imdb.com/find?q=tt0082118"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Burning (1981)"
+    },
+    {
+      "body": "${link_0} (documentary - director and executive producer)",
+      "links": [
+        {
+          "body": "Another World",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3500888",
+            "page": "http://www.imdb.com/find?q=tt3500888"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Another World (documentary - director and executive producer)"
+    },
+    {
+      "body": "${link_0} (executive producer)",
+      "links": [
+        {
+          "body": "A Prairie Home Companion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0420087",
+            "page": "http://www.imdb.com/find?q=tt0420087"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "A Prairie Home Companion (executive producer)"
+    },
+    {
+      "body": "${link_0} (short - director)",
+      "links": [
+        {
+          "body": "Call of the Wylie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1462416",
+            "page": "http://www.imdb.com/find?q=tt1462416"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Call of the Wylie (short - director)"
+    },
+    {
+      "body": "${link_0} (executive producer)",
+      "links": [
+        {
+          "body": "Famous",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0233699",
+            "page": "http://www.imdb.com/find?q=tt0233699"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Famous (executive producer)"
+    },
+    {
+      "body": "${link_0} (film executive)",
+      "links": [
+        {
+          "body": "Illuminata",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120709",
+            "page": "http://www.imdb.com/find?q=tt0120709"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Illuminata (film executive)"
+    },
+    {
+      "body": "${link_0} (crew)",
+      "links": [
+        {
+          "body": "In the Bedroom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247425",
+            "page": "http://www.imdb.com/find?q=tt0247425"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "In the Bedroom (crew)"
+    },
+    {
+      "body": "${link_0} (soundtrack musician)",
+      "links": [
+        {
+          "body": "Just a Kiss",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0245479",
+            "page": "http://www.imdb.com/find?q=tt0245479"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Just a Kiss (soundtrack musician)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Sam the Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0196068",
+            "page": "http://www.imdb.com/find?q=tt0196068"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Sam the Man (writer)"
+    },
+    {
+      "body": "${link_0} (director and soundtrack musician)",
+      "links": [
+        {
+          "body": "Stand Up Guys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1389096",
+            "page": "http://www.imdb.com/find?q=tt1389096"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Stand Up Guys (director and soundtrack musician)"
+    },
+    {
+      "body": "${link_0} (executive producer)",
+      "links": [
+        {
+          "body": "Tenderness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0494864",
+            "page": "http://www.imdb.com/find?q=tt0494864"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tenderness (executive producer)"
+    },
+    {
+      "body": "${link_0} (TV movie - writer)",
+      "links": [
+        {
+          "body": "The Grean Teem",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1495974",
+            "page": "http://www.imdb.com/find?q=tt1495974"
+          }
+        }
+      ],
+      "section": [
+        "Fisher Stevens",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Grean Teem (TV movie - writer)"
+    },
+    {
       "body": "Stevens has a sister, Julie Stevens, who is an architect in Chicago.",
       "links": [],
+      "section": [
+        "Fisher Stevens",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Stevens has a sister, Julie Stevens, who is an architect in Chicago."
     },
     {
       "body": "He moved from Chicago to New York at age thirteen to begin his acting career. He broke through in a theater role in the musical edition of A Christmas Carol. This was followed up by 544 performances, both on and off Broadway, in the Torch Song Trilogy. His most recent theater credit was a performance in William Shakespeare's A Midsummer Night's Dream.",
       "links": [],
+      "section": [
+        "Fisher Stevens",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He moved from Chicago to New York at age thirteen to begin his acting career. He broke through in a theater role in the musical edition of A Christmas Carol. This was followed up by 544 performances, both on and off Broadway, in the Torch Song Trilogy. His most recent theater credit was a performance in William Shakespeare's A Midsummer Night's Dream."
+    },
+    {
+      "body": "2010: Won an Academy Award for The Cove (Best Documentary)",
+      "links": [],
+      "section": [
+        "Fisher Stevens",
+        "Awards"
+      ],
+      "text": "2010: Won an Academy Award for The Cove (Best Documentary)"
+    },
+    {
+      "body": "2010: Won a PGA Award for The Cove (Outstanding Producer of Documentary Theatrical Motion Pictures)",
+      "links": [],
+      "section": [
+        "Fisher Stevens",
+        "Awards"
+      ],
+      "text": "2010: Won a PGA Award for The Cove (Outstanding Producer of Documentary Theatrical Motion Pictures)"
+    },
+    {
+      "body": "2002: Won a Tr\u00f3ia International Film Festival Prize of the City of Set\u00fabal for Just a Kiss",
+      "links": [],
+      "section": [
+        "Fisher Stevens",
+        "Awards"
+      ],
+      "text": "2002: Won a Tr\u00f3ia International Film Festival Prize of the City of Set\u00fabal for Just a Kiss"
     }
   ],
   "source": {

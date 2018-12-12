@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,12 +30,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Mike_Heisler",
+                "page": "http://en.wikipedia.org/wiki/Mike_Heisler"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -40,8 +53,230 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #33. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebound",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebound",
+            "page": "Rebound"
+          }
+        }
+      ],
+      "section": [
+        "Michael Heisler",
+        "Avatar: The Last Airbender credits",
+        "Comic letterer"
+      ],
+      "text": "Iss. #33. \"Rebound\""
+    },
+    {
+      "body": "Iss. #37. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Shells",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Shells",
+            "page": "Shells"
+          }
+        }
+      ],
+      "section": [
+        "Michael Heisler",
+        "Avatar: The Last Airbender credits",
+        "Comic letterer"
+      ],
+      "text": "Iss. #37. \"Shells\""
+    },
+    {
+      "body": "Iss. #40. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sisters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sisters",
+            "page": "Sisters"
+          }
+        }
+      ],
+      "section": [
+        "Michael Heisler",
+        "Avatar: The Last Airbender credits",
+        "Comic letterer"
+      ],
+      "text": "Iss. #40. \"Sisters\""
+    },
+    {
+      "body": "${link_0} trilogy",
+      "links": [
+        {
+          "body": "The Promise",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Promise",
+            "page": "The_Promise"
+          }
+        }
+      ],
+      "section": [
+        "Michael Heisler",
+        "Avatar: The Last Airbender credits",
+        "Graphic novel letterer"
+      ],
+      "text": "The Promise trilogy"
+    },
+    {
+      "body": "${link_0} trilogy",
+      "links": [
+        {
+          "body": "The Search",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Search",
+            "page": "The_Search"
+          }
+        }
+      ],
+      "section": [
+        "Michael Heisler",
+        "Avatar: The Last Airbender credits",
+        "Graphic novel letterer"
+      ],
+      "text": "The Search trilogy"
+    },
+    {
+      "body": "${link_0} trilogy",
+      "links": [
+        {
+          "body": "The Rift",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Rift",
+            "page": "The_Rift"
+          }
+        }
+      ],
+      "section": [
+        "Michael Heisler",
+        "Avatar: The Last Airbender credits",
+        "Graphic novel letterer"
+      ],
+      "text": "The Rift trilogy"
+    },
+    {
+      "body": "${link_0} trilogy",
+      "links": [
+        {
+          "body": "Smoke and Shadow",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Smoke_and_Shadow",
+            "page": "Smoke_and_Shadow"
+          }
+        }
+      ],
+      "section": [
+        "Michael Heisler",
+        "Avatar: The Last Airbender credits",
+        "Graphic novel letterer"
+      ],
+      "text": "Smoke and Shadow trilogy"
+    },
+    {
+      "body": "Iss. #44. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Friends for Life",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Friends_for_Life",
+            "page": "Friends_for_Life"
+          }
+        }
+      ],
+      "section": [
+        "Michael Heisler",
+        "The Legend of Korra credits",
+        "Comic letterer"
+      ],
+      "text": "Iss. #44. \"Friends for Life\""
+    },
+    {
+      "body": "Iss. #50. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lost Pets",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lost_Pets",
+            "page": "Lost_Pets"
+          }
+        }
+      ],
+      "section": [
+        "Michael Heisler",
+        "The Legend of Korra credits",
+        "Comic letterer"
+      ],
+      "text": "Iss. #50. \"Lost Pets\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dv8",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Dv8",
+            "page": "http://en.wikipedia.org/wiki/Dv8"
+          }
+        }
+      ],
+      "section": [
+        "Michael Heisler",
+        "Selected other credits"
+      ],
+      "text": "Dv8"
+    },
+    {
+      "body": "${link_0} (character creator and comic creator)",
+      "links": [
+        {
+          "body": "Union",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Union",
+            "page": "http://en.wikipedia.org/wiki/Union"
+          }
+        }
+      ],
+      "section": [
+        "Michael Heisler",
+        "Selected other credits"
+      ],
+      "text": "Union (character creator and comic creator)"
+    },
+    {
       "body": "Heisler got his start in the industry in the late 1980s as a letterer, primarily for Marvel Comics. From there, he moved into writing and editing, serving as an editor for the revival of the monster movie magazine Famous Monsters in Filmland. Heisler also wrote the Gen\u00b9\u00b3 mini-series Gen\u00b9\u00b3: Interactive and the one-shot Gen\u00b9\u00b3: The Surreal World.",
       "links": [],
+      "section": [
+        "Michael Heisler",
+        "Biographical information"
+      ],
       "text": "Heisler got his start in the industry in the late 1980s as a letterer, primarily for Marvel Comics. From there, he moved into writing and editing, serving as an editor for the revival of the monster movie magazine Famous Monsters in Filmland. Heisler also wrote the Gen\u00b9\u00b3 mini-series Gen\u00b9\u00b3: Interactive and the one-shot Gen\u00b9\u00b3: The Surreal World."
     }
   ],

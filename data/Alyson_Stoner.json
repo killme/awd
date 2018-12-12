@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Pom Poko (1994; English version)",
+          "body": "${link_0} (1994; English version)",
           "extra": "(1994; English version)",
           "extra_text": "(1994; English version)",
-          "links": [],
+          "links": [
+            {
+              "body": "Pom Poko",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0110008",
+                "page": "http://www.imdb.com/find?q=tt0110008"
+              }
+            }
+          ],
           "text": "Pom Poko (1994; English version)",
-          "value": "Pom Poko",
+          "value": "${link_0}",
           "value_text": "Pom Poko"
         }
       ]
@@ -69,84 +82,174 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1351987",
+                "page": "http://www.imdb.com/find?q=nm1351987"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Alyson_Stoner",
+                "page": "http://en.wikipedia.org/wiki/Alyson_Stoner"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/alysonstoner",
+                "page": "https://www.facebook.com/alysonstoner"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/105325578031724861220/posts",
+                "page": "https://plus.google.com/105325578031724861220/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/alysonrae#",
+                "page": "http://instagram.com/alysonrae"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://alysonstoner.com/",
+                "page": "http://alysonstoner.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Pinterest",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Pinterest",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.pinterest.com/alysonstoner/",
+                "page": "http://www.pinterest.com/alysonstoner/"
+              }
+            }
+          ],
           "text": "Pinterest",
-          "value": "Pinterest",
+          "value": "${link_0}",
           "value_text": "Pinterest"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/AlysonOnTour",
+                "page": "https://twitter.com/AlysonOnTour"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/TheRealAlysonStoner",
+                "page": "http://www.youtube.com/user/TheRealAlysonStoner"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
@@ -154,9 +257,522 @@
   ],
   "paragraphs": [
     {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Metal Clan",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Metal_Clan",
+            "page": "The_Metal_Clan"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "The Legend of Korra credits",
+        "Opal"
+      ],
+      "text": "305. \"The Metal Clan\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "The Legend of Korra credits",
+        "Opal"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Terror Within",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Terror_Within",
+            "page": "The_Terror_Within"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "The Legend of Korra credits",
+        "Opal"
+      ],
+      "text": "308. \"The Terror Within\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "The Legend of Korra credits",
+        "Opal"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "401. \"${link_0}\"",
+      "links": [
+        {
+          "body": "After All These Years",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/After_All_These_Years",
+            "page": "After_All_These_Years"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "The Legend of Korra credits",
+        "Opal"
+      ],
+      "text": "401. \"After All These Years\""
+    },
+    {
+      "body": "405. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enemy at the Gates",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enemy_at_the_Gates",
+            "page": "Enemy_at_the_Gates"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "The Legend of Korra credits",
+        "Opal"
+      ],
+      "text": "405. \"Enemy at the Gates\""
+    },
+    {
+      "body": "406. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Battle of Zaofu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Battle_of_Zaofu",
+            "page": "The_Battle_of_Zaofu"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "The Legend of Korra credits",
+        "Opal"
+      ],
+      "text": "406. \"The Battle of Zaofu\""
+    },
+    {
+      "body": "407. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Reunion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Reunion",
+            "page": "Reunion"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "The Legend of Korra credits",
+        "Opal"
+      ],
+      "text": "407. \"Reunion\""
+    },
+    {
+      "body": "410. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Operation Beifong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Operation_Beifong",
+            "page": "Operation_Beifong"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "The Legend of Korra credits",
+        "Opal"
+      ],
+      "text": "410. \"Operation Beifong\""
+    },
+    {
+      "body": "401. \"${link_0}\"",
+      "links": [
+        {
+          "body": "After All These Years",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/After_All_These_Years",
+            "page": "After_All_These_Years"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "The Legend of Korra credits",
+        "Female bandit"
+      ],
+      "text": "401. \"After All These Years\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lilo & Stitch: The Series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364774",
+            "page": "http://www.imdb.com/find?q=tt0364774"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "Lilo & Stitch: The Series"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mike's Super Short Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0382488",
+            "page": "http://www.imdb.com/find?q=tt0382488"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "Mike's Super Short Show"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Phineas & Ferb",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0852863",
+            "page": "http://www.imdb.com/find?q=tt0852863"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "Phineas & Ferb"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Suite Life of Zack & Cody",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0426371",
+            "page": "http://www.imdb.com/find?q=tt0426371"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "The Suite Life of Zack & Cody"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "W.I.T.C.H.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0383718",
+            "page": "http://www.imdb.com/find?q=tt0383718"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "W.I.T.C.H."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Young Justice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1641384",
+            "page": "http://www.imdb.com/find?q=tt1641384"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "Young Justice"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "The A-List",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2308682",
+            "page": "http://www.imdb.com/find?q=tt2308682"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "The A-List (2014)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Camp Rock 2: The Final Jam",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1252380",
+            "page": "http://www.imdb.com/find?q=tt1252380"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "Camp Rock 2: The Final Jam (2010)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Step Up 3D",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1193631",
+            "page": "http://www.imdb.com/find?q=tt1193631"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "Step Up 3D (2010)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Camp Rock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1055366",
+            "page": "http://www.imdb.com/find?q=tt1055366"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "Camp Rock (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Alice Upside Down",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0882742",
+            "page": "http://www.imdb.com/find?q=tt0882742"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "Alice Upside Down (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Step Up",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462590",
+            "page": "http://www.imdb.com/find?q=tt0462590"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "Step Up (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Cheaper by the Dozen 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0452598",
+            "page": "http://www.imdb.com/find?q=tt0452598"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "Cheaper by the Dozen 2 (2005)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Garfield",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356634",
+            "page": "http://www.imdb.com/find?q=tt0356634"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "Garfield (2004)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Cheaper by the Dozen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0349205",
+            "page": "http://www.imdb.com/find?q=tt0349205"
+          }
+        }
+      ],
+      "section": [
+        "Alyson Stoner",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "Cheaper by the Dozen (2003)"
+    },
+    {
       "body": "Alyson Stoner was born and raised in Toledo, Ohio. There she attended a dance school and studied ballet, jazz, and tap dancing. She later moved to Los Angeles where she studied choreography and appeared as a background dancer in several music videos. In 2002 she became the co-host of a Disney Channel short called Mike's Super Short Show, discussing upcoming Disney releases. Since then, she has appeared on more Disney Channel shows and movies, including Phineas and Ferb and Camp Rock, and has acted, danced, and sung in multiple other films, music videos, and television shows.",
       "links": [],
+      "section": [
+        "Alyson Stoner",
+        "Biographical information"
+      ],
       "text": "Alyson Stoner was born and raised in Toledo, Ohio. There she attended a dance school and studied ballet, jazz, and tap dancing. She later moved to Los Angeles where she studied choreography and appeared as a background dancer in several music videos. In 2002 she became the co-host of a Disney Channel short called Mike's Super Short Show, discussing upcoming Disney releases. Since then, she has appeared on more Disney Channel shows and movies, including Phineas and Ferb and Camp Rock, and has acted, danced, and sung in multiple other films, music videos, and television shows."
+    },
+    {
+      "body": "2004: Won a Young Artist Award for Cheaper by the Dozen (Best Young Ensemble in a Feature Film)",
+      "links": [],
+      "section": [
+        "Alyson Stoner",
+        "Awards"
+      ],
+      "text": "2004: Won a Young Artist Award for Cheaper by the Dozen (Best Young Ensemble in a Feature Film)"
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Frances (1982)",
+          "body": "${link_0} (1982)",
           "extra": "(1982)",
           "extra_text": "(1982)",
-          "links": [],
+          "links": [
+            {
+              "body": "Frances",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0083967",
+                "page": "http://www.imdb.com/find?q=tt0083967"
+              }
+            }
+          ],
           "text": "Frances (1982)",
-          "value": "Frances",
+          "value": "${link_0}",
           "value_text": "Frances"
         }
       ]
@@ -41,27 +54,488 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0846834",
+                "page": "http://www.imdb.com/find?q=nm0846834"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/105246120247813651685/posts",
+                "page": "https://plus.google.com/105246120247813651685/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "The Legend of Korra credits",
+        "Aunt"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "The Legend of Korra credits",
+        "Hou-Ting"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "The Legend of Korra credits",
+        "Hou-Ting"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "The Legend of Korra credits",
+        "Hou-Ting"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ave 43",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2349472",
+            "page": "http://www.imdb.com/find?q=tt2349472"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ave 43"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Chase",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0088903",
+            "page": "http://www.imdb.com/find?q=tt0088903"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Chase (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Growing Up Fisher",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2698984",
+            "page": "http://www.imdb.com/find?q=tt2698984"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Growing Up Fisher"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "L.A. Doctors",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0161160",
+            "page": "http://www.imdb.com/find?q=tt0161160"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "L.A. Doctors"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Maker Shack Agency",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3147330",
+            "page": "http://www.imdb.com/find?q=tt3147330"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Maker Shack Agency"
+    },
+    {
+      "body": "${link_0} (TV short)",
+      "links": [
+        {
+          "body": "Taylor's Wall",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0295654",
+            "page": "http://www.imdb.com/find?q=tt0295654"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Taylor's Wall (TV short)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Brotherhood of Poland, New Hampshire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0367298",
+            "page": "http://www.imdb.com/find?q=tt0367298"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Brotherhood of Poland, New Hampshire"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Fosters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2262532",
+            "page": "http://www.imdb.com/find?q=tt2262532"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Fosters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The New Adventures of Old Christine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462128",
+            "page": "http://www.imdb.com/find?q=tt0462128"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The New Adventures of Old Christine"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Time of Your Life",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0178165",
+            "page": "http://www.imdb.com/find?q=tt0178165"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Time of Your Life"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Welcome to the Family",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2709648",
+            "page": "http://www.imdb.com/find?q=tt2709648"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Welcome to the Family"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Forever",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2555652",
+            "page": "http://www.imdb.com/find?q=tt2555652"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Forever (2014)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Anna Nicole",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1009012",
+            "page": "http://www.imdb.com/find?q=tt1009012"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Anna Nicole (2007)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "The Amateurs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0405163",
+            "page": "http://www.imdb.com/find?q=tt0405163"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Amateurs (2005)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Ethan Mao",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0430063",
+            "page": "http://www.imdb.com/find?q=tt0430063"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ethan Mao (2004)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Vice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0232957",
+            "page": "http://www.imdb.com/find?q=tt0232957"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Vice (2000)"
+    },
+    {
+      "body": "${link_0} (1985)",
+      "links": [
+        {
+          "body": "Bombs Away",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0088838",
+            "page": "http://www.imdb.com/find?q=tt0088838"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bombs Away (1985)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Guild Wars 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1716744",
+            "page": "http://www.imdb.com/find?q=tt1716744"
+          }
+        }
+      ],
+      "section": [
+        "Jayne Taini",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Guild Wars 2 (video game)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Jayne_Taini",
     "file": "avatar.wikia.com/wiki/Jayne_Taini.html",

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Class of '86 (1986; video)",
+          "body": "${link_0} (1986; video)",
           "extra": "(1986; video)",
           "extra_text": "(1986; video)",
-          "links": [],
+          "links": [
+            {
+              "body": "Class of '86",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0091612",
+                "page": "http://www.imdb.com/find?q=tt0091612"
+              }
+            }
+          ],
           "text": "Class of '86 (1986; video)",
-          "value": "Class of '86",
+          "value": "${link_0}",
           "value_text": "Class of '86"
         }
       ]
@@ -55,48 +68,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0383422",
+                "page": "http://www.imdb.com/find?q=nm0383422"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/John_Michael_Higgins",
+                "page": "http://en.wikipedia.org/wiki/John_Michael_Higgins"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/johnmichaelhiggins",
+                "page": "https://www.facebook.com/johnmichaelhiggins"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/103144427308420675450/posts",
+                "page": "https://plus.google.com/103144427308420675450/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/Real_JMHiggins",
+                "page": "https://twitter.com/Real_JMHiggins"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -104,14 +167,680 @@
   ],
   "paragraphs": [
     {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Terror Within",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Terror_Within",
+            "page": "The_Terror_Within"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "The Legend of Korra credits",
+        "Guard #3"
+      ],
+      "text": "308. \"The Terror Within\""
+    },
+    {
+      "body": "401. \"${link_0}\"",
+      "links": [
+        {
+          "body": "After All These Years",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/After_All_These_Years",
+            "page": "After_All_These_Years"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "The Legend of Korra credits",
+        "Bandit leader"
+      ],
+      "text": "401. \"After All These Years\""
+    },
+    {
+      "body": "403. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Coronation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Coronation",
+            "page": "The_Coronation"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "The Legend of Korra credits",
+        "Front desk clerk"
+      ],
+      "text": "403. \"The Coronation\""
+    },
+    {
+      "body": "409. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beyond the Wilds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beyond_the_Wilds",
+            "page": "Beyond_the_Wilds"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "The Legend of Korra credits",
+        "Tourist #1"
+      ],
+      "text": "409. \"Beyond the Wilds\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ally McBeal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118254",
+            "page": "http://www.imdb.com/find?q=tt0118254"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ally McBeal"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Boston Legal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0402711",
+            "page": "http://www.imdb.com/find?q=tt0402711"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Boston Legal"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Brother's Keeper",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0168310",
+            "page": "http://www.imdb.com/find?q=tt0168310"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Brother's Keeper"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Great News",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4955480",
+            "page": "http://www.imdb.com/find?q=tt4955480"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Great News"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Harvey Birdman: Attorney at Law",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0294097",
+            "page": "http://www.imdb.com/find?q=tt0294097"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Harvey Birdman: Attorney at Law"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mathnet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092401",
+            "page": "http://www.imdb.com/find?q=tt0092401"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mathnet"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mike & Molly",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1608180",
+            "page": "http://www.imdb.com/find?q=tt1608180"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mike & Molly"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Monte Walsh",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0329390",
+            "page": "http://www.imdb.com/find?q=tt0329390"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Monte Walsh (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Raising the Bar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1001558",
+            "page": "http://www.imdb.com/find?q=tt1001558"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Raising the Bar"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Seinfeld",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098904",
+            "page": "http://www.imdb.com/find?q=tt0098904"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Seinfeld"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Late Shift",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0116835",
+            "page": "http://www.imdb.com/find?q=tt0116835"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Late Shift (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Thick of It",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0903651",
+            "page": "http://www.imdb.com/find?q=tt0903651"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Thick of It (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wilfred",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1703925",
+            "page": "http://www.imdb.com/find?q=tt1703925"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wilfred"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "The Best Man Holiday",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2083355",
+            "page": "http://www.imdb.com/find?q=tt2083355"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Best Man Holiday (2013)"
+    },
+    {
+      "body": "${link_0} (2012; short)",
+      "links": [
+        {
+          "body": "Plan B",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2266805",
+            "page": "http://www.imdb.com/find?q=tt2266805"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Plan B (2012; short)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Bad Teacher",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1284575",
+            "page": "http://www.imdb.com/find?q=tt1284575"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bad Teacher (2011)"
+    },
+    {
+      "body": "${link_0} (2011; video short)",
+      "links": [
+        {
+          "body": "People People",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2261771",
+            "page": "http://www.imdb.com/find?q=tt2261771"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "People People (2011; video short)"
+    },
+    {
+      "body": "${link_0} (2010; video short)",
+      "links": [
+        {
+          "body": "The Burying Beetle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1734540",
+            "page": "http://www.imdb.com/find?q=tt1734540"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Burying Beetle (2010; video short)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Fred Claus",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0486583",
+            "page": "http://www.imdb.com/find?q=tt0486583"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fred Claus (2007)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Fun with Dick and Jane",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0369441",
+            "page": "http://www.imdb.com/find?q=tt0369441"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fun with Dick and Jane (2005)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Jiminy Glick in Lalawood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0347369",
+            "page": "http://www.imdb.com/find?q=tt0347369"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Jiminy Glick in Lalawood (2004)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "The Man Who Wasn't There",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0243133",
+            "page": "http://www.imdb.com/find?q=tt0243133"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Man Who Wasn't There (2001)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "G.I. Jane",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119173",
+            "page": "http://www.imdb.com/find?q=tt0119173"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "G.I. Jane (1997)"
+    },
+    {
+      "body": "${link_0} (1988)",
+      "links": [
+        {
+          "body": "Vampire's Kiss",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098577",
+            "page": "http://www.imdb.com/find?q=tt0098577"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Vampire's Kiss (1988)"
+    },
+    {
+      "body": "${link_0} (vocal arranger)",
+      "links": [
+        {
+          "body": "A Mighty Wind",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0310281",
+            "page": "http://www.imdb.com/find?q=tt0310281"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "A Mighty Wind (vocal arranger)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Halo 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0357718",
+            "page": "http://www.imdb.com/find?q=tt0357718"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Halo 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Harvey Birdman: Attorney at Law",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1604936",
+            "page": "http://www.imdb.com/find?q=tt1604936"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Harvey Birdman: Attorney at Law (video game)"
+    },
+    {
+      "body": "${link_0} (soundtrack)",
+      "links": [
+        {
+          "body": "The Breakup",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0452594",
+            "page": "http://www.imdb.com/find?q=tt0452594"
+          }
+        }
+      ],
+      "section": [
+        "John Michael Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Breakup (soundtrack)"
+    },
+    {
       "body": "Higgins' numerous television credits include recurring characters on Ally McBeal, Brother's Keeper, Boston Legal, and Honey, I Shrunk the Kids: The TV Show. In season eight of Seinfeld, he portrayed Elaine's boyfriend, Kurt, and gained more recognition by being featured in the films Fun with Dick and Jane and The Break-Up, for which he also wrote vocal arrangements. His work as a voice actor includes the role of Judge Mentok in Harvey Birdman, Attorney at Law and 2401 Penitent Tangent in Halo 2. Higgins is also remembered for portraying David Letterman in the HBO TV movie The Late Shift.",
       "links": [],
+      "section": [
+        "John Michael Higgins",
+        "Biographical information"
+      ],
       "text": "Higgins' numerous television credits include recurring characters on Ally McBeal, Brother's Keeper, Boston Legal, and Honey, I Shrunk the Kids: The TV Show. In season eight of Seinfeld, he portrayed Elaine's boyfriend, Kurt, and gained more recognition by being featured in the films Fun with Dick and Jane and The Break-Up, for which he also wrote vocal arrangements. His work as a voice actor includes the role of Judge Mentok in Harvey Birdman, Attorney at Law and 2401 Penitent Tangent in Halo 2. Higgins is also remembered for portraying David Letterman in the HBO TV movie The Late Shift."
     },
     {
       "body": "Higgins directs and appears on the stage from time to time as well. In 1991, he was featured in Broadway's La B\u00eate and he also originated the title role in Paul Rudnick's Jeffrey off-Broadway in 1994. In 2000, he was seen off-Broadway at Second Stage Theatre in a production of Edward Albee's Tiny Alice, in 2003 he played the title role in A.R. Gurney's Big Bill at New York's Lincoln Center Theater, and in 2004 he played Secretary of Defense Donald Rumsfeld in the American premiere of David Hare's Stuff Happens at the Mark Taper Forum in Los Angeles.",
       "links": [],
+      "section": [
+        "John Michael Higgins",
+        "Biographical information"
+      ],
       "text": "Higgins directs and appears on the stage from time to time as well. In 1991, he was featured in Broadway's La B\u00eate and he also originated the title role in Paul Rudnick's Jeffrey off-Broadway in 1994. In 2000, he was seen off-Broadway at Second Stage Theatre in a production of Edward Albee's Tiny Alice, in 2003 he played the title role in A.R. Gurney's Big Bill at New York's Lincoln Center Theater, and in 2004 he played Secretary of Defense Donald Rumsfeld in the American premiere of David Hare's Stuff Happens at the Mark Taper Forum in Los Angeles."
+    },
+    {
+      "body": "2004: Won an FFCC Award for A Mighty Wind (Best Ensemble Cast)",
+      "links": [],
+      "section": [
+        "John Michael Higgins",
+        "Awards"
+      ],
+      "text": "2004: Won an FFCC Award for A Mighty Wind (Best Ensemble Cast)"
+    },
+    {
+      "body": "2003: Won a Seattle Film Critics Award for A Mighty Wind (Best Music)",
+      "links": [],
+      "section": [
+        "John Michael Higgins",
+        "Awards"
+      ],
+      "text": "2003: Won a Seattle Film Critics Award for A Mighty Wind (Best Music)"
     }
   ],
   "source": {

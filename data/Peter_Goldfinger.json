@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Phantom Investigators (2002)",
+          "body": "${link_0} (2002)",
           "extra": "(2002)",
           "extra_text": "(2002)",
-          "links": [],
+          "links": [
+            {
+              "body": "Phantom Investigators",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0360300",
+                "page": "http://www.imdb.com/find?q=tt0360300"
+              }
+            }
+          ],
           "text": "Phantom Investigators (2002)",
-          "value": "Phantom Investigators",
+          "value": "${link_0}",
           "value_text": "Phantom Investigators"
         }
       ]
@@ -41,36 +54,276 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1539257",
+                "page": "http://www.imdb.com/find?q=nm1539257"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://petesport.com/",
+                "page": "http://petesport.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/mywifesnotajew",
+                "page": "https://twitter.com/mywifesnotajew"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boy in the Iceberg",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boy_in_the_Iceberg",
+            "page": "The_Boy_in_the_Iceberg"
+          }
+        }
+      ],
+      "section": [
+        "Peter Goldfinger",
+        "Avatar: The Last Airbender credits",
+        "Additional writing"
+      ],
+      "text": "101. \"The Boy in the Iceberg\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_Returns",
+            "page": "The_Avatar_Returns"
+          }
+        }
+      ],
+      "section": [
+        "Peter Goldfinger",
+        "Avatar: The Last Airbender credits",
+        "Additional writing"
+      ],
+      "text": "102. \"The Avatar Returns\""
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Come to Papa",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0381741",
+            "page": "http://www.imdb.com/find?q=tt0381741"
+          }
+        }
+      ],
+      "section": [
+        "Peter Goldfinger",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Come to Papa (writer)"
+    },
+    {
+      "body": "${link_0} (consultant)",
+      "links": [
+        {
+          "body": "Con",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0443361",
+            "page": "http://www.imdb.com/find?q=tt0443361"
+          }
+        }
+      ],
+      "section": [
+        "Peter Goldfinger",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Con (consultant)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Eight Days a Week",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0976031",
+            "page": "http://www.imdb.com/find?q=tt0976031"
+          }
+        }
+      ],
+      "section": [
+        "Peter Goldfinger",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Eight Days a Week (writer)"
+    },
+    {
+      "body": "${link_0} (consulting producer)",
+      "links": [
+        {
+          "body": "Giuliana & Bill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1484626",
+            "page": "http://www.imdb.com/find?q=tt1484626"
+          }
+        }
+      ],
+      "section": [
+        "Peter Goldfinger",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Giuliana & Bill (consulting producer)"
+    },
+    {
+      "body": "${link_0} (post producer)",
+      "links": [
+        {
+          "body": "Parental Control",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0465344",
+            "page": "http://www.imdb.com/find?q=tt0465344"
+          }
+        }
+      ],
+      "section": [
+        "Peter Goldfinger",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Parental Control (post producer)"
+    },
+    {
+      "body": "${link_0} (story consultant)",
+      "links": [
+        {
+          "body": "The Apprentice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364782",
+            "page": "http://www.imdb.com/find?q=tt0364782"
+          }
+        }
+      ],
+      "section": [
+        "Peter Goldfinger",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Apprentice (story consultant)"
+    },
+    {
+      "body": "${link_0} (2010 - writer; credit shared with ${link_1})",
+      "links": [
+        {
+          "body": "Piranha",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0464154",
+            "page": "http://www.imdb.com/find?q=tt0464154"
+          }
+        },
+        {
+          "body": "Josh Stolberg",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Josh_Stolberg",
+            "page": "Josh_Stolberg"
+          }
+        }
+      ],
+      "section": [
+        "Peter Goldfinger",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Piranha (2010 - writer; credit shared with Josh Stolberg)"
+    },
+    {
+      "body": "${link_0} (2009 - writer; credit shared with Josh Stolberg)",
+      "links": [
+        {
+          "body": "Sorority Row",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1232783",
+            "page": "http://www.imdb.com/find?q=tt1232783"
+          }
+        }
+      ],
+      "section": [
+        "Peter Goldfinger",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sorority Row (2009 - writer; credit shared with Josh Stolberg)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Peter_Goldfinger",
     "file": "avatar.wikia.com/wiki/Peter_Goldfinger.html",

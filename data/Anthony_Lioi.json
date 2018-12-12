@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "King of the Hill (1997)",
+          "body": "${link_0} (1997)",
           "extra": "(1997)",
           "extra_text": "(1997)",
-          "links": [],
+          "links": [
+            {
+              "body": "King of the Hill",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0118375",
+                "page": "http://www.imdb.com/find?q=tt0118375"
+              }
+            }
+          ],
           "text": "King of the Hill (1997)",
-          "value": "King of the Hill",
+          "value": "${link_0}",
           "value_text": "King of the Hill"
         }
       ]
@@ -41,12 +54,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0513307",
+                "page": "http://www.imdb.com/find?q=nm0513307"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -54,8 +77,110 @@
   ],
   "paragraphs": [
     {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The King of Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_King_of_Omashu",
+            "page": "The_King_of_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Anthony Lioi",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "105. \"The King of Omashu\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Scroll",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Scroll",
+            "page": "The_Waterbending_Scroll"
+          }
+        }
+      ],
+      "section": [
+        "Anthony Lioi",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "109. \"The Waterbending Scroll\""
+    },
+    {
+      "body": "${link_0} (animation department, crew, and director)",
+      "links": [
+        {
+          "body": "American Dad!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397306",
+            "page": "http://www.imdb.com/find?q=tt0397306"
+          }
+        }
+      ],
+      "section": [
+        "Anthony Lioi",
+        "Selected other credits"
+      ],
+      "text": "American Dad! (animation department, crew, and director)"
+    },
+    {
+      "body": "${link_0} (art department, crew, and director)",
+      "links": [
+        {
+          "body": "King of the Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118375",
+            "page": "http://www.imdb.com/find?q=tt0118375"
+          }
+        }
+      ],
+      "section": [
+        "Anthony Lioi",
+        "Selected other credits"
+      ],
+      "text": "King of the Hill (art department, crew, and director)"
+    },
+    {
+      "body": "${link_0} (director)",
+      "links": [
+        {
+          "body": "The Cleveland Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1195935",
+            "page": "http://www.imdb.com/find?q=tt1195935"
+          }
+        }
+      ],
+      "section": [
+        "Anthony Lioi",
+        "Selected other credits"
+      ],
+      "text": "The Cleveland Show (director)"
+    },
+    {
       "body": "Lioi was nominated for a Primetime Emmy Award in the category of Outstanding animated program of less than one hour for King of the Hill in 2001, and again in 2009 for American Dad!.",
       "links": [],
+      "section": [
+        "Anthony Lioi",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Lioi was nominated for a Primetime Emmy Award in the category of Outstanding animated program of less than one hour for King of the Hill in 2001, and again in 2009 for American Dad!."
     }
   ],

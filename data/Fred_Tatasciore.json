@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Jackie Chan's Project A (1983; English version)",
+          "body": "${link_0} (1983; English version)",
           "extra": "(1983; English version)",
           "extra_text": "(1983; English version)",
-          "links": [],
+          "links": [
+            {
+              "body": "Jackie Chan's Project A",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0085127",
+                "page": "http://www.imdb.com/find?q=tt0085127"
+              }
+            }
+          ],
           "text": "Jackie Chan's Project A (1983; English version)",
-          "value": "Jackie Chan's Project A",
+          "value": "${link_0}",
           "value_text": "Jackie Chan's Project A"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0851317",
+                "page": "http://www.imdb.com/find?q=nm0851317"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Fred_Tatasciore",
+                "page": "http://en.wikipedia.org/wiki/Fred_Tatasciore"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Fred-Tatasciore/113563215324346",
+                "page": "https://www.facebook.com/pages/Fred-Tatasciore/113563215324346"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/fred_tatasciore",
+                "page": "https://twitter.com/fred_tatasciore"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,13 +148,741 @@
   ],
   "paragraphs": [
     {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Avatar: The Last Airbender credits",
+        "Yung"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "American Dad!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397306",
+            "page": "http://www.imdb.com/find?q=tt0397306"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Dad!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0760437",
+            "page": "http://www.imdb.com/find?q=tt0760437"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10: Ultimate Alien",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1622696",
+            "page": "http://www.imdb.com/find?q=tt1622696"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10: Ultimate Alien"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Family Guy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0182576",
+            "page": "http://www.imdb.com/find?q=tt0182576"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Family Guy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kung Fu Panda: Legends of Awesomeness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545214",
+            "page": "http://www.imdb.com/find?q=tt1545214"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kung Fu Panda: Legends of Awesomeness"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Avengers: Earth's Mightiest Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1626038",
+            "page": "http://www.imdb.com/find?q=tt1626038"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Avengers: Earth's Mightiest Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Emperor's New School",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0465327",
+            "page": "http://www.imdb.com/find?q=tt0465327"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Emperor's New School"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Secret Saturdays",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1291662",
+            "page": "http://www.imdb.com/find?q=tt1291662"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Secret Saturdays"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wolverine and the X-Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0772145",
+            "page": "http://www.imdb.com/find?q=tt0772145"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wolverine and the X-Men"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Jungle Shuffle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2722786",
+            "page": "http://www.imdb.com/find?q=tt2722786"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Jungle Shuffle (2014)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Hellraiser: Revelations",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1716747",
+            "page": "http://www.imdb.com/find?q=tt1716747"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hellraiser: Revelations (2011)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Tangled",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398286",
+            "page": "http://www.imdb.com/find?q=tt0398286"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tangled (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Princess and the Frog",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0780521",
+            "page": "http://www.imdb.com/find?q=tt0780521"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Princess and the Frog (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "9",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0472033",
+            "page": "http://www.imdb.com/find?q=tt0472033"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "9 (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Madagascar: Escape 2 Africa",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0479952",
+            "page": "http://www.imdb.com/find?q=tt0479952"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Madagascar: Escape 2 Africa (2008)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Next Avengers: Heroes of Tomorrow",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1259998",
+            "page": "http://www.imdb.com/find?q=tt1259998"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Next Avengers: Heroes of Tomorrow (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Beowulf",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0442933",
+            "page": "http://www.imdb.com/find?q=tt0442933"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Beowulf (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Ben 10: Secret of the Omnitrix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1146431",
+            "page": "http://www.imdb.com/find?q=tt1146431"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ben 10: Secret of the Omnitrix (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "TMNT",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0453556",
+            "page": "http://www.imdb.com/find?q=tt0453556"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "TMNT (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Ultimate Avengers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0453556",
+            "page": "http://www.imdb.com/find?q=tt0453556"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ultimate Avengers (2006)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ben 10: Protector of Earth",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1237860",
+            "page": "http://www.imdb.com/find?q=tt1237860"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ben 10: Protector of Earth (video game)"
+    },
+    {
+      "body": "${link_0} (short - director and writer)",
+      "links": [
+        {
+          "body": "Disclaimer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0973793",
+            "page": "http://www.imdb.com/find?q=tt0973793"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Disclaimer (short - director and writer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dragon Age: Origins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1541718",
+            "page": "http://www.imdb.com/find?q=tt1541718"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dragon Age: Origins (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (vocalizations)",
+      "links": [
+        {
+          "body": "Hellraiser: Revelations",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1716747",
+            "page": "http://www.imdb.com/find?q=tt1716747"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Hellraiser: Revelations (vocalizations)"
+    },
+    {
+      "body": "${link_0} (ADR loop group)",
+      "links": [
+        {
+          "body": "Jack the Giant Slayer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1351685",
+            "page": "http://www.imdb.com/find?q=tt1351685"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Jack the Giant Slayer (ADR loop group)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lord of the Rings: Battle for Middle Earth II - Rise of the Witch King",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1058040",
+            "page": "http://www.imdb.com/find?q=tt1058040"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lord of the Rings: Battle for Middle Earth II - Rise of the Witch King (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid 4: Guns of the Patriots",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462423",
+            "page": "http://www.imdb.com/find?q=tt0462423"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid 4: Guns of the Patriots (video game)"
+    },
+    {
+      "body": "${link_0} (ADR loop group)",
+      "links": [
+        {
+          "body": "Prometheus",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1446714",
+            "page": "http://www.imdb.com/find?q=tt1446714"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Prometheus (ADR loop group)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spider-Man 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837564",
+            "page": "http://www.imdb.com/find?q=tt0837564"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spider-Man 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tom Clancy's Ghost Recon: Advanced Warfighter 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1121103",
+            "page": "http://www.imdb.com/find?q=tt1121103"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tom Clancy's Ghost Recon: Advanced Warfighter 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Transformers: The Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1015475",
+            "page": "http://www.imdb.com/find?q=tt1015475"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Transformers: The Game (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Transformers: War for Cybertron",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1569962",
+            "page": "http://www.imdb.com/find?q=tt1569962"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Transformers: War for Cybertron (video game)"
+    },
+    {
+      "body": "${link_0} (ADR loop group)",
+      "links": [
+        {
+          "body": "Wonder Boys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0185014",
+            "page": "http://www.imdb.com/find?q=tt0185014"
+          }
+        }
+      ],
+      "section": [
+        "Fred Tatasciore",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Wonder Boys (ADR loop group)"
+    },
+    {
       "body": "Tatasciore has commonly portrayed secondary characters as well as monstrous-looking types. He is best known for voicing the Hulk in the Ultimate Avengers, Next Avengers, Hulk Vs, and The Avengers: Earth's Mightiest Heroes, as well as for voicing Saren from the critically acclaimed game Mass Effect and Damon Baird in the Gears of War video game series. He also voiced Screaming Mantis, Crying Wolf, Raging Raven, and Laughing Octopus in the video game Metal Gear Solid 4: Guns of the Patriots. He also voiced the character \"8\" in the Tim Burton-produced film 9, which was released September 9, 2009.",
       "links": [],
+      "section": [
+        "Fred Tatasciore",
+        "Biographical information"
+      ],
       "text": "Tatasciore has commonly portrayed secondary characters as well as monstrous-looking types. He is best known for voicing the Hulk in the Ultimate Avengers, Next Avengers, Hulk Vs, and The Avengers: Earth's Mightiest Heroes, as well as for voicing Saren from the critically acclaimed game Mass Effect and Damon Baird in the Gears of War video game series. He also voiced Screaming Mantis, Crying Wolf, Raging Raven, and Laughing Octopus in the video game Metal Gear Solid 4: Guns of the Patriots. He also voiced the character \"8\" in the Tim Burton-produced film 9, which was released September 9, 2009."
     },
     {
       "body": "In 2011, Tatasciore was given his first 'on screen' acting credit as Faceless Steven in Hellraiser: Revelations. He also provided the dubbed-over voice of Pinhead (while actor Stephan Smith Colins portrayed the character) in the same film; however, Tatasciore was only credited as \"Voice of Pinhead\".",
       "links": [],
+      "section": [
+        "Fred Tatasciore",
+        "Biographical information"
+      ],
       "text": "In 2011, Tatasciore was given his first 'on screen' acting credit as Faceless Steven in Hellraiser: Revelations. He also provided the dubbed-over voice of Pinhead (while actor Stephan Smith Colins portrayed the character) in the same film; however, Tatasciore was only credited as \"Voice of Pinhead\"."
     }
   ],

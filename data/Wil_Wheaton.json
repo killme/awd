@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "A Long Way Home  (1981; TV movie)",
+          "body": "${link_0}  (1981; TV movie)",
           "extra": "(1981; TV movie)",
           "extra_text": "(1981; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "A Long Way Home",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0082672",
+                "page": "http://www.imdb.com/find?q=tt0082672"
+              }
+            }
+          ],
           "text": "A Long Way Home  (1981; TV movie)",
-          "value": "A Long Way Home",
+          "value": "${link_0}",
           "value_text": "A Long Way Home"
         }
       ]
@@ -69,75 +82,155 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0000696",
+                "page": "http://www.imdb.com/find?q=nm0000696"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Wil_Wheaton",
+                "page": "http://en.wikipedia.org/wiki/Wil_Wheaton"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/itswilwheaton",
+                "page": "https://www.facebook.com/itswilwheaton"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/+WilWheaton",
+                "page": "https://plus.google.com/+WilWheaton"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://wilwheaton.net/",
+                "page": "http://wilwheaton.net/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://wilwheaton.tumblr.com/",
+                "page": "http://wilwheaton.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/wilw",
+                "page": "https://twitter.com/wilw"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/wilwheaton",
+                "page": "http://www.youtube.com/user/wilwheaton"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
@@ -145,19 +238,521 @@
   ],
   "paragraphs": [
     {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "City of Walls and Secrets",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/City_of_Walls_and_Secrets",
+            "page": "City_of_Walls_and_Secrets"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "214. \"City of Walls and Secrets\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kurokami: The Animation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1352417",
+            "page": "http://www.imdb.com/find?q=tt1352417"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kurokami: The Animation"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Legion of Super Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0775372",
+            "page": "http://www.imdb.com/find?q=tt0775372"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Legion of Super Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Leverage",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1103987",
+            "page": "http://www.imdb.com/find?q=tt1103987"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Leverage"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: The Next Generation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092455",
+            "page": "http://www.imdb.com/find?q=tt0092455"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: The Next Generation"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Teen Titans",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0343314",
+            "page": "http://www.imdb.com/find?q=tt0343314"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teen Titans"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Guild",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1138475",
+            "page": "http://www.imdb.com/find?q=tt1138475"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Guild"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Star Trek",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0796366",
+            "page": "http://www.imdb.com/find?q=tt0796366"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Trek (2009)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Americanizing Shelley",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0485185",
+            "page": "http://www.imdb.com/find?q=tt0485185"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Americanizing Shelley (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Naruto Shipp\u016bden: The Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0988982",
+            "page": "http://www.imdb.com/find?q=tt0988982"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Naruto Shipp\u016bden: The Movie (2007)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Neverland",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0349880",
+            "page": "http://www.imdb.com/find?q=tt0349880"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Neverland (2003)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Star Trek: Nemesis",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0253754",
+            "page": "http://www.imdb.com/find?q=tt0253754"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Trek: Nemesis (2002)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "The Girls' Room",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0167183",
+            "page": "http://www.imdb.com/find?q=tt0167183"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Girls' Room (2000)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Arena",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0319002",
+            "page": "http://www.imdb.com/find?q=tt0319002"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Arena (writer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Br\u00fctal Legend",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1171225",
+            "page": "http://www.imdb.com/find?q=tt1171225"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Br\u00fctal Legend (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ghost Recon 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0457367",
+            "page": "http://www.imdb.com/find?q=tt0457367"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ghost Recon 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Grand Theft Auto IV",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802999",
+            "page": "http://www.imdb.com/find?q=tt0802999"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Grand Theft Auto IV (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Grand Theft Auto: San Andreas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0383385",
+            "page": "http://www.imdb.com/find?q=tt0383385"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Grand Theft Auto: San Andreas (video game)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "Stand by Me",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092005",
+            "page": "http://www.imdb.com/find?q=tt0092005"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Stand by Me (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (producer and writer)",
+      "links": [
+        {
+          "body": "TableTop",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2374117",
+            "page": "http://www.imdb.com/find?q=tt2374117"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "TableTop (producer and writer)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "The Big Bang Theory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0898266",
+            "page": "http://www.imdb.com/find?q=tt0898266"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Big Bang Theory (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tom Clancy's Ghost Recon: Advanced Warfighter 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1121103",
+            "page": "http://www.imdb.com/find?q=tt1121103"
+          }
+        }
+      ],
+      "section": [
+        "Wil Wheaton",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tom Clancy's Ghost Recon: Advanced Warfighter 2 (video game)"
+    },
+    {
       "body": "Wheaton was born in Burbank, California, to Debbie (n\u00e9e O'Connor), an actress, and Richard William Wheaton Jr., a medical specialist. He has a brother, Jeremy, and a sister, Amy, both of whom\u00a0appeared uncredited in the episode \"When the Bough Breaks\" of Star Trek: The Next Generation.",
       "links": [],
+      "section": [
+        "Wil Wheaton",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Wheaton was born in Burbank, California, to Debbie (n\u00e9e O'Connor), an actress, and Richard William Wheaton Jr., a medical specialist. He has a brother, Jeremy, and a sister, Amy, both of whom\u00a0appeared uncredited in the episode \"When the Bough Breaks\" of Star Trek: The Next Generation."
     },
     {
       "body": "Wheaton made his acting debut in the 1981 TV film A Long Way Home, and his first cinema role was as Martin Brisby in the 1982 animated film The Secret of NIMH, the movie adaptation of Robert C. O'Brien's Mrs. Frisby and the Rats of NIMH. He had a minor role in the 1984 movie The Last Starfighter. He first gained widespread attention in 1986 as Gordie LaChance in Stand by Me, the film adaptation of Stephen King's The Body. In 1991, he played Joey Trotta in the film Toy Soldiers.",
       "links": [],
+      "section": [
+        "Wil Wheaton",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Wheaton made his acting debut in the 1981 TV film A Long Way Home, and his first cinema role was as Martin Brisby in the 1982 animated film The Secret of NIMH, the movie adaptation of Robert C. O'Brien's Mrs. Frisby and the Rats of NIMH. He had a minor role in the 1984 movie The Last Starfighter. He first gained widespread attention in 1986 as Gordie LaChance in Stand by Me, the film adaptation of Stephen King's The Body. In 1991, he played Joey Trotta in the film Toy Soldiers."
     },
     {
       "body": "From 1987 to 1990, he appeared in the role of Wesley Crusher on Star Trek: The Next Generation throughout its first four seasons.",
       "links": [],
+      "section": [
+        "Wil Wheaton",
+        "Biographical information",
+        "Career"
+      ],
       "text": "From 1987 to 1990, he appeared in the role of Wesley Crusher on Star Trek: The Next Generation throughout its first four seasons."
+    },
+    {
+      "body": "2002: Won a Melbourne Underground Film Festival Award for Jane White is Sick and Twisted (Best Actor)",
+      "links": [],
+      "section": [
+        "Wil Wheaton",
+        "Awards"
+      ],
+      "text": "2002: Won a Melbourne Underground Film Festival Award for Jane White is Sick and Twisted (Best Actor)"
+    },
+    {
+      "body": "1989: Won a Young Artist Award for Star Trek: The Next Generation (Best Young Actor in a Family Syndicated Show)",
+      "links": [],
+      "section": [
+        "Wil Wheaton",
+        "Awards"
+      ],
+      "text": "1989: Won a Young Artist Award for Star Trek: The Next Generation (Best Young Actor in a Family Syndicated Show)"
+    },
+    {
+      "body": "1987: Won a Jackie Coogan Award for Stand by Me",
+      "links": [],
+      "section": [
+        "Wil Wheaton",
+        "Awards"
+      ],
+      "text": "1987: Won a Jackie Coogan Award for Stand by Me"
     }
   ],
   "source": {

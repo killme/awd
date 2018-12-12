@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Codename: Kids Next Door - Operation Z.E.R.O (2006; TV movie)",
+          "body": "${link_0} (2006; TV movie)",
           "extra": "(2006; TV movie)",
           "extra_text": "(2006; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Codename: Kids Next Door - Operation Z.E.R.O",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0837113",
+                "page": "http://www.imdb.com/find?q=tt0837113"
+              }
+            }
+          ],
           "text": "Codename: Kids Next Door - Operation Z.E.R.O (2006; TV movie)",
-          "value": "Codename: Kids Next Door - Operation Z.E.R.O",
+          "value": "${link_0}",
           "value_text": "Codename: Kids Next Door - Operation Z.E.R.O"
         }
       ]
@@ -41,39 +54,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2813679",
+                "page": "http://www.imdb.com/find?q=nm2813679"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.alisonwilgus.com/index",
+                "page": "http://www.alisonwilgus.com/index"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://alisonwilgus.tumblr.com/",
+                "page": "http://alisonwilgus.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/aliwilgus",
+                "page": "https://twitter.com/aliwilgus"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -81,8 +134,281 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #3. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Don't Blow It!",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Don%27t_Blow_It%21",
+            "page": "Don%27t_Blow_It%21"
+          }
+        }
+      ],
+      "section": [
+        "Alison Wilgus",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #3. \"Don't Blow It!\""
+    },
+    {
+      "body": "Iss. #13. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Going Home Again",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Going_Home_Again",
+            "page": "Going_Home_Again"
+          }
+        }
+      ],
+      "section": [
+        "Alison Wilgus",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #13. \"Going Home Again\""
+    },
+    {
+      "body": "Iss. #17. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Boys' Day Out",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Boys%27_Day_Out",
+            "page": "Boys%27_Day_Out"
+          }
+        }
+      ],
+      "section": [
+        "Alison Wilgus",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #17. \"Boys' Day Out\""
+    },
+    {
+      "body": "Iss. #20. \"${link_0}\" (co-written with ${link_1})",
+      "links": [
+        {
+          "body": "Combustion Man on a Train",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Combustion_Man_on_a_Train",
+            "page": "Combustion_Man_on_a_Train"
+          }
+        },
+        {
+          "body": "Rawles Lumumba",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rawles_Lumumba",
+            "page": "Rawles_Lumumba"
+          }
+        }
+      ],
+      "section": [
+        "Alison Wilgus",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #20. \"Combustion Man on a Train\" (co-written with Rawles Lumumba)"
+    },
+    {
+      "body": "Iss. #21. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Swordbending",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Swordbending",
+            "page": "Swordbending"
+          }
+        }
+      ],
+      "section": [
+        "Alison Wilgus",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #21. \"Swordbending\""
+    },
+    {
+      "body": "Iss. #22. \"${link_0}\"",
+      "links": [
+        {
+          "body": "No Benders Allowed",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/No_Benders_Allowed",
+            "page": "No_Benders_Allowed"
+          }
+        }
+      ],
+      "section": [
+        "Alison Wilgus",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #22. \"No Benders Allowed\""
+    },
+    {
+      "body": "Iss. #24. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Dragon Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dragon_Days",
+            "page": "Dragon_Days"
+          }
+        }
+      ],
+      "section": [
+        "Alison Wilgus",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #24. \"Dragon Days\""
+    },
+    {
+      "body": "Iss. #25. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Game Time",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Game_Time",
+            "page": "Game_Time"
+          }
+        }
+      ],
+      "section": [
+        "Alison Wilgus",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #25. \"Game Time\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Last Airbender Prequel: Zuko's Story",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender_Prequel__Zuko%27s_Story",
+            "page": "Film_The_Last_Airbender_Prequel__Zuko%27s_Story"
+          }
+        }
+      ],
+      "section": [
+        "Alison Wilgus",
+        "Avatar: The Last Airbender credits",
+        "Graphic novel film tie-ins"
+      ],
+      "text": "The Last Airbender Prequel: Zuko's Story"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender_movie_tie-ins#The_Last_Airbender",
+            "page": "Film_The_Last_Airbender_movie_tie-ins"
+          }
+        }
+      ],
+      "section": [
+        "Alison Wilgus",
+        "Avatar: The Last Airbender credits",
+        "Graphic novel film tie-ins"
+      ],
+      "text": "The Last Airbender"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312109",
+            "page": "http://www.imdb.com/find?q=tt0312109"
+          }
+        }
+      ],
+      "section": [
+        "Alison Wilgus",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door (writer)"
+    },
+    {
+      "body": "${link_0} (TV movie - story)",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door - Operation Z.E.R.O",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837113",
+            "page": "http://www.imdb.com/find?q=tt0837113"
+          }
+        }
+      ],
+      "section": [
+        "Alison Wilgus",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door - Operation Z.E.R.O (TV movie - story)"
+    },
+    {
+      "body": "${link_0} (TV movie - color key artist)",
+      "links": [
+        {
+          "body": "The Grim Adventures of the KND",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1314193",
+            "page": "http://www.imdb.com/find?q=tt1314193"
+          }
+        }
+      ],
+      "section": [
+        "Alison Wilgus",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Grim Adventures of the KND (TV movie - color key artist)"
+    },
+    {
       "body": "Wilgus serves as a non-fiction writer for First Second Books and is co-editor of The Sockdolager, a quarterly magazine publishing genre fiction.",
       "links": [],
+      "section": [
+        "Alison Wilgus",
+        "Biographical information"
+      ],
       "text": "Wilgus serves as a non-fiction writer for First Second Books and is co-editor of The Sockdolager, a quarterly magazine publishing genre fiction."
     }
   ],

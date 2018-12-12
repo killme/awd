@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Dragon Ball (1986)",
+          "body": "${link_0} (1986)",
           "extra": "(1986)",
           "extra_text": "(1986)",
-          "links": [],
+          "links": [
+            {
+              "body": "Dragon Ball",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0280249",
+                "page": "http://www.imdb.com/find?q=tt0280249"
+              }
+            }
+          ],
           "text": "Dragon Ball (1986)",
-          "value": "Dragon Ball",
+          "value": "${link_0}",
           "value_text": "Dragon Ball"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0233036",
+                "page": "http://www.imdb.com/find?q=nm0233036"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Michael_Donovan",
+                "page": "http://en.wikipedia.org/wiki/Michael_Donovan"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,13 +124,652 @@
   ],
   "paragraphs": [
     {
-      "body": "This page lacks visual representations and needs one or more relevant images.",
-      "links": [],
-      "text": "This page lacks visual representations and needs one or more relevant images."
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "The Legend of Korra credits",
+        "Mayor"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Action Dad",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2149382",
+            "page": "http://www.imdb.com/find?q=tt2149382"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Action Dad"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Battletoads",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0299260",
+            "page": "http://www.imdb.com/find?q=tt0299260"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Battletoads (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Conan: The Adventurer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0315429",
+            "page": "http://www.imdb.com/find?q=tt0315429"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Conan: The Adventurer"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Darkstalkers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0229122",
+            "page": "http://www.imdb.com/find?q=tt0229122"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Darkstalkers"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Exosquad",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106842",
+            "page": "http://www.imdb.com/find?q=tt0106842"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Exosquad"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "G. I. Joe",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0337762",
+            "page": "http://www.imdb.com/find?q=tt0337762"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "G. I. Joe"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Hot Wheels: AcceleRacers - Ignition",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2054778",
+            "page": "http://www.imdb.com/find?q=tt2054778"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hot Wheels: AcceleRacers - Ignition (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hurricanes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115209",
+            "page": "http://www.imdb.com/find?q=tt0115209"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hurricanes"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Lego Star Wars: The Yoda Chronicles - Attack of the Jedi",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3304916",
+            "page": "http://www.imdb.com/find?q=tt3304916"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lego Star Wars: The Yoda Chronicles - Attack of the Jedi (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "ReBoot: My Two Bobs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0298515",
+            "page": "http://www.imdb.com/find?q=tt0298515"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ReBoot: My Two Bobs (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Adventures of Captain Zoom in Outer Space",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112292",
+            "page": "http://www.imdb.com/find?q=tt0112292"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Adventures of Captain Zoom in Outer Space (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Magician",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0205659",
+            "page": "http://www.imdb.com/find?q=tt0205659"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Magician"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Xiaolin Chronicles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2824770",
+            "page": "http://www.imdb.com/find?q=tt2824770"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Xiaolin Chronicles"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Oral Fixation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1179064",
+            "page": "http://www.imdb.com/find?q=tt1179064"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Oral Fixation (2009)"
+    },
+    {
+      "body": "${link_0} (2006; video)",
+      "links": [
+        {
+          "body": "Boom Boom Sabotage",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0862921",
+            "page": "http://www.imdb.com/find?q=tt0862921"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Boom Boom Sabotage (2006; video)"
+    },
+    {
+      "body": "${link_0} (2004; video)",
+      "links": [
+        {
+          "body": "Max Steel: Endangered Species",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0874300",
+            "page": "http://www.imdb.com/find?q=tt0874300"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Max Steel: Endangered Species (2004; video)"
+    },
+    {
+      "body": "${link_0} (1997; English version)",
+      "links": [
+        {
+          "body": "The Fearless Four",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119170",
+            "page": "http://www.imdb.com/find?q=tt0119170"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Fearless Four (1997; English version)"
+    },
+    {
+      "body": "${link_0} (1994; video)",
+      "links": [
+        {
+          "body": "A Christmas Carol",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0495818",
+            "page": "http://www.imdb.com/find?q=tt0495818"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Christmas Carol (1994; video)"
+    },
+    {
+      "body": "${link_0} (1993; video)",
+      "links": [
+        {
+          "body": "Ranma \u00bd",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0121060",
+            "page": "http://www.imdb.com/find?q=tt0121060"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ranma \u00bd (1993; video)"
+    },
+    {
+      "body": "${link_0} (1991; video)",
+      "links": [
+        {
+          "body": "Yoroiden Samurai Trooper: Message",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0203228",
+            "page": "http://www.imdb.com/find?q=tt0203228"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Yoroiden Samurai Trooper: Message (1991; video)"
+    },
+    {
+      "body": "${link_0} (1991; short)",
+      "links": [
+        {
+          "body": "The Wizard of Oz",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103276",
+            "page": "http://www.imdb.com/find?q=tt0103276"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wizard of Oz (1991; short)"
+    },
+    {
+      "body": "${link_0} (1986; short)",
+      "links": [
+        {
+          "body": "Dragon Ball: Curse of the Blood Rubies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0142251",
+            "page": "http://www.imdb.com/find?q=tt0142251"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dragon Ball: Curse of the Blood Rubies (1986; short)"
+    },
+    {
+      "body": "${link_0} (video - casting director)",
+      "links": [
+        {
+          "body": "A Christmas Carol",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0495818",
+            "page": "http://www.imdb.com/find?q=tt0495818"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "A Christmas Carol (video - casting director)"
+    },
+    {
+      "body": "${link_0} (casting director)",
+      "links": [
+        {
+          "body": "Care Bears to the Rescue",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1632481",
+            "page": "http://www.imdb.com/find?q=tt1632481"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Care Bears to the Rescue (casting director)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Cars 2: The Video Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1984130",
+            "page": "http://www.imdb.com/find?q=tt1984130"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Cars 2: The Video Game (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dungeon Keeper Mobile",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3496806",
+            "page": "http://www.imdb.com/find?q=tt3496806"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dungeon Keeper Mobile (video game)"
+    },
+    {
+      "body": "${link_0} (video - casting director)",
+      "links": [
+        {
+          "body": "Magic Gift of the Snowman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0899214",
+            "page": "http://www.imdb.com/find?q=tt0899214"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Magic Gift of the Snowman (video - casting director)"
+    },
+    {
+      "body": "${link_0} (casting director)",
+      "links": [
+        {
+          "body": "Ninjago: Masters of Spinjitsu",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1871731",
+            "page": "http://www.imdb.com/find?q=tt1871731"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ninjago: Masters of Spinjitsu (casting director)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Resident Evil 6",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2193031",
+            "page": "http://www.imdb.com/find?q=tt2193031"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Resident Evil 6 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Elder Scrolls V: Skyrim",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1814884",
+            "page": "http://www.imdb.com/find?q=tt1814884"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Elder Scrolls V: Skyrim (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The X Fools",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0220176",
+            "page": "http://www.imdb.com/find?q=tt0220176"
+          }
+        }
+      ],
+      "section": [
+        "Michael Donovan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The X Fools (video game)"
     },
     {
       "body": "Donovan currently lives in Los Angeles, California.",
       "links": [],
+      "section": [
+        "Michael Donovan",
+        "Biographical information"
+      ],
       "text": "Donovan currently lives in Los Angeles, California."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Matlock (1991)",
+          "body": "${link_0} (1991)",
           "extra": "(1991)",
           "extra_text": "(1991)",
-          "links": [],
+          "links": [
+            {
+              "body": "Matlock",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0090481",
+                "page": "http://www.imdb.com/find?q=tt0090481"
+              }
+            }
+          ],
           "text": "Matlock (1991)",
-          "value": "Matlock",
+          "value": "${link_0}",
           "value_text": "Matlock"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0245145",
+                "page": "http://www.imdb.com/find?q=nm0245145"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Wayne_Duvall",
+                "page": "http://en.wikipedia.org/wiki/Wayne_Duvall"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Wayne-Duvall/210304458999598",
+                "page": "https://www.facebook.com/pages/Wayne-Duvall/210304458999598"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.twitter.com/WDDuvall",
+                "page": "https://www.twitter.com/WDDuvall"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,8 +148,392 @@
   ],
   "paragraphs": [
     {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sokka's Master",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sokka%27s_Master",
+            "page": "Sokka%27s_Master"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Avatar: The Last Airbender credits",
+        "Poon"
+      ],
+      "text": "304. \"Sokka's Master\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Avatar: The Last Airbender credits",
+        "Poon"
+      ],
+      "text": "310. \"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Avatar: The Last Airbender credits",
+        "Poon"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CSI: NY",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0395843",
+            "page": "http://www.imdb.com/find?q=tt0395843"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CSI: NY"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098844",
+            "page": "http://www.imdb.com/find?q=tt0098844"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order: Special Victims Unit",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0203259",
+            "page": "http://www.imdb.com/find?q=tt0203259"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order: Special Victims Unit"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "NYPD Blue",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106079",
+            "page": "http://www.imdb.com/find?q=tt0106079"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "NYPD Blue"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hell on Wheels",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1699748",
+            "page": "http://www.imdb.com/find?q=tt1699748"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hell on Wheels"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The District",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247087",
+            "page": "http://www.imdb.com/find?q=tt0247087"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The District"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Threshold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460686",
+            "page": "http://www.imdb.com/find?q=tt0460686"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Threshold"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Prisoners",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1392214",
+            "page": "http://www.imdb.com/find?q=tt1392214"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Prisoners (2013)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "13",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0798817",
+            "page": "http://www.imdb.com/find?q=tt0798817"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "13 (2010)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Leatherheads",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0379865",
+            "page": "http://www.imdb.com/find?q=tt0379865"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Leatherheads (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "In the Valley of Elah",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0478134",
+            "page": "http://www.imdb.com/find?q=tt0478134"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "In the Valley of Elah (2007)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Emmett's Mark",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0287425",
+            "page": "http://www.imdb.com/find?q=tt0287425"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Emmett's Mark (2002)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Love Liza",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0282698",
+            "page": "http://www.imdb.com/find?q=tt0282698"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Love Liza (2002)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Evolution",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0251075",
+            "page": "http://www.imdb.com/find?q=tt0251075"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Evolution (2001)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ghost Recon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0345334",
+            "page": "http://www.imdb.com/find?q=tt0345334"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ghost Recon (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Hitman: Blood Money",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0433390",
+            "page": "http://www.imdb.com/find?q=tt0433390"
+          }
+        }
+      ],
+      "section": [
+        "Wayne Duvall",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Hitman: Blood Money (video game)"
+    },
+    {
       "body": "In 2002, Duvall married Denise Guillet. In November 2009, he acted at the La Jolla Playhouse in California as the Sheriff in Frank Wildhorn's musical Bonnie & Clyde, which debuted on Broadway in 2011. He is the cousin of veteran actor Robert Duvall and a graduate of the University of Maryland, College Park.",
       "links": [],
+      "section": [
+        "Wayne Duvall",
+        "Biographical information"
+      ],
       "text": "In 2002, Duvall married Denise Guillet. In November 2009, he acted at the La Jolla Playhouse in California as the Sheriff in Frank Wildhorn's musical Bonnie & Clyde, which debuted on Broadway in 2011. He is the cousin of veteran actor Robert Duvall and a graduate of the University of Maryland, College Park."
     }
   ],

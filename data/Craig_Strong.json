@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Cutting Loose (1980)",
+          "body": "${link_0} (1980)",
           "extra": "(1980)",
           "extra_text": "(1980)",
-          "links": [],
+          "links": [
+            {
+              "body": "Cutting Loose",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0080584",
+                "page": "http://www.imdb.com/find?q=tt0080584"
+              }
+            }
+          ],
           "text": "Cutting Loose (1980)",
-          "value": "Cutting Loose",
+          "value": "${link_0}",
           "value_text": "Cutting Loose"
         }
       ]
@@ -69,12 +82,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0834959",
+                "page": "http://www.imdb.com/find?q=nm0834959"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -82,13 +105,263 @@
   ],
   "paragraphs": [
     {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Craig Strong",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "As Told by Ginger",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235911",
+            "page": "http://www.imdb.com/find?q=tt0235911"
+          }
+        }
+      ],
+      "section": [
+        "Craig Strong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "As Told by Ginger"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Beverly Hills, 90210",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098749",
+            "page": "http://www.imdb.com/find?q=tt0098749"
+          }
+        }
+      ],
+      "section": [
+        "Craig Strong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Beverly Hills, 90210"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Courting Alex",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0463811",
+            "page": "http://www.imdb.com/find?q=tt0463811"
+          }
+        }
+      ],
+      "section": [
+        "Craig Strong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Courting Alex"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cutting Loose",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0080584",
+            "page": "http://www.imdb.com/find?q=tt0080584"
+          }
+        }
+      ],
+      "section": [
+        "Craig Strong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Cutting Loose"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sabrina, the Teenage Witch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115341",
+            "page": "http://www.imdb.com/find?q=tt0115341"
+          }
+        }
+      ],
+      "section": [
+        "Craig Strong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sabrina, the Teenage Witch"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Last Mountain",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0234084",
+            "page": "http://www.imdb.com/find?q=tt0234084"
+          }
+        }
+      ],
+      "section": [
+        "Craig Strong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Last Mountain (2005)"
+    },
+    {
+      "body": "${link_0} (2000; short)",
+      "links": [
+        {
+          "body": "The Anniversary",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364948",
+            "page": "http://www.imdb.com/find?q=tt0364948"
+          }
+        }
+      ],
+      "section": [
+        "Craig Strong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Anniversary (2000; short)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Babyshakes & the Return of Macdaddy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0284876",
+            "page": "http://www.imdb.com/find?q=tt0284876"
+          }
+        }
+      ],
+      "section": [
+        "Craig Strong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Babyshakes & the Return of Macdaddy (1999)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "The Apocalypse",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118631",
+            "page": "http://www.imdb.com/find?q=tt0118631"
+          }
+        }
+      ],
+      "section": [
+        "Craig Strong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Apocalypse (1997)"
+    },
+    {
+      "body": "${link_0} (1997; short)",
+      "links": [
+        {
+          "body": "Daisy Feldman's New York",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0176636",
+            "page": "http://www.imdb.com/find?q=tt0176636"
+          }
+        }
+      ],
+      "section": [
+        "Craig Strong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Daisy Feldman's New York (1997; short)"
+    },
+    {
+      "body": "${link_0} (1993; video)",
+      "links": [
+        {
+          "body": "Ray Stevens Live!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0414434",
+            "page": "http://www.imdb.com/find?q=tt0414434"
+          }
+        }
+      ],
+      "section": [
+        "Craig Strong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ray Stevens Live! (1993; video)"
+    },
+    {
       "body": "Originally from Far Rockaway, Queens, New York, Strong began his acting career as a student in 1988 at Ithaca College.",
       "links": [],
+      "section": [
+        "Craig Strong",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Originally from Far Rockaway, Queens, New York, Strong began his acting career as a student in 1988 at Ithaca College."
     },
     {
       "body": "His parents are Walter and Susan Bistrong, and he has three siblings named Kim Bistrong, Jeff Bistrong, and Danny Bistrong.",
       "links": [],
+      "section": [
+        "Craig Strong",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "His parents are Walter and Susan Bistrong, and he has three siblings named Kim Bistrong, Jeff Bistrong, and Danny Bistrong."
     },
     {
@@ -98,21 +371,37 @@
           "body": "Tara Charendoff",
           "key": "${link_0}",
           "target": {
-            "href": "Tara_Strong",
+            "external": false,
+            "href": "/wiki/Tara_Strong",
             "page": "Tara_Strong"
           }
         }
+      ],
+      "section": [
+        "Craig Strong",
+        "Biographical information",
+        "Personal life"
       ],
       "text": "His first job was as a bartender on the Upper West Side of Manhattan. He moved to Los Angeles in 1994, only to return to New York City a year later. He continued to study acting under the mentorship of William Esper and his studio. He returned to Los Angeles again three years later and married fellow actress, Canadian-American Tara Charendoff."
     },
     {
       "body": "The Strongs currently reside in Toluca Lake, California, with their two sons, Sammy James Strong, born February 5, 2002, and Aden Joshua Strong, born August 25, 2004, and their two dogs, Abby and Baci.",
       "links": [],
+      "section": [
+        "Craig Strong",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "The Strongs currently reside in Toluca Lake, California, with their two sons, Sammy James Strong, born February 5, 2002, and Aden Joshua Strong, born August 25, 2004, and their two dogs, Abby and Baci."
     },
     {
       "body": "In 2001, Strong and his wife established VoiceStarz, Inc., an Internet-based company that teaches people how to get into the voice-over business. In addition to being the C.E.O. of VoiceStarz, Strong is his wife's manager. In 2004 he became a realtor for Keller Williams Realty. He has also started his real estate company, Strong & Prouty.",
       "links": [],
+      "section": [
+        "Craig Strong",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "In 2001, Strong and his wife established VoiceStarz, Inc., an Internet-based company that teaches people how to get into the voice-over business. In addition to being the C.E.O. of VoiceStarz, Strong is his wife's manager. In 2004 he became a realtor for Keller Williams Realty. He has also started his real estate company, Strong & Prouty."
     }
   ],

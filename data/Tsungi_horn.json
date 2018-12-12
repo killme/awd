@@ -3,35 +3,40 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Arts",
       "target": {
-        "href": "Category_Arts",
+        "external": false,
+        "href": "/wiki/Category_Arts",
         "page": "Category_Arts"
       }
     },
     {
       "body": "Earth Kingdom",
       "target": {
-        "href": "Category_Earth_Kingdom",
+        "external": false,
+        "href": "/wiki/Category_Earth_Kingdom",
         "page": "Category_Earth_Kingdom"
       }
     },
     {
       "body": "Fire Nation",
       "target": {
-        "href": "Category_Fire_Nation",
+        "external": false,
+        "href": "/wiki/Category_Fire_Nation",
         "page": "Category_Fire_Nation"
       }
     },
     {
       "body": "Objects",
       "target": {
-        "href": "Category_Objects",
+        "external": false,
+        "href": "/wiki/Category_Objects",
         "page": "Category_Objects"
       }
     }
@@ -39,27 +44,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "${link_0} frequently played the tsungi horn.",
-      "links": [
-        {
-          "body": "Iroh",
-          "key": "${link_0}",
-          "target": {
-            "href": "Iroh",
-            "page": "Iroh"
-          }
-        }
-      ],
-      "text": "Iroh frequently played the tsungi horn."
-    },
-    {
       "body": "The tsungi horn is a ${link_0} instrument used in the traditional music of the ${link_1}. The curved and highly polished horn is cast from metal, and is believed to have originated in the ${link_2}.",
       "links": [
         {
           "body": "musical",
           "key": "${link_0}",
           "target": {
-            "href": "Music_in_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Music_in_the_World_of_Avatar",
             "page": "Music_in_the_World_of_Avatar"
           }
         },
@@ -67,7 +59,8 @@
           "body": "four nations",
           "key": "${link_1}",
           "target": {
-            "href": "Four_nations",
+            "external": false,
+            "href": "/wiki/Four_nations",
             "page": "Four_nations"
           }
         },
@@ -75,12 +68,119 @@
           "body": "Fire Nation",
           "key": "${link_2}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         }
       ],
+      "section": [
+        "Tsungi horn"
+      ],
       "text": "The tsungi horn is a musical instrument used in the traditional music of the four nations. The curved and highly polished horn is cast from metal, and is believed to have originated in the Fire Nation."
+    },
+    {
+      "body": "${link_0} was a talented player of the tsungi horn. He played it once on board ${link_1}, and a second time in the ${link_2}.",
+      "links": [
+        {
+          "body": "Iroh",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Iroh",
+            "page": "Iroh"
+          }
+        },
+        {
+          "body": "Zuko's ship",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko%27s_ship",
+            "page": "Zuko%27s_ship"
+          }
+        },
+        {
+          "body": "Jasmine Dragon",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jasmine_Dragon",
+            "page": "Jasmine_Dragon"
+          }
+        }
+      ],
+      "section": [
+        "Tsungi horn",
+        "Musicians"
+      ],
+      "text": "Iroh was a talented player of the tsungi horn. He played it once on board Zuko's ship, and a second time in the Jasmine Dragon."
+    },
+    {
+      "body": "${link_0} had some experience in playing the instrument, though he admitted to not being very good at it.",
+      "links": [
+        {
+          "body": "Aang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Aang",
+            "page": "Aang"
+          }
+        }
+      ],
+      "section": [
+        "Tsungi horn",
+        "Musicians"
+      ],
+      "text": "Aang had some experience in playing the instrument, though he admitted to not being very good at it."
+    },
+    {
+      "body": "${link_0} was very gifted at playing the tsungi horn, however, he adamantly refused to play on his ship's music night.",
+      "links": [
+        {
+          "body": "Zuko",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko",
+            "page": "Zuko"
+          }
+        }
+      ],
+      "section": [
+        "Tsungi horn",
+        "Musicians"
+      ],
+      "text": "Zuko was very gifted at playing the tsungi horn, however, he adamantly refused to play on his ship's music night."
+    },
+    {
+      "body": "A member of ${link_0} played the instrument during the secret dance party in the ${link_1}.",
+      "links": [
+        {
+          "body": "The Flamey-Os",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Flamey-Os",
+            "page": "The_Flamey-Os"
+          }
+        },
+        {
+          "body": "beach cave",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beach_cave",
+            "page": "Beach_cave"
+          }
+        }
+      ],
+      "section": [
+        "Tsungi horn",
+        "Musicians"
+      ],
+      "text": "A member of The Flamey-Os played the instrument during the secret dance party in the beach cave."
     },
     {
       "body": "The real life counterparts in terms of appearance to the tsungi horn are the sousaphone and the French horn. ${link_0} created the instrument's unique sound by superimposing characteristics of the trombone to the duduk, a double reed instrument from Armenia.",
@@ -89,12 +189,91 @@
           "body": "The Track Team",
           "key": "${link_0}",
           "target": {
-            "href": "The_Track_Team",
+            "external": false,
+            "href": "/wiki/The_Track_Team",
             "page": "The_Track_Team"
           }
         }
       ],
+      "section": [
+        "Tsungi horn",
+        "Connection"
+      ],
       "text": "The real life counterparts in terms of appearance to the tsungi horn are the sousaphone and the French horn. The Track Team created the instrument's unique sound by superimposing characteristics of the trombone to the duduk, a double reed instrument from Armenia."
+    },
+    {
+      "body": "The musical instrument is sometimes heard in the score during the series, usually when ${link_0} is in sudden danger, such as when they stole the ${link_1} from the ${link_2}, any time the ${link_3} appears, and most often during Zuko's themes.",
+      "links": [
+        {
+          "body": "Team Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Team_Avatar",
+            "page": "Team_Avatar"
+          }
+        },
+        {
+          "body": "waterbending scroll",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Waterbending_scroll",
+            "page": "Waterbending_scroll"
+          }
+        },
+        {
+          "body": "pirate ship boutique",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Pirate_ship_boutique",
+            "page": "Pirate_ship_boutique"
+          }
+        },
+        {
+          "body": "Blue Spirit",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko#Other_skills",
+            "page": "Zuko"
+          }
+        }
+      ],
+      "section": [
+        "Tsungi horn",
+        "Trivia"
+      ],
+      "text": "The musical instrument is sometimes heard in the score during the series, usually when Team Avatar is in sudden danger, such as when they stole the waterbending scroll from the pirate ship boutique, any time the Blue Spirit appears, and most often during Zuko's themes."
+    },
+    {
+      "body": "The tsungi horn appears on the show more often than any other instrument.",
+      "links": [],
+      "section": [
+        "Tsungi horn",
+        "Trivia"
+      ],
+      "text": "The tsungi horn appears on the show more often than any other instrument."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Music in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Music_in_the_World_of_Avatar",
+            "page": "Music_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Tsungi horn",
+        "See also"
+      ],
+      "text": "Music in the World of Avatar"
     }
   ],
   "source": {

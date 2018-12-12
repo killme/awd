@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Stuck (2003)",
+          "body": "${link_0} (2003)",
           "extra": "(2003)",
           "extra_text": "(2003)",
-          "links": [],
+          "links": [
+            {
+              "body": "Stuck",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0411925",
+                "page": "http://www.imdb.com/find?q=tt0411925"
+              }
+            }
+          ],
           "text": "Stuck (2003)",
-          "value": "Stuck",
+          "value": "${link_0}",
           "value_text": "Stuck"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1661282",
+                "page": "http://www.imdb.com/find?q=nm1661282"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Janet_Varney",
+                "page": "http://en.wikipedia.org/wiki/Janet_Varney"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,13 +124,514 @@
   ],
   "paragraphs": [
     {
+      "body": "210. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A New Spiritual Age",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_New_Spiritual_Age",
+            "page": "A_New_Spiritual_Age"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "The Legend of Korra credits",
+        "May"
+      ],
+      "text": "210. \"A New Spiritual Age\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Leaf in the Wind",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Leaf_in_the_Wind",
+            "page": "A_Leaf_in_the_Wind"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "102. \"A Leaf in the Wind\""
+    },
+    {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Spirit of Competition",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Spirit_of_Competition",
+            "page": "The_Spirit_of_Competition"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "105. \"The Spirit of Competition\""
+    },
+    {
+      "body": "108. \"${link_0}\"",
+      "links": [
+        {
+          "body": "When Extremes Meet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/When_Extremes_Meet",
+            "page": "When_Extremes_Meet"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "108. \"When Extremes Meet\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Endgame",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Endgame",
+            "page": "Endgame"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "112. \"Endgame\""
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Best Player",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1535615",
+            "page": "http://www.imdb.com/find?q=tt1535615"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Best Player (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bones",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460627",
+            "page": "http://www.imdb.com/find?q=tt0460627"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bones"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Childrens Hospital",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1325113",
+            "page": "http://www.imdb.com/find?q=tt1325113"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Childrens Hospital"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dinner & a Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0361169",
+            "page": "http://www.imdb.com/find?q=tt0361169"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dinner & a Movie"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Entourage",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0387199",
+            "page": "http://www.imdb.com/find?q=tt0387199"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Entourage"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hot in Cleveland",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1583607",
+            "page": "http://www.imdb.com/find?q=tt1583607"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hot in Cleveland"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "How I Met Your Mother",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460649",
+            "page": "http://www.imdb.com/find?q=tt0460649"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "How I Met Your Mother"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Exes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1830888",
+            "page": "http://www.imdb.com/find?q=tt1830888"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Exes"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Diani & Devine Meet the Apocalypse",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3281960",
+            "page": "http://www.imdb.com/find?q=tt3281960"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Diani & Devine Meet the Apocalypse (2014)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Judy Moody and the Not Bummer Summer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1547230",
+            "page": "http://www.imdb.com/find?q=tt1547230"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Judy Moody and the Not Bummer Summer (2011)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "The Selling of Scarry Manor",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1552214",
+            "page": "http://www.imdb.com/find?q=tt1552214"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Selling of Scarry Manor (2011)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Still Waiting...",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1116186",
+            "page": "http://www.imdb.com/find?q=tt1116186"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Still Waiting... (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Drillbit Taylor",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0817538",
+            "page": "http://www.imdb.com/find?q=tt0817538"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Drillbit Taylor (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Dante's Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0479008",
+            "page": "http://www.imdb.com/find?q=tt0479008"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dante's Inferno (2007)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Catwoman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0327554",
+            "page": "http://www.imdb.com/find?q=tt0327554"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Catwoman (2004)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Stuck",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0411925",
+            "page": "http://www.imdb.com/find?q=tt0411925"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stuck (2003)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Dinner & a Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0361169",
+            "page": "http://www.imdb.com/find?q=tt0361169"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dinner & a Movie (writer)"
+    },
+    {
+      "body": "${link_0} (executive producer, soundtrack writer, and writer)",
+      "links": [
+        {
+          "body": "Neil's Puppet Dreams",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2789866",
+            "page": "http://www.imdb.com/find?q=tt2789866"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Neil's Puppet Dreams (executive producer, soundtrack writer, and writer)"
+    },
+    {
+      "body": "${link_0} (short - producer)",
+      "links": [
+        {
+          "body": "Noel Coward's Last Play",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2193165",
+            "page": "http://www.imdb.com/find?q=tt2193165"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Noel Coward's Last Play (short - producer)"
+    },
+    {
+      "body": "${link_0} (soundtrack vocalist)",
+      "links": [
+        {
+          "body": "The Haunted World of El Superbeasto",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0419724",
+            "page": "http://www.imdb.com/find?q=tt0419724"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Haunted World of El Superbeasto (soundtrack vocalist)"
+    },
+    {
       "body": "Janet Varney was born in Arizona and eventually moved to San Francisco. An alumnus of San Francisco State University, Varney has worked for and co-founded several comedy troupes, and was in a relationship with ${link_0}, who voiced the adult ${link_1} in The Legend of Korra, between 2004 and 2011. In film, Varney has appeared alongside Owen Wilson in Drillbit Taylor, Halle Berry in Catwoman, and in the Lionsgate feature Still Waiting as part of a comedy ensemble that includes Justin Long, ${link_2}, and Luiz Guzman. Varney recently played the female lead in the teen comedy Nic & Tristan. She also starred opposite iCarly's Jerry Trainor and Jennette McCurdy in the 2010 ${link_3} Original television movie Best Player.",
       "links": [
         {
           "body": "Chris Hardwick",
           "key": "${link_0}",
           "target": {
-            "href": "Chris_Hardwick",
+            "external": false,
+            "href": "/wiki/Chris_Hardwick",
             "page": "Chris_Hardwick"
           }
         },
@@ -105,7 +639,8 @@
           "body": "Sokka",
           "key": "${link_1}",
           "target": {
-            "href": "Sokka",
+            "external": false,
+            "href": "/wiki/Sokka",
             "page": "Sokka"
           }
         },
@@ -113,7 +648,8 @@
           "body": "John Michael Higgins",
           "key": "${link_2}",
           "target": {
-            "href": "John_Michael_Higgins",
+            "external": false,
+            "href": "/wiki/John_Michael_Higgins",
             "page": "John_Michael_Higgins"
           }
         },
@@ -121,22 +657,174 @@
           "body": "Nickelodeon",
           "key": "${link_3}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
+      ],
+      "section": [
+        "Janet Varney",
+        "Personal life"
       ],
       "text": "Janet Varney was born in Arizona and eventually moved to San Francisco. An alumnus of San Francisco State University, Varney has worked for and co-founded several comedy troupes, and was in a relationship with Chris Hardwick, who voiced the adult Sokka in The Legend of Korra, between 2004 and 2011. In film, Varney has appeared alongside Owen Wilson in Drillbit Taylor, Halle Berry in Catwoman, and in the Lionsgate feature Still Waiting as part of a comedy ensemble that includes Justin Long, John Michael Higgins, and Luiz Guzman. Varney recently played the female lead in the teen comedy Nic & Tristan. She also starred opposite iCarly's Jerry Trainor and Jennette McCurdy in the 2010 Nickelodeon Original television movie Best Player."
     },
     {
       "body": "Varney is the co-creator and co-producer of one of the largest and most successful comedy festivals in the country, the San Francisco Sketchfest. She is well known for co-hosting TBS' Dinner & a Movie and the Mark Burnett-Steven Spielberg-produced film competition On the Lot. She has also starred in the sketch series HPC with Dave Koechner, Diedrich Bader, and Kristin Wiig, and Sean Hayes' sketch series for Fox, Man Stroke Woman.",
       "links": [],
+      "section": [
+        "Janet Varney",
+        "Personal life"
+      ],
       "text": "Varney is the co-creator and co-producer of one of the largest and most successful comedy festivals in the country, the San Francisco Sketchfest. She is well known for co-hosting TBS' Dinner & a Movie and the Mark Burnett-Steven Spielberg-produced film competition On the Lot. She has also starred in the sketch series HPC with Dave Koechner, Diedrich Bader, and Kristin Wiig, and Sean Hayes' sketch series for Fox, Man Stroke Woman."
     },
     {
       "body": "She has guest starred on many hit shows, including How I Met Your Mother, Better Off Ted, Psych, Bones, What About Brian?, and Halfway Home. Varney continues to recur as smart, sexy television executive Amy Miller on HBO's Entourage. In 2009, Varney signed on to star in an ABC comedy series from Jeff Strauss titled Married Not Dead.",
       "links": [],
+      "section": [
+        "Janet Varney",
+        "Personal life"
+      ],
       "text": "She has guest starred on many hit shows, including How I Met Your Mother, Better Off Ted, Psych, Bones, What About Brian?, and Halfway Home. Varney continues to recur as smart, sexy television executive Amy Miller on HBO's Entourage. In 2009, Varney signed on to star in an ABC comedy series from Jeff Strauss titled Married Not Dead."
+    },
+    {
+      "body": "Janet Varney identifies with the character of Korra in the fact that she shares Korra's impatience and enthusiasm for a lot of things, as well as the loyal friendships and the concern about right and wrong in the world. However, she does believe that Korra is about a hundred times cooler than she will ever be.",
+      "links": [],
+      "section": [
+        "Janet Varney",
+        "Trivia"
+      ],
+      "text": "Janet Varney identifies with the character of Korra in the fact that she shares Korra's impatience and enthusiasm for a lot of things, as well as the loyal friendships and the concern about right and wrong in the world. However, she does believe that Korra is about a hundred times cooler than she will ever be."
+    },
+    {
+      "body": "Varney has stated that if she could be a bender, she would be either a ${link_0}, as she has always had a serious fascination with fire, or a ${link_1}, because she likes its effects and because she was fascinated by large bodies of water growing up in a desert area. On the other hand, she thinks she would be the worst at ${link_2}.",
+      "links": [
+        {
+          "body": "firebender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Firebending",
+            "page": "Firebending"
+          }
+        },
+        {
+          "body": "waterbender",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Waterbending",
+            "page": "Waterbending"
+          }
+        },
+        {
+          "body": "airbending",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Airbending",
+            "page": "Airbending"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Trivia"
+      ],
+      "text": "Varney has stated that if she could be a bender, she would be either a firebender, as she has always had a serious fascination with fire, or a waterbender, because she likes its effects and because she was fascinated by large bodies of water growing up in a desert area. On the other hand, she thinks she would be the worst at airbending."
+    },
+    {
+      "body": "During an exclusive San Diego Comic-Con 2014 interview for Wikia, Varney mentioned that ${link_0} and ${link_1} are her favorite characters on the show.",
+      "links": [
+        {
+          "body": "Varrick",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Iknik_Blackstone_Varrick",
+            "page": "Iknik_Blackstone_Varrick"
+          }
+        },
+        {
+          "body": "Lin Beifong",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lin_Beifong",
+            "page": "Lin_Beifong"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Trivia"
+      ],
+      "text": "During an exclusive San Diego Comic-Con 2014 interview for Wikia, Varney mentioned that Varrick and Lin Beifong are her favorite characters on the show."
+    },
+    {
+      "body": "In an interview with Nick Animation, Varney stated that her favorite book is ${link_0} and her favorite antagonist is ${link_1}.",
+      "links": [
+        {
+          "body": "Book Four: Balance",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Book_Four__Balance",
+            "page": "Book_Four__Balance"
+          }
+        },
+        {
+          "body": "Kuvira",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kuvira",
+            "page": "Kuvira"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Trivia"
+      ],
+      "text": "In an interview with Nick Animation, Varney stated that her favorite book is Book Four: Balance and her favorite antagonist is Kuvira."
+    },
+    {
+      "body": "Janet Varney wrote a song with Paul Gilmartin and ${link_0}, the voice actor who voiced ${link_1} in ${link_2}, called \"Daddy Drank\" for the characters she and Grey DeLisle play opposite Paul's Republican Congressman character, Richard Martin.",
+      "links": [
+        {
+          "body": "Grey DeLisle",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Grey_DeLisle",
+            "page": "Grey_DeLisle"
+          }
+        },
+        {
+          "body": "Azula",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Azula",
+            "page": "Azula"
+          }
+        },
+        {
+          "body": "Avatar: The Last Airbender",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
+            "page": "Avatar__The_Last_Airbender"
+          }
+        }
+      ],
+      "section": [
+        "Janet Varney",
+        "Trivia"
+      ],
+      "text": "Janet Varney wrote a song with Paul Gilmartin and Grey DeLisle, the voice actor who voiced Azula in Avatar: The Last Airbender, called \"Daddy Drank\" for the characters she and Grey DeLisle play opposite Paul's Republican Congressman character, Richard Martin."
     }
   ],
   "source": {

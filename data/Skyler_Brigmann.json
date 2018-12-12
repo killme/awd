@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Lake (2008; short)",
+          "body": "${link_0} (2008; short)",
           "extra": "(2008; short)",
           "extra_text": "(2008; short)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Lake",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1382273",
+                "page": "http://www.imdb.com/find?q=tt1382273"
+              }
+            }
+          ],
           "text": "The Lake (2008; short)",
-          "value": "The Lake",
+          "value": "${link_0}",
           "value_text": "The Lake"
         }
       ]
@@ -41,30 +54,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm3158156",
+                "page": "http://www.imdb.com/find?q=nm3158156"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/Skyler_Brigmann",
+                "page": "https://twitter.com/Skyler_Brigmann"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         },
         {
-          "body": "Vimeo",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Vimeo",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://vimeo.com/skylerbrigmann",
+                "page": "http://vimeo.com/skylerbrigmann"
+              }
+            }
+          ],
           "text": "Vimeo",
-          "value": "Vimeo",
+          "value": "${link_0}",
           "value_text": "Vimeo"
         }
       ]
@@ -72,8 +115,373 @@
   ],
   "paragraphs": [
     {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "The Legend of Korra credits",
+        "Kai"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "The Legend of Korra credits",
+        "Kai"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "The Legend of Korra credits",
+        "Kai"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "307. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Original Airbenders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Original_Airbenders",
+            "page": "Original_Airbenders"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "The Legend of Korra credits",
+        "Kai"
+      ],
+      "text": "307. \"Original Airbenders\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ultimatum",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ultimatum",
+            "page": "The_Ultimatum"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "The Legend of Korra credits",
+        "Kai"
+      ],
+      "text": "311. \"The Ultimatum\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enter the Void",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enter_the_Void",
+            "page": "Enter_the_Void"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "The Legend of Korra credits",
+        "Kai"
+      ],
+      "text": "312. \"Enter the Void\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "The Legend of Korra credits",
+        "Kai"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "401. \"${link_0}\"",
+      "links": [
+        {
+          "body": "After All These Years",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/After_All_These_Years",
+            "page": "After_All_These_Years"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "The Legend of Korra credits",
+        "Kai"
+      ],
+      "text": "401. \"After All These Years\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Childrens Hospital",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1325113",
+            "page": "http://www.imdb.com/find?q=tt1325113"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Childrens Hospital"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Criminal Minds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0452046",
+            "page": "http://www.imdb.com/find?q=tt0452046"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Criminal Minds"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Futurestates",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2071758",
+            "page": "http://www.imdb.com/find?q=tt2071758"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Futurestates"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Tumble Leaf",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2948562",
+            "page": "http://www.imdb.com/find?q=tt2948562"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Tumble Leaf"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Commander and Chief",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1205474",
+            "page": "http://www.imdb.com/find?q=tt1205474"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Commander and Chief (2012)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Letters from the Big Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1783331",
+            "page": "http://www.imdb.com/find?q=tt1783331"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Letters from the Big Man (2011)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "My Education",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1754243",
+            "page": "http://www.imdb.com/find?q=tt1754243"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "My Education (2010; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Reunion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1367096",
+            "page": "http://www.imdb.com/find?q=tt1367096"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Reunion (2009)"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "The Pitch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1347181",
+            "page": "http://www.imdb.com/find?q=tt1347181"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Pitch (2009; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Truly Blessed",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1274277",
+            "page": "http://www.imdb.com/find?q=tt1274277"
+          }
+        }
+      ],
+      "section": [
+        "Skyler Brigmann",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Truly Blessed (2009)"
+    },
+    {
       "body": "Brigmann attends West Ranch High School in Santa Clarita, California.",
       "links": [],
+      "section": [
+        "Skyler Brigmann",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Brigmann attends West Ranch High School in Santa Clarita, California."
     }
   ],

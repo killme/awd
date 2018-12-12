@@ -3,7 +3,8 @@
     {
       "body": "Images",
       "target": {
-        "href": "Category_Images",
+        "external": false,
+        "href": "/wiki/Category_Images",
         "page": "Category_Images"
       }
     }
@@ -17,17 +18,35 @@
           "body": "Team Avatar Tales",
           "key": "${link_0}",
           "target": {
-            "href": "Team_Avatar_Tales",
+            "external": false,
+            "href": "/wiki/Team_Avatar_Tales",
             "page": "Team_Avatar_Tales"
           }
         }
       ],
+      "section": [
+        "Category:Team Avatar Tales images"
+      ],
       "text": "Category containing all images from Team Avatar Tales used on the wiki."
     },
     {
-      "body": "All items (1)",
-      "links": [],
-      "text": "All items (1)"
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "File:Team Avatar Tales cover.png",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/File:Team_Avatar_Tales_cover.png",
+            "page": "File:Team_Avatar_Tales_cover.png"
+          }
+        }
+      ],
+      "section": [
+        "Category:Team Avatar Tales images",
+        "T"
+      ],
+      "text": "File:Team Avatar Tales cover.png"
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Pop Rocks (2004; TV movie)",
+          "body": "${link_0} (2004; TV movie)",
           "extra": "(2004; TV movie)",
           "extra_text": "(2004; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Pop Rocks",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0411765",
+                "page": "http://www.imdb.com/find?q=tt0411765"
+              }
+            }
+          ],
           "text": "Pop Rocks (2004; TV movie)",
-          "value": "Pop Rocks",
+          "value": "${link_0}",
           "value_text": "Pop Rocks"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1715189",
+                "page": "http://www.imdb.com/find?q=nm1715189"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Johanna_Braddy",
+                "page": "http://en.wikipedia.org/wiki/Johanna_Braddy"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/Johanna-Braddy/107853089237340",
+                "page": "http://www.facebook.com/pages/Johanna-Braddy/107853089237340"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/JohannaEBraddy",
+                "page": "https://twitter.com/JohannaEBraddy"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/JohannaBraddy",
+                "page": "http://www.youtube.com/user/JohannaBraddy"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
@@ -118,13 +181,423 @@
   ],
   "paragraphs": [
     {
+      "body": "118. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Master",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Master",
+            "page": "The_Waterbending_Master"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Avatar: The Last Airbender credits",
+        "Yue"
+      ],
+      "text": "118. \"The Waterbending Master\""
+    },
+    {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Avatar: The Last Airbender credits",
+        "Yue"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Avatar: The Last Airbender credits",
+        "Yue"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Swamp",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Swamp",
+            "page": "The_Swamp"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Avatar: The Last Airbender credits",
+        "Yue"
+      ],
+      "text": "204. \"The Swamp\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Awakening",
+            "page": "The_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Avatar: The Last Airbender credits",
+        "Yue"
+      ],
+      "text": "301. \"The Awakening\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CSI: Miami",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0313043",
+            "page": "http://www.imdb.com/find?q=tt0313043"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CSI: Miami"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Detroit 1-8-7",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1578258",
+            "page": "http://www.imdb.com/find?q=tt1578258"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Detroit 1-8-7"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Friends with Benefits",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1604113",
+            "page": "http://www.imdb.com/find?q=tt1604113"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Friends with Benefits"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Greek",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0976014",
+            "page": "http://www.imdb.com/find?q=tt0976014"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Greek"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Shameless",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1586680",
+            "page": "http://www.imdb.com/find?q=tt1586680"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Shameless"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Southland",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1299368",
+            "page": "http://www.imdb.com/find?q=tt1299368"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Southland"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Riches",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0496343",
+            "page": "http://www.imdb.com/find?q=tt0496343"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Riches"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Video Game High School",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2170584",
+            "page": "http://www.imdb.com/find?q=tt2170584"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Video Game High School"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Easy A",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1282140",
+            "page": "http://www.imdb.com/find?q=tt1282140"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Easy A (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Hurt",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1046936",
+            "page": "http://www.imdb.com/find?q=tt1046936"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hurt (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Wild About Harry",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0435711",
+            "page": "http://www.imdb.com/find?q=tt0435711"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Wild About Harry (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Grudge 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1053859",
+            "page": "http://www.imdb.com/find?q=tt1053859"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Grudge 3 (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Ponyo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0876563",
+            "page": "http://www.imdb.com/find?q=tt0876563"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ponyo (2008)"
+    },
+    {
+      "body": "${link_0} (2007; short)",
+      "links": [
+        {
+          "body": "Penny Dreadful",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1134840",
+            "page": "http://www.imdb.com/find?q=tt1134840"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Penny Dreadful (2007; short)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Surf's Up",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0423294",
+            "page": "http://www.imdb.com/find?q=tt0423294"
+          }
+        }
+      ],
+      "section": [
+        "Johanna Braddy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Surf's Up (2007)"
+    },
+    {
       "body": "Braddy was born in Atlanta, Georgia, to Jo Beth, a preschool music teacher and vocalist, and Steve Braddy, an engineer. She has one brother, Cole Braddy, who is eight years her junior. In 2005, Braddy graduated from McIntosh High School in Peachtree City, Georgia, where she was the captain of her high school dance team and an active member of McIntosh's drama program under director Stephen Buckner. In November 2012, she married her Video Game High School co-star Josh Blaylock.",
       "links": [],
+      "section": [
+        "Johanna Braddy",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Braddy was born in Atlanta, Georgia, to Jo Beth, a preschool music teacher and vocalist, and Steve Braddy, an engineer. She has one brother, Cole Braddy, who is eight years her junior. In 2005, Braddy graduated from McIntosh High School in Peachtree City, Georgia, where she was the captain of her high school dance team and an active member of McIntosh's drama program under director Stephen Buckner. In November 2012, she married her Video Game High School co-star Josh Blaylock."
     },
     {
       "body": "Braddy's film debut was in Pop Rocks,\u00a0in which she portrayed\u00a0Olivia Harden; her role as Yue in Avatar: The Last Airbender marked her television debut. She has starred in a number of other films, including Surf's Up, Broken Bridges, Home Of The Giants, The Oaks, Paranormal Activity 3, and The Grudge 3. In 2009, she appeared as Jordan in the ABC series Greek and is also featured in the web series Video Game High School playing Jenny Matrix.",
       "links": [],
+      "section": [
+        "Johanna Braddy",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Braddy's film debut was in Pop Rocks,\u00a0in which she portrayed\u00a0Olivia Harden; her role as Yue in Avatar: The Last Airbender marked her television debut. She has starred in a number of other films, including Surf's Up, Broken Bridges, Home Of The Giants, The Oaks, Paranormal Activity 3, and The Grudge 3. In 2009, she appeared as Jordan in the ABC series Greek and is also featured in the web series Video Game High School playing Jenny Matrix."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Young and the Restless (2003)",
+          "body": "${link_0} (2003)",
           "extra": "(2003)",
           "extra_text": "(2003)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Young and the Restless",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0069658",
+                "page": "http://www.imdb.com/find?q=tt0069658"
+              }
+            }
+          ],
           "text": "The Young and the Restless (2003)",
-          "value": "The Young and the Restless",
+          "value": "${link_0}",
           "value_text": "The Young and the Restless"
         }
       ]
@@ -55,48 +68,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1393246",
+                "page": "http://www.imdb.com/find?q=nm1393246"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Darcy_Rose_Byrnes",
+                "page": "http://en.wikipedia.org/wiki/Darcy_Rose_Byrnes"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Darcy-Rose-Byrnes/51853002629",
+                "page": "https://www.facebook.com/pages/Darcy-Rose-Byrnes/51853002629"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/DarcyRoseByrnes",
+                "page": "https://twitter.com/DarcyRoseByrnes"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/4idoido",
+                "page": "http://www.youtube.com/user/4idoido"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
@@ -104,14 +167,149 @@
   ],
   "paragraphs": [
     {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Darcy Rose Byrnes",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Leaf in the Wind",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Leaf_in_the_Wind",
+            "page": "A_Leaf_in_the_Wind"
+          }
+        }
+      ],
+      "section": [
+        "Darcy Rose Byrnes",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "102. \"A Leaf in the Wind\""
+    },
+    {
+      "body": "103. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Revelation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Revelation_(episode)",
+            "page": "The_Revelation_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Darcy Rose Byrnes",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "103. \"The Revelation\""
+    },
+    {
+      "body": "108. \"${link_0}\"",
+      "links": [
+        {
+          "body": "When Extremes Meet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/When_Extremes_Meet",
+            "page": "When_Extremes_Meet"
+          }
+        }
+      ],
+      "section": [
+        "Darcy Rose Byrnes",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "108. \"When Extremes Meet\""
+    },
+    {
       "body": "Born and raised in Hollywood, California, Darcy Rose Byrnes is the daughter of actors Cathy D'Arcy and CJ Byrnes.",
       "links": [],
+      "section": [
+        "Darcy Rose Byrnes",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Born and raised in Hollywood, California, Darcy Rose Byrnes is the daughter of actors Cathy D'Arcy and CJ Byrnes."
     },
     {
       "body": "Byrnes appeared in the direct-to-video film The Sparky Chronicles: The Map in 2003. That same year, she landed a role in the soap opera The Young and the Restless as Abby Carlton, a role she would continue to play until 2008. During that time, she also had a guest starring role in The Bold and the Beautiful for eight episodes. Byrnes also has appeared in television shows, including How I Met Your Mother, Ghost Whisperer, Cold Case, Dirty Sexy Money, House, and Desperate Housewives. She played Rebecca Knepp in the Hallmark Television movie, Amish Grace, alongside Kimberly Williams-Paisley, and also provides the speaking and singing voice of Princess Amber in Sofia the First.",
       "links": [],
+      "section": [
+        "Darcy Rose Byrnes",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Byrnes appeared in the direct-to-video film The Sparky Chronicles: The Map in 2003. That same year, she landed a role in the soap opera The Young and the Restless as Abby Carlton, a role she would continue to play until 2008. During that time, she also had a guest starring role in The Bold and the Beautiful for eight episodes. Byrnes also has appeared in television shows, including How I Met Your Mother, Ghost Whisperer, Cold Case, Dirty Sexy Money, House, and Desperate Housewives. She played Rebecca Knepp in the Hallmark Television movie, Amish Grace, alongside Kimberly Williams-Paisley, and also provides the speaking and singing voice of Princess Amber in Sofia the First."
+    },
+    {
+      "body": "2009: Nominated for The Young and the Restless (Best Performance in a TV Series - Recurring Young Actress)",
+      "links": [],
+      "section": [
+        "Darcy Rose Byrnes",
+        "Awards"
+      ],
+      "text": "2009: Nominated for The Young and the Restless (Best Performance in a TV Series - Recurring Young Actress)"
+    },
+    {
+      "body": "2008: Nominated for Cold Case (Best Performance in a TV Series - Guest Starring Young Actress)",
+      "links": [],
+      "section": [
+        "Darcy Rose Byrnes",
+        "Awards"
+      ],
+      "text": "2008: Nominated for Cold Case (Best Performance in a TV Series - Guest Starring Young Actress)"
+    },
+    {
+      "body": "2007: Won a Young Artist Award for The Young and the Restless (Recurring Young Actress)",
+      "links": [],
+      "section": [
+        "Darcy Rose Byrnes",
+        "Awards"
+      ],
+      "text": "2007: Won a Young Artist Award for The Young and the Restless (Recurring Young Actress)"
+    },
+    {
+      "body": "2006: Won a Young Artist Award for The Young and the Restless (Guest Starring Young Actress)",
+      "links": [],
+      "section": [
+        "Darcy Rose Byrnes",
+        "Awards"
+      ],
+      "text": "2006: Won a Young Artist Award for The Young and the Restless (Guest Starring Young Actress)"
+    },
+    {
+      "body": "2005: Won a Young Artist Award for The Young and the Restless (Young Actress Age Ten or Younger)",
+      "links": [],
+      "section": [
+        "Darcy Rose Byrnes",
+        "Awards"
+      ],
+      "text": "2005: Won a Young Artist Award for The Young and the Restless (Young Actress Age Ten or Younger)"
     }
   ],
   "source": {

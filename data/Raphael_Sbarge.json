@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Abuse (1983)",
+          "body": "${link_0} (1983)",
           "extra": "(1983)",
           "extra_text": "(1983)",
-          "links": [],
+          "links": [
+            {
+              "body": "Abuse",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0083517",
+                "page": "http://www.imdb.com/find?q=tt0083517"
+              }
+            }
+          ],
           "text": "Abuse (1983)",
-          "value": "Abuse",
+          "value": "${link_0}",
           "value_text": "Abuse"
         }
       ]
@@ -55,57 +68,117 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0768620",
+                "page": "http://www.imdb.com/find?q=nm0768620"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Raphael_Sbarge",
+                "page": "http://en.wikipedia.org/wiki/Raphael_Sbarge"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/officialraphaelsbarge",
+                "page": "https://www.facebook.com/officialraphaelsbarge"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/112769315367507519527/posts",
+                "page": "https://plus.google.com/112769315367507519527/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.raphaelsbarge.com/",
+                "page": "http://www.raphaelsbarge.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/RaphaelSbarge",
+                "page": "https://twitter.com/RaphaelSbarge"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -113,13 +186,461 @@
   ],
   "paragraphs": [
     {
+      "body": "210. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Library",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Library",
+            "page": "The_Library"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Avatar: The Last Airbender credits",
+        "Zei"
+      ],
+      "text": "210. \"The Library\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "24",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285331",
+            "page": "http://www.imdb.com/find?q=tt0285331"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "24"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dexter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0773262",
+            "page": "http://www.imdb.com/find?q=tt0773262"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dexter"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Once Upon a Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1843230",
+            "page": "http://www.imdb.com/find?q=tt1843230"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Once Upon a Time"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Prison Break",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0455275",
+            "page": "http://www.imdb.com/find?q=tt0455275"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Prison Break"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: Voyager",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112178",
+            "page": "http://www.imdb.com/find?q=tt0112178"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: Voyager"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Guardian",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285370",
+            "page": "http://www.imdb.com/find?q=tt0285370"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Guardian"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Young and the Restless",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0069658",
+            "page": "http://www.imdb.com/find?q=tt0069658"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Young and the Restless"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Ambivalence",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3158306",
+            "page": "http://www.imdb.com/find?q=tt3158306"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ambivalence (2014)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Better Days",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0308028",
+            "page": "http://www.imdb.com/find?q=tt0308028"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Better Days (2005)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Pearl Harbor",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0213149",
+            "page": "http://www.imdb.com/find?q=tt0213149"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pearl Harbor (2001)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Message in a Bottle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0139462",
+            "page": "http://www.imdb.com/find?q=tt0139462"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Message in a Bottle (1999)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Two-Eleven",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0114758",
+            "page": "http://www.imdb.com/find?q=tt0114758"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Two-Eleven (1999)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "BASEketball",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0131857",
+            "page": "http://www.imdb.com/find?q=tt0131857"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "BASEketball (1998)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Independence Day",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0116629",
+            "page": "http://www.imdb.com/find?q=tt0116629"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Independence Day (1996)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Grim Fandango",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0177822",
+            "page": "http://www.imdb.com/find?q=tt0177822"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Grim Fandango (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Mass Effect",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1073668",
+            "page": "http://www.imdb.com/find?q=tt1073668"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mass Effect (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Medal of Honor: Vanguard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0901687",
+            "page": "http://www.imdb.com/find?q=tt0901687"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Medal of Honor: Vanguard (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Force Commander",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0264040",
+            "page": "http://www.imdb.com/find?q=tt0264040"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Force Commander (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Knights of the Old Republic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356070",
+            "page": "http://www.imdb.com/find?q=tt0356070"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Knights of the Old Republic (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Rogue Squadron",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0183816",
+            "page": "http://www.imdb.com/find?q=tt0183816"
+          }
+        }
+      ],
+      "section": [
+        "Raphael Sbarge",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Rogue Squadron (video game)"
+    },
+    {
       "body": "Sbarge was born into a theater-oriented family in New York City. His mother, Jeanne Button, was a costume designer, and his father, Stephen A. Sbarge, was an artist, writer, and director who named his son after the Renaissance artist. As he was raised among theatric professionals, Sbarge experienced being in costume shops and being backstage for one of his parents productions. Sbarge began his career at the age of five on a newly founded television program for the Public Broadcasting Service, Sesame Street. Although he mainly works on movies and television shows, he loves being with Broadway and theater.",
       "links": [],
+      "section": [
+        "Raphael Sbarge",
+        "Biographical information"
+      ],
       "text": "Sbarge was born into a theater-oriented family in New York City. His mother, Jeanne Button, was a costume designer, and his father, Stephen A. Sbarge, was an artist, writer, and director who named his son after the Renaissance artist. As he was raised among theatric professionals, Sbarge experienced being in costume shops and being backstage for one of his parents productions. Sbarge began his career at the age of five on a newly founded television program for the Public Broadcasting Service, Sesame Street. Although he mainly works on movies and television shows, he loves being with Broadway and theater."
     },
     {
       "body": "Sbarge is married to actress Lisa Akey; they live in Los Angeles with their daughter Grace and son Django. Sbarge, Akey, Ed Begley Jr., and Rachelle Carson Begley have launched a new environmentalist non-profit called Green Wish.",
       "links": [],
+      "section": [
+        "Raphael Sbarge",
+        "Biographical information"
+      ],
       "text": "Sbarge is married to actress Lisa Akey; they live in Los Angeles with their daughter Grace and son Django. Sbarge, Akey, Ed Begley Jr., and Rachelle Carson Begley have launched a new environmentalist non-profit called Green Wish."
     }
   ],

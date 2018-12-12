@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Tempest (1960; TV movie)",
+          "body": "${link_0} (1960; TV movie)",
           "extra": "(1960; TV movie)",
           "extra_text": "(1960; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Tempest",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0057564",
+                "page": "http://www.imdb.com/find?q=tt0057564"
+              }
+            }
+          ],
           "text": "The Tempest (1960; TV movie)",
-          "value": "The Tempest",
+          "value": "${link_0}",
           "value_text": "The Tempest"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0060248",
+                "page": "http://www.imdb.com/find?q=nm0060248"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/William_Bassett_(actor)",
+                "page": "http://en.wikipedia.org/wiki/William_Bassett_(actor)"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/whbassett",
+                "page": "http://www.facebook.com/whbassett"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -86,8 +129,233 @@
   ],
   "paragraphs": [
     {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Swamp",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Swamp",
+            "page": "The_Swamp"
+          }
+        }
+      ],
+      "section": [
+        "William H. Bassett",
+        "Avatar: The Last Airbender credits",
+        "Huu"
+      ],
+      "text": "204. \"The Swamp\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "William H. Bassett",
+        "Avatar: The Last Airbender credits",
+        "Huu"
+      ],
+      "text": "310. \"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Diablo II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0258523",
+            "page": "http://www.imdb.com/find?q=tt0258523"
+          }
+        }
+      ],
+      "section": [
+        "William H. Bassett",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Diablo II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fallout 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1073664",
+            "page": "http://www.imdb.com/find?q=tt1073664"
+          }
+        }
+      ],
+      "section": [
+        "William H. Bassett",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fallout 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Medal of Honor: Allied Assault",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275511",
+            "page": "http://www.imdb.com/find?q=tt0275511"
+          }
+        }
+      ],
+      "section": [
+        "William H. Bassett",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Medal of Honor: Allied Assault (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0180825",
+            "page": "http://www.imdb.com/find?q=tt0180825"
+          }
+        }
+      ],
+      "section": [
+        "William H. Bassett",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid: Integral",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292103",
+            "page": "http://www.imdb.com/find?q=tt0292103"
+          }
+        }
+      ],
+      "section": [
+        "William H. Bassett",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid: Integral (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid: The Twin Snakes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0365499",
+            "page": "http://www.imdb.com/find?q=tt0365499"
+          }
+        }
+      ],
+      "section": [
+        "William H. Bassett",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid: The Twin Snakes (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Operation Darkness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1260582",
+            "page": "http://www.imdb.com/find?q=tt1260582"
+          }
+        }
+      ],
+      "section": [
+        "William H. Bassett",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Operation Darkness (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "WarCraft III: Reign of Chaos",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0259104",
+            "page": "http://www.imdb.com/find?q=tt0259104"
+          }
+        }
+      ],
+      "section": [
+        "William H. Bassett",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "WarCraft III: Reign of Chaos (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Warcraft III: The Frozen Throne",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0372023",
+            "page": "http://www.imdb.com/find?q=tt0372023"
+          }
+        }
+      ],
+      "section": [
+        "William H. Bassett",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Warcraft III: The Frozen Throne (video game)"
+    },
+    {
       "body": "Bassett was educated at Northwestern University, Illinois. When he finished there, he honed his acting technique at the Lincoln Center Training Program in New York City. Ever since, he has done many voice actor roles in cartoons along with live-action roles in film, theater, commercials, and television.",
       "links": [],
+      "section": [
+        "William H. Bassett",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Bassett was educated at Northwestern University, Illinois. When he finished there, he honed his acting technique at the Lincoln Center Training Program in New York City. Ever since, he has done many voice actor roles in cartoons along with live-action roles in film, theater, commercials, and television."
     }
   ],

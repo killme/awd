@@ -3,35 +3,40 @@
     {
       "body": "Needs help",
       "target": {
-        "href": "Category_Needs_help",
+        "external": false,
+        "href": "/wiki/Category_Needs_help",
         "page": "Category_Needs_help"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Console games",
       "target": {
-        "href": "Category_Console_games",
+        "external": false,
+        "href": "/wiki/Category_Console_games",
         "page": "Category_Console_games"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Video games",
       "target": {
-        "href": "Category_Video_games",
+        "external": false,
+        "href": "/wiki/Category_Video_games",
         "page": "Category_Video_games"
       }
     }
@@ -41,12 +46,22 @@
       "key": "Developers",
       "value": [
         {
-          "body": "THQ Studio Oz",
+          "body": "THQ ${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Studio Oz",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.thqstudioaustralia.com/",
+                "page": "http://www.thqstudioaustralia.com/"
+              }
+            }
+          ],
           "text": "THQ Studio Oz",
-          "value": "THQ Studio Oz",
+          "value": "THQ ${link_0}",
           "value_text": "THQ Studio Oz"
         },
         {
@@ -106,39 +121,79 @@
       "key": "Rating(s)",
       "value": [
         {
-          "body": "BBFC: PG",
+          "body": "${link_0}: PG",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "BBFC",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/British_Board_of_Film_Classification",
+                "page": "http://en.wikipedia.org/wiki/British_Board_of_Film_Classification"
+              }
+            }
+          ],
           "text": "BBFC: PG",
-          "value": "BBFC: PG",
+          "value": "${link_0}: PG",
           "value_text": "BBFC: PG"
         },
         {
-          "body": "ESRB: E10+",
+          "body": "${link_0}: E10+",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "ESRB",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board",
+                "page": "http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board"
+              }
+            }
+          ],
           "text": "ESRB: E10+",
-          "value": "ESRB: E10+",
+          "value": "${link_0}: E10+",
           "value_text": "ESRB: E10+"
         },
         {
-          "body": "OFLC: PG (mild violence)",
+          "body": "${link_0}: PG (mild violence)",
           "extra": "(mild violence)",
           "extra_text": "(mild violence)",
-          "links": [],
+          "links": [
+            {
+              "body": "OFLC",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(Australia)",
+                "page": "http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(Australia)"
+              }
+            }
+          ],
           "text": "OFLC: PG (mild violence)",
-          "value": "OFLC: PG",
+          "value": "${link_0}: PG",
           "value_text": "OFLC: PG"
         },
         {
-          "body": "PEGI: 7+",
+          "body": "${link_0}: 7+",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "PEGI",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Pan_European_Game_Information",
+                "page": "http://en.wikipedia.org/wiki/Pan_European_Game_Information"
+              }
+            }
+          ],
           "text": "PEGI: 7+",
-          "value": "PEGI: 7+",
+          "value": "${link_0}: 7+",
           "value_text": "PEGI: 7+"
         }
       ]
@@ -246,7 +301,8 @@
               "body": "Avatar: The Last Airbender \u2013 The Burning Earth",
               "key": "${link_0}",
               "target": {
-                "href": "Avatar__The_Last_Airbender_%e2%80%93_The_Burning_Earth",
+                "external": false,
+                "href": "/wiki/Avatar__The_Last_Airbender_%e2%80%93_The_Burning_Earth",
                 "page": "Avatar__The_Last_Airbender_%e2%80%93_The_Burning_Earth"
               }
             }
@@ -260,42 +316,14 @@
   ],
   "paragraphs": [
     {
-      "body": "The following information is not considered to be part of ${link_0}.",
-      "links": [
-        {
-          "body": "the main continuity",
-          "key": "${link_0}",
-          "target": {
-            "href": "Avatar_Wiki_Continuity",
-            "page": "Avatar_Wiki_Continuity"
-          }
-        }
-      ],
-      "text": "The following information is not considered to be part of the main continuity."
-    },
-    {
-      "body": "This page requires editing to meet Avatar Wiki's quality standards.",
-      "links": [],
-      "text": "This page requires editing to meet Avatar Wiki's quality standards."
-    },
-    {
-      "body": "PC, PS2, PSP, GCN, NDS, GBA",
-      "links": [],
-      "text": "PC, PS2, PSP, GCN, NDS, GBA"
-    },
-    {
-      "body": "Wii",
-      "links": [],
-      "text": "Wii"
-    },
-    {
       "body": "Avatar: The Last Airbender, known as Avatar: The Legend of Aang in Europe, is a 2006 ${link_0} developed by THQ and released for Game Boy Advance, Microsoft Windows, Nintendo GameCube, Nintendo DS, PlayStation 2, PlayStation Portable, Wii, and Xbox. The game is loosely based on ${link_1}, with the storyline set between ${link_2} and ${link_3}. Gameplay for the ${link_4} consists of a series of mini games based on the events of Book One.",
       "links": [
         {
           "body": "video game",
           "key": "${link_0}",
           "target": {
-            "href": "List_of_Avatar_games#Console_games",
+            "external": false,
+            "href": "/wiki/List_of_Avatar_games#Console_games",
             "page": "List_of_Avatar_games"
           }
         },
@@ -303,7 +331,8 @@
           "body": "the series",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         },
@@ -311,7 +340,8 @@
           "body": "Book One",
           "key": "${link_2}",
           "target": {
-            "href": "Book_One__Water",
+            "external": false,
+            "href": "/wiki/Book_One__Water",
             "page": "Book_One__Water"
           }
         },
@@ -319,7 +349,8 @@
           "body": "Book Two",
           "key": "${link_3}",
           "target": {
-            "href": "Book_Two__Earth",
+            "external": false,
+            "href": "/wiki/Book_Two__Earth",
             "page": "Book_Two__Earth"
           }
         },
@@ -327,10 +358,14 @@
           "body": "Microsoft Windows version",
           "key": "${link_4}",
           "target": {
-            "href": "Avatar__The_Last_Airbender_(PC_game)",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_(PC_game)",
             "page": "Avatar__The_Last_Airbender_(PC_game)"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender"
       ],
       "text": "Avatar: The Last Airbender, known as Avatar: The Legend of Aang in Europe, is a 2006 video game developed by THQ and released for Game Boy Advance, Microsoft Windows, Nintendo GameCube, Nintendo DS, PlayStation 2, PlayStation Portable, Wii, and Xbox. The game is loosely based on the series, with the storyline set between Book One and Book Two. Gameplay for the Microsoft Windows version consists of a series of mini games based on the events of Book One."
     },
@@ -341,10 +376,14 @@
           "body": "Avatar: The Last Airbender \u2013 The Burning Earth",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender_%e2%80%93_The_Burning_Earth",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_%e2%80%93_The_Burning_Earth",
             "page": "Avatar__The_Last_Airbender_%e2%80%93_The_Burning_Earth"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender"
       ],
       "text": "A sequel, Avatar: The Last Airbender \u2013 The Burning Earth, was released in the autumn of the following year."
     },
@@ -355,7 +394,8 @@
           "body": "Katara",
           "key": "${link_0}",
           "target": {
-            "href": "Katara_(games)",
+            "external": false,
+            "href": "/wiki/Katara_(games)",
             "page": "Katara_(games)"
           }
         },
@@ -363,7 +403,8 @@
           "body": "Northern Water Tribe",
           "key": "${link_1}",
           "target": {
-            "href": "Northern_Water_Tribe",
+            "external": false,
+            "href": "/wiki/Northern_Water_Tribe",
             "page": "Northern_Water_Tribe"
           }
         },
@@ -371,7 +412,8 @@
           "body": "Aang",
           "key": "${link_2}",
           "target": {
-            "href": "Aang_(games)",
+            "external": false,
+            "href": "/wiki/Aang_(games)",
             "page": "Aang_(games)"
           }
         },
@@ -379,7 +421,8 @@
           "body": "penguin sledding",
           "key": "${link_3}",
           "target": {
-            "href": "Penguin_sledding",
+            "external": false,
+            "href": "/wiki/Penguin_sledding",
             "page": "Penguin_sledding"
           }
         },
@@ -387,7 +430,8 @@
           "body": "Wei",
           "key": "${link_4}",
           "target": {
-            "href": "Wei",
+            "external": false,
+            "href": "/wiki/Wei",
             "page": "Wei"
           }
         },
@@ -395,7 +439,8 @@
           "body": "waterbender",
           "key": "${link_5}",
           "target": {
-            "href": "Waterbending",
+            "external": false,
+            "href": "/wiki/Waterbending",
             "page": "Waterbending"
           }
         },
@@ -403,10 +448,16 @@
           "body": "Hiryu",
           "key": "${link_6}",
           "target": {
-            "href": "Hiryu",
+            "external": false,
+            "href": "/wiki/Hiryu",
             "page": "Hiryu"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
       ],
       "text": "The game begins with an overview of the events preceding the game with Katara narrating. It opens\u00a0in the Northern Water Tribe, where Aang\u00a0excitedly talks about his plans to go penguin sledding with Katara.\u00a0Once he arrives at the village, Katara tells\u00a0Aang that\u00a0Master Wei is looking for him. He tells Aang to investigate the disappearance of a waterbender named Hiryu."
     },
@@ -417,7 +468,8 @@
           "body": "Fire Nation",
           "key": "${link_0}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         },
@@ -425,7 +477,8 @@
           "body": "Prince",
           "key": "${link_1}",
           "target": {
-            "href": "Heir_to_the_Fire_Lord",
+            "external": false,
+            "href": "/wiki/Heir_to_the_Fire_Lord",
             "page": "Heir_to_the_Fire_Lord"
           }
         },
@@ -433,7 +486,8 @@
           "body": "Zuko",
           "key": "${link_2}",
           "target": {
-            "href": "Zuko_(games)",
+            "external": false,
+            "href": "/wiki/Zuko_(games)",
             "page": "Zuko_(games)"
           }
         },
@@ -441,7 +495,8 @@
           "body": "Sokka",
           "key": "${link_3}",
           "target": {
-            "href": "Sokka_(games)",
+            "external": false,
+            "href": "/wiki/Sokka_(games)",
             "page": "Sokka_(games)"
           }
         },
@@ -449,47 +504,28 @@
           "body": "firebenders",
           "key": "${link_4}",
           "target": {
-            "href": "Firebending",
+            "external": false,
+            "href": "/wiki/Firebending",
             "page": "Firebending"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
       ],
       "text": "Aang goes to a cave where he\u00a0finds a waterbender's pouch, much like Katara's, and a gear near a large hole. He\u00a0returns to the village and returns both to his master.\u00a0Not long after that,\u00a0the Fire Nation launches an attack led by Prince Zuko, who wants Aang captured unharmed. Aang goes to help Sokka, who is struggling as he is surrounded by firebenders, leaving Katara to help Master Wei keep Zuko from getting any further into the city."
     },
     {
       "body": "During the battle,\u00a0Katara is captured, and Zuko retreats with her\u00a0in tow in order to lure Aang out to come after him. Before Aang and Sokka leave to chase after Zuko though, they encounter a machine blocking their way to Appa. They are able to defeat it, but they discover the machine was made by the Fire Nation, which means that they are becoming more powerful and dangerous than ever.",
       "links": [],
-      "text": "During the battle,\u00a0Katara is captured, and Zuko retreats with her\u00a0in tow in order to lure Aang out to come after him. Before Aang and Sokka leave to chase after Zuko though, they encounter a machine blocking their way to Appa. They are able to defeat it, but they discover the machine was made by the Fire Nation, which means that they are becoming more powerful and dangerous than ever."
-    },
-    {
-      "body": "${link_0} fights a ${link_1} in the ${link_2}.",
-      "links": [
-        {
-          "body": "Aang",
-          "key": "${link_0}",
-          "target": {
-            "href": "Aang_(games)",
-            "page": "Aang_(games)"
-          }
-        },
-        {
-          "body": "wolf",
-          "key": "${link_1}",
-          "target": {
-            "href": "Wolf",
-            "page": "Wolf"
-          }
-        },
-        {
-          "body": "North Pole",
-          "key": "${link_2}",
-          "target": {
-            "href": "Northern_Water_Tribe",
-            "page": "Northern_Water_Tribe"
-          }
-        }
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
       ],
-      "text": "Aang fights a wolf in the North Pole."
+      "text": "During the battle,\u00a0Katara is captured, and Zuko retreats with her\u00a0in tow in order to lure Aang out to come after him. Before Aang and Sokka leave to chase after Zuko though, they encounter a machine blocking their way to Appa. They are able to defeat it, but they discover the machine was made by the Fire Nation, which means that they are becoming more powerful and dangerous than ever."
     },
     {
       "body": "Aang and Sokka follow ${link_0} on ${link_1} to a village in the ${link_2}, where they learn Katara is being held in prison. They steal two Fire Nation ${link_3}'s uniforms and sneak into the prison disguised. While there, they help a village struggling with poverty and a shortage of food and supplies, by locating stolen food and defeating Fire Nation soldiers.",
@@ -498,7 +534,8 @@
           "body": "Zuko's ship",
           "key": "${link_0}",
           "target": {
-            "href": "Zuko%27s_ship",
+            "external": false,
+            "href": "/wiki/Zuko%27s_ship",
             "page": "Zuko%27s_ship"
           }
         },
@@ -506,7 +543,8 @@
           "body": "Appa",
           "key": "${link_1}",
           "target": {
-            "href": "Appa",
+            "external": false,
+            "href": "/wiki/Appa",
             "page": "Appa"
           }
         },
@@ -514,7 +552,8 @@
           "body": "Earth Kingdom",
           "key": "${link_2}",
           "target": {
-            "href": "Earth_Kingdom",
+            "external": false,
+            "href": "/wiki/Earth_Kingdom",
             "page": "Earth_Kingdom"
           }
         },
@@ -522,10 +561,16 @@
           "body": "soldier",
           "key": "${link_3}",
           "target": {
-            "href": "Military_of_the_Fire_Nation",
+            "external": false,
+            "href": "/wiki/Military_of_the_Fire_Nation",
             "page": "Military_of_the_Fire_Nation"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
       ],
       "text": "Aang and Sokka follow Zuko's ship on Appa to a village in the Earth Kingdom, where they learn Katara is being held in prison. They steal two Fire Nation soldier's uniforms and sneak into the prison disguised. While there, they help a village struggling with poverty and a shortage of food and supplies, by locating stolen food and defeating Fire Nation soldiers."
     },
@@ -536,7 +581,8 @@
           "body": "The Maker",
           "key": "${link_0}",
           "target": {
-            "href": "Lian",
+            "external": false,
+            "href": "/wiki/Lian",
             "page": "Lian"
           }
         },
@@ -544,7 +590,8 @@
           "body": "jailer",
           "key": "${link_1}",
           "target": {
-            "href": "Jailer",
+            "external": false,
+            "href": "/wiki/Jailer",
             "page": "Jailer"
           }
         },
@@ -552,10 +599,16 @@
           "body": "earthbending",
           "key": "${link_2}",
           "target": {
-            "href": "Earthbending",
+            "external": false,
+            "href": "/wiki/Earthbending",
             "page": "Earthbending"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
       ],
       "text": "While rescuing Katara from prison, they discover that a person called \"The Maker\" is being forced to create machines for the Fire Nation, and so they attempt to free her. They defeat the jailer guarding her, but they\u00a0cannot find her in her cell. However, they find a clue of\u00a0another supposed attack on an\u00a0earthbending training camp."
     },
@@ -566,7 +619,8 @@
           "body": "Team Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Team_Avatar",
+            "external": false,
+            "href": "/wiki/Team_Avatar",
             "page": "Team_Avatar"
           }
         },
@@ -574,7 +628,8 @@
           "body": "Tyro",
           "key": "${link_1}",
           "target": {
-            "href": "Tyro",
+            "external": false,
+            "href": "/wiki/Tyro",
             "page": "Tyro"
           }
         },
@@ -582,7 +637,8 @@
           "body": "Haru",
           "key": "${link_2}",
           "target": {
-            "href": "Haru_(games)",
+            "external": false,
+            "href": "/wiki/Haru_(games)",
             "page": "Haru_(games)"
           }
         },
@@ -590,7 +646,8 @@
           "body": "Yuan",
           "key": "${link_3}",
           "target": {
-            "href": "Yuan",
+            "external": false,
+            "href": "/wiki/Yuan",
             "page": "Yuan"
           }
         },
@@ -598,7 +655,8 @@
           "body": "forest spirit",
           "key": "${link_4}",
           "target": {
-            "href": "Forest_spirit",
+            "external": false,
+            "href": "/wiki/Forest_spirit",
             "page": "Forest_spirit"
           }
         },
@@ -606,7 +664,8 @@
           "body": "Omashu",
           "key": "${link_5}",
           "target": {
-            "href": "Omashu",
+            "external": false,
+            "href": "/wiki/Omashu",
             "page": "Omashu"
           }
         },
@@ -614,16 +673,27 @@
           "body": "Bumi",
           "key": "${link_6}",
           "target": {
-            "href": "Bumi_(King_of_Omashu)",
+            "external": false,
+            "href": "/wiki/Bumi_(King_of_Omashu)",
             "page": "Bumi_(King_of_Omashu)"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
       ],
       "text": "Team Avatar arrives at the camp, where they find Tyro and Haru are being attacked by machines. The trio intervenes and saves the earthbenders. Tyro reveals to Aang that their own village member, Yuan, has also disappeared during the fight. Haru decides to join the team in the hopes of finding his friend. Once they reach a magical grotto, they encounter a bear-like creature and are forced to fight it. Once they defeat it,\u00a0it transforms\u00a0into\u00a0the\u00a0forest spirit, who tells them to go to Omashu\u00a0and tell Bumi about the machines."
     },
     {
       "body": "Their journey takes them to Omashu, where Bumi gives them directions to a secret hidden island. Before they leave, though, the Fire Nation attacks the city, leading Haru to leave the group to help his fellow earthbenders defend the city.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
+      ],
       "text": "Their journey takes them to Omashu, where Bumi gives them directions to a secret hidden island. Before they leave, though, the Fire Nation attacks the city, leading Haru to leave the group to help his fellow earthbenders defend the city."
     },
     {
@@ -633,16 +703,27 @@
           "body": "the consul",
           "key": "${link_0}",
           "target": {
-            "href": "Bumi%27s_advisor",
+            "external": false,
+            "href": "/wiki/Bumi%27s_advisor",
             "page": "Bumi%27s_advisor"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
       ],
       "text": "When they finally reunite and reach a secret entrance out of the village, they are stopped by the consul, stating he will not let them go. Katara and Sokka tell him that if he lets them go, the Fire Nation will follow, but he cares little for that, telling them he is part of a plan that will ensure the safety of the Earth Kingdom and will make sure all of them die."
     },
     {
       "body": "They\u00a0manage to defeat him and realize\u00a0the machines they have encountered before Omashu are meant to replace benders.\u00a0They leave the city relatively unscathed when the Fire Nation invaded. Zuko appears seconds after they exit and interrogates the consul, who refuses to answer and just smiles instead. At that moment, the prince notices something in front of him and prepares to fight it.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
+      ],
       "text": "They\u00a0manage to defeat him and realize\u00a0the machines they have encountered before Omashu are meant to replace benders.\u00a0They leave the city relatively unscathed when the Fire Nation invaded. Zuko appears seconds after they exit and interrogates the consul, who refuses to answer and just smiles instead. At that moment, the prince notices something in front of him and prepares to fight it."
     },
     {
@@ -652,10 +733,16 @@
           "body": "Sozin's Comet",
           "key": "${link_0}",
           "target": {
-            "href": "Sozin%27s_Comet",
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet",
             "page": "Sozin%27s_Comet"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
       ],
       "text": "While investigating the mysteries behind the secret island, the gang finally finds the Maker, Lian.\u00a0She reveals her plans to use her machines to end the war, believing that Aang will not make it in time to finish his training when Sozin's Comet arrives. She offers Aang the chance to work with her and her machines, but\u00a0he declines, having witnessed the damages the machines have done to the other villages. An angered Lian sends a giant machine to attack them, while she makes her escape. After defeating the machine, Aang miraculously knows where she plans to strike next leading to the team pursuing her."
     },
@@ -666,42 +753,18 @@
           "body": "air temple",
           "key": "${link_0}",
           "target": {
-            "href": "Air_temple",
+            "external": false,
+            "href": "/wiki/Air_temple",
             "page": "Air_temple"
           }
         }
       ],
-      "text": "They go to an inhabited caretakers' village near an air temple, where Aang goes to the air temple sanctuary while the others stay to protect the village inhabitants. Aang defeats the machines Lian sent to destroy the Avatar statues, but his friends are captured during that time. He returns to the village and follows the tunnel the Geo-Tunneler left behind to an underground village. There, he\u00a0reaches a fortress where all of Lian's machines are and Aang's friends\u00a0are held captive. He breaks them all out, and they\u00a0explore the fortress,\u00a0yet are met briefly by Zuko, who is also\u00a0held captive there. Aang tries to help him escape, but Zuko attacks him leading to the pair almost\u00a0falling into a stream. Even when Aang grabs Zuko to pull him up, he lets go and is washed away."
-    },
-    {
-      "body": "${link_0} and ${link_1} fight against ${link_2}'s machines.",
-      "links": [
-        {
-          "body": "Team Avatar",
-          "key": "${link_0}",
-          "target": {
-            "href": "Team_Avatar",
-            "page": "Team_Avatar"
-          }
-        },
-        {
-          "body": "Haru",
-          "key": "${link_1}",
-          "target": {
-            "href": "Haru_(games)",
-            "page": "Haru_(games)"
-          }
-        },
-        {
-          "body": "Lian",
-          "key": "${link_2}",
-          "target": {
-            "href": "Lian",
-            "page": "Lian"
-          }
-        }
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
       ],
-      "text": "Team Avatar and Haru fight against Lian's machines."
+      "text": "They go to an inhabited caretakers' village near an air temple, where Aang goes to the air temple sanctuary while the others stay to protect the village inhabitants. Aang defeats the machines Lian sent to destroy the Avatar statues, but his friends are captured during that time. He returns to the village and follows the tunnel the Geo-Tunneler left behind to an underground village. There, he\u00a0reaches a fortress where all of Lian's machines are and Aang's friends\u00a0are held captive. He breaks them all out, and they\u00a0explore the fortress,\u00a0yet are met briefly by Zuko, who is also\u00a0held captive there. Aang tries to help him escape, but Zuko attacks him leading to the pair almost\u00a0falling into a stream. Even when Aang grabs Zuko to pull him up, he lets go and is washed away."
     },
     {
       "body": "In the deepest level of the fortress, Aang faces Lian to make her stop her creations. Lian voices her contempt for benders in general, saying \"thinkers should be in charge, not magicians.\" Believing that division of the elements is the real reason behind the war, her machines would be used to \"even the playing field\". Sokka, the nonbender in the group, voices his disagreement to her opinion, to which Lian calls out the missing benders, including ${link_0} and Hiryu, who reveal themselves apparently willing to aid her by powering the ${link_1} a war machine capable of controlling fire, earth, water, sound, and air.",
@@ -710,7 +773,8 @@
           "body": "Yuan",
           "key": "${link_0}",
           "target": {
-            "href": "Yuan",
+            "external": false,
+            "href": "/wiki/Yuan",
             "page": "Yuan"
           }
         },
@@ -718,10 +782,16 @@
           "body": "Ultimation",
           "key": "${link_1}",
           "target": {
-            "href": "Ultimation",
+            "external": false,
+            "href": "/wiki/Ultimation",
             "page": "Ultimation"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
       ],
       "text": "In the deepest level of the fortress, Aang faces Lian to make her stop her creations. Lian voices her contempt for benders in general, saying \"thinkers should be in charge, not magicians.\" Believing that division of the elements is the real reason behind the war, her machines would be used to \"even the playing field\". Sokka, the nonbender in the group, voices his disagreement to her opinion, to which Lian calls out the missing benders, including Yuan and Hiryu, who reveal themselves apparently willing to aid her by powering the Ultimation a war machine capable of controlling fire, earth, water, sound, and air."
     },
@@ -732,39 +802,28 @@
           "body": "Avatar State",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar#Avatar_State",
+            "external": false,
+            "href": "/wiki/Avatar#Avatar_State",
             "page": "Avatar"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
       ],
       "text": "Team Avatar's united attacks managed to put down the machine. As Aang gets distracted to help Haru, the Ultimation bursts to life and tries to attack him from behind. Katara gets in the way, trying to protect him, but doing so knocks her unconscious. Enraged, Aang enters the Avatar State and defeats the machine once and for all. Haru reconciles with his friend, and the team leaves the place behind on Appa. Haru asks if Sokka never liked benders as he said with Lian, in which the latter commented that he finds them all right, to which Katara and Aang begin to tease him, much to his aggravation."
     },
     {
       "body": "Meanwhile, on the bank of the stream, Zuko pulls himself out of the water. Grumbling, he exits the scene.",
       "links": [],
-      "text": "Meanwhile, on the bank of the stream, Zuko pulls himself out of the water. Grumbling, he exits the scene."
-    },
-    {
-      "body": "${link_0} talks to ${link_1} as she wants him to go to the town.",
-      "links": [
-        {
-          "body": "Aang",
-          "key": "${link_0}",
-          "target": {
-            "href": "Aang_(games)",
-            "page": "Aang_(games)"
-          }
-        },
-        {
-          "body": "Katara",
-          "key": "${link_1}",
-          "target": {
-            "href": "Katara_(games)",
-            "page": "Katara_(games)"
-          }
-        }
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "PS2, Xbox and Wii versions"
       ],
-      "text": "Aang talks to Katara as she wants him to go to the town."
+      "text": "Meanwhile, on the bank of the stream, Zuko pulls himself out of the water. Grumbling, he exits the scene."
     },
     {
       "body": "After the well-known intro finishes, the game opens to the ${link_0}. ${link_1} is telling Appa that he wants to go ${link_2} with ${link_3}. He states that both Katara and him should rest for a while. Afterward, Katara arrives and tells Aang that Master ${link_4} (Master Pakku in other versions) would like to see him and that he should go back to the town. She wonders about Sokka's absence, too. Aang seems to be disappointed because he cannot go penguin sledding now.",
@@ -773,7 +832,8 @@
           "body": "Northern Water Tribe",
           "key": "${link_0}",
           "target": {
-            "href": "Northern_Water_Tribe",
+            "external": false,
+            "href": "/wiki/Northern_Water_Tribe",
             "page": "Northern_Water_Tribe"
           }
         },
@@ -781,7 +841,8 @@
           "body": "Aang",
           "key": "${link_1}",
           "target": {
-            "href": "Aang_(games)",
+            "external": false,
+            "href": "/wiki/Aang_(games)",
             "page": "Aang_(games)"
           }
         },
@@ -789,7 +850,8 @@
           "body": "penguin sledding",
           "key": "${link_2}",
           "target": {
-            "href": "Penguin_sledding",
+            "external": false,
+            "href": "/wiki/Penguin_sledding",
             "page": "Penguin_sledding"
           }
         },
@@ -797,7 +859,8 @@
           "body": "Katara",
           "key": "${link_3}",
           "target": {
-            "href": "Katara_(games)",
+            "external": false,
+            "href": "/wiki/Katara_(games)",
             "page": "Katara_(games)"
           }
         },
@@ -805,16 +868,29 @@
           "body": "Wei",
           "key": "${link_4}",
           "target": {
-            "href": "Wei",
+            "external": false,
+            "href": "/wiki/Wei",
             "page": "Wei"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Fire navy attack"
       ],
       "text": "After the well-known intro finishes, the game opens to the Northern Water Tribe. Aang is telling Appa that he wants to go penguin sledding with Katara. He states that both Katara and him should rest for a while. Afterward, Katara arrives and tells Aang that Master Wei (Master Pakku in other versions) would like to see him and that he should go back to the town. She wonders about Sokka's absence, too. Aang seems to be disappointed because he cannot go penguin sledding now."
     },
     {
       "body": "In the town, a little girl tells Aang that her mother is sick and that she needs herbal medicine to get better. Aang promises to help her and search for the medicine. After curing her mother with a herb he has found outside, the girl rewards Aang with a strength source.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Fire navy attack"
+      ],
       "text": "In the town, a little girl tells Aang that her mother is sick and that she needs herbal medicine to get better. Aang promises to help her and search for the medicine. After curing her mother with a herb he has found outside, the girl rewards Aang with a strength source."
     },
     {
@@ -824,7 +900,8 @@
           "body": "Hiryu",
           "key": "${link_0}",
           "target": {
-            "href": "Hiryu",
+            "external": false,
+            "href": "/wiki/Hiryu",
             "page": "Hiryu"
           }
         },
@@ -832,7 +909,8 @@
           "body": "water skin",
           "key": "${link_1}",
           "target": {
-            "href": "Water_skin",
+            "external": false,
+            "href": "/wiki/Water_skin",
             "page": "Water_skin"
           }
         },
@@ -840,16 +918,29 @@
           "body": "Sokka",
           "key": "${link_2}",
           "target": {
-            "href": "Sokka_(games)",
+            "external": false,
+            "href": "/wiki/Sokka_(games)",
             "page": "Sokka_(games)"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Fire navy attack"
       ],
       "text": "Master Wei tells Aang that a waterbender called Hiryu got lost somewhere west of the town. He begs Aang to look for him. When Aang arrives at the place where Hiryu has gotten lost, he finds a strange shiny metal thing lying on the ground, and in addition a water skin. Aang heads back to town and shows Wei the items he has found and how devastated the place there was. Wei advises Aang to search for Katara and Sokka, because he is afraid that the same could happen to them."
     },
     {
       "body": "When Aang finds the two outside of the town, Katara is angry about Sokka because he has not done the laundry. Sokka replies that this was woman's work, what makes Katara even more angry. As they notice Aang, he tells them about the missing waterbender and that they should go back to the town. There is also a place where Katara can catch a fish, but Sokka firstly doubts that Katara is able to do that. After catching the fish, Katara rectifies him stating \"Bending is a skill of physical and mental strength which comes from the Chi inside\", but Sokka still rather relies on his weapons.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Fire navy attack"
+      ],
       "text": "When Aang finds the two outside of the town, Katara is angry about Sokka because he has not done the laundry. Sokka replies that this was woman's work, what makes Katara even more angry. As they notice Aang, he tells them about the missing waterbender and that they should go back to the town. There is also a place where Katara can catch a fish, but Sokka firstly doubts that Katara is able to do that. After catching the fish, Katara rectifies him stating \"Bending is a skill of physical and mental strength which comes from the Chi inside\", but Sokka still rather relies on his weapons."
     },
     {
@@ -859,7 +950,8 @@
           "body": "Zuko",
           "key": "${link_0}",
           "target": {
-            "href": "Zuko_(games)",
+            "external": false,
+            "href": "/wiki/Zuko_(games)",
             "page": "Zuko_(games)"
           }
         },
@@ -867,47 +959,30 @@
           "body": "Avatar",
           "key": "${link_1}",
           "target": {
-            "href": "Avatar",
+            "external": false,
+            "href": "/wiki/Avatar",
             "page": "Avatar"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Fire navy attack"
       ],
       "text": "Back in town, they get frightened about a big vibration, which comes from an arriving ship. Zuko steps out of this ship and searches for the Avatar whom he wants to have captured alive. Several soldiers come out of the ship as well. Katara, Aang, and Sokka hurry to Master Wei, who bravely fights against three Fire Nation soldiers. Katara stays with Master Wei helping him to defend against the soldiers at the entrance while Aang and Sokka fight against other soldiers deeper in the village to protect the endangered tribe. While they are fighting, Zuko appears at the former place and attacks Master Wei, striking him with firebending from behind, knocking the old man down. Zuko demands Katara come with him as a bait to capture Aang, otherwise he would injure Wei further. Zuko returns to his ship, and two soldiers bring Katara too. With the firebenders retreating, Sokka and Aang return to find Wei, who tells them what has happened to Katara. He tells Aang to rescue her and learn from her; Aang presumes he means waterbending. Aang and Sokka head to Appa but find a Fire Nation machine blocking their path, which attacks them. After Aang has defeated it, Sokka boasts himself as the \"conqueror of all kitchen utensils\". On a more serious tone, he says that things are getting more dangerous and that they must find Katara."
     },
     {
       "body": "While crossing the ocean, the pair find Zuko's ship anchored at an island occupied by the Fire Nation with a military base built on it.",
       "links": [],
-      "text": "While crossing the ocean, the pair find Zuko's ship anchored at an island occupied by the Fire Nation with a military base built on it."
-    },
-    {
-      "body": "${link_0} and ${link_1} try to find out where ${link_2} might be imprisoned.",
-      "links": [
-        {
-          "body": "Aang",
-          "key": "${link_0}",
-          "target": {
-            "href": "Aang_(games)",
-            "page": "Aang_(games)"
-          }
-        },
-        {
-          "body": "Sokka",
-          "key": "${link_1}",
-          "target": {
-            "href": "Sokka_(games)",
-            "page": "Sokka_(games)"
-          }
-        },
-        {
-          "body": "Katara",
-          "key": "${link_2}",
-          "target": {
-            "href": "Katara_(games)",
-            "page": "Katara_(games)"
-          }
-        }
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Fire navy attack"
       ],
-      "text": "Aang and Sokka try to find out where Katara might be imprisoned."
+      "text": "While crossing the ocean, the pair find Zuko's ship anchored at an island occupied by the Fire Nation with a military base built on it."
     },
     {
       "body": "Somewhere in the ${link_0}, the group land behind a mountainous cavern near a town. Sokka makes plans on what to do next, deciding that he should be the leader because he is the oldest. Aang replies that both him and Appa were more than hundred years old. Nonetheless, Sokka determines \"as the voice of youth\" that they have to save Katara. He wants to go to the port to look around and to observe Zuko's ship. He proudly states that Zuko was no match for him.",
@@ -916,26 +991,51 @@
           "body": "Earth Kingdom",
           "key": "${link_0}",
           "target": {
-            "href": "Earth_Kingdom",
+            "external": false,
+            "href": "/wiki/Earth_Kingdom",
             "page": "Earth_Kingdom"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Among the enemy"
       ],
       "text": "Somewhere in the Earth Kingdom, the group land behind a mountainous cavern near a town. Sokka makes plans on what to do next, deciding that he should be the leader because he is the oldest. Aang replies that both him and Appa were more than hundred years old. Nonetheless, Sokka determines \"as the voice of youth\" that they have to save Katara. He wants to go to the port to look around and to observe Zuko's ship. He proudly states that Zuko was no match for him."
     },
     {
       "body": "As Aang and Sokka reach the harbor and see the docked ship and determine that Katara has already been brought away. They go into the local town and speak to the people there to find out where Katara could be. From a person at the north gate of the town, they find out that a girl wearing Water Tribe clothes and a boy were taken to a prison in the north, so they decide to head to this prison.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Among the enemy"
+      ],
       "text": "As Aang and Sokka reach the harbor and see the docked ship and determine that Katara has already been brought away. They go into the local town and speak to the people there to find out where Katara could be. From a person at the north gate of the town, they find out that a girl wearing Water Tribe clothes and a boy were taken to a prison in the north, so they decide to head to this prison."
     },
     {
       "body": "On their way, a man at the coast tells them that the goods on his ship have been disappearing for a while. He supposes that foreign merchant ships like his one might be targeted. He makes a strange announcement that a certain \"he\" could tell them something.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Among the enemy"
+      ],
       "text": "On their way, a man at the coast tells them that the goods on his ship have been disappearing for a while. He supposes that foreign merchant ships like his one might be targeted. He makes a strange announcement that a certain \"he\" could tell them something."
     },
     {
       "body": "When they arrive arrive at the prison, they see that it is strongly guarded, so they go back to the town. Aang suggests stealing uniforms from the barracks in the south to sneak into the prison undetected. Sokka does not want to wear their uniforms because of the Water Tribe pride, but Aang convinces him showing him there is no other way. Sokka puts his pride aside and says they also have tolerance.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Among the enemy"
+      ],
       "text": "When they arrive arrive at the prison, they see that it is strongly guarded, so they go back to the town. Aang suggests stealing uniforms from the barracks in the south to sneak into the prison undetected. Sokka does not want to wear their uniforms because of the Water Tribe pride, but Aang convinces him showing him there is no other way. Sokka puts his pride aside and says they also have tolerance."
     },
     {
@@ -945,26 +1045,51 @@
           "body": "airbending",
           "key": "${link_0}",
           "target": {
-            "href": "Airbending",
+            "external": false,
+            "href": "/wiki/Airbending",
             "page": "Airbending"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Among the enemy"
       ],
       "text": "Since the barracks are guarded as well, they try infiltrating them from the other side. They overlook the terrain and do not see any guard though but a lake, which cannot easily be crossed. Aang calms Sokka down telling him he will bring him over with his airbending, propelling Sokka across, crashing into the wall of the barracks, while Aang lands softly behind him."
     },
     {
       "body": "Inside the barracks, they listen in on a meeting between Fire Nation soldiers. Their chief tells his soldiers that they were old enough to take care of themselves. Suddenly, he asks them how often they bathed. The soldiers insure that they took care of their hygiene at least once a day. The chief is pleased to hear this and delivers a sermon about the inexcusable offense which an unwashed soldier would be. The chief and the soldiers finally leave the room.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Among the enemy"
+      ],
       "text": "Inside the barracks, they listen in on a meeting between Fire Nation soldiers. Their chief tells his soldiers that they were old enough to take care of themselves. Suddenly, he asks them how often they bathed. The soldiers insure that they took care of their hygiene at least once a day. The chief is pleased to hear this and delivers a sermon about the inexcusable offense which an unwashed soldier would be. The chief and the soldiers finally leave the room."
     },
     {
       "body": "In a room at the far end of the barracks, they find two uniforms which seem to fit. They stink terribly, but they have no other choice but to wear them. They pair ask around about Katara. One soldier tells them that Katara is imprisoned, along with Zuko and another prisoner. When they leave the barracks, they take the uniforms off and head to the prison. To get over the lake again, Sokka, this time, clutches to Aang and flies with him. Although, Sokka slips off and falls to the ground, hurting his nose again. With the uniforms, they can also access a certain place at the harbor, which looks like a store with tents for Fire Nation soldiers.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Among the enemy"
+      ],
       "text": "In a room at the far end of the barracks, they find two uniforms which seem to fit. They stink terribly, but they have no other choice but to wear them. They pair ask around about Katara. One soldier tells them that Katara is imprisoned, along with Zuko and another prisoner. When they leave the barracks, they take the uniforms off and head to the prison. To get over the lake again, Sokka, this time, clutches to Aang and flies with him. Although, Sokka slips off and falls to the ground, hurting his nose again. With the uniforms, they can also access a certain place at the harbor, which looks like a store with tents for Fire Nation soldiers."
     },
     {
       "body": "When they arrive at the prison, they put on the uniforms and investigate the building. The guards at the door tell them that they would have to search for the escaped Zuko so Sokka and Aang shall guard the door. However, the pair enter the prison, taking the uniforms off on the first floor inside the prison, believing they are save there. In one of the soldiers' sleeping room, they find a key for a prison cell.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Among the enemy"
+      ],
       "text": "When they arrive at the prison, they put on the uniforms and investigate the building. The guards at the door tell them that they would have to search for the escaped Zuko so Sokka and Aang shall guard the door. However, the pair enter the prison, taking the uniforms off on the first floor inside the prison, believing they are save there. In one of the soldiers' sleeping room, they find a key for a prison cell."
     },
     {
@@ -974,10 +1099,17 @@
           "body": "Lian",
           "key": "${link_0}",
           "target": {
-            "href": "Lian",
+            "external": false,
+            "href": "/wiki/Lian",
             "page": "Lian"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Among the enemy"
       ],
       "text": "In the basement, there are cells. One of them holds a man, who identifies Aang as the Avatar and begs him and Sokka to break him out of there. In the cell at the very back, the two find Katara, whom they are delighted to see. Aang and Sokka feel guilty because they did not stop the soldiers from taking her away, but Katara forgives them. Sokka opens the cell with the key they found and reunites with his sister, who quickly notices the bad odor the boys are emitting. The boys want to leave, but Katara tells them that the other prisoner, Lian, is locked in a cell in the next room. Katara states the soldiers are making Lian build machines for them. Sokka does not want to rescue her, because he is afraid of her machines, but Katara reminds him that Lian is forced to build them."
     },
@@ -988,16 +1120,29 @@
           "body": "Jailer",
           "key": "${link_0}",
           "target": {
-            "href": "Jailer",
+            "external": false,
+            "href": "/wiki/Jailer",
             "page": "Jailer"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Among the enemy"
       ],
       "text": "In the next room, they find Lian trapped and try to free her, but the Jailer, armed with a fire lance, appears. After defeating him, the trio notice that Lian escaped her cell during the skirmish. They find a note in her cell, which tells them about an Earth Kingdom village. They believe the citizens could be in danger and hurry to help them. Aang and Katara also worry about Lian."
     },
     {
       "body": "The group heads to this village in the center of the Earth Kingdom. Around this village there is a forest with \"mysterious air about it\".",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Among the enemy"
+      ],
       "text": "The group heads to this village in the center of the Earth Kingdom. Around this village there is a forest with \"mysterious air about it\"."
     },
     {
@@ -1007,59 +1152,40 @@
           "body": "Haru",
           "key": "${link_0}",
           "target": {
-            "href": "Haru_(games)",
+            "external": false,
+            "href": "/wiki/Haru_(games)",
             "page": "Haru_(games)"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The forest"
       ],
       "text": "When they arrive in the village, the trio hear someone screaming for help. A heavily wounded man limps into the village and tells the three children about an attack of mechanical monsters in his village and two brave men, Haru and his father, Tyro, leading the fight against them. The man worries that they do not have much time before the machines win, and a woman begs the Avatar to help them. Aang accepts, and he, Sokka, and Katara head for this village."
     },
     {
       "body": "On the way there, they come to a collapsed bridge. Katara sees this as a good practice and bends the water under to bridge to fill the gap and freezes it to form a passageway. Sokka, however, runs over the ice, slips, and falls.",
       "links": [],
-      "text": "On the way there, they come to a collapsed bridge. Katara sees this as a good practice and bends the water under to bridge to fill the gap and freezes it to form a passageway. Sokka, however, runs over the ice, slips, and falls."
-    },
-    {
-      "body": "${link_0}, ${link_1}, and ${link_2} help ${link_3} fight against the machines that have attacked the village.",
-      "links": [
-        {
-          "body": "Aang",
-          "key": "${link_0}",
-          "target": {
-            "href": "Aang_(games)",
-            "page": "Aang_(games)"
-          }
-        },
-        {
-          "body": "Sokka",
-          "key": "${link_1}",
-          "target": {
-            "href": "Sokka_(games)",
-            "page": "Sokka_(games)"
-          }
-        },
-        {
-          "body": "Katara",
-          "key": "${link_2}",
-          "target": {
-            "href": "Katara_(games)",
-            "page": "Katara_(games)"
-          }
-        },
-        {
-          "body": "Haru",
-          "key": "${link_3}",
-          "target": {
-            "href": "Haru_(games)",
-            "page": "Haru_(games)"
-          }
-        }
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The forest"
       ],
-      "text": "Aang, Sokka, and Katara help Haru fight against the machines that have attacked the village."
+      "text": "On the way there, they come to a collapsed bridge. Katara sees this as a good practice and bends the water under to bridge to fill the gap and freezes it to form a passageway. Sokka, however, runs over the ice, slips, and falls."
     },
     {
       "body": "When they arrive at the village, they see Haru fighting against four machines. In turn, Haru is surprised to see his three friends. Sokka tells him that he is safe now, and the threesome joins Haru in his fight against the machines. After winning the battle, Haru joins the team as their fourth member. They are told that Haru's father and other earthbenders are still fighting machines.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The forest"
+      ],
       "text": "When they arrive at the village, they see Haru fighting against four machines. In turn, Haru is surprised to see his three friends. Sokka tells him that he is safe now, and the threesome joins Haru in his fight against the machines. After winning the battle, Haru joins the team as their fourth member. They are told that Haru's father and other earthbenders are still fighting machines."
     },
     {
@@ -1069,10 +1195,17 @@
           "body": "Yuan",
           "key": "${link_0}",
           "target": {
-            "href": "Yuan",
+            "external": false,
+            "href": "/wiki/Yuan",
             "page": "Yuan"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The forest"
       ],
       "text": "At the east of the village, they find three earthbending men fighting against four machines, different from the ones they encountered before: these machines are equipped with flamethrowers and are capable of shooting bullets, as opposed to being able to jump and jet gas. The foursome immediately joins the fight, tipping the scales of the battle in their favor. Tyro thanks them and tells them they would be in their debt. After a short conversation, Katara announces that they were trying to find more information about the machines. Tyro tells them that an earthbender, and Haru's friend, called Yuan was captured by the machines and suggests that Haru goes with Aang, Sokka, and Katara to find Yuan and bring him back. Tyro asks the four to go back to the other town, tell the village leader of their recent victory, and return."
     },
@@ -1083,26 +1216,51 @@
           "body": "spirit of the forest",
           "key": "${link_0}",
           "target": {
-            "href": "Forest_spirit",
+            "external": false,
+            "href": "/wiki/Forest_spirit",
             "page": "Forest_spirit"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The forest"
       ],
       "text": "Back in the village where they had arrived at first, Haru tells the village leader of their successful fight and that they now were going to hunt the machines down. The leader gives the team a letter, which should be brought to a training camp in the south. Back in Haru's village, Tyro tells them about the wise spirit of the forest, who will help them. The spirit is hard to track down but will likely find them instead, should they search for it."
     },
     {
       "body": "while travelling to the cave, they meet an earthbending trainer who, after they give him the letter from the village elder, teaches Haru a new earthbending move. After a short training session, Haru gains experience, which improves his combat skills.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The forest"
+      ],
       "text": "while travelling to the cave, they meet an earthbending trainer who, after they give him the letter from the village elder, teaches Haru a new earthbending move. After a short training session, Haru gains experience, which improves his combat skills."
     },
     {
       "body": "Deeper in the forest, the team sense a strange feeling. Finding a cavern, they go inside, believing it to be the home of the spirit. Sokka is skeptical at first, but Aang persuades him to follow. At the back end of the cave, Haru hears a noise. Sokka is skeptical again but turns into a believer as he sees the spirit, a giant bear-like creature. The foursome fight the spirit.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The forest"
+      ],
       "text": "Deeper in the forest, the team sense a strange feeling. Finding a cavern, they go inside, believing it to be the home of the spirit. Sokka is skeptical at first, but Aang persuades him to follow. At the back end of the cave, Haru hears a noise. Sokka is skeptical again but turns into a believer as he sees the spirit, a giant bear-like creature. The foursome fight the spirit."
     },
     {
       "body": "After the spirit is defeated, it transforms into a levitating white shining man. He says that the Avatar had proven his strength, his wisdom, and his spirit gave everyone hope. Sokka replies that wisdom does not help them against the machines. Haru asks the man about the origins of the machines. The man answers that they already know: they just need to plant it at the core of Earth, and they will find what they seek. The man disappears, leaving the team frustrated with the cryptic message. However, Aang seems to know that they have to find a king.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The forest"
+      ],
       "text": "After the spirit is defeated, it transforms into a levitating white shining man. He says that the Avatar had proven his strength, his wisdom, and his spirit gave everyone hope. Sokka replies that wisdom does not help them against the machines. Haru asks the man about the origins of the machines. The man answers that they already know: they just need to plant it at the core of Earth, and they will find what they seek. The man disappears, leaving the team frustrated with the cryptic message. However, Aang seems to know that they have to find a king."
     },
     {
@@ -1112,7 +1270,8 @@
           "body": "Omashu",
           "key": "${link_0}",
           "target": {
-            "href": "Omashu",
+            "external": false,
+            "href": "/wiki/Omashu",
             "page": "Omashu"
           }
         },
@@ -1120,10 +1279,17 @@
           "body": "Bumi",
           "key": "${link_1}",
           "target": {
-            "href": "Bumi_(King_of_Omashu)",
+            "external": false,
+            "href": "/wiki/Bumi_(King_of_Omashu)",
             "page": "Bumi_(King_of_Omashu)"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The forest"
       ],
       "text": "Aang reveald \"the core of Earth\" refers to Omashu and its king is the person whom they have to ask for help; Bumi."
     },
@@ -1134,10 +1300,17 @@
           "body": "Bumi",
           "key": "${link_0}",
           "target": {
-            "href": "Bumi_(King_of_Omashu)",
+            "external": false,
+            "href": "/wiki/Bumi_(King_of_Omashu)",
             "page": "Bumi_(King_of_Omashu)"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
       ],
       "text": "In Omashu, Katara tells Haru about the friendship between Aang and Bumi. The team decide to head directly to Bumi."
     },
@@ -1148,63 +1321,30 @@
           "body": "cabbage merchant",
           "key": "${link_0}",
           "target": {
-            "href": "Cabbage_merchant",
+            "external": false,
+            "href": "/wiki/Cabbage_merchant",
             "page": "Cabbage_merchant"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
       ],
       "text": "At the east of the town, they watch an altercation between the cabbage merchant and an Omashu guard, who tells the former his food was rotten and earthbends it off the wall. The team catches the falling cabbages and bring them to the owner. They each get a cabbage in return for thier help."
     },
     {
       "body": "Getting closer to the palace, they also meet a guard who informs them that he is an earthbending trainer, just like his brother, whom they have met before in the forest. The guard trains Haru, teaching him another earthbending move he can use in combat.",
       "links": [],
-      "text": "Getting closer to the palace, they also meet a guard who informs them that he is an earthbending trainer, just like his brother, whom they have met before in the forest. The guard trains Haru, teaching him another earthbending move he can use in combat."
-    },
-    {
-      "body": "${link_0}, ${link_1}, ${link_2}, and ${link_3} ask Bumi for help after the ${link_4} has told them to do so.",
-      "links": [
-        {
-          "body": "Aang",
-          "key": "${link_0}",
-          "target": {
-            "href": "Aang_(games)",
-            "page": "Aang_(games)"
-          }
-        },
-        {
-          "body": "Katara",
-          "key": "${link_1}",
-          "target": {
-            "href": "Katara_(games)",
-            "page": "Katara_(games)"
-          }
-        },
-        {
-          "body": "Sokka",
-          "key": "${link_2}",
-          "target": {
-            "href": "Sokka_(games)",
-            "page": "Sokka_(games)"
-          }
-        },
-        {
-          "body": "Haru",
-          "key": "${link_3}",
-          "target": {
-            "href": "Haru_(games)",
-            "page": "Haru_(games)"
-          }
-        },
-        {
-          "body": "forest spirit",
-          "key": "${link_4}",
-          "target": {
-            "href": "Forest_spirit",
-            "page": "Forest_spirit"
-          }
-        }
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
       ],
-      "text": "Aang, Katara, Sokka, and Haru ask Bumi for help after the forest spirit has told them to do so."
+      "text": "Getting closer to the palace, they also meet a guard who informs them that he is an earthbending trainer, just like his brother, whom they have met before in the forest. The guard trains Haru, teaching him another earthbending move he can use in combat."
     },
     {
       "body": "The team finally arrive at the king's palace, where Bumi is glad to see Aang. Bumi, like every time, makes jokes with them, but Sokka brushes them aside to ask about the machines. Bumi initially tells them about a play called \"Blossom the Dancing Warrior\" before striking a more serious tone and indicates his desire to help them. Aang informs him about the machines, and Bumi suggests investigating the Omashu Royal Library. However, ${link_0} declares that Earth Kingdom traditions dictate that only earthbending masters can access the library, and he does not want to deviate from the rules. Bumi, however, announces that non-Earth Kingdom citizens like Aang do not need to respect their traditions.",
@@ -1213,223 +1353,250 @@
           "body": "the consul",
           "key": "${link_0}",
           "target": {
-            "href": "Bumi%27s_advisor",
+            "external": false,
+            "href": "/wiki/Bumi%27s_advisor",
             "page": "Bumi%27s_advisor"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
       ],
       "text": "The team finally arrive at the king's palace, where Bumi is glad to see Aang. Bumi, like every time, makes jokes with them, but Sokka brushes them aside to ask about the machines. Bumi initially tells them about a play called \"Blossom the Dancing Warrior\" before striking a more serious tone and indicates his desire to help them. Aang informs him about the machines, and Bumi suggests investigating the Omashu Royal Library. However, the consul declares that Earth Kingdom traditions dictate that only earthbending masters can access the library, and he does not want to deviate from the rules. Bumi, however, announces that non-Earth Kingdom citizens like Aang do not need to respect their traditions."
     },
     {
       "body": "When they arrive at the library, the guards refuse to grant them access, forcing them to head to the back of the building to find another entrance. They discover a door, but it is locked. Not discouraged, Sokka searches for another way to get in and spots the ventilation. Aang motivates Momo to go through the small hole and open the door from the inside. Inside, Momo discovers that door needs to be opened by solving a puzzle. Momo manages to do so and unlocks the door. Katara and Aang praise Momo, making Sokka jealous, as it had been his idea. Sokka, Katara and Aang search the library for information while Haru stays behind, as, given he is an Earth Kingdom citizen, wants to respect his country's traditions.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
+      ],
       "text": "When they arrive at the library, the guards refuse to grant them access, forcing them to head to the back of the building to find another entrance. They discover a door, but it is locked. Not discouraged, Sokka searches for another way to get in and spots the ventilation. Aang motivates Momo to go through the small hole and open the door from the inside. Inside, Momo discovers that door needs to be opened by solving a puzzle. Momo manages to do so and unlocks the door. Katara and Aang praise Momo, making Sokka jealous, as it had been his idea. Sokka, Katara and Aang search the library for information while Haru stays behind, as, given he is an Earth Kingdom citizen, wants to respect his country's traditions."
     },
     {
       "body": "Throughout the next rooms, Aang, Sokka, and Katara sneak past the library guards. When they reach the last room, Sokka checks it for guards, while Aang and Katara spot a big scroll, depicting symbols and a statue, lying on the table. Katara notes that the scroll seemed to be a record of battles in which there were machines involved, but they cannot decipher the actual meaning of the symbols.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
+      ],
       "text": "Throughout the next rooms, Aang, Sokka, and Katara sneak past the library guards. When they reach the last room, Sokka checks it for guards, while Aang and Katara spot a big scroll, depicting symbols and a statue, lying on the table. Katara notes that the scroll seemed to be a record of battles in which there were machines involved, but they cannot decipher the actual meaning of the symbols."
     },
     {
       "body": "Intending to find a way to read the scroll's contents, Katara points to an island on a map, asking Aang if he knows about it. Not having heard about it, he suggests to ask Bumi. At that moment, the guards arrive, forcing the trio to flee through a small passageway, and despite struggling to navigate the small and dark path, they manage to exit the library.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
+      ],
       "text": "Intending to find a way to read the scroll's contents, Katara points to an island on a map, asking Aang if he knows about it. Not having heard about it, he suggests to ask Bumi. At that moment, the guards arrive, forcing the trio to flee through a small passageway, and despite struggling to navigate the small and dark path, they manage to exit the library."
     },
     {
       "body": "Aang removes the dust on their bodies with airbending, and they return to Haru, who has waited for them. Reunited, they go back to the palace in order to talk to tell Bumi what they have discovered. The king pretends to be confused about the fact that Aang found a hidden island though wants to show it to them with a mollifying paste. Bumi advises them to head to a shop in the east of the palace.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
+      ],
       "text": "Aang removes the dust on their bodies with airbending, and they return to Haru, who has waited for them. Reunited, they go back to the palace in order to talk to tell Bumi what they have discovered. The king pretends to be confused about the fact that Aang found a hidden island though wants to show it to them with a mollifying paste. Bumi advises them to head to a shop in the east of the palace."
     },
     {
       "body": "When the team arrives at the shop, the owner tells them that he has not made any of the paste for years. Nonetheless, he wants to make them some of it but lacks several of the ingredients: a platypus egg, nuts, and a powdered medicinal herb. They are given the herb from the shop owner but need to talk to the herbalist to get it powdered. The nuts can easily be fetched from a nearby nut tree.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
+      ],
       "text": "When the team arrives at the shop, the owner tells them that he has not made any of the paste for years. Nonetheless, he wants to make them some of it but lacks several of the ingredients: a platypus egg, nuts, and a powdered medicinal herb. They are given the herb from the shop owner but need to talk to the herbalist to get it powdered. The nuts can easily be fetched from a nearby nut tree."
     },
     {
       "body": "After they have collected the nuts and obtained the medicinal herb powdered, the fruit shop owner tells them that he sold his last platypus egg to the tea house owner. After telling the shop owner that it was the King himself who requested the mollifying paste to be made, the businessman hands over his egg.",
       "links": [],
-      "text": "After they have collected the nuts and obtained the medicinal herb powdered, the fruit shop owner tells them that he sold his last platypus egg to the tea house owner. After telling the shop owner that it was the King himself who requested the mollifying paste to be made, the businessman hands over his egg."
-    },
-    {
-      "body": "${link_0}, ${link_1}, ${link_2}, and ${link_3} hear frantic screamings about the advancing ${link_4}.",
-      "links": [
-        {
-          "body": "Aang",
-          "key": "${link_0}",
-          "target": {
-            "href": "Aang_(games)",
-            "page": "Aang_(games)"
-          }
-        },
-        {
-          "body": "Katara",
-          "key": "${link_1}",
-          "target": {
-            "href": "Katara_(games)",
-            "page": "Katara_(games)"
-          }
-        },
-        {
-          "body": "Sokka",
-          "key": "${link_2}",
-          "target": {
-            "href": "Sokka_(games)",
-            "page": "Sokka_(games)"
-          }
-        },
-        {
-          "body": "Haru",
-          "key": "${link_3}",
-          "target": {
-            "href": "Haru_(games)",
-            "page": "Haru_(games)"
-          }
-        },
-        {
-          "body": "Fire Nation",
-          "key": "${link_4}",
-          "target": {
-            "href": "Fire_Nation",
-            "page": "Fire_Nation"
-          }
-        }
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
       ],
-      "text": "Aang, Katara, Sokka, and Haru hear frantic screamings about the advancing Fire Nation."
+      "text": "After they have collected the nuts and obtained the medicinal herb powdered, the fruit shop owner tells them that he sold his last platypus egg to the tea house owner. After telling the shop owner that it was the King himself who requested the mollifying paste to be made, the businessman hands over his egg."
     },
     {
       "body": "Having collected all the necessary ingredients, the team returns to the shop at the east of the palace and present its owner with the products. The man immediately gets to work and mixes the ingredients into the mollifying paste Bumi requested. Just as they intend to leave, they hear people scream that the Fire Nation is taking over Omashu. The team splits up once again: Haru heads out to defend the city with the other earthbenders while the others take the paste to Bumi.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
+      ],
       "text": "Having collected all the necessary ingredients, the team returns to the shop at the east of the palace and present its owner with the products. The man immediately gets to work and mixes the ingredients into the mollifying paste Bumi requested. Just as they intend to leave, they hear people scream that the Fire Nation is taking over Omashu. The team splits up once again: Haru heads out to defend the city with the other earthbenders while the others take the paste to Bumi."
     },
     {
       "body": "Fighting through the skirmish, the three reach the palace. Pleased with the work of the children, Bumi takes the paste and applies it to his lips, revealing, much to the trio's annoyance, that the concoction was nothing more than a lip balm. Bumi continues to tell them that the island on the scroll is called \"Four Paws Island\" and shows them its location. At that moment, Haru comes rushing into the room and tells them through labored breaths that the army is standing at the gates of Omashu. Bumi informs the team about a secret passageway, which will lead them safely from the city, past the Fire Nation invaders.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
+      ],
       "text": "Fighting through the skirmish, the three reach the palace. Pleased with the work of the children, Bumi takes the paste and applies it to his lips, revealing, much to the trio's annoyance, that the concoction was nothing more than a lip balm. Bumi continues to tell them that the island on the scroll is called \"Four Paws Island\" and shows them its location. At that moment, Haru comes rushing into the room and tells them through labored breaths that the army is standing at the gates of Omashu. Bumi informs the team about a secret passageway, which will lead them safely from the city, past the Fire Nation invaders."
     },
     {
       "body": "As the foursome reaches the passageway, an Omashu guard and the consul are waiting for them. The guard wants to guide them out of the town, though the consul closes the passageway and disables the guard. The consul explains that Aang has endangered the town with his layover and reveals that he does not really support Bumi as Omashu's king and mentions a mysterious proposal that is more of value than the Avatar or the Fire Nation. The consul wants to fight the four children, but Haru insists on a one to one duel in order to preserve the Earth Kingdom's honor, which is stained by the consul's actions.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
+      ],
       "text": "As the foursome reaches the passageway, an Omashu guard and the consul are waiting for them. The guard wants to guide them out of the town, though the consul closes the passageway and disables the guard. The consul explains that Aang has endangered the town with his layover and reveals that he does not really support Bumi as Omashu's king and mentions a mysterious proposal that is more of value than the Avatar or the Fire Nation. The consul wants to fight the four children, but Haru insists on a one to one duel in order to preserve the Earth Kingdom's honor, which is stained by the consul's actions."
     },
     {
       "body": "After Haru has defeated his enemy, he opens the passageway himself. The team flees Omashu, and Haru closes the exit behind him. Shortly after, Zuko arrives and angrily asks the battered consul where the Avatar went. Before he receives an answer, he is surrounded by the machines that have seized control of Omashu.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
+      ],
       "text": "After Haru has defeated his enemy, he opens the passageway himself. The team flees Omashu, and Haru closes the exit behind him. Shortly after, Zuko arrives and angrily asks the battered consul where the Avatar went. Before he receives an answer, he is surrounded by the machines that have seized control of Omashu."
     },
     {
       "body": "Aang and his team head to the island \"Four Paws\", a place nobody knows.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "Omashu"
+      ],
       "text": "Aang and his team head to the island \"Four Paws\", a place nobody knows."
     },
     {
       "body": "The four have landed on Four Paws Island, with Sokka still being astonished that he cannot find the island on the map. As Katara makes fun of her brother, Haru announces that he has a strange feeling about their new surroundings. He mentions the stone statue that the other three had found in the library and suggests looking for it.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The sacred caverns"
+      ],
       "text": "The four have landed on Four Paws Island, with Sokka still being astonished that he cannot find the island on the map. As Katara makes fun of her brother, Haru announces that he has a strange feeling about their new surroundings. He mentions the stone statue that the other three had found in the library and suggests looking for it."
     },
     {
       "body": "At the northwest end of the island, they find strange ruins with two blue stones in a wall and a hole between them where another stone could fit.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The sacred caverns"
+      ],
       "text": "At the northwest end of the island, they find strange ruins with two blue stones in a wall and a hole between them where another stone could fit."
     },
     {
       "body": "As they continue their exploration of the island, the group encounters an animal that looks like Bumi's pet, Flopsy, but with brown fur. Sokka, Katara, and Haru hide behind one of the many statues scattered on the island while Aang tries to talk to the animal. The creature attack, however, forces Aang to subdue it. After the fight, they find a waterbending scroll in a chest, which Katara uses to learn how to heal people.",
       "links": [],
-      "text": "As they continue their exploration of the island, the group encounters an animal that looks like Bumi's pet, Flopsy, but with brown fur. Sokka, Katara, and Haru hide behind one of the many statues scattered on the island while Aang tries to talk to the animal. The creature attack, however, forces Aang to subdue it. After the fight, they find a waterbending scroll in a chest, which Katara uses to learn how to heal people."
-    },
-    {
-      "body": "${link_0}, ${link_1}, ${link_2}, and ${link_3} examine the 3D-model of the island.",
-      "links": [
-        {
-          "body": "Aang",
-          "key": "${link_0}",
-          "target": {
-            "href": "Aang_(games)",
-            "page": "Aang_(games)"
-          }
-        },
-        {
-          "body": "Sokka",
-          "key": "${link_1}",
-          "target": {
-            "href": "Sokka_(games)",
-            "page": "Sokka_(games)"
-          }
-        },
-        {
-          "body": "Katara",
-          "key": "${link_2}",
-          "target": {
-            "href": "Katara_(games)",
-            "page": "Katara_(games)"
-          }
-        },
-        {
-          "body": "Haru",
-          "key": "${link_3}",
-          "target": {
-            "href": "Haru_(games)",
-            "page": "Haru_(games)"
-          }
-        }
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The sacred caverns"
       ],
-      "text": "Aang, Sokka, Katara, and Haru examine the 3D-model of the island."
+      "text": "As they continue their exploration of the island, the group encounters an animal that looks like Bumi's pet, Flopsy, but with brown fur. Sokka, Katara, and Haru hide behind one of the many statues scattered on the island while Aang tries to talk to the animal. The creature attack, however, forces Aang to subdue it. After the fight, they find a waterbending scroll in a chest, which Katara uses to learn how to heal people."
     },
     {
       "body": "At the northeast end, the group stumbles upon ruins similar to the ones they discover before, though now they also discover stairs leading underground and, next to the stairs, a statue looking just like the one in Bumi's library. They venture down the when suddenly a machine falls down, right in front of Katara. They make quick work of the machine, however, and continue their descent into the cave. In the belly of the cave, they find a 3D-model of the island.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The sacred caverns"
+      ],
       "text": "At the northeast end, the group stumbles upon ruins similar to the ones they discover before, though now they also discover stairs leading underground and, next to the stairs, a statue looking just like the one in Bumi's library. They venture down the when suddenly a machine falls down, right in front of Katara. They make quick work of the machine, however, and continue their descent into the cave. In the belly of the cave, they find a 3D-model of the island."
     },
     {
       "body": "At the far side of the model, there is a blue sparkling stone, just like the two they have seen before. As Aang takes the stone out of the model, a ray of sunshine falls onto the northwest end of the island on the model, highlighting the location where the two other blue stones are. Aang also discovers a pattern on the stone, but as he fails to decipher it, the team heads to the local village to find one of the elders who might be able to read the pattern.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The sacred caverns"
+      ],
       "text": "At the far side of the model, there is a blue sparkling stone, just like the two they have seen before. As Aang takes the stone out of the model, a ray of sunshine falls onto the northwest end of the island on the model, highlighting the location where the two other blue stones are. Aang also discovers a pattern on the stone, but as he fails to decipher it, the team heads to the local village to find one of the elders who might be able to read the pattern."
     },
     {
       "body": "On the way to the village, they meet a fisherman at the coast, who is unlucky with catching fish. Katara shows compassion and gives the man the fish, which she caught at the beginning of their adventure. Grateful, he gives her a stamina source in return.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The sacred caverns"
+      ],
       "text": "On the way to the village, they meet a fisherman at the coast, who is unlucky with catching fish. Katara shows compassion and gives the man the fish, which she caught at the beginning of their adventure. Grateful, he gives her a stamina source in return."
     },
     {
       "body": "In the village, they meet a little boy, who seems to like Sokka's boomerang and asks if he could hold it. Sokka does not want to give it to him, and the child begins to cry. Sokka indulges and hands it over to the boy, who readily runs away with it. Sokka runs after him and finds the child being threatened by a machine. He saves the boy and gets the boomerang back. Back in the village, they play the game \"Four Nations\", like several times before, against an elder woman.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The sacred caverns"
+      ],
       "text": "In the village, they meet a little boy, who seems to like Sokka's boomerang and asks if he could hold it. Sokka does not want to give it to him, and the child begins to cry. Sokka indulges and hands it over to the boy, who readily runs away with it. Sokka runs after him and finds the child being threatened by a machine. He saves the boy and gets the boomerang back. Back in the village, they play the game \"Four Nations\", like several times before, against an elder woman."
     },
     {
       "body": "They later on meet an old man, the elder of the village. He deciphers the pattern on the stone as ancient writing and realizes that it tells the history of the island. The writing reads that the people on Four Paws Island are descendants of an ancient group of earthbenders, and the elder concludes that they have to learn the bending style of their ancestors. He sees themselves in the debt of the foursome, because they are now given a purpose in the world. The elder also tells them that the stone is the key to a cavern, and the team is reminded of the place with the two other blue stones and heads there.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The sacred caverns"
+      ],
       "text": "They later on meet an old man, the elder of the village. He deciphers the pattern on the stone as ancient writing and realizes that it tells the history of the island. The writing reads that the people on Four Paws Island are descendants of an ancient group of earthbenders, and the elder concludes that they have to learn the bending style of their ancestors. He sees themselves in the debt of the foursome, because they are now given a purpose in the world. The elder also tells them that the stone is the key to a cavern, and the team is reminded of the place with the two other blue stones and heads there."
     },
     {
       "body": "At the wall, Aang puts the blue stone into the hole, and the wall splits to reveal a cave. Inside, they find a red and a blue wall with a similar opening mechanism as the first wall, though they are locked. At the easternmost path, they find a Red Ore, with which they manage to open the red wall. Walking along the newly revealed path, they find a Blue Ore, which enables them to open the blue wall.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The sacred caverns"
+      ],
       "text": "At the wall, Aang puts the blue stone into the hole, and the wall splits to reveal a cave. Inside, they find a red and a blue wall with a similar opening mechanism as the first wall, though they are locked. At the easternmost path, they find a Red Ore, with which they manage to open the red wall. Walking along the newly revealed path, they find a Blue Ore, which enables them to open the blue wall."
     },
     {
       "body": "Behind the blue wall, they find and walk along a path that ends at a staircase leading down. At the lower stage, they see a path across, which ends in dark alcoves in either direction. In front of the alcove on the right, however, Lian is repairing a huge machine. Sokka explains to Haru that Lian is one of the people they saved from the Fire Nation.",
       "links": [],
-      "text": "Behind the blue wall, they find and walk along a path that ends at a staircase leading down. At the lower stage, they see a path across, which ends in dark alcoves in either direction. In front of the alcove on the right, however, Lian is repairing a huge machine. Sokka explains to Haru that Lian is one of the people they saved from the Fire Nation."
-    },
-    {
-      "body": "${link_0} reveals her intentions on bringing peace to the world by eliminating ${link_1} with her machines.",
-      "links": [
-        {
-          "body": "Lian",
-          "key": "${link_0}",
-          "target": {
-            "href": "Lian",
-            "page": "Lian"
-          }
-        },
-        {
-          "body": "bending",
-          "key": "${link_1}",
-          "target": {
-            "href": "Bending_arts",
-            "page": "Bending_arts"
-          }
-        }
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The sacred caverns"
       ],
-      "text": "Lian reveals her intentions on bringing peace to the world by eliminating bending with her machines."
+      "text": "Behind the blue wall, they find and walk along a path that ends at a staircase leading down. At the lower stage, they see a path across, which ends in dark alcoves in either direction. In front of the alcove on the right, however, Lian is repairing a huge machine. Sokka explains to Haru that Lian is one of the people they saved from the Fire Nation."
     },
     {
       "body": "Aang hurries to her and urges Lian to join them in case the Fire Nation comes back. Lian smiles and says that the Fire Nation will not come, revealing that the Fire Nation only caught her before because she wanted to be caught by them in order to obtain their military equipment to help build the machines. She further reveals her desire to bring world peace by eliminating bending, the source of all evil according to her, by use of her machines, as she has no fate in the Avatar to stop the Fire Nation before the arrival of ${link_0}'s ${link_1}. She tells Aang that when he freed her from the Fire Nation's grasp, he thwarted her plan rather than saved her. She gives him the chance to redeem himself by joining her cause; should he refuse, she will destroy him. Sokka mentions that the Avatar cannot be destroyed, as he would just be reborn, but Aang does not that a reassuring thought, to which Lian agrees, mentioning that she is able to sever Aang's ties to the Avatar Spirit. She leaves them alone with her machine, which starts to attack them.",
@@ -1438,7 +1605,8 @@
           "body": "Sozin",
           "key": "${link_0}",
           "target": {
-            "href": "Sozin",
+            "external": false,
+            "href": "/wiki/Sozin",
             "page": "Sozin"
           }
         },
@@ -1446,36 +1614,73 @@
           "body": "comet",
           "key": "${link_1}",
           "target": {
-            "href": "Sozin%27s_Comet",
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet",
             "page": "Sozin%27s_Comet"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The sacred caverns"
       ],
       "text": "Aang hurries to her and urges Lian to join them in case the Fire Nation comes back. Lian smiles and says that the Fire Nation will not come, revealing that the Fire Nation only caught her before because she wanted to be caught by them in order to obtain their military equipment to help build the machines. She further reveals her desire to bring world peace by eliminating bending, the source of all evil according to her, by use of her machines, as she has no fate in the Avatar to stop the Fire Nation before the arrival of Sozin's comet. She tells Aang that when he freed her from the Fire Nation's grasp, he thwarted her plan rather than saved her. She gives him the chance to redeem himself by joining her cause; should he refuse, she will destroy him. Sokka mentions that the Avatar cannot be destroyed, as he would just be reborn, but Aang does not that a reassuring thought, to which Lian agrees, mentioning that she is able to sever Aang's ties to the Avatar Spirit. She leaves them alone with her machine, which starts to attack them."
     },
     {
       "body": "After the team manages to defeat the machine, Haru wants to track Lian down, and Aang mentions that he might know where she went.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The sacred caverns"
+      ],
       "text": "After the team manages to defeat the machine, Haru wants to track Lian down, and Aang mentions that he might know where she went."
     },
     {
       "body": "The end card reveals that Aang believes Lian is heading to the air temple, since she said she knew how to sever the connection to his past lives. He follows her immediately.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The sacred caverns"
+      ],
       "text": "The end card reveals that Aang believes Lian is heading to the air temple, since she said she knew how to sever the connection to his past lives. He follows her immediately."
     },
     {
       "body": "Aang wants to head to the air temple while his friends search for information about the machines. Katara, unwilling to let him go alone, objects, but Sokka, trusting Aang to accomplish his goal by himself, convinces her to let the Avatar go. Aang heads off with Appa and Momo.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The air temple"
+      ],
       "text": "Aang wants to head to the air temple while his friends search for information about the machines. Katara, unwilling to let him go alone, objects, but Sokka, trusting Aang to accomplish his goal by himself, convinces her to let the Avatar go. Aang heads off with Appa and Momo."
     },
     {
       "body": "While heading to the air temple, he sees Lian's new air machine outside the main entrance. Deducing she is already there, Aang rushes to the main door, fighting through her machines. Reaching the door, he uses his airbending to trigger it to open. Succeeding, he runs inside, pushing through more of Lian's machines to reach the Avatar statues within. He finds Lian's machines damaging the statues, prompting Aang to attack and destroy them before they cause more damage. The threat dealt with, Aang realizes Lian is not present, pondering on her apparent insanity.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The air temple"
+      ],
       "text": "While heading to the air temple, he sees Lian's new air machine outside the main entrance. Deducing she is already there, Aang rushes to the main door, fighting through her machines. Reaching the door, he uses his airbending to trigger it to open. Succeeding, he runs inside, pushing through more of Lian's machines to reach the Avatar statues within. He finds Lian's machines damaging the statues, prompting Aang to attack and destroy them before they cause more damage. The threat dealt with, Aang realizes Lian is not present, pondering on her apparent insanity."
     },
     {
       "body": "Meanwhile, Katara is worried about Aang but Sokka tells her not to worry, claiming he wants lunch instead. Haru reminds the pair they have to talk to the locals about the machines. Searching in the village, they learn Lian's machines have attack the building site for new homes nearby, particularly the new flying machines Lian has made. The three head to the site, finding the new air machines terrorizing the area. The trio defeats all the machines, Haru putting it down to the training they have all done. Katara voices returning to the village to notify Aang but Sokka suggests staying around and searching for more machines to dismantle. However, before they can move, the earth beneath them rumbles as something approaches them from below.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The air temple"
+      ],
       "text": "Meanwhile, Katara is worried about Aang but Sokka tells her not to worry, claiming he wants lunch instead. Haru reminds the pair they have to talk to the locals about the machines. Searching in the village, they learn Lian's machines have attack the building site for new homes nearby, particularly the new flying machines Lian has made. The three head to the site, finding the new air machines terrorizing the area. The trio defeats all the machines, Haru putting it down to the training they have all done. Katara voices returning to the village to notify Aang but Sokka suggests staying around and searching for more machines to dismantle. However, before they can move, the earth beneath them rumbles as something approaches them from below."
     },
     {
@@ -1485,7 +1690,8 @@
           "body": "Gyatso",
           "key": "${link_0}",
           "target": {
-            "href": "Gyatso",
+            "external": false,
+            "href": "/wiki/Gyatso",
             "page": "Gyatso"
           }
         },
@@ -1493,31 +1699,62 @@
           "body": "Four Nations Force",
           "key": "${link_1}",
           "target": {
-            "href": "Four_Nations_(game)",
+            "external": false,
+            "href": "/wiki/Four_Nations_(game)",
             "page": "Four_Nations_(game)"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The air temple"
       ],
       "text": "Meanwhile, with the Avatar statues safe, Aang begins making his way back to Appa and Momo. Returning to the village, Aang finds Katara, Sokka and Haru are no where to be found. Worrying that they have been captured, Aang rushes to search the nearby area. While searching, he sees where the elders used to sit, reminding him of when he abandoned the airbenders because of his fears about being the Avatar. While lamenting, he experiences a vision of Gyatso appearing before him, asking to play Four Nations Force. After the game, Gyatso expresses his joy at playing with Aang again and insists Aang forgive himself for his failures in the past to focus on succeeding in the present. Should Aang with, he finds an air scroll, which he uses to learn a tornado attack."
     },
     {
       "body": "Aang, reaching the building site the locals mentioned his friends went to, finds a hole, where one of Lian's tanks, a Drill tank, has dug deep within, climbing out. Aang faces and destroys the machine in a violent tunnel fight. Afterwards, Aang comforts Appa about going into the hole to search for their friends.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The air temple"
+      ],
       "text": "Aang, reaching the building site the locals mentioned his friends went to, finds a hole, where one of Lian's tanks, a Drill tank, has dug deep within, climbing out. Aang faces and destroys the machine in a violent tunnel fight. Afterwards, Aang comforts Appa about going into the hole to search for their friends."
     },
     {
       "body": "Riding on Appa through the tunnel, they reach the other end, near a molten covered town. Letting Appa rest, Aang searches in town for signs his friends were taken there. Learning of a nearby fortress from the locals, Aang heads west to reach it, pushing through more of Lian's machines.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The fortress"
+      ],
       "text": "Riding on Appa through the tunnel, they reach the other end, near a molten covered town. Letting Appa rest, Aang searches in town for signs his friends were taken there. Learning of a nearby fortress from the locals, Aang heads west to reach it, pushing through more of Lian's machines."
     },
     {
       "body": "Aang breaks inside the molten covered fortress, eventually finding Sokka trapped in a cage. Using his airbending, Aang breaks him out. Sokka reveals the drill machine Aang defeated earlier had captured him, Katara and Haru, confirming they too are trapped inside somewhere. Sokka also reveals he swiped Lian's monkey wrench while being captured. Using the monkey wrench, the pair break into another molten filled cell, finding Katara on the other side. Aang, using his staff, flies over and rescues her. The trio push deeper in to the fortress, finding a wall of fire. Using her waterbending, Katara douses the flames, enabling them to reach the last metal cell where Haru is contained. Sokka breaks him out too. The gang reunited, they decide to confront and stop Lian once and for all.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The fortress"
+      ],
       "text": "Aang breaks inside the molten covered fortress, eventually finding Sokka trapped in a cage. Using his airbending, Aang breaks him out. Sokka reveals the drill machine Aang defeated earlier had captured him, Katara and Haru, confirming they too are trapped inside somewhere. Sokka also reveals he swiped Lian's monkey wrench while being captured. Using the monkey wrench, the pair break into another molten filled cell, finding Katara on the other side. Aang, using his staff, flies over and rescues her. The trio push deeper in to the fortress, finding a wall of fire. Using her waterbending, Katara douses the flames, enabling them to reach the last metal cell where Haru is contained. Sokka breaks him out too. The gang reunited, they decide to confront and stop Lian once and for all."
     },
     {
       "body": "Using Haru's earthbending, the gang make it further into the fortress where they find an injured Zuko. The firebender strikes at Aang, who dodges the blast, but is too weak to stand. Sokka dismisses Zuko, insisting they must push on to Lian. Aang argues they stay, not wanting to leave the weakened Zuko alone with all the machines around. Zuko rejects the Avatar's help, enabling Sokka to push Aang onward, leaving Zuko behind.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The fortress"
+      ],
       "text": "Using Haru's earthbending, the gang make it further into the fortress where they find an injured Zuko. The firebender strikes at Aang, who dodges the blast, but is too weak to stand. Sokka dismisses Zuko, insisting they must push on to Lian. Aang argues they stay, not wanting to leave the weakened Zuko alone with all the machines around. Zuko rejects the Avatar's help, enabling Sokka to push Aang onward, leaving Zuko behind."
     },
     {
@@ -1527,7 +1764,8 @@
           "body": "war",
           "key": "${link_0}",
           "target": {
-            "href": "Hundred_Year_War",
+            "external": false,
+            "href": "/wiki/Hundred_Year_War",
             "page": "Hundred_Year_War"
           }
         },
@@ -1535,42 +1773,1022 @@
           "body": "Ultimation",
           "key": "${link_1}",
           "target": {
-            "href": "Ultimation",
+            "external": false,
+            "href": "/wiki/Ultimation",
             "page": "Ultimation"
           }
         }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The fortress"
       ],
       "text": "Almost at the end, the gang are confronted by the Aqua tank from Four Paws again. After a long fight, they manage to disable that too, the machine fleeing into the next room. The group follows it, finding Lian, Haru's friend Yuan and Hiryu, the waterbender who went missing from the Northern Water tribe. Haru demands Lian let Yuan go but Yuan states he is there of his own accord, helping Lian build the machines as he believes they are the key to winning the war. Lian confirms such, remarking her machines are the way to balance the world, not the Avatar. Sokka speaks out, citing replacing benders with machines would not balance the world or win the war. Lian rejects his proposal, stating the gang either join them or fight them, citing what they did to Zuko earlier. Angered, Aang defends Zuko's choice as the right one. Enraged, Lian unveils her new Avatar tank (dubbed the Ultimation) capable of manipulating air, water, earth and fire simultaneously. With no choice, the gang fights Lian's strongest machine."
     },
     {
       "body": "Midway through the battle, Aang turns to the others, ensuring they are all fine. However, Lian's tank launches a fire ball at Aang. The only one to see it, Katara runs out, pushing Aang out of the way, taking the hit. She collapses, knocked unconscious. Aang, Haru and Sokka rush to her side. Lian stops her machine's attacks, choosing to mock the group for how weak and exhausted they hard, citing Katara's defeat as proof her machines are stronger than benders. Overcome with anger, Aang triggers the Avatar state, proceeding to fight the Ultimation alone. With his enhanced airbending, Aang overwhelms the machine, smashing it to pieces. Exhausted, he exits the Avatar state, collapsing to the ground, knocked out. Defeated, Lian struggles to stand but Yuan and Hiryu help her up, conceding the human spirit is immeasurable while their machines have limits. Haru tries to convince Yuan to come back home with him but his friend refuses, stating he wants to stay and care for Lian. The three proceed to flee, leaving Sokka and Haru to care for Aang and Katara.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The fortress"
+      ],
       "text": "Midway through the battle, Aang turns to the others, ensuring they are all fine. However, Lian's tank launches a fire ball at Aang. The only one to see it, Katara runs out, pushing Aang out of the way, taking the hit. She collapses, knocked unconscious. Aang, Haru and Sokka rush to her side. Lian stops her machine's attacks, choosing to mock the group for how weak and exhausted they hard, citing Katara's defeat as proof her machines are stronger than benders. Overcome with anger, Aang triggers the Avatar state, proceeding to fight the Ultimation alone. With his enhanced airbending, Aang overwhelms the machine, smashing it to pieces. Exhausted, he exits the Avatar state, collapsing to the ground, knocked out. Defeated, Lian struggles to stand but Yuan and Hiryu help her up, conceding the human spirit is immeasurable while their machines have limits. Haru tries to convince Yuan to come back home with him but his friend refuses, stating he wants to stay and care for Lian. The three proceed to flee, leaving Sokka and Haru to care for Aang and Katara."
     },
     {
       "body": "A while late, Aang regains consciousness in Katara's arms. Sokka chastises Katara for putting herself in harms way but she states she had to do something as no one else noticed and Aang is more important to the world than her. Hearing such, Aang remarks how their waterbending teacher, Master Wei, once told Aang to learn from Katara. Aang concludes that lesson was that, even when one person is able to help, they should; he is the Avatar and he has to accept his responsibility to save the world. Annoyed, Sokka moans he wants to leave the fortress, causing Haru to laugh at him.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The fortress"
+      ],
       "text": "A while late, Aang regains consciousness in Katara's arms. Sokka chastises Katara for putting herself in harms way but she states she had to do something as no one else noticed and Aang is more important to the world than her. Hearing such, Aang remarks how their waterbending teacher, Master Wei, once told Aang to learn from Katara. Aang concludes that lesson was that, even when one person is able to help, they should; he is the Avatar and he has to accept his responsibility to save the world. Annoyed, Sokka moans he wants to leave the fortress, causing Haru to laugh at him."
     },
     {
       "body": "The group proceed to leave the fortress and return to Appa and Momo. The group board and fly away on Appa, bound for Haru's village to return him home. Elsewhere, Zuko has also escaped the fortress, watching the gang leave, dejected over what has happened to him.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Game overview",
+        "NDS version",
+        "The fortress"
+      ],
       "text": "The group proceed to leave the fortress and return to Appa and Momo. The group board and fly away on Appa, bound for Haru's village to return him home. Elsewhere, Zuko has also escaped the fortress, watching the gang leave, dejected over what has happened to him."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Aang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Aang_(games)",
+            "page": "Aang_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Playable characters"
+      ],
+      "text": "Aang"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Haru",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Haru_(games)",
+            "page": "Haru_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Playable characters"
+      ],
+      "text": "Haru"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Katara",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Katara_(games)",
+            "page": "Katara_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Playable characters"
+      ],
+      "text": "Katara"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Momo",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Momo",
+            "page": "Momo"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Playable characters"
+      ],
+      "text": "Momo"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sokka",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sokka_(games)",
+            "page": "Sokka_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Playable characters"
+      ],
+      "text": "Sokka"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bumi's advisor",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bumi%27s_advisor",
+            "page": "Bumi%27s_advisor"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Other characters"
+      ],
+      "text": "Bumi's advisor"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hiryu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Hiryu",
+            "page": "Hiryu"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Other characters"
+      ],
+      "text": "Hiryu"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jailer",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jailer",
+            "page": "Jailer"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Other characters"
+      ],
+      "text": "Jailer"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jin Wei",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jin_Wei_(games)",
+            "page": "Jin_Wei_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Other characters"
+      ],
+      "text": "Jin Wei"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lian",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lian",
+            "page": "Lian"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Other characters"
+      ],
+      "text": "Lian"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ming",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ming_(games)",
+            "page": "Ming_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Other characters"
+      ],
+      "text": "Ming"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wei",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Wei",
+            "page": "Wei"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Other characters"
+      ],
+      "text": "Wei"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Yuan",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Yuan",
+            "page": "Yuan"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Other characters"
+      ],
+      "text": "Yuan"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Zuko",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_(games)",
+            "page": "Zuko_(games)"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Other characters"
+      ],
+      "text": "Zuko"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Tyro",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Tyro",
+            "page": "Tyro"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Other characters"
+      ],
+      "text": "Tyro"
+    },
+    {
+      "body": "Colossal Inferno",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Bosses"
+      ],
+      "text": "Colossal Inferno"
+    },
+    {
+      "body": "The ${link_0}",
+      "links": [
+        {
+          "body": "Jailer",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jailer",
+            "page": "Jailer"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Bosses"
+      ],
+      "text": "The Jailer"
+    },
+    {
+      "body": "Ancestral Bear",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Bosses"
+      ],
+      "text": "Ancestral Bear"
+    },
+    {
+      "body": "Earthbender Consul",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Bosses"
+      ],
+      "text": "Earthbender Consul"
+    },
+    {
+      "body": "Prototype Dreadnought",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Bosses"
+      ],
+      "text": "Prototype Dreadnought"
+    },
+    {
+      "body": "Geo-Tunneler",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Bosses"
+      ],
+      "text": "Geo-Tunneler"
+    },
+    {
+      "body": "Dreadnought",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Bosses"
+      ],
+      "text": "Dreadnought"
+    },
+    {
+      "body": "${link_0} and the Ultimation",
+      "links": [
+        {
+          "body": "Lian",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lian",
+            "page": "Lian"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Characters",
+        "Bosses"
+      ],
+      "text": "Lian and the Ultimation"
+    },
+    {
+      "body": "Waterbending Village",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Chapters"
+      ],
+      "text": "Waterbending Village"
+    },
+    {
+      "body": "Amongst the Enemy",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Chapters"
+      ],
+      "text": "Amongst the Enemy"
+    },
+    {
+      "body": "The Forest",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Chapters"
+      ],
+      "text": "The Forest"
+    },
+    {
+      "body": "Omashu",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Chapters"
+      ],
+      "text": "Omashu"
+    },
+    {
+      "body": "The Hidden Island",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Chapters"
+      ],
+      "text": "The Hidden Island"
+    },
+    {
+      "body": "The Air Temple",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Chapters"
+      ],
+      "text": "The Air Temple"
+    },
+    {
+      "body": "The Fortress",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Chapters"
+      ],
+      "text": "The Fortress"
     },
     {
       "body": "Not for DS.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Secret codes"
+      ],
       "text": "Not for DS."
     },
     {
       "body": "The following codes have been written in Extras Menu:",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Secret codes"
+      ],
       "text": "The following codes have been written in Extras Menu:"
+    },
+    {
+      "body": "Unlimited Copper: 23637",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Secret codes"
+      ],
+      "text": "Unlimited Copper: 23637"
+    },
+    {
+      "body": "Unlimited Chi: 24463",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Secret codes"
+      ],
+      "text": "Unlimited Chi: 24463"
+    },
+    {
+      "body": "Double Damage: 34743",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Secret codes"
+      ],
+      "text": "Double Damage: 34743"
+    },
+    {
+      "body": "All Treasure Maps: 37437",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Secret codes"
+      ],
+      "text": "All Treasure Maps: 37437"
+    },
+    {
+      "body": "Neverending Stealth: 53467",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Secret codes"
+      ],
+      "text": "Neverending Stealth: 53467"
+    },
+    {
+      "body": "One Hit Dishonor: 54641",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Secret codes"
+      ],
+      "text": "One Hit Dishonor: 54641"
+    },
+    {
+      "body": "Unlimited Health: 94677",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Secret codes"
+      ],
+      "text": "Unlimited Health: 94677"
+    },
+    {
+      "body": "Concept Character Gallery: 97831",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Secret codes"
+      ],
+      "text": "Concept Character Gallery: 97831"
+    },
+    {
+      "body": "Equipping items in the inventory can make characters stronger:\n Katara's waterbending abilities improve when she wears items with life.\n Aang's airbending is more powerful when he wears items with agility.\n Haru becomes much stronger when he wears items with focus.\n Sokka is more powerful when he wears items with strength.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Hints and tips"
+      ],
+      "text": "Equipping items in the inventory can make characters stronger:\n Katara's waterbending abilities improve when she wears items with life.\n Aang's airbending is more powerful when he wears items with agility.\n Haru becomes much stronger when he wears items with focus.\n Sokka is more powerful when he wears items with strength."
+    },
+    {
+      "body": "Katara's waterbending abilities improve when she wears items with life.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Hints and tips"
+      ],
+      "text": "Katara's waterbending abilities improve when she wears items with life."
+    },
+    {
+      "body": "Aang's airbending is more powerful when he wears items with agility.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Hints and tips"
+      ],
+      "text": "Aang's airbending is more powerful when he wears items with agility."
+    },
+    {
+      "body": "Haru becomes much stronger when he wears items with focus.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Hints and tips"
+      ],
+      "text": "Haru becomes much stronger when he wears items with focus."
+    },
+    {
+      "body": "Sokka is more powerful when he wears items with strength.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Hints and tips"
+      ],
+      "text": "Sokka is more powerful when he wears items with strength."
+    },
+    {
+      "body": "Items in a set appear with an orange glow. Equip them all for an extra bonus.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Hints and tips"
+      ],
+      "text": "Items in a set appear with an orange glow. Equip them all for an extra bonus."
+    },
+    {
+      "body": "The items labeled under these titles are exclusive to each character in making them stronger:\n Aang - Four Winds\n Katara - Lifebender\n Sokka - Soul Iron\n Haru - Core",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Hints and tips"
+      ],
+      "text": "The items labeled under these titles are exclusive to each character in making them stronger:\n Aang - Four Winds\n Katara - Lifebender\n Sokka - Soul Iron\n Haru - Core"
+    },
+    {
+      "body": "Aang - Four Winds",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Hints and tips"
+      ],
+      "text": "Aang - Four Winds"
+    },
+    {
+      "body": "Katara - Lifebender",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Hints and tips"
+      ],
+      "text": "Katara - Lifebender"
+    },
+    {
+      "body": "Sokka - Soul Iron",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Hints and tips"
+      ],
+      "text": "Sokka - Soul Iron"
+    },
+    {
+      "body": "Haru - Core",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Hints and tips"
+      ],
+      "text": "Haru - Core"
+    },
+    {
+      "body": "Hidden chests often contain rare items and can be found in every level.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Hints and tips"
+      ],
+      "text": "Hidden chests often contain rare items and can be found in every level."
+    },
+    {
+      "body": "Keep an eye on the minimap to see approaching enemies.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Hints and tips"
+      ],
+      "text": "Keep an eye on the minimap to see approaching enemies."
     },
     {
       "body": "GameSpot gave the game an average score across all versions of 6.4 out of 10, which corresponds to \"mediocre\" or \"merely average\", saying the gameplay was too repetitive but the sound effects and music were soothing and simple. IGN gave a slightly lower average rating of 5.4 with similar reviews, as did a handful of analogous gaming sites. Nintendo Power rated the game somewhat higher, giving the GameCube version a 7 out of 10. Despite the mainly negative and mixed reviews, the game had commercial success, finishing 2006 as THQ's top-selling Nickelodeon property.",
       "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Critical reception"
+      ],
       "text": "GameSpot gave the game an average score across all versions of 6.4 out of 10, which corresponds to \"mediocre\" or \"merely average\", saying the gameplay was too repetitive but the sound effects and music were soothing and simple. IGN gave a slightly lower average rating of 5.4 with similar reviews, as did a handful of analogous gaming sites. Nintendo Power rated the game somewhat higher, giving the GameCube version a 7 out of 10. Despite the mainly negative and mixed reviews, the game had commercial success, finishing 2006 as THQ's top-selling Nickelodeon property."
+    },
+    {
+      "body": "In the level \"The Fortress\" of the PS2 version, the four nations player there awards a set item for Aang: the Four Winds Headband. However, this item can be found earlier in the game from a hidden chest, and the item is not actually given here. That level even reports set items possible to find as zero, not even reflecting this goof.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Goofs"
+      ],
+      "text": "In the level \"The Fortress\" of the PS2 version, the four nations player there awards a set item for Aang: the Four Winds Headband. However, this item can be found earlier in the game from a hidden chest, and the item is not actually given here. That level even reports set items possible to find as zero, not even reflecting this goof."
+    },
+    {
+      "body": "As noted above; the set item Soul Iron Band for Sokka cannot be found in the PS2, but is given by the old man who wanted the soap.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Goofs"
+      ],
+      "text": "As noted above; the set item Soul Iron Band for Sokka cannot be found in the PS2, but is given by the old man who wanted the soap."
+    },
+    {
+      "body": "Omashu is stated to be the capital of the Earth Kingdom and is in the normal location for ${link_0}.",
+      "links": [
+        {
+          "body": "Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ba_Sing_Se",
+            "page": "Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Goofs"
+      ],
+      "text": "Omashu is stated to be the capital of the Earth Kingdom and is in the normal location for Ba Sing Se."
+    },
+    {
+      "body": "In the cave where she is first confronted, The Maker refers to bending as \"magic\", the same way Sokka did in the \"${link_0}\".",
+      "links": [
+        {
+          "body": "The Boy in the Iceberg",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boy_in_the_Iceberg",
+            "page": "The_Boy_in_the_Iceberg"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Trivia"
+      ],
+      "text": "In the cave where she is first confronted, The Maker refers to bending as \"magic\", the same way Sokka did in the \"The Boy in the Iceberg\"."
+    },
+    {
+      "body": "In the PS2 and NDS version, the waterbending master is Master Wei, but in the PSP version, the waterbending master is ${link_0}.",
+      "links": [
+        {
+          "body": "Pakku",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Pakku",
+            "page": "Pakku"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Trivia"
+      ],
+      "text": "In the PS2 and NDS version, the waterbending master is Master Wei, but in the PSP version, the waterbending master is Pakku."
+    },
+    {
+      "body": "The game features a mini-game called ${link_0}, in which items are won from villagers. It is played similar to dominoes, with the numbers replaced by the symbols of the ${link_1} and a special Avatar tile as a wild card.",
+      "links": [
+        {
+          "body": "Four Nations",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Four_Nations_(game)",
+            "page": "Four_Nations_(game)"
+          }
+        },
+        {
+          "body": "four nations",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Four_nations",
+            "page": "Four_nations"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Trivia"
+      ],
+      "text": "The game features a mini-game called Four Nations, in which items are won from villagers. It is played similar to dominoes, with the numbers replaced by the symbols of the four nations and a special Avatar tile as a wild card."
+    },
+    {
+      "body": "This game is the only Avatar game to feature Haru as a playable character, as Toph was not introduced at the time.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Trivia"
+      ],
+      "text": "This game is the only Avatar game to feature Haru as a playable character, as Toph was not introduced at the time."
+    },
+    {
+      "body": "Ba Sing Se had been mentioned in \"${link_0}\" as the capital, but it was never stated where it was.",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Trivia"
+      ],
+      "text": "Ba Sing Se had been mentioned in \"The Great Divide\" as the capital, but it was never stated where it was."
+    },
+    {
+      "body": "The air temple is located at the ${link_0}.",
+      "links": [
+        {
+          "body": "Southern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Southern_Air_Temple",
+            "page": "Southern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Trivia"
+      ],
+      "text": "The air temple is located at the Southern Air Temple."
+    },
+    {
+      "body": "Penguin sledding is referenced, a nod to \"The Boy in the Iceberg.\"",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Trivia"
+      ],
+      "text": "Penguin sledding is referenced, a nod to \"The Boy in the Iceberg.\""
+    },
+    {
+      "body": "The player can find items that are under the \"Unagi\" label, a reference to the ${link_0} in \"${link_1}\".",
+      "links": [
+        {
+          "body": "creature of the same name",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Unagi",
+            "page": "Unagi"
+          }
+        },
+        {
+          "body": "The Warriors of Kyoshi",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Warriors_of_Kyoshi",
+            "page": "The_Warriors_of_Kyoshi"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Trivia"
+      ],
+      "text": "The player can find items that are under the \"Unagi\" label, a reference to the creature of the same name in \"The Warriors of Kyoshi\"."
+    },
+    {
+      "body": "This is the only Avatar game in which Aang cannot bend any elements other than air.",
+      "links": [],
+      "section": [
+        "Avatar: The Last Airbender",
+        "Trivia"
+      ],
+      "text": "This is the only Avatar game in which Aang cannot bend any elements other than air."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "List of Avatar games",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar_games",
+            "page": "List_of_Avatar_games"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "See also"
+      ],
+      "text": "List of Avatar games"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Announcement article on IGN",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://wii.ign.com/articles/703/703003p1",
+            "page": "http://wii.ign.com/articles/703/703003p1"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "External links"
+      ],
+      "text": "Announcement article on IGN"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "THQ Press release on Yahoo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://biz.yahoo.com/prnews/061010/latu077?.v=69",
+            "page": "http://biz.yahoo.com/prnews/061010/latu077?.v=69"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "External links"
+      ],
+      "text": "THQ Press release on Yahoo"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Avatar The Last Airbender Games",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://avatarthelastairbenderonline.com/avatarthelastairbendergames/",
+            "page": "http://avatarthelastairbenderonline.com/avatarthelastairbendergames/"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "External links"
+      ],
+      "text": "Avatar The Last Airbender Games"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Short guide with useful information",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "https://www.gamefaqs.com/ds/932672-avatar-the-last-airbender/faqs/48209",
+            "page": "https://www.gamefaqs.com/ds/932672-avatar-the-last-airbender/faqs/48209"
+          }
+        }
+      ],
+      "section": [
+        "Avatar: The Last Airbender",
+        "External links"
+      ],
+      "text": "Short guide with useful information"
     }
   ],
   "source": {

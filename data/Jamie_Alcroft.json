@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "All Night Radio (1982; TV movie)",
+          "body": "${link_0} (1982; TV movie)",
           "extra": "(1982; TV movie)",
           "extra_text": "(1982; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "All Night Radio",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1262091",
+                "page": "http://www.imdb.com/find?q=tt1262091"
+              }
+            }
+          ],
           "text": "All Night Radio (1982; TV movie)",
-          "value": "All Night Radio",
+          "value": "${link_0}",
           "value_text": "All Night Radio"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0017314",
+                "page": "http://www.imdb.com/find?q=nm0017314"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jamie_Alcroft",
+                "page": "http://en.wikipedia.org/wiki/Jamie_Alcroft"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/jamie.alcroft.7",
+                "page": "https://www.facebook.com/jamie.alcroft.7"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.mackandjamie.com/",
+                "page": "http://www.mackandjamie.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -95,18 +148,373 @@
   ],
   "paragraphs": [
     {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Comedy Break",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0288929",
+            "page": "http://www.imdb.com/find?q=tt0288929"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Comedy Break"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Justice League",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275137",
+            "page": "http://www.imdb.com/find?q=tt0275137"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Justice League"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Katie Joplin",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0210424",
+            "page": "http://www.imdb.com/find?q=tt0210424"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Katie Joplin"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Most Extreme Elimination Challenge",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364843",
+            "page": "http://www.imdb.com/find?q=tt0364843"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Most Extreme Elimination Challenge"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Primetime Glick",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0287872",
+            "page": "http://www.imdb.com/find?q=tt0287872"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Primetime Glick"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Buffalo Son",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1568292",
+            "page": "http://www.imdb.com/find?q=tt1568292"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Buffalo Son (2009)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Corpus Callosum",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1382201",
+            "page": "http://www.imdb.com/find?q=tt1382201"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Corpus Callosum (2007)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Shrink Rap",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0375061",
+            "page": "http://www.imdb.com/find?q=tt0375061"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Shrink Rap (2003)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Eight Crazy Nights",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0271263",
+            "page": "http://www.imdb.com/find?q=tt0271263"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Eight Crazy Nights (2002)"
+    },
+    {
+      "body": "${link_0} (1987)",
+      "links": [
+        {
+          "body": "Million Dollar Mystery",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0093539",
+            "page": "http://www.imdb.com/find?q=tt0093539"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Million Dollar Mystery (1987)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Alter Echo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0413676",
+            "page": "http://www.imdb.com/find?q=tt0413676"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Alter Echo (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Call of Duty: United Offensive",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0426423",
+            "page": "http://www.imdb.com/find?q=tt0426423"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Call of Duty: United Offensive (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Gears of War",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0823463",
+            "page": "http://www.imdb.com/find?q=tt0823463"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Gears of War (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Quest for Saddam",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0400759",
+            "page": "http://www.imdb.com/find?q=tt0400759"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Quest for Saddam (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Galactic Battlegrounds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292254",
+            "page": "http://www.imdb.com/find?q=tt0292254"
+          }
+        }
+      ],
+      "section": [
+        "Jamie Alcroft",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Galactic Battlegrounds (video game)"
+    },
+    {
       "body": "Alcroft earned a Bachelor of Science in Communication from Ohio University in 1971 and is married to two time Emmy award winning figure skating choreographer Sarah Kawahara. The couple have three children: Alysse, Hayley, and Thatcher.",
       "links": [],
+      "section": [
+        "Jamie Alcroft",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Alcroft earned a Bachelor of Science in Communication from Ohio University in 1971 and is married to two time Emmy award winning figure skating choreographer Sarah Kawahara. The couple have three children: Alysse, Hayley, and Thatcher."
     },
     {
       "body": "Alcroft was working as a disc jockey at a Key West radio station in 1979 when cartoonist Mack Dryden left a note for him at his studio, which read, \"You must be one of the funniest men in Key West; I'm the other one.\" The pair got to know one another and began performing as a stand-up act in Key West. They had been working together for less than two years when they were invited to appear on The Tonight Show with Johnny Carson. That and other TV appearances led to their own syndicated show in 1985, called Comedy Break, and they subsequently taped 125 half-hour episodes in less than a year. Dryden and Alcroft continue to perform at corporate events around the world and have earned a reputation as clean comedians.",
       "links": [],
+      "section": [
+        "Jamie Alcroft",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Alcroft was working as a disc jockey at a Key West radio station in 1979 when cartoonist Mack Dryden left a note for him at his studio, which read, \"You must be one of the funniest men in Key West; I'm the other one.\" The pair got to know one another and began performing as a stand-up act in Key West. They had been working together for less than two years when they were invited to appear on The Tonight Show with Johnny Carson. That and other TV appearances led to their own syndicated show in 1985, called Comedy Break, and they subsequently taped 125 half-hour episodes in less than a year. Dryden and Alcroft continue to perform at corporate events around the world and have earned a reputation as clean comedians."
     },
     {
       "body": "As a voice actor, Alcroft has provided numerous voices for commercials, animated series, and video games, such as Gears of War I, II, and III, and Call of Duty United Offensive as Lieutenant Lehmkuhl and Sgt. Ramirez. He also played the interviewer in the intro and outro of Spyro The Dragon and other numerous dragons.",
       "links": [],
+      "section": [
+        "Jamie Alcroft",
+        "Biographical information",
+        "Career"
+      ],
       "text": "As a voice actor, Alcroft has provided numerous voices for commercials, animated series, and video games, such as Gears of War I, II, and III, and Call of Duty United Offensive as Lieutenant Lehmkuhl and Sgt. Ramirez. He also played the interviewer in the intro and outro of Spyro The Dragon and other numerous dragons."
     }
   ],

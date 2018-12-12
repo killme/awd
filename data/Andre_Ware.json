@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Die Hard: With a Vengeance (1995)",
+          "body": "${link_0} (1995)",
           "extra": "(1995)",
           "extra_text": "(1995)",
-          "links": [],
+          "links": [
+            {
+              "body": "Die Hard: With a Vengeance",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0112864",
+                "page": "http://www.imdb.com/find?q=tt0112864"
+              }
+            }
+          ],
           "text": "Die Hard: With a Vengeance (1995)",
-          "value": "Die Hard: With a Vengeance",
+          "value": "${link_0}",
           "value_text": "Die Hard: With a Vengeance"
         }
       ]
@@ -55,18 +68,429 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0912107",
+                "page": "http://www.imdb.com/find?q=nm0912107"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Avatar: The Last Airbender credits",
+        "Sensitive ruffian"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "As Told by Ginger",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235911",
+            "page": "http://www.imdb.com/find?q=tt0235911"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "As Told by Ginger"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Chicago Hope",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108724",
+            "page": "http://www.imdb.com/find?q=tt0108724"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Chicago Hope"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Grey's Anatomy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0413573",
+            "page": "http://www.imdb.com/find?q=tt0413573"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Grey's Anatomy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Just Shoot Me!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118364",
+            "page": "http://www.imdb.com/find?q=tt0118364"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Just Shoot Me!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Division",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0272376",
+            "page": "http://www.imdb.com/find?q=tt0272376"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Division"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Two and a Half Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0369179",
+            "page": "http://www.imdb.com/find?q=tt0369179"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Two and a Half Men"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "The Cost of Heaven",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1581842",
+            "page": "http://www.imdb.com/find?q=tt1581842"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Cost of Heaven (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Hotel for Dogs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0785006",
+            "page": "http://www.imdb.com/find?q=tt0785006"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hotel for Dogs (2009)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Mini's First Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0425253",
+            "page": "http://www.imdb.com/find?q=tt0425253"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mini's First Time (2006)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "The Creature of the Sunny Side Up Trailer Park",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0328899",
+            "page": "http://www.imdb.com/find?q=tt0328899"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Creature of the Sunny Side Up Trailer Park (2004)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Cradle 2 the Grave",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0306685",
+            "page": "http://www.imdb.com/find?q=tt0306685"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cradle 2 the Grave (2003)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "The Banger Sisters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0280460",
+            "page": "http://www.imdb.com/find?q=tt0280460"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Banger Sisters (2002)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fantastic Four",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0476458",
+            "page": "http://www.imdb.com/find?q=tt0476458"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fantastic Four (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Quake 4",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0304599",
+            "page": "http://www.imdb.com/find?q=tt0304599"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Quake 4 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Red Faction Guerrilla",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1333108",
+            "page": "http://www.imdb.com/find?q=tt1333108"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Red Faction Guerrilla (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Trek: Deep Space Nine - The Fallen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0203945",
+            "page": "http://www.imdb.com/find?q=tt0203945"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Trek: Deep Space Nine - The Fallen (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: X-Wing Alliance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0246253",
+            "page": "http://www.imdb.com/find?q=tt0246253"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: X-Wing Alliance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tom Clancy's Ghost Recon: Advanced Warfighter 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1121103",
+            "page": "http://www.imdb.com/find?q=tt1121103"
+          }
+        }
+      ],
+      "section": [
+        "Andre Ware",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tom Clancy's Ghost Recon: Advanced Warfighter 2 (video game)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Andre_Ware",
     "file": "avatar.wikia.com/wiki/Andre_Ware.html",

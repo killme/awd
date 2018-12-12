@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "\"Crocodile\" Dundee II (1988)",
+          "body": "${link_0} (1988)",
           "extra": "(1988)",
           "extra_text": "(1988)",
-          "links": [],
+          "links": [
+            {
+              "body": "\"Crocodile\" Dundee II",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0092493",
+                "page": "http://www.imdb.com/find?q=tt0092493"
+              }
+            }
+          ],
           "text": "\"Crocodile\" Dundee II (1988)",
-          "value": "\"Crocodile\" Dundee II",
+          "value": "${link_0}",
           "value_text": "\"Crocodile\" Dundee II"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0740535",
+                "page": "http://www.imdb.com/find?q=nm0740535"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Stephen_Root",
+                "page": "http://en.wikipedia.org/wiki/Stephen_Root"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Stephen-Root/112487208764090",
+                "page": "https://www.facebook.com/pages/Stephen-Root/112487208764090"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -86,18 +129,473 @@
   ],
   "paragraphs": [
     {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "The Legend of Korra credits",
+        "White Lotus leader"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "The Legend of Korra credits",
+        "Gommu"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Skeletons in the Closet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
+            "page": "Skeletons_in_the_Closet"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "The Legend of Korra credits",
+        "Gommu"
+      ],
+      "text": "111. \"Skeletons in the Closet\""
+    },
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "The Legend of Korra credits",
+        "Chung"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "American Dad",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397306",
+            "page": "http://www.imdb.com/find?q=tt0397306"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Dad"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Cross of Fire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0097127",
+            "page": "http://www.imdb.com/find?q=tt0097127"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Cross of Fire (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Dexter Prep",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0317350",
+            "page": "http://www.imdb.com/find?q=tt0317350"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dexter Prep (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Golden Years",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101206",
+            "page": "http://www.imdb.com/find?q=tt0101206"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Golden Years"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Harts of the West",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106022",
+            "page": "http://www.imdb.com/find?q=tt0106022"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Harts of the West"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Her Final Fury: Betty Broderick, the Last Chapter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0104411",
+            "page": "http://www.imdb.com/find?q=tt0104411"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Her Final Fury: Betty Broderick, the Last Chapter (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "IN the Line of Duty: Hunt for Justice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0113407",
+            "page": "http://www.imdb.com/find?q=tt0113407"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "IN the Line of Duty: Hunt for Justice (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kim Possible",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0278866",
+            "page": "http://www.imdb.com/find?q=tt0278866"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kim Possible"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "King of the Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118375",
+            "page": "http://www.imdb.com/find?q=tt0118375"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "King of the Hill"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ladies Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0205195",
+            "page": "http://www.imdb.com/find?q=tt0205195"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ladies Man"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "NewsRadio",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112095",
+            "page": "http://www.imdb.com/find?q=tt0112095"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "NewsRadio"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Pandora's Clock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115309",
+            "page": "http://www.imdb.com/find?q=tt0115309"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Pandora's Clock (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Lottery",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0116924",
+            "page": "http://www.imdb.com/find?q=tt0116924"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Lottery (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The West Wing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200276",
+            "page": "http://www.imdb.com/find?q=tt0200276"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The West Wing"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The X's",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0443418",
+            "page": "http://www.imdb.com/find?q=tt0443418"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The X's"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Road to Galveston",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0117492",
+            "page": "http://www.imdb.com/find?q=tt0117492"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Road to Galveston (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Tripping the Rift",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0315081",
+            "page": "http://www.imdb.com/find?q=tt0315081"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Tripping the Rift"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Blade Runner",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0126817",
+            "page": "http://www.imdb.com/find?q=tt0126817"
+          }
+        }
+      ],
+      "section": [
+        "Stephen Root",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Blade Runner (video game)"
+    },
+    {
       "body": "Root graduated from Vero Beach High School in Vero Beach, Florida, and is also a graduate of the University of Florida, where he majored in acting and broadcasting.",
       "links": [],
+      "section": [
+        "Stephen Root",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Root graduated from Vero Beach High School in Vero Beach, Florida, and is also a graduate of the University of Florida, where he majored in acting and broadcasting."
     },
     {
       "body": "Among Root's most recognized television roles are eccentric billionaire Jimmy James on the sitcom NewsRadio and depressed Army barber Bill Dauterive and Buck Strickland on the animated television series King of the Hill. He had a recurring role on the final two seasons of The West Wing as Republican campaign consultant Bob Mayer. His most recognizable film roles to date are as the mumbling, quirky Milton Waddams in Office Space, the mild-mannered gym rat Gordon Pibb in Dodgeball: A True Underdog Story, Suds, a drunk sports writer, in Leatherheads, and the dimwitted principal in Drillbit Taylor, a 2008 comedy produced by Judd Apatow.",
       "links": [],
+      "section": [
+        "Stephen Root",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Among Root's most recognized television roles are eccentric billionaire Jimmy James on the sitcom NewsRadio and depressed Army barber Bill Dauterive and Buck Strickland on the animated television series King of the Hill. He had a recurring role on the final two seasons of The West Wing as Republican campaign consultant Bob Mayer. His most recognizable film roles to date are as the mumbling, quirky Milton Waddams in Office Space, the mild-mannered gym rat Gordon Pibb in Dodgeball: A True Underdog Story, Suds, a drunk sports writer, in Leatherheads, and the dimwitted principal in Drillbit Taylor, a 2008 comedy produced by Judd Apatow."
     },
     {
       "body": "He has also won acclaim for his occasional dramatic roles.",
       "links": [],
+      "section": [
+        "Stephen Root",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He has also won acclaim for his occasional dramatic roles."
     }
   ],

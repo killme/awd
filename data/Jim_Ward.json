@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Macahans (1976; TV movie)",
+          "body": "${link_0} (1976; TV movie)",
           "extra": "(1976; TV movie)",
           "extra_text": "(1976; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Macahans",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0074834",
+                "page": "http://www.imdb.com/find?q=tt0074834"
+              }
+            }
+          ],
           "text": "The Macahans (1976; TV movie)",
-          "value": "The Macahans",
+          "value": "${link_0}",
           "value_text": "The Macahans"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0911616",
+                "page": "http://www.imdb.com/find?q=nm0911616"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jim_Ward_(voice_actor)",
+                "page": "http://en.wikipedia.org/wiki/Jim_Ward_(voice_actor)"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/JimWardVoices",
+                "page": "https://twitter.com/JimWardVoices"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -100,9 +143,563 @@
   ],
   "paragraphs": [
     {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Avatar: The Last Airbender credits",
+        "Headmaster"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0760437",
+            "page": "http://www.imdb.com/find?q=tt0760437"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Biker Mice from Mars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0459618",
+            "page": "http://www.imdb.com/find?q=tt0459618"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Biker Mice from Mars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kung Fu Panda: Legends of Awesomeness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545214",
+            "page": "http://www.imdb.com/find?q=tt1545214"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kung Fu Panda: Legends of Awesomeness"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Avengers: Earth's Mightiest Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545214",
+            "page": "http://www.imdb.com/find?q=tt1545214"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Avengers: Earth's Mightiest Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Fairly OddParents",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235918",
+            "page": "http://www.imdb.com/find?q=tt0235918"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Fairly OddParents"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Secret Files of the SpyDogs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0204777",
+            "page": "http://www.imdb.com/find?q=tt0204777"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Secret Files of the SpyDogs"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Totally Spies!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0283226",
+            "page": "http://www.imdb.com/find?q=tt0283226"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Totally Spies!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wolverine and the X-Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0772145",
+            "page": "http://www.imdb.com/find?q=tt0772145"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wolverine and the X-Men"
+    },
+    {
+      "body": "${link_0} (2014; video)",
+      "links": [
+        {
+          "body": "Batman: Assault on Arkham",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3139086",
+            "page": "http://www.imdb.com/find?q=tt3139086"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Batman: Assault on Arkham (2014; video)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "WALL\u00b7E",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0910970",
+            "page": "http://www.imdb.com/find?q=tt0910970"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "WALL\u00b7E (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Ben 10: Secret of the Omnitrix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1146431",
+            "page": "http://www.imdb.com/find?q=tt1146431"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ben 10: Secret of the Omnitrix (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Happily N'Ever After",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0308353",
+            "page": "http://www.imdb.com/find?q=tt0308353"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Happily N'Ever After (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Cars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0317219",
+            "page": "http://www.imdb.com/find?q=tt0317219"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cars (2006)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Home on the Range",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0299172",
+            "page": "http://www.imdb.com/find?q=tt0299172"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Home on the Range (2004)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Treasure Planet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0133240",
+            "page": "http://www.imdb.com/find?q=tt0133240"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Treasure Planet (2002)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Spirited Away",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0245429",
+            "page": "http://www.imdb.com/find?q=tt0245429"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spirited Away (2001)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Br\u00fctal Legend",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1171225",
+            "page": "http://www.imdb.com/find?q=tt1171225"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Br\u00fctal Legend (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Eraser: Turnabout",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0276941",
+            "page": "http://www.imdb.com/find?q=tt0276941"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Eraser: Turnabout (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "G.I. Joe",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086719",
+            "page": "http://www.imdb.com/find?q=tt0086719"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "G.I. Joe (writer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lord of the Rings: Battle for Middle Earth II - Rise of the Witch King",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1058040",
+            "page": "http://www.imdb.com/find?q=tt1058040"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lord of the Rings: Battle for Middle Earth II - Rise of the Witch King (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Nicktoons: Attack of the Toybots",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1074205",
+            "page": "http://www.imdb.com/find?q=tt1074205"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Nicktoons: Attack of the Toybots (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Night at the Museum: Battle of the Smithsonian",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1425242",
+            "page": "http://www.imdb.com/find?q=tt1425242"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Night at the Museum: Battle of the Smithsonian (video game)"
+    },
+    {
+      "body": "${link_0} (ADR loop group)",
+      "links": [
+        {
+          "body": "Shrek 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0298148",
+            "page": "http://www.imdb.com/find?q=tt0298148"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Shrek 2 (ADR loop group)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "White Knight Chronicles: International Edition",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1500750",
+            "page": "http://www.imdb.com/find?q=tt1500750"
+          }
+        }
+      ],
+      "section": [
+        "Jim Ward",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "White Knight Chronicles: International Edition (video game)"
+    },
+    {
       "body": "Ward has contributed to a large number of video games and movies. He co-hosts The Stephanie Miller Show, a nationally-syndicated liberal radio talk show which features a number of his impersonations of political figures, other celebrities, and news makers in general. On the show, it was revealed that Jim went to the University of California, Los Angeles, where his father, Don Ward, was a professor of German and folklore.",
       "links": [],
+      "section": [
+        "Jim Ward",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Ward has contributed to a large number of video games and movies. He co-hosts The Stephanie Miller Show, a nationally-syndicated liberal radio talk show which features a number of his impersonations of political figures, other celebrities, and news makers in general. On the show, it was revealed that Jim went to the University of California, Los Angeles, where his father, Don Ward, was a professor of German and folklore."
+    },
+    {
+      "body": "2009: Won a Daytime Emmy Award for Biker Mice from Mars (Outstanding Performer in an Animated Program)",
+      "links": [],
+      "section": [
+        "Jim Ward",
+        "Awards"
+      ],
+      "text": "2009: Won a Daytime Emmy Award for Biker Mice from Mars (Outstanding Performer in an Animated Program)"
     }
   ],
   "source": {

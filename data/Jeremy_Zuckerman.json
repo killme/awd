@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,48 +30,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1414276",
+                "page": "http://www.imdb.com/find?q=nm1414276"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jeremy_Zuckerman",
+                "page": "http://en.wikipedia.org/wiki/Jeremy_Zuckerman"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website (defunct)",
+          "body": "${link_0} (defunct)",
           "extra": "(defunct)",
           "extra_text": "(defunct)",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://jeremyzuckerman.com/",
+                "page": "http://jeremyzuckerman.com/"
+              }
+            }
+          ],
           "text": "Official website (defunct)",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Soundcloud",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Soundcloud",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://soundcloud.com/jeremy-zuckerman",
+                "page": "https://soundcloud.com/jeremy-zuckerman"
+              }
+            }
+          ],
           "text": "Soundcloud",
-          "value": "Soundcloud",
+          "value": "${link_0}",
           "value_text": "Soundcloud"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/JeremyZuckerman",
+                "page": "https://twitter.com/JeremyZuckerman"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -82,16 +135,304 @@
           "body": "upcoming live-action Netflix adaptation",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender_(Netflix)",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_(Netflix)",
             "page": "Avatar__The_Last_Airbender_(Netflix)"
           }
         }
       ],
+      "section": [
+        "Jeremy Zuckerman"
+      ],
       "text": "In addition to his work on previous Avatar franchises, Zuckermann will compose the music for the upcoming live-action Netflix adaptation of Avatar: The Last Airbender, though this time without Wynn following the dissolution of The Track Team in 2017."
+    },
+    {
+      "body": "${link_0} (composer and supervising music editor)",
+      "links": [
+        {
+          "body": "Kung Fu Panda: Legends of Awesomeness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545214",
+            "page": "http://www.imdb.com/find?q=tt1545214"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kung Fu Panda: Legends of Awesomeness (composer and supervising music editor)"
+    },
+    {
+      "body": "${link_0} (composer)",
+      "links": [
+        {
+          "body": "Nature",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0083452",
+            "page": "http://www.imdb.com/find?q=tt0083452"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Nature (composer)"
+    },
+    {
+      "body": "${link_0} (composer)",
+      "links": [
+        {
+          "body": "Scream: The TV Series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3921180",
+            "page": "http://www.imdb.com/find?q=tt3921180"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Scream: The TV Series (composer)"
+    },
+    {
+      "body": "${link_0} (2018 - composer)",
+      "links": [
+        {
+          "body": "Stuntman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt6539830",
+            "page": "http://www.imdb.com/find?q=tt6539830"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stuntman (2018 - composer)"
+    },
+    {
+      "body": "${link_0} (2016 - composer)",
+      "links": [
+        {
+          "body": "Beartrek",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt5770566",
+            "page": "http://www.imdb.com/find?q=tt5770566"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Beartrek (2016 - composer)"
+    },
+    {
+      "body": "${link_0} (2013 - conductor)",
+      "links": [
+        {
+          "body": "A Leading Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2417834",
+            "page": "http://www.imdb.com/find?q=tt2417834"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Leading Man (2013 - conductor)"
+    },
+    {
+      "body": "${link_0} (2010; short - composer)",
+      "links": [
+        {
+          "body": "Superman/Shazam!: The Return of Black Adam",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1701223",
+            "page": "http://www.imdb.com/find?q=tt1701223"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Superman/Shazam!: The Return of Black Adam (2010; short - composer)"
+    },
+    {
+      "body": "${link_0} (2010; short - composer)",
+      "links": [
+        {
+          "body": "Green Arrow",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1663633",
+            "page": "http://www.imdb.com/find?q=tt1663633"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Green Arrow (2010; short - composer)"
+    },
+    {
+      "body": "${link_0} (2010; short - composer)",
+      "links": [
+        {
+          "body": "DC Showcase: Jonah Hex",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1606600",
+            "page": "http://www.imdb.com/find?q=tt1606600"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "DC Showcase: Jonah Hex (2010; short - composer)"
+    },
+    {
+      "body": "${link_0} (2010; short - composer)",
+      "links": [
+        {
+          "body": "The Spectre",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1601188",
+            "page": "http://www.imdb.com/find?q=tt1601188"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Spectre (2010; short - composer)"
+    },
+    {
+      "body": "${link_0} (2009 - composer)",
+      "links": [
+        {
+          "body": "Just Peck",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1230387",
+            "page": "http://www.imdb.com/find?q=tt1230387"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Just Peck (2009 - composer)"
+    },
+    {
+      "body": "${link_0} (2007; short - composer)",
+      "links": [
+        {
+          "body": "He Lives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0986325",
+            "page": "http://www.imdb.com/find?q=tt0986325"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "He Lives (2007; short - composer)"
+    },
+    {
+      "body": "${link_0} (2005 - sounds effects editor)",
+      "links": [
+        {
+          "body": "Waterborne",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0423514",
+            "page": "http://www.imdb.com/find?q=tt0423514"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Waterborne (2005 - sounds effects editor)"
+    },
+    {
+      "body": "${link_0} (2004; short - composer)",
+      "links": [
+        {
+          "body": "Radius",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0244746",
+            "page": "http://www.imdb.com/find?q=tt0244746"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Radius (2004; short - composer)"
     },
     {
       "body": "Born and raised in upstate rural New York, Zuckerman has been an avid guitar player since the age of thirteen and has had an interest in music since his early childhood. Later in his life, he got minor jobs in the music business such as shrink-wrapping CDs and eventually started working a gig at a mid-town Manhattan production studio. He graduated from the Berklee College of Music, Boston, with an interest in sound design with new technologies and subsequently traveled to the California Institute of the Arts (CalArts). It was there he met Benjamin Wynn, with whom he would later co-found The Track Team, and he subsequently earned his master's degree in Composition New Media; Zuckerman has returned to CalArts on several occasions to lecture and workshop new ideas. Zuckerman can play many instruments and frequently plays guitar for an LA funk band named Cousin Junebug.",
       "links": [],
+      "section": [
+        "Jeremy Zuckerman",
+        "History"
+      ],
       "text": "Born and raised in upstate rural New York, Zuckerman has been an avid guitar player since the age of thirteen and has had an interest in music since his early childhood. Later in his life, he got minor jobs in the music business such as shrink-wrapping CDs and eventually started working a gig at a mid-town Manhattan production studio. He graduated from the Berklee College of Music, Boston, with an interest in sound design with new technologies and subsequently traveled to the California Institute of the Arts (CalArts). It was there he met Benjamin Wynn, with whom he would later co-found The Track Team, and he subsequently earned his master's degree in Composition New Media; Zuckerman has returned to CalArts on several occasions to lecture and workshop new ideas. Zuckerman can play many instruments and frequently plays guitar for an LA funk band named Cousin Junebug."
     },
     {
@@ -101,12 +442,45 @@
           "body": "Sozin's Comet, Part 4: Avatar Aang",
           "key": "${link_0}",
           "target": {
-            "href": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
             "page": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang"
           }
         }
       ],
+      "section": [
+        "Jeremy Zuckerman",
+        "History"
+      ],
       "text": "He was nominated for a Golden Reel Award for Best Sound Editing in a Television Animation for his work on the episode \"Sozin's Comet, Part 4: Avatar Aang\"."
+    },
+    {
+      "body": "${link_0} at ${link_1}",
+      "links": [
+        {
+          "body": "Music Interview with the Track Team",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.avatarspiritmedia.net/interviews.php?id=2",
+            "page": "http://www.avatarspiritmedia.net/interviews.php?id=2"
+          }
+        },
+        {
+          "body": "AvatarSpirit.Net",
+          "key": "${link_1}",
+          "target": {
+            "external": true,
+            "href": "http://www.avatarspiritmedia.net/",
+            "page": "http://www.avatarspiritmedia.net/"
+          }
+        }
+      ],
+      "section": [
+        "Jeremy Zuckerman",
+        "External links"
+      ],
+      "text": "Music Interview with the Track Team at AvatarSpirit.Net"
     }
   ],
   "source": {

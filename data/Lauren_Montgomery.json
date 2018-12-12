@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -41,21 +44,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2304017",
+                "page": "http://www.imdb.com/find?q=nm2304017"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Lauren_Montgomery",
+                "page": "http://en.wikipedia.org/wiki/Lauren_Montgomery"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -63,8 +86,32 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0} (co-executive producer)",
+      "links": [
+        {
+          "body": "Voltron: Legendary Defender",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt5580664",
+            "page": "http://www.imdb.com/find?q=tt5580664"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Montgomery",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Voltron: Legendary Defender (co-executive producer)"
+    },
+    {
       "body": "Montgomery is noted for her storyboard work on animated television series and direct-to-DVD films. She directed Green Lantern: First Flight, Superman/Batman: Apocalypse, Justice League: Doom, and the animated film Wonder Woman. Montgomery also co-directed Justice League: Crisis on Two Earths and Batman:Year One with Sam Liu and worked on the American television series Young Justice.",
       "links": [],
+      "section": [
+        "Lauren Montgomery",
+        "Biographical Information"
+      ],
       "text": "Montgomery is noted for her storyboard work on animated television series and direct-to-DVD films. She directed Green Lantern: First Flight, Superman/Batman: Apocalypse, Justice League: Doom, and the animated film Wonder Woman. Montgomery also co-directed Justice League: Crisis on Two Earths and Batman:Year One with Sam Liu and worked on the American television series Young Justice."
     },
     {
@@ -74,10 +121,15 @@
           "body": "Joaquim Dos Santos",
           "key": "${link_0}",
           "target": {
-            "href": "Joaquim_Dos_Santos",
+            "external": false,
+            "href": "/wiki/Joaquim_Dos_Santos",
             "page": "Joaquim_Dos_Santos"
           }
         }
+      ],
+      "section": [
+        "Lauren Montgomery",
+        "Biographical Information"
       ],
       "text": "In 2012, Montgomery returned to Nickelodeon and the Avatar franchise as a supervising producer and storyboard artist for The Legend of Korra. She currently works as an executive producer and co-showrunner on the animated series Voltron: Legendary Defender alongside Joaquim Dos Santos."
     }

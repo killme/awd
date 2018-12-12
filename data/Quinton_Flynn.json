@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Aladdin (1994)",
+          "body": "${link_0} (1994)",
           "extra": "(1994)",
           "extra_text": "(1994)",
-          "links": [],
+          "links": [
+            {
+              "body": "Aladdin",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0105935",
+                "page": "http://www.imdb.com/find?q=tt0105935"
+              }
+            }
+          ],
           "text": "Aladdin (1994)",
-          "value": "Aladdin",
+          "value": "${link_0}",
           "value_text": "Aladdin"
         }
       ]
@@ -69,66 +82,136 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0283594",
+                "page": "http://www.imdb.com/find?q=nm0283594"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Quinton_Flynn",
+                "page": "http://en.wikipedia.org/wiki/Quinton_Flynn"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/quintonflynn",
+                "page": "https://www.facebook.com/quintonflynn"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/117173632749750896055/posts",
+                "page": "https://plus.google.com/117173632749750896055/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.quintonflynn.com/",
+                "page": "http://www.quintonflynn.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/quintonflynn",
+                "page": "https://twitter.com/quintonflynn"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         },
         {
-          "body": "YouTube",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "YouTube",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.youtube.com/user/thequintonflynn",
+                "page": "http://www.youtube.com/user/thequintonflynn"
+              }
+            }
+          ],
           "text": "YouTube",
-          "value": "YouTube",
+          "value": "${link_0}",
           "value_text": "YouTube"
         }
       ]
@@ -136,8 +219,472 @@
   ],
   "paragraphs": [
     {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Avatar: The Last Airbender credits",
+        "Tycho"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bleach",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0434665",
+            "page": "http://www.imdb.com/find?q=tt0434665"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bleach"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Digimon Data Squad",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1138300",
+            "page": "http://www.imdb.com/find?q=tt1138300"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Digimon Data Squad"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mad",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1718438",
+            "page": "http://www.imdb.com/find?q=tt1718438"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mad"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "My Life as a Teenage Robot",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0318233",
+            "page": "http://www.imdb.com/find?q=tt0318233"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "My Life as a Teenage Robot"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Naruto",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0409591",
+            "page": "http://www.imdb.com/find?q=tt0409591"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Naruto"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Naruto: Shipp\u016bden",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0988824",
+            "page": "http://www.imdb.com/find?q=tt0988824"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Naruto: Shipp\u016bden"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Robot Chicken",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0437745",
+            "page": "http://www.imdb.com/find?q=tt0437745"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Robot Chicken"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Grim Adventures of Billy & Mandy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292800",
+            "page": "http://www.imdb.com/find?q=tt0292800"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Grim Adventures of Billy & Mandy"
+    },
+    {
+      "body": "${link_0} (2015)",
+      "links": [
+        {
+          "body": "Bilal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3576728",
+            "page": "http://www.imdb.com/find?q=tt3576728"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bilal (2015)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Final Fantasy VII: Advent Children",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0385700",
+            "page": "http://www.imdb.com/find?q=tt0385700"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Final Fantasy VII: Advent Children (2005)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Geppetto's Secret",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0399085",
+            "page": "http://www.imdb.com/find?q=tt0399085"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Geppetto's Secret (2005)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "My Dinner with Jimi",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0277171",
+            "page": "http://www.imdb.com/find?q=tt0277171"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "My Dinner with Jimi (2003)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Globehunters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0250403",
+            "page": "http://www.imdb.com/find?q=tt0250403"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Globehunters (2000)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Cars Race-O-Rama",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1671453",
+            "page": "http://www.imdb.com/find?q=tt1671453"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Cars Race-O-Rama (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crash: Mind Over Mutant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1282033",
+            "page": "http://www.imdb.com/find?q=tt1282033"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crash: Mind Over Mutant (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts: Birth by Sleep",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1390843",
+            "page": "http://www.imdb.com/find?q=tt1390843"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts: Birth by Sleep (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Rising: Revengeance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1602611",
+            "page": "http://www.imdb.com/find?q=tt1602611"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Rising: Revengeance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid 2: Sons of Liberty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0249008",
+            "page": "http://www.imdb.com/find?q=tt0249008"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid 2: Sons of Liberty (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid 4: Guns of the Patriots",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462423",
+            "page": "http://www.imdb.com/find?q=tt0462423"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid 4: Guns of the Patriots (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Bourne Conspiracy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1266631",
+            "page": "http://www.imdb.com/find?q=tt1266631"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Bourne Conspiracy (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Rise of the Argonauts",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1277732",
+            "page": "http://www.imdb.com/find?q=tt1277732"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Rise of the Argonauts (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Valkyria Chronicles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1322987",
+            "page": "http://www.imdb.com/find?q=tt1322987"
+          }
+        }
+      ],
+      "section": [
+        "Quinton Flynn",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Valkyria Chronicles (video game)"
+    },
+    {
       "body": "Flynn is best known for providing the English voices of video game characters such as Raiden in the Metal Gear series, Croix in La Pucelle: Tactics, Axel in the Kingdom Hearts series, Reno in Final Fantasy VII and its sequels and prequels, Myifee in Ninety-Nine Nights, and as Henry in No More Heroes. He can also be heard in the strategy game Command & Conquer: Generals as the Hum-vee, Missile Defender, Pathfinder, Raptor, and U.S. Pilot units. He is also a frequently recurring actor on the stop-motion sketch series Robot Chicken and the video game series Crash Bandicoot. His younger brother, Bart Flynn, is also a voice actor, and they have both voiced characters on The Grim Adventures of Billy & Mandy. Outside of voice acting, he has a three-track record in digital format titled \"Puzzled Yesterdays\".",
       "links": [],
+      "section": [
+        "Quinton Flynn",
+        "Biographical information"
+      ],
       "text": "Flynn is best known for providing the English voices of video game characters such as Raiden in the Metal Gear series, Croix in La Pucelle: Tactics, Axel in the Kingdom Hearts series, Reno in Final Fantasy VII and its sequels and prequels, Myifee in Ninety-Nine Nights, and as Henry in No More Heroes. He can also be heard in the strategy game Command & Conquer: Generals as the Hum-vee, Missile Defender, Pathfinder, Raptor, and U.S. Pilot units. He is also a frequently recurring actor on the stop-motion sketch series Robot Chicken and the video game series Crash Bandicoot. His younger brother, Bart Flynn, is also a voice actor, and they have both voiced characters on The Grim Adventures of Billy & Mandy. Outside of voice acting, he has a three-track record in digital format titled \"Puzzled Yesterdays\"."
     }
   ],

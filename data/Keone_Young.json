@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Room 222 (1969)",
+          "body": "${link_0} (1969)",
           "extra": "(1969)",
           "extra_text": "(1969)",
-          "links": [],
+          "links": [
+            {
+              "body": "Room 222",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0063948",
+                "page": "http://www.imdb.com/find?q=tt0063948"
+              }
+            }
+          ],
           "text": "Room 222 (1969)",
-          "value": "Room 222",
+          "value": "${link_0}",
           "value_text": "Room 222"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0949775",
+                "page": "http://www.imdb.com/find?q=nm0949775"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Keone_Young",
+                "page": "http://en.wikipedia.org/wiki/Keone_Young"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -77,24 +110,719 @@
   ],
   "paragraphs": [
     {
+      "body": "116. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Deserter",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Deserter",
+            "page": "The_Deserter"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Avatar: The Last Airbender credits",
+        "Jeong Jeong"
+      ],
+      "text": "116. \"The Deserter\""
+    },
+    {
+      "body": "319. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 2: The Old Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_2__The_Old_Masters",
+            "page": "Sozin%27s_Comet%2c_Part_2__The_Old_Masters"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Avatar: The Last Airbender credits",
+        "Jeong Jeong"
+      ],
+      "text": "319. \"Sozin's Comet, Part 2: The Old Masters\""
+    },
+    {
+      "body": "118. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Master",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Master",
+            "page": "The_Waterbending_Master"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Avatar: The Last Airbender credits",
+        "Captain Li"
+      ],
+      "text": "118. \"The Waterbending Master\""
+    },
+    {
+      "body": "320. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 3: Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_3__Into_the_Inferno",
+            "page": "Sozin%27s_Comet%2c_Part_3__Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Avatar: The Last Airbender credits",
+        "High Sage"
+      ],
+      "text": "320. \"Sozin's Comet, Part 3: Into the Inferno\""
+    },
+    {
+      "body": "321. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 4: Avatar Aang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
+            "page": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Avatar: The Last Airbender credits",
+        "High Sage"
+      ],
+      "text": "321. \"Sozin's Comet, Part 4: Avatar Aang\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "116. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Deserter",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Deserter",
+            "page": "The_Deserter"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "116. \"The Deserter\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_1",
+            "page": "Civil_Wars%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "The Legend of Korra credits",
+        "Northern soldier"
+      ],
+      "text": "203. \"Civil Wars, Part 1\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_2",
+            "page": "Civil_Wars%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "The Legend of Korra credits",
+        "Northern soldier"
+      ],
+      "text": "204. \"Civil Wars, Part 2\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_1",
+            "page": "Civil_Wars%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "203. \"Civil Wars, Part 1\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "American Dragon: Jake Long",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0429305",
+            "page": "http://www.imdb.com/find?q=tt0429305"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Dragon: Jake Long"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312109",
+            "page": "http://www.imdb.com/find?q=tt0312109"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Deadwood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0348914",
+            "page": "http://www.imdb.com/find?q=tt0348914"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Deadwood"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Mighty B!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0917551",
+            "page": "http://www.imdb.com/find?q=tt0917551"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Mighty B!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The War at Home",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460692",
+            "page": "http://www.imdb.com/find?q=tt0460692"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The War at Home"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Young and the Restless",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0069658",
+            "page": "http://www.imdb.com/find?q=tt0069658"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Young and the Restless"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Young Justice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1641384",
+            "page": "http://www.imdb.com/find?q=tt1641384"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Young Justice"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Men in Black 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1409024",
+            "page": "http://www.imdb.com/find?q=tt1409024"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Men in Black 3 (2012)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Crank: High Voltage",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1121931",
+            "page": "http://www.imdb.com/find?q=tt1121931"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Crank: High Voltage (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Why Am I Doing This?",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1125413",
+            "page": "http://www.imdb.com/find?q=tt1125413"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Why Am I Doing This? (2009)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Teen Titans: Trouble in Tokyo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0816671",
+            "page": "http://www.imdb.com/find?q=tt0816671"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Teen Titans: Trouble in Tokyo (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Return to Halloweentown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0816520",
+            "page": "http://www.imdb.com/find?q=tt0816520"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Return to Halloweentown (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Crank",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0479884",
+            "page": "http://www.imdb.com/find?q=tt0479884"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Crank (2006)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Legally Blonde 2: Red, White & Blonde",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0333780",
+            "page": "http://www.imdb.com/find?q=tt0333780"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Legally Blonde 2: Red, White & Blonde (2003)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Dr. Dolittle 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0240462",
+            "page": "http://www.imdb.com/find?q=tt0240462"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dr. Dolittle 2 (2001)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Dude, Where's My Car?",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0242423",
+            "page": "http://www.imdb.com/find?q=tt0242423"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dude, Where's My Car? (2000)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "At Sachem Farm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0147856",
+            "page": "http://www.imdb.com/find?q=tt0147856"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "At Sachem Farm (1998)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Alpha Protocol",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1249406",
+            "page": "http://www.imdb.com/find?q=tt1249406"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Alpha Protocol (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Doom\u00b3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0291868",
+            "page": "http://www.imdb.com/find?q=tt0291868"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Doom\u00b3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fracture",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1253846",
+            "page": "http://www.imdb.com/find?q=tt1253846"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fracture (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Gladius",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0363640",
+            "page": "http://www.imdb.com/find?q=tt0363640"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Gladius (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "True Crime: New York City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462582",
+            "page": "http://www.imdb.com/find?q=tt0462582"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "True Crime: New York City (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "X-Men: The Official Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0807737",
+            "page": "http://www.imdb.com/find?q=tt0807737"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "X-Men: The Official Game (video game)"
+    },
+    {
       "body": "Young has been prolific in his character work and has made numerous guest appearances on such varied television series as Diff'rent Strokes, The Golden Girls, Murphy Brown, Mad About You, Family Matters, The Simpsons, Alias, JAG, The Steve Harvey Show, Zeke and Luther and on the daytime soaps The Young and the Restless and Generations.",
       "links": [],
+      "section": [
+        "Keone Young",
+        "Biographical information"
+      ],
       "text": "Young has been prolific in his character work and has made numerous guest appearances on such varied television series as Diff'rent Strokes, The Golden Girls, Murphy Brown, Mad About You, Family Matters, The Simpsons, Alias, JAG, The Steve Harvey Show, Zeke and Luther and on the daytime soaps The Young and the Restless and Generations."
     },
     {
       "body": "He has many voice acting credits as well, having voiced Grandpa in American Dragon: Jake Long, Kaz in Hi Hi Puffy AmiYumi, Mr. Sanban in Codename: Kids Next Door, Storm Shadow in the Sunbow G.I. Joe animated series, the Hard Master in G.I. Joe: Renegades, Mr. Wu on Nickelodeon's show The Mighty B!, and Marshall Kai Ti Chang in Indiana Jones and the Emperor's Tomb. He has also done voice-over work on many video game titles.",
       "links": [],
+      "section": [
+        "Keone Young",
+        "Biographical information"
+      ],
       "text": "He has many voice acting credits as well, having voiced Grandpa in American Dragon: Jake Long, Kaz in Hi Hi Puffy AmiYumi, Mr. Sanban in Codename: Kids Next Door, Storm Shadow in the Sunbow G.I. Joe animated series, the Hard Master in G.I. Joe: Renegades, Mr. Wu on Nickelodeon's show The Mighty B!, and Marshall Kai Ti Chang in Indiana Jones and the Emperor's Tomb. He has also done voice-over work on many video game titles."
     },
     {
       "body": "Young also has two Star Trek credits; he played Buck Bokai, a famous baseball player in the 24th century in the Star Trek: Deep Space Nine episode \"If Wishes Were Horses\", and he later played Hoshi Sato's father in the Star Trek: Enterprise episode \"Vanishing Point\".",
       "links": [],
+      "section": [
+        "Keone Young",
+        "Biographical information"
+      ],
       "text": "Young also has two Star Trek credits; he played Buck Bokai, a famous baseball player in the 24th century in the Star Trek: Deep Space Nine episode \"If Wishes Were Horses\", and he later played Hoshi Sato's father in the Star Trek: Enterprise episode \"Vanishing Point\"."
     },
     {
       "body": "In theater, Young has had a long history with the Asian American theater company East West Players in Los Angeles, where he not only performed but often served as producer. He voiced Lord Chin in Mulan II and, replacing the late Pat Morita, he is to voice the Emperor of China in Mulan 3.",
       "links": [],
+      "section": [
+        "Keone Young",
+        "Biographical information"
+      ],
       "text": "In theater, Young has had a long history with the Asian American theater company East West Players in Los Angeles, where he not only performed but often served as producer. He voiced Lord Chin in Mulan II and, replacing the late Pat Morita, he is to voice the Emperor of China in Mulan 3."
+    },
+    {
+      "body": "Young worked with ${link_0} on the series American Dragon: Jake Long, voicing the latter's grandfather.",
+      "links": [
+        {
+          "body": "Dante Basco",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dante_Basco",
+            "page": "Dante_Basco"
+          }
+        }
+      ],
+      "section": [
+        "Keone Young",
+        "Trivia"
+      ],
+      "text": "Young worked with Dante Basco on the series American Dragon: Jake Long, voicing the latter's grandfather."
     }
   ],
   "source": {

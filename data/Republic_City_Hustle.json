@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Legend of Korra",
       "target": {
-        "href": "Category_Legend_of_Korra",
+        "external": false,
+        "href": "/wiki/Category_Legend_of_Korra",
         "page": "Category_Legend_of_Korra"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -35,7 +38,8 @@
               "body": "Michael Dante DiMartino",
               "key": "${link_0}",
               "target": {
-                "href": "Michael_Dante_DiMartino",
+                "external": false,
+                "href": "/wiki/Michael_Dante_DiMartino",
                 "page": "Michael_Dante_DiMartino"
               }
             }
@@ -53,7 +57,8 @@
               "body": "Bryan Konietzko",
               "key": "${link_0}",
               "target": {
-                "href": "Bryan_Konietzko",
+                "external": false,
+                "href": "/wiki/Bryan_Konietzko",
                 "page": "Bryan_Konietzko"
               }
             }
@@ -76,7 +81,8 @@
               "body": "Tim Hedrick",
               "key": "${link_0}",
               "target": {
-                "href": "Tim_Hedrick",
+                "external": false,
+                "href": "/wiki/Tim_Hedrick",
                 "page": "Tim_Hedrick"
               }
             }
@@ -99,7 +105,8 @@
               "body": "Jeremy Zuckerman",
               "key": "${link_0}",
               "target": {
-                "href": "Jeremy_Zuckerman",
+                "external": false,
+                "href": "/wiki/Jeremy_Zuckerman",
                 "page": "Jeremy_Zuckerman"
               }
             },
@@ -107,7 +114,8 @@
               "body": "Benjamin Wynn",
               "key": "${link_1}",
               "target": {
-                "href": "Benjamin_Wynn",
+                "external": false,
+                "href": "/wiki/Benjamin_Wynn",
                 "page": "Benjamin_Wynn"
               }
             }
@@ -144,7 +152,8 @@
               "body": "Nickelodeon",
               "key": "${link_0}",
               "target": {
-                "href": "Nickelodeon",
+                "external": false,
+                "href": "/wiki/Nickelodeon",
                 "page": "Nickelodeon"
               }
             }
@@ -159,12 +168,22 @@
       "key": "Rated",
       "value": [
         {
-          "body": "TV-G",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "TV-G",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/TV_Parental_Guidelines#TV-G",
+                "page": "http://en.wikipedia.org/wiki/TV_Parental_Guidelines"
+              }
+            }
+          ],
           "text": "TV-G",
-          "value": "TV-G",
+          "value": "${link_0}",
           "value_text": "TV-G"
         }
       ]
@@ -209,7 +228,8 @@
               "body": "Avatar: The Last Airbender",
               "key": "${link_0}",
               "target": {
-                "href": "Avatar__The_Last_Airbender",
+                "external": false,
+                "href": "/wiki/Avatar__The_Last_Airbender",
                 "page": "Avatar__The_Last_Airbender"
               }
             }
@@ -232,7 +252,8 @@
               "body": "The Legend of Korra",
               "key": "${link_0}",
               "target": {
-                "href": "The_Legend_of_Korra",
+                "external": false,
+                "href": "/wiki/The_Legend_of_Korra",
                 "page": "The_Legend_of_Korra"
               }
             }
@@ -252,7 +273,8 @@
           "body": "The Legend of Korra",
           "key": "${link_0}",
           "target": {
-            "href": "The_Legend_of_Korra",
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra",
             "page": "The_Legend_of_Korra"
           }
         },
@@ -260,7 +282,8 @@
           "body": "Mako",
           "key": "${link_1}",
           "target": {
-            "href": "Mako",
+            "external": false,
+            "href": "/wiki/Mako",
             "page": "Mako"
           }
         },
@@ -268,7 +291,8 @@
           "body": "Bolin",
           "key": "${link_2}",
           "target": {
-            "href": "Bolin",
+            "external": false,
+            "href": "/wiki/Bolin",
             "page": "Bolin"
           }
         },
@@ -276,7 +300,8 @@
           "body": "San",
           "key": "${link_3}",
           "target": {
-            "href": "San",
+            "external": false,
+            "href": "/wiki/San",
             "page": "San"
           }
         },
@@ -284,10 +309,14 @@
           "body": "Republic City",
           "key": "${link_4}",
           "target": {
-            "href": "Republic_City",
+            "external": false,
+            "href": "/wiki/Republic_City",
             "page": "Republic_City"
           }
         }
+      ],
+      "section": [
+        "Republic City Hustle"
       ],
       "text": "Republic City Hustle is an American web series trilogy set three years prior to the events chronicled in The Legend of Korra. It explores the history of Mako and Bolin, who find themselves orphaned after the death of their parents, San and Naoki, and living on the street. The two boys must do what they can to survive on the streets of Republic City, even if that means swindling and theft."
     },
@@ -298,7 +327,8 @@
           "body": "Tim Hedrick",
           "key": "${link_0}",
           "target": {
-            "href": "Tim_Hedrick",
+            "external": false,
+            "href": "/wiki/Tim_Hedrick",
             "page": "Tim_Hedrick"
           }
         },
@@ -306,7 +336,8 @@
           "body": "Evon Freeman",
           "key": "${link_1}",
           "target": {
-            "href": "Evon_Freeman",
+            "external": false,
+            "href": "/wiki/Evon_Freeman",
             "page": "Evon_Freeman"
           }
         },
@@ -314,7 +345,8 @@
           "body": "David Faustino",
           "key": "${link_2}",
           "target": {
-            "href": "David_Faustino",
+            "external": false,
+            "href": "/wiki/David_Faustino",
             "page": "David_Faustino"
           }
         },
@@ -322,10 +354,14 @@
           "body": "P. J. Byrne",
           "key": "${link_3}",
           "target": {
-            "href": "P._J",
+            "external": false,
+            "href": "/wiki/P._J",
             "page": "P._J"
           }
         }
+      ],
+      "section": [
+        "Republic City Hustle"
       ],
       "text": "Written by veteran Avatar writer Tim Hedrick and designed by Evon Freeman, Republic City Hustle employs the talents of David Faustino and P. J. Byrne, the voice actors for Mako and Bolin in The Legend of Korra. \"Republic City Hustle: Part 1\" was released online on August 9, 2013, and the second installment was published the following week. \"Republic City Hustle: Part 3\" ended the series on August 23."
     },
@@ -336,26 +372,17 @@
           "body": "bending",
           "key": "${link_0}",
           "target": {
-            "href": "Bending_arts",
+            "external": false,
+            "href": "/wiki/Bending_arts",
             "page": "Bending_arts"
           }
         }
       ],
-      "text": "Mako watches an elderly woman emerge from a grocery store and spots her purse among two bags full of groceries. He turns to a winking Bolin and steals the purse. Bolin tells the woman that he will stop the thief and chases Mako around an alleyway. Out of view, the brothers shout and use their bending to make sounds, giving the false impression that Bolin is actually confronting the thief."
-    },
-    {
-      "body": "${link_0} returns the purse to the elderly woman while faking an injury.",
-      "links": [
-        {
-          "body": "Bolin",
-          "key": "${link_0}",
-          "target": {
-            "href": "Bolin",
-            "page": "Bolin"
-          }
-        }
+      "section": [
+        "Republic City Hustle",
+        "Part 1"
       ],
-      "text": "Bolin returns the purse to the elderly woman while faking an injury."
+      "text": "Mako watches an elderly woman emerge from a grocery store and spots her purse among two bags full of groceries. He turns to a winking Bolin and steals the purse. Bolin tells the woman that he will stop the thief and chases Mako around an alleyway. Out of view, the brothers shout and use their bending to make sounds, giving the false impression that Bolin is actually confronting the thief."
     },
     {
       "body": "Bolin, pretending to be out of breath and injured, returns the purse to the elderly citizen, who thanks and rewards him with two ${link_0}. Disgusted by the small gift, Bolin asks for more, claiming that he risked his life for her, or so she thinks. Rather than waiting for her response, Bolin takes a loaf of bread from her grocery bags and runs off, prompting her to call him a hooligan. Bolin returns to Mako and shares the bread with him, remarking that it was better than what they had yesterday. Mako corrects him by pointing out that they did not eat anything yesterday.",
@@ -364,10 +391,15 @@
           "body": "yuans",
           "key": "${link_0}",
           "target": {
-            "href": "Currency#United_Republic_of_Nations",
+            "external": false,
+            "href": "/wiki/Currency#United_Republic_of_Nations",
             "page": "Currency"
           }
         }
+      ],
+      "section": [
+        "Republic City Hustle",
+        "Part 1"
       ],
       "text": "Bolin, pretending to be out of breath and injured, returns the purse to the elderly citizen, who thanks and rewards him with two yuans. Disgusted by the small gift, Bolin asks for more, claiming that he risked his life for her, or so she thinks. Rather than waiting for her response, Bolin takes a loaf of bread from her grocery bags and runs off, prompting her to call him a hooligan. Bolin returns to Mako and shares the bread with him, remarking that it was better than what they had yesterday. Mako corrects him by pointing out that they did not eat anything yesterday."
     },
@@ -378,7 +410,8 @@
           "body": "Triple Threat Triad headquarters",
           "key": "${link_0}",
           "target": {
-            "href": "Triple_Threat_Triad_headquarters",
+            "external": false,
+            "href": "/wiki/Triple_Threat_Triad_headquarters",
             "page": "Triple_Threat_Triad_headquarters"
           }
         },
@@ -386,7 +419,8 @@
           "body": "pro-bender",
           "key": "${link_1}",
           "target": {
-            "href": "Pro-bending",
+            "external": false,
+            "href": "/wiki/Pro-bending",
             "page": "Pro-bending"
           }
         },
@@ -394,7 +428,8 @@
           "body": "Toza",
           "key": "${link_2}",
           "target": {
-            "href": "Toza",
+            "external": false,
+            "href": "/wiki/Toza",
             "page": "Toza"
           }
         },
@@ -402,7 +437,8 @@
           "body": "Black Quarry Boar-q-pines",
           "key": "${link_3}",
           "target": {
-            "href": "Black_Quarry_Boar-q-pines",
+            "external": false,
+            "href": "/wiki/Black_Quarry_Boar-q-pines",
             "page": "Black_Quarry_Boar-q-pines"
           }
         },
@@ -410,77 +446,26 @@
           "body": "Shady Shin",
           "key": "${link_4}",
           "target": {
-            "href": "Shady_Shin",
+            "external": false,
+            "href": "/wiki/Shady_Shin",
             "page": "Shady_Shin"
           }
         }
+      ],
+      "section": [
+        "Republic City Hustle",
+        "Part 1"
       ],
       "text": "The two return to the Triple Threat Triad headquarters, where they see the renowned pro-bender Toza, captain of the Black Quarry Boar-q-pines and Bolin's idol, dealing with Shady Shin. The mobster pays Toza ten thousand yuans to throw the match that night, though the pro-bender appears upset with his own actions, prompting Shin to call him ungrateful."
     },
     {
-      "body": "${link_0} takes a bribe from ${link_1}.",
-      "links": [
-        {
-          "body": "Toza",
-          "key": "${link_0}",
-          "target": {
-            "href": "Toza",
-            "page": "Toza"
-          }
-        },
-        {
-          "body": "Shady Shin",
-          "key": "${link_1}",
-          "target": {
-            "href": "Shady_Shin",
-            "page": "Shady_Shin"
-          }
-        }
-      ],
-      "text": "Toza takes a bribe from Shady Shin."
-    },
-    {
       "body": "Bolin becomes upset after hearing that Toza will lose the next match, but Mako rebuffs him with the fact that there was no one there to mourn for their losses when their parents died and left them to fend for themselves, and that one must \"hustle or get hustled.\" Overhearing their conversation, Shin warns the brothers that they needed to collect more bets for this scheme to work or they would be returned to the streets. Mako assures Bolin that they will get the job done, and the brothers leave. Smiling wickedly, Shady Shin comments that seeing Mako and Bolin gives him hope for the future.",
       "links": [],
-      "text": "Bolin becomes upset after hearing that Toza will lose the next match, but Mako rebuffs him with the fact that there was no one there to mourn for their losses when their parents died and left them to fend for themselves, and that one must \"hustle or get hustled.\" Overhearing their conversation, Shin warns the brothers that they needed to collect more bets for this scheme to work or they would be returned to the streets. Mako assures Bolin that they will get the job done, and the brothers leave. Smiling wickedly, Shady Shin comments that seeing Mako and Bolin gives him hope for the future."
-    },
-    {
-      "body": "${link_0} meets ${link_1} after the ${link_2} escapes from Mr. ${link_3}.",
-      "links": [
-        {
-          "body": "Bolin",
-          "key": "${link_0}",
-          "target": {
-            "href": "Bolin",
-            "page": "Bolin"
-          }
-        },
-        {
-          "body": "Pabu",
-          "key": "${link_1}",
-          "target": {
-            "href": "Pabu",
-            "page": "Pabu"
-          }
-        },
-        {
-          "body": "fire ferret",
-          "key": "${link_2}",
-          "target": {
-            "href": "Fire_ferret",
-            "page": "Fire_ferret"
-          }
-        },
-        {
-          "body": "Feng",
-          "key": "${link_3}",
-          "target": {
-            "href": "Feng",
-            "page": "Feng"
-          }
-        }
+      "section": [
+        "Republic City Hustle",
+        "Part 1"
       ],
-      "text": "Bolin meets Pabu after the fire ferret escapes from Mr. Feng."
+      "text": "Bolin becomes upset after hearing that Toza will lose the next match, but Mako rebuffs him with the fact that there was no one there to mourn for their losses when their parents died and left them to fend for themselves, and that one must \"hustle or get hustled.\" Overhearing their conversation, Shin warns the brothers that they needed to collect more bets for this scheme to work or they would be returned to the streets. Mako assures Bolin that they will get the job done, and the brothers leave. Smiling wickedly, Shady Shin comments that seeing Mako and Bolin gives him hope for the future."
     },
     {
       "body": "Mako and Bolin stop at a pet shop looking to collect a bet from the owner when a ${link_0}\u00a0runs out from the shop and perches himself on Bolin's head. Mr. ${link_1}, the proprietor of the establishment, grabs the fire ferret by its tail and thanks Bolin for helping him, mentioning the ferret's anxiety over its fate of being fed to a ${link_2}. Although the earthbender offers to buy him, Mako states that they cannot provide for anyone else and refuses to pay the five yuans.",
@@ -489,7 +474,8 @@
           "body": "fire ferret",
           "key": "${link_0}",
           "target": {
-            "href": "Fire_ferret",
+            "external": false,
+            "href": "/wiki/Fire_ferret",
             "page": "Fire_ferret"
           }
         },
@@ -497,7 +483,8 @@
           "body": "Feng",
           "key": "${link_1}",
           "target": {
-            "href": "Feng",
+            "external": false,
+            "href": "/wiki/Feng",
             "page": "Feng"
           }
         },
@@ -505,10 +492,15 @@
           "body": "pythonaconda",
           "key": "${link_2}",
           "target": {
-            "href": "Pythonaconda",
+            "external": false,
+            "href": "/wiki/Pythonaconda",
             "page": "Pythonaconda"
           }
         }
+      ],
+      "section": [
+        "Republic City Hustle",
+        "Part 2"
       ],
       "text": "Mako and Bolin stop at a pet shop looking to collect a bet from the owner when a fire ferret\u00a0runs out from the shop and perches himself on Bolin's head. Mr. Feng, the proprietor of the establishment, grabs the fire ferret by its tail and thanks Bolin for helping him, mentioning the ferret's anxiety over its fate of being fed to a pythonaconda. Although the earthbender offers to buy him, Mako states that they cannot provide for anyone else and refuses to pay the five yuans."
     },
@@ -519,38 +511,25 @@
           "body": "Triple Threat Triad",
           "key": "${link_0}",
           "target": {
-            "href": "Triple_Threat_Triad",
+            "external": false,
+            "href": "/wiki/Triple_Threat_Triad",
             "page": "Triple_Threat_Triad"
           }
         }
       ],
-      "text": "A moment later, Bolin spots Toza signing autographs nearby. The pro-bender recognizes him as a kid who works with the Triple Threat Triad and his face turns dour. Bolin tries to convince Toza that he does not have to lose like Shady Shin told him to, but the man believes that he is not a strong contender in the sport anymore, reveals that he is broke, and demands that Bolin leave him alone. After seeing what Bolin attempted to do, Mako chases after his brother and scolds him for foolishly defying Shady Shin's wishes. The younger sibling responds with equal fervor, proclaiming his refusal to turn away from the dispirited."
-    },
-    {
-      "body": "The ${link_0} begins to strangle ${link_1}.",
-      "links": [
-        {
-          "body": "pythonaconda",
-          "key": "${link_0}",
-          "target": {
-            "href": "Pythonaconda",
-            "page": "Pythonaconda"
-          }
-        },
-        {
-          "body": "Bolin",
-          "key": "${link_1}",
-          "target": {
-            "href": "Bolin",
-            "page": "Bolin"
-          }
-        }
+      "section": [
+        "Republic City Hustle",
+        "Part 2"
       ],
-      "text": "The pythonaconda begins to strangle Bolin."
+      "text": "A moment later, Bolin spots Toza signing autographs nearby. The pro-bender recognizes him as a kid who works with the Triple Threat Triad and his face turns dour. Bolin tries to convince Toza that he does not have to lose like Shady Shin told him to, but the man believes that he is not a strong contender in the sport anymore, reveals that he is broke, and demands that Bolin leave him alone. After seeing what Bolin attempted to do, Mako chases after his brother and scolds him for foolishly defying Shady Shin's wishes. The younger sibling responds with equal fervor, proclaiming his refusal to turn away from the dispirited."
     },
     {
       "body": "That night, Bolin breaks into the pet shop and retrieves the fire ferret, who was already placed in the snake's cage but had not yet been eaten. As Bolin begins to walk away from the cage with the fire ferret, the snake jumps out and attempts to strangle the young earthbender. Bolin tries in vain to pull the snake off of himself, but as he begins to lose consciousness, Mako arrives and pulls the pythonaconda away by its tail, and shoves it back into its cage.",
       "links": [],
+      "section": [
+        "Republic City Hustle",
+        "Part 2"
+      ],
       "text": "That night, Bolin breaks into the pet shop and retrieves the fire ferret, who was already placed in the snake's cage but had not yet been eaten. As Bolin begins to walk away from the cage with the fire ferret, the snake jumps out and attempts to strangle the young earthbender. Bolin tries in vain to pull the snake off of himself, but as he begins to lose consciousness, Mako arrives and pulls the pythonaconda away by its tail, and shoves it back into its cage."
     },
     {
@@ -560,34 +539,17 @@
           "body": "Pabu",
           "key": "${link_0}",
           "target": {
-            "href": "Pabu",
+            "external": false,
+            "href": "/wiki/Pabu",
             "page": "Pabu"
           }
         }
       ],
-      "text": "Once the altercation has been resolved, Mako accuses Bolin of making too many reckless decisions lately. Without hesitating, Bolin admits to this but insists on taking the fire ferret anyway. Mako reluctantly agrees, warning Bolin that the animal's food is coming out of the earthbender's share. As the brothers leave the pet store, Bolin tells Mako he has decided to name the fire ferret Pabu with one explanation for his choice: \"It just kinda came to me while the snake was crushing me.\" He owed the idea to his brain being deprived of oxygen."
-    },
-    {
-      "body": "${link_0} becomes enraged after ${link_1}'s turnaround.",
-      "links": [
-        {
-          "body": "Shady Shin",
-          "key": "${link_0}",
-          "target": {
-            "href": "Shady_Shin",
-            "page": "Shady_Shin"
-          }
-        },
-        {
-          "body": "Toza",
-          "key": "${link_1}",
-          "target": {
-            "href": "Toza",
-            "page": "Toza"
-          }
-        }
+      "section": [
+        "Republic City Hustle",
+        "Part 2"
       ],
-      "text": "Shady Shin becomes enraged after Toza's turnaround."
+      "text": "Once the altercation has been resolved, Mako accuses Bolin of making too many reckless decisions lately. Without hesitating, Bolin admits to this but insists on taking the fire ferret anyway. Mako reluctantly agrees, warning Bolin that the animal's food is coming out of the earthbender's share. As the brothers leave the pet store, Bolin tells Mako he has decided to name the fire ferret Pabu with one explanation for his choice: \"It just kinda came to me while the snake was crushing me.\" He owed the idea to his brain being deprived of oxygen."
     },
     {
       "body": "At the ${link_0}, ${link_1} is commentating on Toza's lackluster performance in the ring. Meanwhile, Shady Shin and ${link_2} sit with Mako and Bolin, with Shin bragging about the bet money they will all be receiving once Toza takes the fall. However, despite the rest of his team having already been defeated, the earthbender suddenly turns the match around, knocking all three of his opponents out simultaneously and pleasing Bolin, who exclaims that Toza took his advice not to throw the fight. Shin becomes enraged at this revelation and chases the brothers.",
@@ -596,7 +558,8 @@
           "body": "Pro-bending Arena",
           "key": "${link_0}",
           "target": {
-            "href": "Pro-bending_Arena",
+            "external": false,
+            "href": "/wiki/Pro-bending_Arena",
             "page": "Pro-bending_Arena"
           }
         },
@@ -604,7 +567,8 @@
           "body": "Shiro Shinobi",
           "key": "${link_1}",
           "target": {
-            "href": "Shiro_Shinobi",
+            "external": false,
+            "href": "/wiki/Shiro_Shinobi",
             "page": "Shiro_Shinobi"
           }
         },
@@ -612,57 +576,151 @@
           "body": "Lightning Bolt Zolt",
           "key": "${link_2}",
           "target": {
-            "href": "Lightning_Bolt_Zolt",
+            "external": false,
+            "href": "/wiki/Lightning_Bolt_Zolt",
             "page": "Lightning_Bolt_Zolt"
           }
         }
+      ],
+      "section": [
+        "Republic City Hustle",
+        "Part 3"
       ],
       "text": "At the Pro-bending Arena, Shiro Shinobi is commentating on Toza's lackluster performance in the ring. Meanwhile, Shady Shin and Lightning Bolt Zolt sit with Mako and Bolin, with Shin bragging about the bet money they will all be receiving once Toza takes the fall. However, despite the rest of his team having already been defeated, the earthbender suddenly turns the match around, knocking all three of his opponents out simultaneously and pleasing Bolin, who exclaims that Toza took his advice not to throw the fight. Shin becomes enraged at this revelation and chases the brothers."
     },
     {
       "body": "Although Mako and Bolin barricaded a door so their pursuer would not get in, Shady Shin easily gets through with his posse and the brothers engage him in a bending brawl. Just before he can weather away their defenses, Toza bends rock pillars at Shin's men, effectively bringing the battle to a standstill. Zolt enters before they can begin again, scolding Shin for fighting with children and questioning Toza's honor due to his disregard for their deal. He gives the triad member back his bribe money, explaining that he just needed someone to remind him of the honorable man he was.",
       "links": [],
-      "text": "Although Mako and Bolin barricaded a door so their pursuer would not get in, Shady Shin easily gets through with his posse and the brothers engage him in a bending brawl. Just before he can weather away their defenses, Toza bends rock pillars at Shin's men, effectively bringing the battle to a standstill. Zolt enters before they can begin again, scolding Shin for fighting with children and questioning Toza's honor due to his disregard for their deal. He gives the triad member back his bribe money, explaining that he just needed someone to remind him of the honorable man he was."
-    },
-    {
-      "body": "${link_0} considers ${link_1}'s arguments against leaving the ${link_2}.",
-      "links": [
-        {
-          "body": "Mako",
-          "key": "${link_0}",
-          "target": {
-            "href": "Mako",
-            "page": "Mako"
-          }
-        },
-        {
-          "body": "Shady Shin",
-          "key": "${link_1}",
-          "target": {
-            "href": "Shady_Shin",
-            "page": "Shady_Shin"
-          }
-        },
-        {
-          "body": "Triple Threats",
-          "key": "${link_2}",
-          "target": {
-            "href": "Triple_Threat_Triad",
-            "page": "Triple_Threat_Triad"
-          }
-        }
+      "section": [
+        "Republic City Hustle",
+        "Part 3"
       ],
-      "text": "Mako considers Shady Shin's arguments against leaving the Triple Threats."
+      "text": "Although Mako and Bolin barricaded a door so their pursuer would not get in, Shady Shin easily gets through with his posse and the brothers engage him in a bending brawl. Just before he can weather away their defenses, Toza bends rock pillars at Shin's men, effectively bringing the battle to a standstill. Zolt enters before they can begin again, scolding Shin for fighting with children and questioning Toza's honor due to his disregard for their deal. He gives the triad member back his bribe money, explaining that he just needed someone to remind him of the honorable man he was."
     },
     {
       "body": "Before he leaves, Shady Shin beckons for Mako and Bolin to come with him as he needs to speak with them when they get back to the hideout. Toza, however, holds the two of them back and, having witnessed their skill, offers them a home in the arena and to train them in pro-bending. Shin tries multiple times to make Mako understand the foolishness that would be taking up the offer, reminding him that he needs to take care of Bolin, but he decides that living at the arena is best for his little brother.",
       "links": [],
+      "section": [
+        "Republic City Hustle",
+        "Part 3"
+      ],
       "text": "Before he leaves, Shady Shin beckons for Mako and Bolin to come with him as he needs to speak with them when they get back to the hideout. Toza, however, holds the two of them back and, having witnessed their skill, offers them a home in the arena and to train them in pro-bending. Shin tries multiple times to make Mako understand the foolishness that would be taking up the offer, reminding him that he needs to take care of Bolin, but he decides that living at the arena is best for his little brother."
     },
     {
       "body": "Once Shin and Zolt have left, Bolin proposes that they celebrate their new lives with dinner, but Mako mentions to his brother that it would be best if they save their money. Bolin informs him that he bet all they had on the Boar-q-pines, having had a good feeling about the match from the start; after hearing this, Toza grabs them both by the shoulders and brings them in for a hug.",
       "links": [],
+      "section": [
+        "Republic City Hustle",
+        "Part 3"
+      ],
       "text": "Once Shin and Zolt have left, Bolin proposes that they celebrate their new lives with dinner, but Mako mentions to his brother that it would be best if they save their money. Bolin informs him that he bet all they had on the Boar-q-pines, having had a good feeling about the match from the start; after hearing this, Toza grabs them both by the shoulders and brings them in for a hug."
+    },
+    {
+      "body": "The shared backstory of Mako, Bolin, and Toza was first mentioned in \"${link_0}\".",
+      "links": [
+        {
+          "body": "The Voice in the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Voice_in_the_Night",
+            "page": "The_Voice_in_the_Night"
+          }
+        }
+      ],
+      "section": [
+        "Republic City Hustle",
+        "Production notes",
+        "Series continuity"
+      ],
+      "text": "The shared backstory of Mako, Bolin, and Toza was first mentioned in \"The Voice in the Night\"."
+    },
+    {
+      "body": "Each episode of Republic City Hustle was assigned two names. Although the title card of any one episode simply appends \"Part #\" to the end of the series title, thumbnails on Nick.com call the episodes \"Hustle or Get Hustled\" for part one, \"A New Friend\" for part two, and \"The Smart Play\" for part three.",
+      "links": [],
+      "section": [
+        "Republic City Hustle",
+        "Production notes",
+        "Trivia"
+      ],
+      "text": "Each episode of Republic City Hustle was assigned two names. Although the title card of any one episode simply appends \"Part #\" to the end of the series title, thumbnails on Nick.com call the episodes \"Hustle or Get Hustled\" for part one, \"A New Friend\" for part two, and \"The Smart Play\" for part three."
+    },
+    {
+      "body": "All three episodes were included on the DVD and Blu-ray releases of ${link_0}.",
+      "links": [
+        {
+          "body": "Book Four: Balance",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Book_Four__Balance",
+            "page": "Book_Four__Balance"
+          }
+        }
+      ],
+      "section": [
+        "Republic City Hustle",
+        "Production notes",
+        "Trivia"
+      ],
+      "text": "All three episodes were included on the DVD and Blu-ray releases of Book Four: Balance."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Episode one",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.nick.com/videos/clip/legend-of-korra-republic-city-hustle-episode-1-cd3?xid=korranation",
+            "page": "http://www.nick.com/videos/clip/legend-of-korra-republic-city-hustle-episode-1-cd3?xid=korranation"
+          }
+        }
+      ],
+      "section": [
+        "Republic City Hustle",
+        "External links"
+      ],
+      "text": "Episode one"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Episode two",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.nick.com/videos/clip/legend-of-korra-republic-city-hustle-episode-2-vf5",
+            "page": "http://www.nick.com/videos/clip/legend-of-korra-republic-city-hustle-episode-2-vf5"
+          }
+        }
+      ],
+      "section": [
+        "Republic City Hustle",
+        "External links"
+      ],
+      "text": "Episode two"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Episode three",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.nick.com/videos/clip/legend-of-korra-republic-city-hustle-episode-3-gk2",
+            "page": "http://www.nick.com/videos/clip/legend-of-korra-republic-city-hustle-episode-3-gk2"
+          }
+        }
+      ],
+      "section": [
+        "Republic City Hustle",
+        "External links"
+      ],
+      "text": "Episode three"
     }
   ],
   "source": {

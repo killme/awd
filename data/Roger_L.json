@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Secret of Monkey Island: Special Edition (1990; video game)",
+          "body": "${link_0} (1990; video game)",
           "extra": "(1990; video game)",
           "extra_text": "(1990; video game)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Secret of Monkey Island: Special Edition",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0244783",
+                "page": "http://www.imdb.com/find?q=tt0244783"
+              }
+            }
+          ],
           "text": "The Secret of Monkey Island: Special Edition (1990; video game)",
-          "value": "The Secret of Monkey Island: Special Edition",
+          "value": "${link_0}",
           "value_text": "The Secret of Monkey Island: Special Edition"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0413996",
+                "page": "http://www.imdb.com/find?q=nm0413996"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Roger_L._Jackson",
+                "page": "http://en.wikipedia.org/wiki/Roger_L._Jackson"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,18 +124,233 @@
   ],
   "paragraphs": [
     {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Roger L. Jackson",
+        "The Legend of Korra credits",
+        "Male nomad"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Powerpuff Girls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0175058",
+            "page": "http://www.imdb.com/find?q=tt0175058"
+          }
+        }
+      ],
+      "section": [
+        "Roger L. Jackson",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Powerpuff Girls"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Khumba",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1487931",
+            "page": "http://www.imdb.com/find?q=tt1487931"
+          }
+        }
+      ],
+      "section": [
+        "Roger L. Jackson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Khumba (2013)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Happy N'Ever After",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0308353",
+            "page": "http://www.imdb.com/find?q=tt0308353"
+          }
+        }
+      ],
+      "section": [
+        "Roger L. Jackson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Happy N'Ever After (2006)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Home on the Range",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0299172",
+            "page": "http://www.imdb.com/find?q=tt0299172"
+          }
+        }
+      ],
+      "section": [
+        "Roger L. Jackson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Home on the Range (2004)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Monkeybone",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0166276",
+            "page": "http://www.imdb.com/find?q=tt0166276"
+          }
+        }
+      ],
+      "section": [
+        "Roger L. Jackson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Monkeybone (2001)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Scream",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0117571",
+            "page": "http://www.imdb.com/find?q=tt0117571"
+          }
+        }
+      ],
+      "section": [
+        "Roger L. Jackson",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Scream (1996)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy X",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0284110",
+            "page": "http://www.imdb.com/find?q=tt0284110"
+          }
+        }
+      ],
+      "section": [
+        "Roger L. Jackson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy X (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Sam and Max Season One",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1217596",
+            "page": "http://www.imdb.com/find?q=tt1217596"
+          }
+        }
+      ],
+      "section": [
+        "Roger L. Jackson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Sam and Max Season One (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Sims 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0386040",
+            "page": "http://www.imdb.com/find?q=tt0386040"
+          }
+        }
+      ],
+      "section": [
+        "Roger L. Jackson",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Sims 2 (video game)"
+    },
+    {
       "body": "Jackson has appeared in animated films and television programs like Disney's The Book of Pooh, and also voiced the maniacal monkey genius Mojo Jojo and the Rowdyruff Boy Butch on The Powerpuff Girls.",
       "links": [],
+      "section": [
+        "Roger L. Jackson",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Jackson has appeared in animated films and television programs like Disney's The Book of Pooh, and also voiced the maniacal monkey genius Mojo Jojo and the Rowdyruff Boy Butch on The Powerpuff Girls."
     },
     {
       "body": "Jackson has also played an active role in the electronic games industry, voicing monsters for Dungeons & Dragons, heroes for Galleon and Baldur's Gate and working for several Star Wars and Star Trek programs. He provides voices for all the original cats on the Catz virtual pet program, and also contributed to Final Fantasy X and King's Quest VII and has done educational programs for The Learning Company and Broderbund.",
       "links": [],
+      "section": [
+        "Roger L. Jackson",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Jackson has also played an active role in the electronic games industry, voicing monsters for Dungeons & Dragons, heroes for Galleon and Baldur's Gate and working for several Star Wars and Star Trek programs. He provides voices for all the original cats on the Catz virtual pet program, and also contributed to Final Fantasy X and King's Quest VII and has done educational programs for The Learning Company and Broderbund."
     },
     {
       "body": "Jackson provided the voice for the Cheshire Cat and Jabberwock in American McGee's Alice and voiced over thirty characters for an Electronic Arts Sherlock Holmes game. Jackson also played the tyrant Colonel Nohman in Zone of the Enders and Zone of the Enders: The 2nd Runner. He also provided the voice of John O'Conner in Delphine Software International's Fade to Black.",
       "links": [],
+      "section": [
+        "Roger L. Jackson",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Jackson provided the voice for the Cheshire Cat and Jabberwock in American McGee's Alice and voiced over thirty characters for an Electronic Arts Sherlock Holmes game. Jackson also played the tyrant Colonel Nohman in Zone of the Enders and Zone of the Enders: The 2nd Runner. He also provided the voice of John O'Conner in Delphine Software International's Fade to Black."
     }
   ],

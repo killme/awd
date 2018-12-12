@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Judge (1986)",
+          "body": "${link_0} (1986)",
           "extra": "(1986)",
           "extra_text": "(1986)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Judge",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0229138",
+                "page": "http://www.imdb.com/find?q=tt0229138"
+              }
+            }
+          ],
           "text": "The Judge (1986)",
-          "value": "The Judge",
+          "value": "${link_0}",
           "value_text": "The Judge"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0516726",
+                "page": "http://www.imdb.com/find?q=nm0516726"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Bruce_Locke",
+                "page": "http://en.wikipedia.org/wiki/Bruce_Locke"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Bruce-Locke/203112806430284",
+                "page": "https://www.facebook.com/pages/Bruce-Locke/203112806430284"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -100,13 +143,383 @@
   ],
   "paragraphs": [
     {
+      "body": "103. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Air_Temple",
+            "page": "The_Southern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "103. \"The Southern Air Temple\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Arli$$",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115101",
+            "page": "http://www.imdb.com/find?q=tt0115101"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Arli$$"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gargoyles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108783",
+            "page": "http://www.imdb.com/find?q=tt0108783"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gargoyles"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Murder, She Wrote",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086765",
+            "page": "http://www.imdb.com/find?q=tt0086765"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Murder, She Wrote"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "NYPD Blue",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106079",
+            "page": "http://www.imdb.com/find?q=tt0106079"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "NYPD Blue"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Passions",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096697",
+            "page": "http://www.imdb.com/find?q=tt0096697"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Passions"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Agency",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285332",
+            "page": "http://www.imdb.com/find?q=tt0285332"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Agency"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Action Hero",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0996664",
+            "page": "http://www.imdb.com/find?q=tt0996664"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Action Hero (2010)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "The Memory Spy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1717712",
+            "page": "http://www.imdb.com/find?q=tt1717712"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Memory Spy (2010; short)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Forbidden Warrior",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0371675",
+            "page": "http://www.imdb.com/find?q=tt0371675"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Forbidden Warrior (2005)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Mind Games",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0300500",
+            "page": "http://www.imdb.com/find?q=tt0300500"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mind Games (2003)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Lone Tiger",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285680",
+            "page": "http://www.imdb.com/find?q=tt0285680"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lone Tiger (1999)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "The Shadow",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111143",
+            "page": "http://www.imdb.com/find?q=tt0111143"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Shadow (1994)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "China Cry: A True Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101578",
+            "page": "http://www.imdb.com/find?q=tt0101578"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "China Cry: A True Story (1990)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Command & Conquer: Red Alert 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1198194",
+            "page": "http://www.imdb.com/find?q=tt1198194"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Command & Conquer: Red Alert 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tenchu: Wrath of Heaven",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0280142",
+            "page": "http://www.imdb.com/find?q=tt0280142"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tenchu: Wrath of Heaven (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tom Clancy H.A.W.X.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1447978",
+            "page": "http://www.imdb.com/find?q=tt1447978"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tom Clancy H.A.W.X. (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Voyeur",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0283125",
+            "page": "http://www.imdb.com/find?q=tt0283125"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Locke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Voyeur (video game)"
+    },
+    {
       "body": "Locke played tennis in college and was nationally ranked. He is currently a two handicap golfer and active on the charitable celebrity golf circuit in between roles.",
       "links": [],
+      "section": [
+        "Bruce Locke",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Locke played tennis in college and was nationally ranked. He is currently a two handicap golfer and active on the charitable celebrity golf circuit in between roles."
     },
     {
       "body": "Locke has a career spanning twenty-six years, beginning with a minor two year recurring role in the TV soap opera General Hospital in 1985. He served in an uncredited role in the movie Black Rain in 1989, and played the villain ninja/cyborg assassin in Robocop 3 in 1993. In 1999, Bruce was a series regular in Mortal Kombat Conquest, where he played the sorcerer, Shang Tsung. In 2006, Locke made seven appearances as a doctor in the NBC soap opera Passions. His latest big role came in a 2009 episode of Cold Case, and in 2010 in the season premiere of Psych.",
       "links": [],
+      "section": [
+        "Bruce Locke",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Locke has a career spanning twenty-six years, beginning with a minor two year recurring role in the TV soap opera General Hospital in 1985. He served in an uncredited role in the movie Black Rain in 1989, and played the villain ninja/cyborg assassin in Robocop 3 in 1993. In 1999, Bruce was a series regular in Mortal Kombat Conquest, where he played the sorcerer, Shang Tsung. In 2006, Locke made seven appearances as a doctor in the NBC soap opera Passions. His latest big role came in a 2009 episode of Cold Case, and in 2010 in the season premiere of Psych."
     }
   ],

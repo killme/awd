@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Loch Ness Horror (1981)",
+          "body": "${link_0} (1981)",
           "extra": "(1981)",
           "extra_text": "(1981)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Loch Ness Horror",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0082669",
+                "page": "http://www.imdb.com/find?q=tt0082669"
+              }
+            }
+          ],
           "text": "The Loch Ness Horror (1981)",
-          "value": "The Loch Ness Horror",
+          "value": "${link_0}",
           "value_text": "The Loch Ness Horror"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0615730",
+                "page": "http://www.imdb.com/find?q=nm0615730"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Pat_Musick",
+                "page": "http://en.wikipedia.org/wiki/Pat_Musick"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Pat-Musick/108403632517803",
+                "page": "https://www.facebook.com/pages/Pat-Musick/108403632517803"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/musicktalks",
+                "page": "https://twitter.com/musicktalks"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,13 +148,414 @@
   ],
   "paragraphs": [
     {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Avatar: The Last Airbender credits",
+        "Haru's mother"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Adventures of the Gummi Bears",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0088528",
+            "page": "http://www.imdb.com/find?q=tt0088528"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Adventures of the Gummi Bears"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Duckman: Private Dick/Family Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108755",
+            "page": "http://www.imdb.com/find?q=tt0108755"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Duckman: Private Dick/Family Man"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Extreme Ghostbusters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0121932",
+            "page": "http://www.imdb.com/find?q=tt0121932"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Extreme Ghostbusters"
+    },
+    {
+      "body": "${link_0} (TV short)",
+      "links": [
+        {
+          "body": "It's the Pied Piper, Charlie Brown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0203593",
+            "page": "http://www.imdb.com/find?q=tt0203593"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "It's the Pied Piper, Charlie Brown (TV short)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Johnny Bravo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118360",
+            "page": "http://www.imdb.com/find?q=tt0118360"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Johnny Bravo"
+    },
+    {
+      "body": "${link_0} (TV short)",
+      "links": [
+        {
+          "body": "The Boy Who Cried Alien",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0366254",
+            "page": "http://www.imdb.com/find?q=tt0366254"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Boy Who Cried Alien (TV short)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Tick",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112196",
+            "page": "http://www.imdb.com/find?q=tt0112196"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Tick"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Where's Waldo?",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0213376",
+            "page": "http://www.imdb.com/find?q=tt0213376"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Where's Waldo?"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Nine Lives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0420015",
+            "page": "http://www.imdb.com/find?q=tt0420015"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Nine Lives (2005)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Globehunters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0250403",
+            "page": "http://www.imdb.com/find?q=tt0250403"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Globehunters (2000)"
+    },
+    {
+      "body": "${link_0} (1998; video short)",
+      "links": [
+        {
+          "body": "Adventures in Odyssey: A Stranger Among Us",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1275498",
+            "page": "http://www.imdb.com/find?q=tt1275498"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Adventures in Odyssey: A Stranger Among Us (1998; video short)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "A Troll in Central Park",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108395",
+            "page": "http://www.imdb.com/find?q=tt0108395"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Troll in Central Park (1994)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "Thumbelina",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111419",
+            "page": "http://www.imdb.com/find?q=tt0111419"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Thumbelina (1994)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "Batman: Mask of the Phantasm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106364",
+            "page": "http://www.imdb.com/find?q=tt0106364"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Batman: Mask of the Phantasm (1993)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "An American Tail",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090633",
+            "page": "http://www.imdb.com/find?q=tt0090633"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "An American Tail (1986)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Full Throttle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0189538",
+            "page": "http://www.imdb.com/find?q=tt0189538"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Full Throttle (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Law & Order: Dead on the Money",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0363760",
+            "page": "http://www.imdb.com/find?q=tt0363760"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Law & Order: Dead on the Money (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Mortimer and the Riddles of the Medallion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0426533",
+            "page": "http://www.imdb.com/find?q=tt0426533"
+          }
+        }
+      ],
+      "section": [
+        "Pat Musick",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mortimer and the Riddles of the Medallion (video game)"
+    },
+    {
       "body": "Musick is the mother of ${link_0}, who provided the voice for ${link_1} in Avatar: The Last Airbender.",
       "links": [
         {
           "body": "Mae Whitman",
           "key": "${link_0}",
           "target": {
-            "href": "Mae_Whitman",
+            "external": false,
+            "href": "/wiki/Mae_Whitman",
             "page": "Mae_Whitman"
           }
         },
@@ -109,10 +563,15 @@
           "body": "Katara",
           "key": "${link_1}",
           "target": {
-            "href": "Katara",
+            "external": false,
+            "href": "/wiki/Katara",
             "page": "Katara"
           }
         }
+      ],
+      "section": [
+        "Pat Musick",
+        "Biographical information"
       ],
       "text": "Musick is the mother of Mae Whitman, who provided the voice for Katara in Avatar: The Last Airbender."
     }

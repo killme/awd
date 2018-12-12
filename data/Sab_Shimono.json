@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Armstrong Circle Theatre (1962)",
+          "body": "${link_0} (1962)",
           "extra": "(1962)",
           "extra_text": "(1962)",
-          "links": [],
+          "links": [
+            {
+              "body": "Armstrong Circle Theatre",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0042074",
+                "page": "http://www.imdb.com/find?q=tt0042074"
+              }
+            }
+          ],
           "text": "Armstrong Circle Theatre (1962)",
-          "value": "Armstrong Circle Theatre",
+          "value": "${link_0}",
           "value_text": "Armstrong Circle Theatre"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0793634",
+                "page": "http://www.imdb.com/find?q=nm0793634"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Sab_Shimono",
+                "page": "http://en.wikipedia.org/wiki/Sab_Shimono"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.sabshimono.com/",
+                "page": "http://www.sabshimono.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -100,19 +143,563 @@
   ],
   "paragraphs": [
     {
+      "body": "103. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Air_Temple",
+            "page": "The_Southern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Avatar: The Last Airbender credits",
+        "Gyatso"
+      ],
+      "text": "103. \"The Southern Air Temple\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Avatar: The Last Airbender credits",
+        "Gyatso"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Avatar: The Last Airbender credits",
+        "Yu"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Avatar: The Last Airbender credits",
+        "Yu"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "219. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guru",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guru",
+            "page": "The_Guru"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Avatar: The Last Airbender credits",
+        "Yu"
+      ],
+      "text": "219. \"The Guru\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar and the Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_and_the_Fire_Lord",
+            "page": "The_Avatar_and_the_Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "306. \"The Avatar and the Fire Lord\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Black Sheep Squadron",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0073961",
+            "page": "http://www.imdb.com/find?q=tt0073961"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Black Sheep Squadron"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gung Ho",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090441",
+            "page": "http://www.imdb.com/find?q=tt0090441"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gung Ho"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hawaii Five-0",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1600194",
+            "page": "http://www.imdb.com/find?q=tt1600194"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hawaii Five-0"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "How the West Was Won",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0077027",
+            "page": "http://www.imdb.com/find?q=tt0077027"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "How the West Was Won"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jackie Chan Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0259141",
+            "page": "http://www.imdb.com/find?q=tt0259141"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jackie Chan Adventures"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "M*A*S*H",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0068098",
+            "page": "http://www.imdb.com/find?q=tt0068098"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "M*A*S*H"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Samurai Jack",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0278238",
+            "page": "http://www.imdb.com/find?q=tt0278238"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Samurai Jack"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Simpsons",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096697",
+            "page": "http://www.imdb.com/find?q=tt0096697"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Simpsons"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Yellow Face",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2896970",
+            "page": "http://www.imdb.com/find?q=tt2896970"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Yellow Face (2013)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "The Sensei",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0454941",
+            "page": "http://www.imdb.com/find?q=tt0454941"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Sensei (2008)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Paradise Road",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119859",
+            "page": "http://www.imdb.com/find?q=tt0119859"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Paradise Road (1997)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Waterworld",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0114898",
+            "page": "http://www.imdb.com/find?q=tt0114898"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Waterworld (1995)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Come See the Paradise",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0099291",
+            "page": "http://www.imdb.com/find?q=tt0099291"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Come See the Paradise (1990)"
+    },
+    {
+      "body": "${link_0} (1987)",
+      "links": [
+        {
+          "body": "Blind Date",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092666",
+            "page": "http://www.imdb.com/find?q=tt0092666"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Blind Date (1987)"
+    },
+    {
+      "body": "${link_0} (1976)",
+      "links": [
+        {
+          "body": "Midaway",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0074899",
+            "page": "http://www.imdb.com/find?q=tt0074899"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Midaway (1976)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Indiana Jones and the Staff of Kings",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1363107",
+            "page": "http://www.imdb.com/find?q=tt1363107"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Indiana Jones and the Staff of Kings (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Jackie Chan Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0301465",
+            "page": "http://www.imdb.com/find?q=tt0301465"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Jackie Chan Adventures (video game)"
+    },
+    {
+      "body": "${link_0} (TV movie - soundtrack performer)",
+      "links": [
+        {
+          "body": "Pacific Overtures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1754333",
+            "page": "http://www.imdb.com/find?q=tt1754333"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Pacific Overtures (TV movie - soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Throne of Darkness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0933394",
+            "page": "http://www.imdb.com/find?q=tt0933394"
+          }
+        }
+      ],
+      "section": [
+        "Sab Shimono",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Throne of Darkness (video game)"
+    },
+    {
       "body": "Shimono, a Japanese-American, was born the son of restaurant owners Edith Mary, n\u00e9e Otani, and Masauchi Shimono. Shimono is the twin brother of Dr. Jiro Shimono, director of the Delaware Psychiatric Center, and a graduate of the University of California, Berkeley.",
       "links": [],
+      "section": [
+        "Sab Shimono",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Shimono, a Japanese-American, was born the son of restaurant owners Edith Mary, n\u00e9e Otani, and Masauchi Shimono. Shimono is the twin brother of Dr. Jiro Shimono, director of the Delaware Psychiatric Center, and a graduate of the University of California, Berkeley."
     },
     {
       "body": "Shimono is an accomplished stage actor, having appeared on Broadway and in regional theaters including San Francisco's American Conservatory Theater and Berkeley Repertory Theater. One of his more memorable roles was as Hiroshi Kawamura in the 1990 drama Come See the Paradise and he also had a role in the 2008 independent film Americanese.",
       "links": [],
+      "section": [
+        "Sab Shimono",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Shimono is an accomplished stage actor, having appeared on Broadway and in regional theaters including San Francisco's American Conservatory Theater and Berkeley Repertory Theater. One of his more memorable roles was as Hiroshi Kawamura in the 1990 drama Come See the Paradise and he also had a role in the 2008 independent film Americanese."
     },
     {
       "body": "Shimono played a Korean spy on the popular, long-running TV series M*A*S*H, provided the voices for antique shop owner/Chi Wizard Uncle Chan on the hit TV series Jackie Chan Adventures, and played the Emperor, Jack's father, in the hit TV series Samurai Jack.",
       "links": [],
+      "section": [
+        "Sab Shimono",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Shimono played a Korean spy on the popular, long-running TV series M*A*S*H, provided the voices for antique shop owner/Chi Wizard Uncle Chan on the hit TV series Jackie Chan Adventures, and played the Emperor, Jack's father, in the hit TV series Samurai Jack."
+    },
+    {
+      "body": "1984: Won a CLIO Award (Best Actor in a Commercial)",
+      "links": [],
+      "section": [
+        "Sab Shimono",
+        "Trivia"
+      ],
+      "text": "1984: Won a CLIO Award (Best Actor in a Commercial)"
     }
   ],
   "source": {

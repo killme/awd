@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -69,12 +72,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Gangster Chronicles (1981; TV miniseries)",
+          "body": "${link_0} (1981; TV miniseries)",
           "extra": "(1981; TV miniseries)",
           "extra_text": "(1981; TV miniseries)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Gangster Chronicles",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0081867",
+                "page": "http://www.imdb.com/find?q=tt0081867"
+              }
+            }
+          ],
           "text": "The Gangster Chronicles (1981; TV miniseries)",
-          "value": "The Gangster Chronicles",
+          "value": "${link_0}",
           "value_text": "The Gangster Chronicles"
         }
       ]
@@ -83,30 +96,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0689237",
+                "page": "http://www.imdb.com/find?q=nm0689237"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jon_Polito",
+                "page": "http://en.wikipedia.org/wiki/Jon_Polito"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Jon-Polito/41573150204",
+                "page": "https://www.facebook.com/pages/Jon-Polito/41573150204"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -114,19 +157,538 @@
   ],
   "paragraphs": [
     {
+      "body": "118. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Master",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Master",
+            "page": "The_Waterbending_Master"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Avatar: The Last Airbender credits",
+        "Arnook"
+      ],
+      "text": "118. \"The Waterbending Master\""
+    },
+    {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Avatar: The Last Airbender credits",
+        "Arnook"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Avatar: The Last Airbender credits",
+        "Arnook"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "118. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Master",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Master",
+            "page": "The_Waterbending_Master"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "118. \"The Waterbending Master\""
+    },
+    {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Crime Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090410",
+            "page": "http://www.imdb.com/find?q=tt0090410"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Crime Story"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hearts Are Wild",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103438",
+            "page": "http://www.imdb.com/find?q=tt0103438"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hearts Are Wild"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Homicide: Life on the Street",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106028",
+            "page": "http://www.imdb.com/find?q=tt0106028"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Homicide: Life on the Street"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ohara",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092418",
+            "page": "http://www.imdb.com/find?q=tt0092418"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ohara"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Raising the Bar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1001558",
+            "page": "http://www.imdb.com/find?q=tt1001558"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Raising the Bar"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Chronicle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0242733",
+            "page": "http://www.imdb.com/find?q=tt0242733"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Chronicle"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Locker 13",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1241226",
+            "page": "http://www.imdb.com/find?q=tt1241226"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Locker 13 (2014)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "The Talking Head",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1740045",
+            "page": "http://www.imdb.com/find?q=tt1740045"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Talking Head (2010; short)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Venus & Vegas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0423474",
+            "page": "http://www.imdb.com/find?q=tt0423474"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Venus & Vegas (2010)"
+    },
+    {
+      "body": "${link_0} (2008; short)",
+      "links": [
+        {
+          "body": "Animated American",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1271967",
+            "page": "http://www.imdb.com/find?q=tt1271967"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Animated American (2008; short)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Bart Got a Room",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0472050",
+            "page": "http://www.imdb.com/find?q=tt0472050"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bart Got a Room (2008)"
+    },
+    {
+      "body": "${link_0} (2006; short)",
+      "links": [
+        {
+          "body": "Cleaners",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0986345",
+            "page": "http://www.imdb.com/find?q=tt0986345"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cleaners (2006; short)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Flags of Our Fathers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0418689",
+            "page": "http://www.imdb.com/find?q=tt0418689"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Flags of Our Fathers (2006)"
+    },
+    {
+      "body": "${link_0} (2003; short)",
+      "links": [
+        {
+          "body": "No Credits, No Peace",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0495611",
+            "page": "http://www.imdb.com/find?q=tt0495611"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "No Credits, No Peace (2003; short)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "The Man Who Wasn't There",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0243133",
+            "page": "http://www.imdb.com/find?q=tt0243133"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Man Who Wasn't There (2001)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Angel's Dance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0159995",
+            "page": "http://www.imdb.com/find?q=tt0159995"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Angel's Dance (1999)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "The Big Lebowski",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118715",
+            "page": "http://www.imdb.com/find?q=tt0118715"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Big Lebowski (1998)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Miller's Crossing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0100150",
+            "page": "http://www.imdb.com/find?q=tt0100150"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Miller's Crossing (1990)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dead Head Fred",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1113723",
+            "page": "http://www.imdb.com/find?q=tt1113723"
+          }
+        }
+      ],
+      "section": [
+        "Jon Polito",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dead Head Fred (video game)"
+    },
+    {
       "body": "Jon Polito is best known for working with the Coen brothers, most notably in the major supporting role of Italian gangster Johnny Caspar in Miller's Crossing. He also appeared in the first two seasons of Homicide: Life on the Street and on the first season of Crime Story.",
       "links": [],
+      "section": [
+        "Jon Polito",
+        "Biographical information"
+      ],
       "text": "Jon Polito is best known for working with the Coen brothers, most notably in the major supporting role of Italian gangster Johnny Caspar in Miller's Crossing. He also appeared in the first two seasons of Homicide: Life on the Street and on the first season of Crime Story."
     },
     {
       "body": "He portrayed Orren Boyle in 2011's Atlas Shrugged, the film adaptation of Ayn Rand's novel of the same name.",
       "links": [],
+      "section": [
+        "Jon Polito",
+        "Biographical information"
+      ],
       "text": "He portrayed Orren Boyle in 2011's Atlas Shrugged, the film adaptation of Ayn Rand's novel of the same name."
     },
     {
       "body": "Polito is the partner of actor and musician Darryl Armbruster.",
       "links": [],
+      "section": [
+        "Jon Polito",
+        "Biographical information"
+      ],
       "text": "Polito is the partner of actor and musician Darryl Armbruster."
+    },
+    {
+      "body": "2012: Won a Hollywood Reel Independent Film Festival Award for Anti-Muse (Best Actor)",
+      "links": [],
+      "section": [
+        "Jon Polito",
+        "Awards"
+      ],
+      "text": "2012: Won a Hollywood Reel Independent Film Festival Award for Anti-Muse (Best Actor)"
+    },
+    {
+      "body": "2005: Won a Cinequest San Jose Film Festival Maverick Tribute Award",
+      "links": [],
+      "section": [
+        "Jon Polito",
+        "Awards"
+      ],
+      "text": "2005: Won a Cinequest San Jose Film Festival Maverick Tribute Award"
+    },
+    {
+      "body": "All three of his additional voices credits misspell his name \"John Polito\".",
+      "links": [],
+      "section": [
+        "Jon Polito",
+        "Trivia"
+      ],
+      "text": "All three of his additional voices credits misspell his name \"John Polito\"."
     }
   ],
   "source": {

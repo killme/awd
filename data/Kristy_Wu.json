@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Arli$$ (1999)",
+          "body": "${link_0} (1999)",
           "extra": "(1999)",
           "extra_text": "(1999)",
-          "links": [],
+          "links": [
+            {
+              "body": "Arli$$",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0115101",
+                "page": "http://www.imdb.com/find?q=tt0115101"
+              }
+            }
+          ],
           "text": "Arli$$ (1999)",
-          "value": "Arli$$",
+          "value": "${link_0}",
           "value_text": "Arli$$"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0943127",
+                "page": "http://www.imdb.com/find?q=nm0943127"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Kristy_Wu",
+                "page": "http://en.wikipedia.org/wiki/Kristy_Wu"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/kristy.wu.7564",
+                "page": "https://www.facebook.com/kristy.wu.7564"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/FollowKristyWu",
+                "page": "https://twitter.com/FollowKristyWu"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,8 +148,592 @@
   ],
   "paragraphs": [
     {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "The Legend of Korra credits",
+        "P'Li"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "The Legend of Korra credits",
+        "P'Li"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "The Legend of Korra credits",
+        "P'Li"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "The Legend of Korra credits",
+        "P'Li"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "The Legend of Korra credits",
+        "P'Li"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enter the Void",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enter_the_Void",
+            "page": "Enter_the_Void"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "The Legend of Korra credits",
+        "P'Li"
+      ],
+      "text": "312. \"Enter the Void\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Buffy the Vampire Slayer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118276",
+            "page": "http://www.imdb.com/find?q=tt0118276"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Buffy the Vampire Slayer"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Elementary",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2191671",
+            "page": "http://www.imdb.com/find?q=tt2191671"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Elementary"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Flight 29 Down",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0433275",
+            "page": "http://www.imdb.com/find?q=tt0433275"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Flight 29 Down"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Flight 29 Down: The Hotel Tango",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0948118",
+            "page": "http://www.imdb.com/find?q=tt0948118"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Flight 29 Down: The Hotel Tango (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Freaks and Geeks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0193676",
+            "page": "http://www.imdb.com/find?q=tt0193676"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Freaks and Geeks"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Future Tense",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0777217",
+            "page": "http://www.imdb.com/find?q=tt0777217"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Future Tense (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Joan of Arcadia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0367345",
+            "page": "http://www.imdb.com/find?q=tt0367345"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Joan of Arcadia"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Mask of the Ninja",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1198346",
+            "page": "http://www.imdb.com/find?q=tt1198346"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mask of the Ninja (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Moesha",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115275",
+            "page": "http://www.imdb.com/find?q=tt0115275"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Moesha"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Return to Halloweentown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0816520",
+            "page": "http://www.imdb.com/find?q=tt0816520"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Return to Halloweentown (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Mentalist",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1196946",
+            "page": "http://www.imdb.com/find?q=tt1196946"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Mentalist"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The News",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0964536",
+            "page": "http://www.imdb.com/find?q=tt0964536"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The News (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Night Shift",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2477230",
+            "page": "http://www.imdb.com/find?q=tt2477230"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Night Shift"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Almost Perfect",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1249158",
+            "page": "http://www.imdb.com/find?q=tt1249158"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Almost Perfect (2011)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Father vs. Son",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1308112",
+            "page": "http://www.imdb.com/find?q=tt1308112"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Father vs. Son (2010)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Lions for Lambs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0891527",
+            "page": "http://www.imdb.com/find?q=tt0891527"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lions for Lambs (2007)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Cry_Wolf",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0384286",
+            "page": "http://www.imdb.com/find?q=tt0384286"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cry_Wolf (2005)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Face",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0293146",
+            "page": "http://www.imdb.com/find?q=tt0293146"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Face (2002)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "What's Cooking",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0197096",
+            "page": "http://www.imdb.com/find?q=tt0197096"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "What's Cooking (2000)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Drive Me Crazy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0164114",
+            "page": "http://www.imdb.com/find?q=tt0164114"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Drive Me Crazy (1999)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Cold Winter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0470265",
+            "page": "http://www.imdb.com/find?q=tt0470265"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Cold Winter (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dishonored",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2322244",
+            "page": "http://www.imdb.com/find?q=tt2322244"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dishonored (video game)"
+    },
+    {
+      "body": "${link_0} (self)",
+      "links": [
+        {
+          "body": "Ripley's Believe It or Not",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0218787",
+            "page": "http://www.imdb.com/find?q=tt0218787"
+          }
+        }
+      ],
+      "section": [
+        "Kristy Wu",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ripley's Believe It or Not (self)"
+    },
+    {
       "body": "Wu, who is of Chinese descent, previously dated Johnny Pacar, who was her co-star in Flight 29 Down.",
       "links": [],
+      "section": [
+        "Kristy Wu",
+        "Biographical information"
+      ],
       "text": "Wu, who is of Chinese descent, previously dated Johnny Pacar, who was her co-star in Flight 29 Down."
     }
   ],

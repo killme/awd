@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Showdown at Ulcer Gulch (1956)",
+          "body": "${link_0} (1956)",
           "extra": "(1956)",
           "extra_text": "(1956)",
-          "links": [],
+          "links": [
+            {
+              "body": "Showdown at Ulcer Gulch",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0157035",
+                "page": "http://www.imdb.com/find?q=tt0157035"
+              }
+            }
+          ],
           "text": "Showdown at Ulcer Gulch (1956)",
-          "value": "Showdown at Ulcer Gulch",
+          "value": "${link_0}",
           "value_text": "Showdown at Ulcer Gulch"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0421300",
+                "page": "http://www.imdb.com/find?q=nm0421300"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Salome_Jens",
+                "page": "http://en.wikipedia.org/wiki/Salome_Jens"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/Salome-Jens/103799379659113",
+                "page": "http://www.facebook.com/pages/Salome-Jens/103799379659113"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -86,18 +129,353 @@
   ],
   "paragraphs": [
     {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Puppetmaster",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Puppetmaster",
+            "page": "The_Puppetmaster"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "308. \"The Puppetmaster\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Falcon Crest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0081858",
+            "page": "http://www.imdb.com/find?q=tt0081858"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Falcon Crest"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mary Hartman, Mary Hartman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0074021",
+            "page": "http://www.imdb.com/find?q=tt0074021"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mary Hartman, Mary Hartman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Medical Center",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0063928",
+            "page": "http://www.imdb.com/find?q=tt0063928"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Medical Center"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Melrose Place",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103491",
+            "page": "http://www.imdb.com/find?q=tt0103491"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Melrose Place"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: Deep Space Nine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106145",
+            "page": "http://www.imdb.com/find?q=tt0106145"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: Deep Space Nine"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Adventures of Superboy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094559",
+            "page": "http://www.imdb.com/find?q=tt0094559"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Adventures of Superboy"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Green Lantern",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1133985",
+            "page": "http://www.imdb.com/find?q=tt1133985"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Green Lantern (2011)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Cats & Dogs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0239395",
+            "page": "http://www.imdb.com/find?q=tt0239395"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cats & Dogs (2001)"
+    },
+    {
+      "body": "${link_0} (2001; TV short)",
+      "links": [
+        {
+          "body": "Matisse & Picasso: A Gentle Rivalry",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1065097",
+            "page": "http://www.imdb.com/find?q=tt1065097"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Matisse & Picasso: A Gentle Rivalry (2001; TV short)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Room 101",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0286011",
+            "page": "http://www.imdb.com/find?q=tt0286011"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Room 101 (2001)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "I'm Losing You",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0142393",
+            "page": "http://www.imdb.com/find?q=tt0142393"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I'm Losing You (1998)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "Just Between Friends",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0091310",
+            "page": "http://www.imdb.com/find?q=tt0091310"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Just Between Friends (1986)"
+    },
+    {
+      "body": "${link_0} (1981)",
+      "links": [
+        {
+          "body": "Harry's War",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0082503",
+            "page": "http://www.imdb.com/find?q=tt0082503"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Harry's War (1981)"
+    },
+    {
+      "body": "${link_0} (1980)",
+      "links": [
+        {
+          "body": "Cloud Dancer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0080545",
+            "page": "http://www.imdb.com/find?q=tt0080545"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cloud Dancer (1980)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Trek: Hidden Evil",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0216237",
+            "page": "http://www.imdb.com/find?q=tt0216237"
+          }
+        }
+      ],
+      "section": [
+        "Salome Jens",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Trek: Hidden Evil (video game)"
+    },
+    {
       "body": "Jens graduated Bay View High School with a 96 average and was crowned Miss Bay View at the long running South Shore Water Frolics. Later in life she remarked, \"The only time I can imagine contemplating suicide would be if I was told that I had to go back and live in Milwaukee forever.\"",
       "links": [],
+      "section": [
+        "Salome Jens",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Jens graduated Bay View High School with a 96 average and was crowned Miss Bay View at the long running South Shore Water Frolics. Later in life she remarked, \"The only time I can imagine contemplating suicide would be if I was told that I had to go back and live in Milwaukee forever.\""
     },
     {
       "body": "She has been married twice, first to film actor Ralph Meeker, and later to television personality Lee Leonard.",
       "links": [],
+      "section": [
+        "Salome Jens",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "She has been married twice, first to film actor Ralph Meeker, and later to television personality Lee Leonard."
     },
     {
       "body": "Her performances in the theater have been rare but well regarded. She nabbed the lion's share of attention in the small role of The Thief in the New York premiere production of Jean Genet's The Balcony. She also played Cleopatra at Stratford and won excellent notices playing Josie in A Moon for the Misbegotten at New York's Circle-in-the-Square theater in the late 1960s.",
       "links": [],
+      "section": [
+        "Salome Jens",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Her performances in the theater have been rare but well regarded. She nabbed the lion's share of attention in the small role of The Thief in the New York premiere production of Jean Genet's The Balcony. She also played Cleopatra at Stratford and won excellent notices playing Josie in A Moon for the Misbegotten at New York's Circle-in-the-Square theater in the late 1960s."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic transcripts",
       "target": {
-        "href": "Category_Comic_transcripts",
+        "external": false,
+        "href": "/wiki/Category_Comic_transcripts",
         "page": "Category_Comic_transcripts"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -27,48 +30,67 @@
     {
       "body": "",
       "links": [],
+      "section": [
+        "Transcript:Sisters"
+      ],
       "text": ""
     },
     {
-      "body": "Ty Lee",
-      "links": [],
-      "text": "Ty Lee"
-    },
-    {
-      "body": "\"${link_0}\"\n\u2193\n\"Sisters\"\n\u2193\nNone; end of series",
+      "body": "${link_0}",
       "links": [
         {
-          "body": "Shells",
+          "body": "Fire Nation Capital",
           "key": "${link_0}",
           "target": {
-            "href": "Transcript_Shells",
-            "page": "Transcript_Shells"
+            "external": false,
+            "href": "/wiki/Fire_Nation_Capital",
+            "page": "Fire_Nation_Capital"
           }
         }
       ],
-      "text": "\"Shells\"\n\u2193\n\"Sisters\"\n\u2193\nNone; end of series"
+      "section": [
+        "Transcript:Sisters",
+        "Locations"
+      ],
+      "text": "Fire Nation Capital"
     },
     {
-      "body": "${link_0} \u00b7 ${link_1}",
+      "body": "${link_0}",
       "links": [
         {
-          "body": "Article",
+          "body": "Fire Nation circus",
           "key": "${link_0}",
           "target": {
-            "href": "Sisters",
+            "external": false,
+            "href": "/wiki/Fire_Nation_circus",
+            "page": "Fire_Nation_circus"
+          }
+        }
+      ],
+      "section": [
+        "Transcript:Sisters",
+        "Locations"
+      ],
+      "text": "Fire Nation circus"
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "Sisters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sisters",
             "page": "Sisters"
           }
-        },
-        {
-          "body": "More transcripts",
-          "key": "${link_1}",
-          "target": {
-            "href": "Avatar_Wiki_Transcripts",
-            "page": "Avatar_Wiki_Transcripts"
-          }
         }
       ],
-      "text": "Article \u00b7 More transcripts"
+      "section": [
+        "Transcript:Sisters",
+        "See also"
+      ],
+      "text": "\"Sisters\""
     }
   ],
   "source": {

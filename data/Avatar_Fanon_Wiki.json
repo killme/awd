@@ -3,21 +3,24 @@
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Websites",
       "target": {
-        "href": "Category_Websites",
+        "external": false,
+        "href": "/wiki/Category_Websites",
         "page": "Category_Websites"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     }
@@ -27,12 +30,22 @@
       "key": "Owner",
       "value": [
         {
-          "body": "Wikia, Inc.",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikia, Inc.",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.wikia.com/Wikia:Wikia,_Inc.",
+                "page": "http://www.wikia.com/Wikia:Wikia,_Inc."
+              }
+            }
+          ],
           "text": "Wikia, Inc.",
-          "value": "Wikia, Inc.",
+          "value": "${link_0}",
           "value_text": "Wikia, Inc."
         }
       ]
@@ -63,7 +76,8 @@
               "body": "Avatar: The Last Airbender",
               "key": "${link_0}",
               "target": {
-                "href": "Avatar__The_Last_Airbender",
+                "external": false,
+                "href": "/wiki/Avatar__The_Last_Airbender",
                 "page": "Avatar__The_Last_Airbender"
               }
             }
@@ -78,39 +92,79 @@
       "key": "Admins",
       "value": [
         {
-          "body": "SuperFlash101",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "SuperFlash101",
+              "key": "${link_0}",
+              "target": {
+                "external": false,
+                "href": "/wiki/User:SuperFlash101",
+                "page": "User:SuperFlash101"
+              }
+            }
+          ],
           "text": "SuperFlash101",
-          "value": "SuperFlash101",
+          "value": "${link_0}",
           "value_text": "SuperFlash101"
         },
         {
-          "body": "Zukofan123",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Zukofan123",
+              "key": "${link_0}",
+              "target": {
+                "external": false,
+                "href": "/wiki/User:Zukofan123",
+                "page": "User:Zukofan123"
+              }
+            }
+          ],
           "text": "Zukofan123",
-          "value": "Zukofan123",
+          "value": "${link_0}",
           "value_text": "Zukofan123"
         },
         {
-          "body": "Vaznock",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Vaznock",
+              "key": "${link_0}",
+              "target": {
+                "external": false,
+                "href": "/wiki/User:Vaznock",
+                "page": "User:Vaznock"
+              }
+            }
+          ],
           "text": "Vaznock",
-          "value": "Vaznock",
+          "value": "${link_0}",
           "value_text": "Vaznock"
         },
         {
-          "body": "Waterkai",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Waterkai",
+              "key": "${link_0}",
+              "target": {
+                "external": false,
+                "href": "/wiki/User:Waterkai",
+                "page": "User:Waterkai"
+              }
+            }
+          ],
           "text": "Waterkai",
-          "value": "Waterkai",
+          "value": "${link_0}",
           "value_text": "Waterkai"
         }
       ]
@@ -118,16 +172,65 @@
   ],
   "paragraphs": [
     {
-      "body": "Avatar fanon was a collective wiki about fanon stories of ${link_0}. As a wiki, anyone could edit, and all things were accepted. In 2009, the wiki was administrated by users Waterkai, SuperFlash101, Zukofan123, and Vaznock.",
+      "body": "Avatar fanon was a collective ${link_0} about fanon stories of ${link_1}. As a wiki, anyone could edit, and all things were accepted. In 2009, the wiki was administrated by users ${link_2}, ${link_3}, ${link_4}, and ${link_5}.",
       "links": [
         {
-          "body": "Avatar: The Last Airbender",
+          "body": "wiki",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Wikia",
+            "page": "http://en.wikipedia.org/wiki/Wikia"
+          }
+        },
+        {
+          "body": "Avatar: The Last Airbender",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
+        },
+        {
+          "body": "Waterkai",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Waterkai",
+            "page": "User:Waterkai"
+          }
+        },
+        {
+          "body": "SuperFlash101",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:SuperFlash101",
+            "page": "User:SuperFlash101"
+          }
+        },
+        {
+          "body": "Zukofan123",
+          "key": "${link_4}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Zukofan123",
+            "page": "User:Zukofan123"
+          }
+        },
+        {
+          "body": "Vaznock",
+          "key": "${link_5}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Vaznock",
+            "page": "User:Vaznock"
+          }
         }
+      ],
+      "section": [
+        "Avatar Fanon Wiki"
       ],
       "text": "Avatar fanon was a collective wiki about fanon stories of Avatar: The Last Airbender. As a wiki, anyone could edit, and all things were accepted. In 2009, the wiki was administrated by users Waterkai, SuperFlash101, Zukofan123, and Vaznock."
     },
@@ -138,21 +241,80 @@
           "body": "Project:Avatar fanon",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar_Wiki_Avatar_fanon",
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_Avatar_fanon",
             "page": "Avatar_Wiki_Avatar_fanon"
           }
         }
       ],
+      "section": [
+        "Avatar Fanon Wiki"
+      ],
       "text": "Avatar fanon is now part of Avatar Wiki. Its portal can be found at Project:Avatar fanon."
     },
     {
-      "body": "Avatar Fanon Wiki was created on 20 November 2007 by Paperclipchains. The project found it difficult to start, and September 2008 was the first month where the number of active users exceeded six. The only administrative appointment in those months was Masterhybrid. However, the project sustained a level of growth from then, and four administrators were appointed, including Vagrant Lustoid.",
-      "links": [],
+      "body": "Avatar Fanon Wiki was created on 20 November 2007 by ${link_0}. The project found it difficult to start, and September 2008 was the first month where the number of active users exceeded six. The only administrative appointment in those months was ${link_1}. However, the project sustained a level of growth from then, and four administrators were appointed, including ${link_2}.",
+      "links": [
+        {
+          "body": "Paperclipchains",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Paperclipchains",
+            "page": "User:Paperclipchains"
+          }
+        },
+        {
+          "body": "Masterhybrid",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Masterhybrid",
+            "page": "User:Masterhybrid"
+          }
+        },
+        {
+          "body": "Vagrant Lustoid",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Vagrant_Lustoid",
+            "page": "User:Vagrant_Lustoid"
+          }
+        }
+      ],
+      "section": [
+        "Avatar Fanon Wiki",
+        "History"
+      ],
       "text": "Avatar Fanon Wiki was created on 20 November 2007 by Paperclipchains. The project found it difficult to start, and September 2008 was the first month where the number of active users exceeded six. The only administrative appointment in those months was Masterhybrid. However, the project sustained a level of growth from then, and four administrators were appointed, including Vagrant Lustoid."
     },
     {
-      "body": "After the blocking of a vengeful user, Avatar fanon Wiki suffered from a rare but large vandal attack. Because of this vandalism, two users were granted rollback rights, The 888th Avatar and Vaznock. A month later, the first admin who wasn't a bureaucrat was chosen, Vaznock.",
-      "links": [],
+      "body": "After the blocking of a vengeful user, Avatar fanon Wiki suffered from a rare but large vandal attack. Because of this vandalism, two users were granted rollback rights, ${link_0} and ${link_1}. A month later, the first admin who wasn't a bureaucrat was chosen, Vaznock.",
+      "links": [
+        {
+          "body": "The 888th Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:The_888th_Avatar",
+            "page": "User:The_888th_Avatar"
+          }
+        },
+        {
+          "body": "Vaznock",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Vaznock",
+            "page": "User:Vaznock"
+          }
+        }
+      ],
+      "section": [
+        "Avatar Fanon Wiki",
+        "History"
+      ],
       "text": "After the blocking of a vengeful user, Avatar fanon Wiki suffered from a rare but large vandal attack. Because of this vandalism, two users were granted rollback rights, The 888th Avatar and Vaznock. A month later, the first admin who wasn't a bureaucrat was chosen, Vaznock."
     },
     {
@@ -162,12 +324,112 @@
           "body": "Fanon administrators",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar_Wiki_Fanon_administrators",
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_Fanon_administrators",
             "page": "Avatar_Wiki_Fanon_administrators"
           }
         }
       ],
+      "section": [
+        "Avatar Fanon Wiki",
+        "History"
+      ],
       "text": "On June 27, 2009, Avatar fanon and Avatar Wiki merged into one wiki in order to increase the amount of traffic of future users, creating the Fanon Portal on this wiki. Fanon administrators were created as a result of this merge. The group was later disbanded as a result of community consensus in February 2012."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Avatar fanon Portal",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_Avatar_fanon",
+            "page": "Avatar_Wiki_Avatar_fanon"
+          }
+        }
+      ],
+      "section": [
+        "Avatar Fanon Wiki",
+        "See also"
+      ],
+      "text": "Avatar fanon Portal"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Avatar fanon",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_fanon",
+            "page": "Avatar_fanon"
+          }
+        }
+      ],
+      "section": [
+        "Avatar Fanon Wiki",
+        "See also"
+      ],
+      "text": "Avatar fanon"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Avatar fan sites",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_Affiliates",
+            "page": "Avatar_Wiki_Affiliates"
+          }
+        }
+      ],
+      "section": [
+        "Avatar Fanon Wiki",
+        "See also"
+      ],
+      "text": "Avatar fan sites"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Avatar Wiki: About",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_About",
+            "page": "Avatar_Wiki_About"
+          }
+        }
+      ],
+      "section": [
+        "Avatar Fanon Wiki",
+        "See also"
+      ],
+      "text": "Avatar Wiki: About"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Fanon administrators",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Wiki_Fanon_administrators",
+            "page": "Avatar_Wiki_Fanon_administrators"
+          }
+        }
+      ],
+      "section": [
+        "Avatar Fanon Wiki",
+        "See also"
+      ],
+      "text": "Fanon administrators"
     }
   ],
   "source": {

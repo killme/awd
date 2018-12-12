@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Books",
       "target": {
-        "href": "Category_Books",
+        "external": false,
+        "href": "/wiki/Category_Books",
         "page": "Category_Books"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -25,45 +28,59 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "The cover art for the book features ${link_0} with the ${link_1} in the background.",
+      "body": "Battle of the Benders in 3D (${link_0}) is a book based on the animated series ${link_1}. The book contains a summary of the characters and colorful illustrations, most of which are in 3D; to assist the reader in viewing the images, the book has attached a pair of 3D glasses. Published on January 8, 2008, it was written and illustrated by Golden Books and consists of twenty-four pages.",
       "links": [
         {
-          "body": "Aang",
+          "body": "ISBN 0-375-84331-0",
           "key": "${link_0}",
           "target": {
-            "href": "Aang",
-            "page": "Aang"
+            "external": false,
+            "href": "/wiki/Special:BookSources/0375843310",
+            "page": "Special:BookSources/0375843310"
           }
         },
         {
-          "body": "Northern Water Tribe Royal Palace",
+          "body": "Avatar: The Last Airbender",
           "key": "${link_1}",
           "target": {
-            "href": "Northern_Water_Tribe_Royal_Palace",
-            "page": "Northern_Water_Tribe_Royal_Palace"
-          }
-        }
-      ],
-      "text": "The cover art for the book features Aang with the Northern Water Tribe Royal Palace in the background."
-    },
-    {
-      "body": "Battle of the Benders in 3D (ISBN 0-375-84331-0) is a book based on the animated series ${link_0}. The book contains a summary of the characters and colorful illustrations, most of which are in 3D; to assist the reader in viewing the images, the book has attached a pair of 3D glasses. Published on January 8, 2008, it was written and illustrated by Golden Books and consists of twenty-four pages.",
-      "links": [
-        {
-          "body": "Avatar: The Last Airbender",
-          "key": "${link_0}",
-          "target": {
-            "href": "Avatar__The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
             "page": "Avatar__The_Last_Airbender"
           }
         }
+      ],
+      "section": [
+        "Battle of the Benders in 3D"
       ],
       "text": "Battle of the Benders in 3D (ISBN 0-375-84331-0) is a book based on the animated series Avatar: The Last Airbender. The book contains a summary of the characters and colorful illustrations, most of which are in 3D; to assist the reader in viewing the images, the book has attached a pair of 3D glasses. Published on January 8, 2008, it was written and illustrated by Golden Books and consists of twenty-four pages."
     },
     {
       "body": "Join Aang, the 12-year-old Avatar, as he battles to save the world from the war-hungry Fire Nation! This 24-page full-color book has lots of eye-popping 3-D images, activities, a 3-D panoramic poster plus two pairs of 3-D glasses\u2013a perfect way to introduce new fans to the exciting world of Avatar: The Last Airbender!",
       "links": [],
+      "section": [
+        "Battle of the Benders in 3D",
+        "Description"
+      ],
       "text": "Join Aang, the 12-year-old Avatar, as he battles to save the world from the war-hungry Fire Nation! This 24-page full-color book has lots of eye-popping 3-D images, activities, a 3-D panoramic poster plus two pairs of 3-D glasses\u2013a perfect way to introduce new fans to the exciting world of Avatar: The Last Airbender!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender\u2014The Art of the Animated Series",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender%e2%80%94The_Art_of_the_Animated_Series",
+            "page": "Avatar__The_Last_Airbender%e2%80%94The_Art_of_the_Animated_Series"
+          }
+        }
+      ],
+      "section": [
+        "Battle of the Benders in 3D",
+        "See also"
+      ],
+      "text": "Avatar: The Last Airbender\u2014The Art of the Animated Series"
     }
   ],
   "source": {

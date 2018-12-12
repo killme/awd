@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -55,12 +58,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Brian_Ralph",
+                "page": "http://en.wikipedia.org/wiki/Brian_Ralph"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -68,27 +81,93 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #5. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Fruit-Stand Freestyle",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Fruit-Stand_Freestyle",
+            "page": "Fruit-Stand_Freestyle"
+          }
+        }
+      ],
+      "section": [
+        "Brian Ralph",
+        "Avatar: The Last Airbender credit",
+        "Comic cartoonist"
+      ],
+      "text": "Iss. #5. \"Fruit-Stand Freestyle\""
+    },
+    {
+      "body": "Cave-In (cartoonist)",
+      "links": [],
+      "section": [
+        "Brian Ralph",
+        "Selected other credits",
+        "Graphic novels"
+      ],
+      "text": "Cave-In (cartoonist)"
+    },
+    {
+      "body": "Climbing Out (cartoonist)",
+      "links": [],
+      "section": [
+        "Brian Ralph",
+        "Selected other credits",
+        "Graphic novels"
+      ],
+      "text": "Climbing Out (cartoonist)"
+    },
+    {
+      "body": "Daybreak (cartoonist)",
+      "links": [],
+      "section": [
+        "Brian Ralph",
+        "Selected other credits",
+        "Graphic novels"
+      ],
+      "text": "Daybreak (cartoonist)"
+    },
+    {
       "body": "Brian Ralph is an alumnus of the Rhode Island School of Design, having earned an Illustration BFA in 1996. His works have been featured in Wired, The New York Times, The New York Daily News, and other weekly news publications across the United States. He has worked for numerous companies during his career as well, including the Museum of Modern Art newsletter, ${link_0}, and Tim McGraw.",
       "links": [
         {
           "body": "Nickelodeon Magazine",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon_Magazine",
+            "external": false,
+            "href": "/wiki/Nickelodeon_Magazine",
             "page": "Nickelodeon_Magazine"
           }
         }
+      ],
+      "section": [
+        "Brian Ralph",
+        "Biographical information",
+        "Career"
       ],
       "text": "Brian Ralph is an alumnus of the Rhode Island School of Design, having earned an Illustration BFA in 1996. His works have been featured in Wired, The New York Times, The New York Daily News, and other weekly news publications across the United States. He has worked for numerous companies during his career as well, including the Museum of Modern Art newsletter, Nickelodeon Magazine, and Tim McGraw."
     },
     {
       "body": "Among Ralph's honors are his nominations for three Harvey Awards and one Eisner Award for his story Cave-In, which is considered one of the five best comics of 1999. Ralph also earned a Xeric grant for his second book, Climbing Out, in 2002 and won two Igantz Awards at the Small Press Expo. Daybreak, his most recent graphic novel, was listed as a New York Times Bestseller in the Graphic Novel category.",
       "links": [],
+      "section": [
+        "Brian Ralph",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Among Ralph's honors are his nominations for three Harvey Awards and one Eisner Award for his story Cave-In, which is considered one of the five best comics of 1999. Ralph also earned a Xeric grant for his second book, Climbing Out, in 2002 and won two Igantz Awards at the Small Press Expo. Daybreak, his most recent graphic novel, was listed as a New York Times Bestseller in the Graphic Novel category."
     },
     {
       "body": "Brian Ralph currently lives in Savannah, Georgia, and teaches Sequential Art at the Savannah College for Art and Design.",
       "links": [],
+      "section": [
+        "Brian Ralph",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Brian Ralph currently lives in Savannah, Georgia, and teaches Sequential Art at the Savannah College for Art and Design."
     }
   ],

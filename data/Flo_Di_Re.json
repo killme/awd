@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "A Different Story (1978)",
+          "body": "${link_0} (1978)",
           "extra": "(1978)",
           "extra_text": "(1978)",
-          "links": [],
+          "links": [
+            {
+              "body": "A Different Story",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0077435",
+                "page": "http://www.imdb.com/find?q=tt0077435"
+              }
+            }
+          ],
           "text": "A Different Story (1978)",
-          "value": "A Different Story",
+          "value": "${link_0}",
           "value_text": "A Different Story"
         }
       ]
@@ -41,18 +54,349 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0224241",
+                "page": "http://www.imdb.com/find?q=nm0224241"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "216. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "216. \"Appa's Lost Days\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bodies of Evidence",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103374",
+            "page": "http://www.imdb.com/find?q=tt0103374"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bodies of Evidence"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Murder, She Wrote",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086765",
+            "page": "http://www.imdb.com/find?q=tt0086765"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Murder, She Wrote"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Quack Pack",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0136658",
+            "page": "http://www.imdb.com/find?q=tt0136658"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Quack Pack"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Seinfeld",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098904",
+            "page": "http://www.imdb.com/find?q=tt0098904"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Seinfeld"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Golden Girls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0088526",
+            "page": "http://www.imdb.com/find?q=tt0088526"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Golden Girls"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Mighty Joe Young",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120751",
+            "page": "http://www.imdb.com/find?q=tt0120751"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mighty Joe Young (1998)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Mother",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0117090",
+            "page": "http://www.imdb.com/find?q=tt0117090"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mother (1996)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "Troop Beverly Hills",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098519",
+            "page": "http://www.imdb.com/find?q=tt0098519"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Troop Beverly Hills (1989)"
+    },
+    {
+      "body": "${link_0} (1983)",
+      "links": [
+        {
+          "body": "Deadly Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0085409",
+            "page": "http://www.imdb.com/find?q=tt0085409"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Deadly Force (1983)"
+    },
+    {
+      "body": "${link_0} (1982)",
+      "links": [
+        {
+          "body": "Frances",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0083967",
+            "page": "http://www.imdb.com/find?q=tt0083967"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Frances (1982)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Devil May Cry 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0319285",
+            "page": "http://www.imdb.com/find?q=tt0319285"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Devil May Cry 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fallout 2: A Post-Nuclear Role-Playing Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0183066",
+            "page": "http://www.imdb.com/find?q=tt0183066"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fallout 2: A Post-Nuclear Role-Playing Game (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Planescape: Torment",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0187405",
+            "page": "http://www.imdb.com/find?q=tt0187405"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Planescape: Torment (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Spyro: Year of the Dragon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0265795",
+            "page": "http://www.imdb.com/find?q=tt0265795"
+          }
+        }
+      ],
+      "section": [
+        "Flo Di Re",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Spyro: Year of the Dragon (video game)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Flo_Di_Re",
     "file": "avatar.wikia.com/wiki/Flo_Di_Re.html",

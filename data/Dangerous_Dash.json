@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Online games",
       "target": {
-        "href": "Category_Online_games",
+        "external": false,
+        "href": "/wiki/Category_Online_games",
         "page": "Category_Online_games"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Video games",
       "target": {
-        "href": "Category_Video_games",
+        "external": false,
+        "href": "/wiki/Category_Video_games",
         "page": "Category_Video_games"
       }
     }
@@ -42,7 +46,8 @@
               "body": "Nickelodeon",
               "key": "${link_0}",
               "target": {
-                "href": "Nickelodeon",
+                "external": false,
+                "href": "/wiki/Nickelodeon",
                 "page": "Nickelodeon"
               }
             }
@@ -100,6 +105,9 @@
     {
       "body": "Dangerous Dash is a mini-game hosted on Nick.com.",
       "links": [],
+      "section": [
+        "Dangerous Dash"
+      ],
       "text": "Dangerous Dash is a mini-game hosted on Nick.com."
     },
     {
@@ -109,7 +117,8 @@
           "body": "Aang",
           "key": "${link_0}",
           "target": {
-            "href": "Aang",
+            "external": false,
+            "href": "/wiki/Aang",
             "page": "Aang"
           }
         },
@@ -117,7 +126,8 @@
           "body": "Fire Nation",
           "key": "${link_1}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         },
@@ -125,10 +135,15 @@
           "body": "soldiers",
           "key": "${link_2}",
           "target": {
-            "href": "Military_of_the_Fire_Nation",
+            "external": false,
+            "href": "/wiki/Military_of_the_Fire_Nation",
             "page": "Military_of_the_Fire_Nation"
           }
         }
+      ],
+      "section": [
+        "Dangerous Dash",
+        "Objective"
       ],
       "text": "Aang is climbing to the top of a mountain, but along the way, he must avoid Fire Nation soldiers who will try to stop him at all costs."
     },
@@ -139,26 +154,26 @@
           "body": "Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar",
+            "external": false,
+            "href": "/wiki/Avatar",
             "page": "Avatar"
           }
         }
       ],
+      "section": [
+        "Dangerous Dash",
+        "Objective"
+      ],
       "text": "The goal of the game beyond this is unclear; it is impossible for Aang to reach the top of the mountain. The most logical assumption to be made judging by the way in which points are earned (the more feet hiked, the more points gained) is that guiding the Avatar as far up the mountain as possible is the ultimate objective."
     },
     {
-      "body": "Gameplay features ${link_0} gliding up a mountain.",
-      "links": [
-        {
-          "body": "Aang",
-          "key": "${link_0}",
-          "target": {
-            "href": "Aang",
-            "page": "Aang"
-          }
-        }
+      "body": "Space-bar \u2013 Jump from one side of the chasm to the other",
+      "links": [],
+      "section": [
+        "Dangerous Dash",
+        "Controls"
       ],
-      "text": "Gameplay features Aang gliding up a mountain."
+      "text": "Space-bar \u2013 Jump from one side of the chasm to the other"
     },
     {
       "body": "Aang will need to avoid ${link_0}, falling rocks, and trees, as there is a penalty to be paid when he is touched by them. If he defeats three Fire Nation soldiers in a row, Aang will ${link_1} on ${link_2} and collect points at a faster rate. Sometimes a circular, hollow bubble will appear, and touching it enables Aang to act within a protective shield until he is hit by an obstacle, at which point he returns to normal.",
@@ -167,7 +182,8 @@
           "body": "firebenders",
           "key": "${link_0}",
           "target": {
-            "href": "Firebending",
+            "external": false,
+            "href": "/wiki/Firebending",
             "page": "Firebending"
           }
         },
@@ -175,7 +191,8 @@
           "body": "glide",
           "key": "${link_1}",
           "target": {
-            "href": "Airbender_staff",
+            "external": false,
+            "href": "/wiki/Airbender_staff",
             "page": "Airbender_staff"
           }
         },
@@ -183,22 +200,104 @@
           "body": "his staff",
           "key": "${link_2}",
           "target": {
-            "href": "Airbender_staff",
+            "external": false,
+            "href": "/wiki/Airbender_staff",
             "page": "Airbender_staff"
           }
         }
+      ],
+      "section": [
+        "Dangerous Dash",
+        "Controls",
+        "Instructions"
       ],
       "text": "Aang will need to avoid firebenders, falling rocks, and trees, as there is a penalty to be paid when he is touched by them. If he defeats three Fire Nation soldiers in a row, Aang will glide on his staff and collect points at a faster rate. Sometimes a circular, hollow bubble will appear, and touching it enables Aang to act within a protective shield until he is hit by an obstacle, at which point he returns to normal."
     },
     {
       "body": "To \"take out\" enemy soldiers, Aang simply needs to jump at them from the other side of the chasm.",
       "links": [],
+      "section": [
+        "Dangerous Dash",
+        "Controls",
+        "Instructions"
+      ],
       "text": "To \"take out\" enemy soldiers, Aang simply needs to jump at them from the other side of the chasm."
     },
     {
-      "body": "The game's leaderboard is fully operational.",
-      "links": [],
-      "text": "The game's leaderboard is fully operational."
+      "body": "Unlike most of the online ${link_0} games, Dangerous Dash still has its \"leaderboard\" intact. The top scores of the game can still be viewed.",
+      "links": [
+        {
+          "body": "Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
+            "page": "Avatar__The_Last_Airbender"
+          }
+        }
+      ],
+      "section": [
+        "Dangerous Dash",
+        "Trivia"
+      ],
+      "text": "Unlike most of the online Avatar games, Dangerous Dash still has its \"leaderboard\" intact. The top scores of the game can still be viewed."
+    },
+    {
+      "body": "${link_0} Games such as Aang On!, Black Sun Siege, Ashes in the Air, and Clash of the Benders, among others, all have blank high score lists with an error message.",
+      "links": [
+        {
+          "body": "\u2191",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/#cite_ref-0",
+            "page": ""
+          }
+        }
+      ],
+      "section": [
+        "Dangerous Dash",
+        "Notes"
+      ],
+      "text": "\u2191 Games such as Aang On!, Black Sun Siege, Ashes in the Air, and Clash of the Benders, among others, all have blank high score lists with an error message."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "List of Avatar games",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar_games",
+            "page": "List_of_Avatar_games"
+          }
+        }
+      ],
+      "section": [
+        "Dangerous Dash",
+        "See also"
+      ],
+      "text": "List of Avatar games"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Play Dangerous Dash",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.nick.com/avatar-the-last-airbender/games/avatar-dangerous-dash/",
+            "page": "http://www.nick.com/avatar-the-last-airbender/games/avatar-dangerous-dash/"
+          }
+        }
+      ],
+      "section": [
+        "Dangerous Dash",
+        "External links"
+      ],
+      "text": "Play Dangerous Dash"
     }
   ],
   "source": {

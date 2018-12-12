@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Little Shop (1991)",
+          "body": "${link_0} (1991)",
           "extra": "(1991)",
           "extra_text": "(1991)",
-          "links": [],
+          "links": [
+            {
+              "body": "Little Shop",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0120982",
+                "page": "http://www.imdb.com/find?q=tt0120982"
+              }
+            }
+          ],
           "text": "Little Shop (1991)",
-          "value": "Little Shop",
+          "value": "${link_0}",
           "value_text": "Little Shop"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0477075",
+                "page": "http://www.imdb.com/find?q=nm0477075"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jennie_Kwan",
+                "page": "http://en.wikipedia.org/wiki/Jennie_Kwan"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/jennie.kwan.14",
+                "page": "https://www.facebook.com/jennie.kwan.14"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/kwanzie#",
+                "page": "http://instagram.com/kwanzie"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.jenniekwan.com/",
+                "page": "http://www.jenniekwan.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -118,24 +181,489 @@
   ],
   "paragraphs": [
     {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Warriors of Kyoshi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Warriors_of_Kyoshi",
+            "page": "The_Warriors_of_Kyoshi"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Suki"
+      ],
+      "text": "104. \"The Warriors of Kyoshi\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Serpent's Pass",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Serpent%27s_Pass",
+            "page": "The_Serpent%27s_Pass"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Suki"
+      ],
+      "text": "212. \"The Serpent's Pass\""
+    },
+    {
+      "body": "216. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Suki"
+      ],
+      "text": "216. \"Appa's Lost Days\""
+    },
+    {
+      "body": "314. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_1",
+            "page": "The_Boiling_Rock%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Suki"
+      ],
+      "text": "314. \"The Boiling Rock, Part 1\""
+    },
+    {
+      "body": "315. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Suki"
+      ],
+      "text": "315. \"The Boiling Rock, Part 2\""
+    },
+    {
+      "body": "316. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Raiders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Raiders",
+            "page": "The_Southern_Raiders"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Suki"
+      ],
+      "text": "316. \"The Southern Raiders\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Suki"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "318. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 1: The Phoenix King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_1__The_Phoenix_King",
+            "page": "Sozin%27s_Comet%2c_Part_1__The_Phoenix_King"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Suki"
+      ],
+      "text": "318. \"Sozin's Comet, Part 1: The Phoenix King\""
+    },
+    {
+      "body": "319. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 2: The Old Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_2__The_Old_Masters",
+            "page": "Sozin%27s_Comet%2c_Part_2__The_Old_Masters"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Suki"
+      ],
+      "text": "319. \"Sozin's Comet, Part 2: The Old Masters\""
+    },
+    {
+      "body": "320. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 3: Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_3__Into_the_Inferno",
+            "page": "Sozin%27s_Comet%2c_Part_3__Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Suki"
+      ],
+      "text": "320. \"Sozin's Comet, Part 3: Into the Inferno\""
+    },
+    {
+      "body": "321. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 4: Avatar Aang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
+            "page": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Suki"
+      ],
+      "text": "321. \"Sozin's Comet, Part 4: Avatar Aang\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Actress Yue"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Warriors of Kyoshi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Warriors_of_Kyoshi",
+            "page": "The_Warriors_of_Kyoshi"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "104. \"The Warriors of Kyoshi\""
+    },
+    {
+      "body": "216. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "216. \"Appa's Lost Days\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Beverly Hills, 90210",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098749",
+            "page": "http://www.imdb.com/find?q=tt0098749"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Beverly Hills, 90210"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "California Dreams",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103380",
+            "page": "http://www.imdb.com/find?q=tt0103380"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "California Dreams"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Family Matters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096579",
+            "page": "http://www.imdb.com/find?q=tt0096579"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Family Matters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Random! Cartoons",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0890874",
+            "page": "http://www.imdb.com/find?q=tt0890874"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Random! Cartoons"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Nanny",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106080",
+            "page": "http://www.imdb.com/find?q=tt0106080"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Nanny"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Promoted",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3445004",
+            "page": "http://www.imdb.com/find?q=tt3445004"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Promoted (2014)"
+    },
+    {
+      "body": "${link_0} (2011; short)",
+      "links": [
+        {
+          "body": "Play Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1885341",
+            "page": "http://www.imdb.com/find?q=tt1885341"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Play Time (2011; short)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Trojan War",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120376",
+            "page": "http://www.imdb.com/find?q=tt0120376"
+          }
+        }
+      ],
+      "section": [
+        "Jennie Kwan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Trojan War (1997)"
+    },
+    {
       "body": "Kwan began acting at the age of eleven, when she started performing with the touring company \"Kids of the Century\". Her first television role was in 1991 as the voice of Audrey in Little Shop, a series based on the 1986 film Little Shop of Horrors.",
       "links": [],
+      "section": [
+        "Jennie Kwan",
+        "Career"
+      ],
       "text": "Kwan began acting at the age of eleven, when she started performing with the touring company \"Kids of the Century\". Her first television role was in 1991 as the voice of Audrey in Little Shop, a series based on the 1986 film Little Shop of Horrors."
     },
     {
       "body": "Kwan is most notable for portraying the character Samantha Woo on NBC's hit show California Dreams. In 1992, she auditioned for the lead role as Tiffani but lost out to Kelly Packard; however, this led to them becoming best friends. In that same year, she also appeared in an episode of Beverly Hills, 90210. In January 1993, she began performing the role as Kim in Chicago's production of Miss Saigon. Later that year, the producers of California Dreams called her back to join the main cast to play the role of Sam, a foreign exchange student, replacing Heidi Noelle Lenhart.",
       "links": [],
+      "section": [
+        "Jennie Kwan",
+        "Career"
+      ],
       "text": "Kwan is most notable for portraying the character Samantha Woo on NBC's hit show California Dreams. In 1992, she auditioned for the lead role as Tiffani but lost out to Kelly Packard; however, this led to them becoming best friends. In that same year, she also appeared in an episode of Beverly Hills, 90210. In January 1993, she began performing the role as Kim in Chicago's production of Miss Saigon. Later that year, the producers of California Dreams called her back to join the main cast to play the role of Sam, a foreign exchange student, replacing Heidi Noelle Lenhart."
     },
     {
       "body": "She starred in the Las Vegas original cast of the musical Avenue Q and spent time starring in the national tour as an understudy for the role of Christmas Eve. In late 2008, Jennie was let go from the cast and released from her contract and her bio was quickly taken off the show's site. No press release was issued announcing whether or not it was her decision to leave.",
       "links": [],
+      "section": [
+        "Jennie Kwan",
+        "Career"
+      ],
       "text": "She starred in the Las Vegas original cast of the musical Avenue Q and spent time starring in the national tour as an understudy for the role of Christmas Eve. In late 2008, Jennie was let go from the cast and released from her contract and her bio was quickly taken off the show's site. No press release was issued announcing whether or not it was her decision to leave."
     },
     {
       "body": "In 2009, she provided the voice for Bitgirl, Myang Myang, and Edu in Random! Cartoons.",
       "links": [],
+      "section": [
+        "Jennie Kwan",
+        "Career"
+      ],
       "text": "In 2009, she provided the voice for Bitgirl, Myang Myang, and Edu in Random! Cartoons."
+    },
+    {
+      "body": "In 2001, Kwan left acting for a while to join the girl group Nobody's Angel. However, with its popularity quickly declining, the group split up just one year later.",
+      "links": [],
+      "section": [
+        "Jennie Kwan",
+        "Trivia"
+      ],
+      "text": "In 2001, Kwan left acting for a while to join the girl group Nobody's Angel. However, with its popularity quickly declining, the group split up just one year later."
     }
   ],
   "source": {

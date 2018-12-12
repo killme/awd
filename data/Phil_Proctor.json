@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Jetsons (1962)",
+          "body": "${link_0} (1962)",
           "extra": "(1962)",
           "extra_text": "(1962)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Jetsons",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0055683",
+                "page": "http://www.imdb.com/find?q=tt0055683"
+              }
+            }
+          ],
           "text": "The Jetsons (1962)",
-          "value": "The Jetsons",
+          "value": "${link_0}",
           "value_text": "The Jetsons"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0698413",
+                "page": "http://www.imdb.com/find?q=nm0698413"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Phil_Proctor",
+                "page": "http://en.wikipedia.org/wiki/Phil_Proctor"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/philip.proctor2",
+                "page": "https://www.facebook.com/philip.proctor2"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/FIRESIGNPHIL",
+                "page": "https://twitter.com/FIRESIGNPHIL"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,8 +162,52 @@
   ],
   "paragraphs": [
     {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "Phil Proctor",
+        "Avatar: The Last Airbender credits",
+        "Fire Nation music teacher"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Headband",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Headband",
+            "page": "The_Headband"
+          }
+        }
+      ],
+      "section": [
+        "Phil Proctor",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "302. \"The Headband\""
+    },
+    {
       "body": "Of the four members of Firesign Theater, Proctor has had the greatest amount of mainstream exposure as an actor, having appeared occasionally on television in small roles, including episodes of All in the Family and Night Court, and Off-Broadway in the 1964 musical The Amorous Flea. He also provided the voices of Meltdown in Treasure Planet and \"Drunk Monkey\" in the Dr. Doolittle remake series. He has also provided uncredited ADR overdubs for numerous movies over the years.",
       "links": [],
+      "section": [
+        "Phil Proctor",
+        "Biographical information"
+      ],
       "text": "Of the four members of Firesign Theater, Proctor has had the greatest amount of mainstream exposure as an actor, having appeared occasionally on television in small roles, including episodes of All in the Family and Night Court, and Off-Broadway in the 1964 musical The Amorous Flea. He also provided the voices of Meltdown in Treasure Planet and \"Drunk Monkey\" in the Dr. Doolittle remake series. He has also provided uncredited ADR overdubs for numerous movies over the years."
     }
   ],

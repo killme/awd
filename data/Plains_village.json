@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Earth Kingdom",
       "target": {
-        "href": "Category_Earth_Kingdom",
+        "external": false,
+        "href": "/wiki/Category_Earth_Kingdom",
         "page": "Category_Earth_Kingdom"
       }
     },
     {
       "body": "Locations",
       "target": {
-        "href": "Category_Locations",
+        "external": false,
+        "href": "/wiki/Category_Locations",
         "page": "Category_Locations"
       }
     },
     {
       "body": "Settlements",
       "target": {
-        "href": "Category_Settlements",
+        "external": false,
+        "href": "/wiki/Category_Settlements",
         "page": "Category_Settlements"
       }
     }
@@ -42,7 +46,8 @@
               "body": "Earth Kingdom",
               "key": "${link_0}",
               "target": {
-                "href": "Earth_Kingdom",
+                "external": false,
+                "href": "/wiki/Earth_Kingdom",
                 "page": "Earth_Kingdom"
               }
             }
@@ -79,7 +84,8 @@
               "body": "Earth monarch",
               "key": "${link_0}",
               "target": {
-                "href": "Earth_monarch",
+                "external": false,
+                "href": "/wiki/Earth_monarch",
                 "page": "Earth_monarch"
               }
             }
@@ -97,7 +103,8 @@
               "body": "Gow",
               "key": "${link_0}",
               "target": {
-                "href": "Gow",
+                "external": false,
+                "href": "/wiki/Gow",
                 "page": "Gow"
               }
             }
@@ -115,7 +122,8 @@
               "body": "Kuvira",
               "key": "${link_0}",
               "target": {
-                "href": "Kuvira",
+                "external": false,
+                "href": "/wiki/Kuvira",
                 "page": "Kuvira"
               }
             }
@@ -138,7 +146,8 @@
               "body": "Earth Kingdom military",
               "key": "${link_0}",
               "target": {
-                "href": "Military_of_the_Earth_Kingdom",
+                "external": false,
+                "href": "/wiki/Military_of_the_Earth_Kingdom",
                 "page": "Military_of_the_Earth_Kingdom"
               }
             }
@@ -161,7 +170,8 @@
               "body": "Zuko Alone",
               "key": "${link_0}",
               "target": {
-                "href": "Zuko_Alone",
+                "external": false,
+                "href": "/wiki/Zuko_Alone",
                 "page": "Zuko_Alone"
               }
             }
@@ -175,18 +185,14 @@
   ],
   "paragraphs": [
     {
-      "body": "The term \"Plains village\" has not been confirmed by official sources.",
-      "links": [],
-      "text": "The term \"Plains village\" has not been confirmed by official sources."
-    },
-    {
       "body": "The plains village is a small, poor town ${link_0} in arid plains of the southern ${link_1}.",
       "links": [
         {
           "body": "located",
           "key": "${link_0}",
           "target": {
-            "href": "Geography_of_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Geography_of_the_World_of_Avatar",
             "page": "Geography_of_the_World_of_Avatar"
           }
         },
@@ -194,10 +200,14 @@
           "body": "Earth Kingdom",
           "key": "${link_1}",
           "target": {
-            "href": "Earth_Kingdom",
+            "external": false,
+            "href": "/wiki/Earth_Kingdom",
             "page": "Earth_Kingdom"
           }
         }
+      ],
+      "section": [
+        "Plains village"
       ],
       "text": "The plains village is a small, poor town located in arid plains of the southern Earth Kingdom."
     },
@@ -208,7 +218,8 @@
           "body": "Prince",
           "key": "${link_0}",
           "target": {
-            "href": "Heir_to_the_Fire_Lord",
+            "external": false,
+            "href": "/wiki/Heir_to_the_Fire_Lord",
             "page": "Heir_to_the_Fire_Lord"
           }
         },
@@ -216,7 +227,8 @@
           "body": "Zuko",
           "key": "${link_1}",
           "target": {
-            "href": "Zuko",
+            "external": false,
+            "href": "/wiki/Zuko",
             "page": "Zuko"
           }
         },
@@ -224,7 +236,8 @@
           "body": "AG",
           "key": "${link_2}",
           "target": {
-            "href": "History_of_the_World_of_Avatar#Dates",
+            "external": false,
+            "href": "/wiki/History_of_the_World_of_Avatar#Dates",
             "page": "History_of_the_World_of_Avatar"
           }
         },
@@ -232,7 +245,8 @@
           "body": "Gow",
           "key": "${link_3}",
           "target": {
-            "href": "Gow",
+            "external": false,
+            "href": "/wiki/Gow",
             "page": "Gow"
           }
         },
@@ -240,7 +254,8 @@
           "body": "Lee",
           "key": "${link_4}",
           "target": {
-            "href": "Lee",
+            "external": false,
+            "href": "/wiki/Lee",
             "page": "Lee"
           }
         },
@@ -248,7 +263,8 @@
           "body": "army",
           "key": "${link_5}",
           "target": {
-            "href": "Military_of_the_Earth_Kingdom",
+            "external": false,
+            "href": "/wiki/Military_of_the_Earth_Kingdom",
             "page": "Military_of_the_Earth_Kingdom"
           }
         },
@@ -256,7 +272,8 @@
           "body": "Fire Nation",
           "key": "${link_6}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         },
@@ -264,10 +281,15 @@
           "body": "firebending",
           "key": "${link_7}",
           "target": {
-            "href": "Firebending",
+            "external": false,
+            "href": "/wiki/Firebending",
             "page": "Firebending"
           }
         }
+      ],
+      "section": [
+        "Plains village",
+        "History"
       ],
       "text": "Prince Zuko visited the plains village during his travels in the Earth Kingdom in 100 AG, where he quickly made enemies with Gow and his gang. He befriended Lee while there, and he and his family gave him a place to stay for the night. When Gow began to harass Lee's family, Zuko came to their defense. The corrupt soldier later kidnapped Lee, wishing to force him into the army, which prompted Zuko to face him in order to protect his young friend. During the fight, Zuko revealed that he was the banished prince of the Fire Nation when he used firebending to attack Gow, which in turn caused Lee and the whole village to shun him, leaving Zuko alone once again."
     },
@@ -278,7 +300,8 @@
           "body": "Kuvira",
           "key": "${link_0}",
           "target": {
-            "href": "Kuvira",
+            "external": false,
+            "href": "/wiki/Kuvira",
             "page": "Kuvira"
           }
         },
@@ -286,7 +309,8 @@
           "body": "Earth Empire",
           "key": "${link_1}",
           "target": {
-            "href": "Military_of_the_Earth_Empire",
+            "external": false,
+            "href": "/wiki/Military_of_the_Earth_Empire",
             "page": "Military_of_the_Earth_Empire"
           }
         },
@@ -294,7 +318,8 @@
           "body": "annex",
           "key": "${link_2}",
           "target": {
-            "href": "Invasion_of_the_United_Republic_of_Nations",
+            "external": false,
+            "href": "/wiki/Invasion_of_the_United_Republic_of_Nations",
             "page": "Invasion_of_the_United_Republic_of_Nations"
           }
         },
@@ -302,10 +327,15 @@
           "body": "United Republic of Nations",
           "key": "${link_3}",
           "target": {
-            "href": "United_Republic_of_Nations",
+            "external": false,
+            "href": "/wiki/United_Republic_of_Nations",
             "page": "United_Republic_of_Nations"
           }
         }
+      ],
+      "section": [
+        "Plains village",
+        "History"
       ],
       "text": "Sometime during 171 and 174 AG, Kuvira annexed this village as part of her Earth Empire, and it remained under her control until she was arrested in 174 AG following her failed attempt to annex the United Republic of Nations."
     },
@@ -316,7 +346,8 @@
           "body": "Si Wong Desert",
           "key": "${link_0}",
           "target": {
-            "href": "Si_Wong_Desert",
+            "external": false,
+            "href": "/wiki/Si_Wong_Desert",
             "page": "Si_Wong_Desert"
           }
         },
@@ -324,7 +355,8 @@
           "body": "citizens",
           "key": "${link_1}",
           "target": {
-            "href": "Society_in_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Society_in_the_World_of_Avatar",
             "page": "Society_in_the_World_of_Avatar"
           }
         },
@@ -332,7 +364,8 @@
           "body": "food",
           "key": "${link_2}",
           "target": {
-            "href": "Cuisine_in_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Cuisine_in_the_World_of_Avatar",
             "page": "Cuisine_in_the_World_of_Avatar"
           }
         },
@@ -340,7 +373,8 @@
           "body": "money",
           "key": "${link_3}",
           "target": {
-            "href": "Currency",
+            "external": false,
+            "href": "/wiki/Currency",
             "page": "Currency"
           }
         },
@@ -348,7 +382,8 @@
           "body": "Sensu",
           "key": "${link_4}",
           "target": {
-            "href": "Sensu",
+            "external": false,
+            "href": "/wiki/Sensu",
             "page": "Sensu"
           }
         },
@@ -356,10 +391,15 @@
           "body": "Hundred Year War",
           "key": "${link_5}",
           "target": {
-            "href": "Hundred_Year_War",
+            "external": false,
+            "href": "/wiki/Hundred_Year_War",
             "page": "Hundred_Year_War"
           }
         }
+      ],
+      "section": [
+        "Plains village",
+        "Layout and description"
       ],
       "text": "The plains village is located in the arid grasslands of the southern Earth Kingdom, to the west of the Si Wong Desert. It is not a particularly ideal place to live in and is home to several suspicious characters, including Gow, who, along with his gang of thugs, pass off as Earth Kingdom soldiers in order to force the citizens to yield to their will. They often forcefully enlist unwilling citizens into the Earth Kingdom Army and steal food and money from those they consider weak. The town is often forced to live in fear of this band. The citizens of the village seem to harbor a severe hatred for the Fire Nation, and several of its citizens, including Sensu, were fighting in the Hundred Year War at the time of Zuko's visit."
     },
@@ -370,12 +410,112 @@
           "body": "Lee Family Pig Farm",
           "key": "${link_0}",
           "target": {
-            "href": "Lee_Family_Pig_Farm",
+            "external": false,
+            "href": "/wiki/Lee_Family_Pig_Farm",
             "page": "Lee_Family_Pig_Farm"
           }
         }
       ],
+      "section": [
+        "Plains village",
+        "Layout and description"
+      ],
       "text": "The Lee Family Pig Farm is located outside of this village and was where a young boy named Lee lived with his parents."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lee",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lee",
+            "page": "Lee"
+          }
+        }
+      ],
+      "section": [
+        "Plains village",
+        "Notable figures"
+      ],
+      "text": "Lee"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gow",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Gow",
+            "page": "Gow"
+          }
+        }
+      ],
+      "section": [
+        "Plains village",
+        "Notable figures"
+      ],
+      "text": "Gow"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gansu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Gansu",
+            "page": "Gansu"
+          }
+        }
+      ],
+      "section": [
+        "Plains village",
+        "Notable figures"
+      ],
+      "text": "Gansu"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sensu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sensu",
+            "page": "Sensu"
+          }
+        }
+      ],
+      "section": [
+        "Plains village",
+        "Notable figures"
+      ],
+      "text": "Sensu"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sela",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sela",
+            "page": "Sela"
+          }
+        }
+      ],
+      "section": [
+        "Plains village",
+        "Notable figures"
+      ],
+      "text": "Sela"
     }
   ],
   "source": {

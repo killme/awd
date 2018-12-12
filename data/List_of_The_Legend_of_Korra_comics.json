@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comics",
       "target": {
-        "href": "Category_Comics",
+        "external": false,
+        "href": "/wiki/Category_Comics",
         "page": "Category_Comics"
       }
     },
     {
       "body": "Print publications",
       "target": {
-        "href": "Category_Print_publications",
+        "external": false,
+        "href": "/wiki/Category_Print_publications",
         "page": "Category_Print_publications"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -34,42 +38,76 @@
     {
       "body": "",
       "links": [],
-      "text": ""
-    },
-    {
-      "body": "${link_0} is featured in the official art for ${link_1}, the first graphic novel trilogy for ${link_2}.",
-      "links": [
-        {
-          "body": "Team Avatar",
-          "key": "${link_0}",
-          "target": {
-            "href": "Team_Avatar_(Korra)",
-            "page": "Team_Avatar_(Korra)"
-          }
-        },
-        {
-          "body": "Turf Wars",
-          "key": "${link_1}",
-          "target": {
-            "href": "Turf_Wars",
-            "page": "Turf_Wars"
-          }
-        },
-        {
-          "body": "The Legend of Korra",
-          "key": "${link_2}",
-          "target": {
-            "href": "The_Legend_of_Korra",
-            "page": "The_Legend_of_Korra"
-          }
-        }
+      "section": [
+        "List of The Legend of Korra comics"
       ],
-      "text": "Team Avatar is featured in the official art for Turf Wars, the first graphic novel trilogy for The Legend of Korra."
+      "text": ""
     },
     {
       "body": "The Legend of Korra comics are visual publications that depict events and situations unseen before and after the series' run.",
       "links": [],
+      "section": [
+        "List of The Legend of Korra comics"
+      ],
       "text": "The Legend of Korra comics are visual publications that depict events and situations unseen before and after the series' run."
+    },
+    {
+      "body": "Story: ${link_0}, and ${link_1}",
+      "links": [
+        {
+          "body": "Michael Dante DiMartino",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Michael_Dante_DiMartino",
+            "page": "Michael_Dante_DiMartino"
+          }
+        },
+        {
+          "body": "Bryan Konietzko",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bryan_Konietzko",
+            "page": "Bryan_Konietzko"
+          }
+        }
+      ],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Graphic novel trilogies",
+        "Turf Wars (2017)"
+      ],
+      "text": "Story: Michael Dante DiMartino, and Bryan Konietzko"
+    },
+    {
+      "body": "Art and color: ${link_0}, ${link_1}, and Jane Bak",
+      "links": [
+        {
+          "body": "Irene Koh",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Irene_Koh",
+            "page": "Irene_Koh"
+          }
+        },
+        {
+          "body": "Vivian Ng",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Vivian_Ng",
+            "page": "Vivian_Ng"
+          }
+        }
+      ],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Graphic novel trilogies",
+        "Turf Wars (2017)"
+      ],
+      "text": "Art and color: Irene Koh, Vivian Ng, and Jane Bak"
     },
     {
       "body": "Following their trip to the ${link_0}, ${link_1} and ${link_2} discover that ${link_3} has fallen into a state of utter chaos. In the aftermath of the devastation caused by the battle with ${link_4}'s ${link_5} and the opening of a ${link_6} in the middle of the city, a developer has moved to turn the portal and the surrounding area into an amusement park. In addition, as evacuees filter back into the city and discover the devastation, the regrouping of the city's triads creates yet another problem for the ${link_7} and ${link_8}.",
@@ -78,7 +116,8 @@
           "body": "Spirit World",
           "key": "${link_0}",
           "target": {
-            "href": "Spirit_World",
+            "external": false,
+            "href": "/wiki/Spirit_World",
             "page": "Spirit_World"
           }
         },
@@ -86,7 +125,8 @@
           "body": "Korra",
           "key": "${link_1}",
           "target": {
-            "href": "Korra",
+            "external": false,
+            "href": "/wiki/Korra",
             "page": "Korra"
           }
         },
@@ -94,7 +134,8 @@
           "body": "Asami Sato",
           "key": "${link_2}",
           "target": {
-            "href": "Asami_Sato",
+            "external": false,
+            "href": "/wiki/Asami_Sato",
             "page": "Asami_Sato"
           }
         },
@@ -102,7 +143,8 @@
           "body": "Republic City",
           "key": "${link_3}",
           "target": {
-            "href": "Republic_City",
+            "external": false,
+            "href": "/wiki/Republic_City",
             "page": "Republic_City"
           }
         },
@@ -110,7 +152,8 @@
           "body": "Kuvira",
           "key": "${link_4}",
           "target": {
-            "href": "Kuvira",
+            "external": false,
+            "href": "/wiki/Kuvira",
             "page": "Kuvira"
           }
         },
@@ -118,7 +161,8 @@
           "body": "forces",
           "key": "${link_5}",
           "target": {
-            "href": "Military_of_the_Earth_Empire",
+            "external": false,
+            "href": "/wiki/Military_of_the_Earth_Empire",
             "page": "Military_of_the_Earth_Empire"
           }
         },
@@ -126,7 +170,8 @@
           "body": "spirit portal",
           "key": "${link_6}",
           "target": {
-            "href": "Spirit_portal",
+            "external": false,
+            "href": "/wiki/Spirit_portal",
             "page": "Spirit_portal"
           }
         },
@@ -134,7 +179,8 @@
           "body": "Avatar",
           "key": "${link_7}",
           "target": {
-            "href": "Avatar",
+            "external": false,
+            "href": "/wiki/Avatar",
             "page": "Avatar"
           }
         },
@@ -142,12 +188,76 @@
           "body": "her friends",
           "key": "${link_8}",
           "target": {
-            "href": "Team_Avatar_(Korra)",
+            "external": false,
+            "href": "/wiki/Team_Avatar_(Korra)",
             "page": "Team_Avatar_(Korra)"
           }
         }
       ],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Graphic novel trilogies",
+        "Turf Wars (2017)"
+      ],
       "text": "Following their trip to the Spirit World, Korra and Asami Sato discover that Republic City has fallen into a state of utter chaos. In the aftermath of the devastation caused by the battle with Kuvira's forces and the opening of a spirit portal in the middle of the city, a developer has moved to turn the portal and the surrounding area into an amusement park. In addition, as evacuees filter back into the city and discover the devastation, the regrouping of the city's triads creates yet another problem for the Avatar and her friends."
+    },
+    {
+      "body": "Story: ${link_0}, and ${link_1}",
+      "links": [
+        {
+          "body": "Michael Dante DiMartino",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Michael_Dante_DiMartino",
+            "page": "Michael_Dante_DiMartino"
+          }
+        },
+        {
+          "body": "Bryan Konietzko",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bryan_Konietzko",
+            "page": "Bryan_Konietzko"
+          }
+        }
+      ],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Graphic novel trilogies",
+        "Ruins of the Empire (2019)"
+      ],
+      "text": "Story: Michael Dante DiMartino, and Bryan Konietzko"
+    },
+    {
+      "body": "Art and color: ${link_0} and ${link_1}",
+      "links": [
+        {
+          "body": "Michelle Wong",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Michelle_Wong",
+            "page": "Michelle_Wong"
+          }
+        },
+        {
+          "body": "Vivian Ng",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Vivian_Ng",
+            "page": "Vivian_Ng"
+          }
+        }
+      ],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Graphic novel trilogies",
+        "Ruins of the Empire (2019)"
+      ],
+      "text": "Art and color: Michelle Wong and Vivian Ng"
     },
     {
       "body": "Korra must decide whom to trust as the fate of the ${link_0} hangs in the balance! On the eve of its first elections, the Earth Kingdom finds its future endangered by its past. Even as Kuvira stands trial for her crimes, vestiges of her imperial ambitions threaten to undermine the nation's democratic hopes. But when Korra, Asami, ${link_1}, and ${link_2} don't all see eye-to-eye as to the solution, drastic measures will be taken to halt a new march to war!",
@@ -156,7 +266,8 @@
           "body": "Earth Kingdom",
           "key": "${link_0}",
           "target": {
-            "href": "Earth_Kingdom",
+            "external": false,
+            "href": "/wiki/Earth_Kingdom",
             "page": "Earth_Kingdom"
           }
         },
@@ -164,7 +275,8 @@
           "body": "Mako",
           "key": "${link_1}",
           "target": {
-            "href": "Mako",
+            "external": false,
+            "href": "/wiki/Mako",
             "page": "Mako"
           }
         },
@@ -172,42 +284,78 @@
           "body": "Bolin",
           "key": "${link_2}",
           "target": {
-            "href": "Bolin",
+            "external": false,
+            "href": "/wiki/Bolin",
             "page": "Bolin"
           }
         }
       ],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Graphic novel trilogies",
+        "Ruins of the Empire (2019)"
+      ],
       "text": "Korra must decide whom to trust as the fate of the Earth Kingdom hangs in the balance! On the eve of its first elections, the Earth Kingdom finds its future endangered by its past. Even as Kuvira stands trial for her crimes, vestiges of her imperial ambitions threaten to undermine the nation's democratic hopes. But when Korra, Asami, Mako, and Bolin don't all see eye-to-eye as to the solution, drastic measures will be taken to halt a new march to war!"
     },
     {
-      "body": "The cover for the 2016 Free Comic Book Day Avatar issue, \"${link_0}\", features ${link_1} and ${link_2}.",
+      "body": "Story: ${link_0}",
       "links": [
         {
-          "body": "Friends for Life",
+          "body": "Michael Dante DiMartino",
           "key": "${link_0}",
           "target": {
-            "href": "Friends_for_Life",
-            "page": "Friends_for_Life"
-          }
-        },
-        {
-          "body": "Korra",
-          "key": "${link_1}",
-          "target": {
-            "href": "Korra",
-            "page": "Korra"
-          }
-        },
-        {
-          "body": "Naga",
-          "key": "${link_2}",
-          "target": {
-            "href": "Naga",
-            "page": "Naga"
+            "external": false,
+            "href": "/wiki/Michael_Dante_DiMartino",
+            "page": "Michael_Dante_DiMartino"
           }
         }
       ],
-      "text": "The cover for the 2016 Free Comic Book Day Avatar issue, \"Friends for Life\", features Korra and Naga."
+      "section": [
+        "List of The Legend of Korra comics",
+        "Free Comic Book Day minicomics",
+        "Friends for Life (2016)"
+      ],
+      "text": "Story: Michael Dante DiMartino"
+    },
+    {
+      "body": "Art: Heather Campbell and ${link_0}",
+      "links": [
+        {
+          "body": "Vivian Ng",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Vivian_Ng",
+            "page": "Vivian_Ng"
+          }
+        }
+      ],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Free Comic Book Day minicomics",
+        "Friends for Life (2016)"
+      ],
+      "text": "Art: Heather Campbell and Vivian Ng"
+    },
+    {
+      "body": "Lettering: ${link_0}",
+      "links": [
+        {
+          "body": "Michael Heisler",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Michael_Heisler",
+            "page": "Michael_Heisler"
+          }
+        }
+      ],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Free Comic Book Day minicomics",
+        "Friends for Life (2016)"
+      ],
+      "text": "Lettering: Michael Heisler"
     },
     {
       "body": "As a child living in the ${link_0}, Korra finds a ${link_1} cub which has become separated from its pack during a storm. After naming it ${link_2}, ${link_3} convinces Korra's parents, ${link_4} and ${link_5}, to allow her to keep Naga, believing that Korra has found her animal guide.",
@@ -216,7 +364,8 @@
           "body": "Southern Water Tribe",
           "key": "${link_0}",
           "target": {
-            "href": "Southern_Water_Tribe",
+            "external": false,
+            "href": "/wiki/Southern_Water_Tribe",
             "page": "Southern_Water_Tribe"
           }
         },
@@ -224,7 +373,8 @@
           "body": "polar bear dog",
           "key": "${link_1}",
           "target": {
-            "href": "Polar_bear_dog",
+            "external": false,
+            "href": "/wiki/Polar_bear_dog",
             "page": "Polar_bear_dog"
           }
         },
@@ -232,7 +382,8 @@
           "body": "Naga",
           "key": "${link_2}",
           "target": {
-            "href": "Naga",
+            "external": false,
+            "href": "/wiki/Naga",
             "page": "Naga"
           }
         },
@@ -240,7 +391,8 @@
           "body": "Katara",
           "key": "${link_3}",
           "target": {
-            "href": "Katara",
+            "external": false,
+            "href": "/wiki/Katara",
             "page": "Katara"
           }
         },
@@ -248,7 +400,8 @@
           "body": "Tonraq",
           "key": "${link_4}",
           "target": {
-            "href": "Tonraq",
+            "external": false,
+            "href": "/wiki/Tonraq",
             "page": "Tonraq"
           }
         },
@@ -256,17 +409,133 @@
           "body": "Senna",
           "key": "${link_5}",
           "target": {
-            "href": "Senna",
+            "external": false,
+            "href": "/wiki/Senna",
             "page": "Senna"
           }
         }
       ],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Free Comic Book Day minicomics",
+        "Friends for Life (2016)"
+      ],
       "text": "As a child living in the Southern Water Tribe, Korra finds a polar bear dog cub which has become separated from its pack during a storm. After naming it Naga, Katara convinces Korra's parents, Tonraq and Senna, to allow her to keep Naga, believing that Korra has found her animal guide."
+    },
+    {
+      "body": "Story: Michael Dante DiMartino",
+      "links": [],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Free Comic Book Day minicomics",
+        "Lost Pets (2018)"
+      ],
+      "text": "Story: Michael Dante DiMartino"
+    },
+    {
+      "body": "Art: Jayd A\u00eft-Kaci and Vivian Ng",
+      "links": [],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Free Comic Book Day minicomics",
+        "Lost Pets (2018)"
+      ],
+      "text": "Art: Jayd A\u00eft-Kaci and Vivian Ng"
     },
     {
       "body": "Avatar Korra pairs up with an unlikely sidekick. When Meelo shirks his duties at the refugee camp, Korra recruits him for a top-secret, super-important mission: tracking down a pack of lost pets!",
       "links": [],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Free Comic Book Day minicomics",
+        "Lost Pets (2018)"
+      ],
       "text": "Avatar Korra pairs up with an unlikely sidekick. When Meelo shirks his duties at the refugee camp, Korra recruits him for a top-secret, super-important mission: tracking down a pack of lost pets!"
+    },
+    {
+      "body": "Comics for The Legend of Korra were initially announced by co-creators ${link_0} and ${link_1} during the 2015 San Diego Comic-Con, but due to delays in the development, a date was not announced until October 2016, which was pushed back again later.",
+      "links": [
+        {
+          "body": "Bryan Konietzko",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bryan_Konietzko",
+            "page": "Bryan_Konietzko"
+          }
+        },
+        {
+          "body": "Michael Dante DiMartino",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Michael_Dante_DiMartino",
+            "page": "Michael_Dante_DiMartino"
+          }
+        }
+      ],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Trivia"
+      ],
+      "text": "Comics for The Legend of Korra were initially announced by co-creators Bryan Konietzko and Michael Dante DiMartino during the 2015 San Diego Comic-Con, but due to delays in the development, a date was not announced until October 2016, which was pushed back again later."
+    },
+    {
+      "body": "The ${link_0} panel during the 2016 New York Comic Con offered the first concept art for the comics featuring Korra and Asami in the Spirit World.",
+      "links": [
+        {
+          "body": "Dark Horse Comics",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dark_Horse_Comics",
+            "page": "Dark_Horse_Comics"
+          }
+        }
+      ],
+      "section": [
+        "List of The Legend of Korra comics",
+        "Trivia"
+      ],
+      "text": "The Dark Horse Comics panel during the 2016 New York Comic Con offered the first concept art for the comics featuring Korra and Asami in the Spirit World."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "List of Avatar: The Last Airbender comics",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar__The_Last_Airbender_comics",
+            "page": "List_of_Avatar__The_Last_Airbender_comics"
+          }
+        }
+      ],
+      "section": [
+        "List of The Legend of Korra comics",
+        "See also"
+      ],
+      "text": "List of Avatar: The Last Airbender comics"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Lost Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Lost_Adventures",
+            "page": "The_Lost_Adventures"
+          }
+        }
+      ],
+      "section": [
+        "List of The Legend of Korra comics",
+        "See also"
+      ],
+      "text": "The Lost Adventures"
     }
   ],
   "source": {

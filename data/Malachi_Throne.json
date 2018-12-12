@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The DuPont Show of the Month (1959)",
+          "body": "${link_0} (1959)",
           "extra": "(1959)",
           "extra_text": "(1959)",
-          "links": [],
+          "links": [
+            {
+              "body": "The DuPont Show of the Month",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0050013",
+                "page": "http://www.imdb.com/find?q=tt0050013"
+              }
+            }
+          ],
           "text": "The DuPont Show of the Month (1959)",
-          "value": "The DuPont Show of the Month",
+          "value": "${link_0}",
           "value_text": "The DuPont Show of the Month"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0861943",
+                "page": "http://www.imdb.com/find?q=nm0861943"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Malachi_Throne",
+                "page": "http://en.wikipedia.org/wiki/Malachi_Throne"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.timem.com/starwebs/malachithrone/index.htm",
+                "page": "http://www.timem.com/starwebs/malachithrone/index.htm"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -100,8 +143,352 @@
   ],
   "paragraphs": [
     {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Avatar: The Last Airbender credits",
+        "Mongke"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Avatar: The Last Airbender credits",
+        "Mongke"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Babylon 5",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0062572",
+            "page": "http://www.imdb.com/find?q=tt0062572"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Babylon 5"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hawaii Five-O",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0062568",
+            "page": "http://www.imdb.com/find?q=tt0062568"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hawaii Five-O"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "It Takes a Thief",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0062572",
+            "page": "http://www.imdb.com/find?q=tt0062572"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "It Takes a Thief"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kojak",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0069599",
+            "page": "http://www.imdb.com/find?q=tt0069599"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kojak"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0060028",
+            "page": "http://www.imdb.com/find?q=tt0060028"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Six Million Dollar Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0071054",
+            "page": "http://www.imdb.com/find?q=tt0071054"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Six Million Dollar Man"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Visionaries: Knights of the Magical Light",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092476",
+            "page": "http://www.imdb.com/find?q=tt0092476"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Visionaries: Knights of the Magical Light"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Catch Me If You Can",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0264464",
+            "page": "http://www.imdb.com/find?q=tt0264464"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Catch Me If You Can (2002)"
+    },
+    {
+      "body": "${link_0} (1992)",
+      "links": [
+        {
+          "body": "Primary Motive",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105173",
+            "page": "http://www.imdb.com/find?q=tt0105173"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Primary Motive (1992)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "Eat and Run",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090992",
+            "page": "http://www.imdb.com/find?q=tt0090992"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Eat and Run (1986)"
+    },
+    {
+      "body": "${link_0} (1977)",
+      "links": [
+        {
+          "body": "Stunts",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0076776",
+            "page": "http://www.imdb.com/find?q=tt0076776"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stunts (1977)"
+    },
+    {
+      "body": "${link_0} (1977)",
+      "links": [
+        {
+          "body": "The Greatest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0076111",
+            "page": "http://www.imdb.com/find?q=tt0076111"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Greatest (1977)"
+    },
+    {
+      "body": "${link_0} (1973)",
+      "links": [
+        {
+          "body": "Frasier, the Sensuous Lion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0070075",
+            "page": "http://www.imdb.com/find?q=tt0070075"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Frasier, the Sensuous Lion (1973)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Gothic 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0891492",
+            "page": "http://www.imdb.com/find?q=tt0891492"
+          }
+        }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Gothic 3 (video game)"
+    },
+    {
       "body": "As of 2007, Malachi Throne lived in southern California and did local theater work there. Throne was a member of the Theater West company in Hollywood, where he was scheduled to appear in Morning's at Seven. He also won critical acclaim for several performances with The Fountain Theater, based in Los Angeles.",
       "links": [],
+      "section": [
+        "Malachi Throne",
+        "Biographical information"
+      ],
       "text": "As of 2007, Malachi Throne lived in southern California and did local theater work there. Throne was a member of the Theater West company in Hollywood, where he was scheduled to appear in Morning's at Seven. He also won critical acclaim for several performances with The Fountain Theater, based in Los Angeles."
     },
     {
@@ -111,10 +498,15 @@
           "body": "Zach Throne",
           "key": "${link_0}",
           "target": {
-            "href": "Zach_Throne",
+            "external": false,
+            "href": "/wiki/Zach_Throne",
             "page": "Zach_Throne"
           }
         }
+      ],
+      "section": [
+        "Malachi Throne",
+        "Biographical information"
       ],
       "text": "He had two sons, also in show business: Zach Throne, an actor/musician, and Joshua Throne, a producer/unit production manager."
     }

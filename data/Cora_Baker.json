@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -35,7 +38,8 @@
               "body": "The Legend of Korra",
               "key": "${link_0}",
               "target": {
-                "href": "The_Legend_of_Korra",
+                "external": false,
+                "href": "/wiki/The_Legend_of_Korra",
                 "page": "The_Legend_of_Korra"
               }
             }
@@ -50,18 +54,69 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm4959590",
+                "page": "http://www.imdb.com/find?q=nm4959590"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Cora Baker",
+        "The Legend of Korra credits",
+        "Young Korra"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "210. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A New Spiritual Age",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_New_Spiritual_Age",
+            "page": "A_New_Spiritual_Age"
+          }
+        }
+      ],
+      "section": [
+        "Cora Baker",
+        "The Legend of Korra credits",
+        "Young Korra"
+      ],
+      "text": "210. \"A New Spiritual Age\""
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Cora_Baker",
     "file": "avatar.wikia.com/wiki/Cora_Baker.html",

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Bad Boys (1983)",
+          "body": "${link_0} (1983)",
           "extra": "(1983)",
           "extra_text": "(1983)",
-          "links": [],
+          "links": [
+            {
+              "body": "Bad Boys",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0085210",
+                "page": "http://www.imdb.com/find?q=tt0085210"
+              }
+            }
+          ],
           "text": "Bad Boys (1983)",
-          "value": "Bad Boys",
+          "value": "${link_0}",
           "value_text": "Bad Boys"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0000317",
+                "page": "http://www.imdb.com/find?q=nm0000317"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Clancy_Brown",
+                "page": "http://en.wikipedia.org/wiki/Clancy_Brown"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.clancybrown.com/",
+                "page": "http://www.clancybrown.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/ClancyBrownNews",
+                "page": "https://twitter.com/ClancyBrownNews"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,13 +162,763 @@
   ],
   "paragraphs": [
     {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "City of Walls and Secrets",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/City_of_Walls_and_Secrets",
+            "page": "City_of_Walls_and_Secrets"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Avatar: The Last Airbender credits",
+        "Bosco"
+      ],
+      "text": "214. \"City of Walls and Secrets\""
+    },
+    {
+      "body": "218. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_King",
+            "page": "The_Earth_King"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Avatar: The Last Airbender credits",
+        "Bosco"
+      ],
+      "text": "218. \"The Earth King\""
+    },
+    {
+      "body": "219. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guru",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guru",
+            "page": "The_Guru"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Avatar: The Last Airbender credits",
+        "Bosco"
+      ],
+      "text": "219. \"The Guru\""
+    },
+    {
+      "body": "220. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Crossroads of Destiny",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Crossroads_of_Destiny",
+            "page": "The_Crossroads_of_Destiny"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Avatar: The Last Airbender credits",
+        "Bosco"
+      ],
+      "text": "220. \"The Crossroads of Destiny\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "City of Walls and Secrets",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/City_of_Walls_and_Secrets",
+            "page": "City_of_Walls_and_Secrets"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Avatar: The Last Airbender credits",
+        "Long Feng"
+      ],
+      "text": "214. \"City of Walls and Secrets\""
+    },
+    {
+      "body": "217. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lake Laogai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai_(episode)",
+            "page": "Lake_Laogai_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Avatar: The Last Airbender credits",
+        "Long Feng"
+      ],
+      "text": "217. \"Lake Laogai\""
+    },
+    {
+      "body": "218. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_King",
+            "page": "The_Earth_King"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Avatar: The Last Airbender credits",
+        "Long Feng"
+      ],
+      "text": "218. \"The Earth King\""
+    },
+    {
+      "body": "219. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guru",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guru",
+            "page": "The_Guru"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Avatar: The Last Airbender credits",
+        "Long Feng"
+      ],
+      "text": "219. \"The Guru\""
+    },
+    {
+      "body": "220. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Crossroads of Destiny",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Crossroads_of_Destiny",
+            "page": "The_Crossroads_of_Destiny"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Avatar: The Last Airbender credits",
+        "Long Feng"
+      ],
+      "text": "220. \"The Crossroads of Destiny\""
+    },
+    {
+      "body": "220. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Crossroads of Destiny",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Crossroads_of_Destiny",
+            "page": "The_Crossroads_of_Destiny"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "220. \"The Crossroads of Destiny\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "The Legend of Korra credits",
+        "Yakone"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Skeletons in the Closet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
+            "page": "Skeletons_in_the_Closet"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "The Legend of Korra credits",
+        "Yakone"
+      ],
+      "text": "111. \"Skeletons in the Closet\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Skeletons in the Closet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
+            "page": "Skeletons_in_the_Closet"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "111. \"Skeletons in the Closet\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Carniv\u00e0le",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0319969",
+            "page": "http://www.imdb.com/find?q=tt0319969"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Carniv\u00e0le"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Earth 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108758",
+            "page": "http://www.imdb.com/find?q=tt0108758"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Earth 2"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ER",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108757",
+            "page": "http://www.imdb.com/find?q=tt0108757"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ER"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jackie Chan Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0259141",
+            "page": "http://www.imdb.com/find?q=tt0259141"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jackie Chan Adventures"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Justice League",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275137",
+            "page": "http://www.imdb.com/find?q=tt0275137"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Justice League"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mortal Kombat: Defenders of the Realm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0122355",
+            "page": "http://www.imdb.com/find?q=tt0122355"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mortal Kombat: Defenders of the Realm"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "SpongeBob Squarepants",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0206512",
+            "page": "http://www.imdb.com/find?q=tt0206512"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "SpongeBob Squarepants"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Super Robot Monkey Team Hyperforce Go!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0423746",
+            "page": "http://www.imdb.com/find?q=tt0423746"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Super Robot Monkey Team Hyperforce Go!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Superman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115378",
+            "page": "http://www.imdb.com/find?q=tt0115378"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Superman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Spectacular Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0976192",
+            "page": "http://www.imdb.com/find?q=tt0976192"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Spectacular Spider-Man"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Green Lantern",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1133985",
+            "page": "http://www.imdb.com/find?q=tt1133985"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Green Lantern (2011)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Cowboys and Aliens",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0409847",
+            "page": "http://www.imdb.com/find?q=tt0409847"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cowboys and Aliens (2011)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "The SpongeBob SquarePants Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0345950",
+            "page": "http://www.imdb.com/find?q=tt0345950"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The SpongeBob SquarePants Movie (2004)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Starship Troopers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120201",
+            "page": "http://www.imdb.com/find?q=tt0120201"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Starship Troopers (1997)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "The Shawshank Redemption",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111161",
+            "page": "http://www.imdb.com/find?q=tt0111161"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Shawshank Redemption (1994)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "Highlander",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0091203",
+            "page": "http://www.imdb.com/find?q=tt0091203"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Highlander (1986)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender - The Burning Earth",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1459461",
+            "page": "http://www.imdb.com/find?q=tt1459461"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Last Airbender - The Burning Earth (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crash Bandicoot: Warped",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0181422",
+            "page": "http://www.imdb.com/find?q=tt0181422"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crash Bandicoot: Warped (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "God of War III",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1199781",
+            "page": "http://www.imdb.com/find?q=tt1199781"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "God of War III (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Jak II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0384222",
+            "page": "http://www.imdb.com/find?q=tt0384222"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Jak II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Saints Row",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0477848",
+            "page": "http://www.imdb.com/find?q=tt0477848"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Saints Row (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Bounty Hunter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0328475",
+            "page": "http://www.imdb.com/find?q=tt0328475"
+          }
+        }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Bounty Hunter (video game)"
+    },
+    {
       "body": "Brown's mother Joyce was a conductor, composer, and concert pianist, while his father Bud was an Ohio Congressman and chairman of the board of the Brown Publishing Company, the family-owned newspaper business started by his grandfather, Congressman Clarence J. Brown. He graduated from St. Albans School in Washington, D.C., and earned a scholarship to Northwestern University, where he became a member of the Sigma Chi Fraternity. He was inspired to become an actor by a neighbor who showed him Shakespeare's works.",
       "links": [],
+      "section": [
+        "Clancy Brown",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Brown's mother Joyce was a conductor, composer, and concert pianist, while his father Bud was an Ohio Congressman and chairman of the board of the Brown Publishing Company, the family-owned newspaper business started by his grandfather, Congressman Clarence J. Brown. He graduated from St. Albans School in Washington, D.C., and earned a scholarship to Northwestern University, where he became a member of the Sigma Chi Fraternity. He was inspired to become an actor by a neighbor who showed him Shakespeare's works."
     },
     {
       "body": "Brown has been married to Jeanne Johnson since 1993; they have two children.",
       "links": [],
+      "section": [
+        "Clancy Brown",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Brown has been married to Jeanne Johnson since 1993; they have two children."
     },
     {
@@ -125,7 +928,8 @@
           "body": "Mae Whitman",
           "key": "${link_0}",
           "target": {
-            "href": "Mae_Whitman",
+            "external": false,
+            "href": "/wiki/Mae_Whitman",
             "page": "Mae_Whitman"
           }
         },
@@ -133,7 +937,8 @@
           "body": "Dante Basco",
           "key": "${link_1}",
           "target": {
-            "href": "Dante_Basco",
+            "external": false,
+            "href": "/wiki/Dante_Basco",
             "page": "Dante_Basco"
           }
         },
@@ -141,7 +946,8 @@
           "body": "Lauren Tom",
           "key": "${link_2}",
           "target": {
-            "href": "Lauren_Tom",
+            "external": false,
+            "href": "/wiki/Lauren_Tom",
             "page": "Lauren_Tom"
           }
         },
@@ -149,16 +955,27 @@
           "body": "Keone Young",
           "key": "${link_3}",
           "target": {
-            "href": "Keone_Young",
+            "external": false,
+            "href": "/wiki/Keone_Young",
             "page": "Keone_Young"
           }
         }
+      ],
+      "section": [
+        "Clancy Brown",
+        "Biographical information",
+        "Career"
       ],
       "text": "Brown is known for voicing Mr. Krabs in SpongeBob Squarepants, playing Byron Hadley in The Shawshank Redemption, Drill Sargent Zim in Starship Troopers, Lex Luthor in the DC Animated Universe, and Captain Black in Jackie Chan Adventures. He also voiced the Dark Dragon in American Dragon: Jake Long alongside other Avatar voice actors including Mae Whitman, Dante Basco, Lauren Tom, and Keone Young. He is also the voice of Destro in the animated series G.I. Joe: Renegades, Mr. Freeze in The Batman, Rhino in The Spectacular Spider Man, Savage Oppress in Star Wars: The Clone Wars, Odin in The Avengers: Earth's Mightiest Heroes, and the Thunder God Rayden in Mortal Kombat: Defenders Of The Realm. He also voices Silas in Transformers Prime."
     },
     {
       "body": "In live action films, he has played a variety of villains, the most notable of these being The Kurgan, the immortal foe of Connor Macleod in the first Highlander film. He also played Meacham in the sci-fi action film Cowboys and Aliens.",
       "links": [],
+      "section": [
+        "Clancy Brown",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In live action films, he has played a variety of villains, the most notable of these being The Kurgan, the immortal foe of Connor Macleod in the first Highlander film. He also played Meacham in the sci-fi action film Cowboys and Aliens."
     }
   ],

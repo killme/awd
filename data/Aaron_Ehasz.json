@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Mission Hill (2000)",
+          "body": "${link_0} (2000)",
           "extra": "(2000)",
           "extra_text": "(2000)",
-          "links": [],
+          "links": [
+            {
+              "body": "Mission Hill",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0197148",
+                "page": "http://www.imdb.com/find?q=tt0197148"
+              }
+            }
+          ],
           "text": "Mission Hill (2000)",
-          "value": "Mission Hill",
+          "value": "${link_0}",
           "value_text": "Mission Hill"
         }
       ]
@@ -41,30 +54,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1132209",
+                "page": "http://www.imdb.com/find?q=nm1132209"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Aaron_Ehasz",
+                "page": "http://en.wikipedia.org/wiki/Aaron_Ehasz"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/ehasz",
+                "page": "http://www.facebook.com/ehasz"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -72,8 +115,392 @@
   ],
   "paragraphs": [
     {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boy in the Iceberg",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boy_in_the_Iceberg",
+            "page": "The_Boy_in_the_Iceberg"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "101. \"The Boy in the Iceberg\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_Returns",
+            "page": "The_Avatar_Returns"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "102. \"The Avatar Returns\""
+    },
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Winter Solstice, Part 1: The Spirit World",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Winter_Solstice%2c_Part_1__The_Spirit_World",
+            "page": "Winter_Solstice%2c_Part_1__The_Spirit_World"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "107. \"Winter Solstice, Part 1: The Spirit World\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "114. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Fortuneteller",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Fortuneteller",
+            "page": "The_Fortuneteller"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "114. \"The Fortuneteller\""
+    },
+    {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "209. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bitter Work",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bitter_Work",
+            "page": "Bitter_Work"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "209. \"Bitter Work\""
+    },
+    {
+      "body": "220. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Crossroads of Destiny",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Crossroads_of_Destiny",
+            "page": "The_Crossroads_of_Destiny"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "220. \"The Crossroads of Destiny\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Awakening",
+            "page": "The_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "301. \"The Awakening\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "319. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 2: The Old Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_2__The_Old_Masters",
+            "page": "Sozin%27s_Comet%2c_Part_2__The_Old_Masters"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "319. \"Sozin's Comet, Part 2: The Old Masters\""
+    },
+    {
+      "body": "Iss. #13. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Going Home Again",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Going_Home_Again",
+            "page": "Going_Home_Again"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #13. \"Going Home Again\""
+    },
+    {
+      "body": "Iss. #14. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Bridge",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Bridge",
+            "page": "The_Bridge"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #14. \"The Bridge\""
+    },
+    {
+      "body": "${link_0} (executive story editor and writer)",
+      "links": [
+        {
+          "body": "Ed",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247091",
+            "page": "http://www.imdb.com/find?q=tt0247091"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ed (executive story editor and writer)"
+    },
+    {
+      "body": "${link_0} (writer and staff writer)",
+      "links": [
+        {
+          "body": "Futurama",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0149460",
+            "page": "http://www.imdb.com/find?q=tt0149460"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Futurama (writer and staff writer)"
+    },
+    {
+      "body": "${link_0} (supervising producer and writer)",
+      "links": [
+        {
+          "body": "Sit Down, Shut Up",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1232266",
+            "page": "http://www.imdb.com/find?q=tt1232266"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sit Down, Shut Up (supervising producer and writer)"
+    },
+    {
+      "body": "${link_0} (co-producer)",
+      "links": [
+        {
+          "body": "The Mullets",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0367371",
+            "page": "http://www.imdb.com/find?q=tt0367371"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Mullets (co-producer)"
+    },
+    {
       "body": "Ehasz began his writing career in 2000, working as a staff writer on Ed and Mission Hill. In 2001, he took a position as story editor on Matt Groening's animated series Futurama, working there until its cancellation in 2003; he later returned to the writing staff when it was revived by Comedy Central in 2009. In the same year, he also wrote an episode of the American version of Sit Down, Shut Up. In 2007, he was nominated for an Emmy award for his work on the second season of Avatar: The Last Airbender.",
       "links": [],
+      "section": [
+        "Aaron Ehasz",
+        "Career"
+      ],
       "text": "Ehasz began his writing career in 2000, working as a staff writer on Ed and Mission Hill. In 2001, he took a position as story editor on Matt Groening's animated series Futurama, working there until its cancellation in 2003; he later returned to the writing staff when it was revived by Comedy Central in 2009. In the same year, he also wrote an episode of the American version of Sit Down, Shut Up. In 2007, he was nominated for an Emmy award for his work on the second season of Avatar: The Last Airbender."
     },
     {
@@ -83,10 +510,15 @@
           "body": "Giancarlo Volpe",
           "key": "${link_0}",
           "target": {
-            "href": "Giancarlo_Volpe",
+            "external": false,
+            "href": "/wiki/Giancarlo_Volpe",
             "page": "Giancarlo_Volpe"
           }
         }
+      ],
+      "section": [
+        "Aaron Ehasz",
+        "Career"
       ],
       "text": "In the years following, he worked as creative director at Riot Games before leaving the company in 2016. He subsequently founded entertainment start-up Wonderstorm with two colleagues, focusing on video games and TV animation; also on the team at the studio is former Avatar director Giancarlo Volpe. Ehasz and his colleagues begun work on an original series in partnership with Netflix, which is called The Dragon Prince and released on September 14, 2018. The team is also working on a Triple-A video game set in the same world as the series."
     }

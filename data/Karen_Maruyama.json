@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Odd Birds (1985)",
+          "body": "${link_0} (1985)",
           "extra": "(1985)",
           "extra_text": "(1985)",
-          "links": [],
+          "links": [
+            {
+              "body": "Odd Birds",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0089719",
+                "page": "http://www.imdb.com/find?q=tt0089719"
+              }
+            }
+          ],
           "text": "Odd Birds (1985)",
-          "value": "Odd Birds",
+          "value": "${link_0}",
           "value_text": "Odd Birds"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0555462",
+                "page": "http://www.imdb.com/find?q=nm0555462"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Karen_Maruyama",
+                "page": "http://en.wikipedia.org/wiki/Karen_Maruyama"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/people/Karen-Maruyama/675633057",
+                "page": "http://www.facebook.com/people/Karen-Maruyama/675633057"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/KarenMaruyama",
+                "page": "https://twitter.com/KarenMaruyama"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,13 +148,381 @@
   ],
   "paragraphs": [
     {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Serpent's Pass",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Serpent%27s_Pass",
+            "page": "The_Serpent%27s_Pass"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Avatar: The Last Airbender credits",
+        "Passport attendant"
+      ],
+      "text": "212. \"The Serpent's Pass\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "American Dad!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397306",
+            "page": "http://www.imdb.com/find?q=tt0397306"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Dad!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ghost Whisperer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460644",
+            "page": "http://www.imdb.com/find?q=tt0460644"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ghost Whisperer"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Strip Mall",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0227956",
+            "page": "http://www.imdb.com/find?q=tt0227956"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Strip Mall"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Suddenly Susan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115376",
+            "page": "http://www.imdb.com/find?q=tt0115376"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Suddenly Susan"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Jamie Foxx Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115221",
+            "page": "http://www.imdb.com/find?q=tt0115221"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Jamie Foxx Show"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Neighbors",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2182229",
+            "page": "http://www.imdb.com/find?q=tt2182229"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Neighbors"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wanda at Large",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0353113",
+            "page": "http://www.imdb.com/find?q=tt0353113"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wanda at Large"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "Coco Lipshitz: Behind the Laughter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1429018",
+            "page": "http://www.imdb.com/find?q=tt1429018"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Coco Lipshitz: Behind the Laughter (2009; short)"
+    },
+    {
+      "body": "${link_0} (2007; short)",
+      "links": [
+        {
+          "body": "Day Stripper",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1117969",
+            "page": "http://www.imdb.com/find?q=tt1117969"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Day Stripper (2007; short)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "The Bucket List",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0825232",
+            "page": "http://www.imdb.com/find?q=tt0825232"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Bucket List (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Cook-Off!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0493407",
+            "page": "http://www.imdb.com/find?q=tt0493407"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cook-Off! (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "The Toy Warrior",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0363141",
+            "page": "http://www.imdb.com/find?q=tt0363141"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Toy Warrior (2005)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Dunston Checks In",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0116151",
+            "page": "http://www.imdb.com/find?q=tt0116151"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dunston Checks In (1996)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "The American President",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112346",
+            "page": "http://www.imdb.com/find?q=tt0112346"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The American President (1995)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "Pulp Fiction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110912",
+            "page": "http://www.imdb.com/find?q=tt0110912"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pulp Fiction (1994)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Blade Runner",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0126817",
+            "page": "http://www.imdb.com/find?q=tt0126817"
+          }
+        }
+      ],
+      "section": [
+        "Karen Maruyama",
+        "Selected other credits",
+        "Other Credits"
+      ],
+      "text": "Blade Runner (video game)"
+    },
+    {
       "body": "Maruyama has appeared on TV in supporting roles in a number of sitcoms, including recurring characters on The Jamie Foxx Show, Strip Mall, and Suddenly Susan. She is also well known as an improv performer and instructor and is a member of The Groundlings, a major comedy improv group. She was a featured guest on both the American and British versions of Whose Line Is It Anyway? and also appeared as a parking lot attendant in an episode of Curb Your Enthusiasm. She also played a nurse on The Bucket List. She is part of the cast of The Jim Henson Company's live stage show Puppet Up!\u2014Uncensored, which has toured to Aspen, Las Vegas, Edinburgh, Sydney, and Melbourne and is currently appearing monthly at Avalon Hollywood.",
       "links": [],
+      "section": [
+        "Karen Maruyama",
+        "Biographical Information"
+      ],
       "text": "Maruyama has appeared on TV in supporting roles in a number of sitcoms, including recurring characters on The Jamie Foxx Show, Strip Mall, and Suddenly Susan. She is also well known as an improv performer and instructor and is a member of The Groundlings, a major comedy improv group. She was a featured guest on both the American and British versions of Whose Line Is It Anyway? and also appeared as a parking lot attendant in an episode of Curb Your Enthusiasm. She also played a nurse on The Bucket List. She is part of the cast of The Jim Henson Company's live stage show Puppet Up!\u2014Uncensored, which has toured to Aspen, Las Vegas, Edinburgh, Sydney, and Melbourne and is currently appearing monthly at Avalon Hollywood."
     },
     {
       "body": "Maruyama was also featured as a fashion victim in an episode of the makeover show How Do I Look? She appeared as a non-celebrity contestant on the 1984 CBS game show Body Language under the name Karen Upshaw, saying she was from Perris, California. She was paired with celebrity players Ted Lange and Constance Towers. She was also on The New $25,000 Pyramid in 1983 with Audrey Landers and Michael McKean.",
       "links": [],
+      "section": [
+        "Karen Maruyama",
+        "Biographical Information"
+      ],
       "text": "Maruyama was also featured as a fashion victim in an episode of the makeover show How Do I Look? She appeared as a non-celebrity contestant on the 1984 CBS game show Body Language under the name Karen Upshaw, saying she was from Perris, California. She was paired with celebrity players Ted Lange and Constance Towers. She was also on The New $25,000 Pyramid in 1983 with Audrey Landers and Michael McKean."
     }
   ],

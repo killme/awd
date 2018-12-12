@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Fear (2000)",
+          "body": "${link_0} (2000)",
           "extra": "(2000)",
           "extra_text": "(2000)",
-          "links": [],
+          "links": [
+            {
+              "body": "Fear",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0221741",
+                "page": "http://www.imdb.com/find?q=tt0221741"
+              }
+            }
+          ],
           "text": "Fear (2000)",
-          "value": "Fear",
+          "value": "${link_0}",
           "value_text": "Fear"
         }
       ]
@@ -41,27 +54,388 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0247063",
+                "page": "http://www.imdb.com/find?q=nm0247063"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/james_eagan",
+                "page": "https://twitter.com/james_eagan"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Scroll",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Scroll",
+            "page": "The_Waterbending_Scroll"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "109. \"The Waterbending Scroll\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "111. \"The Great Divide\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Avatar: The Last Airbender credits",
+        "Staff writer"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Avatar: The Last Airbender credits",
+        "Episode writer"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Dave and Steve's Video Game Explosion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0810559",
+            "page": "http://www.imdb.com/find?q=tt0810559"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dave and Steve's Video Game Explosion (writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Hellcats",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1596356",
+            "page": "http://www.imdb.com/find?q=tt1596356"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hellcats (writer)"
+    },
+    {
+      "body": "${link_0} (TV movie - writer)",
+      "links": [
+        {
+          "body": "Faces of Fear",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0402170",
+            "page": "http://www.imdb.com/find?q=tt0402170"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Faces of Fear (TV movie - writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Fear",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0221741",
+            "page": "http://www.imdb.com/find?q=tt0221741"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fear (writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Lil' Bush: Resident of the United States",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0913742",
+            "page": "http://www.imdb.com/find?q=tt0913742"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lil' Bush: Resident of the United States (writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Reaper",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0955322",
+            "page": "http://www.imdb.com/find?q=tt0955322"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Reaper (writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Saturday Night Live",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0072562",
+            "page": "http://www.imdb.com/find?q=tt0072562"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Saturday Night Live (writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "The Naked Trucker and T-Bones Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0804423",
+            "page": "http://www.imdb.com/find?q=tt0804423"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Naked Trucker and T-Bones Show (writer)"
+    },
+    {
+      "body": "${link_0} (TV movie - writer)",
+      "links": [
+        {
+          "body": "The Nick & Jessica Variety Hour",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0408034",
+            "page": "http://www.imdb.com/find?q=tt0408034"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Nick & Jessica Variety Hour (TV movie - writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "USA's Cannonball Run 2001",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292419",
+            "page": "http://www.imdb.com/find?q=tt0292419"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "USA's Cannonball Run 2001 (writer)"
+    },
+    {
+      "body": "${link_0} (writer)",
+      "links": [
+        {
+          "body": "Wedding Band",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1596356",
+            "page": "http://www.imdb.com/find?q=tt1596356"
+          }
+        }
+      ],
+      "section": [
+        "James Eagan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wedding Band (writer)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/James_Eagan",
     "file": "avatar.wikia.com/wiki/James_Eagan.html",

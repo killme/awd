@@ -3,35 +3,40 @@
     {
       "body": "Protected",
       "target": {
-        "href": "Category_Protected",
+        "external": false,
+        "href": "/wiki/Category_Protected",
         "page": "Category_Protected"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Film staff",
       "target": {
-        "href": "Category_Film_staff",
+        "external": false,
+        "href": "/wiki/Category_Film_staff",
         "page": "Category_Film_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -55,12 +60,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Praying with Anger (1992)",
+          "body": "${link_0} (1992)",
           "extra": "(1992)",
           "extra_text": "(1992)",
-          "links": [],
+          "links": [
+            {
+              "body": "Praying with Anger",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0105162",
+                "page": "http://www.imdb.com/find?q=tt0105162"
+              }
+            }
+          ],
           "text": "Praying with Anger (1992)",
-          "value": "Praying with Anger",
+          "value": "${link_0}",
           "value_text": "Praying with Anger"
         }
       ]
@@ -69,30 +84,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0796117",
+                "page": "http://www.imdb.com/find?q=nm0796117"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/M._Night_Shyamalan",
+                "page": "http://en.wikipedia.org/wiki/M._Night_Shyamalan"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/MNightShyamalan",
+                "page": "https://twitter.com/MNightShyamalan"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -100,18 +145,270 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0} (director and producer)",
+      "links": [
+        {
+          "body": "Wayward Pines",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2618986",
+            "page": "http://www.imdb.com/find?q=tt2618986"
+          }
+        }
+      ],
+      "section": [
+        "M. Night Shyamalan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wayward Pines (director and producer)"
+    },
+    {
+      "body": "${link_0} (2017 - director, producer, and writer)",
+      "links": [
+        {
+          "body": "Split",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4972582",
+            "page": "http://www.imdb.com/find?q=tt4972582"
+          }
+        }
+      ],
+      "section": [
+        "M. Night Shyamalan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Split (2017 - director, producer, and writer)"
+    },
+    {
+      "body": "${link_0} (2015 - director, producer, and writer)",
+      "links": [
+        {
+          "body": "The Visit",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3567288",
+            "page": "http://www.imdb.com/find?q=tt3567288"
+          }
+        }
+      ],
+      "section": [
+        "M. Night Shyamalan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Visit (2015 - director, producer, and writer)"
+    },
+    {
+      "body": "${link_0} (2013 - director, executive producer, and writer)",
+      "links": [
+        {
+          "body": "After Earth",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1815862",
+            "page": "http://www.imdb.com/find?q=tt1815862"
+          }
+        }
+      ],
+      "section": [
+        "M. Night Shyamalan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "After Earth (2013 - director, executive producer, and writer)"
+    },
+    {
+      "body": "${link_0} (2010- producer and writer)",
+      "links": [
+        {
+          "body": "Devil",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1314655",
+            "page": "http://www.imdb.com/find?q=tt1314655"
+          }
+        }
+      ],
+      "section": [
+        "M. Night Shyamalan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Devil (2010- producer and writer)"
+    },
+    {
+      "body": "${link_0} (2008 - actor, director, producer, and writer)",
+      "links": [
+        {
+          "body": "The Happening",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0949731",
+            "page": "http://www.imdb.com/find?q=tt0949731"
+          }
+        }
+      ],
+      "section": [
+        "M. Night Shyamalan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Happening (2008 - actor, director, producer, and writer)"
+    },
+    {
+      "body": "${link_0} (2006 - actor and director)",
+      "links": [
+        {
+          "body": "Lady in the Water",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0452637",
+            "page": "http://www.imdb.com/find?q=tt0452637"
+          }
+        }
+      ],
+      "section": [
+        "M. Night Shyamalan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lady in the Water (2006 - actor and director)"
+    },
+    {
+      "body": "${link_0} (2004 - actor, director, and producer)",
+      "links": [
+        {
+          "body": "The Village",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0368447",
+            "page": "http://www.imdb.com/find?q=tt0368447"
+          }
+        }
+      ],
+      "section": [
+        "M. Night Shyamalan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Village (2004 - actor, director, and producer)"
+    },
+    {
+      "body": "${link_0} (2002 - actor and director)",
+      "links": [
+        {
+          "body": "Signs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0286106",
+            "page": "http://www.imdb.com/find?q=tt0286106"
+          }
+        }
+      ],
+      "section": [
+        "M. Night Shyamalan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Signs (2002 - actor and director)"
+    },
+    {
+      "body": "${link_0} (2000 - actor, director, and writer)",
+      "links": [
+        {
+          "body": "Unbreakable",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0217869",
+            "page": "http://www.imdb.com/find?q=tt0217869"
+          }
+        }
+      ],
+      "section": [
+        "M. Night Shyamalan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Unbreakable (2000 - actor, director, and writer)"
+    },
+    {
+      "body": "${link_0} (1999 - director)",
+      "links": [
+        {
+          "body": "The Sixth Sense",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0167404",
+            "page": "http://www.imdb.com/find?q=tt0167404"
+          }
+        }
+      ],
+      "section": [
+        "M. Night Shyamalan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Sixth Sense (1999 - director)"
+    },
+    {
+      "body": "${link_0} (1992 - actor, director, producer, and writer)",
+      "links": [
+        {
+          "body": "Praying with Anger",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105162",
+            "page": "http://www.imdb.com/find?q=tt0105162"
+          }
+        }
+      ],
+      "section": [
+        "M. Night Shyamalan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Praying with Anger (1992 - actor, director, producer, and writer)"
+    },
+    {
       "body": "Though full American citizens, his parents traveled to India for his birth, giving him Indian citizenship before American. He began making home films at a young age, and clips from several of these films are included on DVD releases of his feature films, typically with an introduction where he decries the poor skill he had at the time. Though he began making films professionally in 1992, it was not until the release of The Sixth Sense in 1999 that he found mainstream success.",
       "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Biographical information"
+      ],
       "text": "Though full American citizens, his parents traveled to India for his birth, giving him Indian citizenship before American. He began making home films at a young age, and clips from several of these films are included on DVD releases of his feature films, typically with an introduction where he decries the poor skill he had at the time. Though he began making films professionally in 1992, it was not until the release of The Sixth Sense in 1999 that he found mainstream success."
     },
     {
       "body": "Shyamalan was introduced to Avatar by his children, when his daughter wanted to dress up as Katara for Halloween. His children convinced him to watch the show in late season two. He was immediately intrigued and bought the DVDs of season one, which quickly made the whole family fans of the show. His favorite character is Zuko due to the morally gray complexities of his personality.",
       "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Biographical information"
+      ],
       "text": "Shyamalan was introduced to Avatar by his children, when his daughter wanted to dress up as Katara for Halloween. His children convinced him to watch the show in late season two. He was immediately intrigued and bought the DVDs of season one, which quickly made the whole family fans of the show. His favorite character is Zuko due to the morally gray complexities of his personality."
     },
     {
       "body": "In recent years, many critics have accused him of declining quality, with The Last Airbender having a 6% \"rotten\" rating on \"Rotten Tomatoes\".",
       "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Biographical information"
+      ],
       "text": "In recent years, many critics have accused him of declining quality, with The Last Airbender having a 6% \"rotten\" rating on \"Rotten Tomatoes\"."
     },
     {
@@ -121,12 +418,116 @@
           "body": "The Last Airbender 2",
           "key": "${link_0}",
           "target": {
-            "href": "Film_The_Last_Airbender_2",
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender_2",
             "page": "Film_The_Last_Airbender_2"
           }
         }
       ],
+      "section": [
+        "M. Night Shyamalan",
+        "Biographical information"
+      ],
       "text": "Shyamalan wrote and prepared a script for The Last Airbender 2, despite negative criticism of the first film. A third movie was also planned."
+    },
+    {
+      "body": "2011: Won a Razzie Award for The Last Airbender (Worst Director)",
+      "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Awards"
+      ],
+      "text": "2011: Won a Razzie Award for The Last Airbender (Worst Director)"
+    },
+    {
+      "body": "2011: Won a Razzie Award for The Last Airbender (Worst Screenplay)",
+      "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Awards"
+      ],
+      "text": "2011: Won a Razzie Award for The Last Airbender (Worst Screenplay)"
+    },
+    {
+      "body": "2007: Won a Razzie Award for Lady in the Water (Worst Supporting Actor)",
+      "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Awards"
+      ],
+      "text": "2007: Won a Razzie Award for Lady in the Water (Worst Supporting Actor)"
+    },
+    {
+      "body": "2007: Won a Razzie Award for Lady in the Water (Worst Director)",
+      "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Awards"
+      ],
+      "text": "2007: Won a Razzie Award for Lady in the Water (Worst Director)"
+    },
+    {
+      "body": "2006: Won a ShoWest Award (Director of the Year)",
+      "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Awards"
+      ],
+      "text": "2006: Won a ShoWest Award (Director of the Year)"
+    },
+    {
+      "body": "2001: Won a FirstGlance Award",
+      "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Awards"
+      ],
+      "text": "2001: Won a FirstGlance Award"
+    },
+    {
+      "body": "2000: Won a Bram Stoker Award for The Sixth Sense (Screenplay)",
+      "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Awards"
+      ],
+      "text": "2000: Won a Bram Stoker Award for The Sixth Sense (Screenplay)"
+    },
+    {
+      "body": "2000: Won an Empire Award for The Sixth Sense (Best Director)",
+      "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Awards"
+      ],
+      "text": "2000: Won an Empire Award for The Sixth Sense (Best Director)"
+    },
+    {
+      "body": "2000: Won a Golden Satellite Award for The Sixth Sense (Best Screenplay, Original)",
+      "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Awards"
+      ],
+      "text": "2000: Won a Golden Satellite Award for The Sixth Sense (Best Screenplay, Original)"
+    },
+    {
+      "body": "2000: Won a Nebula Award for The Sixth Sense (Best Script)",
+      "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Awards"
+      ],
+      "text": "2000: Won a Nebula Award for The Sixth Sense (Best Script)"
+    },
+    {
+      "body": "2000: Won a Palm Springs International Film Festival Sonny Bono Visionary Award",
+      "links": [],
+      "section": [
+        "M. Night Shyamalan",
+        "Awards"
+      ],
+      "text": "2000: Won a Palm Springs International Film Festival Sonny Bono Visionary Award"
     }
   ],
   "source": {

@@ -3,35 +3,40 @@
     {
       "body": "Under construction",
       "target": {
-        "href": "Category_Under_construction",
+        "external": false,
+        "href": "/wiki/Category_Under_construction",
         "page": "Category_Under_construction"
       }
     },
     {
       "body": "Needs help",
       "target": {
-        "href": "Category_Needs_help",
+        "external": false,
+        "href": "/wiki/Category_Needs_help",
         "page": "Category_Needs_help"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Websites",
       "target": {
-        "href": "Category_Websites",
+        "external": false,
+        "href": "/wiki/Category_Websites",
         "page": "Category_Websites"
       }
     }
@@ -41,12 +46,22 @@
       "key": "Owner",
       "value": [
         {
-          "body": "Wikia, Inc.",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikia, Inc.",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://community.wikia.com/wiki/Wikia,_Inc.",
+                "page": "http://community.wikia.com/wiki/Wikia,_Inc."
+              }
+            }
+          ],
           "text": "Wikia, Inc.",
-          "value": "Wikia, Inc.",
+          "value": "${link_0}",
           "value_text": "Wikia, Inc."
         }
       ]
@@ -83,39 +98,79 @@
       "key": "Admins",
       "value": [
         {
-          "body": "Lady Lostris",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Lady Lostris",
+              "key": "${link_0}",
+              "target": {
+                "external": false,
+                "href": "/wiki/User:Lady_Lostris",
+                "page": "User:Lady_Lostris"
+              }
+            }
+          ],
           "text": "Lady Lostris",
-          "value": "Lady Lostris",
+          "value": "${link_0}",
           "value_text": "Lady Lostris"
         },
         {
-          "body": "LiaSakura",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "LiaSakura",
+              "key": "${link_0}",
+              "target": {
+                "external": false,
+                "href": "/wiki/User:LiaSakura",
+                "page": "User:LiaSakura"
+              }
+            }
+          ],
           "text": "LiaSakura",
-          "value": "LiaSakura",
+          "value": "${link_0}",
           "value_text": "LiaSakura"
         },
         {
-          "body": "The 888th Avatar (founder)",
+          "body": "${link_0} (founder)",
           "extra": "(founder)",
           "extra_text": "(founder)",
-          "links": [],
+          "links": [
+            {
+              "body": "The 888th Avatar",
+              "key": "${link_0}",
+              "target": {
+                "external": false,
+                "href": "/wiki/User:The_888th_Avatar",
+                "page": "User:The_888th_Avatar"
+              }
+            }
+          ],
           "text": "The 888th Avatar (founder)",
-          "value": "The 888th Avatar",
+          "value": "${link_0}",
           "value_text": "The 888th Avatar"
         },
         {
-          "body": "Water Spout",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Water Spout",
+              "key": "${link_0}",
+              "target": {
+                "external": false,
+                "href": "/wiki/User:Water_Spout",
+                "page": "User:Water_Spout"
+              }
+            }
+          ],
           "text": "Water Spout",
-          "value": "Water Spout",
+          "value": "${link_0}",
           "value_text": "Water Spout"
         }
       ]
@@ -123,28 +178,132 @@
   ],
   "paragraphs": [
     {
-      "body": "This page is under construction. Please contribute in helping this page.",
-      "links": [],
-      "text": "This page is under construction. Please contribute in helping this page."
-    },
-    {
-      "body": "Avatar Answers Wiki is a wiki-based resource and community site dedicated to answering questions relating to the Avatar universe, including both series, all comics, the live-action film adaptation, and other related media. It was founded by The 888th Avatar on March 2, 2010, with the main goal of serving as a comprehensive resource for answers regarding any and all questions about the Avatar franchise.",
-      "links": [],
-      "text": "Avatar Answers Wiki is a wiki-based resource and community site dedicated to answering questions relating to the Avatar universe, including both series, all comics, the live-action film adaptation, and other related media. It was founded by The 888th Avatar on March 2, 2010, with the main goal of serving as a comprehensive resource for answers regarding any and all questions about the Avatar franchise."
-    },
-    {
-      "body": "After the wiki was founded, questions from Wikianswers about ${link_0} were imported, facilitating the beginning of content creation. Much of the subsequent work on the wiki was performed by Water Spout, who was a prolific contributor to the wiki and a former administrator there. After Water Spout became inactive, the wiki was again with no major contributors until Natsu11 and Lady Lostris began an effort to clean up the wiki. In June 2011, both users were given administrator rights, until Natsu11 resigned. Shortly after, Vulmen was given administrator rights, and months later, Dcasawang1, LiaSakura, and eventually Magicboy10xx were given administrator rights.",
+      "body": "Avatar Answers Wiki is a wiki-based resource and community site dedicated to answering questions relating to the Avatar universe, including both series, all comics, the live-action film adaptation, and other related media. It was founded by ${link_0} on March 2, 2010, with the main goal of serving as a comprehensive resource for answers regarding any and all questions about the Avatar franchise.",
       "links": [
         {
-          "body": "Avatar: The Last Airbender",
+          "body": "The 888th Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Avatar__The_Last_Airbender",
-            "page": "Avatar__The_Last_Airbender"
+            "external": false,
+            "href": "/wiki/User:The_888th_Avatar",
+            "page": "User:The_888th_Avatar"
           }
         }
       ],
+      "section": [
+        "Avatar Answers Wiki"
+      ],
+      "text": "Avatar Answers Wiki is a wiki-based resource and community site dedicated to answering questions relating to the Avatar universe, including both series, all comics, the live-action film adaptation, and other related media. It was founded by The 888th Avatar on March 2, 2010, with the main goal of serving as a comprehensive resource for answers regarding any and all questions about the Avatar franchise."
+    },
+    {
+      "body": "After the wiki was founded, questions from ${link_0} about ${link_1} were imported, facilitating the beginning of content creation. Much of the subsequent work on the wiki was performed by ${link_2}, who was a prolific contributor to the wiki and a former administrator there. After Water Spout became inactive, the wiki was again with no major contributors until ${link_3} and ${link_4} began an effort to clean up the wiki. In June 2011, both users were given administrator rights, until Natsu11 resigned. Shortly after, ${link_5} was given administrator rights, and months later, ${link_6}, ${link_7}, and eventually ${link_8} were given administrator rights.",
+      "links": [
+        {
+          "body": "Wikianswers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://answers.wikia.com/wiki/",
+            "page": "http://answers.wikia.com/wiki/"
+          }
+        },
+        {
+          "body": "Avatar: The Last Airbender",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender",
+            "page": "Avatar__The_Last_Airbender"
+          }
+        },
+        {
+          "body": "Water Spout",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Water_Spout",
+            "page": "User:Water_Spout"
+          }
+        },
+        {
+          "body": "Natsu11",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Natsu11",
+            "page": "User:Natsu11"
+          }
+        },
+        {
+          "body": "Lady Lostris",
+          "key": "${link_4}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Lady_Lostris",
+            "page": "User:Lady_Lostris"
+          }
+        },
+        {
+          "body": "Vulmen",
+          "key": "${link_5}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Vulmen",
+            "page": "User:Vulmen"
+          }
+        },
+        {
+          "body": "Dcasawang1",
+          "key": "${link_6}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Dcasawang1",
+            "page": "User:Dcasawang1"
+          }
+        },
+        {
+          "body": "LiaSakura",
+          "key": "${link_7}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:LiaSakura",
+            "page": "User:LiaSakura"
+          }
+        },
+        {
+          "body": "Magicboy10xx",
+          "key": "${link_8}",
+          "target": {
+            "external": false,
+            "href": "/wiki/User:Magicboy10xx",
+            "page": "User:Magicboy10xx"
+          }
+        }
+      ],
+      "section": [
+        "Avatar Answers Wiki",
+        "History"
+      ],
       "text": "After the wiki was founded, questions from Wikianswers about Avatar: The Last Airbender were imported, facilitating the beginning of content creation. Much of the subsequent work on the wiki was performed by Water Spout, who was a prolific contributor to the wiki and a former administrator there. After Water Spout became inactive, the wiki was again with no major contributors until Natsu11 and Lady Lostris began an effort to clean up the wiki. In June 2011, both users were given administrator rights, until Natsu11 resigned. Shortly after, Vulmen was given administrator rights, and months later, Dcasawang1, LiaSakura, and eventually Magicboy10xx were given administrator rights."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Avatar Answers Wiki",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://avatar.answers.wikia.com/wiki/Avatar_Answers_Wiki",
+            "page": "http://avatar.answers.wikia.com/wiki/Avatar_Answers_Wiki"
+          }
+        }
+      ],
+      "section": [
+        "Avatar Answers Wiki",
+        "External links"
+      ],
+      "text": "Avatar Answers Wiki"
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Taxi (1980)",
+          "body": "${link_0} (1980)",
           "extra": "(1980)",
           "extra_text": "(1980)",
-          "links": [],
+          "links": [
+            {
+              "body": "Taxi",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0077089",
+                "page": "http://www.imdb.com/find?q=tt0077089"
+              }
+            }
+          ],
           "text": "Taxi (1980)",
-          "value": "Taxi",
+          "value": "${link_0}",
           "value_text": "Taxi"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0766697",
+                "page": "http://www.imdb.com/find?q=nm0766697"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Rodney_Saulsberry",
+                "page": "http://en.wikipedia.org/wiki/Rodney_Saulsberry"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/people/Rodney-Saulsberry/825615393",
+                "page": "https://www.facebook.com/people/Rodney-Saulsberry/825615393"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.rodneysaulsberry.com/",
+                "page": "http://www.rodneysaulsberry.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/rodtalks",
+                "page": "https://twitter.com/rodtalks"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,13 +181,543 @@
   ],
   "paragraphs": [
     {
+      "body": "213. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Drill",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Drill",
+            "page": "The_Drill"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "213. \"The Drill\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "1st Amendment Stand Up",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0479822",
+            "page": "http://www.imdb.com/find?q=tt0479822"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "1st Amendment Stand Up"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order: LA",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1657081",
+            "page": "http://www.imdb.com/find?q=tt1657081"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order: LA"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Minoriteam",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0495788",
+            "page": "http://www.imdb.com/find?q=tt0495788"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Minoriteam"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Monk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312172",
+            "page": "http://www.imdb.com/find?q=tt0312172"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Monk"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112175",
+            "page": "http://www.imdb.com/find?q=tt0112175"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Spider-Man"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Bold and the Beautiful",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092325",
+            "page": "http://www.imdb.com/find?q=tt0092325"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Bold and the Beautiful"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Creeporia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2051851",
+            "page": "http://www.imdb.com/find?q=tt2051851"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Creeporia (2014)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Beginners",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1532503",
+            "page": "http://www.imdb.com/find?q=tt1532503"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Beginners (2010)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "The Little Engine That Could",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1764666",
+            "page": "http://www.imdb.com/find?q=tt1764666"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Little Engine That Could (2010)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "The Comebacks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0790804",
+            "page": "http://www.imdb.com/find?q=tt0790804"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Comebacks (2007)"
+    },
+    {
+      "body": "${link_0} (2004; short)",
+      "links": [
+        {
+          "body": "The Old Negro Space Program",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460524",
+            "page": "http://www.imdb.com/find?q=tt0460524"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Old Negro Space Program (2004; short)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "The Animatrix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0328832",
+            "page": "http://www.imdb.com/find?q=tt0328832"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Animatrix (2003)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "Look Who's Talking Now",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0107438",
+            "page": "http://www.imdb.com/find?q=tt0107438"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Look Who's Talking Now (1993)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "Tango & Cash",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098439",
+            "page": "http://www.imdb.com/find?q=tt0098439"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tango & Cash (1989)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "CSI: Crime Scene Investigation - Hard Evidence",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0934397",
+            "page": "http://www.imdb.com/find?q=tt0934397"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "CSI: Crime Scene Investigation - Hard Evidence (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Driver: Parallel Lines",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0795374",
+            "page": "http://www.imdb.com/find?q=tt0795374"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Driver: Parallel Lines (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "G.I. Joe: The Rise of Cobra",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1376706",
+            "page": "http://www.imdb.com/find?q=tt1376706"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "G.I. Joe: The Rise of Cobra (video game)"
+    },
+    {
+      "body": "${link_0} (ADR loop group)",
+      "links": [
+        {
+          "body": "Glory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0097441",
+            "page": "http://www.imdb.com/find?q=tt0097441"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Glory (ADR loop group)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer, soundtrack writer)",
+      "links": [
+        {
+          "body": "Just Another Day",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1412367",
+            "page": "http://www.imdb.com/find?q=tt1412367"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Just Another Day (soundtrack performer, soundtrack writer)"
+    },
+    {
+      "body": "${link_0} (soundtrack writer)",
+      "links": [
+        {
+          "body": "Paranormal Activity 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1778304",
+            "page": "http://www.imdb.com/find?q=tt1778304"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Paranormal Activity 3 (soundtrack writer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "SOCOM 4: U.S. Navy SEALs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1706619",
+            "page": "http://www.imdb.com/find?q=tt1706619"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "SOCOM 4: U.S. Navy SEALs (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Trek: Starfleet Command III",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0339724",
+            "page": "http://www.imdb.com/find?q=tt0339724"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Trek: Starfleet Command III (video game)"
+    },
+    {
+      "body": "${link_0} (ADR loop group)",
+      "links": [
+        {
+          "body": "The Avengers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0848228",
+            "page": "http://www.imdb.com/find?q=tt0848228"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Avengers (ADR loop group)"
+    },
+    {
+      "body": "${link_0} (soundtrack)",
+      "links": [
+        {
+          "body": "The Lion King",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110357",
+            "page": "http://www.imdb.com/find?q=tt0110357"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Lion King (soundtrack)"
+    },
+    {
+      "body": "${link_0} (TV movie - ADR loop group)",
+      "links": [
+        {
+          "body": "The Temptations",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0164292",
+            "page": "http://www.imdb.com/find?q=tt0164292"
+          }
+        }
+      ],
+      "section": [
+        "Rodney Saulsberry",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Temptations (TV movie - ADR loop group)"
+    },
+    {
       "body": "He married Helen Saulsberry in 1981; they have one child.",
       "links": [],
+      "section": [
+        "Rodney Saulsberry",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "He married Helen Saulsberry in 1981; they have one child."
     },
     {
       "body": "Saulsberry has performed on the television variety show Soul Train and was the announcer for the 34th NAACP Image Awards and the 2003 Essence Awards. He was a guest presenter at the first annual Voice 2007 in Las Vegas and a featured speaker and panelist for two consecutive years at Voice Coaches Expo in Schenectady, New York. He has taught his voice-over workshops in various locations around the country that include New York, Chicago, Nashville, Las Vegas, and Los Angeles. He has also been a guest lecturer for the Theater Department at Western Michigan University, California State University, Northridge, and the Black Theater Festival in Winston-Salem. Saulsberry has appeared at several book-signing events, including at Borders and Barnes and Noble, and he is a regular featured panelist and workshop instructor for the SAG Foundation in support of the Don LaFontaine Voice-Over Lab.",
       "links": [],
+      "section": [
+        "Rodney Saulsberry",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Saulsberry has performed on the television variety show Soul Train and was the announcer for the 34th NAACP Image Awards and the 2003 Essence Awards. He was a guest presenter at the first annual Voice 2007 in Las Vegas and a featured speaker and panelist for two consecutive years at Voice Coaches Expo in Schenectady, New York. He has taught his voice-over workshops in various locations around the country that include New York, Chicago, Nashville, Las Vegas, and Los Angeles. He has also been a guest lecturer for the Theater Department at Western Michigan University, California State University, Northridge, and the Black Theater Festival in Winston-Salem. Saulsberry has appeared at several book-signing events, including at Borders and Barnes and Noble, and he is a regular featured panelist and workshop instructor for the SAG Foundation in support of the Don LaFontaine Voice-Over Lab."
     }
   ],

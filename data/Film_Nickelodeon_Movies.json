@@ -3,28 +3,32 @@
     {
       "body": "Protected",
       "target": {
-        "href": "Category_Protected",
+        "external": false,
+        "href": "/wiki/Category_Protected",
         "page": "Category_Protected"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Companies",
       "target": {
-        "href": "Category_Companies",
+        "external": false,
+        "href": "/wiki/Category_Companies",
         "page": "Category_Companies"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -32,27 +36,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "The Nickelodeon Movies logo appeared in flames in ${link_0}.",
-      "links": [
-        {
-          "body": "The Last Airbender",
-          "key": "${link_0}",
-          "target": {
-            "href": "Film_The_Last_Airbender",
-            "page": "Film_The_Last_Airbender"
-          }
-        }
-      ],
-      "text": "The Nickelodeon Movies logo appeared in flames in The Last Airbender."
-    },
-    {
       "body": "Nickelodeon Movies is the motion picture production arm of children's cable channel ${link_0}, originally launched in 1995. It has produced films based on Nickelodeon programs, as well as other adaptations and original projects, which are released by fellow Viacom division ${link_1}.",
       "links": [
         {
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         },
@@ -60,12 +51,111 @@
           "body": "Paramount Pictures",
           "key": "${link_1}",
           "target": {
-            "href": "Film_Paramount_Pictures",
+            "external": false,
+            "href": "/wiki/Film_Paramount_Pictures",
             "page": "Film_Paramount_Pictures"
           }
         }
       ],
+      "section": [
+        "Nickelodeon Movies"
+      ],
       "text": "Nickelodeon Movies is the motion picture production arm of children's cable channel Nickelodeon, originally launched in 1995. It has produced films based on Nickelodeon programs, as well as other adaptations and original projects, which are released by fellow Viacom division Paramount Pictures."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Nickelodeon",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Nickelodeon",
+            "page": "Nickelodeon"
+          }
+        }
+      ],
+      "section": [
+        "Nickelodeon Movies",
+        "See also"
+      ],
+      "text": "Nickelodeon"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Paramount Pictures",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Paramount_Pictures",
+            "page": "Film_Paramount_Pictures"
+          }
+        }
+      ],
+      "section": [
+        "Nickelodeon Movies",
+        "See also"
+      ],
+      "text": "Paramount Pictures"
+    },
+    {
+      "body": "${link_0} (Nickipedia article)",
+      "links": [
+        {
+          "body": "Nickelodeon Movies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://nickelodeon.fandom.com/wiki/Nickelodeon_Movies",
+            "page": "http://nickelodeon.fandom.com/wiki/Nickelodeon_Movies"
+          }
+        }
+      ],
+      "section": [
+        "Nickelodeon Movies",
+        "External Links"
+      ],
+      "text": "Nickelodeon Movies (Nickipedia article)"
+    },
+    {
+      "body": "${link_0} (Wikipedia article)",
+      "links": [
+        {
+          "body": "Nickelodeon Movies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Nickelodeon_Movies",
+            "page": "http://en.wikipedia.org/wiki/Nickelodeon_Movies"
+          }
+        }
+      ],
+      "section": [
+        "Nickelodeon Movies",
+        "External Links"
+      ],
+      "text": "Nickelodeon Movies (Wikipedia article)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Viacom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Viacom",
+            "page": "http://en.wikipedia.org/wiki/Viacom"
+          }
+        }
+      ],
+      "section": [
+        "Nickelodeon Movies",
+        "External Links"
+      ],
+      "text": "Viacom"
     }
   ],
   "source": {

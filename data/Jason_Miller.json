@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Book of Shadows: Blair Witch 2 (2000 - writer)",
+          "body": "${link_0} (2000 - writer)",
           "extra": "(2000 - writer)",
           "extra_text": "(2000 - writer)",
-          "links": [],
+          "links": [
+            {
+              "body": "Book of Shadows: Blair Witch 2",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0229260",
+                "page": "http://www.imdb.com/find?q=tt0229260"
+              }
+            }
+          ],
           "text": "Book of Shadows: Blair Witch 2 (2000 - writer)",
-          "value": "Book of Shadows: Blair Witch 2",
+          "value": "${link_0}",
           "value_text": "Book of Shadows: Blair Witch 2"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1390709",
+                "page": "http://www.imdb.com/find?q=nm1390709"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jason_C._Miller",
+                "page": "http://en.wikipedia.org/wiki/Jason_C._Miller"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.jasoncharlesmiller.net/",
+                "page": "http://www.jasoncharlesmiller.net/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -100,9 +143,523 @@
   ],
   "paragraphs": [
     {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Avatar: The Last Airbender credits",
+        "Scary prisoner"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Zuko Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "207. \"Zuko Alone\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "City of Walls and Secrets",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/City_of_Walls_and_Secrets",
+            "page": "City_of_Walls_and_Secrets"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "214. \"City of Walls and Secrets\""
+    },
+    {
+      "body": "217. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lake Laogai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai_(episode)",
+            "page": "Lake_Laogai_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "217. \"Lake Laogai\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "The Legend of Korra credits",
+        "Guard #2"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "The Legend of Korra credits",
+        "Guy in crowd"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "The Legend of Korra credits",
+        "Leader"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Brave and the Bold"
+    },
+    {
+      "body": "${link_0} (English version)",
+      "links": [
+        {
+          "body": "Code Geass: Lelouch of the Rebellion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0994314",
+            "page": "http://www.imdb.com/find?q=tt0994314"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Code Geass: Lelouch of the Rebellion (English version)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Daigunder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0385396",
+            "page": "http://www.imdb.com/find?q=tt0385396"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Daigunder"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ghost in the Shell: Stand Alone Complex",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0346314",
+            "page": "http://www.imdb.com/find?q=tt0346314"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ghost in the Shell: Stand Alone Complex"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hellsing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0325547",
+            "page": "http://www.imdb.com/find?q=tt0325547"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hellsing"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Monster",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0434706",
+            "page": "http://www.imdb.com/find?q=tt0434706"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Monster"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Battle Planet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1016024",
+            "page": "http://www.imdb.com/find?q=tt1016024"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Battle Planet (2008)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Day of the Dead",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0489018",
+            "page": "http://www.imdb.com/find?q=tt0489018"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Day of the Dead (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Fingerman: Dr. London and the Triangle Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0995066",
+            "page": "http://www.imdb.com/find?q=tt0995066"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fingerman: Dr. London and the Triangle Force (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Danny Roane: First Time Director",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0470995",
+            "page": "http://www.imdb.com/find?q=tt0470995"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Danny Roane: First Time Director (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "In the Blink of an Eye",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0439762",
+            "page": "http://www.imdb.com/find?q=tt0439762"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "In the Blink of an Eye (2005)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Dead Leaves",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0439533",
+            "page": "http://www.imdb.com/find?q=tt0439533"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dead Leaves (2004)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Sengoku Basara: Samurai Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1815924",
+            "page": "http://www.imdb.com/find?q=tt1815924"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Sengoku Basara: Samurai Heroes (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "StarCraft II: Wings of Liberty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1037854",
+            "page": "http://www.imdb.com/find?q=tt1037854"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "StarCraft II: Wings of Liberty (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Ocean: The Last Hope",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1408087",
+            "page": "http://www.imdb.com/find?q=tt1408087"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Ocean: The Last Hope (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Last Remnant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1320274",
+            "page": "http://www.imdb.com/find?q=tt1320274"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Last Remnant (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "World of Warcraft: Cataclysm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1773838",
+            "page": "http://www.imdb.com/find?q=tt1773838"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "World of Warcraft: Cataclysm (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "World of Warcraft: Wrath of the Lich King",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1227192",
+            "page": "http://www.imdb.com/find?q=tt1227192"
+          }
+        }
+      ],
+      "section": [
+        "Jason Miller",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "World of Warcraft: Wrath of the Lich King (video game)"
+    },
+    {
       "body": "When he was not performing in Godhead, Miller collaborated with Ben Moody and Jason 'Gong' Jones of Drowning Pool for a song, \"The End Has Come\", which appeared on the soundtrack of the film The Punisher and often appears on Cleopatra Records tribute albums along with the songs of Julian Beeston, formerly of Nitzer Ebb. Miller also worked on a cover album from the fighting game series Guilty Gear, titled Guilty Gear XX in N.Y. Vocal Edition, where he supplied vocals over the instrumentals to create a full vocal album.",
       "links": [],
+      "section": [
+        "Jason Miller",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "When he was not performing in Godhead, Miller collaborated with Ben Moody and Jason 'Gong' Jones of Drowning Pool for a song, \"The End Has Come\", which appeared on the soundtrack of the film The Punisher and often appears on Cleopatra Records tribute albums along with the songs of Julian Beeston, formerly of Nitzer Ebb. Miller also worked on a cover album from the fighting game series Guilty Gear, titled Guilty Gear XX in N.Y. Vocal Edition, where he supplied vocals over the instrumentals to create a full vocal album."
+    },
+    {
+      "body": "2008: Won a Valley Film Festival Audience Award for Everyday Joe",
+      "links": [],
+      "section": [
+        "Jason Miller",
+        "Awards"
+      ],
+      "text": "2008: Won a Valley Film Festival Audience Award for Everyday Joe"
     }
   ],
   "source": {

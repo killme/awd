@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "California Dreams (1994)",
+          "body": "${link_0} (1994)",
           "extra": "(1994)",
           "extra_text": "(1994)",
-          "links": [],
+          "links": [
+            {
+              "body": "California Dreams",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0103380",
+                "page": "http://www.imdb.com/find?q=tt0103380"
+              }
+            }
+          ],
           "text": "California Dreams (1994)",
-          "value": "California Dreams",
+          "value": "${link_0}",
           "value_text": "California Dreams"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0951008",
+                "page": "http://www.imdb.com/find?q=nm0951008"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.michaelyurchak.com/",
+                "page": "http://www.michaelyurchak.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/yurchak09",
+                "page": "https://twitter.com/yurchak09"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -100,13 +143,483 @@
   ],
   "paragraphs": [
     {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "The Legend of Korra credits",
+        "Viper"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "The Legend of Korra credits",
+        "Viper"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "The Legend of Korra credits",
+        "Additional voice"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "It's Always Sunny in Philadelphia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0472954",
+            "page": "http://www.imdb.com/find?q=tt0472954"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "It's Always Sunny in Philadelphia"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Modern Family",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1442437",
+            "page": "http://www.imdb.com/find?q=tt1442437"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Modern Family"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Naruto: Shipp\u016bden",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0988824",
+            "page": "http://www.imdb.com/find?q=tt0988824"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Naruto: Shipp\u016bden"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Pok\u00e9mon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0176385",
+            "page": "http://www.imdb.com/find?q=tt0176385"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Pok\u00e9mon"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Trailer Trash",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1797315",
+            "page": "http://www.imdb.com/find?q=tt1797315"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Trailer Trash"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Unhitched",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0915414",
+            "page": "http://www.imdb.com/find?q=tt0915414"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Unhitched"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "The 420 Movie: Mary & Jane",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3234012",
+            "page": "http://www.imdb.com/find?q=tt3234012"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The 420 Movie: Mary & Jane (2014)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Slammin' Salmon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1135525",
+            "page": "http://www.imdb.com/find?q=tt1135525"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Slammin' Salmon (2009)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Watching the Detectives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0472205",
+            "page": "http://www.imdb.com/find?q=tt0472205"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Watching the Detectives (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Beerfest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0486551",
+            "page": "http://www.imdb.com/find?q=tt0486551"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Beerfest (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Lather Effect",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0485927",
+            "page": "http://www.imdb.com/find?q=tt0485927"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Lather Effect (2006)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Club Dread",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0331953",
+            "page": "http://www.imdb.com/find?q=tt0331953"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Club Dread (2004)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Puddle Cruiser",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0144557",
+            "page": "http://www.imdb.com/find?q=tt0144557"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Puddle Cruiser (1996)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dino Crisis III",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0305434",
+            "page": "http://www.imdb.com/find?q=tt0305434"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dino Crisis III (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Gekij\u014d-ban Naruto Shipp\u016bden: Hi no ishi wo tsugu mono",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1481363",
+            "page": "http://www.imdb.com/find?q=tt1481363"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Gekij\u014d-ban Naruto Shipp\u016bden: Hi no ishi wo tsugu mono (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "L.A. Noire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1764429",
+            "page": "http://www.imdb.com/find?q=tt1764429"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "L.A. Noire (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lord of the Rings: Conquest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1320276",
+            "page": "http://www.imdb.com/find?q=tt1320276"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lord of the Rings: Conquest (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Skylanders: Spyro's Adventure",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2112269",
+            "page": "http://www.imdb.com/find?q=tt2112269"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Skylanders: Spyro's Adventure (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Sonic Free Riders",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1740027",
+            "page": "http://www.imdb.com/find?q=tt1740027"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Sonic Free Riders (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Darkness II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2184299",
+            "page": "http://www.imdb.com/find?q=tt2184299"
+          }
+        }
+      ],
+      "section": [
+        "Michael Yurchak",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Darkness II (video game)"
+    },
+    {
       "body": "Yurchak graduated in 1994 from Colgate University, New York, where he was a member of Charred Goosebeak and performed with the future members of Broken Lizard.",
       "links": [],
+      "section": [
+        "Michael Yurchak",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Yurchak graduated in 1994 from Colgate University, New York, where he was a member of Charred Goosebeak and performed with the future members of Broken Lizard."
     },
     {
       "body": "Besides his movie and film work, he has recorded more than fifty audiobooks and appeared in or voiced dozens of commercials. He is also Director of Education and Outreach for The Classical Theater Lab and a freelance teaching artist.",
       "links": [],
+      "section": [
+        "Michael Yurchak",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Besides his movie and film work, he has recorded more than fifty audiobooks and appeared in or voiced dozens of commercials. He is also Director of Education and Outreach for The Classical Theater Lab and a freelance teaching artist."
     }
   ],

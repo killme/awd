@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -55,39 +58,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://shipwreckplanet.com/",
+                "page": "http://shipwreckplanet.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Portfolio",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Portfolio",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.peterwartman.com/",
+                "page": "http://www.peterwartman.com/"
+              }
+            }
+          ],
           "text": "Portfolio",
-          "value": "Portfolio",
+          "value": "${link_0}",
           "value_text": "Portfolio"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://shipwreck-planet.tumblr.com/",
+                "page": "https://shipwreck-planet.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/peter_wartman",
+                "page": "https://twitter.com/peter_wartman"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,8 +138,49 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0} trilogy",
+      "links": [
+        {
+          "body": "Imbalance",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imbalance",
+            "page": "Imbalance"
+          }
+        }
+      ],
+      "section": [
+        "Peter Wartman",
+        "Avatar: The Last Airbender works"
+      ],
+      "text": "Imbalance trilogy"
+    },
+    {
+      "body": "Stonebreaker (2013 \u2013 present)",
+      "links": [],
+      "section": [
+        "Peter Wartman",
+        "Selected other credits"
+      ],
+      "text": "Stonebreaker (2013 \u2013 present)"
+    },
+    {
+      "body": "Over the Wall (2011 \u2013 2013)",
+      "links": [],
+      "section": [
+        "Peter Wartman",
+        "Selected other credits"
+      ],
+      "text": "Over the Wall (2011 \u2013 2013)"
+    },
+    {
       "body": "Peter Wartman has been drawing \"since he figured out how to hold a pencil\". His artwork frequently contains material from science fiction, such as monsters, robots, and spaceships. He graduated from the Minneapolis College of Art and Design in 2010 with a BFA in Illustration and has since then worked as an illustrator/designer for CSA Design. He works on his comic artwork in his free time, with his first comic series Over the Wall published by Uncivilized Books in 2013.",
       "links": [],
+      "section": [
+        "Peter Wartman",
+        "Biographical information"
+      ],
       "text": "Peter Wartman has been drawing \"since he figured out how to hold a pencil\". His artwork frequently contains material from science fiction, such as monsters, robots, and spaceships. He graduated from the Minneapolis College of Art and Design in 2010 with a BFA in Illustration and has since then worked as an illustrator/designer for CSA Design. He works on his comic artwork in his free time, with his first comic series Over the Wall published by Uncivilized Books in 2013."
     }
   ],

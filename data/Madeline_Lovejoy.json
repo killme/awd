@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The West Wing (2003)",
+          "body": "${link_0} (2003)",
           "extra": "(2003)",
           "extra_text": "(2003)",
-          "links": [],
+          "links": [
+            {
+              "body": "The West Wing",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0200276",
+                "page": "http://www.imdb.com/find?q=tt0200276"
+              }
+            }
+          ],
           "text": "The West Wing (2003)",
-          "value": "The West Wing",
+          "value": "${link_0}",
           "value_text": "The West Wing"
         }
       ]
@@ -55,18 +68,129 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1375655",
+                "page": "http://www.imdb.com/find?q=nm1375655"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boy in the Iceberg",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boy_in_the_Iceberg",
+            "page": "The_Boy_in_the_Iceberg"
+          }
+        }
+      ],
+      "section": [
+        "Madeline Lovejoy",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "101. \"The Boy in the Iceberg\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_Returns",
+            "page": "The_Avatar_Returns"
+          }
+        }
+      ],
+      "section": [
+        "Madeline Lovejoy",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "102. \"The Avatar Returns\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The West Wing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200276",
+            "page": "http://www.imdb.com/find?q=tt0200276"
+          }
+        }
+      ],
+      "section": [
+        "Madeline Lovejoy",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "The West Wing"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Barnyard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0414853",
+            "page": "http://www.imdb.com/find?q=tt0414853"
+          }
+        }
+      ],
+      "section": [
+        "Madeline Lovejoy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Barnyard (2006)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Bruce Almighty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0315327",
+            "page": "http://www.imdb.com/find?q=tt0315327"
+          }
+        }
+      ],
+      "section": [
+        "Madeline Lovejoy",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bruce Almighty (2003)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Madeline_Lovejoy",
     "file": "avatar.wikia.com/wiki/Madeline_Lovejoy.html",

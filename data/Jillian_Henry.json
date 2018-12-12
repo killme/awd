@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Unsolved Mysteries (1997)",
+          "body": "${link_0} (1997)",
           "extra": "(1997)",
           "extra_text": "(1997)",
-          "links": [],
+          "links": [
+            {
+              "body": "Unsolved Mysteries",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0094574",
+                "page": "http://www.imdb.com/find?q=tt0094574"
+              }
+            }
+          ],
           "text": "Unsolved Mysteries (1997)",
-          "value": "Unsolved Mysteries",
+          "value": "${link_0}",
           "value_text": "Unsolved Mysteries"
         }
       ]
@@ -69,12 +82,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1336965",
+                "page": "http://www.imdb.com/find?q=nm1336965"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -82,19 +105,512 @@
   ],
   "paragraphs": [
     {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Warriors of Kyoshi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Warriors_of_Kyoshi",
+            "page": "The_Warriors_of_Kyoshi"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Avatar: The Last Airbender credits",
+        "Koko"
+      ],
+      "text": "104. \"The Warriors of Kyoshi\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Avatar: The Last Airbender credits",
+        "Koko"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Carniv\u00e0le",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0319969",
+            "page": "http://www.imdb.com/find?q=tt0319969"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Carniv\u00e0le"
+    },
+    {
+      "body": "${link_0} (self)",
+      "links": [
+        {
+          "body": "Jimmy Kimmel Live!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0320037",
+            "page": "http://www.imdb.com/find?q=tt0320037"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jimmy Kimmel Live! (self)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Leroy and Stitch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0486761",
+            "page": "http://www.imdb.com/find?q=tt0486761"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Leroy and Stitch (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lilo & Stitch: The Series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364774",
+            "page": "http://www.imdb.com/find?q=tt0364774"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lilo & Stitch: The Series"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "My Wife and Kids",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0273855",
+            "page": "http://www.imdb.com/find?q=tt0273855"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "My Wife and Kids"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Six Feet Under",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0248654",
+            "page": "http://www.imdb.com/find?q=tt0248654"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Six Feet Under"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Special Agent Oso",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1124354",
+            "page": "http://www.imdb.com/find?q=tt1124354"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Special Agent Oso"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Strong Medicine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0252019",
+            "page": "http://www.imdb.com/find?q=tt0252019"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Strong Medicine"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Unsolved Mysteries",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094574",
+            "page": "http://www.imdb.com/find?q=tt0094574"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Unsolved Mysteries"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "What I Like About You",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0321018",
+            "page": "http://www.imdb.com/find?q=tt0321018"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "What I Like About You"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "Bottles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1528273",
+            "page": "http://www.imdb.com/find?q=tt1528273"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bottles (2010; short)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Ramona and Beezus",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0493949",
+            "page": "http://www.imdb.com/find?q=tt0493949"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ramona and Beezus (2010)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Snowmen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1373406",
+            "page": "http://www.imdb.com/find?q=tt1373406"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Snowmen (2010)"
+    },
+    {
+      "body": "${link_0} (2010 - ADR loop group)",
+      "links": [
+        {
+          "body": "Diary of a Wimpy Kid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1196141",
+            "page": "http://www.imdb.com/find?q=tt1196141"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Diary of a Wimpy Kid (2010 - ADR loop group)"
+    },
+    {
+      "body": "${link_0} (2007; short)",
+      "links": [
+        {
+          "body": "Snips & Snails",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0982931",
+            "page": "http://www.imdb.com/find?q=tt0982931"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Snips & Snails (2007; short)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Benchwarmers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0437863",
+            "page": "http://www.imdb.com/find?q=tt0437863"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Benchwarmers (2006)"
+    },
+    {
+      "body": "${link_0} (2005; video)",
+      "links": [
+        {
+          "body": "Lilo & Stitch 2: Stitch Has a Glitch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0457993",
+            "page": "http://www.imdb.com/find?q=tt0457993"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lilo & Stitch 2: Stitch Has a Glitch (2005; video)"
+    },
+    {
+      "body": "${link_0} (2005; short)",
+      "links": [
+        {
+          "body": "Locked In",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0478772",
+            "page": "http://www.imdb.com/find?q=tt0478772"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Locked In (2005; short)"
+    },
+    {
+      "body": "${link_0} (2004; video)",
+      "links": [
+        {
+          "body": "Mulan II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0279967",
+            "page": "http://www.imdb.com/find?q=tt0279967"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mulan II (2004; video)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Little Dreams",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0355692",
+            "page": "http://www.imdb.com/find?q=tt0355692"
+          }
+        }
+      ],
+      "section": [
+        "Jillian Henry",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Little Dreams (2002)"
+    },
+    {
       "body": "A native of Big Bear Lake, California, Henry is the younger sister of actors Aaron and Michael Tyler Henry. She received her high school diploma at age thirteen with a 4.33 GPA and enjoys playing softball and golf.",
       "links": [],
+      "section": [
+        "Jillian Henry",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "A native of Big Bear Lake, California, Henry is the younger sister of actors Aaron and Michael Tyler Henry. She received her high school diploma at age thirteen with a 4.33 GPA and enjoys playing softball and golf."
     },
     {
       "body": "Often cast as the \"smart girl\", Henry has guest starred on My Wife and Kids, What I Like About You, Six Feet Under, and Carniv\u00e0le. In 2006, she starred with Rob Schnieder, David Spade, and Jon Heder as technology geek Gretchen in the feature film, The Benchwarmers.",
       "links": [],
+      "section": [
+        "Jillian Henry",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Often cast as the \"smart girl\", Henry has guest starred on My Wife and Kids, What I Like About You, Six Feet Under, and Carniv\u00e0le. In 2006, she starred with Rob Schnieder, David Spade, and Jon Heder as technology geek Gretchen in the feature film, The Benchwarmers."
     },
     {
       "body": "Henry has been a recipient of CARE Awards, given annually to honor young performers for their professional work in conjunction with academics and community service. She is a member of the Screen Actors Guild and the American Federation of Television and Radio Artists.",
       "links": [],
+      "section": [
+        "Jillian Henry",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Henry has been a recipient of CARE Awards, given annually to honor young performers for their professional work in conjunction with academics and community service. She is a member of the Screen Actors Guild and the American Federation of Television and Radio Artists."
+    },
+    {
+      "body": "She started her acting career with an appearance on Unsolved Mysteries at just sixteen days old.\n The abducted infant she portrayed was found as a result of the show.",
+      "links": [],
+      "section": [
+        "Jillian Henry",
+        "Trivia"
+      ],
+      "text": "She started her acting career with an appearance on Unsolved Mysteries at just sixteen days old.\n The abducted infant she portrayed was found as a result of the show."
+    },
+    {
+      "body": "The abducted infant she portrayed was found as a result of the show.",
+      "links": [],
+      "section": [
+        "Jillian Henry",
+        "Trivia"
+      ],
+      "text": "The abducted infant she portrayed was found as a result of the show."
     }
   ],
   "source": {

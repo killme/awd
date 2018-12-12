@@ -3,42 +3,48 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Arts",
       "target": {
-        "href": "Category_Arts",
+        "external": false,
+        "href": "/wiki/Category_Arts",
         "page": "Category_Arts"
       }
     },
     {
       "body": "Fire Nation",
       "target": {
-        "href": "Category_Fire_Nation",
+        "external": false,
+        "href": "/wiki/Category_Fire_Nation",
         "page": "Category_Fire_Nation"
       }
     },
     {
       "body": "Iroh",
       "target": {
-        "href": "Category_Iroh",
+        "external": false,
+        "href": "/wiki/Category_Iroh",
         "page": "Category_Iroh"
       }
     },
     {
       "body": "Objects",
       "target": {
-        "href": "Category_Objects",
+        "external": false,
+        "href": "/wiki/Category_Objects",
         "page": "Category_Objects"
       }
     },
     {
       "body": "Zuko",
       "target": {
-        "href": "Category_Zuko",
+        "external": false,
+        "href": "/wiki/Category_Zuko",
         "page": "Category_Zuko"
       }
     }
@@ -46,38 +52,20 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "The painting of ${link_0} was precious to ${link_1}.",
-      "links": [
-        {
-          "body": "Iroh",
-          "key": "${link_0}",
-          "target": {
-            "href": "Iroh",
-            "page": "Iroh"
-          }
-        },
-        {
-          "body": "Zuko",
-          "key": "${link_1}",
-          "target": {
-            "href": "Zuko",
-            "page": "Zuko"
-          }
-        }
-      ],
-      "text": "The painting of Iroh was precious to Zuko."
-    },
-    {
       "body": "The painting of Iroh was a personal possession of ${link_0}'s.",
       "links": [
         {
           "body": "Zuko",
           "key": "${link_0}",
           "target": {
-            "href": "Zuko",
+            "external": false,
+            "href": "/wiki/Zuko",
             "page": "Zuko"
           }
         }
+      ],
+      "section": [
+        "Iroh painting"
       ],
       "text": "The painting of Iroh was a personal possession of Zuko's."
     },
@@ -88,7 +76,8 @@
           "body": "his home",
           "key": "${link_0}",
           "target": {
-            "href": "Fire_Nation_Royal_Palace",
+            "external": false,
+            "href": "/wiki/Fire_Nation_Royal_Palace",
             "page": "Fire_Nation_Royal_Palace"
           }
         },
@@ -96,7 +85,8 @@
           "body": "Fire Nation",
           "key": "${link_1}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         },
@@ -104,7 +94,8 @@
           "body": "Day of Black Sun",
           "key": "${link_2}",
           "target": {
-            "href": "Day_of_Black_Sun",
+            "external": false,
+            "href": "/wiki/Day_of_Black_Sun",
             "page": "Day_of_Black_Sun"
           }
         },
@@ -112,7 +103,8 @@
           "body": "Iroh",
           "key": "${link_3}",
           "target": {
-            "href": "Iroh",
+            "external": false,
+            "href": "/wiki/Iroh",
             "page": "Iroh"
           }
         },
@@ -120,7 +112,8 @@
           "body": "sandal",
           "key": "${link_4}",
           "target": {
-            "href": "Iroh%27s_sandal",
+            "external": false,
+            "href": "/wiki/Iroh%27s_sandal",
             "page": "Iroh%27s_sandal"
           }
         },
@@ -128,10 +121,15 @@
           "body": "prince",
           "key": "${link_5}",
           "target": {
-            "href": "Heir_to_the_Fire_Lord",
+            "external": false,
+            "href": "/wiki/Heir_to_the_Fire_Lord",
             "page": "Heir_to_the_Fire_Lord"
           }
         }
+      ],
+      "section": [
+        "Iroh painting",
+        "History"
       ],
       "text": "When leaving his home in the Fire Nation on the Day of Black Sun, Zuko took this painting with him. When he did not know the location of his uncle, Iroh, after the latter's escape from prison, this painting and a sandal were the only physical reminders the prince had of his uncle."
     },
@@ -142,7 +140,8 @@
           "body": "Team Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Team_Avatar",
+            "external": false,
+            "href": "/wiki/Team_Avatar",
             "page": "Team_Avatar"
           }
         },
@@ -150,12 +149,36 @@
           "body": "Western Air Temple",
           "key": "${link_1}",
           "target": {
-            "href": "Western_Air_Temple",
+            "external": false,
+            "href": "/wiki/Western_Air_Temple",
             "page": "Western_Air_Temple"
           }
         }
       ],
+      "section": [
+        "Iroh painting",
+        "History"
+      ],
       "text": "After joining Team Avatar and being given a room in the Western Air Temple, Zuko placed this painting on a side table."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Arts in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Arts_in_the_World_of_Avatar",
+            "page": "Arts_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Iroh painting",
+        "See also"
+      ],
+      "text": "Arts in the World of Avatar"
     }
   ],
   "source": {

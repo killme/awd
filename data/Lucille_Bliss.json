@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -69,12 +72,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Cinderella (1950)",
+          "body": "${link_0} (1950)",
           "extra": "(1950)",
           "extra_text": "(1950)",
-          "links": [],
+          "links": [
+            {
+              "body": "Cinderella",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0042332",
+                "page": "http://www.imdb.com/find?q=tt0042332"
+              }
+            }
+          ],
           "text": "Cinderella (1950)",
-          "value": "Cinderella",
+          "value": "${link_0}",
           "value_text": "Cinderella"
         }
       ]
@@ -83,21 +96,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0088520",
+                "page": "http://www.imdb.com/find?q=nm0088520"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Lucille_Bliss",
+                "page": "http://en.wikipedia.org/wiki/Lucille_Bliss"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -105,23 +138,430 @@
   ],
   "paragraphs": [
     {
+      "body": "118. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Master",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Master",
+            "page": "The_Waterbending_Master"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Avatar: The Last Airbender credits",
+        "Yugoda"
+      ],
+      "text": "118. \"The Waterbending Master\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "ABC Weekend Specials",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0075471",
+            "page": "http://www.imdb.com/find?q=tt0075471"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "ABC Weekend Specials"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Duck Dodgers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0376390",
+            "page": "http://www.imdb.com/find?q=tt0376390"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Duck Dodgers"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Invader ZIM",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235923",
+            "page": "http://www.imdb.com/find?q=tt0235923"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Invader ZIM"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Nurses",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101158",
+            "page": "http://www.imdb.com/find?q=tt0101158"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Nurses"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Smurfs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0081933",
+            "page": "http://www.imdb.com/find?q=tt0081933"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Smurfs"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Tales of the City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106148",
+            "page": "http://www.imdb.com/find?q=tt0106148"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Tales of the City"
+    },
+    {
+      "body": "${link_0} (2007; short)",
+      "links": [
+        {
+          "body": "Up-In-Down Town",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1077271",
+            "page": "http://www.imdb.com/find?q=tt1077271"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Up-In-Down Town (2007; short)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Robots",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0358082",
+            "page": "http://www.imdb.com/find?q=tt0358082"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Robots (2005)"
+    },
+    {
+      "body": "${link_0} (2005; short)",
+      "links": [
+        {
+          "body": "Who Saves the Village?",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0436130",
+            "page": "http://www.imdb.com/find?q=tt0436130"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Who Saves the Village? (2005; short)"
+    },
+    {
+      "body": "${link_0} (1989; short)",
+      "links": [
+        {
+          "body": "Betty Boop's Hollywood Mystery",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0816234",
+            "page": "http://www.imdb.com/find?q=tt0816234"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Betty Boop's Hollywood Mystery (1989; short)"
+    },
+    {
+      "body": "${link_0} (1988)",
+      "links": [
+        {
+          "body": "Miracle Mile",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0097889",
+            "page": "http://www.imdb.com/find?q=tt0097889"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Miracle Mile (1988)"
+    },
+    {
+      "body": "${link_0} (1988)",
+      "links": [
+        {
+          "body": "The Night Before",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0095730",
+            "page": "http://www.imdb.com/find?q=tt0095730"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Night Before (1988)"
+    },
+    {
+      "body": "${link_0} (1987)",
+      "links": [
+        {
+          "body": "Assassination",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092585",
+            "page": "http://www.imdb.com/find?q=tt0092585"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Assassination (1987)"
+    },
+    {
+      "body": "${link_0} (1982)",
+      "links": [
+        {
+          "body": "The Secret of NIMH",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0084649",
+            "page": "http://www.imdb.com/find?q=tt0084649"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Secret of NIMH (1982)"
+    },
+    {
+      "body": "${link_0} (1967)",
+      "links": [
+        {
+          "body": "Funnyman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0179189",
+            "page": "http://www.imdb.com/find?q=tt0179189"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Funnyman (1967)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Battlestar Galactica",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0368594",
+            "page": "http://www.imdb.com/find?q=tt0368594"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Battlestar Galactica (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Space Quest 6: The Spinal Frontier",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0348081",
+            "page": "http://www.imdb.com/find?q=tt0348081"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Space Quest 6: The Spinal Frontier (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Bounty Hunter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0328475",
+            "page": "http://www.imdb.com/find?q=tt0328475"
+          }
+        }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Bounty Hunter (video game)"
+    },
+    {
       "body": "Lucille Bliss was a New York City native and appeared in films and on television shows, including The Smurfs as Smurfette, ${link_0}'s Invader ZIM as Ms. Bitters, and Walt Disney's Cinderella as Anastasia Tremaine. She voiced the starring character of the first made-for-television cartoon, Crusader Rabbit.",
       "links": [
         {
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
+      ],
+      "section": [
+        "Lucille Bliss",
+        "Biographical information"
       ],
       "text": "Lucille Bliss was a New York City native and appeared in films and on television shows, including The Smurfs as Smurfette, Nickelodeon's Invader ZIM as Ms. Bitters, and Walt Disney's Cinderella as Anastasia Tremaine. She voiced the starring character of the first made-for-television cartoon, Crusader Rabbit."
     },
     {
       "body": "Despite residing in an assisted-living home toward the end of her life, she was still capable of doing voice work.",
       "links": [],
+      "section": [
+        "Lucille Bliss",
+        "Biographical information"
+      ],
       "text": "Despite residing in an assisted-living home toward the end of her life, she was still capable of doing voice work."
+    },
+    {
+      "body": "2000: Won an Annie Award (Winsor McCay Award)",
+      "links": [],
+      "section": [
+        "Lucille Bliss",
+        "Awards"
+      ],
+      "text": "2000: Won an Annie Award (Winsor McCay Award)"
+    },
+    {
+      "body": "1999: Won a Young Artist Award for Cinderella (Former Child Star Lifetime Achievement Award)",
+      "links": [],
+      "section": [
+        "Lucille Bliss",
+        "Awards"
+      ],
+      "text": "1999: Won a Young Artist Award for Cinderella (Former Child Star Lifetime Achievement Award)"
     }
   ],
   "source": {

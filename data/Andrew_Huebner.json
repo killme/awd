@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Oblongs (2001)",
+          "body": "${link_0} (2001)",
           "extra": "(2001)",
           "extra_text": "(2001)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Oblongs",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0219446",
+                "page": "http://www.imdb.com/find?q=tt0219446"
+              }
+            }
+          ],
           "text": "The Oblongs (2001)",
-          "value": "The Oblongs",
+          "value": "${link_0}",
           "value_text": "The Oblongs"
         }
       ]
@@ -41,21 +54,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2957131",
+                "page": "http://www.imdb.com/find?q=nm2957131"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Andrew_Huebner",
+                "page": "http://en.wikipedia.org/wiki/Andrew_Huebner"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -63,9 +96,509 @@
   ],
   "paragraphs": [
     {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boy in the Iceberg",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boy_in_the_Iceberg",
+            "page": "The_Boy_in_the_Iceberg"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "101. \"The Boy in the Iceberg\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_Returns",
+            "page": "The_Avatar_Returns"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "102. \"The Avatar Returns\""
+    },
+    {
+      "body": "103. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Air_Temple",
+            "page": "The_Southern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "103. \"The Southern Air Temple\""
+    },
+    {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Warriors of Kyoshi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Warriors_of_Kyoshi",
+            "page": "The_Warriors_of_Kyoshi"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "104. \"The Warriors of Kyoshi\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "115. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bato of the Water Tribe",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bato_of_the_Water_Tribe",
+            "page": "Bato_of_the_Water_Tribe"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "115. \"Bato of the Water Tribe\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Cave of Two Lovers",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Cave_of_Two_Lovers",
+            "page": "The_Cave_of_Two_Lovers"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "202. \"The Cave of Two Lovers\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Swamp",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Swamp",
+            "page": "The_Swamp"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "204. \"The Swamp\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Zuko Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zuko_Alone",
+            "page": "Zuko_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "207. \"Zuko Alone\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Production manager"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "215. \"${link_0}\" (${link_1})",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        },
+        {
+          "body": "The Tale of Iroh",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se#The_Tale_of_Iroh",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\" (The Tale of Iroh)"
+    },
+    {
+      "body": "${link_0} (post-production coordinator and production assistant)",
+      "links": [
+        {
+          "body": "Dora the Explorer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235917",
+            "page": "http://www.imdb.com/find?q=tt0235917"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dora the Explorer (post-production coordinator and production assistant)"
+    },
+    {
+      "body": "${link_0} (producer)",
+      "links": [
+        {
+          "body": "Kung Fu Panda: Legends of Awesomeness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545214",
+            "page": "http://www.imdb.com/find?q=tt1545214"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kung Fu Panda: Legends of Awesomeness (producer)"
+    },
+    {
+      "body": "${link_0} (production coordinator)",
+      "links": [
+        {
+          "body": "Mission Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0197148",
+            "page": "http://www.imdb.com/find?q=tt0197148"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mission Hill (production coordinator)"
+    },
+    {
+      "body": "${link_0} (producer)",
+      "links": [
+        {
+          "body": "Monsters vs. Aliens",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2782214",
+            "page": "http://www.imdb.com/find?q=tt2782214"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Monsters vs. Aliens (producer)"
+    },
+    {
+      "body": "${link_0} (production assistant)",
+      "links": [
+        {
+          "body": "The Oblongs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0219446",
+            "page": "http://www.imdb.com/find?q=tt0219446"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Oblongs (production assistant)"
+    },
+    {
+      "body": "${link_0} (producer)",
+      "links": [
+        {
+          "body": "The Penguins of Madagascar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0892700",
+            "page": "http://www.imdb.com/find?q=tt0892700"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Huebner",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Penguins of Madagascar (producer)"
+    },
+    {
       "body": "Huebner was a part of the staff for The Penguins of Madagascar when the program won the Daytime Emmy for Outstanding Children's Animated Program in 2012.",
       "links": [],
+      "section": [
+        "Andrew Huebner",
+        "Biographical information"
+      ],
       "text": "Huebner was a part of the staff for The Penguins of Madagascar when the program won the Daytime Emmy for Outstanding Children's Animated Program in 2012."
+    },
+    {
+      "body": "2013: Won a Daytime Emmy Award for Kung Fu Panda: Legends of Awesomeness (Outstanding Children's Animated Program",
+      "links": [],
+      "section": [
+        "Andrew Huebner",
+        "Awards"
+      ],
+      "text": "2013: Won a Daytime Emmy Award for Kung Fu Panda: Legends of Awesomeness (Outstanding Children's Animated Program"
+    },
+    {
+      "body": "2012: Won a Daytime Emmy Award for The Penguins of Madagascar (Outstanding Children's Animated Program)",
+      "links": [],
+      "section": [
+        "Andrew Huebner",
+        "Awards"
+      ],
+      "text": "2012: Won a Daytime Emmy Award for The Penguins of Madagascar (Outstanding Children's Animated Program)"
+    },
+    {
+      "body": "2012: Won a Primetime Emmy Award for The Penguins of Madagascar (Outstanding Animated Program)",
+      "links": [],
+      "section": [
+        "Andrew Huebner",
+        "Awards"
+      ],
+      "text": "2012: Won a Primetime Emmy Award for The Penguins of Madagascar (Outstanding Animated Program)"
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film staff",
       "target": {
-        "href": "Category_Film_staff",
+        "external": false,
+        "href": "/wiki/Category_Film_staff",
         "page": "Category_Film_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Moving Violation (1976 - production assistant)",
+          "body": "${link_0} (1976 - production assistant)",
           "extra": "(1976 - production assistant)",
           "extra_text": "(1976 - production assistant)",
-          "links": [],
+          "links": [
+            {
+              "body": "Moving Violation",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0074924",
+                "page": "http://www.imdb.com/find?q=tt0074924"
+              }
+            }
+          ],
           "text": "Moving Violation (1976 - production assistant)",
-          "value": "Moving Violation",
+          "value": "${link_0}",
           "value_text": "Moving Violation"
         }
       ]
@@ -41,21 +54,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0580303",
+                "page": "http://www.imdb.com/find?q=nm0580303"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Sam_Mercer",
+                "page": "http://en.wikipedia.org/wiki/Sam_Mercer"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -63,16 +96,281 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0} (2012; short - producer)",
+      "links": [
+        {
+          "body": "Sabbatical",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2247200",
+            "page": "http://www.imdb.com/find?q=tt2247200"
+          }
+        }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sabbatical (2012; short - producer)"
+    },
+    {
+      "body": "${link_0} (2010 - producer)",
+      "links": [
+        {
+          "body": "Devil",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1314655",
+            "page": "http://www.imdb.com/find?q=tt1314655"
+          }
+        }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Devil (2010 - producer)"
+    },
+    {
+      "body": "${link_0} (2007 - producer)",
+      "links": [
+        {
+          "body": "Things We Lost in the Fire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0469623",
+            "page": "http://www.imdb.com/find?q=tt0469623"
+          }
+        }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Things We Lost in the Fire (2007 - producer)"
+    },
+    {
+      "body": "${link_0} (2004 - producer)",
+      "links": [
+        {
+          "body": "The Village",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0368447",
+            "page": "http://www.imdb.com/find?q=tt0368447"
+          }
+        }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Village (2004 - producer)"
+    },
+    {
+      "body": "${link_0} (2002 - unit production manager)",
+      "links": [
+        {
+          "body": "Signs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0286106",
+            "page": "http://www.imdb.com/find?q=tt0286106"
+          }
+        }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Signs (2002 - unit production manager)"
+    },
+    {
+      "body": "${link_0} (2002; short - actor)",
+      "links": [
+        {
+          "body": "Trappedinfreedom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0303406",
+            "page": "http://www.imdb.com/find?q=tt0303406"
+          }
+        }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Trappedinfreedom (2002; short - actor)"
+    },
+    {
+      "body": "${link_0} (2000 - producer)",
+      "links": [
+        {
+          "body": "Unbreakable",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0217869",
+            "page": "http://www.imdb.com/find?q=tt0217869"
+          }
+        }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Unbreakable (2000 - producer)"
+    },
+    {
+      "body": "${link_0} (1999 - unit production manager)",
+      "links": [
+        {
+          "body": "The Sixth Sense",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0167404",
+            "page": "http://www.imdb.com/find?q=tt0167404"
+          }
+        }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Sixth Sense (1999 - unit production manager)"
+    },
+    {
+      "body": "${link_0} (1997 - producer)",
+      "links": [
+        {
+          "body": "The Relic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120004",
+            "page": "http://www.imdb.com/find?q=tt0120004"
+          }
+        }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Relic (1997 - producer)"
+    },
+    {
+      "body": "${link_0} (1987 - location manager)",
+      "links": [
+        {
+          "body": "The Witches of Eastwick",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094332",
+            "page": "http://www.imdb.com/find?q=tt0094332"
+          }
+        }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Witches of Eastwick (1987 - location manager)"
+    },
+    {
+      "body": "${link_0} (1985 - location manager)",
+      "links": [
+        {
+          "body": "Pee-wee's Big Adventure",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0089791",
+            "page": "http://www.imdb.com/find?q=tt0089791"
+          }
+        }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pee-wee's Big Adventure (1985 - location manager)"
+    },
+    {
+      "body": "${link_0} (1983 - location manager)",
+      "links": [
+        {
+          "body": "Second Thoughts",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086269",
+            "page": "http://www.imdb.com/find?q=tt0086269"
+          }
+        }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Second Thoughts (1983 - location manager)"
+    },
+    {
+      "body": "${link_0} (1981 - location manager)",
+      "links": [
+        {
+          "body": "Stripes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0083131",
+            "page": "http://www.imdb.com/find?q=tt0083131"
+          }
+        }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stripes (1981 - location manager)"
+    },
+    {
       "body": "Mercer's career started during the early 1980s as a location manager and later advanced to a producer and executive producer. He helped produce the M. Night Shyamalan films, The Happening and ${link_0}.",
       "links": [
         {
           "body": "The Last Airbender",
           "key": "${link_0}",
           "target": {
-            "href": "Film_The_Last_Airbender",
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender",
             "page": "Film_The_Last_Airbender"
           }
         }
+      ],
+      "section": [
+        "Sam Mercer",
+        "Biographical information"
       ],
       "text": "Mercer's career started during the early 1980s as a location manager and later advanced to a producer and executive producer. He helped produce the M. Night Shyamalan films, The Happening and The Last Airbender."
     }

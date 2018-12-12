@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Avatar: The Last Airbender (2005)",
+          "body": "${link_0} (2005)",
           "extra": "(2005)",
           "extra_text": "(2005)",
-          "links": [],
+          "links": [
+            {
+              "body": "Avatar: The Last Airbender",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0417299",
+                "page": "http://www.imdb.com/find?q=tt0417299"
+              }
+            }
+          ],
           "text": "Avatar: The Last Airbender (2005)",
-          "value": "Avatar: The Last Airbender",
+          "value": "${link_0}",
           "value_text": "Avatar: The Last Airbender"
         }
       ]
@@ -41,12 +54,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2684172",
+                "page": "http://www.imdb.com/find?q=nm2684172"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -54,9 +77,84 @@
   ],
   "paragraphs": [
     {
-      "body": "This page lacks visual representations and needs one or more relevant images.",
-      "links": [],
-      "text": "This page lacks visual representations and needs one or more relevant images."
+      "body": "115. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bato of the Water Tribe",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bato_of_the_Water_Tribe",
+            "page": "Bato_of_the_Water_Tribe"
+          }
+        }
+      ],
+      "section": [
+        "Ian Wilcox",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "115. \"Bato of the Water Tribe\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Family Guy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0182576",
+            "page": "http://www.imdb.com/find?q=tt0182576"
+          }
+        }
+      ],
+      "section": [
+        "Ian Wilcox",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Family Guy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "King of the Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118375",
+            "page": "http://www.imdb.com/find?q=tt0118375"
+          }
+        }
+      ],
+      "section": [
+        "Ian Wilcox",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "King of the Hill"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Simpsons",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096697",
+            "page": "http://www.imdb.com/find?q=tt0096697"
+          }
+        }
+      ],
+      "section": [
+        "Ian Wilcox",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Simpsons"
     }
   ],
   "source": {

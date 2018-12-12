@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The King Family Show (1965)",
+          "body": "${link_0} (1965)",
           "extra": "(1965)",
           "extra_text": "(1965)",
-          "links": [],
+          "links": [
+            {
+              "body": "The King Family Show",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0267192",
+                "page": "http://www.imdb.com/find?q=tt0267192"
+              }
+            }
+          ],
           "text": "The King Family Show (1965)",
-          "value": "The King Family Show",
+          "value": "${link_0}",
           "value_text": "The King Family Show"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0164682",
+                "page": "http://www.imdb.com/find?q=nm0164682"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Cam_Clarke",
+                "page": "http://en.wikipedia.org/wiki/Cam_Clarke"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.camclarke.com/",
+                "page": "http://www.camclarke.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/CamClarkeVoices",
+                "page": "https://twitter.com/CamClarkeVoices"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,13 +162,543 @@
   ],
   "paragraphs": [
     {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Avatar: The Last Airbender credits",
+        "Lao Beifong"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Flip That House",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0476040",
+            "page": "http://www.imdb.com/find?q=tt0476040"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Flip That House"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Masters of the Universe vs. the Snake Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0331744",
+            "page": "http://www.imdb.com/find?q=tt0331744"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Masters of the Universe vs. the Snake Men"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Special Agent Oso",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1124354",
+            "page": "http://www.imdb.com/find?q=tt1124354"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Special Agent Oso"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Teenage Mutant Ninja Turtles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1877889",
+            "page": "http://www.imdb.com/find?q=tt1877889"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Terminator Salvation: The Machinima Series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1446633",
+            "page": "http://www.imdb.com/find?q=tt1446633"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Terminator Salvation: The Machinima Series"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Tick",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112196",
+            "page": "http://www.imdb.com/find?q=tt0112196"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Tick"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "W.I.T.C.H.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0383718",
+            "page": "http://www.imdb.com/find?q=tt0383718"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "W.I.T.C.H."
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Hotel Transylvania",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837562",
+            "page": "http://www.imdb.com/find?q=tt0837562"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hotel Transylvania (2012)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Barnyard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0414853",
+            "page": "http://www.imdb.com/find?q=tt0414853"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Barnyard (2008)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Clifford's Really Big Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398872",
+            "page": "http://www.imdb.com/find?q=tt0398872"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Clifford's Really Big Movie (2004)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Matter of Trust",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0178746",
+            "page": "http://www.imdb.com/find?q=tt0178746"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Matter of Trust (1997)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "The Adventures of Huck Finn",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106223",
+            "page": "http://www.imdb.com/find?q=tt0106223"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Adventures of Huck Finn (1993)"
+    },
+    {
+      "body": "${link_0} (1988)",
+      "links": [
+        {
+          "body": "Akira",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094625",
+            "page": "http://www.imdb.com/find?q=tt0094625"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Akira (1988)"
+    },
+    {
+      "body": "${link_0}(1976)",
+      "links": [
+        {
+          "body": "Baker's Hawk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0074176",
+            "page": "http://www.imdb.com/find?q=tt0074176"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Baker's Hawk(1976)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dragon Age: Origins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1363107",
+            "page": "http://www.imdb.com/find?q=tt1363107"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dragon Age: Origins (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0180825",
+            "page": "http://www.imdb.com/find?q=tt0180825"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid 2: Sons of Liberty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0249008",
+            "page": "http://www.imdb.com/find?q=tt0249008"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid 2: Sons of Liberty (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid 4: Guns of the Patriots",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462423",
+            "page": "http://www.imdb.com/find?q=tt0462423"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid 4: Guns of the Patriots (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Knights of the Old Republic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356070",
+            "page": "http://www.imdb.com/find?q=tt0356070"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Knights of the Old Republic (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: X-Wing Alliance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0246253",
+            "page": "http://www.imdb.com/find?q=tt0246253"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: X-Wing Alliance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tenchu: Wrath of Heaven",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0280142",
+            "page": "http://www.imdb.com/find?q=tt0280142"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tenchu: Wrath of Heaven (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "World of Warcraft",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0940530",
+            "page": "http://www.imdb.com/find?q=tt0940530"
+          }
+        }
+      ],
+      "section": [
+        "Cam Clarke",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "World of Warcraft (video game)"
+    },
+    {
       "body": "Cam Clarke was born in 1957 in the city of Los Angeles, California, to actor Robert Clarke and singer Alyce King. Clarke's first entry into show business was his appearances on his family's ABC variety show, The King Family, at the age of six. He continued to perform with his family on various TV specials until the 1980s.",
       "links": [],
+      "section": [
+        "Cam Clarke",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Cam Clarke was born in 1957 in the city of Los Angeles, California, to actor Robert Clarke and singer Alyce King. Clarke's first entry into show business was his appearances on his family's ABC variety show, The King Family, at the age of six. He continued to perform with his family on various TV specials until the 1980s."
     },
     {
       "body": "In addition to his Star Wars roles, he is well known for his long list of video game and animation roles, playing the characters Medivh, Malygos, and Nexus-Prince Shaffar in World of Warcraft, Liquid Snake in the Metal Gear Solid franchise of video games, Kaneda in the original English dub of Katsuhiro Otomo's Akira, Simba in Timon and Pumbaa and Kingdom Hearts II, Simba's singing voice in The Lion King II: Simba's Pride, Kratos Aurion in Tales of Symphonia, and Leonardo in the 1987 version of Teenage Mutant Ninja Turtles.",
       "links": [],
+      "section": [
+        "Cam Clarke",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In addition to his Star Wars roles, he is well known for his long list of video game and animation roles, playing the characters Medivh, Malygos, and Nexus-Prince Shaffar in World of Warcraft, Liquid Snake in the Metal Gear Solid franchise of video games, Kaneda in the original English dub of Katsuhiro Otomo's Akira, Simba in Timon and Pumbaa and Kingdom Hearts II, Simba's singing voice in The Lion King II: Simba's Pride, Kratos Aurion in Tales of Symphonia, and Leonardo in the 1987 version of Teenage Mutant Ninja Turtles."
     }
   ],

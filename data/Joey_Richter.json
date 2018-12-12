@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "A Very Potter Musical (2009)",
+          "body": "${link_0} (2009)",
           "extra": "(2009)",
           "extra_text": "(2009)",
-          "links": [],
+          "links": [
+            {
+              "body": "A Very Potter Musical",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt2033193",
+                "page": "http://www.imdb.com/find?q=tt2033193"
+              }
+            }
+          ],
           "text": "A Very Potter Musical (2009)",
-          "value": "A Very Potter Musical",
+          "value": "${link_0}",
           "value_text": "A Very Potter Musical"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm4013413",
+                "page": "http://www.imdb.com/find?q=nm4013413"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Joey_Richter",
+                "page": "http://en.wikipedia.org/wiki/Joey_Richter"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Joey-Richter/140730675959481",
+                "page": "https://www.facebook.com/pages/Joey-Richter/140730675959481"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/116533126460684049880/posts",
+                "page": "https://plus.google.com/116533126460684049880/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/JoeyRichter",
+                "page": "https://twitter.com/JoeyRichter"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,14 +181,241 @@
   ],
   "paragraphs": [
     {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Terror Within",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Terror_Within",
+            "page": "The_Terror_Within"
+          }
+        }
+      ],
+      "section": [
+        "Joey Richter",
+        "The Legend of Korra credits",
+        "Hong Li"
+      ],
+      "text": "308. \"The Terror Within\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Glee",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1327801",
+            "page": "http://www.imdb.com/find?q=tt1327801"
+          }
+        }
+      ],
+      "section": [
+        "Joey Richter",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Glee"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jessie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1865769",
+            "page": "http://www.imdb.com/find?q=tt1865769"
+          }
+        }
+      ],
+      "section": [
+        "Joey Richter",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jessie"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mad",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1718438",
+            "page": "http://www.imdb.com/find?q=tt1718438"
+          }
+        }
+      ],
+      "section": [
+        "Joey Richter",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mad"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Manly",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3810560",
+            "page": "http://www.imdb.com/find?q=tt3810560"
+          }
+        }
+      ],
+      "section": [
+        "Joey Richter",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Manly"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Muzzled",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3854338",
+            "page": "http://www.imdb.com/find?q=tt3854338"
+          }
+        }
+      ],
+      "section": [
+        "Joey Richter",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Muzzled"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "School of Thrones",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2781552",
+            "page": "http://www.imdb.com/find?q=tt2781552"
+          }
+        }
+      ],
+      "section": [
+        "Joey Richter",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "School of Thrones"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Khumba",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1487931",
+            "page": "http://www.imdb.com/find?q=tt1487931"
+          }
+        }
+      ],
+      "section": [
+        "Joey Richter",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Khumba (2013)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Starship",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2044863",
+            "page": "http://www.imdb.com/find?q=tt2044863"
+          }
+        }
+      ],
+      "section": [
+        "Joey Richter",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Starship (2011)"
+    },
+    {
+      "body": "${link_0} (2010; short)",
+      "links": [
+        {
+          "body": "Camp Chapel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1764220",
+            "page": "http://www.imdb.com/find?q=tt1764220"
+          }
+        }
+      ],
+      "section": [
+        "Joey Richter",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Camp Chapel (2010; short)"
+    },
+    {
       "body": "Richter co-starred as Ron Weasley in the fan-parody musicals A Very Potter Musical in 2009, A Very Potter Sequel in 2010, and A Very Potter Senior Year in 2012 with Bonnie Gruesen and fellow Glee cast-member Darren Criss, under the University of Michigan theatre group, StarKid Productions. He starred in leading roles in two other StarKid productions: as a fictionalized version of himself in the musicals Me and My Dick in 2009 and Bug in Starship in 2011. Richter graduated from the University of Michigan in 2011. Richter also performed on The SPACE Tour along with several fellow Starkids. In 2012, Richter performed in Starkid's Apocalyptour.",
       "links": [],
+      "section": [
+        "Joey Richter",
+        "Biographical information"
+      ],
       "text": "Richter co-starred as Ron Weasley in the fan-parody musicals A Very Potter Musical in 2009, A Very Potter Sequel in 2010, and A Very Potter Senior Year in 2012 with Bonnie Gruesen and fellow Glee cast-member Darren Criss, under the University of Michigan theatre group, StarKid Productions. He starred in leading roles in two other StarKid productions: as a fictionalized version of himself in the musicals Me and My Dick in 2009 and Bug in Starship in 2011. Richter graduated from the University of Michigan in 2011. Richter also performed on The SPACE Tour along with several fellow Starkids. In 2012, Richter performed in Starkid's Apocalyptour."
     },
     {
       "body": "In addition to StarKid projects, Richter starred in a YouTube web series alongside fellow StarKid Joe Walker called Tasty Tests, promoting Red Vines, as well as starring in the independent film Camp Chapel. Richter has appeared in the animated film Khumba and had a recurring role as Officer Petey on the Disney Channel show Jessie, beginning in the episode titled \"Badfellas\", which premiered April 27, 2012. Richter had originally auditioned for a main role, the bellhop and doorman Tony, but was not cast.",
       "links": [],
+      "section": [
+        "Joey Richter",
+        "Biographical information"
+      ],
       "text": "In addition to StarKid projects, Richter starred in a YouTube web series alongside fellow StarKid Joe Walker called Tasty Tests, promoting Red Vines, as well as starring in the independent film Camp Chapel. Richter has appeared in the animated film Khumba and had a recurring role as Officer Petey on the Disney Channel show Jessie, beginning in the episode titled \"Badfellas\", which premiered April 27, 2012. Richter had originally auditioned for a main role, the bellhop and doorman Tony, but was not cast."
+    },
+    {
+      "body": "Richter shares a birthday with fellow Korra voice actor ${link_0}.",
+      "links": [
+        {
+          "body": "Zelda Williams",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zelda_Williams",
+            "page": "Zelda_Williams"
+          }
+        }
+      ],
+      "section": [
+        "Joey Richter",
+        "Trivia"
+      ],
+      "text": "Richter shares a birthday with fellow Korra voice actor Zelda Williams."
     }
   ],
   "source": {

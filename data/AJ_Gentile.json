@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Singled Out (1995)",
+          "body": "${link_0} (1995)",
           "extra": "(1995)",
           "extra_text": "(1995)",
-          "links": [],
+          "links": [
+            {
+              "body": "Singled Out",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0112164",
+                "page": "http://www.imdb.com/find?q=tt0112164"
+              }
+            }
+          ],
           "text": "Singled Out (1995)",
-          "value": "Singled Out",
+          "value": "${link_0}",
           "value_text": "Singled Out"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0313054",
+                "page": "http://www.imdb.com/find?q=nm0313054"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/ajgentile",
+                "page": "https://www.facebook.com/ajgentile"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/115900142724120824543/posts",
+                "page": "https://plus.google.com/115900142724120824543/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/ajgentile",
+                "page": "https://twitter.com/ajgentile"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,8 +162,252 @@
   ],
   "paragraphs": [
     {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Voice in the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Voice_in_the_Night",
+            "page": "The_Voice_in_the_Night"
+          }
+        }
+      ],
+      "section": [
+        "AJ Gentile",
+        "The Legend of Korra credits",
+        "Council page"
+      ],
+      "text": "104. \"The Voice in the Night\""
+    },
+    {
+      "body": "108. \"${link_0}\"",
+      "links": [
+        {
+          "body": "When Extremes Meet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/When_Extremes_Meet",
+            "page": "When_Extremes_Meet"
+          }
+        }
+      ],
+      "section": [
+        "AJ Gentile",
+        "The Legend of Korra credits",
+        "Council page"
+      ],
+      "text": "108. \"When Extremes Meet\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "AJ Gentile",
+        "The Legend of Korra credits",
+        "Council page"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Turning the Tides",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        }
+      ],
+      "section": [
+        "AJ Gentile",
+        "The Legend of Korra credits",
+        "Council page"
+      ],
+      "text": "110. \"Turning the Tides\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "AJ Gentile",
+        "The Legend of Korra credits",
+        "Metalbender officer"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Turning the Tides",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        }
+      ],
+      "section": [
+        "AJ Gentile",
+        "The Legend of Korra credits",
+        "Police clerk #1"
+      ],
+      "text": "110. \"Turning the Tides\""
+    },
+    {
+      "body": "108. \"${link_0}\"",
+      "links": [
+        {
+          "body": "When Extremes Meet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/When_Extremes_Meet",
+            "page": "When_Extremes_Meet"
+          }
+        }
+      ],
+      "section": [
+        "AJ Gentile",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "108. \"When Extremes Meet\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Turning the Tides",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        }
+      ],
+      "section": [
+        "AJ Gentile",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "110. \"Turning the Tides\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Midnight Spike's House Brew",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0442641",
+            "page": "http://www.imdb.com/find?q=tt0442641"
+          }
+        }
+      ],
+      "section": [
+        "AJ Gentile",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "Midnight Spike's House Brew"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Bartender Hates You",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1457746",
+            "page": "http://www.imdb.com/find?q=tt1457746"
+          }
+        }
+      ],
+      "section": [
+        "AJ Gentile",
+        "Selected other credits",
+        "Television"
+      ],
+      "text": "The Bartender Hates You"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "The Garage Fighters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1844797",
+            "page": "http://www.imdb.com/find?q=tt1844797"
+          }
+        }
+      ],
+      "section": [
+        "AJ Gentile",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "The Garage Fighters (2009; short)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Nick and Jane",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0117172",
+            "page": "http://www.imdb.com/find?q=tt0117172"
+          }
+        }
+      ],
+      "section": [
+        "AJ Gentile",
+        "Selected other credits",
+        "Film"
+      ],
+      "text": "Nick and Jane (1997)"
+    },
+    {
       "body": "Gentile was a story editor for twelve episodes of the 2009 MTV series Fantasy Factory and five episodes of MTV's Ultimate Parkour Challenge.",
       "links": [],
+      "section": [
+        "AJ Gentile",
+        "Biographical information"
+      ],
       "text": "Gentile was a story editor for twelve episodes of the 2009 MTV series Fantasy Factory and five episodes of MTV's Ultimate Parkour Challenge."
     }
   ],

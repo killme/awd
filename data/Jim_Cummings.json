@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Dumbo's Circus (1985)",
+          "body": "${link_0} (1985)",
           "extra": "(1985)",
           "extra_text": "(1985)",
-          "links": [],
+          "links": [
+            {
+              "body": "Dumbo's Circus",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0252399",
+                "page": "http://www.imdb.com/find?q=tt0252399"
+              }
+            }
+          ],
           "text": "Dumbo's Circus (1985)",
-          "value": "Dumbo's Circus",
+          "value": "${link_0}",
           "value_text": "Dumbo's Circus"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0191906",
+                "page": "http://www.imdb.com/find?q=nm0191906"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jim_Cummings",
+                "page": "http://en.wikipedia.org/wiki/Jim_Cummings"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,14 +124,462 @@
   ],
   "paragraphs": [
     {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "The Legend of Korra credits",
+        "Deep Voice Narrator"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "The Legend of Korra credits",
+        "Karu"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "The Legend of Korra credits",
+        "Karu"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "The Legend of Korra credits",
+        "Hunter #3"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "The Legend of Korra credits",
+        "Lion turtle"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "The Legend of Korra credits",
+        "Lion turtle"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Chip 'n' Dale Rescue Rangers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096557",
+            "page": "http://www.imdb.com/find?q=tt0096557"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Chip 'n' Dale Rescue Rangers"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Darkwing Duck",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101076",
+            "page": "http://www.imdb.com/find?q=tt0101076"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Darkwing Duck"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Goof Troop",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103428",
+            "page": "http://www.imdb.com/find?q=tt0103428"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Goof Troop"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mickey Mouse Clubhouse",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0784896",
+            "page": "http://www.imdb.com/find?q=tt0784896"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mickey Mouse Clubhouse"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Legend of Tarzan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0283754",
+            "page": "http://www.imdb.com/find?q=tt0283754"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Legend of Tarzan"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Wreck-it Ralph",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1772341",
+            "page": "http://www.imdb.com/find?q=tt1772341"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Wreck-it Ralph (2012)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Bee Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0389790",
+            "page": "http://www.imdb.com/find?q=tt0389790"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bee Movie (2007)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "The Lion King 1\u00bd",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0318403",
+            "page": "http://www.imdb.com/find?q=tt0318403"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Lion King 1\u00bd (2004)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Shrek",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0126029",
+            "page": "http://www.imdb.com/find?q=tt0126029"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Shrek (2001)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Tarzan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120855",
+            "page": "http://www.imdb.com/find?q=tt0120855"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tarzan (1999)"
+    },
+    {
+      "body": "${link_0} (1992)",
+      "links": [
+        {
+          "body": "Aladdin",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103639",
+            "page": "http://www.imdb.com/find?q=tt0103639"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Aladdin (1992)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "Castle in the Sky",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092067",
+            "page": "http://www.imdb.com/find?q=tt0092067"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Castle in the Sky (1986)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Epic Mickey",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1560146",
+            "page": "http://www.imdb.com/find?q=tt1560146"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Epic Mickey (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel: Ultimate Alliance 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1266580",
+            "page": "http://www.imdb.com/find?q=tt1266580"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel: Ultimate Alliance 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Elder Scrolls V: Skyrim",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1814884",
+            "page": "http://www.imdb.com/find?q=tt1814884"
+          }
+        }
+      ],
+      "section": [
+        "Jim Cummings",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Elder Scrolls V: Skyrim (video game)"
+    },
+    {
       "body": "Born in Youngstown, Ohio, Cummings relocated to New Orleans, Louisiana, where he designed and painted Mardi Gras floats, worked as a river boat deck hand, and sang and played drums in the regionally successful rock band \"FUSION\".",
       "links": [],
+      "section": [
+        "Jim Cummings",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Born in Youngstown, Ohio, Cummings relocated to New Orleans, Louisiana, where he designed and painted Mardi Gras floats, worked as a river boat deck hand, and sang and played drums in the regionally successful rock band \"FUSION\"."
     },
     {
       "body": "He later married and moved to Anaheim, California, where he managed a video store in the early 1980s before launching his voice-acting career in late 1984. Cummings and his wife Stephanie have two daughters as well as two older children from a previous marriage.",
       "links": [],
+      "section": [
+        "Jim Cummings",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "He later married and moved to Anaheim, California, where he managed a video store in the early 1980s before launching his voice-acting career in late 1984. Cummings and his wife Stephanie have two daughters as well as two older children from a previous marriage."
+    },
+    {
+      "body": "1993: Won an Annie Award for Darkwing Duck (Voice Acting in the Field of Animation)",
+      "links": [],
+      "section": [
+        "Jim Cummings",
+        "Awards"
+      ],
+      "text": "1993: Won an Annie Award for Darkwing Duck (Voice Acting in the Field of Animation)"
+    },
+    {
+      "body": "1992: Won an Annie Award for Goof Troop (Voice Acting in the Field of Animation)",
+      "links": [],
+      "section": [
+        "Jim Cummings",
+        "Awards"
+      ],
+      "text": "1992: Won an Annie Award for Goof Troop (Voice Acting in the Field of Animation)"
     }
   ],
   "source": {

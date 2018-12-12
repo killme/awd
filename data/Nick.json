@@ -3,14 +3,16 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -20,29 +22,10 @@
     {
       "body": "",
       "links": [],
-      "text": ""
-    },
-    {
-      "body": "The home page for ${link_0} features a map of the entire ${link_1}.",
-      "links": [
-        {
-          "body": "Book One: Water",
-          "key": "${link_0}",
-          "target": {
-            "href": "Book_One__Water",
-            "page": "Book_One__Water"
-          }
-        },
-        {
-          "body": "World of Avatar",
-          "key": "${link_1}",
-          "target": {
-            "href": "Earth",
-            "page": "Earth"
-          }
-        }
+      "section": [
+        "Nick.com's Avatar Index"
       ],
-      "text": "The home page for Book One: Water features a map of the entire World of Avatar."
+      "text": ""
     },
     {
       "body": "Nick.com's Avatar Index was a large source of canonical information on the ${link_0}, with content contributions from ${link_1}, ${link_2}, and ${link_3}. The index was removed at some point and is no longer hosted on Nick.com.",
@@ -51,7 +34,8 @@
           "body": "World of Avatar",
           "key": "${link_0}",
           "target": {
-            "href": "Earth",
+            "external": false,
+            "href": "/wiki/Earth",
             "page": "Earth"
           }
         },
@@ -59,7 +43,8 @@
           "body": "Michael Dante DiMartino",
           "key": "${link_1}",
           "target": {
-            "href": "Michael_Dante_DiMartino",
+            "external": false,
+            "href": "/wiki/Michael_Dante_DiMartino",
             "page": "Michael_Dante_DiMartino"
           }
         },
@@ -67,7 +52,8 @@
           "body": "Tim Hedrick",
           "key": "${link_2}",
           "target": {
-            "href": "Tim_Hedrick",
+            "external": false,
+            "href": "/wiki/Tim_Hedrick",
             "page": "Tim_Hedrick"
           }
         },
@@ -75,10 +61,14 @@
           "body": "Joshua Hamilton",
           "key": "${link_3}",
           "target": {
-            "href": "Joshua_Hamilton",
+            "external": false,
+            "href": "/wiki/Joshua_Hamilton",
             "page": "Joshua_Hamilton"
           }
         }
+      ],
+      "section": [
+        "Nick.com's Avatar Index"
       ],
       "text": "Nick.com's Avatar Index was a large source of canonical information on the World of Avatar, with content contributions from Michael Dante DiMartino, Tim Hedrick, and Joshua Hamilton. The index was removed at some point and is no longer hosted on Nick.com."
     },
@@ -89,7 +79,8 @@
           "body": "waterbending",
           "key": "${link_0}",
           "target": {
-            "href": "Waterbending",
+            "external": false,
+            "href": "/wiki/Waterbending",
             "page": "Waterbending"
           }
         },
@@ -97,7 +88,8 @@
           "body": "earthbending",
           "key": "${link_1}",
           "target": {
-            "href": "Earthbending",
+            "external": false,
+            "href": "/wiki/Earthbending",
             "page": "Earthbending"
           }
         },
@@ -105,7 +97,8 @@
           "body": "firebending",
           "key": "${link_2}",
           "target": {
-            "href": "Firebending",
+            "external": false,
+            "href": "/wiki/Firebending",
             "page": "Firebending"
           }
         },
@@ -113,7 +106,8 @@
           "body": "airbending",
           "key": "${link_3}",
           "target": {
-            "href": "Airbending",
+            "external": false,
+            "href": "/wiki/Airbending",
             "page": "Airbending"
           }
         },
@@ -121,7 +115,8 @@
           "body": "Book One: Water",
           "key": "${link_4}",
           "target": {
-            "href": "Book_One__Water",
+            "external": false,
+            "href": "/wiki/Book_One__Water",
             "page": "Book_One__Water"
           }
         },
@@ -129,7 +124,8 @@
           "body": "Book Two: Earth",
           "key": "${link_5}",
           "target": {
-            "href": "Book_Two__Earth",
+            "external": false,
+            "href": "/wiki/Book_Two__Earth",
             "page": "Book_Two__Earth"
           }
         },
@@ -137,7 +133,8 @@
           "body": "Book Three: Fire",
           "key": "${link_6}",
           "target": {
-            "href": "Book_Three__Fire",
+            "external": false,
+            "href": "/wiki/Book_Three__Fire",
             "page": "Book_Three__Fire"
           }
         },
@@ -145,10 +142,15 @@
           "body": "Fire Nation",
           "key": "${link_7}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Map"
       ],
       "text": "The home page of the index is a map, as well as links to information on waterbending, earthbending, firebending, and airbending. From there, one can cycle through to maps of Book One: Water, Book Two: Earth, both of which depict the Avatar world, or Book Three: Fire, a map solely of the Fire Nation and set as the default."
     },
@@ -159,64 +161,605 @@
           "body": "Aang",
           "key": "${link_0}",
           "target": {
-            "href": "Aang",
+            "external": false,
+            "href": "/wiki/Aang",
             "page": "Aang"
           }
         }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Map"
       ],
       "text": "On each map, there are several white dots marking where an episode took place. When hovered over, a pop-up with Aang's face appears that shows the book number, episode number, and episode name to which the dot is linked."
     },
     {
       "body": "Upon clicking the white button link, a viewer will be shown several different flashes of landscape art, and after a short while a page on the episode. There are several sections written on a bar at the top, and when clicked they will lead to a different entry on the appropriate subject as seen in the episode. On the bottom, there is a bar providing links to the pages for all other episodes in the book, as listed by the season and episode number. The last two episodes of Book Three are merged into one page, titled Into the Inferno & Avatar Aang.",
       "links": [],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Episode pages"
+      ],
       "text": "Upon clicking the white button link, a viewer will be shown several different flashes of landscape art, and after a short while a page on the episode. There are several sections written on a bar at the top, and when clicked they will lead to a different entry on the appropriate subject as seen in the episode. On the bottom, there is a bar providing links to the pages for all other episodes in the book, as listed by the season and episode number. The last two episodes of Book Three are merged into one page, titled Into the Inferno & Avatar Aang."
     },
     {
       "body": "This is the default entry that is shown when one clicks the link to the episode. When one visits this page, information on the episode appears on the left side, while on the right is a picture of Aang and his staff.",
       "links": [],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Episode pages",
+        "Episode"
+      ],
       "text": "This is the default entry that is shown when one clicks the link to the episode. When one visits this page, information on the episode appears on the left side, while on the right is a picture of Aang and his staff."
     },
     {
       "body": "Upon clicking the \"characters\" section, one sees a slider with the faces of several characters seen in the episode. Upon clicking one of the faces, the full body of that character is seen, as well as their name and a brief description of who they are.",
       "links": [],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Episode pages",
+        "Characters"
+      ],
       "text": "Upon clicking the \"characters\" section, one sees a slider with the faces of several characters seen in the episode. Upon clicking one of the faces, the full body of that character is seen, as well as their name and a brief description of who they are."
     },
     {
       "body": "When the \"creatures\" section is clicked, all creature entries on the page are shown, including an image of the creature, their name, and a brief description are shown.",
       "links": [],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Episode pages",
+        "Creatures"
+      ],
       "text": "When the \"creatures\" section is clicked, all creature entries on the page are shown, including an image of the creature, their name, and a brief description are shown."
     },
     {
       "body": "In the \"new locations\" section, there are images at the bottom of locations visited in the episode. When one of the images is clicked, a larger version of the picture appears in addition to an entry on that location.",
       "links": [],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Episode pages",
+        "New locations"
+      ],
       "text": "In the \"new locations\" section, there are images at the bottom of locations visited in the episode. When one of the images is clicked, a larger version of the picture appears in addition to an entry on that location."
     },
     {
       "body": "In the \"gear & more\" section, either objects or other miscellaneous items from the episode will be shown on a slider similar to the one in the \"characters\" section. The slider is a little larger, however, and the images are of the whole item instead of just a small part of it.",
       "links": [],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Episode pages",
+        "Gear & more"
+      ],
       "text": "In the \"gear & more\" section, either objects or other miscellaneous items from the episode will be shown on a slider similar to the one in the \"characters\" section. The slider is a little larger, however, and the images are of the whole item instead of just a small part of it."
     },
     {
-      "body": "${link_0}'s page on Nick.com spells her name wrong and has a picture of a ${link_1} rather than one of Kya.",
+      "body": "When one tries to read the pages on water, fire, or airbending, they are cut off about halfway through, even though there is still text left. However, the entry for earthbending can be read in its entirety.",
+      "links": [],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "When one tries to read the pages on water, fire, or airbending, they are cut off about halfway through, even though there is still text left. However, the entry for earthbending can be read in its entirety."
+    },
+    {
+      "body": "Several entries are missing the proper information and instead have undefined written in their place. They also have images that flip back and forth between what they should be, and the image from another entry. The proper information for Books One and Two can, however, be examined in coded, undecorated format at the ${link_0}.",
       "links": [
         {
-          "body": "Kya",
+          "body": "Wayback Machine",
           "key": "${link_0}",
           "target": {
-            "href": "Kya_(nonbender)",
+            "external": true,
+            "href": "http://web.archive.org/web/20080108064241/http://www.nick.com/all_nick/tv_supersites/avatar2/content/xml/episodes.xml",
+            "page": "http://web.archive.org/web/20080108064241/http://www.nick.com/all_nick/tv_supersites/avatar2/content/xml/episodes.xml"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "Several entries are missing the proper information and instead have undefined written in their place. They also have images that flip back and forth between what they should be, and the image from another entry. The proper information for Books One and Two can, however, be examined in coded, undecorated format at the Wayback Machine."
+    },
+    {
+      "body": "Chapters three through twenty from the first season are on the Book One map but are listed as Earth in their summaries.",
+      "links": [],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "Chapters three through twenty from the first season are on the Book One map but are listed as Earth in their summaries."
+    },
+    {
+      "body": "On the page for \"${link_0}\", the image of the ${link_1} is one of the Earth Kingdom Avatar temple.",
+      "links": [
+        {
+          "body": "The Southern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Air_Temple",
+            "page": "The_Southern_Air_Temple"
+          }
+        },
+        {
+          "body": "air temple sanctuary",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Air_temple_sanctuaries#Southern_Sanctuary",
+            "page": "Air_temple_sanctuaries"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "On the page for \"The Southern Air Temple\", the image of the air temple sanctuary is one of the Earth Kingdom Avatar temple."
+    },
+    {
+      "body": "The episode \"${link_0}\" is titled as \"${link_1}\", which is actually a Book Two episode.",
+      "links": [
+        {
+          "body": "The King of Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_King_of_Omashu",
+            "page": "The_King_of_Omashu"
+          }
+        },
+        {
+          "body": "Return to Omashu",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "The episode \"The King of Omashu\" is titled as \"Return to Omashu\", which is actually a Book Two episode."
+    },
+    {
+      "body": "The episode \"${link_0}\" is titled as \"${link_1}\".",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        },
+        {
+          "body": "Bitter Work",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bitter_Work",
+            "page": "Bitter_Work"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "The episode \"The Great Divide\" is titled as \"Bitter Work\"."
+    },
+    {
+      "body": "The page for \"${link_0}\" features ${link_1} in the background, which does not appear until \"${link_2}\".",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        },
+        {
+          "body": "General Fong's fortress",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/General_Fong%27s_fortress",
+            "page": "General_Fong%27s_fortress"
+          }
+        },
+        {
+          "body": "The Avatar State",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "The page for \"The Blue Spirit\" features General Fong's fortress in the background, which does not appear until \"The Avatar State\"."
+    },
+    {
+      "body": "On the page for \"${link_0}\", ${link_1} and ${link_2} are listed under the creatures section.",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        },
+        {
+          "body": "The Gopher",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Gopher",
+            "page": "The_Gopher"
+          }
+        },
+        {
+          "body": "The Gecko",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Gecko",
+            "page": "The_Gecko"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "On the page for \"The Blind Bandit\", The Gopher and The Gecko are listed under the creatures section."
+    },
+    {
+      "body": "On the page for \"${link_0}\", the episode's corresponding location is marked as undefined and the image on the link switches between the pass and the ${link_1}.",
+      "links": [
+        {
+          "body": "The Serpent's Pass",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Serpent%27s_Pass",
+            "page": "The_Serpent%27s_Pass"
+          }
+        },
+        {
+          "body": "waterfall pond",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Waterfall_pond",
+            "page": "Waterfall_pond"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "On the page for \"The Serpent's Pass\", the episode's corresponding location is marked as undefined and the image on the link switches between the pass and the waterfall pond."
+    },
+    {
+      "body": "On the page for \"${link_0}\", the ${link_1}' market is marked as ${link_2} and the image on the link switches between the market and the ${link_3}.",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        },
+        {
+          "body": "beetle-headed merchants",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beetle-headed_merchants",
+            "page": "Beetle-headed_merchants"
+          }
+        },
+        {
+          "body": "Whaletail Island",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Whaletail_Island",
+            "page": "Whaletail_Island"
+          }
+        },
+        {
+          "body": "Eastern Air Temple",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Eastern_Air_Temple",
+            "page": "Eastern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "On the page for \"Appa's Lost Days\", the beetle-headed merchants' market is marked as Whaletail Island and the image on the link switches between the market and the Eastern Air Temple."
+    },
+    {
+      "body": "On the page for \"${link_0}\", the same picture of the lake is used for Whaletail Island and ${link_1}.",
+      "links": [
+        {
+          "body": "Lake Laogai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai_(episode)",
+            "page": "Lake_Laogai_(episode)"
+          }
+        },
+        {
+          "body": "Lake Laogai",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai",
+            "page": "Lake_Laogai"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "On the page for \"Lake Laogai\", the same picture of the lake is used for Whaletail Island and Lake Laogai."
+    },
+    {
+      "body": "Even though there is no page for the \"${link_0}\", there is a link on the home screen for Book Three and the slider at the bottom of the page.",
+      "links": [
+        {
+          "body": "The Runaway",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Runaway",
+            "page": "The_Runaway"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "Even though there is no page for the \"The Runaway\", there is a link on the home screen for Book Three and the slider at the bottom of the page."
+    },
+    {
+      "body": "On the page for \"${link_0}\", ${link_1}'s picture is shown on an article about a ${link_2}.",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_2",
+            "page": "The_Boiling_Rock%2c_Part_2"
+          }
+        },
+        {
+          "body": "Hakoda",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Hakoda",
+            "page": "Hakoda"
+          }
+        },
+        {
+          "body": "tough criminal",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Tough_criminal",
+            "page": "Tough_criminal"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "On the page for \"The Boiling Rock, Part 2\", Hakoda's picture is shown on an article about a tough criminal."
+    },
+    {
+      "body": "On the page for \"${link_0}\", instead of a picture of ${link_1}, there is a picture of a ${link_2}. Furthermore, her name is purported as being \"Kaya\".",
+      "links": [
+        {
+          "body": "The Southern Raiders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Raiders",
+            "page": "The_Southern_Raiders"
+          }
+        },
+        {
+          "body": "Kya",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kya_(nonbender)",
             "page": "Kya_(nonbender)"
           }
         },
         {
           "body": "Southern Raider",
-          "key": "${link_1}",
+          "key": "${link_2}",
           "target": {
-            "href": "Southern_Raiders",
+            "external": false,
+            "href": "/wiki/Southern_Raiders",
             "page": "Southern_Raiders"
           }
         }
       ],
-      "text": "Kya's page on Nick.com spells her name wrong and has a picture of a Southern Raider rather than one of Kya."
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "On the page for \"The Southern Raiders\", instead of a picture of Kya, there is a picture of a Southern Raider. Furthermore, her name is purported as being \"Kaya\"."
+    },
+    {
+      "body": "${link_0} is incorrectly noted as being in \"The Southern Raiders\".",
+      "links": [
+        {
+          "body": "Hawky",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Hawky",
+            "page": "Hawky"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "Hawky is incorrectly noted as being in \"The Southern Raiders\"."
+    },
+    {
+      "body": "On the page for \"${link_0}\", the description for the ${link_1} states that ${link_2} and the ${link_3} fought the battle during an eclipse, when it was actually during ${link_4}.",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 4: Avatar Aang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
+            "page": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang"
+          }
+        },
+        {
+          "body": "liberation of Ba Sing Se",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Liberation_of_Ba_Sing_Se",
+            "page": "Liberation_of_Ba_Sing_Se"
+          }
+        },
+        {
+          "body": "Iroh",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Iroh",
+            "page": "Iroh"
+          }
+        },
+        {
+          "body": "Order of the White Lotus",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Order_of_the_White_Lotus",
+            "page": "Order_of_the_White_Lotus"
+          }
+        },
+        {
+          "body": "Sozin's Comet",
+          "key": "${link_4}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet",
+            "page": "Sozin%27s_Comet"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "On the page for \"Sozin's Comet, Part 4: Avatar Aang\", the description for the liberation of Ba Sing Se states that Iroh and the Order of the White Lotus fought the battle during an eclipse, when it was actually during Sozin's Comet."
+    },
+    {
+      "body": "The gear and more section of the entry for \"Sozin's Comet, Part 4: Avatar Aang\" shows ${link_0} with a photo of Aang ${link_1}. Also, the characters section states that\u00a0${link_2}\u00a0was born and raised as royalty, which is inconsistent with her given history.",
+      "links": [
+        {
+          "body": "energybending",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Energybending",
+            "page": "Energybending"
+          }
+        },
+        {
+          "body": "firebending",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Firebending",
+            "page": "Firebending"
+          }
+        },
+        {
+          "body": "Ursa",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ursa",
+            "page": "Ursa"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Goofs"
+      ],
+      "text": "The gear and more section of the entry for \"Sozin's Comet, Part 4: Avatar Aang\" shows energybending with a photo of Aang firebending. Also, the characters section states that\u00a0Ursa\u00a0was born and raised as royalty, which is inconsistent with her given history."
+    },
+    {
+      "body": "A section titled \"Katara's diary\" was originally present on the episode pages, however, clicking it would lead only to a message stating that its content was coming soon. The section was never updated, and it was eventually removed from the index.",
+      "links": [],
+      "section": [
+        "Nick.com's Avatar Index",
+        "Trivia"
+      ],
+      "text": "A section titled \"Katara's diary\" was originally present on the episode pages, however, clicking it would lead only to a message stating that its content was coming soon. The section was never updated, and it was eventually removed from the index."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Index archive on Tumblr",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://atla-lore-archive.tumblr.com/",
+            "page": "http://atla-lore-archive.tumblr.com/"
+          }
+        }
+      ],
+      "section": [
+        "Nick.com's Avatar Index",
+        "External links"
+      ],
+      "text": "Index archive on Tumblr"
     }
   ],
   "source": {

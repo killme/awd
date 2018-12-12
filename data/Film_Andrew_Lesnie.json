@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film staff",
       "target": {
-        "href": "Category_Film_staff",
+        "external": false,
+        "href": "/wiki/Category_Film_staff",
         "page": "Category_Film_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Getting of Wisdom (1978 - unit runner)",
+          "body": "${link_0} (1978 - unit runner)",
           "extra": "(1978 - unit runner)",
           "extra_text": "(1978 - unit runner)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Getting of Wisdom",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0076079",
+                "page": "http://www.imdb.com/find?q=tt0076079"
+              }
+            }
+          ],
           "text": "The Getting of Wisdom (1978 - unit runner)",
-          "value": "The Getting of Wisdom",
+          "value": "${link_0}",
           "value_text": "The Getting of Wisdom"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0504226",
+                "page": "http://www.imdb.com/find?q=nm0504226"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Andrew_Lesnie",
+                "page": "http://en.wikipedia.org/wiki/Andrew_Lesnie"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,18 +124,390 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0} (cinematographer)",
+      "links": [
+        {
+          "body": "Cyclone Tracy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0316973",
+            "page": "http://www.imdb.com/find?q=tt0316973"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Cyclone Tracy (cinematographer)"
+    },
+    {
+      "body": "${link_0} (cinematographer)",
+      "links": [
+        {
+          "body": "Great Performances",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0159876",
+            "page": "http://www.imdb.com/find?q=tt0159876"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Great Performances (cinematographer)"
+    },
+    {
+      "body": "${link_0} (cinematographer)",
+      "links": [
+        {
+          "body": "House of Fun",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1256170",
+            "page": "http://www.imdb.com/find?q=tt1256170"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "House of Fun (cinematographer)"
+    },
+    {
+      "body": "${link_0} (TV movie - cinematographer)",
+      "links": [
+        {
+          "body": "More Winners: Mr. Edmund",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0100185",
+            "page": "http://www.imdb.com/find?q=tt0100185"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "More Winners: Mr. Edmund (TV movie - cinematographer)"
+    },
+    {
+      "body": "${link_0} (TV movie - cinematographer)",
+      "links": [
+        {
+          "body": "The Rainbow Warrior Conspiracy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098164",
+            "page": "http://www.imdb.com/find?q=tt0098164"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Rainbow Warrior Conspiracy (TV movie - cinematographer)"
+    },
+    {
+      "body": "${link_0} (cinematographer and director)",
+      "links": [
+        {
+          "body": "WonderWorld: The Original Series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0321022",
+            "page": "http://www.imdb.com/find?q=tt0321022"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "WonderWorld: The Original Series (cinematographer and director)"
+    },
+    {
+      "body": "${link_0} (2013 - cinematographer)",
+      "links": [
+        {
+          "body": "The Hobbit: The Desolation of Smaug",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1170358",
+            "page": "http://www.imdb.com/find?q=tt1170358"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Hobbit: The Desolation of Smaug (2013 - cinematographer)"
+    },
+    {
+      "body": "${link_0} (2008 - camera operator) (documentary)",
+      "links": [
+        {
+          "body": "Shine a Light",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0893382",
+            "page": "http://www.imdb.com/find?q=tt0893382"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Shine a Light (2008 - camera operator) (documentary)"
+    },
+    {
+      "body": "${link_0} (2007 - director of photography)",
+      "links": [
+        {
+          "body": "I Am Legend",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0480249",
+            "page": "http://www.imdb.com/find?q=tt0480249"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I Am Legend (2007 - director of photography)"
+    },
+    {
+      "body": "${link_0} (1998 - guest director of photography and additional photography)",
+      "links": [
+        {
+          "body": "Dark City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118929",
+            "page": "http://www.imdb.com/find?q=tt0118929"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dark City (1998 - guest director of photography and additional photography)"
+    },
+    {
+      "body": "${link_0} (1998 - cinematographer)",
+      "links": [
+        {
+          "body": "The Sugar Factory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0163306",
+            "page": "http://www.imdb.com/find?q=tt0163306"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Sugar Factory (1998 - cinematographer)"
+    },
+    {
+      "body": "${link_0} (1994 - cinematographer)",
+      "links": [
+        {
+          "body": "Spider and Rose",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111260",
+            "page": "http://www.imdb.com/find?q=tt0111260"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spider and Rose (1994 - cinematographer)"
+    },
+    {
+      "body": "${link_0} (1990 - cinematographer)",
+      "links": [
+        {
+          "body": "Boys in the Island",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0167803",
+            "page": "http://www.imdb.com/find?q=tt0167803"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Boys in the Island (1990 - cinematographer)"
+    },
+    {
+      "body": "${link_0} (1989 - camera operator)",
+      "links": [
+        {
+          "body": "Incident at Raven's Gate",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0095098",
+            "page": "http://www.imdb.com/find?q=tt0095098"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Incident at Raven's Gate (1989 - camera operator)"
+    },
+    {
+      "body": "${link_0} (1987 - cinematographer)",
+      "links": [
+        {
+          "body": "Australian Dream",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092597",
+            "page": "http://www.imdb.com/find?q=tt0092597"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Australian Dream (1987 - cinematographer)"
+    },
+    {
+      "body": "${link_0} (1985 - actor and cinematographer)",
+      "links": [
+        {
+          "body": "Unfinished Business",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090236",
+            "page": "http://www.imdb.com/find?q=tt0090236"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Unfinished Business (1985 - actor and cinematographer)"
+    },
+    {
+      "body": "${link_0} (1981 - clapper loader)",
+      "links": [
+        {
+          "body": "The Killing of Angel Street",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0082614",
+            "page": "http://www.imdb.com/find?q=tt0082614"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Killing of Angel Street (1981 - clapper loader)"
+    },
+    {
+      "body": "${link_0} (1981 - cinematographer)",
+      "links": [
+        {
+          "body": "The Same Stream",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1795017",
+            "page": "http://www.imdb.com/find?q=tt1795017"
+          }
+        }
+      ],
+      "section": [
+        "Andrew Lesnie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Same Stream (1981 - cinematographer)"
+    },
+    {
       "body": "Lesnie attended the Australian Film Television and Radio School (AFTRS), graduating in 1979. His first job after graduation was as a cameraman on the Logie Award-winning Australian magazine-style afternoon TV show Simon Townsend's Wonder World. Simon Townsend gave Lesnie almost daily opportunities to develop his craft with little restriction over a wide variety of stories and situations, and to experiment with camera and lighting techniques in hundreds of locations and situations. After two years of working on the show, Lesnie moved on to numerous Australian film and television productions, including the mini-series Bodyline.",
       "links": [],
+      "section": [
+        "Andrew Lesnie",
+        "Biographical information"
+      ],
       "text": "Lesnie attended the Australian Film Television and Radio School (AFTRS), graduating in 1979. His first job after graduation was as a cameraman on the Logie Award-winning Australian magazine-style afternoon TV show Simon Townsend's Wonder World. Simon Townsend gave Lesnie almost daily opportunities to develop his craft with little restriction over a wide variety of stories and situations, and to experiment with camera and lighting techniques in hundreds of locations and situations. After two years of working on the show, Lesnie moved on to numerous Australian film and television productions, including the mini-series Bodyline."
     },
     {
       "body": "His work began receiving major attention after the release of the anthropomorphic pig story Babe (1995) and its sequel, Babe: Pig in the City. He was director of photography on Peter Jackson's Lord of the Rings trilogy, and received an Oscar for his work on The Lord of the Rings: The Fellowship of the Ring in 2002. He subsequently filmed several other Jackson-directed films, including King Kong and The Lovely Bones.",
       "links": [],
+      "section": [
+        "Andrew Lesnie",
+        "Biographical information"
+      ],
       "text": "His work began receiving major attention after the release of the anthropomorphic pig story Babe (1995) and its sequel, Babe: Pig in the City. He was director of photography on Peter Jackson's Lord of the Rings trilogy, and received an Oscar for his work on The Lord of the Rings: The Fellowship of the Ring in 2002. He subsequently filmed several other Jackson-directed films, including King Kong and The Lovely Bones."
     },
     {
       "body": "Lesnie lived on the North Coast of Sydney, New South Wales, Australia, and was a member of both the Australian Cinematographers Society and the American Society of Cinematographers. He passed away from a heart attack on April 27, 2015.",
       "links": [],
+      "section": [
+        "Andrew Lesnie",
+        "Biographical information"
+      ],
       "text": "Lesnie lived on the North Coast of Sydney, New South Wales, Australia, and was a member of both the Australian Cinematographers Society and the American Society of Cinematographers. He passed away from a heart attack on April 27, 2015."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Then Came Bronson (1970)",
+          "body": "${link_0} (1970)",
           "extra": "(1970)",
           "extra_text": "(1970)",
-          "links": [],
+          "links": [
+            {
+              "body": "Then Came Bronson",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0063955",
+                "page": "http://www.imdb.com/find?q=tt0063955"
+              }
+            }
+          ],
           "text": "Then Came Bronson (1970)",
-          "value": "Then Came Bronson",
+          "value": "${link_0}",
           "value_text": "Then Came Bronson"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0110068",
+                "page": "http://www.imdb.com/find?q=nm0110068"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Melendy_Britt",
+                "page": "http://en.wikipedia.org/wiki/Melendy_Britt"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,13 +124,261 @@
   ],
   "paragraphs": [
     {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boy in the Iceberg",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boy_in_the_Iceberg",
+            "page": "The_Boy_in_the_Iceberg"
+          }
+        }
+      ],
+      "section": [
+        "Melendy Britt",
+        "Avatar: The Last Airbender credits",
+        "Kanna"
+      ],
+      "text": "101. \"The Boy in the Iceberg\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_Returns",
+            "page": "The_Avatar_Returns"
+          }
+        }
+      ],
+      "section": [
+        "Melendy Britt",
+        "Avatar: The Last Airbender credits",
+        "Kanna"
+      ],
+      "text": "102. \"The Avatar Returns\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Shannon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0081928",
+            "page": "http://www.imdb.com/find?q=tt0081928"
+          }
+        }
+      ],
+      "section": [
+        "Melendy Britt",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Shannon"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "She-Ra: Princess of Power",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0126171",
+            "page": "http://www.imdb.com/find?q=tt0126171"
+          }
+        }
+      ],
+      "section": [
+        "Melendy Britt",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "She-Ra: Princess of Power"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The New Adventures of Batman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0075543",
+            "page": "http://www.imdb.com/find?q=tt0075543"
+          }
+        }
+      ],
+      "section": [
+        "Melendy Britt",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The New Adventures of Batman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Rockford Files",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0071042",
+            "page": "http://www.imdb.com/find?q=tt0071042"
+          }
+        }
+      ],
+      "section": [
+        "Melendy Britt",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Rockford Files"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Young and the Restless",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0069658",
+            "page": "http://www.imdb.com/find?q=tt0069658"
+          }
+        }
+      ],
+      "section": [
+        "Melendy Britt",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Young and the Restless"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Weird Science",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108988",
+            "page": "http://www.imdb.com/find?q=tt0108988"
+          }
+        }
+      ],
+      "section": [
+        "Melendy Britt",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Weird Science"
+    },
+    {
+      "body": "${link_0} (1985)",
+      "links": [
+        {
+          "body": "The Secret of the Sword",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0089984",
+            "page": "http://www.imdb.com/find?q=tt0089984"
+          }
+        }
+      ],
+      "section": [
+        "Melendy Britt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Secret of the Sword (1985)"
+    },
+    {
+      "body": "${link_0} (1979)",
+      "links": [
+        {
+          "body": "Being There",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0078841",
+            "page": "http://www.imdb.com/find?q=tt0078841"
+          }
+        }
+      ],
+      "section": [
+        "Melendy Britt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Being There (1979)"
+    },
+    {
+      "body": "${link_0} (1978)",
+      "links": [
+        {
+          "body": "Gray Lady Down",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0077629",
+            "page": "http://www.imdb.com/find?q=tt0077629"
+          }
+        }
+      ],
+      "section": [
+        "Melendy Britt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Gray Lady Down (1978)"
+    },
+    {
+      "body": "${link_0} (1970)",
+      "links": [
+        {
+          "body": "The Lawyer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0065970",
+            "page": "http://www.imdb.com/find?q=tt0065970"
+          }
+        }
+      ],
+      "section": [
+        "Melendy Britt",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Lawyer (1970)"
+    },
+    {
       "body": "Melendy Britt is an American actress who has been active in television and voice acting since the 1970s. Her most notable animated work is for Filmation, where she had voiced characters such as She-Ra, Princess Adora, and the second animated Batgirl (Jane Webb was the first). She also provided the voice for Penny, would-be love interest and aide to Plasticman.",
       "links": [],
+      "section": [
+        "Melendy Britt",
+        "Biographical information"
+      ],
       "text": "Melendy Britt is an American actress who has been active in television and voice acting since the 1970s. Her most notable animated work is for Filmation, where she had voiced characters such as She-Ra, Princess Adora, and the second animated Batgirl (Jane Webb was the first). She also provided the voice for Penny, would-be love interest and aide to Plasticman."
     },
     {
       "body": "Britt was born in Charlotte, North Carolina, and grew up in Houston, Texas. She has two daughters.",
       "links": [],
+      "section": [
+        "Melendy Britt",
+        "Biographical information"
+      ],
       "text": "Britt was born in Charlotte, North Carolina, and grew up in Houston, Texas. She has two daughters."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "General Hospital (1963)",
+          "body": "${link_0} (1963)",
           "extra": "(1963)",
           "extra_text": "(1963)",
-          "links": [],
+          "links": [
+            {
+              "body": "General Hospital",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0056758",
+                "page": "http://www.imdb.com/find?q=tt0056758"
+              }
+            }
+          ],
           "text": "General Hospital (1963)",
-          "value": "General Hospital",
+          "value": "${link_0}",
           "value_text": "General Hospital"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0569501",
+                "page": "http://www.imdb.com/find?q=nm0569501"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Richard_McGonagle",
+                "page": "http://en.wikipedia.org/wiki/Richard_McGonagle"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Richard-McGonagle/112705785408367",
+                "page": "https://www.facebook.com/pages/Richard-McGonagle/112705785408367"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.richardmcgonagle.com/",
+                "page": "http://www.richardmcgonagle.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -109,8 +162,592 @@
   ],
   "paragraphs": [
     {
+      "body": "115. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bato of the Water Tribe",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bato_of_the_Water_Tribe",
+            "page": "Bato_of_the_Water_Tribe"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Avatar: The Last Airbender credits",
+        "Bato"
+      ],
+      "text": "115. \"Bato of the Water Tribe\""
+    },
+    {
+      "body": "219. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guru",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guru",
+            "page": "The_Guru"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Avatar: The Last Airbender credits",
+        "Bato"
+      ],
+      "text": "219. \"The Guru\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Awakening",
+            "page": "The_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Avatar: The Last Airbender credits",
+        "Bato"
+      ],
+      "text": "301. \"The Awakening\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Avatar: The Last Airbender credits",
+        "Bato"
+      ],
+      "text": "310. \"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 2: The Eclipse",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_2__The_Eclipse",
+            "page": "The_Day_of_Black_Sun%2c_Part_2__The_Eclipse"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Avatar: The Last Airbender credits",
+        "Bato"
+      ],
+      "text": "311. \"The Day of Black Sun, Part 2: The Eclipse\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Brave and the Bold"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0760437",
+            "page": "http://www.imdb.com/find?q=tt0760437"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Duck Dodgers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0376390",
+            "page": "http://www.imdb.com/find?q=tt0376390"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Duck Dodgers"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "JAG",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112022",
+            "page": "http://www.imdb.com/find?q=tt0112022"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "JAG"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0361243",
+            "page": "http://www.imdb.com/find?q=tt0361243"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Practice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118437",
+            "page": "http://www.imdb.com/find?q=tt0118437"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Practice"
+    },
+    {
+      "body": "${link_0} (2013; video)",
+      "links": [
+        {
+          "body": "Tom and Jerry's Giant Adventure",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3108584",
+            "page": "http://www.imdb.com/find?q=tt3108584"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tom and Jerry's Giant Adventure (2013; video)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "The Bucket List",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0825232",
+            "page": "http://www.imdb.com/find?q=tt0825232"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Bucket List (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Ben 10: Secret of the Omnitrix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0825232",
+            "page": "http://www.imdb.com/find?q=tt0825232"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ben 10: Secret of the Omnitrix (2007)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Spirit: Stallion of the Cimarron",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0166813",
+            "page": "http://www.imdb.com/find?q=tt0166813"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spirit: Stallion of the Cimarron (2002)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Rules of Engagement",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0160797",
+            "page": "http://www.imdb.com/find?q=tt0160797"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rules of Engagement (2000)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Mighty Joe Young",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120751",
+            "page": "http://www.imdb.com/find?q=tt0120751"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mighty Joe Young (1998)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Senseless",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120820",
+            "page": "http://www.imdb.com/find?q=tt0120820"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Senseless (1998)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "Speechless",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111256",
+            "page": "http://www.imdb.com/find?q=tt0111256"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Speechless (1994)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Arc the Lad: Twilight of the Spirits",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0373684",
+            "page": "http://www.imdb.com/find?q=tt0373684"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Arc the Lad: Twilight of the Spirits (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dragon Age: Origins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1541718",
+            "page": "http://www.imdb.com/find?q=tt1541718"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dragon Age: Origins (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "FusionFall",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1363369",
+            "page": "http://www.imdb.com/find?q=tt1363369"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "FusionFall (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "No More Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1139610",
+            "page": "http://www.imdb.com/find?q=tt1139610"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "No More Heroes (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Pirates of the Caribbean: At World's End",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1043740",
+            "page": "http://www.imdb.com/find?q=tt1043740"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Pirates of the Caribbean: At World's End (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Rogue Squadron II - Rogue Leader",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0304746",
+            "page": "http://www.imdb.com/find?q=tt0304746"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Rogue Squadron II - Rogue Leader (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Rise of the Argonauts",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=nm0569501",
+            "page": "http://www.imdb.com/find?q=nm0569501"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Rise of the Argonauts (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Uncharted: Drake's Fortune",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1000777",
+            "page": "http://www.imdb.com/find?q=tt1000777"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Uncharted: Drake's Fortune (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Uncharted 2: Among Thieves",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1349460",
+            "page": "http://www.imdb.com/find?q=tt1349460"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Uncharted 2: Among Thieves (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Uncharted 3: Drake's Deception",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1800763",
+            "page": "http://www.imdb.com/find?q=tt1800763"
+          }
+        }
+      ],
+      "section": [
+        "Richard McGonagle",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Uncharted 3: Drake's Deception (video game)"
+    },
+    {
       "body": "McGonagle, born in Boston, Massachusetts, is the son of Hildagard Virginia (n\u00e9e Hiller) and William Francis McGonagle.",
       "links": [],
+      "section": [
+        "Richard McGonagle",
+        "Biographical information"
+      ],
       "text": "McGonagle, born in Boston, Massachusetts, is the son of Hildagard Virginia (n\u00e9e Hiller) and William Francis McGonagle."
     }
   ],

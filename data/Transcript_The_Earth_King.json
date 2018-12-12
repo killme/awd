@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Avatar: The Last Airbender episode transcripts",
       "target": {
-        "href": "Category_Avatar__The_Last_Airbender_episode_transcripts",
+        "external": false,
+        "href": "/wiki/Category_Avatar__The_Last_Airbender_episode_transcripts",
         "page": "Category_Avatar__The_Last_Airbender_episode_transcripts"
       }
     },
     {
       "body": "Book Two: Earth transcripts",
       "target": {
-        "href": "Category_Book_Two__Earth_transcripts",
+        "external": false,
+        "href": "/wiki/Category_Book_Two__Earth_transcripts",
         "page": "Category_Book_Two__Earth_transcripts"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -34,51 +38,86 @@
     {
       "body": "",
       "links": [],
+      "section": [
+        "Transcript:The Earth King"
+      ],
       "text": ""
     },
     {
-      "body": "\"${link_0}\"\n\u2193\n\"The Earth King\"\n\u2193\n\"${link_1}\"",
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Earth Kingdom Royal Palace",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Earth_Kingdom_Royal_Palace",
+            "page": "Earth_Kingdom_Royal_Palace"
+          }
+        }
+      ],
+      "section": [
+        "Transcript:The Earth King",
+        "Locations"
+      ],
+      "text": "Earth Kingdom Royal Palace"
+    },
+    {
+      "body": "${link_0}",
       "links": [
         {
           "body": "Lake Laogai",
           "key": "${link_0}",
           "target": {
-            "href": "Transcript_Lake_Laogai_(episode)",
-            "page": "Transcript_Lake_Laogai_(episode)"
-          }
-        },
-        {
-          "body": "The Guru",
-          "key": "${link_1}",
-          "target": {
-            "href": "Transcript_The_Guru",
-            "page": "Transcript_The_Guru"
+            "external": false,
+            "href": "/wiki/Lake_Laogai",
+            "page": "Lake_Laogai"
           }
         }
       ],
-      "text": "\"Lake Laogai\"\n\u2193\n\"The Earth King\"\n\u2193\n\"The Guru\""
+      "section": [
+        "Transcript:The Earth King",
+        "Locations"
+      ],
+      "text": "Lake Laogai"
     },
     {
-      "body": "${link_0} \u00b7 ${link_1}",
+      "body": "${link_0}",
       "links": [
         {
-          "body": "Article",
+          "body": "Outer Wall",
           "key": "${link_0}",
           "target": {
-            "href": "The_Earth_King",
-            "page": "The_Earth_King"
-          }
-        },
-        {
-          "body": "More transcripts",
-          "key": "${link_1}",
-          "target": {
-            "href": "Avatar_Wiki_Transcripts",
-            "page": "Avatar_Wiki_Transcripts"
+            "external": false,
+            "href": "/wiki/Ba_Sing_Se#Outer_Wall",
+            "page": "Ba_Sing_Se"
           }
         }
       ],
-      "text": "Article \u00b7 More transcripts"
+      "section": [
+        "Transcript:The Earth King",
+        "Locations"
+      ],
+      "text": "Outer Wall"
+    },
+    {
+      "body": "\"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_King",
+            "page": "The_Earth_King"
+          }
+        }
+      ],
+      "section": [
+        "Transcript:The Earth King",
+        "See also"
+      ],
+      "text": "\"The Earth King\""
     }
   ],
   "source": {

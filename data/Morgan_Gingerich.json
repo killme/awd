@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Grown Ups (2010)",
+          "body": "${link_0} (2010)",
           "extra": "(2010)",
           "extra_text": "(2010)",
-          "links": [],
+          "links": [
+            {
+              "body": "Grown Ups",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1375670",
+                "page": "http://www.imdb.com/find?q=tt1375670"
+              }
+            }
+          ],
           "text": "Grown Ups (2010)",
-          "value": "Grown Ups",
+          "value": "${link_0}",
           "value_text": "Grown Ups"
         }
       ]
@@ -41,12 +54,31 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb Twitter",
+          "body": "${link_0} ${link_1}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm3509712",
+                "page": "http://www.imdb.com/find?q=nm3509712"
+              }
+            },
+            {
+              "body": "Twitter",
+              "key": "${link_1}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/GingerichMorgan",
+                "page": "https://twitter.com/GingerichMorgan"
+              }
+            }
+          ],
           "text": "IMDb Twitter",
-          "value": "IMDb Twitter",
+          "value": "${link_0} ${link_1}",
           "value_text": "IMDb Twitter"
         }
       ]
@@ -54,8 +86,152 @@
   ],
   "paragraphs": [
     {
+      "body": "402. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Korra Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Korra_Alone",
+            "page": "Korra_Alone"
+          }
+        }
+      ],
+      "section": [
+        "Morgan Gingerich",
+        "The Legend of Korra credits",
+        "Light spirit"
+      ],
+      "text": "402. \"Korra Alone\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Episodes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1582350",
+            "page": "http://www.imdb.com/find?q=tt1582350"
+          }
+        }
+      ],
+      "section": [
+        "Morgan Gingerich",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Episodes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Scandal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1837576",
+            "page": "http://www.imdb.com/find?q=tt1837576"
+          }
+        }
+      ],
+      "section": [
+        "Morgan Gingerich",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Scandal"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Bold and the Beautiful",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092325",
+            "page": "http://www.imdb.com/find?q=tt0092325"
+          }
+        }
+      ],
+      "section": [
+        "Morgan Gingerich",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Bold and the Beautiful"
+    },
+    {
+      "body": "${link_0} (2013; short)",
+      "links": [
+        {
+          "body": "Plan C",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3329150",
+            "page": "http://www.imdb.com/find?q=tt3329150"
+          }
+        }
+      ],
+      "section": [
+        "Morgan Gingerich",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Plan C (2013; short)"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Grown Ups 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2191701",
+            "page": "http://www.imdb.com/find?q=tt2191701"
+          }
+        }
+      ],
+      "section": [
+        "Morgan Gingerich",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Grown Ups 2 (2013)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Grown Ups",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1375670",
+            "page": "http://www.imdb.com/find?q=tt1375670"
+          }
+        }
+      ],
+      "section": [
+        "Morgan Gingerich",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Grown Ups (2010)"
+    },
+    {
       "body": "Gingerich has a twin brother Frank, with whom he shared roles in Grown Ups, Grown Ups 2, and The Bold and Beautiful. The brothers also starred alongside one another in the short Plan C.",
       "links": [],
+      "section": [
+        "Morgan Gingerich",
+        "Biographical information"
+      ],
       "text": "Gingerich has a twin brother Frank, with whom he shared roles in Grown Ups, Grown Ups 2, and The Bold and Beautiful. The brothers also starred alongside one another in the short Plan C."
     }
   ],

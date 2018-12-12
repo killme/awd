@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Scooby-Doo and Scrappy-Doo (1979)",
+          "body": "${link_0} (1979)",
           "extra": "(1979)",
           "extra_text": "(1979)",
-          "links": [],
+          "links": [
+            {
+              "body": "Scooby-Doo and Scrappy-Doo",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0083475",
+                "page": "http://www.imdb.com/find?q=tt0083475"
+              }
+            }
+          ],
           "text": "Scooby-Doo and Scrappy-Doo (1979)",
-          "value": "Scooby-Doo and Scrappy-Doo",
+          "value": "${link_0}",
           "value_text": "Scooby-Doo and Scrappy-Doo"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0579914",
+                "page": "http://www.imdb.com/find?q=nm0579914"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Scott_Menville",
+                "page": "http://en.wikipedia.org/wiki/Scott_Menville"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/Scott-Menville/113251488689454",
+                "page": "http://www.facebook.com/pages/Scott-Menville/113251488689454"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/101557707330138184641/posts",
+                "page": "https://plus.google.com/101557707330138184641/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/scottmenville",
+                "page": "https://twitter.com/scottmenville"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,18 +181,633 @@
   ],
   "paragraphs": [
     {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Avatar: The Last Airbender credits",
+        "Gan Jin tribesman"
+      ],
+      "text": "111. \"The Great Divide\""
+    },
+    {
+      "body": "116. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Deserter",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Deserter",
+            "page": "The_Deserter"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Avatar: The Last Airbender credits",
+        "Malu"
+      ],
+      "text": "116. \"The Deserter\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Avatar: The Last Airbender credits",
+        "Actor Sokka"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "111. \"The Great Divide\""
+    },
+    {
+      "body": "115. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bato of the Water Tribe",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bato_of_the_Water_Tribe",
+            "page": "Bato_of_the_Water_Tribe"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "115. \"Bato of the Water Tribe\""
+    },
+    {
+      "body": "116. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Deserter",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Deserter",
+            "page": "The_Deserter"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "116. \"The Deserter\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "City of Walls and Secrets",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/City_of_Walls_and_Secrets",
+            "page": "City_of_Walls_and_Secrets"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "214. \"City of Walls and Secrets\""
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Beach",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Beach",
+            "page": "The_Beach"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "305. \"The Beach\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Brave and the Bold"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Captain Planet and the Planeteers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098763",
+            "page": "http://www.imdb.com/find?q=tt0098763"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Captain Planet and the Planeteers"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Justice League",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275137",
+            "page": "http://www.imdb.com/find?q=tt0275137"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Justice League"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mission Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0197148",
+            "page": "http://www.imdb.com/find?q=tt0197148"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mission Hill"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Shaggy & Scooby-Doo: Get a Clue!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0850642",
+            "page": "http://www.imdb.com/find?q=tt0850642"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Shaggy & Scooby-Doo: Get a Clue!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Teen Titans",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0343314",
+            "page": "http://www.imdb.com/find?q=tt0343314"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teen Titans"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Grim Adventures of Billy & Mandy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292800",
+            "page": "http://www.imdb.com/find?q=tt0292800"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Grim Adventures of Billy & Mandy"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Frozen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2294629",
+            "page": "http://www.imdb.com/find?q=tt2294629"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Frozen (2013)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Tangled",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398286",
+            "page": "http://www.imdb.com/find?q=tt0398286"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tangled (2010)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Bolt",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397892",
+            "page": "http://www.imdb.com/find?q=tt0397892"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bolt (2008)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Open Season 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1107365",
+            "page": "http://www.imdb.com/find?q=tt1107365"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Open Season 2 (2008)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Chicken Little",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0371606",
+            "page": "http://www.imdb.com/find?q=tt0371606"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Chicken Little (2003)"
+    },
+    {
+      "body": "${link_0} (1987)",
+      "links": [
+        {
+          "body": "Ernest Goes to Camp",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092974",
+            "page": "http://www.imdb.com/find?q=tt0092974"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ernest Goes to Camp (1987)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "Castle in the Sky",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092067",
+            "page": "http://www.imdb.com/find?q=tt0092067"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Castle in the Sky (1986)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ben 10 Ultimate Alien: Cosmic Destruction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1705101",
+            "page": "http://www.imdb.com/find?q=tt1705101"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ben 10 Ultimate Alien: Cosmic Destruction (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Eat Lead: The Return of Matt Hazard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1437207",
+            "page": "http://www.imdb.com/find?q=tt1437207"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Eat Lead: The Return of Matt Hazard (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel Super Hero Squad: The Infinity Gauntlet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1720160",
+            "page": "http://www.imdb.com/find?q=tt1720160"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel Super Hero Squad: The Infinity Gauntlet (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "StarCraft II: Wings of Liberty",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1037854",
+            "page": "http://www.imdb.com/find?q=tt1037854"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "StarCraft II: Wings of Liberty (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Valkyria Chronicles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1322987",
+            "page": "http://www.imdb.com/find?q=tt1322987"
+          }
+        }
+      ],
+      "section": [
+        "Scott Menville",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Valkyria Chronicles (video game)"
+    },
+    {
       "body": "Menville, born to animator Chuck Menville, was the bassist for the Southern California rock band Boy Hits Car until he left the band in 2006. He was one of the group's founding members.",
       "links": [],
+      "section": [
+        "Scott Menville",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Menville, born to animator Chuck Menville, was the bassist for the Southern California rock band Boy Hits Car until he left the band in 2006. He was one of the group's founding members."
     },
     {
       "body": "Most famous for his voice acting skills, Menville's first role came in 1979 in an episode of Scooby Doo and Scrappy Doo. Some of his best-known roles are Robin on Teen Titans, Lloyd Irving on Tales of Symphonia, Freddy Flintstone on The Flintstone Kids, a role he took over from Lennie Weinrib, and Ma-Ti on Captain Planet and the Planeteers.",
       "links": [],
+      "section": [
+        "Scott Menville",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Most famous for his voice acting skills, Menville's first role came in 1979 in an episode of Scooby Doo and Scrappy Doo. Some of his best-known roles are Robin on Teen Titans, Lloyd Irving on Tales of Symphonia, Freddy Flintstone on The Flintstone Kids, a role he took over from Lennie Weinrib, and Ma-Ti on Captain Planet and the Planeteers."
     },
     {
       "body": "Menville has also participated in live-action roles. He appeared in Ernest Goes to Camp as Crutchfield and had recurring roles on Full House as Kimmy Gibbler's boyfriend, Duane, and on The Wonder Years as Wayne's best friend, Wart.",
       "links": [],
+      "section": [
+        "Scott Menville",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Menville has also participated in live-action roles. He appeared in Ernest Goes to Camp as Crutchfield and had recurring roles on Full House as Kimmy Gibbler's boyfriend, Duane, and on The Wonder Years as Wayne's best friend, Wart."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Jim Henson Presents Mother Goose Stories (1987)",
+          "body": "${link_0} (1987)",
           "extra": "(1987)",
           "extra_text": "(1987)",
-          "links": [],
+          "links": [
+            {
+              "body": "Jim Henson Presents Mother Goose Stories",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0092382",
+                "page": "http://www.imdb.com/find?q=tt0092382"
+              }
+            }
+          ],
           "text": "Jim Henson Presents Mother Goose Stories (1987)",
-          "value": "Jim Henson Presents Mother Goose Stories",
+          "value": "${link_0}",
           "value_text": "Jim Henson Presents Mother Goose Stories"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0563902",
+                "page": "http://www.imdb.com/find?q=nm0563902"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Scott_McAfee",
+                "page": "http://en.wikipedia.org/wiki/Scott_McAfee"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -77,8 +110,453 @@
   ],
   "paragraphs": [
     {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Animaniacs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105941",
+            "page": "http://www.imdb.com/find?q=tt0105941"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Animaniacs"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103359",
+            "page": "http://www.imdb.com/find?q=tt0103359"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman Beyond",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0147746",
+            "page": "http://www.imdb.com/find?q=tt0147746"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman Beyond"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Boston Public",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247081",
+            "page": "http://www.imdb.com/find?q=tt0247081"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Boston Public"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bump in the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0162796",
+            "page": "http://www.imdb.com/find?q=tt0162796"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bump in the Night"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Freakazoid!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111970",
+            "page": "http://www.imdb.com/find?q=tt0111970"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Freakazoid!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Freaks and Geeks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0193676",
+            "page": "http://www.imdb.com/find?q=tt0193676"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Freaks and Geeks"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hardball",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096607",
+            "page": "http://www.imdb.com/find?q=tt0096607"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hardball"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Her Final Fury: Betty Broderick, the Last Chapter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0104411",
+            "page": "http://www.imdb.com/find?q=tt0104411"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Her Final Fury: Betty Broderick, the Last Chapter (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Home Free",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106027",
+            "page": "http://www.imdb.com/find?q=tt0106027"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Home Free"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jim Henson Presents Mother Goose",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092382",
+            "page": "http://www.imdb.com/find?q=tt0092382"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jim Henson Presents Mother Goose"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lois & Clark: The New Adventures of Superman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106057",
+            "page": "http://www.imdb.com/find?q=tt0106057"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lois & Clark: The New Adventures of Superman"
+    },
+    {
+      "body": "${link_0} (2003; documentary short)",
+      "links": [
+        {
+          "body": "Growin' a Beard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0410047",
+            "page": "http://www.imdb.com/find?q=tt0410047"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Growin' a Beard (2003; documentary short)"
+    },
+    {
+      "body": "${link_0} (1997; video)",
+      "links": [
+        {
+          "body": "Journey Beneath the Sea",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119419",
+            "page": "http://www.imdb.com/find?q=tt0119419"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Journey Beneath the Sea (1997; video)"
+    },
+    {
+      "body": "${link_0} (1996; video)",
+      "links": [
+        {
+          "body": "The Land Before Time IV: Journey Through the Mists",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0116817",
+            "page": "http://www.imdb.com/find?q=tt0116817"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Land Before Time IV: Journey Through the Mists (1996; video)"
+    },
+    {
+      "body": "${link_0} (1996; video)",
+      "links": [
+        {
+          "body": "Video Oz",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118089",
+            "page": "http://www.imdb.com/find?q=tt0118089"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Video Oz (1996; video)"
+    },
+    {
+      "body": "${link_0} (1995; video)",
+      "links": [
+        {
+          "body": "The Land Before Time III: The Time of Great Giving",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0113596",
+            "page": "http://www.imdb.com/find?q=tt0113596"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Land Before Time III: The Time of Great Giving (1995; video)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Toy Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0114709",
+            "page": "http://www.imdb.com/find?q=tt0114709"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Toy Story (1995)"
+    },
+    {
+      "body": "${link_0} (1994; video)",
+      "links": [
+        {
+          "body": "The Land Before Time II: The Great Valley Adventure",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110300",
+            "page": "http://www.imdb.com/find?q=tt0110300"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Land Before Time II: The Great Valley Adventure (1994; video)"
+    },
+    {
+      "body": "${link_0} (1988)",
+      "links": [
+        {
+          "body": "Midnight Run",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0095631",
+            "page": "http://www.imdb.com/find?q=tt0095631"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Midnight Run (1988)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dark Cloud 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0363546",
+            "page": "http://www.imdb.com/find?q=tt0363546"
+          }
+        }
+      ],
+      "section": [
+        "Scott McAfee",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dark Cloud 2 (video game)"
+    },
+    {
       "body": "McAfee was nominated for two Young Artist Awards, the first for \"Best Youth Actor in a Voice-over Role - TV or Movie\" for his work in the 1992 film Batman, followed by one for \"Best Youth Actor Leading Role in a Television Series\" for his work in the 1993 film Home Free.",
       "links": [],
+      "section": [
+        "Scott McAfee",
+        "Biographical information",
+        "Career"
+      ],
       "text": "McAfee was nominated for two Young Artist Awards, the first for \"Best Youth Actor in a Voice-over Role - TV or Movie\" for his work in the 1992 film Batman, followed by one for \"Best Youth Actor Leading Role in a Television Series\" for his work in the 1993 film Home Free."
     }
   ],

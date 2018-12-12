@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "MacGyver (1986)",
+          "body": "${link_0} (1986)",
           "extra": "(1986)",
           "extra_text": "(1986)",
-          "links": [],
+          "links": [
+            {
+              "body": "MacGyver",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0088559",
+                "page": "http://www.imdb.com/find?q=tt0088559"
+              }
+            }
+          ],
           "text": "MacGyver (1986)",
-          "value": "MacGyver",
+          "value": "${link_0}",
           "value_text": "MacGyver"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0199475",
+                "page": "http://www.imdb.com/find?q=nm0199475"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Tim_Dang",
+                "page": "http://en.wikipedia.org/wiki/Tim_Dang"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/tim.dang.796",
+                "page": "https://www.facebook.com/tim.dang.796"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -86,14 +129,289 @@
   ],
   "paragraphs": [
     {
+      "body": "316. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Raiders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Raiders",
+            "page": "The_Southern_Raiders"
+          }
+        }
+      ],
+      "section": [
+        "Tim Dang",
+        "Avatar: The Last Airbender credits",
+        "Yon Rha"
+      ],
+      "text": "316. \"The Southern Raiders\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman Beyond",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0147746",
+            "page": "http://www.imdb.com/find?q=tt0147746"
+          }
+        }
+      ],
+      "section": [
+        "Tim Dang",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman Beyond"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Brooklyn Bridge",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101055",
+            "page": "http://www.imdb.com/find?q=tt0101055"
+          }
+        }
+      ],
+      "section": [
+        "Tim Dang",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Brooklyn Bridge"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Extreme Ghostbusters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0121932",
+            "page": "http://www.imdb.com/find?q=tt0121932"
+          }
+        }
+      ],
+      "section": [
+        "Tim Dang",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Extreme Ghostbusters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jackie Chan Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0259141",
+            "page": "http://www.imdb.com/find?q=tt0259141"
+          }
+        }
+      ],
+      "section": [
+        "Tim Dang",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jackie Chan Adventures"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Night Court",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086770",
+            "page": "http://www.imdb.com/find?q=tt0086770"
+          }
+        }
+      ],
+      "section": [
+        "Tim Dang",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Night Court"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: The Next Generation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092455",
+            "page": "http://www.imdb.com/find?q=tt0092455"
+          }
+        }
+      ],
+      "section": [
+        "Tim Dang",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: The Next Generation"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "Deadly Target",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0109573",
+            "page": "http://www.imdb.com/find?q=tt0109573"
+          }
+        }
+      ],
+      "section": [
+        "Tim Dang",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Deadly Target (1994)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "Listen to Me",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0097756",
+            "page": "http://www.imdb.com/find?q=tt0097756"
+          }
+        }
+      ],
+      "section": [
+        "Tim Dang",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Listen to Me (1989)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Blade Runner",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0126817",
+            "page": "http://www.imdb.com/find?q=tt0126817"
+          }
+        }
+      ],
+      "section": [
+        "Tim Dang",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Blade Runner (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "GoldenEye: Rogue Agent",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0422335",
+            "page": "http://www.imdb.com/find?q=tt0422335"
+          }
+        }
+      ],
+      "section": [
+        "Tim Dang",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "GoldenEye: Rogue Agent (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Uncharted: Drake's Fortune",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1000777",
+            "page": "http://www.imdb.com/find?q=tt1000777"
+          }
+        }
+      ],
+      "section": [
+        "Tim Dang",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Uncharted: Drake's Fortune (video game)"
+    },
+    {
       "body": "Timothy Dang is an actor and theater director originally from Hawaii. He serves as artistic director at the Asian American theater company East West Players (EWP) in Little Tokyo, Los Angeles, California. He graduated in 1980 with a Bachelor of Fine Arts degree in theater from the University of Southern California.",
       "links": [],
+      "section": [
+        "Tim Dang",
+        "Biographical information"
+      ],
       "text": "Timothy Dang is an actor and theater director originally from Hawaii. He serves as artistic director at the Asian American theater company East West Players (EWP) in Little Tokyo, Los Angeles, California. He graduated in 1980 with a Bachelor of Fine Arts degree in theater from the University of Southern California."
     },
     {
       "body": "Dang has been affiliated with EWP since 1980 as an actor and director. He became Artistic Director in 1993, succeeding Nobu McCarthy, guiding the company's transition from a small theater company producing Equity 99-seat shows to a mid-sized company in a 240-seat house in 1995. As a director, he has mounted productions at Singapore Repertory Theater, Asian American Theater Company in San Francisco, Mark Taper Forum New Works Festival, Celebration Theater, West Coast Ensemble, and the Perseverance Theater in Juneau, Alaska. He has served on the board of LA Stage Alliance.",
       "links": [],
+      "section": [
+        "Tim Dang",
+        "Biographical information"
+      ],
       "text": "Dang has been affiliated with EWP since 1980 as an actor and director. He became Artistic Director in 1993, succeeding Nobu McCarthy, guiding the company's transition from a small theater company producing Equity 99-seat shows to a mid-sized company in a 240-seat house in 1995. As a director, he has mounted productions at Singapore Repertory Theater, Asian American Theater Company in San Francisco, Mark Taper Forum New Works Festival, Celebration Theater, West Coast Ensemble, and the Perseverance Theater in Juneau, Alaska. He has served on the board of LA Stage Alliance."
+    },
+    {
+      "body": "2009: Won a James Irvine Foundation Leadership Award",
+      "links": [],
+      "section": [
+        "Tim Dang",
+        "Awards"
+      ],
+      "text": "2009: Won a James Irvine Foundation Leadership Award"
+    },
+    {
+      "body": "1998: Won an Ovation Award for Pacific Overtures (Best Director of a Musical)",
+      "links": [],
+      "section": [
+        "Tim Dang",
+        "Awards"
+      ],
+      "text": "1998: Won an Ovation Award for Pacific Overtures (Best Director of a Musical)"
+    },
+    {
+      "body": "1995: Won an Ovation Award for Sweeney Todd (Director of a Musical)",
+      "links": [],
+      "section": [
+        "Tim Dang",
+        "Awards"
+      ],
+      "text": "1995: Won an Ovation Award for Sweeney Todd (Director of a Musical)"
     }
   ],
   "source": {

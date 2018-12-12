@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "On The Yard (1978)",
+          "body": "${link_0} (1978)",
           "extra": "(1978)",
           "extra_text": "(1978)",
-          "links": [],
+          "links": [
+            {
+              "body": "On The Yard",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0079665",
+                "page": "http://www.imdb.com/find?q=tt0079665"
+              }
+            }
+          ],
           "text": "On The Yard (1978)",
-          "value": "On The Yard",
+          "value": "${link_0}",
           "value_text": "On The Yard"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0001664",
+                "page": "http://www.imdb.com/find?q=nm0001664"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/James_Remar",
+                "page": "http://en.wikipedia.org/wiki/James_Remar"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/James-Remar/108282309196118",
+                "page": "https://www.facebook.com/pages/James-Remar/108282309196118"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -100,18 +143,890 @@
   ],
   "paragraphs": [
     {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebel Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
+            "page": "Rebel_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "201. \"Rebel Spirit\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Lights",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Lights",
+            "page": "The_Southern_Lights"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "202. \"The Southern Lights\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_1",
+            "page": "Civil_Wars%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "203. \"Civil Wars, Part 1\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_2",
+            "page": "Civil_Wars%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "204. \"Civil Wars, Part 2\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Night of a Thousand Stars",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Night_of_a_Thousand_Stars",
+            "page": "Night_of_a_Thousand_Stars"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "211. \"Night of a Thousand Stars\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Harmonic Convergence",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Harmonic_Convergence_(episode)",
+            "page": "Harmonic_Convergence_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "212. \"Harmonic Convergence\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ultimatum",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ultimatum",
+            "page": "The_Ultimatum"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "311. \"The Ultimatum\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Enter the Void",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Enter_the_Void",
+            "page": "Enter_the_Void"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "312. \"Enter the Void\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "401. \"${link_0}\"",
+      "links": [
+        {
+          "body": "After All These Years",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/After_All_These_Years",
+            "page": "After_All_These_Years"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "401. \"After All These Years\""
+    },
+    {
+      "body": "402. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Korra Alone",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Korra_Alone",
+            "page": "Korra_Alone"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "The Legend of Korra credits",
+        "Tonraq"
+      ],
+      "text": "402. \"Korra Alone\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Battlestar Galactica",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0407362",
+            "page": "http://www.imdb.com/find?q=tt0407362"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Battlestar Galactica"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Desperado: The Outlaw Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0097190",
+            "page": "http://www.imdb.com/find?q=tt0097190"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Desperado: The Outlaw Wars (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Grey's Anatomy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0413573",
+            "page": "http://www.imdb.com/find?q=tt0413573"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Grey's Anatomy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hawaii Five-0",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1600194",
+            "page": "http://www.imdb.com/find?q=tt1600194"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hawaii Five-0"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hill Street Blues",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0081873",
+            "page": "http://www.imdb.com/find?q=tt0081873"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hill Street Blues"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Miami Vice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086759",
+            "page": "http://www.imdb.com/find?q=tt0086759"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Miami Vice"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Nash Bridges",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115285",
+            "page": "http://www.imdb.com/find?q=tt0115285"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Nash Bridges"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sex and the City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0159206",
+            "page": "http://www.imdb.com/find?q=tt0159206"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sex and the City"
+    },
+    {
+      "body": "${link_0} (TV Movie)",
+      "links": [
+        {
+          "body": "Strangers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0102992",
+            "page": "http://www.imdb.com/find?q=tt0102992"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Strangers (TV Movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Tales from the Crypt",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096708",
+            "page": "http://www.imdb.com/find?q=tt0096708"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Tales from the Crypt"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Batman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398417",
+            "page": "http://www.imdb.com/find?q=tt0398417"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Batman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Twilight Zone",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0318252",
+            "page": "http://www.imdb.com/find?q=tt0318252"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Twilight Zone"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Total Security",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118496",
+            "page": "http://www.imdb.com/find?q=tt0118496"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Total Security"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Django Unchained",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1853728",
+            "page": "http://www.imdb.com/find?q=tt1853728"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Django Unchained (2012)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Transformers: Dark of the Moon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1399103",
+            "page": "http://www.imdb.com/find?q=tt1399103"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Transformers: Dark of the Moon (2011)"
+    },
+    {
+      "body": "${link_0} (2011; video)",
+      "links": [
+        {
+          "body": "Arena",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1117581",
+            "page": "http://www.imdb.com/find?q=tt1117581"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Arena (2011; video)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Ratatouille",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0382932",
+            "page": "http://www.imdb.com/find?q=tt0382932"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ratatouille (2007)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Guradian",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0289213",
+            "page": "http://www.imdb.com/find?q=tt0289213"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Guradian (2001)"
+    },
+    {
+      "body": "${link_0} (2000; video)",
+      "links": [
+        {
+          "body": "Hellraiser: Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0229440",
+            "page": "http://www.imdb.com/find?q=tt0229440"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hellraiser: Inferno (2000; video)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Mortal Kombat: Annihilation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119707",
+            "page": "http://www.imdb.com/find?q=tt0119707"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mortal Kombat: Annihilation (1997)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "Confessions of a Hitman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0109469",
+            "page": "http://www.imdb.com/find?q=tt0109469"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Confessions of a Hitman (1994)"
+    },
+    {
+      "body": "${link_0} (1990; video)",
+      "links": [
+        {
+          "body": "Fatal Charm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0104234",
+            "page": "http://www.imdb.com/find?q=tt0104234"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fatal Charm (1990; video)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "Drugtore Cowboy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0097240",
+            "page": "http://www.imdb.com/find?q=tt0097240"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Drugtore Cowboy (1989)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "The Clan of the Cave Bear",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090848",
+            "page": "http://www.imdb.com/find?q=tt0090848"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Clan of the Cave Bear (1986)"
+    },
+    {
+      "body": "${link_0} (1981)",
+      "links": [
+        {
+          "body": "Windwalker",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0081760",
+            "page": "http://www.imdb.com/find?q=tt0081760"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Windwalker (1981)"
+    },
+    {
+      "body": "${link_0} (1978)",
+      "links": [
+        {
+          "body": "On the Yard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0079665",
+            "page": "http://www.imdb.com/find?q=tt0079665"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "On the Yard (1978)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold - The Videogame",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1613073",
+            "page": "http://www.imdb.com/find?q=tt1613073"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Batman: The Brave and the Bold - The Videogame (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Killzone 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1815777",
+            "page": "http://www.imdb.com/find?q=tt1815777"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Killzone 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Warriors",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1853728",
+            "page": "http://www.imdb.com/find?q=tt1853728"
+          }
+        }
+      ],
+      "section": [
+        "James Remar",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Warriors (video game)"
+    },
+    {
       "body": "Remar was born in Boston, Massachusetts, the son of Elizabeth Mary, a state mental health official, and S. Roy Remar, an attorney.",
       "links": [],
+      "section": [
+        "James Remar",
+        "Life and career"
+      ],
       "text": "Remar was born in Boston, Massachusetts, the son of Elizabeth Mary, a state mental health official, and S. Roy Remar, an attorney."
     },
     {
       "body": "He has spent a good portion of his film career portraying antagonists. He first gained notoriety for playing the aggressively sexual and violent character Ajax in Walter Hill's 1979 cult classic film The Warriors and the murdering sociopath Albert Ganz in the 1982 hit 48 Hrs. In 1980, he starred in the film Windwalker as a youthful version of the eponymous character and later played real-life 1930s-era gangster Dutch Shultz in the 1984 film The Cotton Club.",
       "links": [],
+      "section": [
+        "James Remar",
+        "Life and career"
+      ],
       "text": "He has spent a good portion of his film career portraying antagonists. He first gained notoriety for playing the aggressively sexual and violent character Ajax in Walter Hill's 1979 cult classic film The Warriors and the murdering sociopath Albert Ganz in the 1982 hit 48 Hrs. In 1980, he starred in the film Windwalker as a youthful version of the eponymous character and later played real-life 1930s-era gangster Dutch Shultz in the 1984 film The Cotton Club."
     },
     {
       "body": "Remar was originally cast as Corporal Hicks in the 1986 science-fiction/horror film Aliens but was replaced by Michael Biehn shortly after filming began due to \"creative differences\" with director James Cameron. In 1996, Remar played Quill, one of the primary antagonists in The Phantom, opposite Billy Zane, and he inherited the role of Lord Raiden from Christopher Lambert in the 1997 film Mortal Kombat: Annihilation.",
       "links": [],
+      "section": [
+        "James Remar",
+        "Life and career"
+      ],
       "text": "Remar was originally cast as Corporal Hicks in the 1986 science-fiction/horror film Aliens but was replaced by Michael Biehn shortly after filming began due to \"creative differences\" with director James Cameron. In 1996, Remar played Quill, one of the primary antagonists in The Phantom, opposite Billy Zane, and he inherited the role of Lord Raiden from Christopher Lambert in the 1997 film Mortal Kombat: Annihilation."
     },
     {
@@ -121,12 +1036,26 @@
           "body": "Steve Blum",
           "key": "${link_0}",
           "target": {
-            "href": "Steve_Blum",
+            "external": false,
+            "href": "/wiki/Steve_Blum",
             "page": "Steve_Blum"
           }
         }
       ],
+      "section": [
+        "James Remar",
+        "Life and career"
+      ],
       "text": "Remar's television work includes roles in Miami Vice, Hill Street Blues, Sex and the City, Tales from the Crypt, Jericho, Third Watch, Battlestar Galactica, The X-Files, and The Grid. He starred as Tiny Bellows on the short-lived television series The Huntress and voiced Katar Hol/Hawkman in the animated series Justice League Unlimited. Remar co-starred in the popular Showtime series Dexter as Dexter Morgan's adoptive father, Harry Morgan, for which he received a Saturn Award nomination for Best Supporting Actor. In 2010, he guest-starred as Giuseppe Salvatore in The Vampire Diaries and in Flash Forward as James Ermine. He voiced the villainous Vilgax in Ben 10: Alien Force and Ben 10: Ultimate Alien, replacing Steve Blum. He guest starred in Private Practice as Gibby, a physician who works with Doctors Without Borders, and has a recurring role in the FX series Wilfred as Henry Newman, the father of the protagonist."
+    },
+    {
+      "body": "2012: Won an Academy of Science Fiction, Fantasy & Horror Films Lifetime Career Award",
+      "links": [],
+      "section": [
+        "James Remar",
+        "Awards"
+      ],
+      "text": "2012: Won an Academy of Science Fiction, Fantasy & Horror Films Lifetime Career Award"
     }
   ],
   "source": {

@@ -3,35 +3,40 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Books",
       "target": {
-        "href": "Category_Books",
+        "external": false,
+        "href": "/wiki/Category_Books",
         "page": "Category_Books"
       }
     },
     {
       "body": "Print publications",
       "target": {
-        "href": "Category_Print_publications",
+        "external": false,
+        "href": "/wiki/Category_Print_publications",
         "page": "Category_Print_publications"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Ready-to-Read series",
       "target": {
-        "href": "Category_Ready-to-Read_series",
+        "external": false,
+        "href": "/wiki/Category_Ready-to-Read_series",
         "page": "Category_Ready-to-Read_series"
       }
     }
@@ -39,38 +44,29 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "The cover of Aang's School Days features ${link_0} trying to hide ${link_1} from a student.",
+      "body": "Aang's School Days (${link_0}) is a literary adaptation of the episode \"${link_1}\".",
       "links": [
         {
-          "body": "Aang",
+          "body": "ISBN 978-1-4169-5813-0",
           "key": "${link_0}",
           "target": {
-            "href": "Aang",
-            "page": "Aang"
+            "external": false,
+            "href": "/wiki/Special:BookSources/9781416958130",
+            "page": "Special:BookSources/9781416958130"
           }
         },
         {
-          "body": "Momo",
+          "body": "The Headband",
           "key": "${link_1}",
           "target": {
-            "href": "Momo",
-            "page": "Momo"
-          }
-        }
-      ],
-      "text": "The cover of Aang's School Days features Aang trying to hide Momo from a student."
-    },
-    {
-      "body": "Aang's School Days (ISBN 978-1-4169-5813-0) is a literary adaptation of the episode \"${link_0}\".",
-      "links": [
-        {
-          "body": "The Headband",
-          "key": "${link_0}",
-          "target": {
-            "href": "The_Headband",
+            "external": false,
+            "href": "/wiki/The_Headband",
             "page": "The_Headband"
           }
         }
+      ],
+      "section": [
+        "Aang's School Days"
       ],
       "text": "Aang's School Days (ISBN 978-1-4169-5813-0) is a literary adaptation of the episode \"The Headband\"."
     },
@@ -81,12 +77,55 @@
           "body": "Fire Nation",
           "key": "${link_0}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         }
       ],
+      "section": [
+        "Aang's School Days",
+        "Overview"
+      ],
       "text": "Aang and his friends are living in the Fire Nation, disguised as natives in order to blend in. Having visited the Fire Nation before, Aang is especially confident in his disguise until he is mistaken for a school kid playing hooky. He is taken to a Fire Nation school where he unexpectedly enjoys himself. When his own beliefs clash with traditional Fire Nation customs, however, Aang finds himself in hot water."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "List of Avatar books",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/List_of_Avatar_books",
+            "page": "List_of_Avatar_books"
+          }
+        }
+      ],
+      "section": [
+        "Aang's School Days",
+        "See also"
+      ],
+      "text": "List of Avatar books"
+    },
+    {
+      "body": "${link_0} series",
+      "links": [
+        {
+          "body": "Ready-to-Read",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Ready-to-Read",
+            "page": "Ready-to-Read"
+          }
+        }
+      ],
+      "section": [
+        "Aang's School Days",
+        "See also"
+      ],
+      "text": "Ready-to-Read series"
     }
   ],
   "source": {

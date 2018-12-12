@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Baby Boom (1987)",
+          "body": "${link_0} (1987)",
           "extra": "(1987)",
           "extra_text": "(1987)",
-          "links": [],
+          "links": [
+            {
+              "body": "Baby Boom",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0092605",
+                "page": "http://www.imdb.com/find?q=tt0092605"
+              }
+            }
+          ],
           "text": "Baby Boom (1987)",
-          "value": "Baby Boom",
+          "value": "${link_0}",
           "value_text": "Baby Boom"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0228356",
+                "page": "http://www.imdb.com/find?q=nm0228356"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Ben_Diskin",
+                "page": "http://en.wikipedia.org/wiki/Ben_Diskin"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/BenjaminDiskin",
+                "page": "http://www.facebook.com/BenjaminDiskin"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.twitter.com/BenjaminDiskin",
+                "page": "https://www.twitter.com/BenjaminDiskin"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,9 +162,463 @@
   ],
   "paragraphs": [
     {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Avatar: The Last Airbender credits",
+        "Hahn"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Avatar: The Last Airbender credits",
+        "Hahn"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Blood+",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0482855",
+            "page": "http://www.imdb.com/find?q=tt0482855"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Blood+"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312109",
+            "page": "http://www.imdb.com/find?q=tt0312109"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hey Arnold!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115200",
+            "page": "http://www.imdb.com/find?q=tt0115200"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hey Arnold!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hulk and the Agents of S.M.A.S.H.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2455514",
+            "page": "http://www.imdb.com/find?q=tt2455514"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hulk and the Agents of S.M.A.S.H."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Naruto: Shipp\u016bden",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0988824",
+            "page": "http://www.imdb.com/find?q=tt0988824"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Naruto: Shipp\u016bden"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Problem Child",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106105",
+            "page": "http://www.imdb.com/find?q=tt0106105"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Problem Child"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Spectacular Spider-Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0976192",
+            "page": "http://www.imdb.com/find?q=tt0976192"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Spectacular Spider-Man"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Alpha and Omega 2: A Howl-iday Adventure",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3111728",
+            "page": "http://www.imdb.com/find?q=tt3111728"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Alpha and Omega 2: A Howl-iday Adventure (2013)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Fat Albert",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0396592",
+            "page": "http://www.imdb.com/find?q=tt0396592"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fat Albert (2004)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "The Pickle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0107824",
+            "page": "http://www.imdb.com/find?q=tt0107824"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Pickle (1993)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Out on a Limb",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105078",
+            "page": "http://www.imdb.com/find?q=tt0105078"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Out on a Limb (2002)"
+    },
+    {
+      "body": "${link_0} (1992)",
+      "links": [
+        {
+          "body": "Mr. Saturday Night",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0104928",
+            "page": "http://www.imdb.com/find?q=tt0104928"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mr. Saturday Night (1992)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Kindergarten Cop",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0099938",
+            "page": "http://www.imdb.com/find?q=tt0099938"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kindergarten Cop (1990)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts 3D: Dream Drop Distance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2125539",
+            "page": "http://www.imdb.com/find?q=tt2125539"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts 3D: Dream Drop Distance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ratchet & Clank: Going Commando",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0387531",
+            "page": "http://www.imdb.com/find?q=tt0387531"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ratchet & Clank: Going Commando (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Rogue Galaxy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0947068",
+            "page": "http://www.imdb.com/find?q=tt0947068"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Rogue Galaxy (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Bard's Tale",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0411146",
+            "page": "http://www.imdb.com/find?q=tt0411146"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Bard's Tale (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tony Hawk's Project 8",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0893378",
+            "page": "http://www.imdb.com/find?q=tt0893378"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tony Hawk's Project 8 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Underground",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0385178",
+            "page": "http://www.imdb.com/find?q=tt0385178"
+          }
+        }
+      ],
+      "section": [
+        "Ben Diskin",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Underground (video game)"
+    },
+    {
       "body": "Diskin has appeared in The Wonder Years, Hey Arnold!, Disney's Recess, Mr. Saturday Night, Kindergarten Cop, Baby Boom, and Just Like Dad. He also voiced Eddie J. Squirrel in Squirrel Boy, Arashi Fuuma on Naruto, Sai in Naruto Shipp\u00fbden, the mean teacher in Drake and Josh, Kai Miyagusuku and Katao in Blood+, and Eddie Brock/Venom in The Spectacular Spider-Man. He also voiced the title character in the animated series Stitch!.",
       "links": [],
+      "section": [
+        "Ben Diskin",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Diskin has appeared in The Wonder Years, Hey Arnold!, Disney's Recess, Mr. Saturday Night, Kindergarten Cop, Baby Boom, and Just Like Dad. He also voiced Eddie J. Squirrel in Squirrel Boy, Arashi Fuuma on Naruto, Sai in Naruto Shipp\u00fbden, the mean teacher in Drake and Josh, Kai Miyagusuku and Katao in Blood+, and Eddie Brock/Venom in The Spectacular Spider-Man. He also voiced the title character in the animated series Stitch!."
+    },
+    {
+      "body": "1991: Won a Young Artist Award for Kindergarten Cop (Outstanding Young Ensemble Cast in a Motion Picture)",
+      "links": [],
+      "section": [
+        "Ben Diskin",
+        "Awards"
+      ],
+      "text": "1991: Won a Young Artist Award for Kindergarten Cop (Outstanding Young Ensemble Cast in a Motion Picture)"
     }
   ],
   "source": {

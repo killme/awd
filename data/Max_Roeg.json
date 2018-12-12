@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Aria (1987)",
+          "body": "${link_0} (1987)",
           "extra": "(1987)",
           "extra_text": "(1987)",
-          "links": [],
+          "links": [
+            {
+              "body": "Aria",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0092580",
+                "page": "http://www.imdb.com/find?q=tt0092580"
+              }
+            }
+          ],
           "text": "Aria (1987)",
-          "value": "Aria",
+          "value": "${link_0}",
           "value_text": "Aria"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0736313",
+                "page": "http://www.imdb.com/find?q=nm0736313"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/maxroeg",
+                "page": "https://www.facebook.com/maxroeg"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -91,8 +124,172 @@
   ],
   "paragraphs": [
     {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Beach",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Beach",
+            "page": "The_Beach"
+          }
+        }
+      ],
+      "section": [
+        "Max Roeg",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "305. \"The Beach\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "7th Heaven",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115083",
+            "page": "http://www.imdb.com/find?q=tt0115083"
+          }
+        }
+      ],
+      "section": [
+        "Max Roeg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "7th Heaven"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bones",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460627",
+            "page": "http://www.imdb.com/find?q=tt0460627"
+          }
+        }
+      ],
+      "section": [
+        "Max Roeg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bones"
+    },
+    {
+      "body": "${link_0} (2009; short)",
+      "links": [
+        {
+          "body": "Prelude in E -Minor",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1604694",
+            "page": "http://www.imdb.com/find?q=tt1604694"
+          }
+        }
+      ],
+      "section": [
+        "Max Roeg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Prelude in E -Minor (2009; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Maneater",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1264098",
+            "page": "http://www.imdb.com/find?q=tt1264098"
+          }
+        }
+      ],
+      "section": [
+        "Max Roeg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Maneater (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "I Am Somebody: No Chance in Hell",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0493406",
+            "page": "http://www.imdb.com/find?q=tt0493406"
+          }
+        }
+      ],
+      "section": [
+        "Max Roeg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I Am Somebody: No Chance in Hell (2008)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Dream Boy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0889595",
+            "page": "http://www.imdb.com/find?q=tt0889595"
+          }
+        }
+      ],
+      "section": [
+        "Max Roeg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dream Boy (2008)"
+    },
+    {
+      "body": "${link_0} (runner)",
+      "links": [
+        {
+          "body": "Match Point",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0416320",
+            "page": "http://www.imdb.com/find?q=tt0416320"
+          }
+        }
+      ],
+      "section": [
+        "Max Roeg",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Match Point (runner)"
+    },
+    {
       "body": "Max Roeg is the son of director Nicolas Roeg and actress Theresa Russell, the stepbrother of Luc Roeg, Sholto J. Roeg, and Waldo Roeg, and the younger brother of Statten Roeg.",
       "links": [],
+      "section": [
+        "Max Roeg",
+        "Biographical information"
+      ],
       "text": "Max Roeg is the son of director Nicolas Roeg and actress Theresa Russell, the stepbrother of Luc Roeg, Sholto J. Roeg, and Waldo Roeg, and the younger brother of Statten Roeg."
     }
   ],

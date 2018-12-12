@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Undercover (1991; TV movie)",
+          "body": "${link_0} (1991; TV movie)",
           "extra": "(1991; TV movie)",
           "extra_text": "(1991; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Undercover",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1018945",
+                "page": "http://www.imdb.com/find?q=tt1018945"
+              }
+            }
+          ],
           "text": "Undercover (1991; TV movie)",
-          "value": "Undercover",
+          "value": "${link_0}",
           "value_text": "Undercover"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0193295",
+                "page": "http://www.imdb.com/find?q=nm0193295"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Cliff_Curtis",
+                "page": "http://en.wikipedia.org/wiki/Cliff_Curtis"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "NZ On Screen",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "NZ On Screen",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.nzonscreen.com/person/cliff-curtis",
+                "page": "http://www.nzonscreen.com/person/cliff-curtis"
+              }
+            }
+          ],
           "text": "NZ On Screen",
-          "value": "NZ On Screen",
+          "value": "${link_0}",
           "value_text": "NZ On Screen"
         }
       ]
@@ -100,34 +143,611 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "City Life",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115135",
+            "page": "http://www.imdb.com/find?q=tt0115135"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "City Life"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gang Related",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2719784",
+            "page": "http://www.imdb.com/find?q=tt2719784"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gang Related"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hercules in the Underworld",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110019",
+            "page": "http://www.imdb.com/find?q=tt0110019"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hercules in the Underworld"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hercules: The Legendary Journeys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111999",
+            "page": "http://www.imdb.com/find?q=tt0111999"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hercules: The Legendary Journeys"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Missing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1828246",
+            "page": "http://www.imdb.com/find?q=tt1828246"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Missing"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mysterious Island",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112089",
+            "page": "http://www.imdb.com/find?q=tt0112089"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mysterious Island"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Point of Origin",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285917",
+            "page": "http://www.imdb.com/find?q=tt0285917"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Point of Origin (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Trauma",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1445201",
+            "page": "http://www.imdb.com/find?q=tt1445201"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Trauma"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Undercover",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1018945",
+            "page": "http://www.imdb.com/find?q=tt1018945"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Undercover (TV movie)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "A Thousand Words",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0763831",
+            "page": "http://www.imdb.com/find?q=tt0763831"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Thousand Words (2012)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Crossing Over",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0924129",
+            "page": "http://www.imdb.com/find?q=tt0924129"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Crossing Over (2009)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Live Free or Die Hard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0337978",
+            "page": "http://www.imdb.com/find?q=tt0337978"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Live Free or Die Hard (2007)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Spooked",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0381617",
+            "page": "http://www.imdb.com/find?q=tt0381617"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spooked (2004)"
+    },
+    {
+      "body": "${link_0} (2004) (short)",
+      "links": [
+        {
+          "body": "Heinous Crime",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0438867",
+            "page": "http://www.imdb.com/find?q=tt0438867"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Heinous Crime (2004) (short)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Whale Rider",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0298228",
+            "page": "http://www.imdb.com/find?q=tt0298228"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Whale Rider (2002)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Jubilee",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0215880",
+            "page": "http://www.imdb.com/find?q=tt0215880"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Jubilee (2000)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Three Kings",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120188",
+            "page": "http://www.imdb.com/find?q=tt0120188"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Three Kings (1998)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Six Days Seven Nights",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120828",
+            "page": "http://www.imdb.com/find?q=tt0120828"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Six Days Seven Nights (1998)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Chicken",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0144135",
+            "page": "http://www.imdb.com/find?q=tt0144135"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Chicken (1996)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "Desperate Remedies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106709",
+            "page": "http://www.imdb.com/find?q=tt0106709"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Desperate Remedies (1993)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "The Piano",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0107822",
+            "page": "http://www.imdb.com/find?q=tt0107822"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Piano (1993)"
+    },
+    {
+      "body": "${link_0} (executive producer)",
+      "links": [
+        {
+          "body": "Great Expectations",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1836808",
+            "page": "http://www.imdb.com/find?q=tt1836808"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Great Expectations (executive producer)"
+    },
+    {
+      "body": "${link_0} (executive producer)",
+      "links": [
+        {
+          "body": "Greencard Warriors",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1964618",
+            "page": "http://www.imdb.com/find?q=tt1964618"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Greencard Warriors (executive producer)"
+    },
+    {
+      "body": "${link_0} (short - executive producer)",
+      "links": [
+        {
+          "body": "Hawaikii",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1059928",
+            "page": "http://www.imdb.com/find?q=tt1059928"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Hawaikii (short - executive producer)"
+    },
+    {
+      "body": "${link_0} (short - executive producer)",
+      "links": [
+        {
+          "body": "Taua",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1330593",
+            "page": "http://www.imdb.com/find?q=tt1330593"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Taua (short - executive producer)"
+    },
+    {
+      "body": "${link_0} (documentary - co-producer)",
+      "links": [
+        {
+          "body": "Te Whakarauora Tangata",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2764060",
+            "page": "http://www.imdb.com/find?q=tt2764060"
+          }
+        }
+      ],
+      "section": [
+        "Cliff Curtis",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Te Whakarauora Tangata (documentary - co-producer)"
+    },
+    {
       "body": "Curtis, one of nine children, was born in Rotorua, on the North Island of New Zealand, and is the son of an amateur dancer. He is of M\u0101ori descent, and his tribal affiliations are Te Arawa and Ngati Hauiti. He has shown the ability to portray characters of a wide range of ethnicity, particularly various Latin American and Arab characters. He has appeared as a character actor in many Hollywood films, while back home in New Zealand he is usually the main star.",
       "links": [],
+      "section": [
+        "Cliff Curtis",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Curtis, one of nine children, was born in Rotorua, on the North Island of New Zealand, and is the son of an amateur dancer. He is of M\u0101ori descent, and his tribal affiliations are Te Arawa and Ngati Hauiti. He has shown the ability to portray characters of a wide range of ethnicity, particularly various Latin American and Arab characters. He has appeared as a character actor in many Hollywood films, while back home in New Zealand he is usually the main star."
     },
     {
       "body": "As a boy, he studied Mau r\u0101kau, a traditional M\u0101ori form of taiaha fighting with M\u0101ori elder Mita Mohi on Mokoia Island, which nurtured his abilities as a performer in Kapahaka, traditional M\u0101ori song and dance performance. He later performed as a breakdancer and also competitively in rock'n'roll revival dance competitions.",
       "links": [],
+      "section": [
+        "Cliff Curtis",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "As a boy, he studied Mau r\u0101kau, a traditional M\u0101ori form of taiaha fighting with M\u0101ori elder Mita Mohi on Mokoia Island, which nurtured his abilities as a performer in Kapahaka, traditional M\u0101ori song and dance performance. He later performed as a breakdancer and also competitively in rock'n'roll revival dance competitions."
     },
     {
       "body": "He started acting in amateur theater productions of the musicals Fiddler on the Roof and The Man of La Mancha with the Kapiti Players and the Mantis Cooperative Theatre Company before attending the New Zealand Drama School and Teatro Dimitri Scoula in Switzerland. He worked in a number of New Zealand theater companies, including Downstage, Mercury Theatre, Bats Theatre, and Centre Point. He appeared in stage productions of Happy End, The Merry Wives of Windsor, Othello, The Cherry Orchard, Porgy and Bess, Weeds, Macbeth, Serious Money, and The End of the Golden Weather.",
       "links": [],
+      "section": [
+        "Cliff Curtis",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He started acting in amateur theater productions of the musicals Fiddler on the Roof and The Man of La Mancha with the Kapiti Players and the Mantis Cooperative Theatre Company before attending the New Zealand Drama School and Teatro Dimitri Scoula in Switzerland. He worked in a number of New Zealand theater companies, including Downstage, Mercury Theatre, Bats Theatre, and Centre Point. He appeared in stage productions of Happy End, The Merry Wives of Windsor, Othello, The Cherry Orchard, Porgy and Bess, Weeds, Macbeth, Serious Money, and The End of the Golden Weather."
     },
     {
       "body": "His first feature film role was in the Oscar-nominated New Zealand film The Piano. Other New Zealand films in which he has acted include Once Were Warriors, Desperate Remedies, and River Queen. His international reputation grew further in 2003, when he was one of the leads in the internationally popular New Zealand film Whale Rider.",
       "links": [],
+      "section": [
+        "Cliff Curtis",
+        "Biographical information",
+        "Career"
+      ],
       "text": "His first feature film role was in the Oscar-nominated New Zealand film The Piano. Other New Zealand films in which he has acted include Once Were Warriors, Desperate Remedies, and River Queen. His international reputation grew further in 2003, when he was one of the leads in the internationally popular New Zealand film Whale Rider."
     },
     {
       "body": "Since then, he has starred in films such as Three Kings, Blow, Bringing Out the Dead, Sunshine, and Training Day.",
       "links": [],
+      "section": [
+        "Cliff Curtis",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Since then, he has starred in films such as Three Kings, Blow, Bringing Out the Dead, Sunshine, and Training Day."
     },
     {
       "body": "In 2004 with producer Ainsley Gardiner, he formed the independent film production company Whenua Films. The goals of the company are to support the growth of the New Zealand indigenous filmmaking scene and to be supportive of local short filmmakers. He and Gardiner were appointed to manage the development and production of the Short Films Fund for 2005/2006 by The New Zealand Film Commission. They have produced several shorts under the new company banner, notably, Two Cars, One Night, which received an Academy Award nomination in 2005. Whenua Films also produced the successful short film Hawaiki by director Mike Jonathan in 2006. Both short films have circulated through many of the prestigious international film festivals like the Berlinale. At the 2006 Cannes Film Festival, Miramax Films bought U.S. distribution rights to Whenua's first feature film Eagle vs. Shark.",
       "links": [],
+      "section": [
+        "Cliff Curtis",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 2004 with producer Ainsley Gardiner, he formed the independent film production company Whenua Films. The goals of the company are to support the growth of the New Zealand indigenous filmmaking scene and to be supportive of local short filmmakers. He and Gardiner were appointed to manage the development and production of the Short Films Fund for 2005/2006 by The New Zealand Film Commission. They have produced several shorts under the new company banner, notably, Two Cars, One Night, which received an Academy Award nomination in 2005. Whenua Films also produced the successful short film Hawaiki by director Mike Jonathan in 2006. Both short films have circulated through many of the prestigious international film festivals like the Berlinale. At the 2006 Cannes Film Festival, Miramax Films bought U.S. distribution rights to Whenua's first feature film Eagle vs. Shark."
+    },
+    {
+      "body": "2003: Won a New Zealand Film and TV Award for Whale Rider (Best Supporting Actor)",
+      "links": [],
+      "section": [
+        "Cliff Curtis",
+        "Awards"
+      ],
+      "text": "2003: Won a New Zealand Film and TV Award for Whale Rider (Best Supporting Actor)"
+    },
+    {
+      "body": "2000: Won a New Zealand Film and TV Award for Jubilee (Best Actor)",
+      "links": [],
+      "section": [
+        "Cliff Curtis",
+        "Awards"
+      ],
+      "text": "2000: Won a New Zealand Film and TV Award for Jubilee (Best Actor)"
+    },
+    {
+      "body": "1994: Won a New Zealand Film and TV Award for Desperate Remedies (Best Performance in a Supporting Role: Male)",
+      "links": [],
+      "section": [
+        "Cliff Curtis",
+        "Awards"
+      ],
+      "text": "1994: Won a New Zealand Film and TV Award for Desperate Remedies (Best Performance in a Supporting Role: Male)"
     }
   ],
   "source": {

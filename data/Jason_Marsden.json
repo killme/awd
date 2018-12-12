@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Webster (1987)",
+          "body": "${link_0} (1987)",
           "extra": "(1987)",
           "extra_text": "(1987)",
-          "links": [],
+          "links": [
+            {
+              "body": "Webster",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0085109",
+                "page": "http://www.imdb.com/find?q=tt0085109"
+              }
+            }
+          ],
           "text": "Webster (1987)",
-          "value": "Webster",
+          "value": "${link_0}",
           "value_text": "Webster"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0005189",
+                "page": "http://www.imdb.com/find?q=nm0005189"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jason_Marsden",
+                "page": "http://en.wikipedia.org/wiki/Jason_Marsden"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.jasonmarsden.com/",
+                "page": "http://www.jasonmarsden.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/JasonMarsden",
+                "page": "https://twitter.com/JasonMarsden"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,23 +162,623 @@
   ],
   "paragraphs": [
     {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "The Legend of Korra credits",
+        "Aye-aye spirit"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "The Legend of Korra credits",
+        "Aye-aye spirit"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_2",
+            "page": "Beginnings%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "The Legend of Korra credits",
+        "Settler"
+      ],
+      "text": "208. \"Beginnings, Part 2\""
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Metal Clan",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Metal_Clan",
+            "page": "The_Metal_Clan"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "The Legend of Korra credits",
+        "Huan"
+      ],
+      "text": "305. \"The Metal Clan\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "The Legend of Korra credits",
+        "Huan"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "406. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Battle of Zaofu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Battle_of_Zaofu",
+            "page": "The_Battle_of_Zaofu"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "The Legend of Korra credits",
+        "Huan"
+      ],
+      "text": "406. \"The Battle of Zaofu\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "The Legend of Korra credits",
+        "Guy #1"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Almost Home",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105939",
+            "page": "http://www.imdb.com/find?q=tt0105939"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Almost Home"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Boy Meets World",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105958",
+            "page": "http://www.imdb.com/find?q=tt0105958"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Boy Meets World"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Extreme Ghostbusters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0121932",
+            "page": "http://www.imdb.com/find?q=tt0121932"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Extreme Ghostbusters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Munsters Today",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094518",
+            "page": "http://www.imdb.com/find?q=tt0094518"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Munsters Today"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Weekenders",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0237987",
+            "page": "http://www.imdb.com/find?q=tt0237987"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Weekenders"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sonic the Hedgehog",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106140",
+            "page": "http://www.imdb.com/find?q=tt0106140"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sonic the Hedgehog"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "W.I.T.C.H.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0383718",
+            "page": "http://www.imdb.com/find?q=tt0383718"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "W.I.T.C.H."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Xiaolin Showdown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0965565",
+            "page": "http://www.imdb.com/find?q=tt0965565"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Xiaolin Showdown"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Young Justice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1641384",
+            "page": "http://www.imdb.com/find?q=tt1641384"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Young Justice"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Jasper: A Christmas Caper",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1792095",
+            "page": "http://www.imdb.com/find?q=tt1792095"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Jasper: A Christmas Caper (2010)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "High Hopes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0468520",
+            "page": "http://www.imdb.com/find?q=tt0468520"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "High Hopes (2006)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Spirited Away",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0245429",
+            "page": "http://www.imdb.com/find?q=tt0245429"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Spirited Away (2001)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "An Extremely Goofy Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0208185",
+            "page": "http://www.imdb.com/find?q=tt0208185"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "An Extremely Goofy Movie (2000)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "The Lion King II: Simba's Pride",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120131",
+            "page": "http://www.imdb.com/find?q=tt0120131"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Lion King II: Simba's Pride (1998)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "A Goofy Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0113198",
+            "page": "http://www.imdb.com/find?q=tt0113198"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Goofy Movie (1995)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Baldur's Gate",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0167018",
+            "page": "http://www.imdb.com/find?q=tt0167018"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Baldur's Gate (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "DuckTales: Remastered",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2793236",
+            "page": "http://www.imdb.com/find?q=tt2793236"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "DuckTales: Remastered (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Knights of the Republic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356070",
+            "page": "http://www.imdb.com/find?q=tt0356070"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Knights of the Republic (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tak and the Power of Juju",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0378839",
+            "page": "http://www.imdb.com/find?q=tt0378839"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tak and the Power of Juju (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tak 2: The Staff of Dreams",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0433463",
+            "page": "http://www.imdb.com/find?q=tt0433463"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tak 2: The Staff of Dreams (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tak 3: The Great Juju Challenge",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462563",
+            "page": "http://www.imdb.com/find?q=tt0462563"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tak 3: The Great Juju Challenge (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Xiaolin Showdown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0965565",
+            "page": "http://www.imdb.com/find?q=tt0965565"
+          }
+        }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Xiaolin Showdown (video game)"
+    },
+    {
       "body": "Marsden's mother, Linda Marsden, is a former fashion model, and his father, Myles Marsden, is a former Premier danseur of the Yugoslav National Ballet and Founder of the first regional ballet company in New England, called State Ballet of Rhode Island. Marsden and his parents moved from Rhode Island to Fullerton, California, in August 1985 when he was ten, where he attended Laguna Road Elementary School while pursuing his acting career.",
       "links": [],
+      "section": [
+        "Jason Marsden",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Marsden's mother, Linda Marsden, is a former fashion model, and his father, Myles Marsden, is a former Premier danseur of the Yugoslav National Ballet and Founder of the first regional ballet company in New England, called State Ballet of Rhode Island. Marsden and his parents moved from Rhode Island to Fullerton, California, in August 1985 when he was ten, where he attended Laguna Road Elementary School while pursuing his acting career."
     },
     {
       "body": "Marsden booked his first major role in a movie titled Robot Jox. He played Alan Quartermaine Jr. in the American daytime serial General Hospital. He continued this role for two years while still attending elementary school. This was followed soon afterward by the role of Eddie Munster in the TV series remake of The Munsters titled The Munsters Today.",
       "links": [],
+      "section": [
+        "Jason Marsden",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Marsden booked his first major role in a movie titled Robot Jox. He played Alan Quartermaine Jr. in the American daytime serial General Hospital. He continued this role for two years while still attending elementary school. This was followed soon afterward by the role of Eddie Munster in the TV series remake of The Munsters titled The Munsters Today."
     },
     {
       "body": "Marsden continued his career with many guest star appearances on prime time sitcoms. His next role was voicing Goofy's son Max Goof in the animated film A Goofy Movie, as well as in the sequel An Extremely Goofy Movie.",
       "links": [],
+      "section": [
+        "Jason Marsden",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Marsden continued his career with many guest star appearances on prime time sitcoms. His next role was voicing Goofy's son Max Goof in the animated film A Goofy Movie, as well as in the sequel An Extremely Goofy Movie."
     },
     {
       "body": "Marsden has provided voices for numerous animated television shows and computer games. He appeared in a direct-to-video film as the voice of adult Kovu in The Lion King II: Simba's Pride and narrated several of the special features on the Lion King Special edition DVD. He was the voice of Haku in the American dub of Sen to Chihiro no kamikakushi, more commonly known as Spirited Away. He has also provided the voice of Richie Foley/Gear in the television series Static Shock. In Baldur's Gate II: Shadows of Amn, he voiced several characters, most notably Lilarcor the talking sword, and the druid Cernd.",
       "links": [],
+      "section": [
+        "Jason Marsden",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Marsden has provided voices for numerous animated television shows and computer games. He appeared in a direct-to-video film as the voice of adult Kovu in The Lion King II: Simba's Pride and narrated several of the special features on the Lion King Special edition DVD. He was the voice of Haku in the American dub of Sen to Chihiro no kamikakushi, more commonly known as Spirited Away. He has also provided the voice of Richie Foley/Gear in the television series Static Shock. In Baldur's Gate II: Shadows of Amn, he voiced several characters, most notably Lilarcor the talking sword, and the druid Cernd."
     },
     {
@@ -135,16 +788,27 @@
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
+      ],
+      "section": [
+        "Jason Marsden",
+        "Biographical information",
+        "Career"
       ],
       "text": "His first foray into directing was an episode of the Nickelodeon series The Journey of Allen Strange. He also directed, wrote, produced, and edited The Greatest Short Film Ever!!! in 2004."
     },
     {
       "body": "From late summer 2004 to early spring 2007, Marsden was the head announcer for Toon Disney, excluding Jetix. He also served as a part-time announcer for Disney Channel.",
       "links": [],
+      "section": [
+        "Jason Marsden",
+        "Biographical information",
+        "Career"
+      ],
       "text": "From late summer 2004 to early spring 2007, Marsden was the head announcer for Toon Disney, excluding Jetix. He also served as a part-time announcer for Disney Channel."
     }
   ],

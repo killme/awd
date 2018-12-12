@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Fire Nation",
       "target": {
-        "href": "Category_Fire_Nation",
+        "external": false,
+        "href": "/wiki/Category_Fire_Nation",
         "page": "Category_Fire_Nation"
       }
     },
     {
       "body": "Flora",
       "target": {
-        "href": "Category_Flora",
+        "external": false,
+        "href": "/wiki/Category_Flora",
         "page": "Category_Flora"
       }
     },
     {
       "body": "Foods",
       "target": {
-        "href": "Category_Foods",
+        "external": false,
+        "href": "/wiki/Category_Foods",
         "page": "Category_Foods"
       }
     }
@@ -32,18 +36,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "The ash banana is a long, brownish-yellow fruit.",
-      "links": [],
-      "text": "The ash banana is a long, brownish-yellow fruit."
-    },
-    {
       "body": "The ash banana is a ${link_0} grown in the ${link_1}, specifically on Hing Wa Island. Despite its slight resemblance to the conventional banana, the fruit is actually more closely related to the yam. It is often baked into a fruity bread.",
       "links": [
         {
           "body": "fruit",
           "key": "${link_0}",
           "target": {
-            "href": "Flora_in_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Flora_in_the_World_of_Avatar",
             "page": "Flora_in_the_World_of_Avatar"
           }
         },
@@ -51,12 +51,92 @@
           "body": "Fire Nation",
           "key": "${link_1}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         }
       ],
+      "section": [
+        "Ash banana"
+      ],
       "text": "The ash banana is a fruit grown in the Fire Nation, specifically on Hing Wa Island. Despite its slight resemblance to the conventional banana, the fruit is actually more closely related to the yam. It is often baked into a fruity bread."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cuisine in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Cuisine_in_the_World_of_Avatar",
+            "page": "Cuisine_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Ash banana",
+        "See also"
+      ],
+      "text": "Cuisine in the World of Avatar"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Flora in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Flora_in_the_World_of_Avatar",
+            "page": "Flora_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Ash banana",
+        "See also"
+      ],
+      "text": "Flora in the World of Avatar"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Banana",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Banana",
+            "page": "http://en.wikipedia.org/wiki/Banana"
+          }
+        }
+      ],
+      "section": [
+        "Ash banana",
+        "External links"
+      ],
+      "text": "Banana"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Yam",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Yam_(vegetable)",
+            "page": "http://en.wikipedia.org/wiki/Yam_(vegetable)"
+          }
+        }
+      ],
+      "section": [
+        "Ash banana",
+        "External links"
+      ],
+      "text": "Yam"
     }
   ],
   "source": {

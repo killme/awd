@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Temp (1993)",
+          "body": "${link_0} (1993)",
           "extra": "(1993)",
           "extra_text": "(1993)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Temp",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0108311",
+                "page": "http://www.imdb.com/find?q=tt0108311"
+              }
+            }
+          ],
           "text": "The Temp (1993)",
-          "value": "The Temp",
+          "value": "${link_0}",
           "value_text": "The Temp"
         }
       ]
@@ -41,30 +54,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0490347",
+                "page": "http://www.imdb.com/find?q=nm0490347"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/112102375691354324144/posts",
+                "page": "https://plus.google.com/112102375691354324144/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://adrianlatourelle.com/",
+                "page": "http://adrianlatourelle.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -72,8 +115,572 @@
   ],
   "paragraphs": [
     {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebel Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
+            "page": "Rebel_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "201. \"Rebel Spirit\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Lights",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Lights",
+            "page": "The_Southern_Lights"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "202. \"The Southern Lights\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_1",
+            "page": "Civil_Wars%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "203. \"Civil Wars, Part 1\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_2",
+            "page": "Civil_Wars%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "204. \"Civil Wars, Part 2\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Peacekeepers",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Peacekeepers",
+            "page": "Peacekeepers"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "205. \"Peacekeepers\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "209. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guide",
+            "page": "The_Guide"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "209. \"The Guide\""
+    },
+    {
+      "body": "210. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A New Spiritual Age",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_New_Spiritual_Age",
+            "page": "A_New_Spiritual_Age"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "210. \"A New Spiritual Age\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Night of a Thousand Stars",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Night_of_a_Thousand_Stars",
+            "page": "Night_of_a_Thousand_Stars"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "211. \"Night of a Thousand Stars\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Harmonic Convergence",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Harmonic_Convergence_(episode)",
+            "page": "Harmonic_Convergence_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "212. \"Harmonic Convergence\""
+    },
+    {
+      "body": "213. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Darkness Falls",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Darkness_Falls",
+            "page": "Darkness_Falls"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "213. \"Darkness Falls\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Light in the Dark",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Light_in_the_Dark",
+            "page": "Light_in_the_Dark"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "214. \"Light in the Dark\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "408. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Remembrances",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Remembrances",
+            "page": "Remembrances"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "The Legend of Korra credits",
+        "Unalaq"
+      ],
+      "text": "408. \"Remembrances\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Boston Legal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0402711",
+            "page": "http://www.imdb.com/find?q=tt0402711"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Boston Legal"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Castle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1219024",
+            "page": "http://www.imdb.com/find?q=tt1219024"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Castle"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Criminal Minds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0452046",
+            "page": "http://www.imdb.com/find?q=tt0452046"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Criminal Minds"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "House M.D.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0412142",
+            "page": "http://www.imdb.com/find?q=tt0412142"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "House M.D."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Last Resort",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2172103",
+            "page": "http://www.imdb.com/find?q=tt2172103"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Last Resort"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "NCIS: Los Angeles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1378167",
+            "page": "http://www.imdb.com/find?q=tt1378167"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "NCIS: Los Angeles"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Numb3rs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0433309",
+            "page": "http://www.imdb.com/find?q=tt0433309"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Numb3rs"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Of Two Minds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2088846",
+            "page": "http://www.imdb.com/find?q=tt2088846"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Of Two Minds"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Son's of Anarchy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1124373",
+            "page": "http://www.imdb.com/find?q=tt1124373"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Son's of Anarchy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Closer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458253",
+            "page": "http://www.imdb.com/find?q=tt0458253"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Closer"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Without a Trace",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0321021",
+            "page": "http://www.imdb.com/find?q=tt0321021"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Without a Trace"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "The Girl and the Sea",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3267672",
+            "page": "http://www.imdb.com/find?q=tt3267672"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Girl and the Sea (2013)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Little Crumb",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0205190",
+            "page": "http://www.imdb.com/find?q=tt0205190"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Little Crumb (1999)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "The Temp",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108311",
+            "page": "http://www.imdb.com/find?q=tt0108311"
+          }
+        }
+      ],
+      "section": [
+        "Adrian LaTourelle",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Temp (1993)"
+    },
+    {
       "body": "LaTourelle married Tessa Auberjonois on June 25, 2003, and they have two children.",
       "links": [],
+      "section": [
+        "Adrian LaTourelle",
+        "Biographical information"
+      ],
       "text": "LaTourelle married Tessa Auberjonois on June 25, 2003, and they have two children."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Sidestreet (1975)",
+          "body": "${link_0} (1975)",
           "extra": "(1975)",
           "extra_text": "(1975)",
-          "links": [],
+          "links": [
+            {
+              "body": "Sidestreet",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0071052",
+                "page": "http://www.imdb.com/find?q=tt0071052"
+              }
+            }
+          ],
           "text": "Sidestreet (1975)",
-          "value": "Sidestreet",
+          "value": "${link_0}",
           "value_text": "Sidestreet"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0005606",
+                "page": "http://www.imdb.com/find?q=nm0005606"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Maurice_LaMarche",
+                "page": "http://en.wikipedia.org/wiki/Maurice_LaMarche"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/maurice.lamarche.3",
+                "page": "https://www.facebook.com/maurice.lamarche.3"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/MAURICELAMARCHE",
+                "page": "https://twitter.com/MAURICELAMARCHE"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,9 +148,541 @@
   ],
   "paragraphs": [
     {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "The Legend of Korra credits",
+        "Defense attorney"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Metal Clan",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Metal_Clan",
+            "page": "The_Metal_Clan"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "The Legend of Korra credits",
+        "Aiwei"
+      ],
+      "text": "305. \"The Metal Clan\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "The Legend of Korra credits",
+        "Aiwei"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Terror Within",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Terror_Within",
+            "page": "The_Terror_Within"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "The Legend of Korra credits",
+        "Aiwei"
+      ],
+      "text": "308. \"The Terror Within\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "The Legend of Korra credits",
+        "Aiwei"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Metal Clan",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Metal_Clan",
+            "page": "The_Metal_Clan"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "The Legend of Korra credits",
+        "Chef"
+      ],
+      "text": "305. \"The Metal Clan\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "The Legend of Korra credits",
+        "Chef"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Terror Within",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Terror_Within",
+            "page": "The_Terror_Within"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "The Legend of Korra credits",
+        "Chef"
+      ],
+      "text": "308. \"The Terror Within\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Terror Within",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Terror_Within",
+            "page": "The_Terror_Within"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "The Legend of Korra credits",
+        "Guard #2"
+      ],
+      "text": "308. \"The Terror Within\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "The Legend of Korra credits",
+        "Tavern owner"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "103. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Revelation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Revelation_(episode)",
+            "page": "The_Revelation_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "The Legend of Korra credits",
+        "Additional voice"
+      ],
+      "text": "103. \"The Revelation\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Captain Planet and the Planeteers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098763",
+            "page": "http://www.imdb.com/find?q=tt0098763"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Captain Planet and the Planeteers"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Futurama",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0149460",
+            "page": "http://www.imdb.com/find?q=tt0149460"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Futurama"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "G.I. Joe",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0337762",
+            "page": "http://www.imdb.com/find?q=tt0337762"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "G.I. Joe"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hey Arnold!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115200",
+            "page": "http://www.imdb.com/find?q=tt0115200"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hey Arnold!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Inspector Gadget",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0085033",
+            "page": "http://www.imdb.com/find?q=tt0085033"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Inspector Gadget"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Pinky and The Brain",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112123",
+            "page": "http://www.imdb.com/find?q=tt0112123"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Pinky and The Brain"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Real Ghost Busters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090506",
+            "page": "http://www.imdb.com/find?q=tt0090506"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Real Ghost Busters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Tiny Toon Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098929",
+            "page": "http://www.imdb.com/find?q=tt0098929"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Tiny Toon Adventures"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Gumshoe",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2872796",
+            "page": "http://www.imdb.com/find?q=tt2872796"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Gumshoe (2013)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Team America: World Police",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0372588",
+            "page": "http://www.imdb.com/find?q=tt0372588"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Team America: World Police (2004)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Space Jam",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0117705",
+            "page": "http://www.imdb.com/find?q=tt0117705"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Space Jam (1996)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Batman: Arkham City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1568322",
+            "page": "http://www.imdb.com/find?q=tt1568322"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Batman: Arkham City (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crash: Mind over Mutant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1282033",
+            "page": "http://www.imdb.com/find?q=tt1282033"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crash: Mind over Mutant (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts 3D: Dream Drop Distance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2125539",
+            "page": "http://www.imdb.com/find?q=tt2125539"
+          }
+        }
+      ],
+      "section": [
+        "Maurice LaMarche",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts 3D: Dream Drop Distance (video game)"
+    },
+    {
       "body": "LaMarche was born in Toronto, Ontario, Canada, but his family moved to Timmins, Ontario, soon after he was born. LaMarche's childhood was filled with his \"own little world of cartoons and sixties television\". It was not until his sophomore year of high school that he learned of the popularity his talent for mimicry could garner him. This realization came from a coincidental performance in a high school \"variety night\" several of his friends urged him to enter; he performed an act called \"celebrities as waiters\" which he would subsequently use all throughout his stand up career.",
       "links": [],
+      "section": [
+        "Maurice LaMarche",
+        "Biographical information",
+        "Personal information"
+      ],
       "text": "LaMarche was born in Toronto, Ontario, Canada, but his family moved to Timmins, Ontario, soon after he was born. LaMarche's childhood was filled with his \"own little world of cartoons and sixties television\". It was not until his sophomore year of high school that he learned of the popularity his talent for mimicry could garner him. This realization came from a coincidental performance in a high school \"variety night\" several of his friends urged him to enter; he performed an act called \"celebrities as waiters\" which he would subsequently use all throughout his stand up career."
+    },
+    {
+      "body": "2012: Won a Primetime Emmy Award for Futurama (Best Voice-Over Performance)",
+      "links": [],
+      "section": [
+        "Maurice LaMarche",
+        "Awards"
+      ],
+      "text": "2012: Won a Primetime Emmy Award for Futurama (Best Voice-Over Performance)"
+    },
+    {
+      "body": "2011: Won a Primetime Emmy Award for Futurama (Best Voice-Over Performance)",
+      "links": [],
+      "section": [
+        "Maurice LaMarche",
+        "Awards"
+      ],
+      "text": "2011: Won a Primetime Emmy Award for Futurama (Best Voice-Over Performance)"
+    },
+    {
+      "body": "1998: Won an Annie Award for Pinky and the Brain (Voice Acting by a Male Performer in an Animated Television Production)",
+      "links": [],
+      "section": [
+        "Maurice LaMarche",
+        "Awards"
+      ],
+      "text": "1998: Won an Annie Award for Pinky and the Brain (Voice Acting by a Male Performer in an Animated Television Production)"
     }
   ],
   "source": {

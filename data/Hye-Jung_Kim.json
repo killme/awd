@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -34,12 +38,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Dora the Explorer (2000)",
+          "body": "${link_0} (2000)",
           "extra": "(2000)",
           "extra_text": "(2000)",
-          "links": [],
+          "links": [
+            {
+              "body": "Dora the Explorer",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0235917",
+                "page": "http://www.imdb.com/find?q=tt0235917"
+              }
+            }
+          ],
           "text": "Dora the Explorer (2000)",
-          "value": "Dora the Explorer",
+          "value": "${link_0}",
           "value_text": "Dora the Explorer"
         }
       ]
@@ -48,21 +62,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2195349",
+                "page": "http://www.imdb.com/find?q=nm2195349"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.hyekim.com/",
+                "page": "http://www.hyekim.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -70,9 +104,884 @@
   ],
   "paragraphs": [
     {
-      "body": "This page lacks visual representations and needs one or more relevant images.",
-      "links": [],
-      "text": "This page lacks visual representations and needs one or more relevant images."
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Scroll",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Scroll",
+            "page": "The_Waterbending_Scroll"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "109. \"The Waterbending Scroll\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "111. \"The Great Divide\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "117. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Northern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Northern_Air_Temple",
+            "page": "The_Northern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "117. \"The Northern Air Temple\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Return to Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Return_to_Omashu",
+            "page": "Return_to_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "203. \"Return to Omashu\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "208. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Chase",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Chase",
+            "page": "The_Chase"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "208. \"The Chase\""
+    },
+    {
+      "body": "209. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bitter Work",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bitter_Work",
+            "page": "Bitter_Work"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "209. \"Bitter Work\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Desert",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Desert",
+            "page": "The_Desert"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "211. \"The Desert\""
+    },
+    {
+      "body": "213. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Drill",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Drill",
+            "page": "The_Drill"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "213. \"The Drill\""
+    },
+    {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "220. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Crossroads of Destiny",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Crossroads_of_Destiny",
+            "page": "The_Crossroads_of_Destiny"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color stylist"
+      ],
+      "text": "220. \"The Crossroads of Destiny\""
+    },
+    {
+      "body": "114. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Fortuneteller",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Fortuneteller",
+            "page": "The_Fortuneteller"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color key"
+      ],
+      "text": "114. \"The Fortuneteller\""
+    },
+    {
+      "body": "115. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bato of the Water Tribe",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bato_of_the_Water_Tribe",
+            "page": "Bato_of_the_Water_Tribe"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color key"
+      ],
+      "text": "115. \"Bato of the Water Tribe\""
+    },
+    {
+      "body": "116. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Deserter",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Deserter",
+            "page": "The_Deserter"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color key"
+      ],
+      "text": "116. \"The Deserter\""
+    },
+    {
+      "body": "118. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Master",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Master",
+            "page": "The_Waterbending_Master"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color key"
+      ],
+      "text": "118. \"The Waterbending Master\""
+    },
+    {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color key"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color key"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Cave of Two Lovers",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Cave_of_Two_Lovers",
+            "page": "The_Cave_of_Two_Lovers"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color key"
+      ],
+      "text": "202. \"The Cave of Two Lovers\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Swamp",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Swamp",
+            "page": "The_Swamp"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Color key"
+      ],
+      "text": "204. \"The Swamp\""
+    },
+    {
+      "body": "308. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Puppetmaster",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Puppetmaster",
+            "page": "The_Puppetmaster"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "In-between animator"
+      ],
+      "text": "308. \"The Puppetmaster\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Day of Black Sun, Part 1: The Invasion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Day_of_Black_Sun%2c_Part_1__The_Invasion",
+            "page": "The_Day_of_Black_Sun%2c_Part_1__The_Invasion"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "In-between animator"
+      ],
+      "text": "310. \"The Day of Black Sun, Part 1: The Invasion\""
+    },
+    {
+      "body": "312. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Western Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Western_Air_Temple",
+            "page": "The_Western_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "In-between animator"
+      ],
+      "text": "312. \"The Western Air Temple\""
+    },
+    {
+      "body": "314. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boiling Rock, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boiling_Rock%2c_Part_1",
+            "page": "The_Boiling_Rock%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "In-between animator"
+      ],
+      "text": "314. \"The Boiling Rock, Part 1\""
+    },
+    {
+      "body": "317. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ember Island Players",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ember_Island_Players",
+            "page": "The_Ember_Island_Players"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "In-between animator"
+      ],
+      "text": "317. \"The Ember Island Players\""
+    },
+    {
+      "body": "318. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 1: The Phoenix King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_1__The_Phoenix_King",
+            "page": "Sozin%27s_Comet%2c_Part_1__The_Phoenix_King"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "In-between animator"
+      ],
+      "text": "318. \"Sozin's Comet, Part 1: The Phoenix King\""
+    },
+    {
+      "body": "320. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 3: Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_3__Into_the_Inferno",
+            "page": "Sozin%27s_Comet%2c_Part_3__Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "In-between animator"
+      ],
+      "text": "320. \"Sozin's Comet, Part 3: Into the Inferno\""
+    },
+    {
+      "body": "321. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 4: Avatar Aang",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_4__Avatar_Aang",
+            "page": "Sozin%27s_Comet%2c_Part_4__Avatar_Aang"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "In-between animator"
+      ],
+      "text": "321. \"Sozin's Comet, Part 4: Avatar Aang\""
+    },
+    {
+      "body": "Iss. #1. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bee Calm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bee_Calm",
+            "page": "Bee_Calm"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Comic colorist"
+      ],
+      "text": "Iss. #1. \"Bee Calm\""
+    },
+    {
+      "body": "Iss. #2. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Water War",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Water_War",
+            "page": "Water_War"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Comic colorist"
+      ],
+      "text": "Iss. #2. \"Water War\""
+    },
+    {
+      "body": "Iss. #4. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Relics",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Relics",
+            "page": "Relics"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Comic colorist"
+      ],
+      "text": "Iss. #4. \"Relics\""
+    },
+    {
+      "body": "Iss. #6. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sleepbending",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sleepbending",
+            "page": "Sleepbending"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Comic colorist"
+      ],
+      "text": "Iss. #6. \"Sleepbending\""
+    },
+    {
+      "body": "Iss. #10. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Divided We Fall",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Divided_We_Fall",
+            "page": "Divided_We_Fall"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Comic colorist"
+      ],
+      "text": "Iss. #10. \"Divided We Fall\""
+    },
+    {
+      "body": "Iss. #25. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Game Time",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Game_Time",
+            "page": "Game_Time"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Comic colorist"
+      ],
+      "text": "Iss. #25. \"Game Time\""
+    },
+    {
+      "body": "Iss. #26. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bumi vs. Toph, Round One",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bumi_vs",
+            "page": "Bumi_vs"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Comic colorist"
+      ],
+      "text": "Iss. #26. \"Bumi vs. Toph, Round One\""
+    },
+    {
+      "body": "Iss. #27. \"${link_0}\"",
+      "links": [
+        {
+          "body": "New Recruits",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/New_Recruits",
+            "page": "New_Recruits"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Avatar: The Last Airbender credits",
+        "Comic colorist"
+      ],
+      "text": "Iss. #27. \"New Recruits\""
+    },
+    {
+      "body": "${link_0} (artist and storyboard revisionist)",
+      "links": [
+        {
+          "body": "Dora the Explorer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235917",
+            "page": "http://www.imdb.com/find?q=tt0235917"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dora the Explorer (artist and storyboard revisionist)"
+    },
+    {
+      "body": "${link_0} (artist)",
+      "links": [
+        {
+          "body": "Oswald",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0293734",
+            "page": "http://www.imdb.com/find?q=tt0293734"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Oswald (artist)"
+    },
+    {
+      "body": "${link_0} (artist and storyboard revisionist)",
+      "links": [
+        {
+          "body": "The Fairly OddParents",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235918",
+            "page": "http://www.imdb.com/find?q=tt0235918"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Fairly OddParents (artist and storyboard revisionist)"
+    },
+    {
+      "body": "${link_0} (2011; video)",
+      "links": [
+        {
+          "body": "Green Lantern: Emerald Knights",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1683043",
+            "page": "http://www.imdb.com/find?q=tt1683043"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Green Lantern: Emerald Knights (2011; video)"
+    },
+    {
+      "body": "${link_0} (2007; video)",
+      "links": [
+        {
+          "body": "Superman/Doomsday",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0934706",
+            "page": "http://www.imdb.com/find?q=tt0934706"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Superman/Doomsday (2007; video)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Millennium Actress",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0291350",
+            "page": "http://www.imdb.com/find?q=tt0291350"
+          }
+        }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Millennium Actress (2001)"
     },
     {
       "body": "Kim began her studies as a fine arts student at the Sun Hwa Arts Schools and the Ehwa Womans University in Seoul, South Korea, and later moved on to the California Institute of the Arts to learn character animation. After receiving specialty training in traditional and digital painting and drawing styles, ${link_0} Animation Studios employed her as a color supervisor, background painter, and color stylist on Avatar from 2005 to 2007. In 2008, she began working for Warner Bros. Animation Studios in Burbank, California, as a background painter and color stylist.",
@@ -81,10 +990,15 @@
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
+      ],
+      "section": [
+        "Hye-Jung Kim",
+        "Biographical information"
       ],
       "text": "Kim began her studies as a fine arts student at the Sun Hwa Arts Schools and the Ehwa Womans University in Seoul, South Korea, and later moved on to the California Institute of the Arts to learn character animation. After receiving specialty training in traditional and digital painting and drawing styles, Nickelodeon Animation Studios employed her as a color supervisor, background painter, and color stylist on Avatar from 2005 to 2007. In 2008, she began working for Warner Bros. Animation Studios in Burbank, California, as a background painter and color stylist."
     }

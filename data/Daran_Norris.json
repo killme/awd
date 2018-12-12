@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Lupin the 3rd (1977)",
+          "body": "${link_0} (1977)",
           "extra": "(1977)",
           "extra_text": "(1977)",
-          "links": [],
+          "links": [
+            {
+              "body": "Lupin the 3rd",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0159192",
+                "page": "http://www.imdb.com/find?q=tt0159192"
+              }
+            }
+          ],
           "text": "Lupin the 3rd (1977)",
-          "value": "Lupin the 3rd",
+          "value": "${link_0}",
           "value_text": "Lupin the 3rd"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Daran Norris Wiki",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Daran Norris Wiki",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://darannorris.wikia.com/wiki/",
+                "page": "http://darannorris.wikia.com/wiki/"
+              }
+            }
+          ],
           "text": "Daran Norris Wiki",
-          "value": "Daran Norris Wiki",
+          "value": "${link_0}",
           "value_text": "Daran Norris Wiki"
         },
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0358460",
+                "page": "http://www.imdb.com/find?q=nm0358460"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Daran_Norris",
+                "page": "http://en.wikipedia.org/wiki/Daran_Norris"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/104989273274261765948/posts",
+                "page": "https://plus.google.com/104989273274261765948/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/golfstoomuch",
+                "page": "https://twitter.com/golfstoomuch"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,18 +181,493 @@
   ],
   "paragraphs": [
     {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The King of Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_King_of_Omashu",
+            "page": "The_King_of_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "105. \"The King of Omashu\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Big Time Rush",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1131746",
+            "page": "http://www.imdb.com/find?q=tt1131746"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Big Time Rush"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312109",
+            "page": "http://www.imdb.com/find?q=tt0312109"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Digimon: Digital Monsters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0210418",
+            "page": "http://www.imdb.com/find?q=tt0210418"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Digimon: Digital Monsters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ned's Declassified School Survival Guide",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0405576",
+            "page": "http://www.imdb.com/find?q=tt0405576"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ned's Declassified School Survival Guide"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Samurai Jack",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0278238",
+            "page": "http://www.imdb.com/find?q=tt0278238"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Samurai Jack"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Fairly OddParents",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0235918",
+            "page": "http://www.imdb.com/find?q=tt0235918"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Fairly OddParents"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Replacements",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0816401",
+            "page": "http://www.imdb.com/find?q=tt0816401"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Replacements"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Transformers: Prime",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0210418",
+            "page": "http://www.imdb.com/find?q=tt0210418"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Transformers: Prime"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Veronica Mars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2771372",
+            "page": "http://www.imdb.com/find?q=tt2771372"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Veronica Mars (2014)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "A Fairly Odd Movie: Grow Up Timmy Turner!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1696192",
+            "page": "http://www.imdb.com/find?q=tt1696192"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Fairly Odd Movie: Grow Up Timmy Turner! (2011)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Team America: World Police",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0372588",
+            "page": "http://www.imdb.com/find?q=tt0372588"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Team America: World Police (2004)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Howl's Moving Castle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0347149",
+            "page": "http://www.imdb.com/find?q=tt0347149"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Howl's Moving Castle (2004)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "The Cat in the Hat",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312528",
+            "page": "http://www.imdb.com/find?q=tt0312528"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Cat in the Hat (2003)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "The Little Polar Bear",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0293849",
+            "page": "http://www.imdb.com/find?q=tt0293849"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Little Polar Bear (2001)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Dinosaur",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0130623",
+            "page": "http://www.imdb.com/find?q=tt0130623"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dinosaur (2000)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Billy Frankenstein",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0184276",
+            "page": "http://www.imdb.com/find?q=tt0184276"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Billy Frankenstein (1998)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Grandia III",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0470125",
+            "page": "http://www.imdb.com/find?q=tt0470125"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Grandia III (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "King's Quest VIII: Mask of Eternity",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0192205",
+            "page": "http://www.imdb.com/find?q=tt0192205"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "King's Quest VIII: Mask of Eternity (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Nicktoons: Attack of the Toybots",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1074205",
+            "page": "http://www.imdb.com/find?q=tt1074205"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Nicktoons: Attack of the Toybots (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: Knights of the Old Republic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0356070",
+            "page": "http://www.imdb.com/find?q=tt0356070"
+          }
+        }
+      ],
+      "section": [
+        "Daran Norris",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: Knights of the Old Republic (video game)"
+    },
+    {
       "body": "Born in Ferndale, Washington, Norris graduated from Ferndale High School in 1983. In 1988, he married voice actress Mary Elizabeth McGlynn.",
       "links": [],
+      "section": [
+        "Daran Norris",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Born in Ferndale, Washington, Norris graduated from Ferndale High School in 1983. In 1988, he married voice actress Mary Elizabeth McGlynn."
     },
     {
       "body": "Under numerous pseudonyms, Norris has been a voice actor since 1977, beginning in television and moving into film and video games.",
       "links": [],
+      "section": [
+        "Daran Norris",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Under numerous pseudonyms, Norris has been a voice actor since 1977, beginning in television and moving into film and video games."
     },
     {
       "body": "His live acting work began in film with Hobgoblins in 1988 was later featured in an episode of Mystery Science Theater 3000 and moved to television with Earth Angel in 1991.",
       "links": [],
+      "section": [
+        "Daran Norris",
+        "Biographical information",
+        "Career"
+      ],
       "text": "His live acting work began in film with Hobgoblins in 1988 was later featured in an episode of Mystery Science Theater 3000 and moved to television with Earth Angel in 1991."
     },
     {
@@ -139,21 +677,37 @@
           "body": "J. K. Simmons",
           "key": "${link_0}",
           "target": {
-            "href": "J._K",
+            "external": false,
+            "href": "/wiki/J._K",
             "page": "J._K"
           }
         }
+      ],
+      "section": [
+        "Daran Norris",
+        "Biographical information",
+        "Career"
       ],
       "text": "He provided the voice of J. Jonah Jameson (a role also played by J. K. Simmons) in the video game Spider-Man (2000) for the PlayStation and Nintendo 64 and the animated series The Spectacular Spider-Man (2008\u20132009)."
     },
     {
       "body": "Norris is known for the role as Gordy in forty-four episodes of Ned's Declassified School Survival Guide. Gordy is the school's lazy, wacky janitor who always goads Ned into rash actions while acting as Ned's go-to guy for advice.",
       "links": [],
+      "section": [
+        "Daran Norris",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Norris is known for the role as Gordy in forty-four episodes of Ned's Declassified School Survival Guide. Gordy is the school's lazy, wacky janitor who always goads Ned into rash actions while acting as Ned's go-to guy for advice."
     },
     {
       "body": "He also held the role of Cliff McCormack, a Public Defender and Mars family friend, in seventeen episodes of Veronica Mars. The character of McCormack served as an ally to Keith and Veronica Mars and a client of Mars Investigations.",
       "links": [],
+      "section": [
+        "Daran Norris",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He also held the role of Cliff McCormack, a Public Defender and Mars family friend, in seventeen episodes of Veronica Mars. The character of McCormack served as an ally to Keith and Veronica Mars and a client of Mars Investigations."
     },
     {
@@ -163,10 +717,16 @@
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
+      ],
+      "section": [
+        "Daran Norris",
+        "Biographical information",
+        "Career"
       ],
       "text": "Norris played Buddha Bob in the Nickelodeon series Big Time Rush."
     }

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Untouchables (1993)",
+          "body": "${link_0} (1993)",
           "extra": "(1993)",
           "extra_text": "(1993)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Untouchables",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0106165",
+                "page": "http://www.imdb.com/find?q=tt0106165"
+              }
+            }
+          ],
           "text": "The Untouchables (1993)",
-          "value": "The Untouchables",
+          "value": "${link_0}",
           "value_text": "The Untouchables"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0796732",
+                "page": "http://www.imdb.com/find?q=nm0796732"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/James_Sie",
+                "page": "http://en.wikipedia.org/wiki/James_Sie"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/SieJames",
+                "page": "https://twitter.com/SieJames"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -86,19 +129,720 @@
   ],
   "paragraphs": [
     {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Warriors of Kyoshi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Warriors_of_Kyoshi",
+            "page": "The_Warriors_of_Kyoshi"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Avatar: The Last Airbender credits",
+        "Oyaji"
+      ],
+      "text": "104. \"The Warriors of Kyoshi\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Avatar: The Last Airbender credits",
+        "Oyaji"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The King of Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_King_of_Omashu",
+            "page": "The_King_of_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Avatar: The Last Airbender credits",
+        "Cabbage merchant"
+      ],
+      "text": "105. \"The King of Omashu\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Scroll",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Scroll",
+            "page": "The_Waterbending_Scroll"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Avatar: The Last Airbender credits",
+        "Cabbage merchant"
+      ],
+      "text": "109. \"The Waterbending Scroll\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Serpent's Pass",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Serpent%27s_Pass",
+            "page": "The_Serpent%27s_Pass"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Avatar: The Last Airbender credits",
+        "Cabbage merchant"
+      ],
+      "text": "212. \"The Serpent's Pass\""
+    },
+    {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Avatar: The Last Airbender credits",
+        "Cabbage merchant"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Warriors of Kyoshi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Warriors_of_Kyoshi",
+            "page": "The_Warriors_of_Kyoshi"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "104. \"The Warriors of Kyoshi\""
+    },
+    {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The King of Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_King_of_Omashu",
+            "page": "The_King_of_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "105. \"The King of Omashu\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Scroll",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Scroll",
+            "page": "The_Waterbending_Scroll"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "109. \"The Waterbending Scroll\""
+    },
+    {
+      "body": "116. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Deserter",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Deserter",
+            "page": "The_Deserter"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "116. \"The Deserter\""
+    },
+    {
+      "body": "215. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Tales of Ba Sing Se",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Tales_of_Ba_Sing_Se",
+            "page": "The_Tales_of_Ba_Sing_Se"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "215. \"The Tales of Ba Sing Se\""
+    },
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Aftermath",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Aftermath",
+            "page": "The_Aftermath"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "The Legend of Korra credits",
+        "Lau Gan-Lan"
+      ],
+      "text": "107. \"The Aftermath\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Lights",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Lights",
+            "page": "The_Southern_Lights"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "The Legend of Korra credits",
+        "Abbot Shung"
+      ],
+      "text": "202. \"The Southern Lights\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Danny Phantom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0366005",
+            "page": "http://www.imdb.com/find?q=tt0366005"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Danny Phantom"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jackie Chan Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0259141",
+            "page": "http://www.imdb.com/find?q=tt0259141"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jackie Chan Adventures"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "King of the Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118375",
+            "page": "http://www.imdb.com/find?q=tt0118375"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "King of the Hill"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kung Fu Panda: Legends of Awesomeness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545214",
+            "page": "http://www.imdb.com/find?q=tt1545214"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kung Fu Panda: Legends of Awesomeness"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Shorty McShorts' Shorts",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0859503",
+            "page": "http://www.imdb.com/find?q=tt0859503"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Shorty McShorts' Shorts"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Grim Adventures of Billy & Mandy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292800",
+            "page": "http://www.imdb.com/find?q=tt0292800"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Grim Adventures of Billy & Mandy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Starter Wife",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1127107",
+            "page": "http://www.imdb.com/find?q=tt1127107"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Starter Wife"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Dogonauts: Enemy Line",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3057418",
+            "page": "http://www.imdb.com/find?q=tt3057418"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dogonauts: Enemy Line (2013)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Bats",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200469",
+            "page": "http://www.imdb.com/find?q=tt0200469"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bats (1999)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "U.S. Marshals",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120873",
+            "page": "http://www.imdb.com/find?q=tt0120873"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "U.S. Marshals (1998)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Strawberry Fields",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108233",
+            "page": "http://www.imdb.com/find?q=tt0108233"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Strawberry Fields (1997)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Chain Reaction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115857",
+            "page": "http://www.imdb.com/find?q=tt0115857"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Chain Reaction (1996)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kung Fu Panda",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1191122",
+            "page": "http://www.imdb.com/find?q=tt1191122"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kung Fu Panda (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kung Fu Panda 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1937212",
+            "page": "http://www.imdb.com/find?q=tt1937212"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kung Fu Panda 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lost Planet\u00b2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1535602",
+            "page": "http://www.imdb.com/find?q=tt1535602"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lost Planet\u00b2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lost Planet: Colonies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1469889",
+            "page": "http://www.imdb.com/find?q=tt1469889"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lost Planet: Colonies (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lost Planet: Extreme Condition",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0877346",
+            "page": "http://www.imdb.com/find?q=tt0877346"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lost Planet: Extreme Condition (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid 4: Guns of the Patriots",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0901689",
+            "page": "http://www.imdb.com/find?q=tt0901689"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid 4: Guns of the Patriots (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Prototype",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1233574",
+            "page": "http://www.imdb.com/find?q=tt1233574"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Prototype (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "SOCOM U.S. Navy SEALs: Fireteam Bravo 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0901689",
+            "page": "http://www.imdb.com/find?q=tt0901689"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "SOCOM U.S. Navy SEALs: Fireteam Bravo 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Syphon Filter: Logan's Shadow",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1198090",
+            "page": "http://www.imdb.com/find?q=tt1198090"
+          }
+        }
+      ],
+      "section": [
+        "James Sie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Syphon Filter: Logan's Shadow (video game)"
+    },
+    {
       "body": "Sie starred opposite Suzy Nakamura in the 1997 independent film Strawberry Fields, directed by Rea Tajiri. In 1999, he wrote and performed the autobiographical one-person stage show Talking With My Hands about growing up in a Chinese/Italian household.",
       "links": [],
+      "section": [
+        "James Sie",
+        "Biographical information"
+      ],
       "text": "Sie starred opposite Suzy Nakamura in the 1997 independent film Strawberry Fields, directed by Rea Tajiri. In 1999, he wrote and performed the autobiographical one-person stage show Talking With My Hands about growing up in a Chinese/Italian household."
     },
     {
       "body": "He has provided voices for numerous animated television series, including Danny Phantom as Kwan, King of the Hill, Jackie Chan Adventures as Shendu and animated Jackie Chan, W.I.T.C.H. as Chen Lin, and Marvel: Ultimate Alliance as Fin Fang Foom and Radioactive Man.",
       "links": [],
+      "section": [
+        "James Sie",
+        "Biographical information"
+      ],
       "text": "He has provided voices for numerous animated television series, including Danny Phantom as Kwan, King of the Hill, Jackie Chan Adventures as Shendu and animated Jackie Chan, W.I.T.C.H. as Chen Lin, and Marvel: Ultimate Alliance as Fin Fang Foom and Radioactive Man."
     },
     {
       "body": "Sie voices the main antagonist, Dennis Isenberg, in Capcom's video game Lost Planet: Extreme Condition and plays various characters in its sequels. Sie is also the voice of antagonist Eddy Raja in Uncharted: Drake's Fortune and is part of the cast of Metal Gear Solid 4: Guns of The Patriots, providing the voice of Jonathan, a hulking soldier who helps Solid Snake.",
       "links": [],
+      "section": [
+        "James Sie",
+        "Biographical information"
+      ],
       "text": "Sie voices the main antagonist, Dennis Isenberg, in Capcom's video game Lost Planet: Extreme Condition and plays various characters in its sequels. Sie is also the voice of antagonist Eddy Raja in Uncharted: Drake's Fortune and is part of the cast of Metal Gear Solid 4: Guns of The Patriots, providing the voice of Jonathan, a hulking soldier who helps Solid Snake."
+    },
+    {
+      "body": "Sie was only credited for voicing the cabbage merchant in his second and third appearances; the first and last are as an \"additional voice\".",
+      "links": [],
+      "section": [
+        "James Sie",
+        "Trivia"
+      ],
+      "text": "Sie was only credited for voicing the cabbage merchant in his second and third appearances; the first and last are as an \"additional voice\"."
     }
   ],
   "source": {

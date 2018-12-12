@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Hunter (1988)",
+          "body": "${link_0} (1988)",
           "extra": "(1988)",
           "extra_text": "(1988)",
-          "links": [],
+          "links": [
+            {
+              "body": "Hunter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0086734",
+                "page": "http://www.imdb.com/find?q=tt0086734"
+              }
+            }
+          ],
           "text": "Hunter (1988)",
-          "value": "Hunter",
+          "value": "${link_0}",
           "value_text": "Hunter"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0869467",
+                "page": "http://www.imdb.com/find?q=nm0869467"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Shaun_Toub",
+                "page": "http://en.wikipedia.org/wiki/Shaun_Toub"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.shauntoub.com/",
+                "page": "http://www.shauntoub.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/ShaunToub",
+                "page": "https://twitter.com/ShaunToub"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,28 +148,363 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Charmed",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086734",
+            "page": "http://www.imdb.com/find?q=tt0086734"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Charmed"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Chuck",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0934814",
+            "page": "http://www.imdb.com/find?q=tt0934814"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Chuck"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Homeland",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1796960",
+            "page": "http://www.imdb.com/find?q=tt1796960"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Homeland"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "In the Heat of the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094484",
+            "page": "http://www.imdb.com/find?q=tt0094484"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "In the Heat of the Night"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Lois and Clark: The New Adventures of Superman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106057",
+            "page": "http://www.imdb.com/find?q=tt0106057"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Lois and Clark: The New Adventures of Superman"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Out of Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0095802",
+            "page": "http://www.imdb.com/find?q=tt0095802"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Out of Time (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Pacific Blue",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112112",
+            "page": "http://www.imdb.com/find?q=tt0112112"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Pacific Blue"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Bold and the Beautiful",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092325",
+            "page": "http://www.imdb.com/find?q=tt0092325"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Bold and the Beautiful"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Iron Man 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1300854",
+            "page": "http://www.imdb.com/find?q=tt1300854"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Iron Man 3 (2013)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Iron Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0371746",
+            "page": "http://www.imdb.com/find?q=tt0371746"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Iron Man (2008)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Crash",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0375679",
+            "page": "http://www.imdb.com/find?q=tt0375679"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Crash (2004)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Stigmata",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0145531",
+            "page": "http://www.imdb.com/find?q=tt0145531"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stigmata (1999)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Out to Sea",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119848",
+            "page": "http://www.imdb.com/find?q=tt0119848"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Out to Sea (1997)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Broken Arrow",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115759",
+            "page": "http://www.imdb.com/find?q=tt0115759"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Broken Arrow (1996)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Bad Boys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112442",
+            "page": "http://www.imdb.com/find?q=tt0112442"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bad Boys (1995)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "Hot Shots! Part Deux",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0107144",
+            "page": "http://www.imdb.com/find?q=tt0107144"
+          }
+        }
+      ],
+      "section": [
+        "Shaun Toub",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hot Shots! Part Deux (1993)"
+    },
+    {
       "body": "Toub, who is of Persian Jewish background, was born in Tehran, Iran, and raised in Manchester, England; his family left Iran before the 1979 revolution. At the age of fourteen, he moved to Switzerland and after a two year stay, he crossed the Atlantic to Nashua, New Hampshire, to finish his last year of high school. His high school yearbook notes: \"The Funniest guy in school and the most likely to succeed in the entertainment world.\" After two years of college in Massachusetts, Toub transferred to University of Southern California.",
       "links": [],
+      "section": [
+        "Shaun Toub",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Toub, who is of Persian Jewish background, was born in Tehran, Iran, and raised in Manchester, England; his family left Iran before the 1979 revolution. At the age of fourteen, he moved to Switzerland and after a two year stay, he crossed the Atlantic to Nashua, New Hampshire, to finish his last year of high school. His high school yearbook notes: \"The Funniest guy in school and the most likely to succeed in the entertainment world.\" After two years of college in Massachusetts, Toub transferred to University of Southern California."
     },
     {
       "body": "Toub is active in the Iranian Jewish community. Through various charity events and public speaking engagements, he inspires the community to embrace the arts. He has been a recipient of the Sephard award at the Los Angeles Sephardic Film Festival. Toub currently resides in Los Angeles.",
       "links": [],
+      "section": [
+        "Shaun Toub",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Toub is active in the Iranian Jewish community. Through various charity events and public speaking engagements, he inspires the community to embrace the arts. He has been a recipient of the Sephard award at the Los Angeles Sephardic Film Festival. Toub currently resides in Los Angeles."
-    },
-    {
-      "body": "Shaun Toub preparing for shooting.",
-      "links": [],
-      "text": "Shaun Toub preparing for shooting."
     },
     {
       "body": "Toub broke into the Hollywood scene through a chance encounter with an astute talent agent. He has received accolades for several of his appearances in over one hundred television episodes including Seinfeld, The Sopranos, ER, Just Shoot Me, Sliders, Nash Bridges, JAG, The Bold and the Beautiful, Lois & Clark: The New Adventures of Superman, Married... with Children, Lost, and various movies made for television.",
       "links": [],
+      "section": [
+        "Shaun Toub",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Toub broke into the Hollywood scene through a chance encounter with an astute talent agent. He has received accolades for several of his appearances in over one hundred television episodes including Seinfeld, The Sopranos, ER, Just Shoot Me, Sliders, Nash Bridges, JAG, The Bold and the Beautiful, Lois & Clark: The New Adventures of Superman, Married... with Children, Lost, and various movies made for television."
     },
     {
       "body": "His filmography includes his memorable performance in Michael Bay's Bad Boys with Will Smith and Martin Lawrence, John Woo's Broken Arrow with John Travolta and Christian Slater, Mick Jackson's Live from Baghdad, and Path to Paradise. His performance as Farhad in Paul Haggis' Oscar-winning film Crash, a critical and surprise box office hit, received positive reviews. He also played the role of Rahim Khan in The Kite Runner and appeared in the Marvel Comics adaptation Iron Man as Yinsen.",
       "links": [],
+      "section": [
+        "Shaun Toub",
+        "Biographical information",
+        "Career"
+      ],
       "text": "His filmography includes his memorable performance in Michael Bay's Bad Boys with Will Smith and Martin Lawrence, John Woo's Broken Arrow with John Travolta and Christian Slater, Mick Jackson's Live from Baghdad, and Path to Paradise. His performance as Farhad in Paul Haggis' Oscar-winning film Crash, a critical and surprise box office hit, received positive reviews. He also played the role of Rahim Khan in The Kite Runner and appeared in the Marvel Comics adaptation Iron Man as Yinsen."
     }
   ],

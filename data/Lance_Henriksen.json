@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "It Ain't Easy (1972)",
+          "body": "${link_0} (1972)",
           "extra": "(1972)",
           "extra_text": "(1972)",
-          "links": [],
+          "links": [
+            {
+              "body": "It Ain't Easy",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0189615",
+                "page": "http://www.imdb.com/find?q=tt0189615"
+              }
+            }
+          ],
           "text": "It Ain't Easy (1972)",
-          "value": "It Ain't Easy",
+          "value": "${link_0}",
           "value_text": "It Ain't Easy"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0000448",
+                "page": "http://www.imdb.com/find?q=nm0000448"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Lance_Henriksen",
+                "page": "http://en.wikipedia.org/wiki/Lance_Henriksen"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/officiallancehenriksen",
+                "page": "https://www.facebook.com/officiallancehenriksen"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/Lance_Henriksen",
+                "page": "https://twitter.com/Lance_Henriksen"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,19 +162,628 @@
   ],
   "paragraphs": [
     {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "The Legend of Korra credits",
+        "Lieutenant"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "103. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Revelation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Revelation_(episode)",
+            "page": "The_Revelation_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "The Legend of Korra credits",
+        "Lieutenant"
+      ],
+      "text": "103. \"The Revelation\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "And the Winner Is...",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/And_the_Winner_Is..",
+            "page": "And_the_Winner_Is.."
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "The Legend of Korra credits",
+        "Lieutenant"
+      ],
+      "text": "106. \"And the Winner Is...\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "The Legend of Korra credits",
+        "Lieutenant"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Turning the Tides",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "The Legend of Korra credits",
+        "Lieutenant"
+      ],
+      "text": "110. \"Turning the Tides\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Skeletons in the Closet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
+            "page": "Skeletons_in_the_Closet"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "The Legend of Korra credits",
+        "Lieutenant"
+      ],
+      "text": "111. \"Skeletons in the Closet\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Endgame",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Endgame",
+            "page": "Endgame"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "The Legend of Korra credits",
+        "Lieutenant"
+      ],
+      "text": "112. \"Endgame\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Avengers: Earth's Mightest Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1626038",
+            "page": "http://www.imdb.com/find?q=tt1626038"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Avengers: Earth's Mightest Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Millennium",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115270",
+            "page": "http://www.imdb.com/find?q=tt0115270"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Millennium"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Transformers: Animated",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1055335",
+            "page": "http://www.imdb.com/find?q=tt1055335"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Transformers: Animated"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Tron: Uprising",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1812523",
+            "page": "http://www.imdb.com/find?q=tt1812523"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Tron: Uprising"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Tarzan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120855",
+            "page": "http://www.imdb.com/find?q=tt0120855"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tarzan (1999)"
+    },
+    {
+      "body": "${link_0} (1992)",
+      "links": [
+        {
+          "body": "Alien3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103644",
+            "page": "http://www.imdb.com/find?q=tt0103644"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Alien3 (1992)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "Aliens",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090605",
+            "page": "http://www.imdb.com/find?q=tt0090605"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Aliens (1986)"
+    },
+    {
+      "body": "${link_0} (1984)",
+      "links": [
+        {
+          "body": "The Terminator",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0088247",
+            "page": "http://www.imdb.com/find?q=tt0088247"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Terminator (1984)"
+    },
+    {
+      "body": "${link_0} (1976)",
+      "links": [
+        {
+          "body": "Network",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0074958",
+            "page": "http://www.imdb.com/find?q=tt0074958"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Network (1976)"
+    },
+    {
+      "body": "${link_0} (1975)",
+      "links": [
+        {
+          "body": "Dog Day Afternoon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0072890",
+            "page": "http://www.imdb.com/find?q=tt0072890"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dog Day Afternoon (1975)"
+    },
+    {
+      "body": "${link_0} (1974)",
+      "links": [
+        {
+          "body": "To Kill The King",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0253818",
+            "page": "http://www.imdb.com/find?q=tt0253818"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "To Kill The King (1974)"
+    },
+    {
+      "body": "${link_0} (1972)",
+      "links": [
+        {
+          "body": "It Ain't Easy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0189615",
+            "page": "http://www.imdb.com/find?q=tt0189615"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "It Ain't Easy (1972)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Aliens: Colonial Marines",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1277125",
+            "page": "http://www.imdb.com/find?q=tt1277125"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Aliens: Colonial Marines (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Alien vs. Predator",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1376693",
+            "page": "http://www.imdb.com/find?q=tt1376693"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Alien vs. Predator (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "CR: Alien vs. Predator",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1700418",
+            "page": "http://www.imdb.com/find?q=tt1700418"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "CR: Alien vs. Predator (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Gun",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0482518",
+            "page": "http://www.imdb.com/find?q=tt0482518"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Gun (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Mass Effect 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1839558",
+            "page": "http://www.imdb.com/find?q=tt1839558"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mass Effect 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Red Faction II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0340309",
+            "page": "http://www.imdb.com/find?q=tt0340309"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Red Faction II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Run Like Hell",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0246902",
+            "page": "http://www.imdb.com/find?q=tt0246902"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Run Like Hell (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Transformers Animated: The Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1254976",
+            "page": "http://www.imdb.com/find?q=tt1254976"
+          }
+        }
+      ],
+      "section": [
+        "Lance Henriksen",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Transformers Animated: The Game (video game)"
+    },
+    {
       "body": "Henriksen was born in New York City to James and Margueritte Henriksen. When he was two, his parents divorced and he was subsequently raised by his mother. He got in trouble with various schools in his youth, at one point even seeing the inside of a Children's Home. At the age of twelve, Henriksen dropped out of school and did not learn to read until the age of thirty when he taught himself by reading movie scripts.",
       "links": [],
+      "section": [
+        "Lance Henriksen",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Henriksen was born in New York City to James and Margueritte Henriksen. When he was two, his parents divorced and he was subsequently raised by his mother. He got in trouble with various schools in his youth, at one point even seeing the inside of a Children's Home. At the age of twelve, Henriksen dropped out of school and did not learn to read until the age of thirty when he taught himself by reading movie scripts."
     },
     {
       "body": "Henriksen began his acting career in the Off-Broadway production of Three Plays of the Sea. Soon after, he landed roles in such films as Unspeakable, Powder, The Quick and the Dead, The Terminator, Close Encounters of the Third Kind, and the Aliens franchise as Bishop, for which he is best known. Henriksen earned three Golden Globe nominations for his portrayal of former FBI agent Frank Black on the television series Millennium. His on-camera television guest appearances include Memphis Beat, Castle, NCIS, The X-Files, Cagney & Lacey, and The A-Team.",
       "links": [],
+      "section": [
+        "Lance Henriksen",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Henriksen began his acting career in the Off-Broadway production of Three Plays of the Sea. Soon after, he landed roles in such films as Unspeakable, Powder, The Quick and the Dead, The Terminator, Close Encounters of the Third Kind, and the Aliens franchise as Bishop, for which he is best known. Henriksen earned three Golden Globe nominations for his portrayal of former FBI agent Frank Black on the television series Millennium. His on-camera television guest appearances include Memphis Beat, Castle, NCIS, The X-Files, Cagney & Lacey, and The A-Team."
     },
     {
       "body": "Adding to his resume, Henriksen has also voiced characters in many video games including Aliens: Colonial Marines, the\u00a0Mass Effect series, Alien vs. Predator, Call of Duty: Modern Warfare 2, The Chronicles of Riddick: Assault on Dark Athena, and\u00a0Transformers Animated: The Game.",
       "links": [],
+      "section": [
+        "Lance Henriksen",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Adding to his resume, Henriksen has also voiced characters in many video games including Aliens: Colonial Marines, the\u00a0Mass Effect series, Alien vs. Predator, Call of Duty: Modern Warfare 2, The Chronicles of Riddick: Assault on Dark Athena, and\u00a0Transformers Animated: The Game."
+    },
+    {
+      "body": "2012: Won a Louisville Fright Night Film Fest Festival Prize for It's in the Blood (Best Actor)",
+      "links": [],
+      "section": [
+        "Lance Henriksen",
+        "Awards"
+      ],
+      "text": "2012: Won a Louisville Fright Night Film Fest Festival Prize for It's in the Blood (Best Actor)"
+    },
+    {
+      "body": "2012: Won a New York City Horror Film Festival Award for It's in the Blood (Best Actor)",
+      "links": [],
+      "section": [
+        "Lance Henriksen",
+        "Awards"
+      ],
+      "text": "2012: Won a New York City Horror Film Festival Award for It's in the Blood (Best Actor)"
+    },
+    {
+      "body": "2009: Won an Academy of Science Fiction, Fantasy & Horror Films Life Career Award",
+      "links": [],
+      "section": [
+        "Lance Henriksen",
+        "Awards"
+      ],
+      "text": "2009: Won an Academy of Science Fiction, Fantasy & Horror Films Life Career Award"
+    },
+    {
+      "body": "2006: Won an Austin Fantastic Fest Jury Prize for Abominable (Best Supporting Actor)",
+      "links": [],
+      "section": [
+        "Lance Henriksen",
+        "Awards"
+      ],
+      "text": "2006: Won an Austin Fantastic Fest Jury Prize for Abominable (Best Supporting Actor)"
+    },
+    {
+      "body": "1994: Won a Saturn Award for Hard Target (Best Supporting Actor)",
+      "links": [],
+      "section": [
+        "Lance Henriksen",
+        "Awards"
+      ],
+      "text": "1994: Won a Saturn Award for Hard Target (Best Supporting Actor)"
+    },
+    {
+      "body": "1991: Won a Fantafestival Award for The Pit and the Pendulum (Best Actor)",
+      "links": [],
+      "section": [
+        "Lance Henriksen",
+        "Awards"
+      ],
+      "text": "1991: Won a Fantafestival Award for The Pit and the Pendulum (Best Actor)"
     }
   ],
   "source": {

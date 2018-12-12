@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Miami Vice (1988)",
+          "body": "${link_0} (1988)",
           "extra": "(1988)",
           "extra_text": "(1988)",
-          "links": [],
+          "links": [
+            {
+              "body": "Miami Vice",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0086759",
+                "page": "http://www.imdb.com/find?q=tt0086759"
+              }
+            }
+          ],
           "text": "Miami Vice (1988)",
-          "value": "Miami Vice",
+          "value": "${link_0}",
           "value_text": "Miami Vice"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0541902",
+                "page": "http://www.imdb.com/find?q=nm0541902"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Aasif_Mandvi",
+                "page": "http://en.wikipedia.org/wiki/Aasif_Mandvi"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.aasifmandvi.com/",
+                "page": "http://www.aasifmandvi.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/aasif",
+                "page": "https://twitter.com/aasif"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,29 +162,426 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CSI: Crime Scene Investigation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247082",
+            "page": "http://www.imdb.com/find?q=tt0247082"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CSI: Crime Scene Investigation"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Curb Your Enthusiasm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0264235",
+            "page": "http://www.imdb.com/find?q=tt0264235"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Curb Your Enthusiasm"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jericho",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0805663",
+            "page": "http://www.imdb.com/find?q=tt0805663"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jericho"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098844",
+            "page": "http://www.imdb.com/find?q=tt0098844"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Law & Order: Special Victims Unit",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0203259",
+            "page": "http://www.imdb.com/find?q=tt0203259"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Law & Order: Special Victims Unit"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sex and the City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0159206",
+            "page": "http://www.imdb.com/find?q=tt0159206"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sex and the City"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Tanner on Tanner",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0420457",
+            "page": "http://www.imdb.com/find?q=tt0420457"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Tanner on Tanner"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Cosby Mysteries",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108733",
+            "page": "http://www.imdb.com/find?q=tt0108733"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Cosby Mysteries"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Gods Behaving Badly",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1985094",
+            "page": "http://www.imdb.com/find?q=tt1985094"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Gods Behaving Badly (2013)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Proposal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1041829",
+            "page": "http://www.imdb.com/find?q=tt1041829"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Proposal (2009)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Music and Lyrics",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0758766",
+            "page": "http://www.imdb.com/find?q=tt0758766"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Music and Lyrics (2007)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "The War Within",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0414344",
+            "page": "http://www.imdb.com/find?q=tt0414344"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The War Within (2005)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Undermind",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0277585",
+            "page": "http://www.imdb.com/find?q=tt0277585"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Undermind (2003)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Analyze This",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0122933",
+            "page": "http://www.imdb.com/find?q=tt0122933"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Analyze This (1999)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "The Siege",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0133952",
+            "page": "http://www.imdb.com/find?q=tt0133952"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Siege (1998)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Die Hard: With a Vengeance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112864",
+            "page": "http://www.imdb.com/find?q=tt0112864"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Die Hard: With a Vengeance (1995)"
+    },
+    {
       "body": "Mandvi was born in Mumbai, India, to a Muslim family. He grew up in Bradford, England, until his family moved to Tampa, Florida, when he was 16. After studying theater at the University of South Florida, Mandvi worked as a performer at Disney-MGM Studios at Walt Disney World. He later moved to New York City where he began appearing in Off-Broadway productions, winning an Obie Award for his critically acclaimed one-man show Sakina's Restaurant.",
       "links": [],
+      "section": [
+        "Aasif Mandvi",
+        "Biographical information"
+      ],
       "text": "Mandvi was born in Mumbai, India, to a Muslim family. He grew up in Bradford, England, until his family moved to Tampa, Florida, when he was 16. After studying theater at the University of South Florida, Mandvi worked as a performer at Disney-MGM Studios at Walt Disney World. He later moved to New York City where he began appearing in Off-Broadway productions, winning an Obie Award for his critically acclaimed one-man show Sakina's Restaurant."
     },
     {
       "body": "On Broadway, Mandvi appeared as Ali Hakim in the 2002 revival of Oklahoma!, directed by Trevor Nunn. He also appeared in the play Homebody/Kabul by Tony Kushner and portrayed the German chemist Fritz Haber in the Off-Broadway play Einstein's Gift. Mandvi also played Melchior in On the Razzle by Tom Stoppard at the Williamstown Theatre Festival and appeared in the docudrama Guantanamo: Honor Bound to Defend Freedom at The Culture Project.",
       "links": [],
+      "section": [
+        "Aasif Mandvi",
+        "Biographical information"
+      ],
       "text": "On Broadway, Mandvi appeared as Ali Hakim in the 2002 revival of Oklahoma!, directed by Trevor Nunn. He also appeared in the play Homebody/Kabul by Tony Kushner and portrayed the German chemist Fritz Haber in the Off-Broadway play Einstein's Gift. Mandvi also played Melchior in On the Razzle by Tom Stoppard at the Williamstown Theatre Festival and appeared in the docudrama Guantanamo: Honor Bound to Defend Freedom at The Culture Project."
     },
     {
       "body": "Mandvi played the title role in Merchant Ivory Productions' film The Mystic Masseur. He also had a major supporting role in the independent film American Chai, playing the lead character's roommate, \"Engineering Sam\". At the time, Mandvi was also involved with a New York-based band, Cowboys and Indian. He portrayed the doctor who diagnosed Paul Vitti's panic attacks in Analyze This and had a memorable role as Mr. Aziz of Joe's Pizza in Spider-Man 2. He played the doorman Khan in Music and Lyrics.",
       "links": [],
+      "section": [
+        "Aasif Mandvi",
+        "Biographical information"
+      ],
       "text": "Mandvi played the title role in Merchant Ivory Productions' film The Mystic Masseur. He also had a major supporting role in the independent film American Chai, playing the lead character's roommate, \"Engineering Sam\". At the time, Mandvi was also involved with a New York-based band, Cowboys and Indian. He portrayed the doctor who diagnosed Paul Vitti's panic attacks in Analyze This and had a memorable role as Mr. Aziz of Joe's Pizza in Spider-Man 2. He played the doorman Khan in Music and Lyrics."
     },
     {
       "body": "He has been in numerous television shows, including ER, The Sopranos, Sex and the City, CSI, Oz, Ed, The Bedford Diaries, Jericho, Sleeper Cell, and various editions of Law & Order, including Criminal Intent, SVU, and Trial by Jury. Mandvi has appeared on television in commercials as well, playing a large-nosed customer in a Domino's Pizza slot. Mandvi was the reader for the audiobook editions of Salman Rushdie's 2005 production Shalimar the Clown and V. S. Naipaul's 2004 film, Magic Seeds.",
       "links": [],
+      "section": [
+        "Aasif Mandvi",
+        "Biographical information"
+      ],
       "text": "He has been in numerous television shows, including ER, The Sopranos, Sex and the City, CSI, Oz, Ed, The Bedford Diaries, Jericho, Sleeper Cell, and various editions of Law & Order, including Criminal Intent, SVU, and Trial by Jury. Mandvi has appeared on television in commercials as well, playing a large-nosed customer in a Domino's Pizza slot. Mandvi was the reader for the audiobook editions of Salman Rushdie's 2005 production Shalimar the Clown and V. S. Naipaul's 2004 film, Magic Seeds."
     },
     {
       "body": "In 2008, Mandvi began production on the film 7 to the Palace, which he co wrote with ex-Daily Show writer Jonathan Bines.",
       "links": [],
+      "section": [
+        "Aasif Mandvi",
+        "Biographical information"
+      ],
       "text": "In 2008, Mandvi began production on the film 7 to the Palace, which he co wrote with ex-Daily Show writer Jonathan Bines."
+    },
+    {
+      "body": "${link_0}, Nirali Magazine, February 2007",
+      "links": [
+        {
+          "body": "A Man Called Mandvi",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://niralimagazine.com/2007/02/a-man-called-mandvi/",
+            "page": "http://niralimagazine.com/2007/02/a-man-called-mandvi/"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "External links"
+      ],
+      "text": "A Man Called Mandvi, Nirali Magazine, February 2007"
+    },
+    {
+      "body": "${link_0} - Interview",
+      "links": [
+        {
+          "body": "\"This is you, America. Are you OK with it?\"",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.altmuslim.com/a/a/n/2848/",
+            "page": "http://www.altmuslim.com/a/a/n/2848/"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "External links"
+      ],
+      "text": "\"This is you, America. Are you OK with it?\" - Interview"
+    },
+    {
+      "body": "${link_0} - portraying Shimon Haber in the Broadway play Einstein's Gift",
+      "links": [
+        {
+          "body": "Haber",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Haber_(film)",
+            "page": "http://en.wikipedia.org/wiki/Haber_(film)"
+          }
+        }
+      ],
+      "section": [
+        "Aasif Mandvi",
+        "External links"
+      ],
+      "text": "Haber - portraying Shimon Haber in the Broadway play Einstein's Gift"
     }
   ],
   "source": {

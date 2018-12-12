@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Prison Break (2005)",
+          "body": "${link_0} (2005)",
           "extra": "(2005)",
           "extra_text": "(2005)",
-          "links": [],
+          "links": [
+            {
+              "body": "Prison Break",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0455275",
+                "page": "http://www.imdb.com/find?q=tt0455275"
+              }
+            }
+          ],
           "text": "Prison Break (2005)",
-          "value": "Prison Break",
+          "value": "${link_0}",
           "value_text": "Prison Break"
         }
       ]
@@ -55,54 +68,334 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2172001",
+                "page": "http://www.imdb.com/find?q=nm2172001"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/boettcherashley",
+                "page": "http://instagram.com/boettcherashley"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://ashleyboettcher.com/IWEBAABOfficial/Welcome",
+                "page": "http://ashleyboettcher.com/IWEBAABOfficial/Welcome"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://boettcherashley.tumblr.com/",
+                "page": "http://boettcherashley.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/BoettcherAshley",
+                "page": "https://twitter.com/BoettcherAshley"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Ashley Boettcher",
+        "The Legend of Korra credits",
+        "Little girl"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "About a Boy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2666270",
+            "page": "http://www.imdb.com/find?q=tt2666270"
+          }
+        }
+      ],
+      "section": [
+        "Ashley Boettcher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "About a Boy"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Aliens in the House",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2141593",
+            "page": "http://www.imdb.com/find?q=tt2141593"
+          }
+        }
+      ],
+      "section": [
+        "Ashley Boettcher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Aliens in the House (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gortimer Gibbon's Life on Normal Street",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3496764",
+            "page": "http://www.imdb.com/find?q=tt3496764"
+          }
+        }
+      ],
+      "section": [
+        "Ashley Boettcher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gortimer Gibbon's Life on Normal Street"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Las Vegas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364828",
+            "page": "http://www.imdb.com/find?q=tt0364828"
+          }
+        }
+      ],
+      "section": [
+        "Ashley Boettcher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Las Vegas"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Shake It Up!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1661326",
+            "page": "http://www.imdb.com/find?q=tt1661326"
+          }
+        }
+      ],
+      "section": [
+        "Ashley Boettcher",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Shake It Up!"
+    },
+    {
+      "body": "${link_0} (2012; video)",
+      "links": [
+        {
+          "body": "Beverly Hills Chihuahua 3: Viva La Fiesta",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2224075",
+            "page": "http://www.imdb.com/find?q=tt2224075"
+          }
+        }
+      ],
+      "section": [
+        "Ashley Boettcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Beverly Hills Chihuahua 3: Viva La Fiesta (2012; video)"
+    },
+    {
+      "body": "${link_0} (2012; English version)",
+      "links": [
+        {
+          "body": "Ernest & Celestine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1816518",
+            "page": "http://www.imdb.com/find?q=tt1816518"
+          }
+        }
+      ],
+      "section": [
+        "Ashley Boettcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ernest & Celestine (2012; English version)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Judy Moody and the Not Bummer Summer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1547230",
+            "page": "http://www.imdb.com/find?q=tt1547230"
+          }
+        }
+      ],
+      "section": [
+        "Ashley Boettcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Judy Moody and the Not Bummer Summer (2011)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Shrek Forever After",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0892791",
+            "page": "http://www.imdb.com/find?q=tt0892791"
+          }
+        }
+      ],
+      "section": [
+        "Ashley Boettcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Shrek Forever After (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Aliens in the Attic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0775552",
+            "page": "http://www.imdb.com/find?q=tt0775552"
+          }
+        }
+      ],
+      "section": [
+        "Ashley Boettcher",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Aliens in the Attic (2009)"
+    },
+    {
+      "body": "2012: Won a Young Artist Award for Judy Moody and the Not Bummer Summer (Best Performance in a Feature Film - Young Ensemble Cast)",
+      "links": [],
+      "section": [
+        "Ashley Boettcher",
+        "Awards"
+      ],
+      "text": "2012: Won a Young Artist Award for Judy Moody and the Not Bummer Summer (Best Performance in a Feature Film - Young Ensemble Cast)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/Ashley_Boettcher",
     "file": "avatar.wikia.com/wiki/Ashley_Boettcher.html",

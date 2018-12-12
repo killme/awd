@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Secret Storm (1954)",
+          "body": "${link_0} (1954)",
           "extra": "(1954)",
           "extra_text": "(1954)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Secret Storm",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0046641",
+                "page": "http://www.imdb.com/find?q=tt0046641"
+              }
+            }
+          ],
           "text": "The Secret Storm (1954)",
-          "value": "The Secret Storm",
+          "value": "${link_0}",
           "value_text": "The Secret Storm"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0607666",
+                "page": "http://www.imdb.com/find?q=nm0607666"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Robert_Morse",
+                "page": "http://en.wikipedia.org/wiki/Robert_Morse"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/robertalanmorse",
+                "page": "https://twitter.com/robertalanmorse"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -100,34 +143,591 @@
   ],
   "paragraphs": [
     {
+      "body": "401. \"${link_0}\"",
+      "links": [
+        {
+          "body": "After All These Years",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/After_All_These_Years",
+            "page": "After_All_These_Years"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "The Legend of Korra credits",
+        "Governor"
+      ],
+      "text": "401. \"After All These Years\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Alfred Hitchcock Presents",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0047708",
+            "page": "http://www.imdb.com/find?q=tt0047708"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Alfred Hitchcock Presents"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "City of Angels",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0204765",
+            "page": "http://www.imdb.com/find?q=tt0204765"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "City of Angels"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Here Come the Munsters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0113296",
+            "page": "http://www.imdb.com/find?q=tt0113296"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Here Come the Munsters (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "I Did Not Know That",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0848549",
+            "page": "http://www.imdb.com/find?q=tt0848549"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "I Did Not Know That (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Jack Frost",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0079357",
+            "page": "http://www.imdb.com/find?q=tt0079357"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jack Frost (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Love, American Style",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0063925",
+            "page": "http://www.imdb.com/find?q=tt0063925"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Love, American Style"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mad Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0804503",
+            "page": "http://www.imdb.com/find?q=tt0804503"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mad Men"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Masquerade",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0100117",
+            "page": "http://www.imdb.com/find?q=tt0100117"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Masquerade (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Play of the Week",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0446859",
+            "page": "http://www.imdb.com/find?q=tt0446859"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Play of the Week"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Pound Puppies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090503",
+            "page": "http://www.imdb.com/find?q=tt0090503"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Pound Puppies"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "That's Life",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0062606",
+            "page": "http://www.imdb.com/find?q=tt0062606"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "That's Life"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wild Palms",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106175",
+            "page": "http://www.imdb.com/find?q=tt0106175"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wild Palms"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "It's All About You",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0190487",
+            "page": "http://www.imdb.com/find?q=tt0190487"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "It's All About You (2002)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Why I Live at the P.O.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0473564",
+            "page": "http://www.imdb.com/find?q=tt0473564"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Why I Live at the P.O. (1998)"
+    },
+    {
+      "body": "${link_0} (1987)",
+      "links": [
+        {
+          "body": "The Emperor's New Clothes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0142260",
+            "page": "http://www.imdb.com/find?q=tt0142260"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Emperor's New Clothes (1987)"
+    },
+    {
+      "body": "${link_0} (1970)",
+      "links": [
+        {
+          "body": "The Boatniks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0065482",
+            "page": "http://www.imdb.com/find?q=tt0065482"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Boatniks (1970)"
+    },
+    {
+      "body": "${link_0} (1968)",
+      "links": [
+        {
+          "body": "Where Were You When the Lights Went Out?",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0063801",
+            "page": "http://www.imdb.com/find?q=tt0063801"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Where Were You When the Lights Went Out? (1968)"
+    },
+    {
+      "body": "${link_0} (1967)",
+      "links": [
+        {
+          "body": "A Guide for the Married Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0061736",
+            "page": "http://www.imdb.com/find?q=tt0061736"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Guide for the Married Man (1967)"
+    },
+    {
+      "body": "${link_0} (1964)",
+      "links": [
+        {
+          "body": "Honeymoon Motel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0058204",
+            "page": "http://www.imdb.com/find?q=tt0058204"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Honeymoon Motel (1964)"
+    },
+    {
+      "body": "${link_0} (1958)",
+      "links": [
+        {
+          "body": "The Matchmaker",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0051913",
+            "page": "http://www.imdb.com/find?q=tt0051913"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Matchmaker (1958)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "Jack Frost",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0079357",
+            "page": "http://www.imdb.com/find?q=tt0079357"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Jack Frost (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "Mad Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0804503",
+            "page": "http://www.imdb.com/find?q=tt0804503"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mad Men (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "That's Life",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0062606",
+            "page": "http://www.imdb.com/find?q=tt0062606"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "That's Life (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "The Emperor's New Clothes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0142260",
+            "page": "http://www.imdb.com/find?q=tt0142260"
+          }
+        }
+      ],
+      "section": [
+        "Robert Morse",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Emperor's New Clothes (soundtrack performer)"
+    },
+    {
       "body": "Morse was born on May 18, 1931, in Newton, Massachusetts, at St. Mary's General Hospital. He was the second of Joseph Xavier and Edna Morse's eight children and mostly raised in Boston, Massachusetts, his family having moved there when he was one. When he was ten, his father died in a car accident and his mother, who suffered a nervous breakdown afterward, was committed to a mental institution in Florida. Young Morse and his siblings were subsequently sent to live with their maternal grandparents, John and Nancy Porter, in Cambridge, Massachusetts. Around this time, unable to escape the stresses in his life, Morse would regularly make trips to the movie theater, seeing the new movies of the day and quickly developing idols in actors and directors.",
       "links": [],
+      "section": [
+        "Robert Morse",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Morse was born on May 18, 1931, in Newton, Massachusetts, at St. Mary's General Hospital. He was the second of Joseph Xavier and Edna Morse's eight children and mostly raised in Boston, Massachusetts, his family having moved there when he was one. When he was ten, his father died in a car accident and his mother, who suffered a nervous breakdown afterward, was committed to a mental institution in Florida. Young Morse and his siblings were subsequently sent to live with their maternal grandparents, John and Nancy Porter, in Cambridge, Massachusetts. Around this time, unable to escape the stresses in his life, Morse would regularly make trips to the movie theater, seeing the new movies of the day and quickly developing idols in actors and directors."
     },
     {
       "body": "Morse has been married twice and has five children.",
       "links": [],
+      "section": [
+        "Robert Morse",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Morse has been married twice and has five children."
     },
     {
       "body": "Beginning at age thirteen, Morse began appearing in school productions such as Romeo and Juliet, When Christopher Columbus Discovered America, and The Dark Alleys of New York. He graduated from high school in 1949 and spent the next year working multiple small jobs before joining the United States Navy and being sent to fight in Korea in 1950. After serving in the U.S. Navy for four years, Morse moved to Manhattan to study acting.",
       "links": [],
+      "section": [
+        "Robert Morse",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Beginning at age thirteen, Morse began appearing in school productions such as Romeo and Juliet, When Christopher Columbus Discovered America, and The Dark Alleys of New York. He graduated from high school in 1949 and spent the next year working multiple small jobs before joining the United States Navy and being sent to fight in Korea in 1950. After serving in the U.S. Navy for four years, Morse moved to Manhattan to study acting."
     },
     {
       "body": "Morse is well known for his appearances in musicals and plays on Broadway, as well as roles in movies and television shows. He is perhaps best known for his role as young 1960s New York City businessman J. Pierrepont Finch in the 1961 Broadway production and 1967 film version of the Frank Loesser and Abe Burrows musical How to Succeed in Business Without Really Trying. Morse gained new prominence in the late 2000s for his recurring role of elder New York City businessman Bertram Cooper on the AMC television show Mad Men.",
       "links": [],
+      "section": [
+        "Robert Morse",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Morse is well known for his appearances in musicals and plays on Broadway, as well as roles in movies and television shows. He is perhaps best known for his role as young 1960s New York City businessman J. Pierrepont Finch in the 1961 Broadway production and 1967 film version of the Frank Loesser and Abe Burrows musical How to Succeed in Business Without Really Trying. Morse gained new prominence in the late 2000s for his recurring role of elder New York City businessman Bertram Cooper on the AMC television show Mad Men."
     },
     {
       "body": "Morse has appeared in numerous TV shows, beginning in 1955 with the soap opera The Secret Storm. He appeared as Boss Hogg's devious nephew, Dewey Hogg, in The Dukes of Hazzard sixth season episode \"How to Succeed in Hazzard\", and he also had featured roles in the 1993 miniseries Wild Palms and the 2000 medical drama City of Angels.",
       "links": [],
+      "section": [
+        "Robert Morse",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Morse has appeared in numerous TV shows, beginning in 1955 with the soap opera The Secret Storm. He appeared as Boss Hogg's devious nephew, Dewey Hogg, in The Dukes of Hazzard sixth season episode \"How to Succeed in Hazzard\", and he also had featured roles in the 1993 miniseries Wild Palms and the 2000 medical drama City of Angels."
     },
     {
       "body": "In 1999, Morse was inducted into the American Theater Hall of Fame for his long career as a stage actor.",
       "links": [],
+      "section": [
+        "Robert Morse",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 1999, Morse was inducted into the American Theater Hall of Fame for his long career as a stage actor."
+    },
+    {
+      "body": "2014: Won an OFTA Television Award for Mad Men (Best Guest Actor in a Drama Series)",
+      "links": [],
+      "section": [
+        "Robert Morse",
+        "Awards"
+      ],
+      "text": "2014: Won an OFTA Television Award for Mad Men (Best Guest Actor in a Drama Series)"
+    },
+    {
+      "body": "2010: Won a Screen Actors Guild Award for Mad Men (Outstanding Performance by an Ensemble in a Drama Series)",
+      "links": [],
+      "section": [
+        "Robert Morse",
+        "Awards"
+      ],
+      "text": "2010: Won a Screen Actors Guild Award for Mad Men (Outstanding Performance by an Ensemble in a Drama Series)"
+    },
+    {
+      "body": "1993: Won a Primetime Emmy Award for American Playhouse (Outstanding Lead Actor in a Miniseries or a Special)",
+      "links": [],
+      "section": [
+        "Robert Morse",
+        "Awards"
+      ],
+      "text": "1993: Won a Primetime Emmy Award for American Playhouse (Outstanding Lead Actor in a Miniseries or a Special)"
     }
   ],
   "source": {

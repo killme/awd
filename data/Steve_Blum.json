@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Mobile Suit Gundam (1981; English version)",
+          "body": "${link_0} (1981; English version)",
           "extra": "(1981; English version)",
           "extra_text": "(1981; English version)",
-          "links": [],
+          "links": [
+            {
+              "body": "Mobile Suit Gundam",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0159509",
+                "page": "http://www.imdb.com/find?q=tt0159509"
+              }
+            }
+          ],
           "text": "Mobile Suit Gundam (1981; English version)",
-          "value": "Mobile Suit Gundam",
+          "value": "${link_0}",
           "value_text": "Mobile Suit Gundam"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0089710",
+                "page": "http://www.imdb.com/find?q=nm0089710"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Steven_Blum",
+                "page": "http://en.wikipedia.org/wiki/Steven_Blum"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Steve-Blum/152361198170316",
+                "page": "https://www.facebook.com/pages/Steve-Blum/152361198170316"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.steveblumvoices.com/",
+                "page": "http://www.steveblumvoices.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/blumspew",
+                "page": "https://twitter.com/blumspew"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,9 +181,851 @@
   ],
   "paragraphs": [
     {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Welcome to Republic City",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Welcome_to_Republic_City",
+            "page": "Welcome_to_Republic_City"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Amon"
+      ],
+      "text": "101. \"Welcome to Republic City\""
+    },
+    {
+      "body": "103. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Revelation",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Revelation_(episode)",
+            "page": "The_Revelation_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Amon"
+      ],
+      "text": "103. \"The Revelation\""
+    },
+    {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Voice in the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Voice_in_the_Night",
+            "page": "The_Voice_in_the_Night"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Amon"
+      ],
+      "text": "104. \"The Voice in the Night\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "And the Winner Is...",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/And_the_Winner_Is..",
+            "page": "And_the_Winner_Is.."
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Amon"
+      ],
+      "text": "106. \"And the Winner Is...\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Amon"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Turning the Tides",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Amon"
+      ],
+      "text": "110. \"Turning the Tides\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Skeletons in the Closet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
+            "page": "Skeletons_in_the_Closet"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Amon"
+      ],
+      "text": "111. \"Skeletons in the Closet\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Endgame",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Endgame",
+            "page": "Endgame"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Amon"
+      ],
+      "text": "112. \"Endgame\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Amon"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "408. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Remembrances",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Remembrances",
+            "page": "Remembrances"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Amon"
+      ],
+      "text": "408. \"Remembrances\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Yao"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Frog spirit"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Hunter #2"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Red Lotus guard #1"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Legend of Korra",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra_(video_game)",
+            "page": "The_Legend_of_Korra_(video_game)"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Hundun"
+      ],
+      "text": "The Legend of Korra (video game)"
+    },
+    {
+      "body": "407. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Reunion",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Reunion",
+            "page": "Reunion"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Baraz"
+      ],
+      "text": "407. \"Reunion\""
+    },
+    {
+      "body": "408. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Remembrances",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Remembrances",
+            "page": "Remembrances"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Baraz"
+      ],
+      "text": "408. \"Remembrances\""
+    },
+    {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Voice in the Night",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Voice_in_the_Night",
+            "page": "The_Voice_in_the_Night"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "104. \"The Voice in the Night\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "And the Winner Is...",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/And_the_Winner_Is..",
+            "page": "And_the_Winner_Is.."
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "106. \"And the Winner Is...\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Turning the Tides",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "110. \"Turning the Tides\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Skeletons in the Closet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Skeletons_in_the_Closet",
+            "page": "Skeletons_in_the_Closet"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "111. \"Skeletons in the Closet\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Endgame",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Endgame",
+            "page": "Endgame"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "112. \"Endgame\""
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Animen: The Galactic Battle",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2347782",
+            "page": "http://www.imdb.com/find?q=tt2347782"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Animen: The Galactic Battle (2012)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "A Cat in Paris",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1673702",
+            "page": "http://www.imdb.com/find?q=tt1673702"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Cat in Paris (2010)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Biohazard: Degeneration",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1174954",
+            "page": "http://www.imdb.com/find?q=tt1174954"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Biohazard: Degeneration (2008)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Final Fantasy VII: Advent Children",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0385700",
+            "page": "http://www.imdb.com/find?q=tt0385700"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Final Fantasy VII: Advent Children (2005)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Nomad: The Warrior",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0374089",
+            "page": "http://www.imdb.com/find?q=tt0374089"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Nomad: The Warrior (2005)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "The Little Polar Bear",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0293849",
+            "page": "http://www.imdb.com/find?q=tt0293849"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Little Polar Bear (2001)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Cowboy Bepop: The Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0275277",
+            "page": "http://www.imdb.com/find?q=tt0275277"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cowboy Bepop: The Movie (2001)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Digimon Tamers: Battle of Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0810831",
+            "page": "http://www.imdb.com/find?q=tt0810831"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Digimon Tamers: Battle of Adventures (2001)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Metropolis",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0293416",
+            "page": "http://www.imdb.com/find?q=tt0293416"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Metropolis (2001)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Digimon Adventure 02: Revenge of Diaboromon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0804905",
+            "page": "http://www.imdb.com/find?q=tt0804905"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Digimon Adventure 02: Revenge of Diaboromon (2001)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Initial D: Third Stage",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0388130",
+            "page": "http://www.imdb.com/find?q=tt0388130"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Initial D: Third Stage (2001)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Digimon: The Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0259974",
+            "page": "http://www.imdb.com/find?q=tt0259974"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Digimon: The Movie (2000)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Shadow Builder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0117611",
+            "page": "http://www.imdb.com/find?q=tt0117611"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Shadow Builder (1998)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Amagedeon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0214468",
+            "page": "http://www.imdb.com/find?q=tt0214468"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Amagedeon (1996)"
+    },
+    {
+      "body": "${link_0} (1994; short)",
+      "links": [
+        {
+          "body": "Phantom Quest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111811",
+            "page": "http://www.imdb.com/find?q=tt0111811"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Phantom Quest (1994; short)"
+    },
+    {
+      "body": "${link_0} (1993; short)",
+      "links": [
+        {
+          "body": "Ambassador Magma",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0107506",
+            "page": "http://www.imdb.com/find?q=tt0107506"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ambassador Magma (1993; short)"
+    },
+    {
+      "body": "${link_0} (1993; video short)",
+      "links": [
+        {
+          "body": "Moldiver",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0107589",
+            "page": "http://www.imdb.com/find?q=tt0107589"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Moldiver (1993; video short)"
+    },
+    {
+      "body": "${link_0} (1987)",
+      "links": [
+        {
+          "body": "Wings of Honneamise",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0093207",
+            "page": "http://www.imdb.com/find?q=tt0093207"
+          }
+        }
+      ],
+      "section": [
+        "Steve Blum",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Wings of Honneamise (1987)"
+    },
+    {
       "body": "Steve Blum has voiced hundreds of characters in film, television, video games, and commercials. He is best known for his roles as Spike Spiegel in the anime series Cowboy Bebop and Mugen in Samurai Champloo, as well as Wolverine in several television series and video games.",
       "links": [],
+      "section": [
+        "Steve Blum",
+        "Biographical information"
+      ],
       "text": "Steve Blum has voiced hundreds of characters in film, television, video games, and commercials. He is best known for his roles as Spike Spiegel in the anime series Cowboy Bebop and Mugen in Samurai Champloo, as well as Wolverine in several television series and video games."
+    },
+    {
+      "body": "Blum is generally considered the \"king of anime\" even though he is not a huge fan of it; he respects anime as an art form, however.",
+      "links": [],
+      "section": [
+        "Steve Blum",
+        "Trivia"
+      ],
+      "text": "Blum is generally considered the \"king of anime\" even though he is not a huge fan of it; he respects anime as an art form, however."
+    },
+    {
+      "body": "Many of his earlier credits have him listed under the name David Lucas.",
+      "links": [],
+      "section": [
+        "Steve Blum",
+        "Trivia"
+      ],
+      "text": "Many of his earlier credits have him listed under the name David Lucas."
     }
   ],
   "source": {

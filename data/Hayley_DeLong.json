@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Sing Along Songs: Brother Bear - On My Way (2003; video short)",
+          "body": "${link_0} (2003; video short)",
           "extra": "(2003; video short)",
           "extra_text": "(2003; video short)",
-          "links": [],
+          "links": [
+            {
+              "body": "Sing Along Songs: Brother Bear - On My Way",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt1664858",
+                "page": "http://www.imdb.com/find?q=tt1664858"
+              }
+            }
+          ],
           "text": "Sing Along Songs: Brother Bear - On My Way (2003; video short)",
-          "value": "Sing Along Songs: Brother Bear - On My Way",
+          "value": "${link_0}",
           "value_text": "Sing Along Songs: Brother Bear - On My Way"
         }
       ]
@@ -41,12 +54,22 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2657679",
+                "page": "http://www.imdb.com/find?q=nm2657679"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
@@ -54,9 +77,44 @@
   ],
   "paragraphs": [
     {
-      "body": "This page lacks visual representations and needs one or more relevant images.",
-      "links": [],
-      "text": "This page lacks visual representations and needs one or more relevant images."
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Warriors of Kyoshi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Warriors_of_Kyoshi",
+            "page": "The_Warriors_of_Kyoshi"
+          }
+        }
+      ],
+      "section": [
+        "Hayley DeLong",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "104. \"The Warriors of Kyoshi\""
+    },
+    {
+      "body": "${link_0} (2003; video short)",
+      "links": [
+        {
+          "body": "Sing Along Songs: Brother Bear - On My Way",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1664858",
+            "page": "http://www.imdb.com/find?q=tt1664858"
+          }
+        }
+      ],
+      "section": [
+        "Hayley DeLong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sing Along Songs: Brother Bear - On My Way (2003; video short)"
     }
   ],
   "source": {

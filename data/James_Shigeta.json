@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Crimson Kimono (1959)",
+          "body": "${link_0} (1959)",
           "extra": "(1959)",
           "extra_text": "(1959)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Crimson Kimono",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0052713",
+                "page": "http://www.imdb.com/find?q=tt0052713"
+              }
+            }
+          ],
           "text": "The Crimson Kimono (1959)",
-          "value": "The Crimson Kimono",
+          "value": "${link_0}",
           "value_text": "The Crimson Kimono"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0793363",
+                "page": "http://www.imdb.com/find?q=nm0793363"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/James_Shigeta",
+                "page": "http://en.wikipedia.org/wiki/James_Shigeta"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/pages/James-Shigeta/106235489408082",
+                "page": "http://www.facebook.com/pages/James-Shigeta/106235489408082"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -100,54 +143,193 @@
   ],
   "paragraphs": [
     {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Winter Solstice, Part 1: The Spirit World",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Winter_Solstice%2c_Part_1__The_Spirit_World",
+            "page": "Winter_Solstice%2c_Part_1__The_Spirit_World"
+          }
+        }
+      ],
+      "section": [
+        "James Shigeta",
+        "Avatar: The Last Airbender credits",
+        "Old wanderer"
+      ],
+      "text": "107. \"Winter Solstice, Part 1: The Spirit World\""
+    },
+    {
+      "body": "${link_0} (TV special)",
+      "links": [
+        {
+          "body": "2006 Asian Excellence Awards",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0768096",
+            "page": "http://www.imdb.com/find?q=tt0768096"
+          }
+        }
+      ],
+      "section": [
+        "James Shigeta",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "2006 Asian Excellence Awards (TV special)"
+    },
+    {
+      "body": "${link_0} (soundtrack)",
+      "links": [
+        {
+          "body": "Flower Drum Song",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0054885",
+            "page": "http://www.imdb.com/find?q=tt0054885"
+          }
+        }
+      ],
+      "section": [
+        "James Shigeta",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Flower Drum Song (soundtrack)"
+    },
+    {
+      "body": "${link_0} (soundtrack)",
+      "links": [
+        {
+          "body": "Lost Horizon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0070337",
+            "page": "http://www.imdb.com/find?q=tt0070337"
+          }
+        }
+      ],
+      "section": [
+        "James Shigeta",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lost Horizon (soundtrack)"
+    },
+    {
       "body": "Born in Hawaii of Japanese ancestry, Shigeta studied drama at New York University. Before he could fully embark on a business career, Shigeta enlisted to serve in the U.S. Marine Corps during the Korean War.",
       "links": [],
+      "section": [
+        "James Shigeta",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Born in Hawaii of Japanese ancestry, Shigeta studied drama at New York University. Before he could fully embark on a business career, Shigeta enlisted to serve in the U.S. Marine Corps during the Korean War."
     },
     {
       "body": "Shigeta passed away in his sleep on July 28, 2014.",
       "links": [],
+      "section": [
+        "James Shigeta",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Shigeta passed away in his sleep on July 28, 2014."
     },
     {
       "body": "Shigeta entered Ted Mack's television talent show, Original Amateur Hour, and won first prize. Embarking on a singing career, his agent at the time gave him the non-ethnic sounding stage name of \"Guy Brion\", alluding to Shigeta as a cultured European. Under his new name, he developed a supper club musical career in the United States, singing at venues such as the Mocambo and the Los Angeles Players Club. Despite that success, breaking into the movies eluded him.",
       "links": [],
+      "section": [
+        "James Shigeta",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Shigeta entered Ted Mack's television talent show, Original Amateur Hour, and won first prize. Embarking on a singing career, his agent at the time gave him the non-ethnic sounding stage name of \"Guy Brion\", alluding to Shigeta as a cultured European. Under his new name, he developed a supper club musical career in the United States, singing at venues such as the Mocambo and the Los Angeles Players Club. Despite that success, breaking into the movies eluded him."
     },
     {
       "body": "The American-born Shigeta did not speak Japanese until Toho Studios in Tokyo invited him to be a musical star under his real name in Japan. He spent years in the country, becoming a success in all media aspects, including radio, television, stage, supper clubs, movies, and recordings, becoming known as \"The Frank Sinatra of Japan\".",
       "links": [],
+      "section": [
+        "James Shigeta",
+        "Biographical information",
+        "Career"
+      ],
       "text": "The American-born Shigeta did not speak Japanese until Toho Studios in Tokyo invited him to be a musical star under his real name in Japan. He spent years in the country, becoming a success in all media aspects, including radio, television, stage, supper clubs, movies, and recordings, becoming known as \"The Frank Sinatra of Japan\"."
     },
     {
       "body": "Shigeta returned to the United States to sing on the Dinah Shore Show. By 1959 he was the star of the Shirley MacLaine-Steve Parker production of Holiday in Japan at the New Frontier Hotel and Casino in Las Vegas.",
       "links": [],
+      "section": [
+        "James Shigeta",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Shigeta returned to the United States to sing on the Dinah Shore Show. By 1959 he was the star of the Shirley MacLaine-Steve Parker production of Holiday in Japan at the New Frontier Hotel and Casino in Las Vegas."
     },
     {
       "body": "When movies began to open up for him, Shigeta took acting lessons from seasoned dialogue coach Leon Charles.",
       "links": [],
+      "section": [
+        "James Shigeta",
+        "Biographical information",
+        "Career"
+      ],
       "text": "When movies began to open up for him, Shigeta took acting lessons from seasoned dialogue coach Leon Charles."
     },
     {
       "body": "Shigeta first came on screen in the U.S. in 1959 as Detective Joe Kojaku in Crimson Kimono, a detective story which featured an interracial romantic triangle.",
       "links": [],
+      "section": [
+        "James Shigeta",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Shigeta first came on screen in the U.S. in 1959 as Detective Joe Kojaku in Crimson Kimono, a detective story which featured an interracial romantic triangle."
     },
     {
       "body": "Paramount Pictures and James Clavell cast Shigeta in the 1960 release Walk Like A Dragon as Cheng Lu, a young Chinese man in the American old west who resents that Chinese must be subservient to white people. When filming began, Shigeta was still starring in Holiday in Japan in Las Vegas. An arrangement was made to transport him after his last show to the Paramount studio by ambulance to make sure he arrived on time. Technical advisor to Shigeta on the film was Benson Fong, who taught Shigeta how to mount a horse Chinese style. Shigeta and Lord would work together again in the 1968 Hawaii Five-O episode \"Deathwatch\".",
       "links": [],
+      "section": [
+        "James Shigeta",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Paramount Pictures and James Clavell cast Shigeta in the 1960 release Walk Like A Dragon as Cheng Lu, a young Chinese man in the American old west who resents that Chinese must be subservient to white people. When filming began, Shigeta was still starring in Holiday in Japan in Las Vegas. An arrangement was made to transport him after his last show to the Paramount studio by ambulance to make sure he arrived on time. Technical advisor to Shigeta on the film was Benson Fong, who taught Shigeta how to mount a horse Chinese style. Shigeta and Lord would work together again in the 1968 Hawaii Five-O episode \"Deathwatch\"."
     },
     {
       "body": "He was cast as World War II Japanese diplomat Hidenari Terasaki opposite Carroll Baker as Gwen Terasaki in the 1961 biographical movie Bridge to the Sun. A rarity for its era, the movie told the true story of a racially mixed marriage set against the background of the war between the United States and Japan.",
       "links": [],
+      "section": [
+        "James Shigeta",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He was cast as World War II Japanese diplomat Hidenari Terasaki opposite Carroll Baker as Gwen Terasaki in the 1961 biographical movie Bridge to the Sun. A rarity for its era, the movie told the true story of a racially mixed marriage set against the background of the war between the United States and Japan."
     },
     {
       "body": "Shigeta guest starred in many television shows, beginning with Alcoa Premiere in 1961, as a Korean War era Chinese Communist who tortured star Lloyd Bridges. He later starred as a medical assistant to doctor Ed Flanders in the 1982 film Tomorrow's Child, which dealt with the subject matter of a baby being brought to full term in a test tube. In 1988, he played the ill-fated corporate executive Joseph Yoshinobu Takagi in the action adventure film Die Hard and underworld crime boss Tim Yum Yum in Cage II: The Arena of Death. Shigeta has lent his voice to Disney's 1998 animated film Mulan.",
       "links": [],
+      "section": [
+        "James Shigeta",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Shigeta guest starred in many television shows, beginning with Alcoa Premiere in 1961, as a Korean War era Chinese Communist who tortured star Lloyd Bridges. He later starred as a medical assistant to doctor Ed Flanders in the 1982 film Tomorrow's Child, which dealt with the subject matter of a baby being brought to full term in a test tube. In 1988, he played the ill-fated corporate executive Joseph Yoshinobu Takagi in the action adventure film Die Hard and underworld crime boss Tim Yum Yum in Cage II: The Arena of Death. Shigeta has lent his voice to Disney's 1998 animated film Mulan."
+    },
+    {
+      "body": "1960: Won a Golden Globe Award (Most Promising Newcomer - Male)",
+      "links": [],
+      "section": [
+        "James Shigeta",
+        "Awards"
+      ],
+      "text": "1960: Won a Golden Globe Award (Most Promising Newcomer - Male)"
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Tom Show (1998)",
+          "body": "${link_0} (1998)",
           "extra": "(1998)",
           "extra_text": "(1998)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Tom Show",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0118494",
+                "page": "http://www.imdb.com/find?q=tt0118494"
+              }
+            }
+          ],
           "text": "The Tom Show (1998)",
-          "value": "The Tom Show",
+          "value": "${link_0}",
           "value_text": "The Tom Show"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0051469",
+                "page": "http://www.imdb.com/find?q=nm0051469"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Maria_Bamford",
+                "page": "http://en.wikipedia.org/wiki/Maria_Bamford"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/mariabamford",
+                "page": "https://www.facebook.com/mariabamford"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.mariabamford.com/",
+                "page": "http://www.mariabamford.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/mariabamfoo",
+                "page": "https://twitter.com/mariabamfoo"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,33 +181,563 @@
   ],
   "paragraphs": [
     {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Leaf in the Wind",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Leaf_in_the_Wind",
+            "page": "A_Leaf_in_the_Wind"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "The Legend of Korra credits",
+        "Fan girl"
+      ],
+      "text": "102. \"A Leaf in the Wind\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Turning the Tides",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "The Legend of Korra credits",
+        "Air Acolyte woman"
+      ],
+      "text": "110. \"Turning the Tides\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Turning the Tides",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "The Legend of Korra credits",
+        "Police woman #2"
+      ],
+      "text": "110. \"Turning the Tides\""
+    },
+    {
+      "body": "211. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Night of a Thousand Stars",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Night_of_a_Thousand_Stars",
+            "page": "Night_of_a_Thousand_Stars"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "The Legend of Korra credits",
+        "Buttercup Raiko"
+      ],
+      "text": "211. \"Night of a Thousand Stars\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "A Breath of Fresh Air",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/A_Breath_of_Fresh_Air",
+            "page": "A_Breath_of_Fresh_Air"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "The Legend of Korra credits",
+        "Reporter"
+      ],
+      "text": "301. \"A Breath of Fresh Air\""
+    },
+    {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "The Legend of Korra credits",
+        "Ryu's mom"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "409. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beyond the Wilds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beyond_the_Wilds",
+            "page": "Beyond_the_Wilds"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "The Legend of Korra credits",
+        "Ryu's mom"
+      ],
+      "text": "409. \"Beyond the Wilds\""
+    },
+    {
+      "body": "307. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Original Airbenders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Original_Airbenders",
+            "page": "Original_Airbenders"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "The Legend of Korra credits",
+        "Female airbender"
+      ],
+      "text": "307. \"Original Airbenders\""
+    },
+    {
+      "body": "404. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Calling",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Calling",
+            "page": "The_Calling"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "The Legend of Korra credits",
+        "Elderly woman"
+      ],
+      "text": "404. \"The Calling\""
+    },
+    {
+      "body": "411. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Kuvira's Gambit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Kuvira%27s_Gambit",
+            "page": "Kuvira%27s_Gambit"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "The Legend of Korra credits",
+        "Radio operator"
+      ],
+      "text": "411. \"Kuvira's Gambit\""
+    },
+    {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Spirit of Competition",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Spirit_of_Competition",
+            "page": "The_Spirit_of_Competition"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "105. \"The Spirit of Competition\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Turning the Tides",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Turning_the_Tides",
+            "page": "Turning_the_Tides"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "The Legend of Korra credits",
+        "Additional voices"
+      ],
+      "text": "110. \"Turning the Tides\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Adventure Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1305826",
+            "page": "http://www.imdb.com/find?q=tt1305826"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Adventure Time"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Back at the Barnyard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0857277",
+            "page": "http://www.imdb.com/find?q=tt0857277"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Back at the Barnyard"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "CatDog",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0154061",
+            "page": "http://www.imdb.com/find?q=tt0154061"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "CatDog"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hey Arnold!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115200",
+            "page": "http://www.imdb.com/find?q=tt0115200"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hey Arnold!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kung Fu Panda: Legends of Awesomeness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545214",
+            "page": "http://www.imdb.com/find?q=tt1545214"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kung Fu Panda: Legends of Awesomeness"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Lucifer's Crewcut",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2066916",
+            "page": "http://www.imdb.com/find?q=tt2066916"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lucifer's Crewcut (2011)"
+    },
+    {
+      "body": "${link_0} (2010; video)",
+      "links": [
+        {
+          "body": "Held Up",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1723111",
+            "page": "http://www.imdb.com/find?q=tt1723111"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Held Up (2010; video)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Barnyard",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0414853",
+            "page": "http://www.imdb.com/find?q=tt0414853"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Barnyard (2006)"
+    },
+    {
+      "body": "${link_0} (2003; video)",
+      "links": [
+        {
+          "body": "Charlotte's Web 2: Wilbur's Great Adventure",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0355315",
+            "page": "http://www.imdb.com/find?q=tt0355315"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Charlotte's Web 2: Wilbur's Great Adventure (2003; video)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Stuart Little 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0243585",
+            "page": "http://www.imdb.com/find?q=tt0243585"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stuart Little 2 (2002)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Denial",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0126861",
+            "page": "http://www.imdb.com/find?q=tt0126861"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Denial (1998)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crackdown 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1772792",
+            "page": "http://www.imdb.com/find?q=tt1772792"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crackdown 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Escape from Monkey Island",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0245097",
+            "page": "http://www.imdb.com/find?q=tt0245097"
+          }
+        }
+      ],
+      "section": [
+        "Maria Bamford",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Escape from Monkey Island (video game)"
+    },
+    {
       "body": "Bamford was born in Port Hueneme, California, at the Naval Base. Her parents are Joel, a dermatologist, and Marilyn, a therapist from Duluth, Minnesota. She attended Chester Park Elementary and Marshall High School in Duluth, Minnesota, and went on to attend Bates College in Lewiston, Maine, the University of Edinburgh in Scotland, and the University of Minnesota in Minneapolis. She started stand-up in Minneapolis at the age of nineteen at Stevie Ray's Comedy Cabaret and ten years later made her first appearance on The Tonight Show.",
       "links": [],
+      "section": [
+        "Maria Bamford",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Bamford was born in Port Hueneme, California, at the Naval Base. Her parents are Joel, a dermatologist, and Marilyn, a therapist from Duluth, Minnesota. She attended Chester Park Elementary and Marshall High School in Duluth, Minnesota, and went on to attend Bates College in Lewiston, Maine, the University of Edinburgh in Scotland, and the University of Minnesota in Minneapolis. She started stand-up in Minneapolis at the age of nineteen at Stevie Ray's Comedy Cabaret and ten years later made her first appearance on The Tonight Show."
     },
     {
       "body": "Bamford has been in a number of movies and television shows, including voice appearances in cartoons. The best-known aspect of her act is her various impersonations, including those of her mother and agent. Her comedy often takes the form of vignettes rather than the standard setup/punchline format.",
       "links": [],
+      "section": [
+        "Maria Bamford",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Bamford has been in a number of movies and television shows, including voice appearances in cartoons. The best-known aspect of her act is her various impersonations, including those of her mother and agent. Her comedy often takes the form of vignettes rather than the standard setup/punchline format."
     },
     {
       "body": "Bamford was featured in the documentary series The Comedians of Comedy on Comedy Central and Showtime and appeared in short skits, titled \"The Maria Bamford Show\", which were broadcast on the now defunct website Super Deluxe. She also appears on the comedy compilation CD Comedy Death-Ray.",
       "links": [],
+      "section": [
+        "Maria Bamford",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Bamford was featured in the documentary series The Comedians of Comedy on Comedy Central and Showtime and appeared in short skits, titled \"The Maria Bamford Show\", which were broadcast on the now defunct website Super Deluxe. She also appears on the comedy compilation CD Comedy Death-Ray."
     },
     {
       "body": "Her last album, produced by Comedy Central Records and called Unwanted Thoughts Syndrome, was released in April 2009 and includes a DVD containing \"The Maria Bamford Show\" episodes.",
       "links": [],
+      "section": [
+        "Maria Bamford",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Her last album, produced by Comedy Central Records and called Unwanted Thoughts Syndrome, was released in April 2009 and includes a DVD containing \"The Maria Bamford Show\" episodes."
     },
     {
       "body": "During the Christmas 2009-2010 shopping seasons, Bamford was featured in a series of Target commercials, portraying an overachieving shopper determined to be first in line for the \"Target Two-day Sale\".",
       "links": [],
+      "section": [
+        "Maria Bamford",
+        "Biographical information",
+        "Career"
+      ],
       "text": "During the Christmas 2009-2010 shopping seasons, Bamford was featured in a series of Target commercials, portraying an overachieving shopper determined to be first in line for the \"Target Two-day Sale\"."
     },
     {
       "body": "For Christmas 2009, she released a free stand-up special online as a gift to her fans.",
       "links": [],
+      "section": [
+        "Maria Bamford",
+        "Biographical information",
+        "Career"
+      ],
       "text": "For Christmas 2009, she released a free stand-up special online as a gift to her fans."
     }
   ],

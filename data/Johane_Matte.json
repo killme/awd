@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -48,12 +52,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "A Bunch of Munsch (1991)",
+          "body": "${link_0} (1991)",
           "extra": "(1991)",
           "extra_text": "(1991)",
-          "links": [],
+          "links": [
+            {
+              "body": "A Bunch of Munsch",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0202184",
+                "page": "http://www.imdb.com/find?q=tt0202184"
+              }
+            }
+          ],
           "text": "A Bunch of Munsch (1991)",
-          "value": "A Bunch of Munsch",
+          "value": "${link_0}",
           "value_text": "A Bunch of Munsch"
         }
       ]
@@ -62,57 +76,117 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm3028578",
+                "page": "http://www.imdb.com/find?q=nm3028578"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "DeviantART",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "DeviantART",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://rufftoon.deviantart.com/",
+                "page": "http://rufftoon.deviantart.com/"
+              }
+            }
+          ],
           "text": "DeviantART",
-          "value": "DeviantART",
+          "value": "${link_0}",
           "value_text": "DeviantART"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/107869747497712431972/posts",
+                "page": "https://plus.google.com/107869747497712431972/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "LiveJournal",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "LiveJournal",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://rufftoon.livejournal.com/",
+                "page": "http://rufftoon.livejournal.com/"
+              }
+            }
+          ],
           "text": "LiveJournal",
-          "value": "LiveJournal",
+          "value": "${link_0}",
           "value_text": "LiveJournal"
         },
         {
-          "body": "Tumblr",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Tumblr",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://rufftoon.tumblr.com/",
+                "page": "http://rufftoon.tumblr.com/"
+              }
+            }
+          ],
           "text": "Tumblr",
-          "value": "Tumblr",
+          "value": "${link_0}",
           "value_text": "Tumblr"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/rufftoon",
+                "page": "https://twitter.com/rufftoon"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -120,14 +194,582 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #4. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Relics",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Relics",
+            "page": "Relics"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #4. \"Relics\""
+    },
+    {
+      "body": "Iss. #7. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lessons",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lessons",
+            "page": "Lessons"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #7. \"Lessons\""
+    },
+    {
+      "body": "Iss. #12. \"${link_0}\"",
+      "links": [
+        {
+          "body": "It's Only Natural",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/It%27s_Only_Natural",
+            "page": "It%27s_Only_Natural"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #12. \"It's Only Natural\""
+    },
+    {
+      "body": "Iss. #15. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Private Fire",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Private_Fire",
+            "page": "Private_Fire"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #15. \"Private Fire\""
+    },
+    {
+      "body": "Iss. #24. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Dragon Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dragon_Days",
+            "page": "Dragon_Days"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #24. \"Dragon Days\""
+    },
+    {
+      "body": "Iss. #4. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Relics",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Relics",
+            "page": "Relics"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #4. \"Relics\""
+    },
+    {
+      "body": "Iss. #7. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lessons",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lessons",
+            "page": "Lessons"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #7. \"Lessons\""
+    },
+    {
+      "body": "Iss. #12. \"${link_0}\"",
+      "links": [
+        {
+          "body": "It's Only Natural",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/It%27s_Only_Natural",
+            "page": "It%27s_Only_Natural"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #12. \"It's Only Natural\""
+    },
+    {
+      "body": "Iss. #26. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Bumi vs. Toph, Round One",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Bumi_vs",
+            "page": "Bumi_vs"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Avatar: The Last Airbender credits",
+        "Comic writer"
+      ],
+      "text": "Iss. #26. \"Bumi vs. Toph, Round One\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Light in the Dark",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Light_in_the_Dark",
+            "page": "Light_in_the_Dark"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "214. \"Light in the Dark\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "309. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Stakeout",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Stakeout",
+            "page": "The_Stakeout"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "309. \"The Stakeout\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Animal Crackers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0283703",
+            "page": "http://www.imdb.com/find?q=tt0283703"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Animal Crackers"
+    },
+    {
+      "body": "${link_0} (TV movie - rendering artist)",
+      "links": [
+        {
+          "body": "David Copperfield",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106547",
+            "page": "http://www.imdb.com/find?q=tt0106547"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "David Copperfield (TV movie - rendering artist)"
+    },
+    {
+      "body": "${link_0} (assistant animator, character designer, and character design supervisor)",
+      "links": [
+        {
+          "body": "The Little Lulu Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0242213",
+            "page": "http://www.imdb.com/find?q=tt0242213"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Little Lulu Show (assistant animator, character designer, and character design supervisor)"
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "The Penguins of Madagascar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0892700",
+            "page": "http://www.imdb.com/find?q=tt0892700"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Penguins of Madagascar (storyboard artist)"
+    },
+    {
+      "body": "${link_0} (2012 - storyboard artist)",
+      "links": [
+        {
+          "body": "Madagascar 3: Europe's Most Wanted",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1277953",
+            "page": "http://www.imdb.com/find?q=tt1277953"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Madagascar 3: Europe's Most Wanted (2012 - storyboard artist)"
+    },
+    {
+      "body": "${link_0} (2012 - storyboard artist)",
+      "links": [
+        {
+          "body": "Rise of the Guardians",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1446192",
+            "page": "http://www.imdb.com/find?q=tt1446192"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rise of the Guardians (2012 - storyboard artist)"
+    },
+    {
+      "body": "${link_0} (2011 - storyboard artist)",
+      "links": [
+        {
+          "body": "Kung Fu Panda 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1302011",
+            "page": "http://www.imdb.com/find?q=tt1302011"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kung Fu Panda 2 (2011 - storyboard artist)"
+    },
+    {
+      "body": "${link_0} (2010 - storyboard artist)",
+      "links": [
+        {
+          "body": "How to Train Your Dragon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0892769",
+            "page": "http://www.imdb.com/find?q=tt0892769"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "How to Train Your Dragon (2010 - storyboard artist)"
+    },
+    {
       "body": "Johane Matte was born in 1971 in Amos, Quebec, Canada. She attended Algonquin College from 1989 to 1991 and enrolled in Graphic Design during her first year, but switched to Television Animation when the college announced it was offering that course in the following year.",
       "links": [],
+      "section": [
+        "Johane Matte",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Johane Matte was born in 1971 in Amos, Quebec, Canada. She attended Algonquin College from 1989 to 1991 and enrolled in Graphic Design during her first year, but switched to Television Animation when the college announced it was offering that course in the following year."
     },
     {
       "body": "Matte learned more about television animation over the years, working in different studios with talented colleagues. She currently resides in Burbank, California.",
       "links": [],
+      "section": [
+        "Johane Matte",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Matte learned more about television animation over the years, working in different studios with talented colleagues. She currently resides in Burbank, California."
+    },
+    {
+      "body": "2013: Won an Annie Award for Rise of the Guardians (Storyboarding in an Animated Feature Production)",
+      "links": [],
+      "section": [
+        "Johane Matte",
+        "Awards"
+      ],
+      "text": "2013: Won an Annie Award for Rise of the Guardians (Storyboarding in an Animated Feature Production)"
+    },
+    {
+      "body": "She has various online accounts under the username \"rufftoon\".",
+      "links": [],
+      "section": [
+        "Johane Matte",
+        "Trivia"
+      ],
+      "text": "She has various online accounts under the username \"rufftoon\"."
+    },
+    {
+      "body": "Her favorite Avatar characters are ${link_0} ${link_1} and ${link_2} ${link_3}.",
+      "links": [
+        {
+          "body": "General",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Military_ranks_in_the_World_of_Avatar#General_2",
+            "page": "Military_ranks_in_the_World_of_Avatar"
+          }
+        },
+        {
+          "body": "Iroh",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Iroh",
+            "page": "Iroh"
+          }
+        },
+        {
+          "body": "Admiral",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Military_ranks_in_the_World_of_Avatar#Admiral",
+            "page": "Military_ranks_in_the_World_of_Avatar"
+          }
+        },
+        {
+          "body": "Zhao",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Zhao",
+            "page": "Zhao"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Trivia"
+      ],
+      "text": "Her favorite Avatar characters are General Iroh and Admiral Zhao."
+    },
+    {
+      "body": "She has published blogs critical of ${link_0} film, especially on the portrayal of ${link_1} in the movie, the dreadlocks hairstyle for ${link_2}, and how ${link_3} require a source to bend fire.",
+      "links": [
+        {
+          "body": "The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender",
+            "page": "Film_The_Last_Airbender"
+          }
+        },
+        {
+          "body": "Zhao",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Zhao",
+            "page": "Film_Zhao"
+          }
+        },
+        {
+          "body": "Iroh",
+          "key": "${link_2}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Iroh",
+            "page": "Film_Iroh"
+          }
+        },
+        {
+          "body": "firebenders",
+          "key": "${link_3}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Firebending",
+            "page": "Firebending"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Trivia"
+      ],
+      "text": "She has published blogs critical of The Last Airbender film, especially on the portrayal of Zhao in the movie, the dreadlocks hairstyle for Iroh, and how firebenders require a source to bend fire."
+    },
+    {
+      "body": "She was torn in deciding whether to work on ${link_0} television series and the ${link_1} film, but ultimately chose the latter.",
+      "links": [
+        {
+          "body": "The Legend of Korra",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra",
+            "page": "The_Legend_of_Korra"
+          }
+        },
+        {
+          "body": "Rise of the Guardians",
+          "key": "${link_1}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Rise_of_the_Guardians",
+            "page": "http://en.wikipedia.org/wiki/Rise_of_the_Guardians"
+          }
+        }
+      ],
+      "section": [
+        "Johane Matte",
+        "Trivia"
+      ],
+      "text": "She was torn in deciding whether to work on The Legend of Korra television series and the Rise of the Guardians film, but ultimately chose the latter."
     }
   ],
   "source": {

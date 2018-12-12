@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "CHiPs (1983)",
+          "body": "${link_0} (1983)",
           "extra": "(1983)",
           "extra_text": "(1983)",
-          "links": [],
+          "links": [
+            {
+              "body": "CHiPs",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0075488",
+                "page": "http://www.imdb.com/find?q=tt0075488"
+              }
+            }
+          ],
           "text": "CHiPs (1983)",
-          "value": "CHiPs",
+          "value": "${link_0}",
           "value_text": "CHiPs"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0073765",
+                "page": "http://www.imdb.com/find?q=nm0073765"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Greg_Berg",
+                "page": "http://en.wikipedia.org/wiki/Greg_Berg"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -77,13 +110,421 @@
   ],
   "paragraphs": [
     {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "City of Walls and Secrets",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/City_of_Walls_and_Secrets",
+            "page": "City_of_Walls_and_Secrets"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Avatar: The Last Airbender credits",
+        "Pong"
+      ],
+      "text": "214. \"City of Walls and Secrets\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Garfield and Friends",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094469",
+            "page": "http://www.imdb.com/find?q=tt0094469"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Garfield and Friends"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Muppet Babies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086764",
+            "page": "http://www.imdb.com/find?q=tt0086764"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Muppet Babies"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Teenage Mutant Ninja Turtles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0131613",
+            "page": "http://www.imdb.com/find?q=tt0131613"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Critic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108734",
+            "page": "http://www.imdb.com/find?q=tt0108734"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Critic"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Simpsons",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096697",
+            "page": "http://www.imdb.com/find?q=tt0096697"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Simpsons"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Yo Yogi!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101240",
+            "page": "http://www.imdb.com/find?q=tt0101240"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Yo Yogi!"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "The Muppets",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1204342",
+            "page": "http://www.imdb.com/find?q=tt1204342"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Muppets (2011)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Wild",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0405469",
+            "page": "http://www.imdb.com/find?q=tt0405469"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wild (2006)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Chicken Little",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0371606",
+            "page": "http://www.imdb.com/find?q=tt0371606"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Chicken Little (2005)"
+    },
+    {
+      "body": "${link_0} (2003; short)",
+      "links": [
+        {
+          "body": "Rockfish",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0425410",
+            "page": "http://www.imdb.com/find?q=tt0425410"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rockfish (2003; short)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "The Cat Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0347618",
+            "page": "http://www.imdb.com/find?q=tt0347618"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Cat Returns (2002)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Sorority",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0252014",
+            "page": "http://www.imdb.com/find?q=tt0252014"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sorority (1999)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Toy Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0114709",
+            "page": "http://www.imdb.com/find?q=tt0114709"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Toy Story (1995)"
+    },
+    {
+      "body": "${link_0} (1988)",
+      "links": [
+        {
+          "body": "Pound Puppies and the Legend of Big Paw",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0095894",
+            "page": "http://www.imdb.com/find?q=tt0095894"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pound Puppies and the Legend of Big Paw (1988)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Cyberia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1756466",
+            "page": "http://www.imdb.com/find?q=tt1756466"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Cyberia (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Monsters, Inc.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0338261",
+            "page": "http://www.imdb.com/find?q=tt0338261"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Monsters, Inc. (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Shattered Steel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0155165",
+            "page": "http://www.imdb.com/find?q=tt0155165"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Shattered Steel (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tom Clancy H.A.W.X.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1447978",
+            "page": "http://www.imdb.com/find?q=tt1447978"
+          }
+        }
+      ],
+      "section": [
+        "Greg Berg",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tom Clancy H.A.W.X. (video game)"
+    },
+    {
       "body": "Berg provided the voice of character John Revolting on Rick Dees' radio shows and can also be heard on Dees' Grammy-nominated comedy album Hurt Me Baby, Make Me Write Bad Checks. After the death of Daws Butler, with whom Berg had studied, animation studio Hanna-Barbera Productions began a fifty-year anniversary show which included new lines for the Daws Butler characters Babba Looey and Augie Doggy. Berg was hired to provide voices for them both with reverence to his late mentor and coach. In Disney's 2011 film The Muppets, Berg's normal speaking voice can be heard briefly as the off-screen stage manager just before the Muppet Telethon starts.",
       "links": [],
+      "section": [
+        "Greg Berg",
+        "Biographical information"
+      ],
       "text": "Berg provided the voice of character John Revolting on Rick Dees' radio shows and can also be heard on Dees' Grammy-nominated comedy album Hurt Me Baby, Make Me Write Bad Checks. After the death of Daws Butler, with whom Berg had studied, animation studio Hanna-Barbera Productions began a fifty-year anniversary show which included new lines for the Daws Butler characters Babba Looey and Augie Doggy. Berg was hired to provide voices for them both with reverence to his late mentor and coach. In Disney's 2011 film The Muppets, Berg's normal speaking voice can be heard briefly as the off-screen stage manager just before the Muppet Telethon starts."
     },
     {
       "body": "Berg was trained in legitimate comedy and character acting for stage and television with Harvey Lembeck, whose former students included Robin Williams, John Ritter, and various Happy Days cast members. He also studied sketch comedy writing with Danny Simon.",
       "links": [],
+      "section": [
+        "Greg Berg",
+        "Biographical information"
+      ],
       "text": "Berg was trained in legitimate comedy and character acting for stage and television with Harvey Lembeck, whose former students included Robin Williams, John Ritter, and various Happy Days cast members. He also studied sketch comedy writing with Danny Simon."
     }
   ],

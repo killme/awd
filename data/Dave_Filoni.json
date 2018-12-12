@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Mission Hill (1999 - assistant director, storyboard artist)",
+          "body": "${link_0} (1999 - assistant director, storyboard artist)",
           "extra": "(1999 - assistant director, storyboard artist)",
           "extra_text": "(1999 - assistant director, storyboard artist)",
-          "links": [],
+          "links": [
+            {
+              "body": "Mission Hill",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0197148",
+                "page": "http://www.imdb.com/find?q=tt0197148"
+              }
+            }
+          ],
           "text": "Mission Hill (1999 - assistant director, storyboard artist)",
-          "value": "Mission Hill",
+          "value": "${link_0}",
           "value_text": "Mission Hill"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1396048",
+                "page": "http://www.imdb.com/find?q=nm1396048"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Dave_Filoni",
+                "page": "http://en.wikipedia.org/wiki/Dave_Filoni"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.facebook.com/DaveFiloni",
+                "page": "http://www.facebook.com/DaveFiloni"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/dave_filoni",
+                "page": "https://twitter.com/dave_filoni"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,14 +148,612 @@
   ],
   "paragraphs": [
     {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boy in the Iceberg",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boy_in_the_Iceberg",
+            "page": "The_Boy_in_the_Iceberg"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "101. \"The Boy in the Iceberg\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_Returns",
+            "page": "The_Avatar_Returns"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "102. \"The Avatar Returns\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "114. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Fortuneteller",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Fortuneteller",
+            "page": "The_Fortuneteller"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "114. \"The Fortuneteller\""
+    },
+    {
+      "body": "117. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Northern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Northern_Air_Temple",
+            "page": "The_Northern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "117. \"The Northern Air Temple\""
+    },
+    {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Director"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "101. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Boy in the Iceberg",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Boy_in_the_Iceberg",
+            "page": "The_Boy_in_the_Iceberg"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "101. \"The Boy in the Iceberg\""
+    },
+    {
+      "body": "102. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar Returns",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_Returns",
+            "page": "The_Avatar_Returns"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "102. \"The Avatar Returns\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "114. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Fortuneteller",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Fortuneteller",
+            "page": "The_Fortuneteller"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "114. \"The Fortuneteller\""
+    },
+    {
+      "body": "117. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Northern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Northern_Air_Temple",
+            "page": "The_Northern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "117. \"The Northern Air Temple\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "114. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Fortuneteller",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Fortuneteller",
+            "page": "The_Fortuneteller"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Character designer"
+      ],
+      "text": "114. \"The Fortuneteller\""
+    },
+    {
+      "body": "119. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_1",
+            "page": "The_Siege_of_the_North%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Character designer"
+      ],
+      "text": "119. \"The Siege of the North, Part 1\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Character designer"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Serpent's Pass",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Serpent%27s_Pass",
+            "page": "The_Serpent%27s_Pass"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Avatar: The Last Airbender credits",
+        "Writer"
+      ],
+      "text": "212. \"The Serpent's Pass\""
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "American Dragon: Jake Long",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0429305",
+            "page": "http://www.imdb.com/find?q=tt0429305"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Dragon: Jake Long (storyboard artist)"
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "Dave the Barbarian",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0386176",
+            "page": "http://www.imdb.com/find?q=tt0386176"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dave the Barbarian (storyboard artist)"
+    },
+    {
+      "body": "${link_0} (creator, executive producer, supervising director, and writer)",
+      "links": [
+        {
+          "body": "Star Wars Rebels",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2930604",
+            "page": "http://www.imdb.com/find?q=tt2930604"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars Rebels (creator, executive producer, supervising director, and writer)"
+    },
+    {
+      "body": "${link_0} (supervising director and writer)",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars (supervising director and writer)"
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "Teamo Supremo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0324919",
+            "page": "http://www.imdb.com/find?q=tt0324919"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Teamo Supremo (storyboard artist)"
+    },
+    {
+      "body": "${link_0} (assistant director and retakes)",
+      "links": [
+        {
+          "body": "The Oblongs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0219446",
+            "page": "http://www.imdb.com/find?q=tt0219446"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Oblongs (assistant director and retakes)"
+    },
+    {
+      "body": "${link_0} (2008 - development artist and director)",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1185834",
+            "page": "http://www.imdb.com/find?q=tt1185834"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Wars: The Clone Wars (2008 - development artist and director)"
+    },
+    {
       "body": "Filoni grew up in Mt. Lebanon, a suburb near Pittsburgh, Pennsylvania, and graduated from Mt. Lebanon High School in 1992. He was in the marching band at school and was also the starting goaltender for half of his senior year on the hockey team. He attended Edinboro University of Pennsylvania.",
       "links": [],
+      "section": [
+        "Dave Filoni",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Filoni grew up in Mt. Lebanon, a suburb near Pittsburgh, Pennsylvania, and graduated from Mt. Lebanon High School in 1992. He was in the marching band at school and was also the starting goaltender for half of his senior year on the hockey team. He attended Edinboro University of Pennsylvania."
     },
     {
       "body": "Filoni plays World of Warcraft, in which he is a level eighty Night Elf Hunter, and ice hockey. He is an unofficial D\u00fanedain, and a fan of both Godzilla and the Pittsburgh Steelers.",
       "links": [],
+      "section": [
+        "Dave Filoni",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Filoni plays World of Warcraft, in which he is a level eighty Night Elf Hunter, and ice hockey. He is an unofficial D\u00fanedain, and a fan of both Godzilla and the Pittsburgh Steelers."
+    },
+    {
+      "body": "2013: Won a Daytime Emmy Award for Star Wars: The Clone Wars (Outstanding Special Class Animated Program)",
+      "links": [],
+      "section": [
+        "Dave Filoni",
+        "Awards"
+      ],
+      "text": "2013: Won a Daytime Emmy Award for Star Wars: The Clone Wars (Outstanding Special Class Animated Program)"
+    },
+    {
+      "body": "Filoni keeps a small model of ${link_0} on his desk in his office.",
+      "links": [
+        {
+          "body": "Appa",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa",
+            "page": "Appa"
+          }
+        }
+      ],
+      "section": [
+        "Dave Filoni",
+        "Trivia"
+      ],
+      "text": "Filoni keeps a small model of Appa on his desk in his office."
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Cupid (1999)",
+          "body": "${link_0} (1999)",
           "extra": "(1999)",
           "extra_text": "(1999)",
-          "links": [],
+          "links": [
+            {
+              "body": "Cupid",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0168326",
+                "page": "http://www.imdb.com/find?q=tt0168326"
+              }
+            }
+          ],
           "text": "Cupid (1999)",
-          "value": "Cupid",
+          "value": "${link_0}",
           "value_text": "Cupid"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0385391",
+                "page": "http://www.imdb.com/find?q=nm0385391"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Aaron_Himelstein",
+                "page": "http://en.wikipedia.org/wiki/Aaron_Himelstein"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Aaron-Himelstein/104047456298080",
+                "page": "https://www.facebook.com/pages/Aaron-Himelstein/104047456298080"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -86,28 +129,953 @@
   ],
   "paragraphs": [
     {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebel Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
+            "page": "Rebel_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "The Legend of Korra credits",
+        "Desna"
+      ],
+      "text": "201. \"Rebel Spirit\""
+    },
+    {
+      "body": "203. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_1",
+            "page": "Civil_Wars%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "The Legend of Korra credits",
+        "Desna"
+      ],
+      "text": "203. \"Civil Wars, Part 1\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_2",
+            "page": "Civil_Wars%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "The Legend of Korra credits",
+        "Desna"
+      ],
+      "text": "204. \"Civil Wars, Part 2\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Peacekeepers",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Peacekeepers",
+            "page": "Peacekeepers"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "The Legend of Korra credits",
+        "Desna"
+      ],
+      "text": "205. \"Peacekeepers\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "The Legend of Korra credits",
+        "Desna"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "209. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Guide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Guide",
+            "page": "The_Guide"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "The Legend of Korra credits",
+        "Desna"
+      ],
+      "text": "209. \"The Guide\""
+    },
+    {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Harmonic Convergence",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Harmonic_Convergence_(episode)",
+            "page": "Harmonic_Convergence_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "The Legend of Korra credits",
+        "Desna"
+      ],
+      "text": "212. \"Harmonic Convergence\""
+    },
+    {
+      "body": "213. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Darkness Falls",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Darkness_Falls",
+            "page": "Darkness_Falls"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "The Legend of Korra credits",
+        "Desna"
+      ],
+      "text": "213. \"Darkness Falls\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Light in the Dark",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Light_in_the_Dark",
+            "page": "Light_in_the_Dark"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "The Legend of Korra credits",
+        "Desna"
+      ],
+      "text": "214. \"Light in the Dark\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "The Legend of Korra credits",
+        "Desna"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Boston Public",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247081",
+            "page": "http://www.imdb.com/find?q=tt0247081"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Boston Public"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Community",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1439629",
+            "page": "http://www.imdb.com/find?q=tt1439629"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Community"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cupid",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0168326",
+            "page": "http://www.imdb.com/find?q=tt0168326"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Cupid"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Do Over",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0317364",
+            "page": "http://www.imdb.com/find?q=tt0317364"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Do Over"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Doll & Em",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2561882",
+            "page": "http://www.imdb.com/find?q=tt2561882"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Doll & Em"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "House M.D.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0412142",
+            "page": "http://www.imdb.com/find?q=tt0412142"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "House M.D."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Joan of Arcadia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0367345",
+            "page": "http://www.imdb.com/find?q=tt0367345"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Joan of Arcadia"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Journeyman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0948538",
+            "page": "http://www.imdb.com/find?q=tt0948538"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Journeyman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Las Vegas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0364828",
+            "page": "http://www.imdb.com/find?q=tt0364828"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Las Vegas"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "North Shore",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0409594",
+            "page": "http://www.imdb.com/find?q=tt0409594"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "North Shore"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Significant Others",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0395410",
+            "page": "http://www.imdb.com/find?q=tt0395410"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Significant Others"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "What About Joan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0278255",
+            "page": "http://www.imdb.com/find?q=tt0278255"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "What About Joan"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Captain America: The Winter Soldier",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1843866",
+            "page": "http://www.imdb.com/find?q=tt1843866"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Captain America: The Winter Soldier (2014)"
+    },
+    {
+      "body": "${link_0} (2011; short)",
+      "links": [
+        {
+          "body": "Literally, Right Before Aaron",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2066000",
+            "page": "http://www.imdb.com/find?q=tt2066000"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Literally, Right Before Aaron (2011; short)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Losers Take All",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1426748",
+            "page": "http://www.imdb.com/find?q=tt1426748"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Losers Take All (2011)"
+    },
+    {
+      "body": "${link_0} (2011; short)",
+      "links": [
+        {
+          "body": "Dig",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1884292",
+            "page": "http://www.imdb.com/find?q=tt1884292"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Dig (2011; short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Fault Line",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1469876",
+            "page": "http://www.imdb.com/find?q=tt1469876"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fault Line (2009)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Assistants",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1247638",
+            "page": "http://www.imdb.com/find?q=tt1247638"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Assistants (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "The Informers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0865554",
+            "page": "http://www.imdb.com/find?q=tt0865554"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Informers (2008)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "The Assassination",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1018818",
+            "page": "http://www.imdb.com/find?q=tt1018818"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Assassination (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Remember the Daze",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0790618",
+            "page": "http://www.imdb.com/find?q=tt0790618"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Remember the Daze (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "All the Boys Love Mandy Lane",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0490076",
+            "page": "http://www.imdb.com/find?q=tt0490076"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "All the Boys Love Mandy Lane (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Down the P.C.H.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0457323",
+            "page": "http://www.imdb.com/find?q=tt0457323"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Down the P.C.H. (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Fast Food Nation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0460792",
+            "page": "http://www.imdb.com/find?q=tt0460792"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fast Food Nation (2006)"
+    },
+    {
+      "body": "${link_0} (2006; video)",
+      "links": [
+        {
+          "body": "Bachelor Part Vegas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0432373",
+            "page": "http://www.imdb.com/find?q=tt0432373"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bachelor Part Vegas (2006; video)"
+    },
+    {
+      "body": "${link_0} (2004; short)",
+      "links": [
+        {
+          "body": "Young Artie Feldman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0409507",
+            "page": "http://www.imdb.com/find?q=tt0409507"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Young Artie Feldman (2004; short)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Titletown",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0777287",
+            "page": "http://www.imdb.com/find?q=tt0777287"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Titletown (2003)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Austin Powers in Goldmember",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0295178",
+            "page": "http://www.imdb.com/find?q=tt0295178"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Austin Powers in Goldmember (2002)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "High Fidelity",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0146882",
+            "page": "http://www.imdb.com/find?q=tt0146882"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "High Fidelity (2000)"
+    },
+    {
+      "body": "${link_0} (short - associate producer)",
+      "links": [
+        {
+          "body": "A Shore Thing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1753400",
+            "page": "http://www.imdb.com/find?q=tt1753400"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "A Shore Thing (short - associate producer)"
+    },
+    {
+      "body": "${link_0} (producer)",
+      "links": [
+        {
+          "body": "Choose Connor",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0495026",
+            "page": "http://www.imdb.com/find?q=tt0495026"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Choose Connor (producer)"
+    },
+    {
+      "body": "${link_0} (short - producer)",
+      "links": [
+        {
+          "body": "Incest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0396658",
+            "page": "http://www.imdb.com/find?q=tt0396658"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Incest (short - producer)"
+    },
+    {
+      "body": "${link_0} (cinematographer and producer)",
+      "links": [
+        {
+          "body": "Fellowship",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0479910",
+            "page": "http://www.imdb.com/find?q=tt0479910"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fellowship (cinematographer and producer)"
+    },
+    {
+      "body": "${link_0} (short - director, editor, and writer)",
+      "links": [
+        {
+          "body": "Sugar Mountain",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0455791",
+            "page": "http://www.imdb.com/find?q=tt0455791"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Sugar Mountain (short - director, editor, and writer)"
+    },
+    {
+      "body": "${link_0} (short - director, editor, and writer)",
+      "links": [
+        {
+          "body": "The Napkin",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2059308",
+            "page": "http://www.imdb.com/find?q=tt2059308"
+          }
+        }
+      ],
+      "section": [
+        "Aaron Himelstein",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Napkin (short - director, editor, and writer)"
+    },
+    {
       "body": "Himelstein is the son of Susan, n\u00e9e Maloney, and Robert \"Bob\" Himelstein; he is of Jewish heritage on his father's side and German-Irish on his mother's. He is close friends with fellow Joan of Arcadia stars Michael Welch and Chris Marquette; Himelstein and Welch had known each other for several years but did not become good friends until the series began in 2003.",
       "links": [],
+      "section": [
+        "Aaron Himelstein",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Himelstein is the son of Susan, n\u00e9e Maloney, and Robert \"Bob\" Himelstein; he is of Jewish heritage on his father's side and German-Irish on his mother's. He is close friends with fellow Joan of Arcadia stars Michael Welch and Chris Marquette; Himelstein and Welch had known each other for several years but did not become good friends until the series began in 2003."
     },
     {
       "body": "He dated Remember the Daze co-star Leighton Meester in 2007 and the two of them briefly rekindled their romance in 2012.",
       "links": [],
+      "section": [
+        "Aaron Himelstein",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "He dated Remember the Daze co-star Leighton Meester in 2007 and the two of them briefly rekindled their romance in 2012."
     },
     {
       "body": "Himelstein has made a number of guest appearances on television throughout his career, beginning in 1999 with the series Cupid. This was followed by appearances in, among others, Significant Others, House M.D., Journeyman, Do Over, Community, and four episodes of Doll & Em. He also began appearing in the series Joan of Arcadia in 2003, playing Friedman, Luke Girardi's best friend, and would ultimately appear in the series until its conclusion in 2005.",
       "links": [],
+      "section": [
+        "Aaron Himelstein",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Himelstein has made a number of guest appearances on television throughout his career, beginning in 1999 with the series Cupid. This was followed by appearances in, among others, Significant Others, House M.D., Journeyman, Do Over, Community, and four episodes of Doll & Em. He also began appearing in the series Joan of Arcadia in 2003, playing Friedman, Luke Girardi's best friend, and would ultimately appear in the series until its conclusion in 2005."
     },
     {
       "body": "Himelstein is perhaps best known in film for playing a younger version of Austin Powers in Austin Powers in Goldmember in 2002, which followed an appearance in High Fidelity two years prior. In 2006, he appeared in Fast Food Nation, Down the P.C.H., and All the Boys Love Mandy Lane and had a part in Remember the Daze alongside Amber Heard, Alexa Vega, and Leighton Meester a year later. He appeared in Losers Take All in 2011 and had a small part in the Marvel film Captain America: The Winter Soldier in 2014.",
       "links": [],
+      "section": [
+        "Aaron Himelstein",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Himelstein is perhaps best known in film for playing a younger version of Austin Powers in Austin Powers in Goldmember in 2002, which followed an appearance in High Fidelity two years prior. In 2006, he appeared in Fast Food Nation, Down the P.C.H., and All the Boys Love Mandy Lane and had a part in Remember the Daze alongside Amber Heard, Alexa Vega, and Leighton Meester a year later. He appeared in Losers Take All in 2011 and had a small part in the Marvel film Captain America: The Winter Soldier in 2014."
     },
     {
       "body": "Away from acting, Aaron wrote, directed, and edited two short films, Sugar Mountain and The Napkin, and was also a producer on the films Fellowship and Choose Connor, released in 2005 and 2007, respectively.",
       "links": [],
+      "section": [
+        "Aaron Himelstein",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Away from acting, Aaron wrote, directed, and edited two short films, Sugar Mountain and The Napkin, and was also a producer on the films Fellowship and Choose Connor, released in 2005 and 2007, respectively."
     }
   ],

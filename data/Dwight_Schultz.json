@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Thin Ice (1981; TV movie)",
+          "body": "${link_0} (1981; TV movie)",
           "extra": "(1981; TV movie)",
           "extra_text": "(1981; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Thin Ice",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0083191",
+                "page": "http://www.imdb.com/find?q=tt0083191"
+              }
+            }
+          ],
           "text": "Thin Ice (1981; TV movie)",
-          "value": "Thin Ice",
+          "value": "${link_0}",
           "value_text": "Thin Ice"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0776239",
+                "page": "http://www.imdb.com/find?q=nm0776239"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Dwight_Schultz",
+                "page": "http://en.wikipedia.org/wiki/Dwight_Schultz"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -93,7 +126,610 @@
     {
       "body": "He is most known for his role as H.M. \"Howling Mad\" Murdock in The A-Team.",
       "links": [],
+      "section": [
+        "Dwight Schultz"
+      ],
       "text": "He is most known for his role as H.M. \"Howling Mad\" Murdock in The A-Team."
+    },
+    {
+      "body": "216. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Avatar: The Last Airbender credits",
+        "Circus trainer"
+      ],
+      "text": "216. \"Appa's Lost Days\""
+    },
+    {
+      "body": "216. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Appa's Lost Days",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Appa%27s_Lost_Days",
+            "page": "Appa%27s_Lost_Days"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "216. \"Appa's Lost Days\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Babylon 5",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105946",
+            "page": "http://www.imdb.com/find?q=tt0105946"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Babylon 5"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0760437",
+            "page": "http://www.imdb.com/find?q=tt0760437"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10: Alien Force",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1192169",
+            "page": "http://www.imdb.com/find?q=tt1192169"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10: Alien Force"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Ben 10: Ultimate Alien",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1622696",
+            "page": "http://www.imdb.com/find?q=tt1622696"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Ben 10: Ultimate Alien"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Chowder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1140100",
+            "page": "http://www.imdb.com/find?q=tt1140100"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Chowder"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Diagnosis Murder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105986",
+            "page": "http://www.imdb.com/find?q=tt0105986"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Diagnosis Murder"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Family Guy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0182576",
+            "page": "http://www.imdb.com/find?q=tt0182576"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Family Guy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: The Next Generation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092455",
+            "page": "http://www.imdb.com/find?q=tt0092455"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: The Next Generation"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: Voyager",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112178",
+            "page": "http://www.imdb.com/find?q=tt0112178"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: Voyager"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The A-Team",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0084967",
+            "page": "http://www.imdb.com/find?q=tt0084967"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The A-Team"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Grim Adventures of Billy & Mandy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292800",
+            "page": "http://www.imdb.com/find?q=tt0292800"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Grim Adventures of Billy & Mandy"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Touched by an Angel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108968",
+            "page": "http://www.imdb.com/find?q=tt0108968"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Touched by an Angel"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "The A-Team",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0429493",
+            "page": "http://www.imdb.com/find?q=tt0429493"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The A-Team (2010)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Kaena: The Prophecy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0297753",
+            "page": "http://www.imdb.com/find?q=tt0297753"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kaena: The Prophecy (2003)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "The Animatrix",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0328832",
+            "page": "http://www.imdb.com/find?q=tt0328832"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Animatrix (2003)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Final Fantasy: The Spirits Within",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0173840",
+            "page": "http://www.imdb.com/find?q=tt0173840"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Final Fantasy: The Spirits Within (2001)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Vampire Hunter D: Bloodlust",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0216651",
+            "page": "http://www.imdb.com/find?q=tt0216651"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Vampire Hunter D: Bloodlust (2000)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Princess Mononoke",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119698",
+            "page": "http://www.imdb.com/find?q=tt0119698"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Princess Mononoke (1997)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "The Temp",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108311",
+            "page": "http://www.imdb.com/find?q=tt0108311"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Temp (1993)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Arcanum: Of Steamworks and Magick Obscura",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0289851",
+            "page": "http://www.imdb.com/find?q=tt0289851"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Arcanum: Of Steamworks and Magick Obscura (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ben 10 Alien Force: Vilgax Attacks",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545301",
+            "page": "http://www.imdb.com/find?q=tt1545301"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ben 10 Alien Force: Vilgax Attacks (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fantastic Four",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0476458",
+            "page": "http://www.imdb.com/find?q=tt0476458"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fantastic Four (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Lionheart",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0373095",
+            "page": "http://www.imdb.com/find?q=tt0373095"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lionheart (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Metal Gear Solid: Portable Ops",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0844716",
+            "page": "http://www.imdb.com/find?q=tt0844716"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Metal Gear Solid: Portable Ops (video game)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "The A-Team",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0084967",
+            "page": "http://www.imdb.com/find?q=tt0084967"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The A-Team (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Titan Quest",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0837135",
+            "page": "http://www.imdb.com/find?q=tt0837135"
+          }
+        }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Titan Quest (video game)"
     },
     {
       "body": "Schultz is a graduate of Calvert Hall College High School and an alumnus of Towson University, both located in Towson, Maryland. He married former actress Wendy Fulton in 1983 and has a daughter named Ava, who graduated from the Virginia Military Institute in 2009. Schultz is good friends with voice actors ${link_0}, ${link_1}, and ${link_2}, as well as former A-Team costar Dirk Benedict.",
@@ -102,7 +738,8 @@
           "body": "John DiMaggio",
           "key": "${link_0}",
           "target": {
-            "href": "John_DiMaggio",
+            "external": false,
+            "href": "/wiki/John_DiMaggio",
             "page": "John_DiMaggio"
           }
         },
@@ -110,7 +747,8 @@
           "body": "Kevin Michael Richardson",
           "key": "${link_1}",
           "target": {
-            "href": "Kevin_Michael_Richardson",
+            "external": false,
+            "href": "/wiki/Kevin_Michael_Richardson",
             "page": "Kevin_Michael_Richardson"
           }
         },
@@ -118,16 +756,27 @@
           "body": "Fred Tatasciore",
           "key": "${link_2}",
           "target": {
-            "href": "Fred_Tatasciore",
+            "external": false,
+            "href": "/wiki/Fred_Tatasciore",
             "page": "Fred_Tatasciore"
           }
         }
+      ],
+      "section": [
+        "Dwight Schultz",
+        "Biographical information",
+        "Personal life"
       ],
       "text": "Schultz is a graduate of Calvert Hall College High School and an alumnus of Towson University, both located in Towson, Maryland. He married former actress Wendy Fulton in 1983 and has a daughter named Ava, who graduated from the Virginia Military Institute in 2009. Schultz is good friends with voice actors John DiMaggio, Kevin Michael Richardson, and Fred Tatasciore, as well as former A-Team costar Dirk Benedict."
     },
     {
       "body": "Schultz's career began with a role in Thin Ice in 1981, and later that year he had one-episode roles in Hill Street Blues and CHiPS. From 1983 to 1987, he played 'Howling Mad' Murdock on The A-Team, starring in ninety-seven episodes.",
       "links": [],
+      "section": [
+        "Dwight Schultz",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Schultz's career began with a role in Thin Ice in 1981, and later that year he had one-episode roles in Hill Street Blues and CHiPS. From 1983 to 1987, he played 'Howling Mad' Murdock on The A-Team, starring in ninety-seven episodes."
     }
   ],

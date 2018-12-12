@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Police Surgeon (1960)",
+          "body": "${link_0} (1960)",
           "extra": "(1960)",
           "extra_text": "(1960)",
-          "links": [],
+          "links": [
+            {
+              "body": "Police Surgeon",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0136654",
+                "page": "http://www.imdb.com/find?q=tt0136654"
+              }
+            }
+          ],
           "text": "Police Surgeon (1960)",
-          "value": "Police Surgeon",
+          "value": "${link_0}",
           "value_text": "Police Surgeon"
         }
       ]
@@ -41,18 +54,409 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0308127",
+                "page": "http://www.imdb.com/find?q=nm0308127"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         }
       ]
     }
   ],
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "body": "108. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Winter Solstice, Part 2: Avatar Roku",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Winter_Solstice%2c_Part_2__Avatar_Roku",
+            "page": "Winter_Solstice%2c_Part_2__Avatar_Roku"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Avatar: The Last Airbender credits",
+        "Roku"
+      ],
+      "text": "108. \"Winter Solstice, Part 2: Avatar Roku\""
+    },
+    {
+      "body": "116. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Deserter",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Deserter",
+            "page": "The_Deserter"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Avatar: The Last Airbender credits",
+        "Roku"
+      ],
+      "text": "116. \"The Deserter\""
+    },
+    {
+      "body": "120. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Siege of the North, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Siege_of_the_North%2c_Part_2",
+            "page": "The_Siege_of_the_North%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Avatar: The Last Airbender credits",
+        "Roku"
+      ],
+      "text": "120. \"The Siege of the North, Part 2\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar State",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_State",
+            "page": "The_Avatar_State"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Avatar: The Last Airbender credits",
+        "Roku"
+      ],
+      "text": "201. \"The Avatar State\""
+    },
+    {
+      "body": "301. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Awakening",
+            "page": "The_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Avatar: The Last Airbender credits",
+        "Roku"
+      ],
+      "text": "301. \"The Awakening\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Avatar and the Fire Lord",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Avatar_and_the_Fire_Lord",
+            "page": "The_Avatar_and_the_Fire_Lord"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Avatar: The Last Airbender credits",
+        "Roku"
+      ],
+      "text": "306. \"The Avatar and the Fire Lord\""
+    },
+    {
+      "body": "319. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 2: The Old Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_2__The_Old_Masters",
+            "page": "Sozin%27s_Comet%2c_Part_2__The_Old_Masters"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Avatar: The Last Airbender credits",
+        "Roku"
+      ],
+      "text": "319. \"Sozin's Comet, Part 2: The Old Masters\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "The Legend of Korra credits",
+        "Roku"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman: The Brave and the Bold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1213218",
+            "page": "http://www.imdb.com/find?q=tt1213218"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman: The Brave and the Bold"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Conan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120569",
+            "page": "http://www.imdb.com/find?q=tt0120569"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Conan"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dallas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0077000",
+            "page": "http://www.imdb.com/find?q=tt0077000"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dallas"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Danny Phantom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0366005",
+            "page": "http://www.imdb.com/find?q=tt0366005"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Danny Phantom"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Murder, She Wrote",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086765",
+            "page": "http://www.imdb.com/find?q=tt0086765"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Murder, She Wrote"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Voyagers!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0083500",
+            "page": "http://www.imdb.com/find?q=tt0083500"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Voyagers!"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Winter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1308174",
+            "page": "http://www.imdb.com/find?q=tt1308174"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Winter (2009)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Titanic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120338",
+            "page": "http://www.imdb.com/find?q=tt0120338"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Titanic (1997)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "The Dig",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0139156",
+            "page": "http://www.imdb.com/find?q=tt0139156"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Dig (1995)"
+    },
+    {
+      "body": "${link_0} (1979)",
+      "links": [
+        {
+          "body": "Time After Time",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0080025",
+            "page": "http://www.imdb.com/find?q=tt0080025"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Time After Time (1979)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender \u2013 Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_%e2%80%93_Into_the_Inferno",
+            "page": "Avatar__The_Last_Airbender_%e2%80%93_Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "James Garrett",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Last Airbender \u2013 Into the Inferno (video game)"
+    }
+  ],
   "source": {
     "canonical": "http://avatar.wikia.com/wiki/James_Garrett",
     "file": "avatar.wikia.com/wiki/James_Garrett.html",

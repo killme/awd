@@ -3,28 +3,32 @@
     {
       "body": "Protected",
       "target": {
-        "href": "Category_Protected",
+        "external": false,
+        "href": "/wiki/Category_Protected",
         "page": "Category_Protected"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -48,12 +52,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Skins (2007)",
+          "body": "${link_0} (2007)",
           "extra": "(2007)",
           "extra_text": "(2007)",
-          "links": [],
+          "links": [
+            {
+              "body": "Skins",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0840196",
+                "page": "http://www.imdb.com/find?q=tt0840196"
+              }
+            }
+          ],
           "text": "Skins (2007)",
-          "value": "Skins",
+          "value": "${link_0}",
           "value_text": "Skins"
         }
       ]
@@ -62,30 +76,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2353862",
+                "page": "http://www.imdb.com/find?q=nm2353862"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Dev_Patel",
+                "page": "http://en.wikipedia.org/wiki/Dev_Patel"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/devpatel",
+                "page": "https://www.facebook.com/devpatel"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         }
       ]
@@ -93,33 +137,435 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mister Eleven",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1219818",
+            "page": "http://www.imdb.com/find?q=tt1219818"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mister Eleven"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Newsroom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1870479",
+            "page": "http://www.imdb.com/find?q=tt1870479"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Newsroom"
+    },
+    {
+      "body": "${link_0} (2016)",
+      "links": [
+        {
+          "body": "Lion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3741834",
+            "page": "http://www.imdb.com/find?q=tt3741834"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lion (2016)"
+    },
+    {
+      "body": "${link_0} (2015)",
+      "links": [
+        {
+          "body": "The Man Who Knew Infinity",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0787524",
+            "page": "http://www.imdb.com/find?q=tt0787524"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Man Who Knew Infinity (2015)"
+    },
+    {
+      "body": "${link_0} (2015)",
+      "links": [
+        {
+          "body": "Chappie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1823672",
+            "page": "http://www.imdb.com/find?q=tt1823672"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Chappie (2015)"
+    },
+    {
+      "body": "${link_0} (2015)",
+      "links": [
+        {
+          "body": "The Second Best Exotic Marigold Hotel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2555736",
+            "page": "http://www.imdb.com/find?q=tt2555736"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Second Best Exotic Marigold Hotel (2015)"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "The Road Within",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2962876",
+            "page": "http://www.imdb.com/find?q=tt2962876"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Road Within (2014)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "About Cherry",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1945062",
+            "page": "http://www.imdb.com/find?q=tt1945062"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "About Cherry (2012)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "The Best Exotic Marigold Hotel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1412386",
+            "page": "http://www.imdb.com/find?q=tt1412386"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Best Exotic Marigold Hotel (2011)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Slumdog Millionare",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1010048",
+            "page": "http://www.imdb.com/find?q=tt1010048"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Slumdog Millionare (2008)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender_(video_game)",
+            "page": "Film_The_Last_Airbender_(video_game)"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Last Airbender (video game)"
+    },
+    {
       "body": "Patel was born in Harrow, England, to Gujarati Indian parents, both of whom were born in Nairobi, Kenya. His parents each emigrated from Kenya in their teens, and only met in London. His mother, Anita, is a carer and his father, Raj, is an IT consultant. He has one sibling, an older sister named Komal. He is a Hindu by birth.",
       "links": [],
+      "section": [
+        "Dev Patel",
+        "Biographical information"
+      ],
       "text": "Patel was born in Harrow, England, to Gujarati Indian parents, both of whom were born in Nairobi, Kenya. His parents each emigrated from Kenya in their teens, and only met in London. His mother, Anita, is a carer and his father, Raj, is an IT consultant. He has one sibling, an older sister named Komal. He is a Hindu by birth."
     },
     {
       "body": "Patel grew up in Rayners Lane, Harrow, and attended Longfield Middle School. He had his first acting role as Sir Andrew Aguecheek in the school's production of Twelfth Night. Patel was given the Best Actor award for his performance; he later said that was the day he knew he wanted to become an actor. He later went to Whitmore High School, receiving an A* in GCSE Drama, for his \"self-penned portrayal of a child in the Beslan school siege\". He was awarded full marks for his GCSE performance to a live audience and the visiting examiner was \"moved to tears by his honest portrayal of a child in the Beslan school hostage crisis in Russia.\" He eventually completed his AS Levels in PE, Biology, History and Drama in 2007, while he was working on Skins.",
       "links": [],
-      "text": "Patel grew up in Rayners Lane, Harrow, and attended Longfield Middle School. He had his first acting role as Sir Andrew Aguecheek in the school's production of Twelfth Night. Patel was given the Best Actor award for his performance; he later said that was the day he knew he wanted to become an actor. He later went to Whitmore High School, receiving an A* in GCSE Drama, for his \"self-penned portrayal of a child in the Beslan school siege\". He was awarded full marks for his GCSE performance to a live audience and the visiting examiner was \"moved to tears by his honest portrayal of a child in the Beslan school hostage crisis in Russia.\" He eventually completed his AS Levels in PE, Biology, History and Drama in 2007, while he was working on Skins."
-    },
-    {
-      "body": "Patel as ${link_0}.",
-      "links": [
-        {
-          "body": "Zuko",
-          "key": "${link_0}",
-          "target": {
-            "href": "Film_Zuko",
-            "page": "Film_Zuko"
-          }
-        }
+      "section": [
+        "Dev Patel",
+        "Biographical information"
       ],
-      "text": "Patel as Zuko."
+      "text": "Patel grew up in Rayners Lane, Harrow, and attended Longfield Middle School. He had his first acting role as Sir Andrew Aguecheek in the school's production of Twelfth Night. Patel was given the Best Actor award for his performance; he later said that was the day he knew he wanted to become an actor. He later went to Whitmore High School, receiving an A* in GCSE Drama, for his \"self-penned portrayal of a child in the Beslan school siege\". He was awarded full marks for his GCSE performance to a live audience and the visiting examiner was \"moved to tears by his honest portrayal of a child in the Beslan school hostage crisis in Russia.\" He eventually completed his AS Levels in PE, Biology, History and Drama in 2007, while he was working on Skins."
     },
     {
       "body": "In 2008, Patel auditioned for a role in M. Night Shyamalan's The Last Airbender, a feature film adaptation of the animated series Avatar: The Last Airbender. In February 2009, it was announced that Patel had replaced Jesse McCartney for the role of Zuko, after McCartney's tour dates conflicted with a boot camp scheduled for the cast to train in martial arts. Shyamalan said of Patel, \"[he was] already one of the guys I was interested in. Then I saw Slumdog Millionaire, and the kid just grew in my eyes\".",
       "links": [],
+      "section": [
+        "Dev Patel",
+        "Biographical information"
+      ],
       "text": "In 2008, Patel auditioned for a role in M. Night Shyamalan's The Last Airbender, a feature film adaptation of the animated series Avatar: The Last Airbender. In February 2009, it was announced that Patel had replaced Jesse McCartney for the role of Zuko, after McCartney's tour dates conflicted with a boot camp scheduled for the cast to train in martial arts. Shyamalan said of Patel, \"[he was] already one of the guys I was interested in. Then I saw Slumdog Millionaire, and the kid just grew in my eyes\"."
+    },
+    {
+      "body": "Dev Patel commented to ${link_0} magazine that\n \"Zuko is a boy, and he's struggling to impress his father and trying to get his honor and love back. And then there's ${link_1}, who plays my uncle, and who treats Zuko like a son. Like in life, you take your anger out on the people you love the most, and Zuko sort of neglects his uncle because he's on this one-track mission to find this boy. It makes it really interesting. They have a good dynamic: This na\u00efve boy who acts on aggression all of the time, and then you have this wise, older uncle who is like the calm within the storm. It's a good dynamic.\"",
+      "links": [
+        {
+          "body": "Starlog",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Starlog",
+            "page": "http://en.wikipedia.org/wiki/Starlog"
+          }
+        },
+        {
+          "body": "Shaun Toub",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Shaun_Toub",
+            "page": "Film_Shaun_Toub"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "Trivia"
+      ],
+      "text": "Dev Patel commented to Starlog magazine that\n \"Zuko is a boy, and he's struggling to impress his father and trying to get his honor and love back. And then there's Shaun Toub, who plays my uncle, and who treats Zuko like a son. Like in life, you take your anger out on the people you love the most, and Zuko sort of neglects his uncle because he's on this one-track mission to find this boy. It makes it really interesting. They have a good dynamic: This na\u00efve boy who acts on aggression all of the time, and then you have this wise, older uncle who is like the calm within the storm. It's a good dynamic.\""
+    },
+    {
+      "body": "Patel's opinion on his role in The Last Airbender is varied. He supported the film during its publicity campaign in 2010 and stated in an interview with Crave Online that he had \"no regrets\" about working on the film, claiming \"[he] learned a tremendous amount on Airbender\" and \"got to experience amazing things\". However, in a later interview with The Guardian, he claims to have been \"totally overwhelmed by the whole experience\", adding that it was \"hard promoting a film [he] didn't enjoy and [didn't] fully believe in\" and he \"was at the stage in [his] career where [he didn't] have any say\". In addition to this, he stated he felt he had let the fans down and was confident someone would produce a reboot of the film someday.",
+      "links": [],
+      "section": [
+        "Dev Patel",
+        "Trivia"
+      ],
+      "text": "Patel's opinion on his role in The Last Airbender is varied. He supported the film during its publicity campaign in 2010 and stated in an interview with Crave Online that he had \"no regrets\" about working on the film, claiming \"[he] learned a tremendous amount on Airbender\" and \"got to experience amazing things\". However, in a later interview with The Guardian, he claims to have been \"totally overwhelmed by the whole experience\", adding that it was \"hard promoting a film [he] didn't enjoy and [didn't] fully believe in\" and he \"was at the stage in [his] career where [he didn't] have any say\". In addition to this, he stated he felt he had let the fans down and was confident someone would produce a reboot of the film someday."
+    },
+    {
+      "body": "Patel claims he took the role of Zuko to avoid playing a stereotype and show his versatility, noting that \"Asian actors tend not to be sent Hollywood scripts that are substantial or challenging\" and he was \"likely to be offered the roles of a terrorist, cab driver, and smart geek.\"",
+      "links": [],
+      "section": [
+        "Dev Patel",
+        "Trivia"
+      ],
+      "text": "Patel claims he took the role of Zuko to avoid playing a stereotype and show his versatility, noting that \"Asian actors tend not to be sent Hollywood scripts that are substantial or challenging\" and he was \"likely to be offered the roles of a terrorist, cab driver, and smart geek.\""
+    },
+    {
+      "body": "2009: Won a Broadcast Film Critics Association Award for Slumdog Millionaire (Best Young Actor/Actress (Under 21))",
+      "links": [],
+      "section": [
+        "Dev Patel",
+        "Awards"
+      ],
+      "text": "2009: Won a Broadcast Film Critics Association Award for Slumdog Millionaire (Best Young Actor/Actress (Under 21))"
+    },
+    {
+      "body": "2009: Won a Screen Actors' Guild Award for Slumdog Millionaire (Outstanding Performance by a Cast in a Motion Picture)",
+      "links": [],
+      "section": [
+        "Dev Patel",
+        "Awards"
+      ],
+      "text": "2009: Won a Screen Actors' Guild Award for Slumdog Millionaire (Outstanding Performance by a Cast in a Motion Picture)"
+    },
+    {
+      "body": "2008: Won a Black Reel for Slumdog Millionaire (Best Actor)",
+      "links": [],
+      "section": [
+        "Dev Patel",
+        "Awards"
+      ],
+      "text": "2008: Won a Black Reel for Slumdog Millionaire (Best Actor)"
+    },
+    {
+      "body": "2008: Won a Black Reel for Slumdog Millionaire (Best Breakthrough Performance)",
+      "links": [],
+      "section": [
+        "Dev Patel",
+        "Awards"
+      ],
+      "text": "2008: Won a Black Reel for Slumdog Millionaire (Best Breakthrough Performance)"
+    },
+    {
+      "body": "2008: Won a British Independent Film Award for Slumdog Millionaire (Most Promising Newcomer)",
+      "links": [],
+      "section": [
+        "Dev Patel",
+        "Awards"
+      ],
+      "text": "2008: Won a British Independent Film Award for Slumdog Millionaire (Most Promising Newcomer)"
+    },
+    {
+      "body": "2008: Won a CFCA Award for Slumdog Millionaire (Most Promising Performer)",
+      "links": [],
+      "section": [
+        "Dev Patel",
+        "Awards"
+      ],
+      "text": "2008: Won a CFCA Award for Slumdog Millionaire (Most Promising Performer)"
+    },
+    {
+      "body": "2008: Won an NBR Award for Slumdog Millionaire (Breakthrough Performance by an Actor)",
+      "links": [],
+      "section": [
+        "Dev Patel",
+        "Awards"
+      ],
+      "text": "2008: Won an NBR Award for Slumdog Millionaire (Breakthrough Performance by an Actor)"
+    },
+    {
+      "body": "2008: Won a PFCS Award for Slumdog Millionaire (Breakout on Camera)",
+      "links": [],
+      "section": [
+        "Dev Patel",
+        "Awards"
+      ],
+      "text": "2008: Won a PFCS Award for Slumdog Millionaire (Breakout on Camera)"
+    },
+    {
+      "body": "2008: Won a WAFCA Award for Slumdog Millionaire (Best Breakthrough Performance)",
+      "links": [],
+      "section": [
+        "Dev Patel",
+        "Awards"
+      ],
+      "text": "2008: Won a WAFCA Award for Slumdog Millionaire (Best Breakthrough Performance)"
+    },
+    {
+      "body": "${link_0}, Zuko's voice actor in the animated series.",
+      "links": [
+        {
+          "body": "Dante Basco",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Dante_Basco",
+            "page": "Dante_Basco"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "See also"
+      ],
+      "text": "Dante Basco, Zuko's voice actor in the animated series."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "DNAIndia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.dnaindia.com/entertainment/report_dev-patel-says-he-had-second-thoughts-about-starring-in-the-last-airbender_1418342",
+            "page": "http://www.dnaindia.com/entertainment/report_dev-patel-says-he-had-second-thoughts-about-starring-in-the-last-airbender_1418342"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "External Links"
+      ],
+      "text": "DNAIndia"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Cnet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://news.cnet.com/8301-17938_105-20021228-1",
+            "page": "http://news.cnet.com/8301-17938_105-20021228-1"
+          }
+        }
+      ],
+      "section": [
+        "Dev Patel",
+        "External Links"
+      ],
+      "text": "Cnet"
     }
   ],
   "source": {

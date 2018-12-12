@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Who's the Boss? (1992)",
+          "body": "${link_0} (1992)",
           "extra": "(1992)",
           "extra_text": "(1992)",
-          "links": [],
+          "links": [
+            {
+              "body": "Who's the Boss?",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0086827",
+                "page": "http://www.imdb.com/find?q=tt0086827"
+              }
+            }
+          ],
           "text": "Who's the Boss? (1992)",
-          "value": "Who's the Boss?",
+          "value": "${link_0}",
           "value_text": "Who's the Boss?"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0437454",
+                "page": "http://www.imdb.com/find?q=nm0437454"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Tom_Kane",
+                "page": "http://en.wikipedia.org/wiki/Tom_Kane"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/Tom.Kane.VO.Guy",
+                "page": "https://www.facebook.com/Tom.Kane.VO.Guy"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.tomkane.com/",
+                "page": "http://www.tomkane.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -109,8 +162,532 @@
   ],
   "paragraphs": [
     {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "204. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Civil Wars, Part 2",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Civil_Wars%2c_Part_2",
+            "page": "Civil_Wars%2c_Part_2"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "The Legend of Korra credits",
+        "Hotah"
+      ],
+      "text": "204. \"Civil Wars, Part 2\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Foster's Home for Imaginary Friends",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0419326",
+            "page": "http://www.imdb.com/find?q=tt0419326"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Foster's Home for Imaginary Friends"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kim Possible",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0278866",
+            "page": "http://www.imdb.com/find?q=tt0278866"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kim Possible"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mad",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1718438",
+            "page": "http://www.imdb.com/find?q=tt1718438"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mad"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Robot Chicken",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0437745",
+            "page": "http://www.imdb.com/find?q=tt0437745"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Robot Chicken"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0458290",
+            "page": "http://www.imdb.com/find?q=tt0458290"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Wars: The Clone Wars"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Avengers: Earth's Mightiest Heroes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1626038",
+            "page": "http://www.imdb.com/find?q=tt1626038"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Avengers: Earth's Mightiest Heroes"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Eric Andre Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2244495",
+            "page": "http://www.imdb.com/find?q=tt2244495"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Eric Andre Show"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wolverine and the X-Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0772145",
+            "page": "http://www.imdb.com/find?q=tt0772145"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wolverine and the X-Men"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "The Smurfs 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2017020",
+            "page": "http://www.imdb.com/find?q=tt2017020"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Smurfs 2 (2013)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "The Smurfs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0472181",
+            "page": "http://www.imdb.com/find?q=tt0472181"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Smurfs (2011)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "9",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0472033",
+            "page": "http://www.imdb.com/find?q=tt0472033"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "9 (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Star Wars: The Clone Wars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1185834",
+            "page": "http://www.imdb.com/find?q=tt1185834"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Star Wars: The Clone Wars (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Shrek the Third",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0413267",
+            "page": "http://www.imdb.com/find?q=tt0413267"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Shrek the Third (2007)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Rugrats Go Wild",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0337711",
+            "page": "http://www.imdb.com/find?q=tt0337711"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Rugrats Go Wild (2003)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "The Wild Thornberrys Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0282120",
+            "page": "http://www.imdb.com/find?q=tt0282120"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wild Thornberrys Movie (2002)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Wish Me Luck",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0114955",
+            "page": "http://www.imdb.com/find?q=tt0114955"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Wish Me Luck (1995)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Batman: Arkham Asylum",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1282022",
+            "page": "http://www.imdb.com/find?q=tt1282022"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Batman: Arkham Asylum (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Batman: Arkham City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1568322",
+            "page": "http://www.imdb.com/find?q=tt1568322"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Batman: Arkham City (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Batman: Arkham Origins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2842418",
+            "page": "http://www.imdb.com/find?q=tt2842418"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Batman: Arkham Origins (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Call of Duty: Black Ops",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1632479",
+            "page": "http://www.imdb.com/find?q=tt1632479"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Call of Duty: Black Ops (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fracture",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1253846",
+            "page": "http://www.imdb.com/find?q=tt1253846"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fracture (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "FusionFall",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1363369",
+            "page": "http://www.imdb.com/find?q=tt1363369"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "FusionFall (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel: Ultimate Alliance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0814207",
+            "page": "http://www.imdb.com/find?q=tt0814207"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel: Ultimate Alliance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Star Wars: The Force Unleashed - Ultimate Sith Edition",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1534098",
+            "page": "http://www.imdb.com/find?q=tt1534098"
+          }
+        }
+      ],
+      "section": [
+        "Tom Kane",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Star Wars: The Force Unleashed - Ultimate Sith Edition (video game)"
+    },
+    {
       "body": "Tom Kane is a prominent voice actor with over twenty-five years of experience who is most widely known for his animated work. Notable roles he has played include Jedi Master Yoda and Admiral Yularen in Star Wars: The Clone Wars feature film and TV series, and The Chancellor in Tim Burton's 9. He is also a prominent video game voice actor, having played Gandalf and Professor Xavier, and has voiced lead characters in almost every Star Wars game ever made. In the arena of non-animation voice-over work, he has performed in movie trailers, TV promos and commercials. In addition, he has been the announcer for the AFI Life Achievement Awards show twice, as well as the 78th, 80th, and 83rd Academy Awards.",
       "links": [],
+      "section": [
+        "Tom Kane",
+        "Biographical information"
+      ],
       "text": "Tom Kane is a prominent voice actor with over twenty-five years of experience who is most widely known for his animated work. Notable roles he has played include Jedi Master Yoda and Admiral Yularen in Star Wars: The Clone Wars feature film and TV series, and The Chancellor in Tim Burton's 9. He is also a prominent video game voice actor, having played Gandalf and Professor Xavier, and has voiced lead characters in almost every Star Wars game ever made. In the arena of non-animation voice-over work, he has performed in movie trailers, TV promos and commercials. In addition, he has been the announcer for the AFI Life Achievement Awards show twice, as well as the 78th, 80th, and 83rd Academy Awards."
     }
   ],

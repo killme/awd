@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "J.F.K.: Reckless Youth (1993; TV movie)",
+          "body": "${link_0} (1993; TV movie)",
           "extra": "(1993; TV movie)",
           "extra_text": "(1993; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "J.F.K.: Reckless Youth",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0106035",
+                "page": "http://www.imdb.com/find?q=tt0106035"
+              }
+            }
+          ],
           "text": "J.F.K.: Reckless Youth (1993; TV movie)",
-          "value": "J.F.K.: Reckless Youth",
+          "value": "${link_0}",
           "value_text": "J.F.K.: Reckless Youth"
         }
       ]
@@ -55,57 +68,117 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0232278",
+                "page": "http://www.imdb.com/find?q=nm0232278"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Marc_Donato",
+                "page": "http://en.wikipedia.org/wiki/Marc_Donato"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Marc-Donato/217468388286844",
+                "page": "https://www.facebook.com/pages/Marc-Donato/217468388286844"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/100279927396573770911/posts",
+                "page": "https://plus.google.com/100279927396573770911/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/themarcdonato#",
+                "page": "http://instagram.com/themarcdonato"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.twitter.com/TheMarcDonato",
+                "page": "https://www.twitter.com/TheMarcDonato"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -113,9 +186,361 @@
   ],
   "paragraphs": [
     {
+      "body": "217. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lake Laogai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai_(episode)",
+            "page": "Lake_Laogai_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Avatar: The Last Airbender credits",
+        "Longshot"
+      ],
+      "text": "217. \"Lake Laogai\""
+    },
+    {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Beach",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Beach",
+            "page": "The_Beach"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "305. \"The Beach\""
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "The Final",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1390535",
+            "page": "http://www.imdb.com/find?q=tt1390535"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Final (2010)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Mind of Its Own",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1523399",
+            "page": "http://www.imdb.com/find?q=tt1523399"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mind of Its Own (2010)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "The Blue Butterfly",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0313300",
+            "page": "http://www.imdb.com/find?q=tt0313300"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Blue Butterfly (2004)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "White Oleander",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0283139",
+            "page": "http://www.imdb.com/find?q=tt0283139"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "White Oleander (2002)"
+    },
+    {
+      "body": "${link_0} (2000; short)",
+      "links": [
+        {
+          "body": "Camera",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0260776",
+            "page": "http://www.imdb.com/find?q=tt0260776"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Camera (2000; short)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Pay It Forward",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0223897",
+            "page": "http://www.imdb.com/find?q=tt0223897"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pay It Forward (2000)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "A Map of the World",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0160513",
+            "page": "http://www.imdb.com/find?q=tt0160513"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Map of the World (1999)"
+    },
+    {
+      "body": "${link_0} (1998; short)",
+      "links": [
+        {
+          "body": "A Boy's Own Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0213529",
+            "page": "http://www.imdb.com/find?q=tt0213529"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Boy's Own Story (1998; short)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Bone Daddy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0139076",
+            "page": "http://www.imdb.com/find?q=tt0139076"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bone Daddy (1998)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "The Sweet Hereafter",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120255",
+            "page": "http://www.imdb.com/find?q=tt0120255"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Sweet Hereafter (1997)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Specimen",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0117710",
+            "page": "http://www.imdb.com/find?q=tt0117710"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Specimen (1996)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Billy Madison",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112508",
+            "page": "http://www.imdb.com/find?q=tt0112508"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Billy Madison (1995)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "The Killing Machine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110263",
+            "page": "http://www.imdb.com/find?q=tt0110263"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Killing Machine (1995)"
+    },
+    {
+      "body": "${link_0} (1994; English version)",
+      "links": [
+        {
+          "body": "Pom Poko",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110008",
+            "page": "http://www.imdb.com/find?q=tt0110008"
+          }
+        }
+      ],
+      "section": [
+        "Marc Donato",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pom Poko (1994; English version)"
+    },
+    {
       "body": "Donato portrayed the character Derek Haig on Degrassi: The Next Generation. Other roles he has played include those in Doc, Locked in Silence, The Blue Butterfly, and, recently, Ethan in The Future Is Wild. He also had small roles as Adam in Pay It Forward, Davey in White Oleander, and as a kid in Adam Sandler's kindergarten class in Billy Madison. He starred in the thriller film The Final.",
       "links": [],
+      "section": [
+        "Marc Donato",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Donato portrayed the character Derek Haig on Degrassi: The Next Generation. Other roles he has played include those in Doc, Locked in Silence, The Blue Butterfly, and, recently, Ethan in The Future Is Wild. He also had small roles as Adam in Pay It Forward, Davey in White Oleander, and as a kid in Adam Sandler's kindergarten class in Billy Madison. He starred in the thriller film The Final."
+    },
+    {
+      "body": "2003: Won a Young Artist Award for White Oleander (Best Performance in a Feature Film - Supporting Young Actor)",
+      "links": [],
+      "section": [
+        "Marc Donato",
+        "Awards"
+      ],
+      "text": "2003: Won a Young Artist Award for White Oleander (Best Performance in a Feature Film - Supporting Young Actor)"
+    },
+    {
+      "body": "2000: Won a Young Artist Award for Locked in Silence (Best Performance in a TV Movie or Pilot - Young Actor Age Ten or Under)",
+      "links": [],
+      "section": [
+        "Marc Donato",
+        "Awards"
+      ],
+      "text": "2000: Won a Young Artist Award for Locked in Silence (Best Performance in a TV Movie or Pilot - Young Actor Age Ten or Under)"
+    },
+    {
+      "body": "1999: Won a Young Artist Award for The Sweetest Gift (Best Performance in a TV Movie/Pilot/Made for Video - Young Ensemble)",
+      "links": [],
+      "section": [
+        "Marc Donato",
+        "Awards"
+      ],
+      "text": "1999: Won a Young Artist Award for The Sweetest Gift (Best Performance in a TV Movie/Pilot/Made for Video - Young Ensemble)"
     }
   ],
   "source": {

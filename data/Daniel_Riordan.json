@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -27,12 +30,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Breakin' 2: Electric Boogaloo (1984)",
+          "body": "${link_0} (1984)",
           "extra": "(1984)",
           "extra_text": "(1984)",
-          "links": [],
+          "links": [
+            {
+              "body": "Breakin' 2: Electric Boogaloo",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0086999",
+                "page": "http://www.imdb.com/find?q=tt0086999"
+              }
+            }
+          ],
           "text": "Breakin' 2: Electric Boogaloo (1984)",
-          "value": "Breakin' 2: Electric Boogaloo",
+          "value": "${link_0}",
           "value_text": "Breakin' 2: Electric Boogaloo"
         }
       ]
@@ -41,21 +54,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0727850",
+                "page": "http://www.imdb.com/find?q=nm0727850"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Daniel_Riordan",
+                "page": "http://en.wikipedia.org/wiki/Daniel_Riordan"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -63,8 +96,832 @@
   ],
   "paragraphs": [
     {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Avatar: The Last Airbender credits",
+        "Bujing"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Painted Lady",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Painted_Lady",
+            "page": "The_Painted_Lady"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Avatar: The Last Airbender credits",
+        "Mung"
+      ],
+      "text": "303. \"The Painted Lady\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Painted Lady",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Painted_Lady",
+            "page": "The_Painted_Lady"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "303. \"The Painted Lady\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bob Patterson",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0285342",
+            "page": "http://www.imdb.com/find?q=tt0285342"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bob Patterson"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Carniv\u00e0le",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0319969",
+            "page": "http://www.imdb.com/find?q=tt0319969"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Carniv\u00e0le"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Conan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120569",
+            "page": "http://www.imdb.com/find?q=tt0120569"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Conan"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Dance Man",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1239431",
+            "page": "http://www.imdb.com/find?q=tt1239431"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dance Man (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Diagnosis Murder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0105986",
+            "page": "http://www.imdb.com/find?q=tt0105986"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Diagnosis Murder"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dragnet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0096570",
+            "page": "http://www.imdb.com/find?q=tt0096570"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dragnet"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Monk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312172",
+            "page": "http://www.imdb.com/find?q=tt0312172"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Monk"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mr. Belvedere",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0088576",
+            "page": "http://www.imdb.com/find?q=tt0088576"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mr. Belvedere"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Out of This World",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092423",
+            "page": "http://www.imdb.com/find?q=tt0092423"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Out of This World"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Parenthood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1416765",
+            "page": "http://www.imdb.com/find?q=tt1416765"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Parenthood"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Renegade",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103524",
+            "page": "http://www.imdb.com/find?q=tt0103524"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Renegade"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Scooby-Doo: The Mystery Begins",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1258157",
+            "page": "http://www.imdb.com/find?q=tt1258157"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Scooby-Doo: The Mystery Begins (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Silk Stalkings",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101198",
+            "page": "http://www.imdb.com/find?q=tt0101198"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Silk Stalkings"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sisters",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0101199",
+            "page": "http://www.imdb.com/find?q=tt0101199"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sisters"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: Deep Space Nine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0106145",
+            "page": "http://www.imdb.com/find?q=tt0106145"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: Deep Space Nine"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Star Trek: Enterprise",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0244365",
+            "page": "http://www.imdb.com/find?q=tt0244365"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Star Trek: Enterprise"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Team Knight Rider",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0127398",
+            "page": "http://www.imdb.com/find?q=tt0127398"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Team Knight Rider"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The Adventures of Captain Zoom in Outer space",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112292",
+            "page": "http://www.imdb.com/find?q=tt0112292"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Adventures of Captain Zoom in Outer space (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The B.R.A.T. Patrol",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090680",
+            "page": "http://www.imdb.com/find?q=tt0090680"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The B.R.A.T. Patrol (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Fanelli Boys",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098793",
+            "page": "http://www.imdb.com/find?q=tt0098793"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Fanelli Boys"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Fresh Prince of Bel-Air",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098800",
+            "page": "http://www.imdb.com/find?q=tt0098800"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Fresh Prince of Bel-Air"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Munsters Today",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094518",
+            "page": "http://www.imdb.com/find?q=tt0094518"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Munsters Today"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Transformers: Robots in Disguise",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0290380",
+            "page": "http://www.imdb.com/find?q=tt0290380"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Transformers: Robots in Disguise"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Weird Science",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108988",
+            "page": "http://www.imdb.com/find?q=tt0108988"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Weird Science"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Where There's a Will",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0399301",
+            "page": "http://www.imdb.com/find?q=tt0399301"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Where There's a Will (TV movie)"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Authors Anonymous",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2114461",
+            "page": "http://www.imdb.com/find?q=tt2114461"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Authors Anonymous (2014)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "The Tale of Despereaux",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0420238",
+            "page": "http://www.imdb.com/find?q=tt0420238"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Tale of Despereaux (2008)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "Help, I'm a Boy!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0295003",
+            "page": "http://www.imdb.com/find?q=tt0295003"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Help, I'm a Boy! (2002)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Suspended Animation",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0271809",
+            "page": "http://www.imdb.com/find?q=tt0271809"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Suspended Animation (2001)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "The Pavilion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0183639",
+            "page": "http://www.imdb.com/find?q=tt0183639"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Pavilion (1999)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "Jingle All the Way",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0116705",
+            "page": "http://www.imdb.com/find?q=tt0116705"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Jingle All the Way (1996)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "Ed Wood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0109707",
+            "page": "http://www.imdb.com/find?q=tt0109707"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Ed Wood (1994)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Crimson Skies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0277647",
+            "page": "http://www.imdb.com/find?q=tt0277647"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Crimson Skies (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EverQuest II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0428505",
+            "page": "http://www.imdb.com/find?q=tt0428505"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EverQuest II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Forgotten Realms: Demon Stone",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0412737",
+            "page": "http://www.imdb.com/find?q=tt0412737"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Forgotten Realms: Demon Stone (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Heretic II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0366566",
+            "page": "http://www.imdb.com/find?q=tt0366566"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Heretic II (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Transformers: The Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1015475",
+            "page": "http://www.imdb.com/find?q=tt1015475"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Transformers: The Game (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "White Knight Chronicles: International Edition",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1500750",
+            "page": "http://www.imdb.com/find?q=tt1500750"
+          }
+        }
+      ],
+      "section": [
+        "Daniel Riordan",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "White Knight Chronicles: International Edition (video game)"
+    },
+    {
       "body": "Riordan used to play drums in a band with Michael Dorn of Star Trek fame.",
       "links": [],
+      "section": [
+        "Daniel Riordan",
+        "Biographical information"
+      ],
       "text": "Riordan used to play drums in a band with Michael Dorn of Star Trek fame."
     }
   ],

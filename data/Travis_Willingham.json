@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Dragon Ball Z (1989)",
+          "body": "${link_0} (1989)",
           "extra": "(1989)",
           "extra_text": "(1989)",
-          "links": [],
+          "links": [
+            {
+              "body": "Dragon Ball Z",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0121220",
+                "page": "http://www.imdb.com/find?q=tt0121220"
+              }
+            }
+          ],
           "text": "Dragon Ball Z (1989)",
-          "value": "Dragon Ball Z",
+          "value": "${link_0}",
           "value_text": "Dragon Ball Z"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0992184",
+                "page": "http://www.imdb.com/find?q=nm0992184"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Travis_Willingham",
+                "page": "http://en.wikipedia.org/wiki/Travis_Willingham"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.traviswillingham.com/",
+                "page": "http://www.traviswillingham.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/WillingBlam",
+                "page": "https://twitter.com/WillingBlam"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,13 +162,343 @@
   ],
   "paragraphs": [
     {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "The Legend of Korra credits",
+        "Huntsman"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "207. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Beginnings, Part 1",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Beginnings%2c_Part_1",
+            "page": "Beginnings%2c_Part_1"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "The Legend of Korra credits",
+        "Random spirit #2"
+      ],
+      "text": "207. \"Beginnings, Part 1\""
+    },
+    {
+      "body": "307. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Original Airbenders",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Original_Airbenders",
+            "page": "Original_Airbenders"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "The Legend of Korra credits",
+        "Ganbat"
+      ],
+      "text": "307. \"Original Airbenders\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Fullmetal Alchemist",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0421357",
+            "page": "http://www.imdb.com/find?q=tt0421357"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fullmetal Alchemist"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Fullmetal Alchemist Brotherhood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1355642",
+            "page": "http://www.imdb.com/find?q=tt1355642"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fullmetal Alchemist Brotherhood"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Naruto: Shipp\u016bden",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0988824",
+            "page": "http://www.imdb.com/find?q=tt0988824"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Naruto: Shipp\u016bden"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Shelf Life",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2140395",
+            "page": "http://www.imdb.com/find?q=tt2140395"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Shelf Life"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Super Hero Squad Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1388589",
+            "page": "http://www.imdb.com/find?q=tt1388589"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Super Hero Squad Show"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "To Have and to Hold",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2133360",
+            "page": "http://www.imdb.com/find?q=tt2133360"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "To Have and to Hold (2014)"
+    },
+    {
+      "body": "${link_0} (2007; English version)",
+      "links": [
+        {
+          "body": "Vexille",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0970472",
+            "page": "http://www.imdb.com/find?q=tt0970472"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Vexille (2007; English version)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Aliens: Colonial Marines",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1277125",
+            "page": "http://www.imdb.com/find?q=tt1277125"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Aliens: Colonial Marines (video game)"
+    },
+    {
+      "body": "${link_0} (video game; English version)",
+      "links": [
+        {
+          "body": "Binary Domain",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2229051",
+            "page": "http://www.imdb.com/find?q=tt2229051"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Binary Domain (video game; English version)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fullmetal Alchemist 2: Curse of the Crimson Elixir",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0479923",
+            "page": "http://www.imdb.com/find?q=tt0479923"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fullmetal Alchemist 2: Curse of the Crimson Elixir (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel Super Hero Squad",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1446103",
+            "page": "http://www.imdb.com/find?q=tt1446103"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel Super Hero Squad (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "The World Ends With You",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1239317",
+            "page": "http://www.imdb.com/find?q=tt1239317"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The World Ends With You (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Transformers: Dark of the Moon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1853725",
+            "page": "http://www.imdb.com/find?q=tt1853725"
+          }
+        }
+      ],
+      "section": [
+        "Travis Willingham",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Transformers: Dark of the Moon (video game)"
+    },
+    {
       "body": "Travis Willingham married fellow voice actor Laura Bailey on September 25, 2011.",
       "links": [],
+      "section": [
+        "Travis Willingham",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Travis Willingham married fellow voice actor Laura Bailey on September 25, 2011."
     },
     {
       "body": "Willingham works for anime series and video games at Funimation Entertainment/OkraTron 5000 and Viz Media/Studiopolis. He voiced Roy Mustang in Fullmetal Alchemist, Knuckles the Echidna in the Sonic series, Portgas D. Ace in One Piece, Takashi Morinozuka in Ouran High School Host Club, and Zetsu in Naruto: Shippuden.",
       "links": [],
+      "section": [
+        "Travis Willingham",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Willingham works for anime series and video games at Funimation Entertainment/OkraTron 5000 and Viz Media/Studiopolis. He voiced Roy Mustang in Fullmetal Alchemist, Knuckles the Echidna in the Sonic series, Portgas D. Ace in One Piece, Takashi Morinozuka in Ouran High School Host Club, and Zetsu in Naruto: Shippuden."
     }
   ],

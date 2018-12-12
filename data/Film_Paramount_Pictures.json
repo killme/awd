@@ -3,28 +3,32 @@
     {
       "body": "Protected",
       "target": {
-        "href": "Category_Protected",
+        "external": false,
+        "href": "/wiki/Category_Protected",
         "page": "Category_Protected"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Companies",
       "target": {
-        "href": "Category_Companies",
+        "external": false,
+        "href": "/wiki/Category_Companies",
         "page": "Category_Companies"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -32,14 +36,69 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "This is the logo for Paramount Pictures.",
-      "links": [],
-      "text": "This is the logo for Paramount Pictures."
-    },
-    {
       "body": "Paramount Pictures is an American film production and distribution company located at 5555 Melrose Avenue in Hollywood, California. Founded by the Hungarian born Adolf Zukor in 1912, it is currently owned by media conglomerate Viacom, and is America's oldest existing film studio. It is also the last major film studio still headquartered in the Hollywood district of Los Angeles. Paramount is consistently ranked as one of the top-grossing movie studios.",
       "links": [],
+      "section": [
+        "Paramount Pictures"
+      ],
       "text": "Paramount Pictures is an American film production and distribution company located at 5555 Melrose Avenue in Hollywood, California. Founded by the Hungarian born Adolf Zukor in 1912, it is currently owned by media conglomerate Viacom, and is America's oldest existing film studio. It is also the last major film studio still headquartered in the Hollywood district of Los Angeles. Paramount is consistently ranked as one of the top-grossing movie studios."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Nickelodeon Movies",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Nickelodeon_Movies",
+            "page": "Film_Nickelodeon_Movies"
+          }
+        }
+      ],
+      "section": [
+        "Paramount Pictures",
+        "See also"
+      ],
+      "text": "Nickelodeon Movies"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_The_Last_Airbender",
+            "page": "Film_The_Last_Airbender"
+          }
+        }
+      ],
+      "section": [
+        "Paramount Pictures",
+        "See also"
+      ],
+      "text": "The Last Airbender"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wikipedia article",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://en.wikipedia.org/wiki/Paramount_Pictures",
+            "page": "http://en.wikipedia.org/wiki/Paramount_Pictures"
+          }
+        }
+      ],
+      "section": [
+        "Paramount Pictures",
+        "External links"
+      ],
+      "text": "Wikipedia article"
     }
   ],
   "source": {

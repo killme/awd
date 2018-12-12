@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Heart of Steel (1983)",
+          "body": "${link_0} (1983)",
           "extra": "(1983)",
           "extra_text": "(1983)",
-          "links": [],
+          "links": [
+            {
+              "body": "Heart of Steel",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0085657",
+                "page": "http://www.imdb.com/find?q=tt0085657"
+              }
+            }
+          ],
           "text": "Heart of Steel (1983)",
-          "value": "Heart of Steel",
+          "value": "${link_0}",
           "value_text": "Heart of Steel"
         }
       ]
@@ -69,39 +82,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0170550",
+                "page": "http://www.imdb.com/find?q=nm0170550"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Gary_Cole",
+                "page": "http://en.wikipedia.org/wiki/Gary_Cole"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.garycole.net/",
+                "page": "http://www.garycole.net/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/GaryMichaelCole",
+                "page": "https://twitter.com/GaryMichaelCole"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -109,13 +162,1003 @@
   ],
   "paragraphs": [
     {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "The Legend of Korra credits",
+        "Dai Li sergeant"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "The Legend of Korra credits",
+        "Dai Li sergeant"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "The Legend of Korra credits",
+        "Rich man"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "American Gothic",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111880",
+            "page": "http://www.imdb.com/find?q=tt0111880"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Gothic"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Audrey",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2475808",
+            "page": "http://www.imdb.com/find?q=tt2475808"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Audrey"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Batman Beyond",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0147746",
+            "page": "http://www.imdb.com/find?q=tt0147746"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Batman Beyond"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bob's Burgers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1561755",
+            "page": "http://www.imdb.com/find?q=tt1561755"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bob's Burgers"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Crusade",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0149437",
+            "page": "http://www.imdb.com/find?q=tt0149437"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Crusade"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Desperate Housewives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0410975",
+            "page": "http://www.imdb.com/find?q=tt0410975"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Desperate Housewives"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Entourage",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0387199",
+            "page": "http://www.imdb.com/find?q=tt0387199"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Entourage"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Family Affair",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0318886",
+            "page": "http://www.imdb.com/find?q=tt0318886"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Family Affair"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Family Guy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0182576",
+            "page": "http://www.imdb.com/find?q=tt0182576"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Family Guy"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Fatal Vision",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0087244",
+            "page": "http://www.imdb.com/find?q=tt0087244"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Fatal Vision (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "First Steps",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0089147",
+            "page": "http://www.imdb.com/find?q=tt0089147"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "First Steps (TV movie)"
+    },
+    {
+      "body": "${link_0} (TV miniseries)",
+      "links": [
+        {
+          "body": "From the Earth to the Moon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120570",
+            "page": "http://www.imdb.com/find?q=tt0120570"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "From the Earth to the Moon (TV miniseries)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Harvey Birdman, Attorney at Law",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0294097",
+            "page": "http://www.imdb.com/find?q=tt0294097"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Harvey Birdman, Attorney at Law"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kim Possible",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0278866",
+            "page": "http://www.imdb.com/find?q=tt0278866"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kim Possible"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "King of the Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118375",
+            "page": "http://www.imdb.com/find?q=tt0118375"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "King of the Hill"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Miami Vice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086759",
+            "page": "http://www.imdb.com/find?q=tt0086759"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Miami Vice"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Midnight Caller",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0094510",
+            "page": "http://www.imdb.com/find?q=tt0094510"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Midnight Caller"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Monk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312172",
+            "page": "http://www.imdb.com/find?q=tt0312172"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Monk"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Scooby-Doo! Mystery Incorporated",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1660055",
+            "page": "http://www.imdb.com/find?q=tt1660055"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Scooby-Doo! Mystery Incorporated"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Son of the Morning Star",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0102962",
+            "page": "http://www.imdb.com/find?q=tt0102962"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Son of the Morning Star"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Suits",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1632701",
+            "page": "http://www.imdb.com/find?q=tt1632701"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Suits"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "The List",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2706420",
+            "page": "http://www.imdb.com/find?q=tt2706420"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The List (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Penguins of Madagascar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0892700",
+            "page": "http://www.imdb.com/find?q=tt0892700"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Penguins of Madagascar"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Practice",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118437",
+            "page": "http://www.imdb.com/find?q=tt0118437"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Practice"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The West Wing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200276",
+            "page": "http://www.imdb.com/find?q=tt0200276"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The West Wing"
+    },
+    {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Vital Signs",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0092177",
+            "page": "http://www.imdb.com/find?q=tt0092177"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Vital Signs (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wanted",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0289016",
+            "page": "http://www.imdb.com/find?q=tt0289016"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wanted"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Cotton",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2063626",
+            "page": "http://www.imdb.com/find?q=tt2063626"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cotton (2014)"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Vamp U",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1727885",
+            "page": "http://www.imdb.com/find?q=tt1727885"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Vamp U (2013)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Hop",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1411704",
+            "page": "http://www.imdb.com/find?q=tt1411704"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hop (2011)"
+    },
+    {
+      "body": "${link_0} (2010; video short)",
+      "links": [
+        {
+          "body": "Weird: The Al Yankovic Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1630285",
+            "page": "http://www.imdb.com/find?q=tt1630285"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Weird: The Al Yankovic Story (2010; video short)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "The Joneses",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1285309",
+            "page": "http://www.imdb.com/find?q=tt1285309"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Joneses (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Forever Strong",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0840322",
+            "page": "http://www.imdb.com/find?q=tt0840322"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Forever Strong (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Breach",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0401997",
+            "page": "http://www.imdb.com/find?q=tt0401997"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Breach (2007)"
+    },
+    {
+      "body": "${link_0} (2007; short)",
+      "links": [
+        {
+          "body": "My Wife Is Retarded",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0948455",
+            "page": "http://www.imdb.com/find?q=tt0948455"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "My Wife Is Retarded (2007; short)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Cry_Wolf",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0384286",
+            "page": "http://www.imdb.com/find?q=tt0384286"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Cry_Wolf (2005)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "The Rising Place",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0201020",
+            "page": "http://www.imdb.com/find?q=tt0201020"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Rising Place (2001)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Office Space",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0151804",
+            "page": "http://www.imdb.com/find?q=tt0151804"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Office Space (1999)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "A Simple Plan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120324",
+            "page": "http://www.imdb.com/find?q=tt0120324"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Simple Plan (1998)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "I'll Be Home for Christmas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0155753",
+            "page": "http://www.imdb.com/find?q=tt0155753"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "I'll Be Home for Christmas (1998)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Gang Related",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118900",
+            "page": "http://www.imdb.com/find?q=tt0118900"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Gang Related (1997)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "A Very Brady Sequel",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118073",
+            "page": "http://www.imdb.com/find?q=tt0118073"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "A Very Brady Sequel (1996)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "The Brady Bunch Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0112572",
+            "page": "http://www.imdb.com/find?q=tt0112572"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Brady Bunch Movie (1995)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "In the Line of Fire",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0107206",
+            "page": "http://www.imdb.com/find?q=tt0107206"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "In the Line of Fire (1993)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "Lucas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0091445",
+            "page": "http://www.imdb.com/find?q=tt0091445"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Lucas (1986)"
+    },
+    {
+      "body": "${link_0} (TV movie - consultant)",
+      "links": [
+        {
+          "body": "The Brady Bunch in the White House",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0303794",
+            "page": "http://www.imdb.com/find?q=tt0303794"
+          }
+        }
+      ],
+      "section": [
+        "Gary Cole",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "The Brady Bunch in the White House (TV movie - consultant)"
+    },
+    {
       "body": "Cole was raised in Rolling Meadows, Illinois. His father was a school administrative assistant and his mother was a director of finance. While attending Rolling Meadows High School, Cole made his acting debut as Snoopy in a high school production of You're a Good Man, Charlie Brown. Cole later attended Illinois State University, where he studied theater with actors Laurie Metcalf and John Malkovich.",
       "links": [],
+      "section": [
+        "Gary Cole",
+        "Biographical information",
+        "Early life"
+      ],
       "text": "Cole was raised in Rolling Meadows, Illinois. His father was a school administrative assistant and his mother was a director of finance. While attending Rolling Meadows High School, Cole made his acting debut as Snoopy in a high school production of You're a Good Man, Charlie Brown. Cole later attended Illinois State University, where he studied theater with actors Laurie Metcalf and John Malkovich."
     },
     {
       "body": "Cole began his professional career in 1983 as a stage actor in Chicago, where he joined the ensemble of the Steppenwolf Theatre Company in 1985. He also appeared in several Off-Broadway productions in New York City. Between 1988 and 1991, Cole became popular on TV for playing the part of Jack \"Nighthawk\" Killian in the series Midnight Caller. In 1999, Cole starred in the film Office Space, in which he portrayed the sadistic office supervisor Bill Lumbergh. He also played the title character in the Adult Swim series Harvey Birdman: Attorney at Law.",
       "links": [],
+      "section": [
+        "Gary Cole",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Cole began his professional career in 1983 as a stage actor in Chicago, where he joined the ensemble of the Steppenwolf Theatre Company in 1985. He also appeared in several Off-Broadway productions in New York City. Between 1988 and 1991, Cole became popular on TV for playing the part of Jack \"Nighthawk\" Killian in the series Midnight Caller. In 1999, Cole starred in the film Office Space, in which he portrayed the sadistic office supervisor Bill Lumbergh. He also played the title character in the Adult Swim series Harvey Birdman: Attorney at Law."
     }
   ],

@@ -3,7 +3,8 @@
     {
       "body": "Images",
       "target": {
-        "href": "Category_Images",
+        "external": false,
+        "href": "/wiki/Category_Images",
         "page": "Category_Images"
       }
     }
@@ -13,12 +14,29 @@
     {
       "body": "This category is for images used in main page sliders.",
       "links": [],
+      "section": [
+        "Category:Slider Images"
+      ],
       "text": "This category is for images used in main page sliders."
     },
     {
-      "body": "All items (1)",
-      "links": [],
-      "text": "All items (1)"
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Category:Main Page Slider Images",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Category_Main_Page_Slider_Images",
+            "page": "Category_Main_Page_Slider_Images"
+          }
+        }
+      ],
+      "section": [
+        "Category:Slider Images",
+        "M"
+      ],
+      "text": "Category:Main Page Slider Images"
     }
   ],
   "source": {

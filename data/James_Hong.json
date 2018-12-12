@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Soldier of Fortune (1955)",
+          "body": "${link_0} (1955)",
           "extra": "(1955)",
           "extra_text": "(1955)",
-          "links": [],
+          "links": [
+            {
+              "body": "Soldier of Fortune",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0048640",
+                "page": "http://www.imdb.com/find?q=tt0048640"
+              }
+            }
+          ],
           "text": "Soldier of Fortune (1955)",
-          "value": "Soldier of Fortune",
+          "value": "${link_0}",
           "value_text": "Soldier of Fortune"
         }
       ]
@@ -55,57 +68,117 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0393222",
+                "page": "http://www.imdb.com/find?q=nm0393222"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/James_Hong",
+                "page": "http://en.wikipedia.org/wiki/James_Hong"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/JamesHongPage",
+                "page": "https://www.facebook.com/JamesHongPage"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/102538223440341045096/posts",
+                "page": "https://plus.google.com/102538223440341045096/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.jameshong.com/",
+                "page": "http://www.jameshong.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/TheJamesHong",
+                "page": "https://twitter.com/TheJamesHong"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -113,29 +186,728 @@
   ],
   "paragraphs": [
     {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Avatar: The Last Airbender credits",
+        "Tashi"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Avatar: The Last Airbender credits",
+        "Tong"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "205. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Avatar Day",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar_Day",
+            "page": "Avatar_Day"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "205. \"Avatar Day\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "A.N.T. Farm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1772752",
+            "page": "http://www.imdb.com/find?q=tt1772752"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "A.N.T. Farm"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Chowder",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1140100",
+            "page": "http://www.imdb.com/find?q=tt1140100"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Chowder"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "I'm in the Band",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1433495",
+            "page": "http://www.imdb.com/find?q=tt1433495"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "I'm in the Band"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Jackie Chan Adventures",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0259141",
+            "page": "http://www.imdb.com/find?q=tt0259141"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Jackie Chan Adventures"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Kung Fu Panda: Legends of Awesomeness",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1545214",
+            "page": "http://www.imdb.com/find?q=tt1545214"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Kung Fu Panda: Legends of Awesomeness"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Super Robot Monkey Team Hyperforce Go!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0423746",
+            "page": "http://www.imdb.com/find?q=tt0423746"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Super Robot Monkey Team Hyperforce Go!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Big Bang Theory",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0898266",
+            "page": "http://www.imdb.com/find?q=tt0898266"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Big Bang Theory"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Division",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0272376",
+            "page": "http://www.imdb.com/find?q=tt0272376"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Division"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The West Wing",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0200276",
+            "page": "http://www.imdb.com/find?q=tt0200276"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The West Wing"
+    },
+    {
+      "body": "${link_0} (2016)",
+      "links": [
+        {
+          "body": "Kung Fu Panda 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2267968",
+            "page": "http://www.imdb.com/find?q=tt2267968"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kung Fu Panda 3 (2016)"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "R.I.P.D.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0790736",
+            "page": "http://www.imdb.com/find?q=tt0790736"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "R.I.P.D. (2013)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Kung Fu Panda 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1302011",
+            "page": "http://www.imdb.com/find?q=tt1302011"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kung Fu Panda 2 (2011)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Kung Fu Panda",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0441773",
+            "page": "http://www.imdb.com/find?q=tt0441773"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kung Fu Panda (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Balls of Fury",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0424823",
+            "page": "http://www.imdb.com/find?q=tt0424823"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Balls of Fury (2007)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "American Fusion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0448989",
+            "page": "http://www.imdb.com/find?q=tt0448989"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "American Fusion (2005)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Forbidden Warrior",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0371675",
+            "page": "http://www.imdb.com/find?q=tt0371675"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Forbidden Warrior (2005)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Hero",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0299977",
+            "page": "http://www.imdb.com/find?q=tt0299977"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Hero (2001)"
+    },
+    {
+      "body": "${link_0} (1998)",
+      "links": [
+        {
+          "body": "Mulan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120762",
+            "page": "http://www.imdb.com/find?q=tt0120762"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Mulan (1998)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Tank Girl",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0114614",
+            "page": "http://www.imdb.com/find?q=tt0114614"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tank Girl (1995)"
+    },
+    {
+      "body": "${link_0} (1986)",
+      "links": [
+        {
+          "body": "Big Trouble in Little China",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0090728",
+            "page": "http://www.imdb.com/find?q=tt0090728"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Big Trouble in Little China (1986)"
+    },
+    {
+      "body": "${link_0} (1982)",
+      "links": [
+        {
+          "body": "Blade Runner",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0083658",
+            "page": "http://www.imdb.com/find?q=tt0083658"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Blade Runner (1982)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Alpha Protocol",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1249406",
+            "page": "http://www.imdb.com/find?q=tt1249406"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Alpha Protocol (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Call of Duty: Black Ops",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1632479",
+            "page": "http://www.imdb.com/find?q=tt1632479"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Call of Duty: Black Ops (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Def Jam: Icon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0943269",
+            "page": "http://www.imdb.com/find?q=tt0943269"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Def Jam: Icon (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Mercenaries: Playground of Destruction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0442688",
+            "page": "http://www.imdb.com/find?q=tt0442688"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mercenaries: Playground of Destruction (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Project: Snowblind",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0442696",
+            "page": "http://www.imdb.com/find?q=tt0442696"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Project: Snowblind (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "True Crime: New York City",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462582",
+            "page": "http://www.imdb.com/find?q=tt0462582"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "True Crime: New York City (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "True Crime: Streets of LA",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0378918",
+            "page": "http://www.imdb.com/find?q=tt0378918"
+          }
+        }
+      ],
+      "section": [
+        "James Hong",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "True Crime: Streets of LA (video game)"
+    },
+    {
       "body": "Hong's father, Frank W. Hong, was a restaurant owner originally from Hong Kong. When Hong was five, the Hong family moved back to Hong Kong, as his father believed the family had become too \"Americanized\". Five years later, however, the family returned to the United States to escape the impending World War II. Hong's English had suffered while away, and so he essentially began his entire education anew. This led to extreme loneliness despite the fact he had six siblings, but it also lead to a strong interest in acting and performing. \"I spent a lot of time talking to myself,\" Hong recalls. He joined a drama club in junior high school. Though he had talent and passion, he was never really recognized for his acting throughout his high school career.",
       "links": [],
+      "section": [
+        "James Hong",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Hong's father, Frank W. Hong, was a restaurant owner originally from Hong Kong. When Hong was five, the Hong family moved back to Hong Kong, as his father believed the family had become too \"Americanized\". Five years later, however, the family returned to the United States to escape the impending World War II. Hong's English had suffered while away, and so he essentially began his entire education anew. This led to extreme loneliness despite the fact he had six siblings, but it also lead to a strong interest in acting and performing. \"I spent a lot of time talking to myself,\" Hong recalls. He joined a drama club in junior high school. Though he had talent and passion, he was never really recognized for his acting throughout his high school career."
     },
     {
       "body": "He attended the University of Minnesota, pursuing a degree in civil engineering. He still retained his passion for acting and formed a comedy duo with his friend Don Parker called \"Hong and Parker.\" A member of the National Guard, Hong was sent to Alabama during the Korean War. His performing career was significantly propelled by self-organized performances for the troops.",
       "links": [],
+      "section": [
+        "James Hong",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "He attended the University of Minnesota, pursuing a degree in civil engineering. He still retained his passion for acting and formed a comedy duo with his friend Don Parker called \"Hong and Parker.\" A member of the National Guard, Hong was sent to Alabama during the Korean War. His performing career was significantly propelled by self-organized performances for the troops."
     },
     {
       "body": "After the war, Hong moved west and finished his civil engineering degree at the University of Southern California. The close proximity to major film studios allowed him to appear on the sets of early game shows. His dream of a career in acting became a reality when he formed an arrangement with an agent whom he knew through the Chinese Social Club. Apparently, the agent was convinced to represent Hong after seeing him perform a stunning impression of the host for the game show You Bet Your Life. Now, he serves as one of the most recognizable Chinese actors in Hollywood.",
       "links": [],
+      "section": [
+        "James Hong",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "After the war, Hong moved west and finished his civil engineering degree at the University of Southern California. The close proximity to major film studios allowed him to appear on the sets of early game shows. His dream of a career in acting became a reality when he formed an arrangement with an agent whom he knew through the Chinese Social Club. Apparently, the agent was convinced to represent Hong after seeing him perform a stunning impression of the host for the game show You Bet Your Life. Now, he serves as one of the most recognizable Chinese actors in Hollywood."
     },
     {
       "body": "In 1967, he married actress Pearl Huang, whom he later divorced in 1973. In 1977, he married Susan (Yip) Hong. The two are married to this day and have a daughter, April, who is an accomplished actress.",
       "links": [],
+      "section": [
+        "James Hong",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "In 1967, he married actress Pearl Huang, whom he later divorced in 1973. In 1977, he married Susan (Yip) Hong. The two are married to this day and have a daughter, April, who is an accomplished actress."
     },
     {
       "body": "James Hong's acting career officially began in 1955, in a film called Soldier of Fortune. Soon after, he quit his job as a road engineer for Los Angeles County to pursue acting full-time. He went on to star in many famous films such as Blade Runner, Mulan, and Kung Fu Panda and appeared in countless TV series. Since most of his early television roles were minor, he would often make recurring appearances on a show, portraying a different character each time. He is known for his distinct voice and has done numerous voice-over performances. Described as \"gruff but gentle\", his voice is very versatile and differs role to role\u2014from the cynical Chi Fu in Mulan to the stone-faced Chinese military leader in Mercenaries, to the exuberant Mr. Ping in Kung Fu Panda, Kung Fu Panda 2, and Kung Fu Panda 3.",
       "links": [],
+      "section": [
+        "James Hong",
+        "Biographical information",
+        "Career"
+      ],
       "text": "James Hong's acting career officially began in 1955, in a film called Soldier of Fortune. Soon after, he quit his job as a road engineer for Los Angeles County to pursue acting full-time. He went on to star in many famous films such as Blade Runner, Mulan, and Kung Fu Panda and appeared in countless TV series. Since most of his early television roles were minor, he would often make recurring appearances on a show, portraying a different character each time. He is known for his distinct voice and has done numerous voice-over performances. Described as \"gruff but gentle\", his voice is very versatile and differs role to role\u2014from the cynical Chi Fu in Mulan to the stone-faced Chinese military leader in Mercenaries, to the exuberant Mr. Ping in Kung Fu Panda, Kung Fu Panda 2, and Kung Fu Panda 3."
+    },
+    {
+      "body": "2011: Won an Annie Award for Kung Fu Panda Holiday (Best Voice Acting in an Animated Television Production)",
+      "links": [],
+      "section": [
+        "James Hong",
+        "Awards"
+      ],
+      "text": "2011: Won an Annie Award for Kung Fu Panda Holiday (Best Voice Acting in an Animated Television Production)"
+    },
+    {
+      "body": "2007: Won a Las Vegas Film Critics Society Lifeteime Achievement Award",
+      "links": [],
+      "section": [
+        "James Hong",
+        "Awards"
+      ],
+      "text": "2007: Won a Las Vegas Film Critics Society Lifeteime Achievement Award"
+    },
+    {
+      "body": "Hong has been a strong proponent of racial equality in Hollywood. He has had experience being cast in negative stereotypical roles and has since lobbied to give Asian-Americans better opportunities in acting. Even today, he feels things have not significantly improved from when he first started, but he still feels optimistic about the prospect of achieving better working environment for Asian-American actors:\n \"It's coming anyway, whether I do it or somebody else. I've waited fifty-five years, I can wait a few more.\"",
+      "links": [],
+      "section": [
+        "James Hong",
+        "Trivia"
+      ],
+      "text": "Hong has been a strong proponent of racial equality in Hollywood. He has had experience being cast in negative stereotypical roles and has since lobbied to give Asian-Americans better opportunities in acting. Even today, he feels things have not significantly improved from when he first started, but he still feels optimistic about the prospect of achieving better working environment for Asian-American actors:\n \"It's coming anyway, whether I do it or somebody else. I've waited fifty-five years, I can wait a few more.\""
+    },
+    {
+      "body": "\"It's coming anyway, whether I do it or somebody else. I've waited fifty-five years, I can wait a few more.\"",
+      "links": [],
+      "section": [
+        "James Hong",
+        "Trivia"
+      ],
+      "text": "\"It's coming anyway, whether I do it or somebody else. I've waited fifty-five years, I can wait a few more.\""
+    },
+    {
+      "body": "Hong is one of the founders of the East-West Players, the oldest Asian American theater in Los Angeles.",
+      "links": [],
+      "section": [
+        "James Hong",
+        "Trivia"
+      ],
+      "text": "Hong is one of the founders of the East-West Players, the oldest Asian American theater in Los Angeles."
+    },
+    {
+      "body": "He also served as president of the Association of Asian Pacific American Artists.",
+      "links": [],
+      "section": [
+        "James Hong",
+        "Trivia"
+      ],
+      "text": "He also served as president of the Association of Asian Pacific American Artists."
     }
   ],
   "source": {

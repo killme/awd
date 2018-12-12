@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Last Summer (1969)",
+          "body": "${link_0} (1969)",
           "extra": "(1969)",
           "extra_text": "(1969)",
-          "links": [],
+          "links": [
+            {
+              "body": "Last Summer",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0064573",
+                "page": "http://www.imdb.com/find?q=tt0064573"
+              }
+            }
+          ],
           "text": "Last Summer (1969)",
-          "value": "Last Summer",
+          "value": "${link_0}",
           "value_text": "Last Summer"
         }
       ]
@@ -55,30 +68,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0001117",
+                "page": "http://www.imdb.com/find?q=nm0001117"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Bruce_Davison",
+                "page": "http://en.wikipedia.org/wiki/Bruce_Davison"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.brucedavison.com/",
+                "page": "http://www.brucedavison.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -86,29 +129,717 @@
   ],
   "paragraphs": [
     {
+      "body": "302. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebirth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebirth",
+            "page": "Rebirth"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "The Legend of Korra credits",
+        "Zuko"
+      ],
+      "text": "302. \"Rebirth\""
+    },
+    {
+      "body": "303. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Earth Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Earth_Queen",
+            "page": "The_Earth_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "The Legend of Korra credits",
+        "Zuko"
+      ],
+      "text": "303. \"The Earth Queen\""
+    },
+    {
+      "body": "304. \"${link_0}\"",
+      "links": [
+        {
+          "body": "In Harm's Way",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/In_Harm%27s_Way",
+            "page": "In_Harm%27s_Way"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "The Legend of Korra credits",
+        "Zuko"
+      ],
+      "text": "304. \"In Harm's Way\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "The Legend of Korra credits",
+        "Zuko"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "311. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Ultimatum",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Ultimatum",
+            "page": "The_Ultimatum"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "The Legend of Korra credits",
+        "Zuko"
+      ],
+      "text": "311. \"The Ultimatum\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Venom of the Red Lotus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Venom_of_the_Red_Lotus",
+            "page": "Venom_of_the_Red_Lotus"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "The Legend of Korra credits",
+        "Zuko"
+      ],
+      "text": "313. \"Venom of the Red Lotus\""
+    },
+    {
+      "body": "310. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Long Live the Queen",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Long_Live_the_Queen",
+            "page": "Long_Live_the_Queen"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "The Legend of Korra credits",
+        "Guard"
+      ],
+      "text": "310. \"Long Live the Queen\""
+    },
+    {
+      "body": "${link_0} (2014; short)",
+      "links": [
+        {
+          "body": "Elwood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1987559",
+            "page": "http://www.imdb.com/find?q=tt1987559"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Elwood (2014; short)"
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Get a Job",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1468846",
+            "page": "http://www.imdb.com/find?q=tt1468846"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Get a Job (2014)"
+    },
+    {
+      "body": "${link_0} (2012)",
+      "links": [
+        {
+          "body": "Stealing Roses",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1965115",
+            "page": "http://www.imdb.com/find?q=tt1965115"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Stealing Roses (2012)"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Camp Hell",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1047449",
+            "page": "http://www.imdb.com/find?q=tt1047449"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Camp Hell (2010)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Passengers",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1298713",
+            "page": "http://www.imdb.com/find?q=tt1298713"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Passengers (2009)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Touched",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0425548",
+            "page": "http://www.imdb.com/find?q=tt0425548"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Touched (2005)"
+    },
+    {
+      "body": "${link_0} (2004; short)",
+      "links": [
+        {
+          "body": "On the Couch",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0416089",
+            "page": "http://www.imdb.com/find?q=tt0416089"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "On the Couch (2004; short)"
+    },
+    {
+      "body": "${link_0} (2001; short)",
+      "links": [
+        {
+          "body": "Shy Guy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0323969",
+            "page": "http://www.imdb.com/find?q=tt0323969"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Shy Guy (2001; short)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "X-Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120903",
+            "page": "http://www.imdb.com/find?q=tt0120903"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "X-Men (2000)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "The Crucible",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115988",
+            "page": "http://www.imdb.com/find?q=tt0115988"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Crucible (1996)"
+    },
+    {
+      "body": "${link_0} (1993)",
+      "links": [
+        {
+          "body": "Short Cuts",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0108122",
+            "page": "http://www.imdb.com/find?q=tt0108122"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Short Cuts (1993)"
+    },
+    {
+      "body": "${link_0} (1989)",
+      "links": [
+        {
+          "body": "Longtime Companion",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0100049",
+            "page": "http://www.imdb.com/find?q=tt0100049"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Longtime Companion (1989)"
+    },
+    {
+      "body": "${link_0} (1984; short)",
+      "links": [
+        {
+          "body": "Access All Areas",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3727686",
+            "page": "http://www.imdb.com/find?q=tt3727686"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Access All Areas (1984; short)"
+    },
+    {
+      "body": "${link_0} (1981)",
+      "links": [
+        {
+          "body": "High Risk",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0082516",
+            "page": "http://www.imdb.com/find?q=tt0082516"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "High Risk (1981)"
+    },
+    {
+      "body": "${link_0} (1976)",
+      "links": [
+        {
+          "body": "Grand Jury",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0074583",
+            "page": "http://www.imdb.com/find?q=tt0074583"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Grand Jury (1976)"
+    },
+    {
+      "body": "${link_0} (1973; short)",
+      "links": [
+        {
+          "body": "Peege",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0318550",
+            "page": "http://www.imdb.com/find?q=tt0318550"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Peege (1973; short)"
+    },
+    {
+      "body": "${link_0} (1970)",
+      "links": [
+        {
+          "body": "The Strawberry Statement",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0066415",
+            "page": "http://www.imdb.com/find?q=tt0066415"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Strawberry Statement (1970)"
+    },
+    {
+      "body": "${link_0} (TV movie - director)",
+      "links": [
+        {
+          "body": "Bigfoot",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1876261",
+            "page": "http://www.imdb.com/find?q=tt1876261"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Bigfoot (TV movie - director)"
+    },
+    {
+      "body": "${link_0} (director)",
+      "links": [
+        {
+          "body": "Harry and the Hendersons",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0098818",
+            "page": "http://www.imdb.com/find?q=tt0098818"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Harry and the Hendersons (director)"
+    },
+    {
+      "body": "${link_0} (TV miniseries - field assistant)",
+      "links": [
+        {
+          "body": "Heart of Africa",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0320865",
+            "page": "http://www.imdb.com/find?q=tt0320865"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Heart of Africa (TV miniseries - field assistant)"
+    },
+    {
+      "body": "${link_0} (TV movie - co-producer)",
+      "links": [
+        {
+          "body": "Lathe of Heaven",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0290230",
+            "page": "http://www.imdb.com/find?q=tt0290230"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Lathe of Heaven (TV movie - co-producer)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "Mame",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0071803",
+            "page": "http://www.imdb.com/find?q=tt0071803"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mame (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (TV movie - director)",
+      "links": [
+        {
+          "body": "Off Season",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0287603",
+            "page": "http://www.imdb.com/find?q=tt0287603"
+          }
+        }
+      ],
+      "section": [
+        "Bruce Davison",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Off Season (TV movie - director)"
+    },
+    {
       "body": "Davison was born the son of Marian E. (n\u00e9e Holmes), a secretary, and Clair W. Davison, a musician, architect, and draftsman for the Army Engineers. His parents divorced when he was three years old, and he was raised mainly by his mother but also spent weekends with his father. He graduated in 1964 from Marple Newtown Senior High School and entered Penn State as an art major but stumbled into acting when he accompanied a friend to an audition. He attended NYU's Graduate Acting Program, graduating in 1969.",
       "links": [],
+      "section": [
+        "Bruce Davison",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Davison was born the son of Marian E. (n\u00e9e Holmes), a secretary, and Clair W. Davison, a musician, architect, and draftsman for the Army Engineers. His parents divorced when he was three years old, and he was raised mainly by his mother but also spent weekends with his father. He graduated in 1964 from Marple Newtown Senior High School and entered Penn State as an art major but stumbled into acting when he accompanied a friend to an audition. He attended NYU's Graduate Acting Program, graduating in 1969."
     },
     {
       "body": "Davison married Michele Correy on April 30, 2006, and they have a daughter, Sophia Lucinda Davison, who was born May 29, 2006. They reside in Los Angeles, California. Davison also has a son, Ethan, born April 5, 1996, from a previous marriage to fellow actor Lisa Pelikan.",
       "links": [],
+      "section": [
+        "Bruce Davison",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Davison married Michele Correy on April 30, 2006, and they have a daughter, Sophia Lucinda Davison, who was born May 29, 2006. They reside in Los Angeles, California. Davison also has a son, Ethan, born April 5, 1996, from a previous marriage to fellow actor Lisa Pelikan."
     },
     {
       "body": "Davison made his Broadway debut in Tiger at the Gates in 1968. He also appeared as John Merrick in The Elephant Man and in The Glass Menagerie opposite Jessica Tandy. Davison was one of a quartet of newcomers including Barbara Hershey, Richard Thomas, and Catherine Burns when he made his film debut in Last Summer. He performed opposite Kim Darby in a film about peaceful student protest and its violent outcome, The Strawberry Statement. Two years later, he played the title role in Willard. He appeared as Dean Torrence opposite Richard Hatch in the made-for-TV biopic Deadman's Curve, the story of 1960s pop duo Jan & Dean.",
       "links": [],
+      "section": [
+        "Bruce Davison",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Davison made his Broadway debut in Tiger at the Gates in 1968. He also appeared as John Merrick in The Elephant Man and in The Glass Menagerie opposite Jessica Tandy. Davison was one of a quartet of newcomers including Barbara Hershey, Richard Thomas, and Catherine Burns when he made his film debut in Last Summer. He performed opposite Kim Darby in a film about peaceful student protest and its violent outcome, The Strawberry Statement. Two years later, he played the title role in Willard. He appeared as Dean Torrence opposite Richard Hatch in the made-for-TV biopic Deadman's Curve, the story of 1960s pop duo Jan & Dean."
     },
     {
       "body": "In 1990, he portrayed a gay man whose lover is dying of AIDS in Longtime Companion. Davison went on to appear in other movies addressing AIDS, including The Cure and It's My Party. Davison's website states he is a spokesperson for many AIDS-related groups and is a board member of the industry AIDS organization Hollywood Supports.",
       "links": [],
+      "section": [
+        "Bruce Davison",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In 1990, he portrayed a gay man whose lover is dying of AIDS in Longtime Companion. Davison went on to appear in other movies addressing AIDS, including The Cure and It's My Party. Davison's website states he is a spokesperson for many AIDS-related groups and is a board member of the industry AIDS organization Hollywood Supports."
     },
     {
       "body": "He is familiar to movie audiences for Runaway Jury, Apt Pupil, and his role as Senator Robert Kelly in the X-Men movie franchise.",
       "links": [],
+      "section": [
+        "Bruce Davison",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He is familiar to movie audiences for Runaway Jury, Apt Pupil, and his role as Senator Robert Kelly in the X-Men movie franchise."
+    },
+    {
+      "body": "2012: Won a Satellite Award (Outstanding Service in the Entertainment Industry)",
+      "links": [],
+      "section": [
+        "Bruce Davison",
+        "Awards"
+      ],
+      "text": "2012: Won a Satellite Award (Outstanding Service in the Entertainment Industry)"
+    },
+    {
+      "body": "1994: Won a Golden Globe Award for Short Cuts (Best Ensemble Cast)",
+      "links": [],
+      "section": [
+        "Bruce Davison",
+        "Awards"
+      ],
+      "text": "1994: Won a Golden Globe Award for Short Cuts (Best Ensemble Cast)"
+    },
+    {
+      "body": "1993: Won a Venice Film Festival Special Volpi Cup for Short Cuts",
+      "links": [],
+      "section": [
+        "Bruce Davison",
+        "Awards"
+      ],
+      "text": "1993: Won a Venice Film Festival Special Volpi Cup for Short Cuts"
+    },
+    {
+      "body": "1991: Won a Golden Globe Award for Longtime Companion (Best Performance by an Actor in a Supporting Role in a Motion Picture)",
+      "links": [],
+      "section": [
+        "Bruce Davison",
+        "Awards"
+      ],
+      "text": "1991: Won a Golden Globe Award for Longtime Companion (Best Performance by an Actor in a Supporting Role in a Motion Picture)"
+    },
+    {
+      "body": "1991: Won an Independent Spirit Award for Longtime Companion (Best Supporting Male)",
+      "links": [],
+      "section": [
+        "Bruce Davison",
+        "Awards"
+      ],
+      "text": "1991: Won an Independent Spirit Award for Longtime Companion (Best Supporting Male)"
+    },
+    {
+      "body": "1991: Won an NSDC Award for Longtime Companion (Best Supporting Actor)",
+      "links": [],
+      "section": [
+        "Bruce Davison",
+        "Awards"
+      ],
+      "text": "1991: Won an NSDC Award for Longtime Companion (Best Supporting Actor)"
+    },
+    {
+      "body": "1991: Won an NYFCC Award for Longtime Companion (Best Supporting Actor)",
+      "links": [],
+      "section": [
+        "Bruce Davison",
+        "Awards"
+      ],
+      "text": "1991: Won an NYFCC Award for Longtime Companion (Best Supporting Actor)"
     }
   ],
   "source": {

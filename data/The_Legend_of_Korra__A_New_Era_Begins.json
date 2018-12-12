@@ -3,35 +3,40 @@
     {
       "body": "Console games",
       "target": {
-        "href": "Category_Console_games",
+        "external": false,
+        "href": "/wiki/Category_Console_games",
         "page": "Category_Console_games"
       }
     },
     {
       "body": "Legend of Korra",
       "target": {
-        "href": "Category_Legend_of_Korra",
+        "external": false,
+        "href": "/wiki/Category_Legend_of_Korra",
         "page": "Category_Legend_of_Korra"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Video games",
       "target": {
-        "href": "Category_Video_games",
+        "external": false,
+        "href": "/wiki/Category_Video_games",
         "page": "Category_Video_games"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     }
@@ -97,12 +102,22 @@
       "key": "Rating(s)",
       "value": [
         {
-          "body": "ESRB: E10+",
+          "body": "${link_0}: E10+",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "ESRB",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board",
+                "page": "http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board"
+              }
+            }
+          ],
           "text": "ESRB: E10+",
-          "value": "ESRB: E10+",
+          "value": "${link_0}: E10+",
           "value_text": "ESRB: E10+"
         }
       ]
@@ -133,7 +148,8 @@
               "body": "The Legend of Korra (video game)",
               "key": "${link_0}",
               "target": {
-                "href": "The_Legend_of_Korra_(video_game)",
+                "external": false,
+                "href": "/wiki/The_Legend_of_Korra_(video_game)",
                 "page": "The_Legend_of_Korra_(video_game)"
               }
             }
@@ -149,6 +165,9 @@
     {
       "body": "The Legend of Korra: A New Era Begins is a turn-based strategy game for the Nintendo 3DS. It was released on October 28, 2014.",
       "links": [],
+      "section": [
+        "The Legend of Korra: A New Era Begins"
+      ],
       "text": "The Legend of Korra: A New Era Begins is a turn-based strategy game for the Nintendo 3DS. It was released on October 28, 2014."
     },
     {
@@ -158,7 +177,8 @@
           "body": "similarly titled video game",
           "key": "${link_0}",
           "target": {
-            "href": "The_Legend_of_Korra_(video_game)",
+            "external": false,
+            "href": "/wiki/The_Legend_of_Korra_(video_game)",
             "page": "The_Legend_of_Korra_(video_game)"
           }
         },
@@ -166,7 +186,8 @@
           "body": "Two",
           "key": "${link_1}",
           "target": {
-            "href": "Book_Two__Spirits",
+            "external": false,
+            "href": "/wiki/Book_Two__Spirits",
             "page": "Book_Two__Spirits"
           }
         },
@@ -174,7 +195,8 @@
           "body": "Three",
           "key": "${link_2}",
           "target": {
-            "href": "Book_Three__Change",
+            "external": false,
+            "href": "/wiki/Book_Three__Change",
             "page": "Book_Three__Change"
           }
         },
@@ -182,7 +204,8 @@
           "body": "Korra",
           "key": "${link_3}",
           "target": {
-            "href": "Korra",
+            "external": false,
+            "href": "/wiki/Korra",
             "page": "Korra"
           }
         },
@@ -190,7 +213,8 @@
           "body": "spirit portals",
           "key": "${link_4}",
           "target": {
-            "href": "Spirit_portal",
+            "external": false,
+            "href": "/wiki/Spirit_portal",
             "page": "Spirit_portal"
           }
         },
@@ -198,7 +222,8 @@
           "body": "Avatar",
           "key": "${link_5}",
           "target": {
-            "href": "Avatar",
+            "external": false,
+            "href": "/wiki/Avatar",
             "page": "Avatar"
           }
         },
@@ -206,10 +231,15 @@
           "body": "Hundun",
           "key": "${link_6}",
           "target": {
-            "href": "Hundun",
+            "external": false,
+            "href": "/wiki/Hundun",
             "page": "Hundun"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra: A New Era Begins",
+        "Plot"
       ],
       "text": "This title is an alternate adaptation of the story in the similarly titled video game released by PlatinumGames. It takes place between Books Two and Three, as a new evil settles in after Korra reopens the spirit portals. Korra must face off against an ancient enemy of the Avatar, known as Hundun, in order to protect the world from the chaos Hundun wishes to see it descend into."
     },
@@ -220,7 +250,8 @@
           "body": "Mako",
           "key": "${link_0}",
           "target": {
-            "href": "Mako",
+            "external": false,
+            "href": "/wiki/Mako",
             "page": "Mako"
           }
         },
@@ -228,7 +259,8 @@
           "body": "Bolin",
           "key": "${link_1}",
           "target": {
-            "href": "Bolin",
+            "external": false,
+            "href": "/wiki/Bolin",
             "page": "Bolin"
           }
         },
@@ -236,7 +268,8 @@
           "body": "Tenzin",
           "key": "${link_2}",
           "target": {
-            "href": "Tenzin",
+            "external": false,
+            "href": "/wiki/Tenzin",
             "page": "Tenzin"
           }
         },
@@ -244,7 +277,8 @@
           "body": "Lin Beifong",
           "key": "${link_3}",
           "target": {
-            "href": "Lin_Beifong",
+            "external": false,
+            "href": "/wiki/Lin_Beifong",
             "page": "Lin_Beifong"
           }
         },
@@ -252,10 +286,15 @@
           "body": "Kya",
           "key": "${link_4}",
           "target": {
-            "href": "Kya",
+            "external": false,
+            "href": "/wiki/Kya",
             "page": "Kya"
           }
         }
+      ],
+      "section": [
+        "The Legend of Korra: A New Era Begins",
+        "Plot"
       ],
       "text": "In addition to Korra, it is also possible to play as Mako, Bolin, Tenzin, Lin Beifong, and Kya."
     }

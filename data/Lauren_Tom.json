@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Facts of Life (1982)",
+          "body": "${link_0} (1982)",
           "extra": "(1982)",
           "extra_text": "(1982)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Facts of Life",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0078610",
+                "page": "http://www.imdb.com/find?q=tt0078610"
+              }
+            }
+          ],
           "text": "The Facts of Life (1982)",
-          "value": "The Facts of Life",
+          "value": "${link_0}",
           "value_text": "The Facts of Life"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0866300",
+                "page": "http://www.imdb.com/find?q=nm0866300"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Lauren_Tom",
+                "page": "http://en.wikipedia.org/wiki/Lauren_Tom"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.laurentom.com/",
+                "page": "http://www.laurentom.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/LaurenTom9000",
+                "page": "https://twitter.com/LaurenTom9000"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,28 +148,553 @@
   ],
   "paragraphs": [
     {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "City of Walls and Secrets",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/City_of_Walls_and_Secrets",
+            "page": "City_of_Walls_and_Secrets"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Avatar: The Last Airbender credits",
+        "Joo Dee"
+      ],
+      "text": "214. \"City of Walls and Secrets\""
+    },
+    {
+      "body": "217. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Lake Laogai",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Lake_Laogai_(episode)",
+            "page": "Lake_Laogai_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Avatar: The Last Airbender credits",
+        "Joo Dee"
+      ],
+      "text": "217. \"Lake Laogai\""
+    },
+    {
+      "body": "114. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Fortuneteller",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Fortuneteller",
+            "page": "The_Fortuneteller"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "114. \"The Fortuneteller\""
+    },
+    {
+      "body": "214. \"${link_0}\"",
+      "links": [
+        {
+          "body": "City of Walls and Secrets",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/City_of_Walls_and_Secrets",
+            "page": "City_of_Walls_and_Secrets"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "214. \"City of Walls and Secrets\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0312109",
+            "page": "http://www.imdb.com/find?q=tt0312109"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Codename: Kids Next Door"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Futurama",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0149460",
+            "page": "http://www.imdb.com/find?q=tt0149460"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Futurama"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "King of the Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118375",
+            "page": "http://www.imdb.com/find?q=tt0118375"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "King of the Hill"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Men in Trees",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0805664",
+            "page": "http://www.imdb.com/find?q=tt0805664"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Men in Trees"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Replacements",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0816401",
+            "page": "http://www.imdb.com/find?q=tt0816401"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Replacements"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "W.I.T.C.H.",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0383718",
+            "page": "http://www.imdb.com/find?q=tt0383718"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "W.I.T.C.H."
+    },
+    {
+      "body": "${link_0} (2014)",
+      "links": [
+        {
+          "body": "Chasing Eagle Rock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1891766",
+            "page": "http://www.imdb.com/find?q=tt1891766"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Chasing Eagle Rock (2014)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "In Good Company",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0385267",
+            "page": "http://www.imdb.com/find?q=tt0385267"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "In Good Company (2004)"
+    },
+    {
+      "body": "${link_0} (2004)",
+      "links": [
+        {
+          "body": "Teacher's Pet",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0350194",
+            "page": "http://www.imdb.com/find?q=tt0350194"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Teacher's Pet (2004)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Bad Santa",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0307987",
+            "page": "http://www.imdb.com/find?q=tt0307987"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bad Santa (2003)"
+    },
+    {
+      "body": "${link_0} (2003)",
+      "links": [
+        {
+          "body": "Manhood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0316219",
+            "page": "http://www.imdb.com/find?q=tt0316219"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Manhood (2003)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "The Wild Thornberrys Movie",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0282120",
+            "page": "http://www.imdb.com/find?q=tt0282120"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wild Thornberrys Movie (2002)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Catfish in Black Bean Sauce",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0162903",
+            "page": "http://www.imdb.com/find?q=tt0162903"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Catfish in Black Bean Sauce (2006)"
+    },
+    {
+      "body": "${link_0}\u00a0(video game)",
+      "links": [
+        {
+          "body": "Codename: Kids Next Door Operation - Video Game",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0857206",
+            "page": "http://www.imdb.com/find?q=tt0857206"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Codename: Kids Next Door Operation - Video Game\u00a0(video game)"
+    },
+    {
+      "body": "${link_0}\u00a0(video game)",
+      "links": [
+        {
+          "body": "Command & Conquer: Generals Zero Hour",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0386384",
+            "page": "http://www.imdb.com/find?q=tt0386384"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Command & Conquer: Generals Zero Hour\u00a0(video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "FusionFall",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1363369",
+            "page": "http://www.imdb.com/find?q=tt1363369"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "FusionFall (video game)"
+    },
+    {
+      "body": "${link_0} (soundtrack performer)",
+      "links": [
+        {
+          "body": "Futurama",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0149460",
+            "page": "http://www.imdb.com/find?q=tt0149460"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Futurama (soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (video - soundtrack performer)",
+      "links": [
+        {
+          "body": "Futurama: Bender's Big Score",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0471711",
+            "page": "http://www.imdb.com/find?q=tt0471711"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Futurama: Bender's Big Score (video - soundtrack performer)"
+    },
+    {
+      "body": "${link_0} (video - soundtrack performer)",
+      "links": [
+        {
+          "body": "Mulan II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0279967",
+            "page": "http://www.imdb.com/find?q=tt0279967"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Mulan II (video - soundtrack performer)"
+    },
+    {
+      "body": "${link_0}\u00a0(video game)",
+      "links": [
+        {
+          "body": "Superman: Shadow of Apokolips",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0395274",
+            "page": "http://www.imdb.com/find?q=tt0395274"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Superman: Shadow of Apokolips\u00a0(video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Teen Titans",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0823190",
+            "page": "http://www.imdb.com/find?q=tt0823190"
+          }
+        }
+      ],
+      "section": [
+        "Lauren Tom",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Teen Titans (video game)"
+    },
+    {
       "body": "Tom is the daughter of Nancy, n\u00e9e Dare, and Chan Tom, who worked in the frozen food business. In an article for Detour magazine, Tom described how being teased as a child about her Chinese heritage made her introverted and inspired her to study dancing.",
       "links": [],
+      "section": [
+        "Lauren Tom",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Tom is the daughter of Nancy, n\u00e9e Dare, and Chan Tom, who worked in the frozen food business. In an article for Detour magazine, Tom described how being teased as a child about her Chinese heritage made her introverted and inspired her to study dancing."
     },
     {
       "body": "At the age of seventeen, Tom landed a spot with a touring company of A Chorus Line and was cast in the Broadway production of the show less than a year later. She won an Obie Award for her Off-Broadway acting and was cast in the Broadway shows Hurlyburly and Doonesbury.",
       "links": [],
+      "section": [
+        "Lauren Tom",
+        "Biographical information",
+        "Career"
+      ],
       "text": "At the age of seventeen, Tom landed a spot with a touring company of A Chorus Line and was cast in the Broadway production of the show less than a year later. She won an Obie Award for her Off-Broadway acting and was cast in the Broadway shows Hurlyburly and Doonesbury."
     },
     {
       "body": "Her biggest role to date was as a waitress in the film Cadillac Man. This role led to her being a guest on The Tonight Show with Johnny Carson and she later landed a starring role in the film The Joy Luck Club in 1993, which led to roles in other films such as When a Man Loves a Woman and North.",
       "links": [],
+      "section": [
+        "Lauren Tom",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Her biggest role to date was as a waitress in the film Cadillac Man. This role led to her being a guest on The Tonight Show with Johnny Carson and she later landed a starring role in the film The Joy Luck Club in 1993, which led to roles in other films such as When a Man Loves a Woman and North."
     },
     {
       "body": "Since the mid-1990s, Tom has starred in few films, focusing her work primarily on the voice-over business, with the exceptions of a supporting role in the 2003 hit comedy Bad Santa and the critically-acclaimed 2004 film In Good Company. Lauren Tom's first role in television was that of Miko Wakamatsu on The Facts of Life.",
       "links": [],
+      "section": [
+        "Lauren Tom",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Since the mid-1990s, Tom has starred in few films, focusing her work primarily on the voice-over business, with the exceptions of a supporting role in the 2003 hit comedy Bad Santa and the critically-acclaimed 2004 film In Good Company. Lauren Tom's first role in television was that of Miko Wakamatsu on The Facts of Life."
     },
     {
       "body": "Tom began vocal work in the animated series Superman: The Animated Series as Angela Chen. From there, Tom had minor roles on Pinky and the Brain, Extreme Ghostbusters, and The Zeta Project before landing her lasting roles on King of the Hill, where she voiced Minh and Connie Souphanousinphone. She later worked for Futurama, voicing Amy and Inez Wong.",
       "links": [],
+      "section": [
+        "Lauren Tom",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Tom began vocal work in the animated series Superman: The Animated Series as Angela Chen. From there, Tom had minor roles on Pinky and the Brain, Extreme Ghostbusters, and The Zeta Project before landing her lasting roles on King of the Hill, where she voiced Minh and Connie Souphanousinphone. She later worked for Futurama, voicing Amy and Inez Wong."
     }
   ],

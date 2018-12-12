@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Television staff",
       "target": {
-        "href": "Category_Television_staff",
+        "external": false,
+        "href": "/wiki/Category_Television_staff",
         "page": "Category_Television_staff"
       }
     }
@@ -56,7 +60,8 @@
               "body": "Avatar: The Last Airbender",
               "key": "${link_0}",
               "target": {
-                "href": "Avatar__The_Last_Airbender",
+                "external": false,
+                "href": "/wiki/Avatar__The_Last_Airbender",
                 "page": "Avatar__The_Last_Airbender"
               }
             }
@@ -71,30 +76,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2630870",
+                "page": "http://www.imdb.com/find?q=nm2630870"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Official blog (inactive)",
+          "body": "${link_0} (inactive)",
           "extra": "(inactive)",
           "extra_text": "(inactive)",
-          "links": [],
+          "links": [
+            {
+              "body": "Official blog",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.elsagaragarza.blogspot.com/",
+                "page": "http://www.elsagaragarza.blogspot.com/"
+              }
+            }
+          ],
           "text": "Official blog (inactive)",
-          "value": "Official blog",
+          "value": "${link_0}",
           "value_text": "Official blog"
         },
         {
-          "body": "Official webpage (defunct)",
+          "body": "${link_0} (defunct)",
           "extra": "(defunct)",
           "extra_text": "(defunct)",
-          "links": [],
+          "links": [
+            {
+              "body": "Official webpage",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://elsagaragarza.com/",
+                "page": "http://elsagaragarza.com/"
+              }
+            }
+          ],
           "text": "Official webpage (defunct)",
-          "value": "Official webpage",
+          "value": "${link_0}",
           "value_text": "Official webpage"
         }
       ]
@@ -102,18 +137,522 @@
   ],
   "paragraphs": [
     {
+      "body": "103. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Air Temple",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Air_Temple",
+            "page": "The_Southern_Air_Temple"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Background layout"
+      ],
+      "text": "103. \"The Southern Air Temple\""
+    },
+    {
+      "body": "104. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Warriors of Kyoshi",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Warriors_of_Kyoshi",
+            "page": "The_Warriors_of_Kyoshi"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Background layout"
+      ],
+      "text": "104. \"The Warriors of Kyoshi\""
+    },
+    {
+      "body": "105. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The King of Omashu",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_King_of_Omashu",
+            "page": "The_King_of_Omashu"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Background layout"
+      ],
+      "text": "105. \"The King of Omashu\""
+    },
+    {
+      "body": "106. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Imprisoned",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Imprisoned",
+            "page": "Imprisoned"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Background layout"
+      ],
+      "text": "106. \"Imprisoned\""
+    },
+    {
+      "body": "107. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Winter Solstice, Part 1: The Spirit World",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Winter_Solstice%2c_Part_1__The_Spirit_World",
+            "page": "Winter_Solstice%2c_Part_1__The_Spirit_World"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Background layout"
+      ],
+      "text": "107. \"Winter Solstice, Part 1: The Spirit World\""
+    },
+    {
+      "body": "108. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Winter Solstice, Part 2: Avatar Roku",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Winter_Solstice%2c_Part_2__Avatar_Roku",
+            "page": "Winter_Solstice%2c_Part_2__Avatar_Roku"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Background layout"
+      ],
+      "text": "108. \"Winter Solstice, Part 2: Avatar Roku\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Waterbending Scroll",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Waterbending_Scroll",
+            "page": "The_Waterbending_Scroll"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Background layout"
+      ],
+      "text": "109. \"The Waterbending Scroll\""
+    },
+    {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Background layout"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "111. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Great Divide",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Great_Divide",
+            "page": "The_Great_Divide"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Background layout"
+      ],
+      "text": "111. \"The Great Divide\""
+    },
+    {
+      "body": "112. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Storm",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Storm",
+            "page": "The_Storm"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Background layout"
+      ],
+      "text": "112. \"The Storm\""
+    },
+    {
+      "body": "113. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blue Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blue_Spirit",
+            "page": "The_Blue_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Background layout"
+      ],
+      "text": "113. \"The Blue Spirit\""
+    },
+    {
+      "body": "318. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Sozin's Comet, Part 1: The Phoenix King",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sozin%27s_Comet%2c_Part_1__The_Phoenix_King",
+            "page": "Sozin%27s_Comet%2c_Part_1__The_Phoenix_King"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Storyboard artist"
+      ],
+      "text": "318. \"Sozin's Comet, Part 1: The Phoenix King\""
+    },
+    {
+      "body": "Iss. #3. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Don't Blow It!",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Don%27t_Blow_It%21",
+            "page": "Don%27t_Blow_It%21"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #3. \"Don't Blow It!\""
+    },
+    {
+      "body": "Iss. #22. \"${link_0}\"",
+      "links": [
+        {
+          "body": "No Benders Allowed",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/No_Benders_Allowed",
+            "page": "No_Benders_Allowed"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Avatar: The Last Airbender credits",
+        "Comic artist"
+      ],
+      "text": "Iss. #22. \"No Benders Allowed\""
+    },
+    {
+      "body": "201. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebel Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebel_Spirit",
+            "page": "Rebel_Spirit"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "201. \"Rebel Spirit\""
+    },
+    {
+      "body": "202. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Southern Lights",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Southern_Lights",
+            "page": "The_Southern_Lights"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "202. \"The Southern Lights\""
+    },
+    {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Sting",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Sting",
+            "page": "The_Sting"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "206. \"The Sting\""
+    },
+    {
+      "body": "412. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Day of the Colossus",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Day_of_the_Colossus",
+            "page": "Day_of_the_Colossus"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "412. \"Day of the Colossus\""
+    },
+    {
+      "body": "413. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Last Stand",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Last_Stand",
+            "page": "The_Last_Stand"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "The Legend of Korra credits",
+        "Storyboard artist"
+      ],
+      "text": "413. \"The Last Stand\""
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "Generator Rex",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1636691",
+            "page": "http://www.imdb.com/find?q=tt1636691"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Generator Rex (storyboard artist)"
+    },
+    {
+      "body": "${link_0} (storyboard artist)",
+      "links": [
+        {
+          "body": "Green Lantern: The Animated Series",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1724587",
+            "page": "http://www.imdb.com/find?q=tt1724587"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Green Lantern: The Animated Series (storyboard artist)"
+    },
+    {
+      "body": "${link_0} (background layout designer)",
+      "links": [
+        {
+          "body": "The Penguins of Madagascar",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0892700",
+            "page": "http://www.imdb.com/find?q=tt0892700"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Penguins of Madagascar (background layout designer)"
+    },
+    {
+      "body": "${link_0} (2009; video - storyboard artist)",
+      "links": [
+        {
+          "body": "Green Lantern: First Flight",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1384590",
+            "page": "http://www.imdb.com/find?q=tt1384590"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Green Lantern: First Flight (2009; video - storyboard artist)"
+    },
+    {
+      "body": "${link_0} (2009; video - storyboard artist)",
+      "links": [
+        {
+          "body": "Wonder Woman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1186373",
+            "page": "http://www.imdb.com/find?q=tt1186373"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Wonder Woman (2009; video - storyboard artist)"
+    },
+    {
       "body": "Elsa Garagarza was born in Monterrey, Mexico. She earned her Bachelor of Science degree in the field of architecture from ITESM (Monterrey, Mexico) and received a Bachelor of Fine Arts degree from the San Francisco Academy of Arts University. She moved to the United States in 2001 in the hopes of finding a career in the animation industry and got her big break in 2004 when ${link_0} hired her to work on Avatar: The Last Airbender. She currently lives in Los Angeles, California.",
       "links": [
         {
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         }
       ],
+      "section": [
+        "Elsa Garagarza",
+        "Biographical information"
+      ],
       "text": "Elsa Garagarza was born in Monterrey, Mexico. She earned her Bachelor of Science degree in the field of architecture from ITESM (Monterrey, Mexico) and received a Bachelor of Fine Arts degree from the San Francisco Academy of Arts University. She moved to the United States in 2001 in the hopes of finding a career in the animation industry and got her big break in 2004 when Nickelodeon hired her to work on Avatar: The Last Airbender. She currently lives in Los Angeles, California."
+    },
+    {
+      "body": "Garagarza's favorite Avatar character is ${link_0}.",
+      "links": [
+        {
+          "body": "Sokka",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Sokka",
+            "page": "Sokka"
+          }
+        }
+      ],
+      "section": [
+        "Elsa Garagarza",
+        "Trivia"
+      ],
+      "text": "Garagarza's favorite Avatar character is Sokka."
     }
   ],
   "source": {

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "He & She (1968)",
+          "body": "${link_0} (1968)",
           "extra": "(1968)",
           "extra_text": "(1968)",
-          "links": [],
+          "links": [
+            {
+              "body": "He & She",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0061261",
+                "page": "http://www.imdb.com/find?q=tt0061261"
+              }
+            }
+          ],
           "text": "He & She (1968)",
-          "value": "He & She",
+          "value": "${link_0}",
           "value_text": "He & She"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0865058",
+                "page": "http://www.imdb.com/find?q=nm0865058"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Brian_Tochi",
+                "page": "http://en.wikipedia.org/wiki/Brian_Tochi"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,43 +124,483 @@
   ],
   "paragraphs": [
     {
+      "body": "212. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Serpent's Pass",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Serpent%27s_Pass",
+            "page": "The_Serpent%27s_Pass"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Avatar: The Last Airbender credits",
+        "Than"
+      ],
+      "text": "212. \"The Serpent's Pass\""
+    },
+    {
+      "body": "313. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Firebending Masters",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Firebending_Masters",
+            "page": "The_Firebending_Masters"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Avatar: The Last Airbender credits",
+        "Ham Ghao"
+      ],
+      "text": "313. \"The Firebending Masters\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hawaii Five-O",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0062568",
+            "page": "http://www.imdb.com/find?q=tt0062568"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hawaii Five-O"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Johnny Bravo",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118360",
+            "page": "http://www.imdb.com/find?q=tt0118360"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Johnny Bravo"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mortal Kombat: Defenders of the Realm",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0122355",
+            "page": "http://www.imdb.com/find?q=tt0122355"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mortal Kombat: Defenders of the Realm"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Santa Barbara",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0086793",
+            "page": "http://www.imdb.com/find?q=tt0086793"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Santa Barbara"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Static Shock",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247729",
+            "page": "http://www.imdb.com/find?q=tt0247729"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Static Shock"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Grim Adventures of Billy & Mandy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0292800",
+            "page": "http://www.imdb.com/find?q=tt0292800"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Grim Adventures of Billy & Mandy"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Forgetting Sarah Marshall",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0800039",
+            "page": "http://www.imdb.com/find?q=tt0800039"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Forgetting Sarah Marshall (2008)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "Shaolin Soccer",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0286112",
+            "page": "http://www.imdb.com/find?q=tt0286112"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Shaolin Soccer (2001)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Fight Club",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0137523",
+            "page": "http://www.imdb.com/find?q=tt0137523"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Fight Club (1999)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "The Iron Giant",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0129167",
+            "page": "http://www.imdb.com/find?q=tt0129167"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Iron Giant (1999)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Teenage Mutant Ninja Turtles",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0100758",
+            "page": "http://www.imdb.com/find?q=tt0100758"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Teenage Mutant Ninja Turtles (1990)"
+    },
+    {
+      "body": "${link_0} (1984)",
+      "links": [
+        {
+          "body": "Revenge of the Nerds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0088000",
+            "page": "http://www.imdb.com/find?q=tt0088000"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Revenge of the Nerds (1984)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Area 51",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0423828",
+            "page": "http://www.imdb.com/find?q=tt0423828"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Area 51 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Bruce Lee: Quest of the Dragon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0426419",
+            "page": "http://www.imdb.com/find?q=tt0426419"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Bruce Lee: Quest of the Dragon (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Command & Conquer: Red Alert 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1198194",
+            "page": "http://www.imdb.com/find?q=tt1198194"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Command & Conquer: Red Alert 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "EOE: Eve of Extinction",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0326845",
+            "page": "http://www.imdb.com/find?q=tt0326845"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "EOE: Eve of Extinction (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Tenchu: Wrath of Heaven",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0280142",
+            "page": "http://www.imdb.com/find?q=tt0280142"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Tenchu: Wrath of Heaven (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "True Crime: Streets of LA",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0378918",
+            "page": "http://www.imdb.com/find?q=tt0378918"
+          }
+        }
+      ],
+      "section": [
+        "Brian Tochi",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "True Crime: Streets of LA (video game)"
+    },
+    {
       "body": "Tochi was born in Los Angeles, California, the son of Joe Isao Tochihara, a well known Beverly Hills celebrity hair salon owner who also went by the name 'Tochi', and Jane Yaeko, n\u00e9e Harada, both Japanese and former detainees of Japanese internment camps during World War II. While Tochi was still young, the family moved from Los Angeles to Orange County, California, where he divided his education between local public schools and studio tutors for child actors on movie studio lots. After graduating from high school, Tochi also attended USC, UCLA, and UCI.",
       "links": [],
+      "section": [
+        "Brian Tochi",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Tochi was born in Los Angeles, California, the son of Joe Isao Tochihara, a well known Beverly Hills celebrity hair salon owner who also went by the name 'Tochi', and Jane Yaeko, n\u00e9e Harada, both Japanese and former detainees of Japanese internment camps during World War II. While Tochi was still young, the family moved from Los Angeles to Orange County, California, where he divided his education between local public schools and studio tutors for child actors on movie studio lots. After graduating from high school, Tochi also attended USC, UCLA, and UCI."
     },
     {
       "body": "Tochi's introduction into the entertainment industry came as a toddler. His father's beauty salon, Tochi Coiffure of Beverly Hills, was a popular haunt for many famous clients, including Lana Turner, Hedy Lamarr, Lucille Ball, Judy Garland, Petula Clark, and Patty Duke. One of his father's customers, a top child agent, spotted the young Tochi running around the salon and quickly signed to represent him.",
       "links": [],
+      "section": [
+        "Brian Tochi",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Tochi's introduction into the entertainment industry came as a toddler. His father's beauty salon, Tochi Coiffure of Beverly Hills, was a popular haunt for many famous clients, including Lana Turner, Hedy Lamarr, Lucille Ball, Judy Garland, Petula Clark, and Patty Duke. One of his father's customers, a top child agent, spotted the young Tochi running around the salon and quickly signed to represent him."
     },
     {
       "body": "An early role for Tochi was a guest-starring appearance in the short-lived television series He & She as the newly adopted son of a married couple portrayed by Richard Benjamin and Paula Prentiss. Tochi's debut as a TV series regular was as Yul Brynner's oldest son and heir, Crown Prince Chulalongkorn, in Anna and the King on CBS. Although the series was short lived, Tochi and Brynner remained friends until the latter's death in 1985.",
       "links": [],
+      "section": [
+        "Brian Tochi",
+        "Biographical information",
+        "Career"
+      ],
       "text": "An early role for Tochi was a guest-starring appearance in the short-lived television series He & She as the newly adopted son of a married couple portrayed by Richard Benjamin and Paula Prentiss. Tochi's debut as a TV series regular was as Yul Brynner's oldest son and heir, Crown Prince Chulalongkorn, in Anna and the King on CBS. Although the series was short lived, Tochi and Brynner remained friends until the latter's death in 1985."
     },
     {
       "body": "After both series ended, guest-starring roles followed for Tochi, including The Streets of San Francisco with Karl Malden and Michael Douglas and Kung Fu with David Carradine.",
       "links": [],
+      "section": [
+        "Brian Tochi",
+        "Biographical information",
+        "Career"
+      ],
       "text": "After both series ended, guest-starring roles followed for Tochi, including The Streets of San Francisco with Karl Malden and Michael Douglas and Kung Fu with David Carradine."
     },
     {
       "body": "During the mid-1970s, Tochi spent time on stage, this time reprising his role as Crown Prince Chulalongkorn in the Los Angeles Civic Light Opera's revival of the musical The King and I, where he co-starred with the renowned Latin Lover Ricardo Montalb\u00e1n as the King of Siam. When the show ended its run, the two remained dear to one another, with Tochi and Montalb\u00e1n rendezvousing regularly for lunch during the run of Fantasy Island.",
       "links": [],
+      "section": [
+        "Brian Tochi",
+        "Biographical information",
+        "Career"
+      ],
       "text": "During the mid-1970s, Tochi spent time on stage, this time reprising his role as Crown Prince Chulalongkorn in the Los Angeles Civic Light Opera's revival of the musical The King and I, where he co-starred with the renowned Latin Lover Ricardo Montalb\u00e1n as the King of Siam. When the show ended its run, the two remained dear to one another, with Tochi and Montalb\u00e1n rendezvousing regularly for lunch during the run of Fantasy Island."
     },
     {
       "body": "Tochi returned to star in another TV series, Space Academy, with veteran actor Jonathan Harris. During a hiatus of the show, Tochi was asked to shoot a twenty-minute promotional \"behind-the-scenes\" visit to the Space Academy for the popular daytime series Razzmatazz on CBS. It starred Barry Bostwick, who opted to leave the show for a career in features to capitalize on his recently released cult classic The Rocky Horror Picture Show. Searching for a new host, the television network scouted Tochi, and Space Academy aired on the network for four more years into the early 1980s.",
       "links": [],
+      "section": [
+        "Brian Tochi",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Tochi returned to star in another TV series, Space Academy, with veteran actor Jonathan Harris. During a hiatus of the show, Tochi was asked to shoot a twenty-minute promotional \"behind-the-scenes\" visit to the Space Academy for the popular daytime series Razzmatazz on CBS. It starred Barry Bostwick, who opted to leave the show for a career in features to capitalize on his recently released cult classic The Rocky Horror Picture Show. Searching for a new host, the television network scouted Tochi, and Space Academy aired on the network for four more years into the early 1980s."
     },
     {
       "body": "He later played featured characters in episodes of Star Trek: The Next Generation, making him one of only a handful of living actors to ever have appeared in both the original Star Trek series and a subsequent spin-off.",
       "links": [],
+      "section": [
+        "Brian Tochi",
+        "Biographical information",
+        "Career"
+      ],
       "text": "He later played featured characters in episodes of Star Trek: The Next Generation, making him one of only a handful of living actors to ever have appeared in both the original Star Trek series and a subsequent spin-off."
     },
     {
       "body": "In the short lived ABC TV series The Renegades, Tochi starred with his friend, Patrick Swayze, as a martial arts expert and former gang leader known as Dragon. Later, exercising his journalistic prowess, Tochi became part of the core team that created and developed the cutting edge educational news program Channel One News. During his two-and-a-half-year association, his responsibilities grew to include hosting and narrating duties, utilizing his talents as a writer, producer, and segment director. He was later named chief foreign correspondent for the show.",
       "links": [],
+      "section": [
+        "Brian Tochi",
+        "Biographical information",
+        "Career"
+      ],
       "text": "In the short lived ABC TV series The Renegades, Tochi starred with his friend, Patrick Swayze, as a martial arts expert and former gang leader known as Dragon. Later, exercising his journalistic prowess, Tochi became part of the core team that created and developed the cutting edge educational news program Channel One News. During his two-and-a-half-year association, his responsibilities grew to include hosting and narrating duties, utilizing his talents as a writer, producer, and segment director. He was later named chief foreign correspondent for the show."
     }
   ],

@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Grounded for Life (2004)",
+          "body": "${link_0} (2004)",
           "extra": "(2004)",
           "extra_text": "(2004)",
-          "links": [],
+          "links": [
+            {
+              "body": "Grounded for Life",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0255734",
+                "page": "http://www.imdb.com/find?q=tt0255734"
+              }
+            }
+          ],
           "text": "Grounded for Life (2004)",
-          "value": "Grounded for Life",
+          "value": "${link_0}",
           "value_text": "Grounded for Life"
         }
       ]
@@ -69,21 +82,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1123750",
+                "page": "http://www.imdb.com/find?q=nm1123750"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Jack_DeSena",
+                "page": "http://en.wikipedia.org/wiki/Jack_DeSena"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         }
       ]
@@ -91,8 +124,232 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "All That",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0111875",
+            "page": "http://www.imdb.com/find?q=tt0111875"
+          }
+        }
+      ],
+      "section": [
+        "Jack DeSena",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "All That"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dorm Life",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1234500",
+            "page": "http://www.imdb.com/find?q=tt1234500"
+          }
+        }
+      ],
+      "section": [
+        "Jack DeSena",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dorm Life"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "King of the Hill",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0118375",
+            "page": "http://www.imdb.com/find?q=tt0118375"
+          }
+        }
+      ],
+      "section": [
+        "Jack DeSena",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "King of the Hill"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Sam & Cat",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2487090",
+            "page": "http://www.imdb.com/find?q=tt2487090"
+          }
+        }
+      ],
+      "section": [
+        "Jack DeSena",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sam & Cat"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Batman",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0398417",
+            "page": "http://www.imdb.com/find?q=tt0398417"
+          }
+        }
+      ],
+      "section": [
+        "Jack DeSena",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Batman"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Dragon Prince",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt8688814",
+            "page": "http://www.imdb.com/find?q=tt8688814"
+          }
+        }
+      ],
+      "section": [
+        "Jack DeSena",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Dragon Prince"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Doraemon: Nobita and the Green Giant Legend",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1180304",
+            "page": "http://www.imdb.com/find?q=tt1180304"
+          }
+        }
+      ],
+      "section": [
+        "Jack DeSena",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Doraemon: Nobita and the Green Giant Legend (2008)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "The Wild",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0405469",
+            "page": "http://www.imdb.com/find?q=tt0405469"
+          }
+        }
+      ],
+      "section": [
+        "Jack DeSena",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Wild (2006)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_(video_game)",
+            "page": "Avatar__The_Last_Airbender_(video_game)"
+          }
+        }
+      ],
+      "section": [
+        "Jack DeSena",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Last Airbender (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender \u2013 Into the Inferno",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_%e2%80%93_Into_the_Inferno",
+            "page": "Avatar__The_Last_Airbender_%e2%80%93_Into_the_Inferno"
+          }
+        }
+      ],
+      "section": [
+        "Jack DeSena",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Last Airbender \u2013 Into the Inferno (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Avatar: The Last Airbender \u2013 The Burning Earth",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Avatar__The_Last_Airbender_%e2%80%93_The_Burning_Earth",
+            "page": "Avatar__The_Last_Airbender_%e2%80%93_The_Burning_Earth"
+          }
+        }
+      ],
+      "section": [
+        "Jack DeSena",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Avatar: The Last Airbender \u2013 The Burning Earth (video game)"
+    },
+    {
       "body": "DeSena is best known for his work on the sketch comedy series All That, having joined the show's cast at the start of its seventh season in 2001. His family moved to Irvine, California, in 1999 where he attended school. He was an active member of the international ComedySportz troupe, a comic improvisation team that participates in games as seen on Whose Line is it Anyway?.",
       "links": [],
+      "section": [
+        "Jack DeSena",
+        "Biographical information"
+      ],
       "text": "DeSena is best known for his work on the sketch comedy series All That, having joined the show's cast at the start of its seventh season in 2001. His family moved to Irvine, California, in 1999 where he attended school. He was an active member of the international ComedySportz troupe, a comic improvisation team that participates in games as seen on Whose Line is it Anyway?."
     },
     {
@@ -102,7 +359,8 @@
           "body": "Nickelodeon",
           "key": "${link_0}",
           "target": {
-            "href": "Nickelodeon",
+            "external": false,
+            "href": "/wiki/Nickelodeon",
             "page": "Nickelodeon"
           }
         },
@@ -110,7 +368,8 @@
           "body": "Aaron Ehasz",
           "key": "${link_1}",
           "target": {
-            "href": "Aaron_Ehasz",
+            "external": false,
+            "href": "/wiki/Aaron_Ehasz",
             "page": "Aaron_Ehasz"
           }
         },
@@ -118,12 +377,35 @@
           "body": "Giancarlo Volpe",
           "key": "${link_2}",
           "target": {
-            "href": "Giancarlo_Volpe",
+            "external": false,
+            "href": "/wiki/Giancarlo_Volpe",
             "page": "Giancarlo_Volpe"
           }
         }
       ],
+      "section": [
+        "Jack DeSena",
+        "Biographical information"
+      ],
       "text": "In 2007, he appeared in one episode of King of the Hill and wrote and starred in the mockumentary web series Dorm Life, which won a 2008 Webby Honoree for Best Writing and Comedy: Individual Short or Episode. He appeared in one episode of Generator Rex, and in 2012, he starred in the Hulu original series Battleground. He has appeared as two separate characters in the Nickelodeon series Sam & Cat, and in 2014, he voiced Robin in the animated film JLA Adventures: Trapped in Time. In 2018, he voiced Callum in the animated series The Dragon Prince, working with former Avatar alumni Aaron Ehasz and Giancarlo Volpe."
+    },
+    {
+      "body": "2005: Won a Young Artist Award for All That (Best Performance in a TV Series (Comedy or Drama) - Leading Young Actor) (shared with Logan Lerman)",
+      "links": [],
+      "section": [
+        "Jack DeSena",
+        "Awards"
+      ],
+      "text": "2005: Won a Young Artist Award for All That (Best Performance in a TV Series (Comedy or Drama) - Leading Young Actor) (shared with Logan Lerman)"
+    },
+    {
+      "body": "It is stated in a Nickelodeon Magazine Presents: Avatar issue that the creators originally intended Sokka to be much more low-key, but when DeSena came in and brought liveliness to his character, they began to give him more ad libbed and humorous parts.",
+      "links": [],
+      "section": [
+        "Jack DeSena",
+        "Trivia"
+      ],
+      "text": "It is stated in a Nickelodeon Magazine Presents: Avatar issue that the creators originally intended Sokka to be much more low-key, but when DeSena came in and brought liveliness to his character, they began to give him more ad libbed and humorous parts."
     }
   ],
   "source": {

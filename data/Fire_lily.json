@@ -3,28 +3,32 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Fire Nation",
       "target": {
-        "href": "Category_Fire_Nation",
+        "external": false,
+        "href": "/wiki/Category_Fire_Nation",
         "page": "Category_Fire_Nation"
       }
     },
     {
       "body": "Flora",
       "target": {
-        "href": "Category_Flora",
+        "external": false,
+        "href": "/wiki/Category_Flora",
         "page": "Category_Flora"
       }
     },
     {
       "body": "Flowers",
       "target": {
-        "href": "Category_Flowers",
+        "external": false,
+        "href": "/wiki/Category_Flowers",
         "page": "Category_Flowers"
       }
     }
@@ -32,18 +36,14 @@
   "facts": [],
   "paragraphs": [
     {
-      "body": "The fire lily has a thin stem and is red in color.",
-      "links": [],
-      "text": "The fire lily has a thin stem and is red in color."
-    },
-    {
       "body": "The fire lily is a ${link_0} that grows in the meadows of the ${link_1}, such as the grassy fields near ${link_2}. The vibrant, red blossoms of this flower bloom just a few weeks every year around the middle of summer. Many annual Fire Lily Festivals are held throughout the Fire Nation during their blooming period.",
       "links": [
         {
           "body": "flower",
           "key": "${link_0}",
           "target": {
-            "href": "Flora_in_the_World_of_Avatar",
+            "external": false,
+            "href": "/wiki/Flora_in_the_World_of_Avatar",
             "page": "Flora_in_the_World_of_Avatar"
           }
         },
@@ -51,7 +51,8 @@
           "body": "Fire Nation",
           "key": "${link_1}",
           "target": {
-            "href": "Fire_Nation",
+            "external": false,
+            "href": "/wiki/Fire_Nation",
             "page": "Fire_Nation"
           }
         },
@@ -59,10 +60,14 @@
           "body": "Hama's village",
           "key": "${link_2}",
           "target": {
-            "href": "Hama%27s_village",
+            "external": false,
+            "href": "/wiki/Hama%27s_village",
             "page": "Hama%27s_village"
           }
         }
+      ],
+      "section": [
+        "Fire lily"
       ],
       "text": "The fire lily is a flower that grows in the meadows of the Fire Nation, such as the grassy fields near Hama's village. The vibrant, red blossoms of this flower bloom just a few weeks every year around the middle of summer. Many annual Fire Lily Festivals are held throughout the Fire Nation during their blooming period."
     },
@@ -73,7 +78,8 @@
           "body": "training",
           "key": "${link_0}",
           "target": {
-            "href": "Waterbending_training",
+            "external": false,
+            "href": "/wiki/Waterbending_training",
             "page": "Waterbending_training"
           }
         },
@@ -81,7 +87,8 @@
           "body": "Katara",
           "key": "${link_1}",
           "target": {
-            "href": "Katara",
+            "external": false,
+            "href": "/wiki/Katara",
             "page": "Katara"
           }
         },
@@ -89,7 +96,8 @@
           "body": "waterbending",
           "key": "${link_2}",
           "target": {
-            "href": "Waterbending",
+            "external": false,
+            "href": "/wiki/Waterbending",
             "page": "Waterbending"
           }
         },
@@ -97,12 +105,83 @@
           "body": "Hama",
           "key": "${link_3}",
           "target": {
-            "href": "Hama",
+            "external": false,
+            "href": "/wiki/Hama",
             "page": "Hama"
           }
         }
       ],
+      "section": [
+        "Fire lily",
+        "History"
+      ],
       "text": "While training Katara in the art of waterbending, Hama stated that these flowers were one of her favorite things about living in the Fire Nation. However, she subsequently demonstrated ambient water channeling by extracting water from a bed of fire lilies, causing them to wilt."
+    },
+    {
+      "body": "The flower carries a connotation similar to the ${link_0} in the ${link_1}.",
+      "links": [
+        {
+          "body": "panda lily",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Panda_lily",
+            "page": "Panda_lily"
+          }
+        },
+        {
+          "body": "Earth Kingdom",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Earth_Kingdom",
+            "page": "Earth_Kingdom"
+          }
+        }
+      ],
+      "section": [
+        "Fire lily",
+        "Trivia"
+      ],
+      "text": "The flower carries a connotation similar to the panda lily in the Earth Kingdom."
+    },
+    {
+      "body": "Fire lilies are a favorite subject of many ${link_0} in the Fire Nation. They are a symbol of fiery purity and passion.",
+      "links": [
+        {
+          "body": "poets and artists",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Arts_in_the_World_of_Avatar",
+            "page": "Arts_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Fire lily",
+        "Trivia"
+      ],
+      "text": "Fire lilies are a favorite subject of many poets and artists in the Fire Nation. They are a symbol of fiery purity and passion."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Flora in the World of Avatar",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Flora_in_the_World_of_Avatar",
+            "page": "Flora_in_the_World_of_Avatar"
+          }
+        }
+      ],
+      "section": [
+        "Fire lily",
+        "See also"
+      ],
+      "text": "Flora in the World of Avatar"
     }
   ],
   "source": {

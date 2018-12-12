@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Without Her Consent (1990; TV movie)",
+          "body": "${link_0} (1990; TV movie)",
           "extra": "(1990; TV movie)",
           "extra_text": "(1990; TV movie)",
-          "links": [],
+          "links": [
+            {
+              "body": "Without Her Consent",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0100945",
+                "page": "http://www.imdb.com/find?q=tt0100945"
+              }
+            }
+          ],
           "text": "Without Her Consent (1990; TV movie)",
-          "value": "Without Her Consent",
+          "value": "${link_0}",
           "value_text": "Without Her Consent"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0943766",
+                "page": "http://www.imdb.com/find?q=nm0943766"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Adam_Wylie",
+                "page": "http://en.wikipedia.org/wiki/Adam_Wylie"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/ThisISAdamWylie",
+                "page": "https://www.facebook.com/ThisISAdamWylie"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.adamwylie.com/",
+                "page": "http://www.adamwylie.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/ThisISAdamWylie",
+                "page": "https://twitter.com/ThisISAdamWylie"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,14 +181,409 @@
   ],
   "paragraphs": [
     {
+      "body": "206. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Blind Bandit",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Blind_Bandit",
+            "page": "The_Blind_Bandit"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Avatar: The Last Airbender credits",
+        "Additional voice"
+      ],
+      "text": "206. \"The Blind Bandit\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "American Dragon: Jake Long",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0429305",
+            "page": "http://www.imdb.com/find?q=tt0429305"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "American Dragon: Jake Long"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Gilmore Girls",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0238784",
+            "page": "http://www.imdb.com/find?q=tt0238784"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Gilmore Girls"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Hey Arnold!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115200",
+            "page": "http://www.imdb.com/find?q=tt0115200"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Hey Arnold!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Pepper Ann",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0128890",
+            "page": "http://www.imdb.com/find?q=tt0128890"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Pepper Ann"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Picket Fences",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0103512",
+            "page": "http://www.imdb.com/find?q=tt0103512"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Picket Fences"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "The Secret Saturdays",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1291662",
+            "page": "http://www.imdb.com/find?q=tt1291662"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "The Secret Saturdays"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "The Biggest Fan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0300996",
+            "page": "http://www.imdb.com/find?q=tt0300996"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Biggest Fan (2002)"
+    },
+    {
+      "body": "${link_0} (2000)",
+      "links": [
+        {
+          "body": "Daybreak",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0219640",
+            "page": "http://www.imdb.com/find?q=tt0219640"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Daybreak (2000)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "The King and I",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0160429",
+            "page": "http://www.imdb.com/find?q=tt0160429"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The King and I (1996)"
+    },
+    {
+      "body": "${link_0} (1996)",
+      "links": [
+        {
+          "body": "All Dogs Go to Heaven 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0115509",
+            "page": "http://www.imdb.com/find?q=tt0115509"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "All Dogs Go to Heaven 2 (1996)"
+    },
+    {
+      "body": "${link_0} (1994)",
+      "links": [
+        {
+          "body": "Pom Poko",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0110008",
+            "page": "http://www.imdb.com/find?q=tt0110008"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Pom Poko (1994)"
+    },
+    {
+      "body": "${link_0} (1990)",
+      "links": [
+        {
+          "body": "Kindergarten Cop",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0454941",
+            "page": "http://www.imdb.com/find?q=tt0454941"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Kindergarten Cop (1990)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "American Wasteland",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0462177",
+            "page": "http://www.imdb.com/find?q=tt0462177"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "American Wasteland (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Goosebumps: Escape from Horrorland",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0219062",
+            "page": "http://www.imdb.com/find?q=tt0219062"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Goosebumps: Escape from Horrorland (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Midnight Club II",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0365503",
+            "page": "http://www.imdb.com/find?q=tt0365503"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Midnight Club II (video game)"
+    },
+    {
+      "body": "${link_0} (short)",
+      "links": [
+        {
+          "body": "Pirates: 3D Show",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0198911",
+            "page": "http://www.imdb.com/find?q=tt0198911"
+          }
+        }
+      ],
+      "section": [
+        "Adam Wylie",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Pirates: 3D Show (short)"
+    },
+    {
       "body": "Wylie was born in San Dimas, California, and is the son of Karen Wylie. He is one of five children, with brothers Eric, Ben, and Aaron, and sister Tai. He attended Upland Christian Schools in Upland, California.",
       "links": [],
+      "section": [
+        "Adam Wylie",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Wylie was born in San Dimas, California, and is the son of Karen Wylie. He is one of five children, with brothers Eric, Ben, and Aaron, and sister Tai. He attended Upland Christian Schools in Upland, California."
     },
     {
       "body": "Wylie started his acting career at the age of four in a toy commercial, and by age nine, he was doing voice-over work for animated series such as Dennis the Menace, As Told By Ginger, and Batman Beyond. His rise to fame came when he acted as Zack Brock in the hit TV series Picket Fences. Wylie went on to play minor roles in shows such as Gilmore Girls and Ben 10: Alien Force.",
       "links": [],
+      "section": [
+        "Adam Wylie",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Wylie started his acting career at the age of four in a toy commercial, and by age nine, he was doing voice-over work for animated series such as Dennis the Menace, As Told By Ginger, and Batman Beyond. His rise to fame came when he acted as Zack Brock in the hit TV series Picket Fences. Wylie went on to play minor roles in shows such as Gilmore Girls and Ben 10: Alien Force."
+    },
+    {
+      "body": "1997: Won a YoungStar Award for Picket Fences (Best Performance by a Young Actor in a Drama TV Series)",
+      "links": [],
+      "section": [
+        "Adam Wylie",
+        "Awards"
+      ],
+      "text": "1997: Won a YoungStar Award for Picket Fences (Best Performance by a Young Actor in a Drama TV Series)"
+    },
+    {
+      "body": "1997: Won a Young Artist Award (Best Male Entertainer)",
+      "links": [],
+      "section": [
+        "Adam Wylie",
+        "Awards"
+      ],
+      "text": "1997: Won a Young Artist Award (Best Male Entertainer)"
+    },
+    {
+      "body": "1994: Won a Young Artist Award for Picket Fences (Best Youth Actor Recurring or Regular in a TV Series)",
+      "links": [],
+      "section": [
+        "Adam Wylie",
+        "Awards"
+      ],
+      "text": "1994: Won a Young Artist Award for Picket Fences (Best Youth Actor Recurring or Regular in a TV Series)"
+    },
+    {
+      "body": "1994: Won a Young Artist Award for The Adventures of Brisco County Jr. (Best Youth Actor Guest Starring in a Television Show)",
+      "links": [],
+      "section": [
+        "Adam Wylie",
+        "Awards"
+      ],
+      "text": "1994: Won a Young Artist Award for The Adventures of Brisco County Jr. (Best Youth Actor Guest Starring in a Television Show)"
+    },
+    {
+      "body": "1994: Won a Young Artist Award for Dennis the Menace (Best Youth Actor in a Voiceover Role - TV or Movie)",
+      "links": [],
+      "section": [
+        "Adam Wylie",
+        "Awards"
+      ],
+      "text": "1994: Won a Young Artist Award for Dennis the Menace (Best Youth Actor in a Voiceover Role - TV or Movie)"
     }
   ],
   "source": {

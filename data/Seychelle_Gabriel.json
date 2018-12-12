@@ -3,35 +3,40 @@
     {
       "body": "Protected",
       "target": {
-        "href": "Category_Protected",
+        "external": false,
+        "href": "/wiki/Category_Protected",
         "page": "Category_Protected"
       }
     },
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Film actors",
       "target": {
-        "href": "Category_Film_actors",
+        "external": false,
+        "href": "/wiki/Category_Film_actors",
         "page": "Category_Film_actors"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -69,12 +74,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Zoey 101 (2007)",
+          "body": "${link_0} (2007)",
           "extra": "(2007)",
           "extra_text": "(2007)",
-          "links": [],
+          "links": [
+            {
+              "body": "Zoey 101",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0415463",
+                "page": "http://www.imdb.com/find?q=tt0415463"
+              }
+            }
+          ],
           "text": "Zoey 101 (2007)",
-          "value": "Zoey 101",
+          "value": "${link_0}",
           "value_text": "Zoey 101"
         }
       ]
@@ -83,57 +98,117 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm2437267",
+                "page": "http://www.imdb.com/find?q=nm2437267"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Seychelle_Gabriel",
+                "page": "http://en.wikipedia.org/wiki/Seychelle_Gabriel"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/pages/Seychelle-Gabriel/237715716285583",
+                "page": "https://www.facebook.com/pages/Seychelle-Gabriel/237715716285583"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Google+",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Google+",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://plus.google.com/116578658568133232291/posts",
+                "page": "https://plus.google.com/116578658568133232291/posts"
+              }
+            }
+          ],
           "text": "Google+",
-          "value": "Google+",
+          "value": "${link_0}",
           "value_text": "Google+"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/seychellegabriel#",
+                "page": "http://instagram.com/seychellegabriel"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/seychellegab",
+                "page": "https://twitter.com/seychellegab"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -141,14 +216,267 @@
   ],
   "paragraphs": [
     {
+      "body": "${link_0} (TV movie)",
+      "links": [
+        {
+          "body": "Beautiful & Twisted",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3881768",
+            "page": "http://www.imdb.com/find?q=tt3881768"
+          }
+        }
+      ],
+      "section": [
+        "Seychelle Gabriel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Beautiful & Twisted (TV movie)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Falling Skies",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1462059",
+            "page": "http://www.imdb.com/find?q=tt1462059"
+          }
+        }
+      ],
+      "section": [
+        "Seychelle Gabriel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Falling Skies"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Miami Medical",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1406662",
+            "page": "http://www.imdb.com/find?q=tt1406662"
+          }
+        }
+      ],
+      "section": [
+        "Seychelle Gabriel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Miami Medical"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Revenge",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1837642",
+            "page": "http://www.imdb.com/find?q=tt1837642"
+          }
+        }
+      ],
+      "section": [
+        "Seychelle Gabriel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Revenge"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Weeds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0439100",
+            "page": "http://www.imdb.com/find?q=tt0439100"
+          }
+        }
+      ],
+      "section": [
+        "Seychelle Gabriel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Weeds"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Zoey 101",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0415463",
+            "page": "http://www.imdb.com/find?q=tt0415463"
+          }
+        }
+      ],
+      "section": [
+        "Seychelle Gabriel",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Zoey 101"
+    },
+    {
+      "body": "${link_0} (2016)",
+      "links": [
+        {
+          "body": "Sleight",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4573516",
+            "page": "http://www.imdb.com/find?q=tt4573516"
+          }
+        }
+      ],
+      "section": [
+        "Seychelle Gabriel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Sleight (2016)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Honey 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1657283",
+            "page": "http://www.imdb.com/find?q=tt1657283"
+          }
+        }
+      ],
+      "section": [
+        "Seychelle Gabriel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Honey 2 (2011)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "The Spirit",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0831887",
+            "page": "http://www.imdb.com/find?q=tt0831887"
+          }
+        }
+      ],
+      "section": [
+        "Seychelle Gabriel",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Spirit (2008)"
+    },
+    {
       "body": "Gabriel began doing commercial work at a young age. She played Marisol in the short film Welfare to Love, a younger character named Sand in The Spirit, released in 2008, and later appeared in Honey 2, released in 2011.",
       "links": [],
+      "section": [
+        "Seychelle Gabriel",
+        "Biographical information"
+      ],
       "text": "Gabriel began doing commercial work at a young age. She played Marisol in the short film Welfare to Love, a younger character named Sand in The Spirit, released in 2008, and later appeared in Honey 2, released in 2011."
     },
     {
       "body": "On television, Gabriel co-stars in the popular TNT sci-fi series Falling Skies, produced by Steven Spielberg. She has also guest starred in the comedy-drama series Weeds and Zoey 101 and appeared in an episode of Miami Medical. When she is not working, Gabriel enjoys playing the guitar and piano.",
       "links": [],
+      "section": [
+        "Seychelle Gabriel",
+        "Biographical information"
+      ],
       "text": "On television, Gabriel co-stars in the popular TNT sci-fi series Falling Skies, produced by Steven Spielberg. She has also guest starred in the comedy-drama series Weeds and Zoey 101 and appeared in an episode of Miami Medical. When she is not working, Gabriel enjoys playing the guitar and piano."
+    },
+    {
+      "body": "Gabriel originally auditioned for the role of ${link_0} in The Last Airbender but subsequently lost out to ${link_1}. About six months later, she was asked to audition for Princess Yue and was offered the role four months after that callback.",
+      "links": [
+        {
+          "body": "Katara",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Katara",
+            "page": "Film_Katara"
+          }
+        },
+        {
+          "body": "Nicola Peltz",
+          "key": "${link_1}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Film_Nicola_Peltz",
+            "page": "Film_Nicola_Peltz"
+          }
+        }
+      ],
+      "section": [
+        "Seychelle Gabriel",
+        "Trivia"
+      ],
+      "text": "Gabriel originally auditioned for the role of Katara in The Last Airbender but subsequently lost out to Nicola Peltz. About six months later, she was asked to audition for Princess Yue and was offered the role four months after that callback."
+    },
+    {
+      "body": "Gabriel initially remembered Asami's name because it sounded like \"salami\".",
+      "links": [],
+      "section": [
+        "Seychelle Gabriel",
+        "Trivia"
+      ],
+      "text": "Gabriel initially remembered Asami's name because it sounded like \"salami\"."
+    },
+    {
+      "body": "Gabriel originally auditioned for the voice of ${link_0} in The Legend of Korra but was cast as the voice of Asami Sato instead.",
+      "links": [
+        {
+          "body": "Korra",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Korra",
+            "page": "Korra"
+          }
+        }
+      ],
+      "section": [
+        "Seychelle Gabriel",
+        "Trivia"
+      ],
+      "text": "Gabriel originally auditioned for the voice of Korra in The Legend of Korra but was cast as the voice of Asami Sato instead."
+    },
+    {
+      "body": "Asami Sato was Gabriel's first voice acting role.",
+      "links": [],
+      "section": [
+        "Seychelle Gabriel",
+        "Trivia"
+      ],
+      "text": "Asami Sato was Gabriel's first voice acting role."
     }
   ],
   "source": {

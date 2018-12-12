@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "The Young and the Restless (2002)",
+          "body": "${link_0} (2002)",
           "extra": "(2002)",
           "extra_text": "(2002)",
-          "links": [],
+          "links": [
+            {
+              "body": "The Young and the Restless",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0069658",
+                "page": "http://www.imdb.com/find?q=tt0069658"
+              }
+            }
+          ],
           "text": "The Young and the Restless (2002)",
-          "value": "The Young and the Restless",
+          "value": "${link_0}",
           "value_text": "The Young and the Restless"
         }
       ]
@@ -55,39 +68,79 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1971412",
+                "page": "http://www.imdb.com/find?q=nm1971412"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Julianna_Rose",
+                "page": "http://en.wikipedia.org/wiki/Julianna_Rose"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Instagram",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Instagram",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://instagram.com/thejuliannarose",
+                "page": "http://instagram.com/thejuliannarose"
+              }
+            }
+          ],
           "text": "Instagram",
-          "value": "Instagram",
+          "value": "${link_0}",
           "value_text": "Instagram"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/JuliannaRose1",
+                "page": "https://twitter.com/JuliannaRose1"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -95,13 +148,261 @@
   ],
   "paragraphs": [
     {
+      "body": "110. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Jet",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Jet_(episode)",
+            "page": "Jet_(episode)"
+          }
+        }
+      ],
+      "section": [
+        "Julianna Rose",
+        "Avatar: The Last Airbender credits",
+        "Additional voices"
+      ],
+      "text": "110. \"Jet\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Handy Manny",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0451460",
+            "page": "http://www.imdb.com/find?q=tt0451460"
+          }
+        }
+      ],
+      "section": [
+        "Julianna Rose",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Handy Manny"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "iCarly",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0972534",
+            "page": "http://www.imdb.com/find?q=tt0972534"
+          }
+        }
+      ],
+      "section": [
+        "Julianna Rose",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "iCarly"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Mind of Mencia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0468999",
+            "page": "http://www.imdb.com/find?q=tt0468999"
+          }
+        }
+      ],
+      "section": [
+        "Julianna Rose",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Mind of Mencia"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Pretty Little Liars",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1578873",
+            "page": "http://www.imdb.com/find?q=tt1578873"
+          }
+        }
+      ],
+      "section": [
+        "Julianna Rose",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Pretty Little Liars"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Khumba",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1487931",
+            "page": "http://www.imdb.com/find?q=tt1487931"
+          }
+        }
+      ],
+      "section": [
+        "Julianna Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Khumba (2013)"
+    },
+    {
+      "body": "${link_0} (2011)",
+      "links": [
+        {
+          "body": "Prom",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1604171",
+            "page": "http://www.imdb.com/find?q=tt1604171"
+          }
+        }
+      ],
+      "section": [
+        "Julianna Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Prom (2011)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Where the Wild Things Are",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0386117",
+            "page": "http://www.imdb.com/find?q=tt0386117"
+          }
+        }
+      ],
+      "section": [
+        "Julianna Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Where the Wild Things Are (2009)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "There Will Be Blood",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0469494",
+            "page": "http://www.imdb.com/find?q=tt0469494"
+          }
+        }
+      ],
+      "section": [
+        "Julianna Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "There Will Be Blood (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "The Last Mimzy",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0768212",
+            "page": "http://www.imdb.com/find?q=tt0768212"
+          }
+        }
+      ],
+      "section": [
+        "Julianna Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Last Mimzy (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Apocalypto",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0472043",
+            "page": "http://www.imdb.com/find?q=tt0472043"
+          }
+        }
+      ],
+      "section": [
+        "Julianna Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Apocalypto (2006)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Little Miss Sunshine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0449059",
+            "page": "http://www.imdb.com/find?q=tt0449059"
+          }
+        }
+      ],
+      "section": [
+        "Julianna Rose",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Little Miss Sunshine (2006)"
+    },
+    {
       "body": "Rose started in theater at the age of five, in a community production of the musical Annie, in which she played Molly, and later played Gretl in the Sound of Music at Poway Performing Arts. For the next three years, she played a \"Who\" in The Grinch Who Stole Christmas at the Old Globe under the direction of Jack O'Brien. After Grinch, she went on to three years at The American Girl Revue Theater in Los Angeles, playing the American Girl doll Molly. She also started doing voice-overs for film, TV, and radio.",
       "links": [],
+      "section": [
+        "Julianna Rose",
+        "Biographical information"
+      ],
       "text": "Rose started in theater at the age of five, in a community production of the musical Annie, in which she played Molly, and later played Gretl in the Sound of Music at Poway Performing Arts. For the next three years, she played a \"Who\" in The Grinch Who Stole Christmas at the Old Globe under the direction of Jack O'Brien. After Grinch, she went on to three years at The American Girl Revue Theater in Los Angeles, playing the American Girl doll Molly. She also started doing voice-overs for film, TV, and radio."
     },
     {
       "body": "Rose relocated to Los Angeles in 2011 and is studying and auditioning for on camera film and TV roles. She was seen in The Young and The Restless, iCarly, Pretty Little Liars, as well as a number of TV commercials. She is also a singer, with a love of pop and Broadway, a dancer, and a Dean's List student. Julianna has a sister, Jennessa Rose, who is also an actress.",
       "links": [],
+      "section": [
+        "Julianna Rose",
+        "Biographical information"
+      ],
       "text": "Rose relocated to Los Angeles in 2011 and is studying and auditioning for on camera film and TV roles. She was seen in The Young and The Restless, iCarly, Pretty Little Liars, as well as a number of TV commercials. She is also a singer, with a love of pop and Broadway, a dancer, and a Dean's List student. Julianna has a sister, Jennessa Rose, who is also an actress."
     }
   ],

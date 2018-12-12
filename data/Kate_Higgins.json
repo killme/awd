@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Here Is Greenwood (1991; English version)",
+          "body": "${link_0} (1991; English version)",
           "extra": "(1991; English version)",
           "extra_text": "(1991; English version)",
-          "links": [],
+          "links": [
+            {
+              "body": "Here Is Greenwood",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0102230",
+                "page": "http://www.imdb.com/find?q=tt0102230"
+              }
+            }
+          ],
           "text": "Here Is Greenwood (1991; English version)",
-          "value": "Here Is Greenwood",
+          "value": "${link_0}",
           "value_text": "Here Is Greenwood"
         }
       ]
@@ -69,48 +82,98 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm1512156",
+                "page": "http://www.imdb.com/find?q=nm1512156"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Kate_Higgins",
+                "page": "http://en.wikipedia.org/wiki/Kate_Higgins"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Facebook",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Facebook",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://www.facebook.com/TheKateHiggins",
+                "page": "https://www.facebook.com/TheKateHiggins"
+              }
+            }
+          ],
           "text": "Facebook",
-          "value": "Facebook",
+          "value": "${link_0}",
           "value_text": "Facebook"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.katehiggins.com/",
+                "page": "http://www.katehiggins.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/TheKateHiggins",
+                "page": "https://twitter.com/TheKateHiggins"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -118,18 +181,633 @@
   ],
   "paragraphs": [
     {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "The Legend of Korra credits",
+        "Toph Beifong"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "306. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Old Wounds",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Old_Wounds",
+            "page": "Old_Wounds"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "The Legend of Korra credits",
+        "Toph Beifong"
+      ],
+      "text": "306. \"Old Wounds\""
+    },
+    {
+      "body": "109. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Out of the Past",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Out_of_the_Past",
+            "page": "Out_of_the_Past"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "The Legend of Korra credits",
+        "Additional voice"
+      ],
+      "text": "109. \"Out of the Past\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Bleach",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0434665",
+            "page": "http://www.imdb.com/find?q=tt0434665"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Bleach"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Digimon Data Squad",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1138300",
+            "page": "http://www.imdb.com/find?q=tt1138300"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Digimon Data Squad"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Naruto",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0409591",
+            "page": "http://www.imdb.com/find?q=tt0409591"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Naruto"
+    },
+    {
+      "body": "${link_0} (Viz Media redub)",
+      "links": [
+        {
+          "body": "Sailor Moon",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0114327",
+            "page": "http://www.imdb.com/find?q=tt0114327"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sailor Moon (Viz Media redub)"
+    },
+    {
+      "body": "${link_0} (Viz Media dub)",
+      "links": [
+        {
+          "body": "Sailor Moon Crystal",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3124992",
+            "page": "http://www.imdb.com/find?q=tt3124992"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Sailor Moon Crystal (Viz Media dub)"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Scooby-Doo! Mystery Incorporated",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1660055",
+            "page": "http://www.imdb.com/find?q=tt1660055"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Scooby-Doo! Mystery Incorporated"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Stitch!",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1409066",
+            "page": "http://www.imdb.com/find?q=tt1409066"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Stitch!"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wolverine",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1847521",
+            "page": "http://www.imdb.com/find?q=tt1847521"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wolverine"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Wolverine and the X-Men",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0772145",
+            "page": "http://www.imdb.com/find?q=tt0772145"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Wolverine and the X-Men"
+    },
+    {
+      "body": "${link_0} (2015)",
+      "links": [
+        {
+          "body": "Digimon Adventure tri. Saikai",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt4307880",
+            "page": "http://www.imdb.com/find?q=tt4307880"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Digimon Adventure tri. Saikai (2015)"
+    },
+    {
+      "body": "${link_0} (2013)",
+      "links": [
+        {
+          "body": "Monster High: 13 Wishes",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt3159812",
+            "page": "http://www.imdb.com/find?q=tt3159812"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Monster High: 13 Wishes (2013)"
+    },
+    {
+      "body": "${link_0} (2009)",
+      "links": [
+        {
+          "body": "Green Valley",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1478385",
+            "page": "http://www.imdb.com/find?q=tt1478385"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Green Valley (2009)"
+    },
+    {
+      "body": "${link_0} (2008)",
+      "links": [
+        {
+          "body": "Gnomes and Trolls: The Secret Chamber",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1124374",
+            "page": "http://www.imdb.com/find?q=tt1124374"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Gnomes and Trolls: The Secret Chamber (2008)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Gekij\u014d ban Bleach: The DiamondDust Rebellion - M\u014d hitotsu no hy\u014drinmaru",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1148261",
+            "page": "http://www.imdb.com/find?q=tt1148261"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Gekij\u014d ban Bleach: The DiamondDust Rebellion - M\u014d hitotsu no hy\u014drinmaru (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Gekij\u014d-ban Naruto Shipp\u016bden",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0988982",
+            "page": "http://www.imdb.com/find?q=tt0988982"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Gekij\u014d-ban Naruto Shipp\u016bden (2007)"
+    },
+    {
+      "body": "${link_0} (2007)",
+      "links": [
+        {
+          "body": "Chapter 27",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0488988",
+            "page": "http://www.imdb.com/find?q=tt0488988"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Chapter 27 (2007)"
+    },
+    {
+      "body": "${link_0} (2006)",
+      "links": [
+        {
+          "body": "Bleach: Memories of Nobody",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1105263",
+            "page": "http://www.imdb.com/find?q=tt1105263"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Bleach: Memories of Nobody (2006)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Dead or Alive Dimensions",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1977764",
+            "page": "http://www.imdb.com/find?q=tt1977764"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Dead or Alive Dimensions (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIII",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0802988",
+            "page": "http://www.imdb.com/find?q=tt0802988"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIII (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Final Fantasy XIV",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1737166",
+            "page": "http://www.imdb.com/find?q=tt1737166"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Final Fantasy XIV (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Fire Emblem: Awakening",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://fireemblem.fandom.com/wiki/Fire_Emblem:_Awakening",
+            "page": "http://fireemblem.fandom.com/wiki/Fire_Emblem:_Awakening"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Fire Emblem: Awakening (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Kingdom Hearts 3D: Dream Drop Distance",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2125539",
+            "page": "http://www.imdb.com/find?q=tt2125539"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Kingdom Hearts 3D: Dream Drop Distance (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Marvel vs. Capcom 3: Fate of Two Worlds",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1764479",
+            "page": "http://www.imdb.com/find?q=tt1764479"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Marvel vs. Capcom 3: Fate of Two Worlds (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Naruto Shipp\u016bden: Ultimate Ninja Storm 2",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2238867",
+            "page": "http://www.imdb.com/find?q=tt2238867"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Naruto Shipp\u016bden: Ultimate Ninja Storm 2 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Ninja Gaiden 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt2122430",
+            "page": "http://www.imdb.com/find?q=tt2122430"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Ninja Gaiden 3 (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Resonance of Fate",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1708470",
+            "page": "http://www.imdb.com/find?q=tt1708470"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Resonance of Fate (video game)"
+    },
+    {
+      "body": "${link_0} (video game)",
+      "links": [
+        {
+          "body": "Sonic Generations",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt1935236",
+            "page": "http://www.imdb.com/find?q=tt1935236"
+          }
+        }
+      ],
+      "section": [
+        "Kate Higgins",
+        "Selected other credits",
+        "Other credits"
+      ],
+      "text": "Sonic Generations (video game)"
+    },
+    {
       "body": "Higgins has two sons: Beckett, who was born in 2009, and Foster, born in 2010. Her husband is Jess Lofland.",
       "links": [],
+      "section": [
+        "Kate Higgins",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Higgins has two sons: Beckett, who was born in 2009, and Foster, born in 2010. Her husband is Jess Lofland."
     },
     {
       "body": "Higgins earned a degree in music from Auburn University. She is a trained pianist who pursued her music career in jazz, working sideshows for musicians such as Katisse Buckingham, Justin Robinson, Roy Hargrove, and Steven Bernstein. She released her first album, called The Tide is Low, in 2002, and a second one, called Stealing Freedom some time later; in her albums, she expresses her own unique style of hard-bop. She is in a band called Upperstructure.",
       "links": [],
+      "section": [
+        "Kate Higgins",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Higgins earned a degree in music from Auburn University. She is a trained pianist who pursued her music career in jazz, working sideshows for musicians such as Katisse Buckingham, Justin Robinson, Roy Hargrove, and Steven Bernstein. She released her first album, called The Tide is Low, in 2002, and a second one, called Stealing Freedom some time later; in her albums, she expresses her own unique style of hard-bop. She is in a band called Upperstructure."
     },
     {
       "body": "She studied voice acting with Bob Richardson.",
       "links": [],
+      "section": [
+        "Kate Higgins",
+        "Biographical information",
+        "Career"
+      ],
       "text": "She studied voice acting with Bob Richardson."
     }
   ],

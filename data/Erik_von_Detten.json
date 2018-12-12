@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     },
     {
       "body": "Voice actors",
       "target": {
-        "href": "Category_Voice_actors",
+        "external": false,
+        "href": "/wiki/Category_Voice_actors",
         "page": "Category_Voice_actors"
       }
     }
@@ -55,12 +58,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "All I Want for Christmas (1991)",
+          "body": "${link_0} (1991)",
           "extra": "(1991)",
           "extra_text": "(1991)",
-          "links": [],
+          "links": [
+            {
+              "body": "All I Want for Christmas",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=tt0101301",
+                "page": "http://www.imdb.com/find?q=tt0101301"
+              }
+            }
+          ],
           "text": "All I Want for Christmas (1991)",
-          "value": "All I Want for Christmas",
+          "value": "${link_0}",
           "value_text": "All I Want for Christmas"
         }
       ]
@@ -69,30 +82,60 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "IMDb",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "IMDb",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.imdb.com/find?q=nm0902184",
+                "page": "http://www.imdb.com/find?q=nm0902184"
+              }
+            }
+          ],
           "text": "IMDb",
-          "value": "IMDb",
+          "value": "${link_0}",
           "value_text": "IMDb"
         },
         {
-          "body": "Wikipedia",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Wikipedia",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Erik_von_Detten",
+                "page": "http://en.wikipedia.org/wiki/Erik_von_Detten"
+              }
+            }
+          ],
           "text": "Wikipedia",
-          "value": "Wikipedia",
+          "value": "${link_0}",
           "value_text": "Wikipedia"
         },
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://erikvondettenfan.com/",
+                "page": "http://erikvondettenfan.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         }
       ]
@@ -100,13 +143,323 @@
   ],
   "paragraphs": [
     {
+      "body": "305. \"${link_0}\"",
+      "links": [
+        {
+          "body": "The Beach",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/The_Beach",
+            "page": "The_Beach"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Avatar: The Last Airbender credits",
+        "Chan"
+      ],
+      "text": "305. \"The Beach\""
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Complete Savages",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0411024",
+            "page": "http://www.imdb.com/find?q=tt0411024"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Complete Savages"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Days of Our Lives",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0058796",
+            "page": "http://www.imdb.com/find?q=tt0058796"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Days of Our Lives"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Dinotopia",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0310443",
+            "page": "http://www.imdb.com/find?q=tt0310443"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Dinotopia"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Odd Man Out",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0202745",
+            "page": "http://www.imdb.com/find?q=tt0202745"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Odd Man Out"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Recess",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0126170",
+            "page": "http://www.imdb.com/find?q=tt0126170"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "Recess"
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "So Weird",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0169247",
+            "page": "http://www.imdb.com/find?q=tt0169247"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Television work"
+      ],
+      "text": "So Weird"
+    },
+    {
+      "body": "${link_0} (2010)",
+      "links": [
+        {
+          "body": "Toy Story 3",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0435761",
+            "page": "http://www.imdb.com/find?q=tt0435761"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Toy Story 3 (2010)"
+    },
+    {
+      "body": "${link_0} (2005)",
+      "links": [
+        {
+          "body": "Smile",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0397103",
+            "page": "http://www.imdb.com/find?q=tt0397103"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Smile (2005)"
+    },
+    {
+      "body": "${link_0} (2003; video)",
+      "links": [
+        {
+          "body": "Recess: All Growed Down",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0382936",
+            "page": "http://www.imdb.com/find?q=tt0382936"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Recess: All Growed Down (2003; video)"
+    },
+    {
+      "body": "${link_0} (2002)",
+      "links": [
+        {
+          "body": "American Girl",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0329297",
+            "page": "http://www.imdb.com/find?q=tt0329297"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "American Girl (2002)"
+    },
+    {
+      "body": "${link_0} (2001)",
+      "links": [
+        {
+          "body": "The Princess Diaries",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0247638",
+            "page": "http://www.imdb.com/find?q=tt0247638"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "The Princess Diaries (2001)"
+    },
+    {
+      "body": "${link_0} (1999)",
+      "links": [
+        {
+          "body": "Tarzan",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0120855",
+            "page": "http://www.imdb.com/find?q=tt0120855"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Tarzan (1999)"
+    },
+    {
+      "body": "${link_0} (1997)",
+      "links": [
+        {
+          "body": "Leave It to Beaver",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0119509",
+            "page": "http://www.imdb.com/find?q=tt0119509"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Leave It to Beaver (1997)"
+    },
+    {
+      "body": "${link_0} (1995)",
+      "links": [
+        {
+          "body": "Toy Story",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.imdb.com/find?q=tt0114709",
+            "page": "http://www.imdb.com/find?q=tt0114709"
+          }
+        }
+      ],
+      "section": [
+        "Erik von Detten",
+        "Selected other credits",
+        "Filmography"
+      ],
+      "text": "Toy Story (1995)"
+    },
+    {
       "body": "Von Detten was born in San Diego, California. His mother, Susan von Detten (n\u00e9e Farber), is an American photographer, and his father, Volker von Detten, is an immigrant from Munich, Germany. He has three sisters, Dolly, Britta, and Andrea, and a brother, Timothy. As of 2003, he had a Dalmatian named Miles.",
       "links": [],
+      "section": [
+        "Erik von Detten",
+        "Biographical information",
+        "Personal life"
+      ],
       "text": "Von Detten was born in San Diego, California. His mother, Susan von Detten (n\u00e9e Farber), is an American photographer, and his father, Volker von Detten, is an immigrant from Munich, Germany. He has three sisters, Dolly, Britta, and Andrea, and a brother, Timothy. As of 2003, he had a Dalmatian named Miles."
     },
     {
       "body": "Von Detten landed his first major role in the soap opera Days Of Our Lives, appearing as Nicholas Alamain in twenty-eight episodes from 1992 to 1993. His next role came as the voice of Sid in the original Toy Story in 1995. Between 1999 and 2001, he performed in thirteen episodes of Odd Man Out, nine episodes of Recess, and twenty episodes of So Weird. His next major TV credit was as Chris Savage in Complete Savages for nineteen episodes in 2004 and 2005. He reprised his role as Sid in Toy Story 3 in 2010.",
       "links": [],
+      "section": [
+        "Erik von Detten",
+        "Biographical information",
+        "Career"
+      ],
       "text": "Von Detten landed his first major role in the soap opera Days Of Our Lives, appearing as Nicholas Alamain in twenty-eight episodes from 1992 to 1993. His next role came as the voice of Sid in the original Toy Story in 1995. Between 1999 and 2001, he performed in thirteen episodes of Odd Man Out, nine episodes of Recess, and twenty episodes of So Weird. His next major TV credit was as Chris Savage in Complete Savages for nineteen episodes in 2004 and 2005. He reprised his role as Sid in Toy Story 3 in 2010."
     }
   ],

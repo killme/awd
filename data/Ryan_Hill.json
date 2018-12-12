@@ -3,21 +3,24 @@
     {
       "body": "A to Z",
       "target": {
-        "href": "Category_A_to_Z",
+        "external": false,
+        "href": "/wiki/Category_A_to_Z",
         "page": "Category_A_to_Z"
       }
     },
     {
       "body": "Comic staff",
       "target": {
-        "href": "Category_Comic_staff",
+        "external": false,
+        "href": "/wiki/Category_Comic_staff",
         "page": "Category_Comic_staff"
       }
     },
     {
       "body": "Real world",
       "target": {
-        "href": "Category_Real_world",
+        "external": false,
+        "href": "/wiki/Category_Real_world",
         "page": "Category_Real_world"
       }
     }
@@ -41,12 +44,22 @@
       "key": "First credit",
       "value": [
         {
-          "body": "Usagi Yojimbo: Yokai",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Usagi Yojimbo: Yokai",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://en.wikipedia.org/wiki/Usagi_Yojimbo",
+                "page": "http://en.wikipedia.org/wiki/Usagi_Yojimbo"
+              }
+            }
+          ],
           "text": "Usagi Yojimbo: Yokai",
-          "value": "Usagi Yojimbo: Yokai",
+          "value": "${link_0}",
           "value_text": "Usagi Yojimbo: Yokai"
         }
       ]
@@ -55,21 +68,41 @@
       "key": "Link(s)",
       "value": [
         {
-          "body": "Official website",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Official website",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "http://www.secretclubhousestudio.com/",
+                "page": "http://www.secretclubhousestudio.com/"
+              }
+            }
+          ],
           "text": "Official website",
-          "value": "Official website",
+          "value": "${link_0}",
           "value_text": "Official website"
         },
         {
-          "body": "Twitter",
+          "body": "${link_0}",
           "extra": "",
           "extra_text": "",
-          "links": [],
+          "links": [
+            {
+              "body": "Twitter",
+              "key": "${link_0}",
+              "target": {
+                "external": true,
+                "href": "https://twitter.com/josephryanhill/media",
+                "page": "https://twitter.com/josephryanhill/media"
+              }
+            }
+          ],
           "text": "Twitter",
-          "value": "Twitter",
+          "value": "${link_0}",
           "value_text": "Twitter"
         }
       ]
@@ -77,9 +110,88 @@
   ],
   "paragraphs": [
     {
+      "body": "Iss. #33. \"${link_0}\"",
+      "links": [
+        {
+          "body": "Rebound",
+          "key": "${link_0}",
+          "target": {
+            "external": false,
+            "href": "/wiki/Rebound",
+            "page": "Rebound"
+          }
+        }
+      ],
+      "section": [
+        "Ryan Hill",
+        "Avatar: The Last Airbender works",
+        "Comic artist"
+      ],
+      "text": "Iss. #33. \"Rebound\""
+    },
+    {
+      "body": "Rick and Morty issues #1-5, 7-12, and 14-22 (colorist; cover)",
+      "links": [],
+      "section": [
+        "Ryan Hill",
+        "Selected other credits"
+      ],
+      "text": "Rick and Morty issues #1-5, 7-12, and 14-22 (colorist; cover)"
+    },
+    {
+      "body": "Judge Dread (colorist; cover)",
+      "links": [],
+      "section": [
+        "Ryan Hill",
+        "Selected other credits"
+      ],
+      "text": "Judge Dread (colorist; cover)"
+    },
+    {
+      "body": "The Fix (colorist; cover)",
+      "links": [],
+      "section": [
+        "Ryan Hill",
+        "Selected other credits"
+      ],
+      "text": "The Fix (colorist; cover)"
+    },
+    {
+      "body": "Stumptown issues 1, and 2-10 (colorist; cover)",
+      "links": [],
+      "section": [
+        "Ryan Hill",
+        "Selected other credits"
+      ],
+      "text": "Stumptown issues 1, and 2-10 (colorist; cover)"
+    },
+    {
       "body": "Ryan Hill has been working in comics for fifteen years; he has been a colorist at Dark Horse comics for ten years but also does drawing and design.",
       "links": [],
+      "section": [
+        "Ryan Hill",
+        "Biographical information"
+      ],
       "text": "Ryan Hill has been working in comics for fifteen years; he has been a colorist at Dark Horse comics for ten years but also does drawing and design."
+    },
+    {
+      "body": "${link_0}",
+      "links": [
+        {
+          "body": "Interview with Hill on his involvement in \"Rebound\"",
+          "key": "${link_0}",
+          "target": {
+            "external": true,
+            "href": "http://www.darkhorse.com/Blog/1381/interview-artist-ryan-hill-fcbd-avatar-last-airben",
+            "page": "http://www.darkhorse.com/Blog/1381/interview-artist-ryan-hill-fcbd-avatar-last-airben"
+          }
+        }
+      ],
+      "section": [
+        "Ryan Hill",
+        "External links"
+      ],
+      "text": "Interview with Hill on his involvement in \"Rebound\""
     }
   ],
   "source": {
